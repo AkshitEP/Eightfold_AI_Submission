@@ -1,0 +1,115 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Physical Therapy Aide",
+                "work_description": "Aided the PTA's and OTA's with their patient treatment and or program. Transported and or escorted patients to and from the therapy room. Assisted PTA's and OTA's with facility cleanliness and equipment maintenance.",
+                "company_level": "Unknown",
+                "start_date": "05/2017",
+                "end_date": "07/2017"
+            },
+            {
+                "role_name": "Fitness Instructor & Trainer/ Front Desk Staff/ Group X Manager",
+                "work_description": "Taught - Zumba, Zumba Toning, Zumba Gold and Zumba Kids. Launched 'Zumba Gold' program for senior citizens 55 and older at Facility. Offered one-on-one fitness consultations. Worked to recruit new members to facility and group X classes. Customer service, sales, answered phones and handled onsite daily task.",
+                "company_level": "Unknown",
+                "start_date": "09/2009",
+                "end_date": "07/2017"
+            },
+            {
+                "role_name": "Assistant Manager",
+                "work_description": "Maintained store staff by recruiting, selecting, orienting, and training employees. Achieved financial objectives by preparing an annual budget; scheduling expenditures; analyzing variances; initiating corrective actions. Identified current and future customer requirements by establishing a rapport with potential and actual customers to understand service requirements.",
+                "company_level": "Unknown",
+                "start_date": "05/2000",
+                "end_date": "05/2003"
+            },
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Greeted clients, performed client outreach, and maintained updated contact information. Streamlined incoming communications; answered and directed calls. Made travel arrangements and create itineraries. Managed calendars and schedules; booked and coordinated appointments.",
+                "company_level": "Unknown",
+                "start_date": "11/1994",
+                "end_date": "07/1996"
+            },
+            {
+                "role_name": "Senior Cashier",
+                "work_description": "Supervised the performance of 10-14 employees. Distributed cash between two to six registers. Counted all sales, recorded merchandise, and sales receipts. In charge of cash revenues and merchandise, including cash drops and merchandise logs.",
+                "company_level": "Unknown",
+                "start_date": "07/1993",
+                "end_date": "08/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Ashworth College",
+                "start_date": "01/2020",
+                "end_date": "12/2020",
+                "domain": "Allied Health",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Norwalk Community College",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "Allied Health",
+                "level": "Certificate"
+            },
+            {
+                "university": "Bronx Community College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Marketing Management",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience supervising employees in multiple roles, including Assistant Manager and Senior Cashier, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience providing customer service in various roles, including Fitness Instructor & Trainer and Administrative Assistant, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience managing calendars, schedules, and appointments in multiple roles, showing strong proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience communicating with clients, customers, and employees in various roles, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Has experience working with teams in multiple roles, including Fitness Instructor & Trainer and Assistant Manager, showing solid working proficiency in team management."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Has experience preparing annual budgets as an Assistant Manager, showing solid working proficiency in budgeting."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Has experience with sales in multiple roles, including Fitness Instructor & Trainer and Assistant Manager, showing solid working proficiency in sales."
+            },
+            {
+                "name": "Healthcare",
+                "level": 2,
+                "explanation": "Has education in Allied Health, but limited work experience in the field, indicating some practical experience."
+            },
+            {
+                "name": "Marketing",
+                "level": 2,
+                "explanation": "Has education in Marketing Management, but limited work experience in the field, indicating some practical experience."
+            }
+        ]
+    }
+}

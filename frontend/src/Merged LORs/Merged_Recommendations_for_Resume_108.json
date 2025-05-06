@@ -1,0 +1,74 @@
+{
+    "target_id": "108",
+    "recommendations": [
+        {
+            "recommender_id": "982",
+            "recommendation": {
+                "resume_file": "108.json",
+                "recommendation_file": "Recommendation_From_ID_982.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Fitness Instruction",
+                        "Health Promotion"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in health and fitness management, leadership, and community engagement."
+                }
+            }
+        },
+        {
+            "recommender_id": "172",
+            "recommendation": {
+                "resume_file": "108.json",
+                "recommendation_file": "Recommendation_From_ID_172.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Project Management",
+                        "Time Management",
+                        "Adaptability",
+                        "Teamwork",
+                        "Intelligence Analysis",
+                        "Fitness Instruction",
+                        "Health Promotion"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and fitness instruction abilities. The source of the recommendation appears to be familiar with the candidate's work and provides a credible endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "563",
+            "recommendation": {
+                "resume_file": "108.json",
+                "recommendation_file": "Recommendation_From_ID_563.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Adaptability",
+                        "Teamwork",
+                        "Fitness Instruction",
+                        "Health Promotion"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their fitness instruction, leadership, and communication skills. The source of the recommendation is a Senior Exercise Specialist and Sports and Recreation Coordinator, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Intern",
+                "work_description": "Collect, enter and analyze stock prices, predict the future trend of different stocks, write summary report, customer service, design the questionnaire and get the feedback.",
+                "company_level": "Unknown",
+                "start_date": "05/2014",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Intern",
+                "work_description": "Data collection and entering, write summary report, customer service, inventory control, arrangement the business trip.",
+                "company_level": "Unknown",
+                "start_date": "05/2013",
+                "end_date": "08/2013"
+            },
+            {
+                "role_name": "Intern",
+                "work_description": "Data collection and entering, write summary report, customer service, meeting preparation, introduce production to customers.",
+                "company_level": "Unknown",
+                "start_date": "11/2012",
+                "end_date": "03/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Missouri",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Statistics",
+                "level": "Master's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Statistics",
+                "description": "The relationship between the mathematical grade of the seventh grade and grades from primary school.",
+                "skills": [
+                    "Linear Model",
+                    "Data Analysis",
+                    "R Programming"
+                ]
+            },
+            {
+                "domain": "Statistics",
+                "description": "Bike rental prediction",
+                "skills": [
+                    "Regression Model",
+                    "Lasso",
+                    "R Programming"
+                ]
+            },
+            {
+                "domain": "Statistics",
+                "description": "Classify Song Release Period",
+                "skills": [
+                    "Multivariate Adaptive Regression Splines",
+                    "Classification Model",
+                    "R Programming"
+                ]
+            },
+            {
+                "domain": "Statistics",
+                "description": "Predict the lightening strikes in July based on the records from January to June.",
+                "skills": [
+                    "K-mean Clustering",
+                    "Hierarchical Clustering",
+                    "Neural Network",
+                    "R Programming"
+                ]
+            },
+            {
+                "domain": "Statistics",
+                "description": "Predict the daily stock price of Netflix Inc. Based on historical daily price records.",
+                "skills": [
+                    "GARCH Model",
+                    "ARIMA Model",
+                    "R Programming"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has extensive experience with data collection, entry, and analysis across multiple internships and projects, showing strong proficiency."
+            },
+            {
+                "name": "R Programming",
+                "level": 4,
+                "explanation": "Used R programming in multiple projects, including linear models, regression models, and neural networks, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Provided customer service in multiple internships, but the scope and complexity of the role are limited, suggesting some practical experience."
+            },
+            {
+                "name": "Inventory Control",
+                "level": 1,
+                "explanation": "Involved in inventory control in one internship, but the scope and complexity of the role are minimal, indicating basic familiarity."
+            },
+            {
+                "name": "Meeting Preparation",
+                "level": 1,
+                "explanation": "Involved in meeting preparation in one internship, but the scope and complexity of the role are minimal, indicating basic familiarity."
+            },
+            {
+                "name": "Linear Model",
+                "level": 3,
+                "explanation": "Used linear models in one project, showing a solid working proficiency."
+            },
+            {
+                "name": "Regression Model",
+                "level": 3,
+                "explanation": "Used regression models in one project, showing a solid working proficiency."
+            },
+            {
+                "name": "Lasso",
+                "level": 2,
+                "explanation": "Used Lasso in one project, but the scope and complexity of the role are limited, suggesting some practical experience."
+            },
+            {
+                "name": "Multivariate Adaptive Regression Splines",
+                "level": 2,
+                "explanation": "Used Multivariate Adaptive Regression Splines in one project, but the scope and complexity of the role are limited, suggesting some practical experience."
+            },
+            {
+                "name": "Classification Model",
+                "level": 2,
+                "explanation": "Used Classification Model in one project, but the scope and complexity of the role are limited, suggesting some practical experience."
+            },
+            {
+                "name": "K-mean Clustering",
+                "level": 2,
+                "explanation": "Used K-mean Clustering in one project, but the scope and complexity of the role are limited, suggesting some practical experience."
+            },
+            {
+                "name": "Hierarchical Clustering",
+                "level": 2,
+                "explanation": "Used Hierarchical Clustering in one project, but the scope and complexity of the role are limited, suggesting some practical experience."
+            },
+            {
+                "name": "Neural Network",
+                "level": 2,
+                "explanation": "Used Neural Network in one project, but the scope and complexity of the role are limited, suggesting some practical experience."
+            },
+            {
+                "name": "GARCH Model",
+                "level": 2,
+                "explanation": "Used GARCH Model in one project, but the scope and complexity of the role are limited, suggesting some practical experience."
+            },
+            {
+                "name": "ARIMA Model",
+                "level": 2,
+                "explanation": "Used ARIMA Model in one project, but the scope and complexity of the role are limited, suggesting some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Intern (Test Automation Engineer)",
+                "work_description": "Created nicely baked \u2018Test Automation Framework' to provide an execution environment for the automation test scripts. The framework allowed automated regression testing of \u2018WebTix', frontend/web interface that ExtremeTix's (Ticketing Solution Company) clients use to access web services.",
+                "company_level": "Mid-level",
+                "start_date": "05/2017",
+                "end_date": "08/2017"
+            },
+            {
+                "role_name": "Java Full Stack Developer",
+                "work_description": "Worked on varied aspects of application development including requirement analysis, design, implementation, and testing. Coded and debugged multi-tiered Java-based applications to provide enterprise and embedded solutions using Java and Spring framework APIs like MVC, AOP, DAO, JDBC, Transaction, Validation, Annotation, JSON, XML, Maven and JUnit Test.",
+                "company_level": "Mid-level",
+                "start_date": "05/2014",
+                "end_date": "06/2016"
+            },
+            {
+                "role_name": "Java Developer Intern",
+                "work_description": "Core Java programming with Multithreading Exception Handling, File Handling, IO, Generics, and Java Collections. Developed the entire MRP (Machine Readable Passport) Reading Module both backend and frontend by utilizing Java 1.7 and Java Swing.",
+                "company_level": "Startup",
+                "start_date": "03/2014",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Software Developer Intern",
+                "work_description": "Designed and developed applications using Scrum, an iterative and incremental Agile Software Development methodology. Performed back-end development using PHP (CodeIgniter MVC Framework).",
+                "company_level": "Startup",
+                "start_date": "01/2013",
+                "end_date": "10/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Lamar University",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "Computer Science",
+                "level": "Master's"
+            },
+            {
+                "university": "Tribhuvan University",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Electronics and Communication Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Robotics",
+            "Android controlled robot",
+            "Microcontroller Workshop",
+            "Circuit Synthesis Training Program"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Java",
+                "level": 5,
+                "explanation": "Extensive experience with Java, having worked on multiple projects and internships, including full-stack development, test automation, and backend development, indicating expert-level mastery."
+            },
+            {
+                "name": "Spring Framework",
+                "level": 4,
+                "explanation": "Significant experience with Spring framework APIs, including MVC, AOP, DAO, JDBC, Transaction, Validation, Annotation, JSON, XML, Maven, and JUnit Test, suggesting strong proficiency."
+            },
+            {
+                "name": "Test Automation",
+                "level": 4,
+                "explanation": "Developed a test automation framework, indicating strong proficiency in test automation."
+            },
+            {
+                "name": "Software Development",
+                "level": 5,
+                "explanation": "Extensive experience with software development, including requirement analysis, design, implementation, and testing, indicating expert-level mastery."
+            },
+            {
+                "name": "Agile Methodologies",
+                "level": 3,
+                "explanation": "Experience with Scrum, an iterative and incremental Agile Software Development methodology, showing a solid working proficiency."
+            },
+            {
+                "name": "PHP",
+                "level": 3,
+                "explanation": "Experience with PHP, including the CodeIgniter MVC Framework, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Robotics",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no direct experience or skills demonstrated in the provided data."
+            },
+            {
+                "name": "Android Development",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no direct experience or skills demonstrated in the provided data."
+            },
+            {
+                "name": "Microcontroller Programming",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no direct experience or skills demonstrated in the provided data."
+            }
+        ]
+    }
+}

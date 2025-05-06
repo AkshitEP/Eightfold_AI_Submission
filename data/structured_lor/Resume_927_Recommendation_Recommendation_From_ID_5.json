@@ -1,0 +1,19 @@
+{
+    "resume_id": 927,
+    "recommendation_file": "Recommendation_From_ID_5.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Team Management"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and customer service abilities. The recommendation highlights the candidate's exceptional leadership and customer service skills, which are consistent with their job history and skills listed on the resume."
+    }
+}

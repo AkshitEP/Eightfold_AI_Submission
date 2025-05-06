@@ -1,0 +1,64 @@
+{
+    "target_id": "358",
+    "recommendations": [
+        {
+            "recommender_id": "982",
+            "recommendation": {
+                "resume_file": "358.json",
+                "recommendation_file": "Recommendation_From_ID_982.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their service industry experience and customer-focused mentality. However, the recommendation is from a Recreation and Sports Coordinator, which may not be directly related to the candidate's job history or skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "956",
+            "recommendation": {
+                "resume_file": "358.json",
+                "recommendation_file": "Recommendation_From_ID_956.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, communication, and teamwork abilities. However, the source of the recommendation is unclear, and the connection to the mental health field seems unrelated to the candidate's experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "125",
+            "recommendation": {
+                "resume_file": "358.json",
+                "recommendation_file": "Recommendation_From_ID_125.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the vice president's credentials and relationship to the server are unclear. The recommendation also seems to be comparing the server to the vice president, which is unusual.",
+                    "verified_skills": [
+                        "Communication",
+                        "Customer Service",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the server's exceptional communication skills, solution-focused approach to customer service, and ability to work in fast-paced environments. However, the vice president's credentials and relationship to the server are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "target_id": "256",
+    "recommendations": [
+        {
+            "recommender_id": "606",
+            "recommendation": {
+                "resume_file": "256.json",
+                "recommendation_file": "Recommendation_From_ID_606.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions skills and experiences not explicitly mentioned in the resume, such as organizational management, customer service, and financial analysis. However, the language is formal and no statistically improbable claims are detected.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Accounts Payable",
+                        "General Ledger",
+                        "SAP Financials"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with some of the candidate's skills and experience, but also mentions unrelated skills and experiences. The recommendation highlights the candidate's expertise in SAP tools and financial planning, but also mentions areas not explicitly mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

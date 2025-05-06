@@ -1,0 +1,22 @@
+{
+    "resume_id": 976,
+    "recommendation_file": "Recommendation_From_ID_258.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of 'practically designing and implementing budgeting software solutions like Prophix' seems exaggerated, and the claim of managing grant allocations exceeding $15 million a year is not directly supported by the resume.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Accounting",
+            "Budgeting",
+            "Leadership",
+            "Supply Chain Management",
+            "Payroll Management",
+            "Internal Controls",
+            "Cost Accounting",
+            "Inventory Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities. However, some minor inconsistencies and exaggerated claims are present, which slightly reduces the credibility of the recommendation."
+    }
+}

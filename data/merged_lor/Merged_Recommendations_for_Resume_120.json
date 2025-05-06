@@ -1,0 +1,46 @@
+{
+    "target_id": "120",
+    "recommendations": [
+        {
+            "recommender_id": "444",
+            "recommendation": {
+                "resume_file": "120.json",
+                "recommendation_file": "Recommendation_From_ID_444.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Logistics Management",
+                        "Supply Chain Management",
+                        "Data Analysis",
+                        "Contract Negotiation",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistics and supply chain management expertise. The source of the recommendation is a peer who has worked alongside the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "787",
+            "recommendation": {
+                "resume_file": "120.json",
+                "recommendation_file": "Recommendation_From_ID_787.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is somewhat informal and lacks specific examples from the candidate's work history. However, the skills and experiences mentioned align well with the candidate's resume.",
+                    "verified_skills": [
+                        "Supply Chain Management",
+                        "Logistics Management",
+                        "Contract Negotiation",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills in supply chain management, logistics, and project management, which are well-supported by their work history. However, the language is somewhat informal, and the recommendation could benefit from more specific examples from the candidate's work experience."
+                }
+            }
+        }
+    ]
+}

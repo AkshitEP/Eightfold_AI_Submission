@@ -1,0 +1,12 @@
+{
+    "resume_file": "421.json",
+    "recommendation_file": "Recommendation_From_ID_112.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration, improper language, or contradictory data. The recommendation mentions the candidate's skills in culinary arts, which is not mentioned in the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experience, and seems to be exaggerated or fabricated."
+    }
+}

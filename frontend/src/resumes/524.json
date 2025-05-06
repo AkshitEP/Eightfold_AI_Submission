@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Applications Team Leader",
+                "work_description": "Manager of Business Intelligence, DBA, SharePoint, and Web departments; including strategic planning, overall systems architecture, and personnel. Work with a variety of vertical and horizontal reporting structures to communicate progress and status. Cultivate relationships with all levels within the organization to build strong partnerships. Review reporting, database, SharePoint, and web practices to ensure proper techniques utilized, handle all project management, and oversee departmental staff development, compensation, and hiring practices.",
+                "company_level": "Mid-level",
+                "start_date": "05/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Business Intelligence Manager",
+                "work_description": "Manager of reporting department; including strategic planning, and overall systems architecture. Worked with all levels of the organization to communicate project status, and created and maintained relationships with executives to adhere to company goals. Performed data analysis, management of reporting software systems and data warehouse environment, reviewed reporting practices to ensure proper techniques utilized, handled all project management, and oversaw departmental budget and staff development, compensation, and hiring practices.",
+                "company_level": "Mid-level",
+                "start_date": "12/2005",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Information Systems Software Administrator",
+                "work_description": "Managed and maintained all software packages for the entire organization including ERP, CRM, SQL databases, and reporting software. Lead efforts to analyze company needs and determine where software in use could best be configured to align with company needs. Worked with all levels of the company to maintain and administer both software and reporting needs. Managed Help Desk personnel.",
+                "company_level": "Mid-level",
+                "start_date": "11/1997",
+                "end_date": "10/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Western Governor's University",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Management",
+                "level": "BA"
+            },
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "General Studies",
+                "level": "General Studies"
+            },
+            {
+                "university": "Denmark High School",
+                "start_date": "01/1993",
+                "end_date": "12/1993",
+                "domain": "General Studies",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience handling all project management for multiple departments, including Business Intelligence, DBA, SharePoint, and Web, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has managed multiple departments, including Business Intelligence, DBA, SharePoint, and Web, and has overseen departmental staff development, compensation, and hiring practices, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has performed data analysis and managed reporting software systems and data warehouse environment, suggesting strong proficiency."
+            },
+            {
+                "name": "Database Management",
+                "level": 4,
+                "explanation": "Has managed and maintained SQL databases and has reviewed reporting practices to ensure proper techniques utilized, suggesting strong proficiency."
+            },
+            {
+                "name": "Software Administration",
+                "level": 4,
+                "explanation": "Has managed and maintained all software packages for the entire organization, including ERP, CRM, and reporting software, suggesting strong proficiency."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Has been involved in strategic planning for multiple departments, including Business Intelligence, DBA, SharePoint, and Web, suggesting strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has worked with a variety of vertical and horizontal reporting structures to communicate progress and status, and has cultivated relationships with all levels within the organization, suggesting strong proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has managed Help Desk personnel and has overseen departmental staff development, compensation, and hiring practices, suggesting strong proficiency."
+            },
+            {
+                "name": "SharePoint",
+                "level": 3,
+                "explanation": "Has managed SharePoint department, but the extent of expertise is not explicitly stated, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Web Development",
+                "level": 3,
+                "explanation": "Has managed Web department, but the extent of expertise is not explicitly stated, suggesting a solid working proficiency."
+            }
+        ]
+    }
+}

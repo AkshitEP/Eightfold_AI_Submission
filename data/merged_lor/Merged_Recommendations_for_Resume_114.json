@@ -1,0 +1,63 @@
+{
+    "target_id": "114",
+    "recommendations": [
+        {
+            "recommender_id": "545",
+            "recommendation": {
+                "resume_file": "114.json",
+                "recommendation_file": "Recommendation_From_ID_545.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "IT Management",
+                        "Problem-Solving",
+                        "Communication",
+                        "Vendor Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and IT management abilities. The recommender's role as an Adjunct Information Technology Instructor suggests a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "854",
+            "recommendation": {
+                "resume_file": "114.json",
+                "recommendation_file": "Recommendation_From_ID_854.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "IT Management",
+                        "Project Management",
+                        "Vendor Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership capabilities, strategic thinking, and technology expertise. The recommender's role as Vice President of Information Technology adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "731",
+            "recommendation": {
+                "resume_file": "114.json",
+                "recommendation_file": "Recommendation_From_ID_731.txt",
+                "output": {
+                    "relevance_score": 1,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation is for a Customer Service Advocate, while the resume is for an IT professional. Statistically improbable claims and contradictory data are present.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be for a different individual, with no connection to the candidate's skills and experience in IT. This raises significant concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

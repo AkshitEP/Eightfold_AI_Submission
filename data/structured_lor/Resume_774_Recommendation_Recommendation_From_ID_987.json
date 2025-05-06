@@ -1,0 +1,18 @@
+{
+    "resume_file": "774.json",
+    "recommendation_file": "Recommendation_From_ID_987.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Director of Clinical Research Operations seems inconsistent with the candidate's job history. No statistically improbable claims detected, but the language is somewhat formal and lacks specific examples from the candidate's job history.",
+        "verified_skills": [
+            "Data Management",
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's administrative skills, but the recommender's role and the candidate's job history do not align perfectly. The recommendation provides some specific examples of the candidate's skills, but it lacks concrete evidence from the candidate's job history."
+    }
+}

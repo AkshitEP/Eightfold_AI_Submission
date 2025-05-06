@@ -1,0 +1,16 @@
+{
+    "resume_file": "434.json",
+    "recommendation_file": "Recommendation_From_ID_760.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written by someone from a different field (aviation) and lacks specific examples from the IT specialist's work experience. Some claims seem exaggerated or unsupported.",
+        "verified_skills": [
+            "Leadership",
+            "Troubleshooting",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the IT specialist's leadership, technical, and problem-solving skills, but lacks specific examples from their work experience. The source of the recommendation is unclear, and some claims seem exaggerated or unsupported."
+    }
+}

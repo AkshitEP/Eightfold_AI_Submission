@@ -1,0 +1,17 @@
+{
+    "resume_file": "355.json",
+    "recommendation_file": "Recommendation_From_ID_958.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation comes from an unexpected source, a marine biologist, which may raise some concerns about the relevance of their opinion. However, the recommendation still highlights the instructor's skills and qualities that are relevant to their profession.",
+        "verified_skills": [
+            "Group Fitness Instruction",
+            "Yoga Instruction",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the instructor's ability to inspire confidence and camaraderie among class members, as well as their creativity and leadership. However, the source of the recommendation is not directly related to the instructor's profession, which may affect its credibility."
+    }
+}

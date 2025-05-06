@@ -1,0 +1,20 @@
+{
+    "resume_file": "991.json",
+    "recommendation_file": "Recommendation_From_ID_440.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Management",
+            "Accounting",
+            "Leadership",
+            "Financial Analysis",
+            "Risk Management",
+            "Payroll Management",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and analytical skills. The recommendation highlights the candidate's ability to manage financial operations, lead teams, and maintain compliance with regulations."
+    }
+}

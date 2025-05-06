@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Highly accomplished Healthcare Analyst",
+                "work_description": "Providing operational and financial consulting services, employed through the acquisition of Siemens Health Services by Cerner in 2014 and the acquisition of Shared Medical Services by Siemens in 2000. Primary client liaison assessing business needs from stakeholders at every level, including executives within the client organization, explaining available standard services and/or suggesting methods for customization of solutions to enhance production objectives and bring in departmental revenue.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1997",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Associate Systems Analyst",
+                "work_description": "Part of a team responsible for delivering over 100,000 files monthly pertaining to reporting and auditing and through the development of a business plan that later migrated the delivery system to the internet saving the client considerable costs. Organized transactions over a six-month period to install financial systems at Pennsylvania Hospital and Temple University Hospital.",
+                "company_level": "Mid-level",
+                "start_date": "01/1993",
+                "end_date": "01/1996"
+            },
+            {
+                "role_name": "Consultant/Analyst",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/1983",
+                "end_date": "Current"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Computer Information Systems",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "level": 5,
+                "explanation": "Over 25 years of experience in data analysis, including providing operational and financial consulting services, and developing business plans, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Consulting",
+                "level": 5,
+                "explanation": "Extensive experience in providing financial consulting services, including assessing business needs and suggesting methods for customization of solutions, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully delivered over 100,000 files monthly and migrated the delivery system to the internet, saving the client considerable costs, suggesting strong proficiency in project management."
+            },
+            {
+                "name": "Business Planning",
+                "level": 4,
+                "explanation": "Developed a business plan that later migrated the delivery system to the internet, saving the client considerable costs, suggesting strong proficiency in business planning."
+            },
+            {
+                "name": "Financial Systems Implementation",
+                "level": 4,
+                "explanation": "Installed financial systems at Pennsylvania Hospital and Temple University Hospital, suggesting strong proficiency in financial systems implementation."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Primary client liaison assessing business needs from stakeholders at every level, including executives within the client organization, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Explained available standard services and/or suggested methods for customization of solutions to enhance production objectives and bring in departmental revenue, indicating a solid level of proficiency in communication."
+            }
+        ]
+    }
+}

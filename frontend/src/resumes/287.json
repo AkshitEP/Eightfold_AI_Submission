@@ -1,0 +1,164 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Executive Director",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Head-Royce School Instructor",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/1974",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Chairman",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Director Summer",
+                "work_description": "The program targets disadvantaged middle school students who have been identified by their teachers and principals as bright and motivated. They are given academic, arts, and technology training on a full scholarship basis during a six-week summer session. They are mentored monthly over the course of the year.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "01/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of California Berkeley",
+                "start_date": "01/1969",
+                "end_date": "12/1969",
+                "domain": "Communications and Public Policy",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of California Berkeley-Fine Arts",
+                "start_date": "01/1970",
+                "end_date": "12/1970",
+                "domain": "Fine Arts",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "San Francisco Art Institute",
+                "start_date": "01/1972",
+                "end_date": "12/1972",
+                "domain": "",
+                "level": "Master's"
+            },
+            {
+                "university": "UC Berkeley-Secondary Teaching Credential program",
+                "start_date": "01/1973",
+                "end_date": "12/1973",
+                "domain": "",
+                "level": "Teaching Credential"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Arts",
+                "description": "Coordinated project with East Bay Community Fund, Rebuilding Together Oakland, Temple Sinai, Pulte Construction, and Head-Royce School for the 2006-2008 renovation project of EOBA/Smart Moves community center.",
+                "skills": [
+                    "Project Management",
+                    "Community Development"
+                ]
+            },
+            {
+                "domain": "Arts",
+                "description": "Supervised production of promotional video, fund raising, worked with Destiny faculty as part of the Head-Royce Art and Technology Institute Summer.",
+                "skills": [
+                    "Video Production",
+                    "Fundraising"
+                ]
+            },
+            {
+                "domain": "Community Development",
+                "description": "Involved in fundraising and installation of water and electrical systems at the Amai A Chifundo Orphanage in Blantyre, Malawi. Also provided funds and equipment for youth soccer organizations nationally in Malawi.",
+                "skills": [
+                    "Fundraising",
+                    "Project Management"
+                ]
+            },
+            {
+                "domain": "Community Development",
+                "description": "House captain, volunteer coordinator, project organizer, fundraiser for Rebuilding Together Oakland (Formerly Christmas in April).",
+                "skills": [
+                    "Project Management",
+                    "Volunteer Coordination"
+                ]
+            },
+            {
+                "domain": "Arts",
+                "description": "Organized panel of East Bay Arts organizations to talk about youth access in the arts for Arts Equity-East Bay Youth Access to the Arts.",
+                "skills": [
+                    "Event Planning",
+                    "Community Development"
+                ]
+            },
+            {
+                "domain": "Video Production",
+                "description": "Video productions working with high school students for community non-profits. The films are used as an informational tool, and a marketing/funding aid.",
+                "skills": [
+                    "Video Production",
+                    "Community Development"
+                ]
+            }
+        ],
+        "interests": [
+            "Arts",
+            "Community Development",
+            "Education",
+            "Volunteer Work"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has extensive experience in managing projects, including coordinating with multiple organizations and supervising production of promotional videos, indicating strong proficiency."
+            },
+            {
+                "name": "Community Development",
+                "level": 4,
+                "explanation": "Has been involved in various community development projects, including fundraising, installation of water and electrical systems, and organizing events, showing strong proficiency."
+            },
+            {
+                "name": "Fundraising",
+                "level": 3,
+                "explanation": "Has experience in fundraising for various projects and organizations, including the Amai A Chifundo Orphanage and Rebuilding Together Oakland, indicating solid working proficiency."
+            },
+            {
+                "name": "Video Production",
+                "level": 3,
+                "explanation": "Has experience in video production, including working with high school students and creating informational and marketing materials, showing solid working proficiency."
+            },
+            {
+                "name": "Event Planning",
+                "level": 2,
+                "explanation": "Has experience in organizing events, including panels and fundraisers, but the scope and frequency of these events are not well-defined, indicating some practical experience."
+            },
+            {
+                "name": "Volunteer Coordination",
+                "level": 2,
+                "explanation": "Has experience in coordinating volunteers for Rebuilding Together Oakland, but the extent of this experience is not well-defined, indicating some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has held various leadership roles, including Executive Director, Chairman, and Director, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Teaching",
+                "level": 3,
+                "explanation": "Has experience as an instructor at Head-Royce School, indicating solid working proficiency in teaching."
+            }
+        ]
+    }
+}

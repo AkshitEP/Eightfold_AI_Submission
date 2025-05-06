@@ -1,0 +1,52 @@
+{
+    "target_id": "343",
+    "recommendations": [
+        {
+            "recommender_id": "935",
+            "recommendation": {
+                "resume_file": "343.json",
+                "recommendation_file": "Recommendation_From_ID_935.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Performance Management",
+                        "Employee Engagement",
+                        "Talent Management",
+                        "Reward and Recognition",
+                        "Payroll Management",
+                        "Employee Benefits",
+                        "Training and Development",
+                        "Compliance Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments in HR management. The source of the recommendation is a Senior HR Manager, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "907",
+            "recommendation": {
+                "resume_file": "343.json",
+                "recommendation_file": "Recommendation_From_ID_907.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Exaggerated claims and inconsistent information with the provided resume.",
+                    "verified_skills": [
+                        "Performance Management",
+                        "Employee Engagement",
+                        "Talent Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be more focused on the Advocate General rather than the HR Consultant, and makes claims that seem unrealistic given the candidate's domain and experience level."
+                }
+            }
+        }
+    ]
+}

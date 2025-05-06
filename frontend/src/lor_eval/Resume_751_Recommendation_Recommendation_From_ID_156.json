@@ -1,0 +1,16 @@
+{
+    "resume_file": "751.json",
+    "recommendation_file": "Recommendation_From_ID_156.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Aid Analysis",
+            "Customer Service",
+            "Compliance and Reconciliation"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial aid analysis, customer service, and compliance skills."
+    }
+}

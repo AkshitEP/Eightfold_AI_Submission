@@ -1,0 +1,74 @@
+{
+    "target_id": "379",
+    "recommendations": [
+        {
+            "recommender_id": "838",
+            "recommendation": {
+                "resume_file": "379.json",
+                "recommendation_file": "Recommendation_From_ID_838.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Entry",
+                        "Cash Handling",
+                        "Time Management",
+                        "Communication",
+                        "Organizational Skills",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Finance Assistant and Customer Service Representative. The recommendation highlights the candidate's attention to detail, organizational skills, and ability to manage customer interactions efficiently."
+                }
+            }
+        },
+        {
+            "recommender_id": "258",
+            "recommendation": {
+                "resume_file": "379.json",
+                "recommendation_file": "Recommendation_From_ID_258.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Entry",
+                        "Cash Handling",
+                        "Time Management",
+                        "Communication",
+                        "Organizational Skills",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the finance department and highlighting their attention to detail, organizational skills, and customer-centric approach."
+                }
+            }
+        },
+        {
+            "recommender_id": "557",
+            "recommendation": {
+                "resume_file": "379.json",
+                "recommendation_file": "Recommendation_From_ID_557.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Entry",
+                        "Cash Handling",
+                        "Time Management",
+                        "Communication",
+                        "Organizational Skills",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in finance and customer service roles. The recommender highlights the candidate's attention to detail, organizational skills, and ability to build strong relationships, which are all relevant to the candidate's skills and experience."
+                }
+            }
+        }
+    ]
+}

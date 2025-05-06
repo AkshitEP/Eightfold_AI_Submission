@@ -1,0 +1,116 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Information Technology",
+                "work_description": "Provided application and network support services for the MSBA. Maintained a rackspace hosted asp.net solution tied to SQL Server. Refreshed hardware and software, and brought the development group up to sql server, tfs, and VS 2012. Rewrote utility and security library from VB.NET to C#. Developed an architecture based on object modeling for a middle tier. Served as project manager for all current projects and provided business analysis to work out business workflows for the team. Recommended Tableau as the authority's visualization business intelligence tool.",
+                "company_level": "Mid-level",
+                "start_date": "11/2012",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Team Leader",
+                "work_description": "Lead clinical and research programming development and application support for applications developed by the group for the Cardiovascular Program. Project managed the effort to replace a number of legacy systems with modern C# applications. Maintained professional and clinical billing for the cardiology department. Developed and maintained research applications for the cardiology's research department. Served as the logical Oracle DBA who puts objects into production and maintained the central job scheduler.",
+                "company_level": "Mid-level",
+                "start_date": "05/2005",
+                "end_date": "11/2012"
+            },
+            {
+                "role_name": "Chief Information Officer",
+                "work_description": "Provided network, application and help desk support for the largest agency in the Commonwealth of Massachusetts, The Department of Mental Retardation. Upgraded to Zen 5.0 of Novell and remotely managed desktops. Developed client server model applications and the electronic service delivery model which was hosted in the facility with ITD's assistance.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2000",
+                "end_date": "02/2005"
+            },
+            {
+                "role_name": "Director of Applications Development",
+                "work_description": "Provided application development and support services to the Department of Youth Services. Led the Year 2000 project to convert the Natural/Adabas mainframe system to a ASP web based application YSIS. Served as a banyan administrator to the Network Administrator.",
+                "company_level": "Mid-level",
+                "start_date": "02/1996",
+                "end_date": "06/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Suffolk University - Sawyer School of Management",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Management Information Systems, General",
+                "level": "Master's"
+            },
+            {
+                "university": "Unknown",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Economics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Served as project manager for multiple projects across different roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Application Development",
+                "level": 5,
+                "explanation": "Provided application development and support services across multiple roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Support",
+                "level": 4,
+                "explanation": "Provided network support services in multiple roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Database Administration",
+                "level": 4,
+                "explanation": "Served as Oracle DBA and maintained central job scheduler, suggesting strong proficiency."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 4,
+                "explanation": "Provided business analysis to work out business workflows for the team, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held multiple leadership roles, including Director of Information Technology, Team Leader, and Chief Information Officer, indicating expert-level mastery."
+            },
+            {
+                "name": "ASP.NET",
+                "level": 4,
+                "explanation": "Maintained a rackspace hosted asp.net solution tied to SQL Server, suggesting strong proficiency."
+            },
+            {
+                "name": "SQL Server",
+                "level": 4,
+                "explanation": "Maintained a rackspace hosted asp.net solution tied to SQL Server and brought the development group up to sql server, suggesting strong proficiency."
+            },
+            {
+                "name": "C#",
+                "level": 4,
+                "explanation": "Developed multiple C# applications, suggesting strong proficiency."
+            },
+            {
+                "name": "TFS",
+                "level": 3,
+                "explanation": "Brought the development group up to tfs, suggesting solid working proficiency."
+            },
+            {
+                "name": "VS 2012",
+                "level": 3,
+                "explanation": "Brought the development group up to VS 2012, suggesting solid working proficiency."
+            },
+            {
+                "name": "Tableau",
+                "level": 2,
+                "explanation": "Recommended Tableau as the authority's visualization business intelligence tool, suggesting some practical experience."
+            }
+        ]
+    }
+}

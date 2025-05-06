@@ -1,0 +1,18 @@
+{
+    "resume_file": "257.json",
+    "recommendation_file": "Recommendation_From_ID_517.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies or exaggerated claims present, such as the candidate's experience as a manager in retail banking.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Data Analysis",
+            "Risk Management",
+            "Project Management",
+            "Research"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies or exaggerated claims are present."
+    }
+}

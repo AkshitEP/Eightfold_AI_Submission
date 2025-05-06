@@ -1,0 +1,23 @@
+{
+    "resume_file": "586.json",
+    "recommendation_file": "Recommendation_From_ID_202.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Business Analysis",
+            "Software Development Life Cycle (SDLC)",
+            "Application Implementation",
+            "Requirements Gathering",
+            "J2EE",
+            "Web Development",
+            "Sales Force Automation",
+            "Customer Relationship Management",
+            "Workflow Applications"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and project management abilities. The recommender's background in software testing complements the candidate's experience, making their endorsement credible."
+    }
+}

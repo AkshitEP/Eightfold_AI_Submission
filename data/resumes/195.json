@@ -1,0 +1,124 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Service and maintain numerous makes, models and types of equipment, including client servers, workstations, laptops and peripherals. Install and maintain CCTV-DVR Camera systems, Servers, network racks/patch panels, VoIP, BDR data recovery systems of which I am familiar with StorageCraft, Datto, VEEAM and Intronis, and business class cloud backup solutions.",
+                "company_level": "Mid-level",
+                "start_date": "02/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "IT Systems Administrator",
+                "work_description": "Responsible for all maintenance on 55 Windows variant based workstations, Dell Precision server, IBM xSeries Blade server, the telephony/VOIP/POTS systems, T1/network troubleshooting in a multi-building environment as well as providing end user assistance and training to sales, service and management teams.",
+                "company_level": "Mid-level",
+                "start_date": "09/2008",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Field Service Technician II",
+                "work_description": "Perform field service work on IBM servers, IBM/Lenovo desktops and IBM Point-of-Sale POS) equipment as well as repair Lexmark monochrome and color laser printers.",
+                "company_level": "Mid-level",
+                "start_date": "12/2009",
+                "end_date": "10/2011"
+            },
+            {
+                "role_name": "Kodak Imaging Expert / Field Marketing Specialist",
+                "work_description": "I was responsible to engage and train sales associates and customers in large retail stores by organizing training events, presentations and role playing demonstrations.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2006",
+                "end_date": "12/2009"
+            },
+            {
+                "role_name": "Merchandising / Marketing Specialist",
+                "work_description": "Worked for several divisions of ActionLink concurrently: Merchandising, Marketing and Training.",
+                "company_level": "Mid-level",
+                "start_date": "10/2005",
+                "end_date": "12/2007"
+            },
+            {
+                "role_name": "Digital Imaging Specialist",
+                "work_description": "Retail sales of digital, 35mm, and DSLR cameras and accessories.",
+                "company_level": "Mid-level",
+                "start_date": "08/2005",
+                "end_date": "03/2006"
+            },
+            {
+                "role_name": "Business Machines Sales Associate",
+                "work_description": "Retail sales of computers, office supplies, electronics and related peripherals.",
+                "company_level": "Mid-level",
+                "start_date": "09/2002",
+                "end_date": "07/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Ashworth College",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Energy Management and Systems Technology/Technician",
+                "level": "Certificate"
+            },
+            {
+                "university": "Ashworth College",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Computer Information Management",
+                "level": "Certificate"
+            },
+            {
+                "university": "SUNY Orange",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Business Administration, Management and Operations",
+                "level": "Associate of Arts and Sciences"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "IT Systems Administration",
+                "level": 5,
+                "explanation": "Over a decade of experience in IT systems administration, including maintenance of servers, workstations, and network equipment, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Extensive experience with network troubleshooting, VOIP systems, and patch panels, suggesting strong proficiency."
+            },
+            {
+                "name": "Computer Hardware Maintenance",
+                "level": 4,
+                "explanation": "Consistently serviced and maintained various types of computer hardware, including servers, workstations, and peripherals, indicating strong proficiency."
+            },
+            {
+                "name": "Cloud Backup Solutions",
+                "level": 3,
+                "explanation": "Familiarity with business-class cloud backup solutions, including StorageCraft, Datto, VEEAM, and Intronis, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Recovery",
+                "level": 3,
+                "explanation": "Experience with BDR data recovery systems, indicating a solid working proficiency."
+            },
+            {
+                "name": "Training and End-User Support",
+                "level": 3,
+                "explanation": "Provided end-user assistance and training to sales, service, and management teams, showing a solid working proficiency."
+            },
+            {
+                "name": "Sales and Marketing",
+                "level": 2,
+                "explanation": "Some experience in sales and marketing, including retail sales and merchandising, but not extensive enough to demonstrate strong proficiency."
+            },
+            {
+                "name": "Energy Management",
+                "level": 1,
+                "explanation": "Basic familiarity with energy management, as indicated by a certificate in Energy Management and Systems Technology, but no extensive experience."
+            }
+        ]
+    }
+}

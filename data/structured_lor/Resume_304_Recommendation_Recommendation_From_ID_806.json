@@ -1,0 +1,21 @@
+{
+    "resume_file": "304.json",
+    "recommendation_file": "Recommendation_From_ID_806.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Financial Reporting",
+            "Budgeting",
+            "Leadership",
+            "Financial Analysis",
+            "Accounting Systems",
+            "Policy Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities. The source of the recommendation is a peer, a Performing Arts Director/Project Manager, who has worked alongside the candidate."
+    }
+}

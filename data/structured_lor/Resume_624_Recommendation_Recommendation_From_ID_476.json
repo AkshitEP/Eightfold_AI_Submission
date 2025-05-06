@@ -1,0 +1,16 @@
+{
+    "resume_file": "624.json",
+    "recommendation_file": "Recommendation_From_ID_476.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's job history, but overall the language is formal and the claims seem credible.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Teamwork"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's customer service and relationship-building skills, which are relevant to their job history and skills. However, the recommendation could benefit from more specific examples and details to support the claims."
+    }
+}

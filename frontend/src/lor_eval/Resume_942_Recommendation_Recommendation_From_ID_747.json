@@ -1,0 +1,19 @@
+{
+    "resume_file": "942.json",
+    "recommendation_file": "Recommendation_From_ID_747.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Program Development",
+            "Team Management",
+            "Financial Management",
+            "Child Care Management",
+            "Staff Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership qualities, strategic thinking, and ability to drive business growth. The recommendation also highlights the candidate's versatility in working in both the education sector and managed care environments."
+    }
+}

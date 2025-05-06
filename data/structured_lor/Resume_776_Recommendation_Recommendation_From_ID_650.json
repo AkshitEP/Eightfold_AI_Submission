@@ -1,0 +1,19 @@
+{
+    "resume_file": "776.json",
+    "recommendation_file": "Recommendation_From_ID_650.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be written for two different individuals, which raises some concerns.",
+        "verified_skills": [
+            "Payroll Management",
+            "General Accounting",
+            "Financial Reconciliation",
+            "Accounts Receivable Management",
+            "Financial Reporting",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise. However, the recommendation seems to be written for two different individuals, which raises some concerns about its authenticity."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "593.json",
+    "recommendation_file": "Recommendation_From_ID_313.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims present, but no significant red flags detected.",
+        "verified_skills": [
+            "Leadership",
+            "Event Planning",
+            "Human Resources Management",
+            "Communication",
+            "Team leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies and exaggerated claims are present."
+    }
+}

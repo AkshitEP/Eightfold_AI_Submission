@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Lead Aerospace Assembler",
+                "work_description": "Trained and led a team of six assemblers to quickly and efficiently build landing gear beams. Ensured all equipment was properly installed and working correctly. Planned work and determined appropriate tools and equipment needed for the workday. Processed work orders and prioritized jobs. Communicated with prior shift to assess work needs for the day.",
+                "company_level": "Mid-level",
+                "start_date": "06/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Aviation Electronics Technician",
+                "work_description": "Adjust, repair, or replace malfunctioning components on assemblies or circuit boards by using hand tools or soldering irons. Test and troubleshoot instruments, components and assemblies, using multimeters. Connect components to assemblies such as transformers, relays, switches, in-flight refueling systems, etc. Read and interpret maintenance manuals, technical publications, and engineering diagrams to determine the feasibility and method of repairing defective components. Keep records of maintenance and repair work. Coordinate work with engineers, technicians and other aircraft maintenance personnel. Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation.",
+                "company_level": "Mid-level",
+                "start_date": "09/2011",
+                "end_date": "10/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "College of the Canyons",
+                "start_date": "01/2018",
+                "end_date": "Summer 2018",
+                "domain": "Administration of Justice",
+                "level": "Certificate"
+            },
+            {
+                "university": "Naval Fleet Training Center",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Micro-miniature Electronics Repair",
+                "level": "Certificate"
+            },
+            {
+                "university": "Center for Surface Combat Systems",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Miniature Electronics Repair",
+                "level": "Certificate"
+            },
+            {
+                "university": "Naval Air Technical Training Center",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Aviation Electrician's Mate Strand",
+                "level": "Certificate"
+            },
+            {
+                "university": "Diamond Ranch High School",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Trained and led a team of six assemblers, showing strong proficiency in leadership and team management."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Planned work, determined tools and equipment needed, and prioritized jobs, indicating a solid working proficiency in project management."
+            },
+            {
+                "name": "Electronics Repair",
+                "level": 5,
+                "explanation": "Extensive experience in repairing and replacing malfunctioning components on assemblies or circuit boards, and testing and troubleshooting instruments and assemblies, indicating expert-level mastery."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Used multimeters to test and troubleshoot instruments, components, and assemblies, showing strong proficiency in troubleshooting."
+            },
+            {
+                "name": "Technical Documentation",
+                "level": 3,
+                "explanation": "Read and interpreted maintenance manuals, technical publications, and engineering diagrams, indicating a solid working proficiency in technical documentation."
+            },
+            {
+                "name": "Teamwork and Collaboration",
+                "level": 4,
+                "explanation": "Coordinated work with engineers, technicians, and other aircraft maintenance personnel, showing strong proficiency in teamwork and collaboration."
+            },
+            {
+                "name": "Quality Control",
+                "level": 3,
+                "explanation": "Inspected completed work to certify that maintenance meets standards, indicating a solid working proficiency in quality control."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Processed work orders and prioritized jobs, indicating a solid working proficiency in time management."
+            }
+        ]
+    }
+}

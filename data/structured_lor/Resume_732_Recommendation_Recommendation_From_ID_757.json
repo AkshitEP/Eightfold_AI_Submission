@@ -1,0 +1,14 @@
+{
+    "resume_file": "732.json",
+    "recommendation_file": "Recommendation_From_ID_757.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be describing a different person's experience and skills, with little to no connection to the candidate's actual job history and skills. The language is formal, but the content is suspicious.",
+        "verified_skills": [
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align well with the candidate's skills and experience. It appears to be describing a pest control technician's experience, which is unrelated to the candidate's background as a wheeled vehicle mechanic. The recommendation highlights skills and experiences that are not present in the candidate's resume."
+    }
+}

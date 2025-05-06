@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sale Consultant",
+                "work_description": "Answered all of the customers questions and addressed problems and complaints in person and through the phone. Helped customers select products that best fit their personal needs, and processed an average of 40 transactions each day in a timely manner. Maintained visually appealing and effective displays for the entire store. Educated customers on product and service offerings. Completed purchases with cash, credit and debit payment methods. Trained all new sales employees on effective techniques. Organized items in visually appealing manner. And did Inventory checks throughout the day to make sure everything in the store was there.",
+                "company_level": "Mid-level",
+                "start_date": "03/2015",
+                "end_date": "11/2015"
+            },
+            {
+                "role_name": "Cashier",
+                "work_description": "Assisted customers with their needs, handled money throughout the day and gave change back. Completed purchases with cash, credit and debit payment methods. Organized items in visually appealing manner.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Front clerk",
+                "work_description": "Accepted payment from customers and gave the correct amount of change as needed. Cleaned up spilled food, drinks and broken dishes, and removed empty bottles and trash. Took cake orders over the phone and maintained store cleanliness throughout the day. Stock baked good in the display cases.",
+                "company_level": "Small",
+                "start_date": "02/2014",
+                "end_date": "06/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northwood High School",
+                "start_date": "01/2010",
+                "end_date": "12/2014",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience handling customer inquiries, addressing problems and complaints, and educating customers on product and service offerings across multiple roles."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Helped customers select products that best fit their personal needs, and processed a high volume of transactions daily, showing a solid working proficiency in sales."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 4,
+                "explanation": "Handled money throughout the day, gave change back, and completed purchases with various payment methods, suggesting strong proficiency in cash handling."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 2,
+                "explanation": "Conducted inventory checks throughout the day, but the extent of this experience is limited compared to other skills."
+            },
+            {
+                "name": "Team Training",
+                "level": 2,
+                "explanation": "Trained new sales employees on effective techniques, but this experience is limited to a single instance."
+            },
+            {
+                "name": "Visual Merchandising",
+                "level": 3,
+                "explanation": "Maintained visually appealing and effective displays for the entire store, and organized items in a visually appealing manner, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Processed a high volume of transactions daily, and maintained store cleanliness throughout the day, indicating a solid working proficiency in time management."
+            }
+        ]
+    }
+}

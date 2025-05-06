@@ -1,0 +1,21 @@
+{
+    "resume_file": "235.json",
+    "recommendation_file": "Recommendation_From_ID_242.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Payroll Management",
+            "Benefits Administration",
+            "Recruitment and Hiring",
+            "Employee Relations",
+            "Compliance and Risk Management",
+            "Safety and Workers Compensation",
+            "Leadership and Management",
+            "Communication and Interpersonal Skills"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management capabilities and highlighting their strengths in employee relations, compliance, and leadership."
+    }
+}

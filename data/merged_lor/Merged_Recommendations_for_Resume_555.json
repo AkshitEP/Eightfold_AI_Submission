@@ -1,0 +1,85 @@
+{
+    "target_id": "555",
+    "recommendations": [
+        {
+            "recommender_id": "954",
+            "recommendation": {
+                "resume_file": "555.json",
+                "recommendation_file": "Recommendation_From_ID_954.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Compliance",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and healthcare management expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "978",
+            "recommendation": {
+                "resume_file": "555.json",
+                "recommendation_file": "Recommendation_From_ID_978.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Compliance",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and compliance expertise. The source of the recommendation is a colleague, indicating a peer-level endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "518",
+            "recommendation": {
+                "resume_file": "555.json",
+                "recommendation_file": "Recommendation_From_ID_518.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job roles and responsibilities mentioned in the recommendation and resume. However, the recommendation seems genuine and well-supported by the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional skills in multitasking, decision-making, and administrative coordination. However, it mentions a different job role (Admin Operating Room Administrative Coordinator) than the ones mentioned in the resume. The recommendation seems to be from a peer who has worked closely with the candidate, and it provides specific examples of the candidate's skills and accomplishments."
+                }
+            }
+        },
+        {
+            "recommender_id": "25",
+            "recommendation": {
+                "resume_file": "555.json",
+                "recommendation_file": "Recommendation_From_ID_25.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Case Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and case management abilities. The source of the recommendation is a Healthcare Consultant who collaborated with the candidate, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

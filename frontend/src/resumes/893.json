@@ -1,0 +1,65 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Conducted analysis to address issues, increased sales by 17% over a two-year period, provided onsite training, monitored multiple databases, and successfully led key projects. Handled cash receipts, wire transfers, and ACH, entered in accounting system, and distributed to accountants for cash applications. Prepared journal entries for foreign wire transfers and foreign cash receipts, generated cash receipt journal on daily and monthly basis, and maintained files with supporting documentation.",
+                "company_level": "Unknown",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "university": "National Education Center",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Accounting",
+                "level": "Associate Degree"
+            },
+            {
+                "university": "University of Kerala",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Accounting",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Conducted analysis to address issues, suggesting a strong proficiency in data analysis."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Successfully led key projects, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Handled multiple projects and databases, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Handled cash receipts, wire transfers, ACH, and journal entries, suggesting a strong proficiency in accounting."
+            },
+            {
+                "name": "Financial Management",
+                "level": 3,
+                "explanation": "Generated cash receipt journal on daily and monthly basis, and maintained files with supporting documentation, indicating a solid working proficiency in financial management."
+            },
+            {
+                "name": "Training and Development",
+                "level": 2,
+                "explanation": "Provided onsite training, suggesting some practical experience in training and development."
+            }
+        ]
+    }
+}

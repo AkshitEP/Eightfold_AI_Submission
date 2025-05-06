@@ -1,0 +1,20 @@
+{
+    "resume_file": "724.json",
+    "recommendation_file": "Recommendation_From_ID_81.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the recommender's experience is not directly related to the candidate's field.",
+        "verified_skills": [
+            "Leadership",
+            "Employee Management",
+            "Policy Development",
+            "Customer Service",
+            "HIPAA Compliance",
+            "Accounts Receivable Management",
+            "Billing and Insurance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in management, employee relations, and compliance, but the recommender's background is not directly related to the candidate's field. The recommendation is generally positive, but the source's credibility is uncertain."
+    }
+}

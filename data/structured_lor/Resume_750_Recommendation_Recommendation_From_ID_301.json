@@ -1,0 +1,18 @@
+{
+    "resume_file": "750.json",
+    "recommendation_file": "Recommendation_From_ID_301.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "IT Management",
+            "Project Management",
+            "Leadership",
+            "Network Administration",
+            "Vendor Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the IT manager's skills in project management, troubleshooting, and vendor contract negotiation, which aligns with their resume. However, the recommendation also mentions a staff accountant, which seems unrelated to the IT manager's role. The recommendation is generally formal and lacks informal language, but the mention of the staff accountant might indicate a slight deviation from the IT manager's actual role."
+    }
+}

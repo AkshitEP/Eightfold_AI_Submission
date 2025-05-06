@@ -1,0 +1,12 @@
+{
+    "resume_file": "853.json",
+    "recommendation_file": "Recommendation_From_ID_793.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation mentions skills and expertise not present in the resume, such as compliance investigations, understanding complex regulations, and knowledge of banking laws. The language used is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+        "verified_skills": [],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation does not align well with the candidate's skills and experience, as it mentions expertise in the legal and financial sectors, which is not present in the resume. The recommendation seems to be for a different person, as it mentions a role of Legal Specialist III, which is not mentioned in the resume."
+    }
+}

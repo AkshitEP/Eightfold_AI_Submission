@@ -1,0 +1,17 @@
+{
+    "resume_id": 44,
+    "recommendation_file": "Recommendation_From_ID_163.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. Some minor inconsistencies are present, such as the mention of the candidate's ability to 'revamp processes and streamline operations' which is not explicitly mentioned in the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Human Resources",
+            "Communication",
+            "Organization"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and human resource management abilities. However, the source of the recommendation is unclear and the language is overly flattering, which raises some minor concerns about the credibility of the recommendation."
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "target_id": "711",
+    "recommendations": [
+        {
+            "recommender_id": "616",
+            "recommendation": {
+                "resume_file": "711.json",
+                "recommendation_file": "Recommendation_From_ID_616.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including mention of unrelated experience and skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Safety Procedures",
+                        "Aircraft Maintenance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but some minor inconsistencies and lack of specific examples raise concerns about the recommender's familiarity with the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "569",
+            "recommendation": {
+                "resume_file": "711.json",
+                "recommendation_file": "Recommendation_From_ID_569.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written for two different individuals, and some claims seem exaggerated or unsupported. However, the language is formal, and no statistically improbable claims are detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Aircraft Maintenance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation partially aligns with the candidate's skills and experience, but it seems to be written for two different individuals. The recommendation highlights the candidate's leadership skills and experience in aircraft maintenance, but it lacks specific examples and details."
+                }
+            }
+        },
+        {
+            "recommender_id": "992",
+            "recommendation": {
+                "resume_file": "711.json",
+                "recommendation_file": "Recommendation_From_ID_992.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Safety Procedures",
+                        "Aircraft Maintenance",
+                        "Aircraft Painting",
+                        "Aircraft Coating"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, technical knowledge, and adherence to safety protocols."
+                }
+            }
+        }
+    ]
+}

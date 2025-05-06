@@ -1,0 +1,27 @@
+{
+    "resume_file": "182.json",
+    "recommendation_file": "Recommendation_From_ID_114.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Network Communications",
+            "Local Area Networks",
+            "Visual Information Systems",
+            "IT Infrastructure",
+            "Systems Integration",
+            "Facility Design",
+            "System Design",
+            "Engineering Installation",
+            "IT Engineering",
+            "Command and Control",
+            "Communications",
+            "Networks",
+            "Project Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and leadership skills. The recommender's role as a Senior Vice President of Information Technology adds credibility to the recommendation."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "31.json",
+    "recommendation_file": "Recommendation_From_ID_251.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies detected, but overall the recommendation seems genuine.",
+        "verified_skills": [
+            "API Design",
+            "Software Development",
+            "Leadership",
+            "Web Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies."
+    }
+}

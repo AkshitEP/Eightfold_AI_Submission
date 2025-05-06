@@ -1,0 +1,99 @@
+{
+    "target_id": "734",
+    "recommendations": [
+        {
+            "recommender_id": "86",
+            "recommendation": {
+                "resume_file": "734.json",
+                "recommendation_file": "Recommendation_From_ID_86.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Strategic Planning",
+                        "Financial Management",
+                        "Healthcare Operations",
+                        "Process Improvement",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and consulting expertise, leadership, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "508",
+            "recommendation": {
+                "resume_file": "734.json",
+                "recommendation_file": "Recommendation_From_ID_508.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone with a different background and experience than the candidate. The writer mentions their own experience as a Pharmaceutical Sales Representative and Women's Healthcare Specialist, which does not align with the candidate's experience. Additionally, the writer's tone and language seem overly promotional and lack specific examples from the candidate's work history.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Project Implementation",
+                        "Interpersonal Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in data analysis, cost reduction, and project implementation, but lacks specific examples from the candidate's work history. The writer's background and experience do not align with the candidate's, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "709",
+            "recommendation": {
+                "resume_file": "734.json",
+                "recommendation_file": "Recommendation_From_ID_709.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific details about the Director's role and the Associate's achievements. However, the language is formal and the claims seem largely credible.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Strategic Planning",
+                        "Financial Management",
+                        "Healthcare Operations",
+                        "Process Improvement",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the Associate's skills and experience in healthcare consulting, quality improvement, and management. It also emphasizes the synergy between the Associate's analytical skills and the Director's expertise in nursing and quality management. However, some minor inconsistencies and lack of specific details reduce the relevance score and increase the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "36",
+            "recommendation": {
+                "resume_file": "734.json",
+                "recommendation_file": "Recommendation_From_ID_36.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Strategic Planning",
+                        "Financial Management",
+                        "Healthcare Operations",
+                        "Process Improvement",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical expertise, communication skills, and commitment to healthcare excellence."
+                }
+            }
+        }
+    ]
+}

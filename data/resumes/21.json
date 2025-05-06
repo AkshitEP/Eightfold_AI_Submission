@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Generalist/Recruiter",
+                "work_description": "Strategize with management on all recruitment needs, build strong relationships with candidates and hiring managers, maintain accurate records, and provide mentoring and job coaching for employees.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Human Resource Administrator",
+                "work_description": "Managed recruitment applicant tracking system, new hire onboarding, and benefits administration. Provided training, mentoring, and coaching, and maintained relationships with staffing vendors.",
+                "company_level": "Mid-level",
+                "start_date": "01/2006",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Assistant Store Manager",
+                "work_description": "Managed employees, contributed to team effort, helped customers, and evaluated competition.",
+                "company_level": "Startup",
+                "start_date": "01/2005",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Fairleigh Dickinson University",
+                "start_date": "01/2013",
+                "end_date": "06/2013",
+                "domain": "Administrative Science",
+                "level": "Master's"
+            },
+            {
+                "university": "",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Economic",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Liberal Arts",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Strategized with management on recruitment needs and built strong relationships with candidates and hiring managers, indicating strong proficiency."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Provided mentoring and job coaching for employees, maintained relationships with staffing vendors, and managed new hire onboarding, showing strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Provided training, mentoring, and coaching to employees, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed employees as an Assistant Store Manager and contributed to team effort, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Maintained accurate records, provided mentoring and job coaching, and built strong relationships with candidates and hiring managers, indicating a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple responsibilities, including recruitment, new hire onboarding, and benefits administration, showing a solid working proficiency."
+            },
+            {
+                "name": "Employee Onboarding",
+                "level": 4,
+                "explanation": "Managed new hire onboarding, indicating strong proficiency."
+            },
+            {
+                "name": "Benefits Administration",
+                "level": 3,
+                "explanation": "Managed benefits administration, showing a solid working proficiency."
+            },
+            {
+                "name": "Applicant Tracking System",
+                "level": 3,
+                "explanation": "Managed recruitment applicant tracking system, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

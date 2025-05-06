@@ -1,0 +1,19 @@
+{
+    "resume_file": "856.json",
+    "recommendation_file": "Recommendation_From_ID_601.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. The language is formal, but the recommendation focuses more on the recommender's experience and less on the candidate's skills and qualifications.",
+        "verified_skills": [
+            "Human Resources",
+            "Conflict Resolution",
+            "Policy Development",
+            "Recruitment",
+            "Compensation and Benefits",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's diverse skill set in human resource management and their pursuit of an MBA, but it does not provide concrete examples from their work experience. The recommender's experience and qualifications are also mentioned, which seems unusual for a recommendation letter."
+    }
+}

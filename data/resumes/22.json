@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Domestic Violence Counselor Advocate",
+                "work_description": "Provided crisis intervention, trauma-informed care, preventative services, and support services to victims of domestic violence and their families. Conducted daily service logs, case notes, and referral outcome reports.",
+                "company_level": "Non-profit",
+                "start_date": "01/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Shelter Hotline Advocate",
+                "work_description": "Conducted crisis intervention over the phone and in person, provided onsite supervision of the shelter and its residents, and taught independent living skills to clients.",
+                "company_level": "Non-profit",
+                "start_date": "02/2013",
+                "end_date": "07/2015"
+            },
+            {
+                "role_name": "Domestic Violence Counselor Advocate",
+                "work_description": "Assessed clients and provided crisis intervention, facilitated support groups and life skills workshops, and managed the day-to-day operations of the outreach center.",
+                "company_level": "Non-profit",
+                "start_date": "08/2008",
+                "end_date": "04/2013"
+            },
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Handled phone calls, billing and invoicing, accounts receivable and collections, and prepared daily reports and spreadsheets.",
+                "company_level": "Private",
+                "start_date": "09/2005",
+                "end_date": "07/2007"
+            },
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Conducted I-9 reviews, updated and maintained client and employee data, performed clerical duties, and handled accounts receivable and payable.",
+                "company_level": "Private",
+                "start_date": "09/2000",
+                "end_date": "06/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Citrus College",
+                "start_date": "01/1995",
+                "end_date": "12/1995",
+                "domain": "General Education",
+                "level": "Certificate"
+            },
+            {
+                "university": "Glendora High School West College",
+                "start_date": "01/1992",
+                "end_date": "12/1992",
+                "domain": "Medical Assistant",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Crisis Intervention",
+                "level": 5,
+                "explanation": "Provided crisis intervention services to victims of domestic violence and their families for over a decade, indicating expert-level mastery."
+            },
+            {
+                "name": "Trauma-Informed Care",
+                "level": 4,
+                "explanation": "Provided trauma-informed care to victims of domestic violence and their families, showing strong proficiency in this area."
+            },
+            {
+                "name": "Case Management",
+                "level": 4,
+                "explanation": "Conducted daily service logs, case notes, and referral outcome reports, suggesting strong proficiency in case management."
+            },
+            {
+                "name": "Group Facilitation",
+                "level": 3,
+                "explanation": "Facilitated support groups and life skills workshops, showing a solid working proficiency in group facilitation."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed the day-to-day operations of the outreach center, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Administrative Support",
+                "level": 3,
+                "explanation": "Provided administrative support in various roles, including handling phone calls, billing and invoicing, and preparing daily reports and spreadsheets, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 2,
+                "explanation": "Updated and maintained client and employee data, suggesting some practical experience in data entry."
+            },
+            {
+                "name": "Accounts Receivable and Payable",
+                "level": 2,
+                "explanation": "Handled accounts receivable and payable in various administrative roles, showing some practical experience in this area."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 2,
+                "explanation": "Likely used Microsoft Office for administrative tasks, but no specific experience is mentioned, suggesting some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "770.json",
+    "recommendation_file": "Recommendation_From_ID_658.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the writer's experience in healthcare administration seems unrelated to the candidate's roles and skills. However, the language is formal and no statistically improbable claims are detected.",
+        "verified_skills": [
+            "Leadership",
+            "Mentoring",
+            "Communication",
+            "Teamwork"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's leadership, mentoring, and communication skills, which align with their experience as a Gradation Candidate Advocate. However, the writer's experience in healthcare administration seems unrelated to the candidate's roles and skills."
+    }
+}

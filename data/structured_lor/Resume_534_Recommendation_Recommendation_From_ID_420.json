@@ -1,0 +1,17 @@
+{
+    "resume_file": "534.json",
+    "recommendation_file": "Recommendation_From_ID_420.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Technical Troubleshooting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional customer service skills, technical problem-solving abilities, and dedication to service quality. The recommender's experience working alongside the candidate provides valuable insight into their strengths and capabilities."
+    }
+}

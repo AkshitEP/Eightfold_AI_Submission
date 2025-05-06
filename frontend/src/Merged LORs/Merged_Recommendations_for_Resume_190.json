@@ -1,0 +1,176 @@
+{
+    "target_id": "190",
+    "recommendations": [
+        {
+            "recommender_id": "666",
+            "recommendation": {
+                "resume_file": "190.json",
+                "recommendation_file": "Recommendation_From_ID_666.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Employee Retention",
+                        "Performance Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The recommendation highlights the candidate's strengths in recruitment, employee retention, and performance management, which are all relevant to their previous roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "93",
+            "recommendation": {
+                "resume_file": "190.json",
+                "recommendation_file": "Recommendation_From_ID_93.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Performance Management",
+                        "Employee Retention",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The source of the recommendation appears to be a peer or supervisor, given their familiarity with the candidate's work and accomplishments."
+                }
+            }
+        },
+        {
+            "recommender_id": "343",
+            "recommendation": {
+                "resume_file": "190.json",
+                "recommendation_file": "Recommendation_From_ID_343.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Performance Management",
+                        "Employee Retention",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "532",
+            "recommendation": {
+                "resume_file": "190.json",
+                "recommendation_file": "Recommendation_From_ID_532.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the writer claims to have worked as a General HR Assistant and Call Center Manager, which is not mentioned in the resume. However, the recommendation is well-supported by the resume and provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Performance Management",
+                        "Employee Retention",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR operations, recruitment, and talent acquisition strategies. However, the writer's claim to have worked as a General HR Assistant and Call Center Manager is not mentioned in the resume, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "526",
+            "recommendation": {
+                "resume_file": "190.json",
+                "recommendation_file": "Recommendation_From_ID_526.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions over three decades of experience, but the resume only shows around 7 years of experience. This inconsistency raises some concerns.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Performance Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR operations and leadership abilities. However, the claim of over three decades of experience seems exaggerated and contradicts the information provided in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "602",
+            "recommendation": {
+                "resume_file": "190.json",
+                "recommendation_file": "Recommendation_From_ID_602.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Performance Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR operations, recruitment strategies, and employee engagement initiatives."
+                }
+            }
+        },
+        {
+            "recommender_id": "691",
+            "recommendation": {
+                "resume_file": "190.json",
+                "recommendation_file": "Recommendation_From_ID_691.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Performance Management",
+                        "Employee Retention",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, talent acquisition, and employee engagement skills. The source of the recommendation appears to be a supervisor or someone who has worked closely with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "557",
+            "recommendation": {
+                "resume_file": "190.json",
+                "recommendation_file": "Recommendation_From_ID_557.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions the candidate's role as a Regional HR Deputy Manager, but the recommender's background is in finance, which may indicate a lack of direct experience with the candidate's HR work. However, the recommendation provides specific examples of the candidate's accomplishments and skills.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Performance Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in HR operations, recruitment, and employee engagement, but the recommender's background in finance may raise some questions about their direct experience with the candidate's work."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "target_id": "817",
+    "recommendations": [
+        {
+            "recommender_id": "593",
+            "recommendation": {
+                "resume_file": "817.json",
+                "recommendation_file": "Recommendation_From_ID_593.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unclear source of recommendation.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Medical Documentation",
+                        "Electronic Medical Records",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but there are some minor inconsistencies and unclear source of recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "811",
+            "recommendation": {
+                "resume_file": "817.json",
+                "recommendation_file": "Recommendation_From_ID_811.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Medical Documentation",
+                        "Time Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's experience in healthcare, but lacks concrete examples and specific details to support the claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "450",
+            "recommendation": {
+                "resume_file": "817.json",
+                "recommendation_file": "Recommendation_From_ID_450.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the mention of the recommender's experience as a Mechanical Design Engineer Intern seems unrelated to the candidate's skills and experience. However, the recommendation provides specific examples of the candidate's skills and experience in the medical field.",
+                    "verified_skills": [
+                        "Electronic Medical Records",
+                        "Patient Care",
+                        "Medical Documentation",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in the medical field, providing specific examples of their work as a Medical Scribe and their ability to communicate effectively with colleagues and patients. However, the mention of the recommender's experience as a Mechanical Design Engineer Intern seems unrelated to the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "115",
+            "recommendation": {
+                "resume_file": "817.json",
+                "recommendation_file": "Recommendation_From_ID_115.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Electronic Medical Records",
+                        "Medical Documentation",
+                        "Patient Care",
+                        "Communication",
+                        "Time Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Medical Scribe and highlighting their leadership qualities."
+                }
+            }
+        }
+    ]
+}

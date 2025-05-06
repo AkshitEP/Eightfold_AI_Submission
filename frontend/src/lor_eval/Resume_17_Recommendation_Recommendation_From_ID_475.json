@@ -1,0 +1,16 @@
+{
+    "resume_file": "17.json",
+    "recommendation_file": "Recommendation_From_ID_475.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Exaggerated claims, statistically improbable data, and informal language detected.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Contract Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but contains unrealistic claims and informal language, raising concerns about its credibility."
+    }
+}

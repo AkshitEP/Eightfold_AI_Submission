@@ -1,0 +1,17 @@
+{
+    "resume_file": "234.json",
+    "recommendation_file": "Recommendation_From_ID_380.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems overly positive and lacks specific examples from the candidate's experience. Some claims seem exaggerated, such as 'reducing safety incidents to zero'.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Team Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in leadership, project management, and team management, but lacks concrete examples from their experience. The tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+    }
+}

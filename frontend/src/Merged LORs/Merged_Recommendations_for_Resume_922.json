@@ -1,0 +1,26 @@
+{
+    "target_id": "922",
+    "recommendations": [
+        {
+            "recommender_id": "249",
+            "recommendation": {
+                "resume_file": "922.json",
+                "recommendation_file": "Recommendation_From_ID_249.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions roles not present in the resume (Crew Member, Hostess, Combat Medic), and the tone seems overly positive.",
+                    "verified_skills": [
+                        "Maintenance and Repair",
+                        "Hand Tool Operation",
+                        "Power Tool Operation",
+                        "Electrical Work",
+                        "Healthcare"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service skills, adaptability, and problem-solving abilities, which are relevant to their experience as an engineer and handyman. However, some claims seem exaggerated, and the recommendation mentions roles not present in the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "target_id": "655",
+    "recommendations": [
+        {
+            "recommender_id": "935",
+            "recommendation": {
+                "resume_file": "655.json",
+                "recommendation_file": "Recommendation_From_ID_935.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written for a different person, with some skills and experiences mentioned not matching the resume. However, the language is formal and there are no obvious signs of exaggeration.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Public Health"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some skills and experiences from the resume, but it seems to be written for a different person, specifically a Senior HR Manager and HR Business Partner. The recommendation highlights the individual's expertise in employee relations, compliance, and strategic HR alignment, which is not present in the resume. However, the recommendation does mention the individual's experience as a Communicable Disease Specialist, showcasing their abilities in data analysis, disease intervention, and public health education."
+                }
+            }
+        },
+        {
+            "recommender_id": "675",
+            "recommendation": {
+                "resume_file": "655.json",
+                "recommendation_file": "Recommendation_From_ID_675.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Data Analysis",
+                        "Public Health",
+                        "Communication",
+                        "Project Management",
+                        "Leadership",
+                        "Time Management",
+                        "Risk Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "HR Coordinator",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their disease intervention strategies, data analysis, and educational outreach. The HR Coordinator's endorsement highlights the candidate's exceptional professional skills, dedication to public health, and ability to work collaboratively."
+                }
+            }
+        },
+        {
+            "recommender_id": "193",
+            "recommendation": {
+                "resume_file": "655.json",
+                "recommendation_file": "Recommendation_From_ID_193.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but it appears to be a combination of two separate recommendations, which may indicate some level of exaggeration or manipulation.",
+                    "verified_skills": [
+                        "Public Health",
+                        "Data Analysis",
+                        "Communication",
+                        "Case Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in public health, data analysis, and communication, which are relevant to their experience as a Communicable Disease Specialist. However, the recommendation also mentions skills and experiences that are not directly related to the candidate's resume, which may indicate some level of exaggeration or manipulation."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "target_id": "529",
+    "recommendations": [
+        {
+            "recommender_id": "340",
+            "recommendation": {
+                "resume_file": "529.json",
+                "recommendation_file": "Recommendation_From_ID_340.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mortgage Banking",
+                        "Quality Control",
+                        "Customer Service",
+                        "Analytical Skills",
+                        "Time Management",
+                        "Industry Guidelines"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work ethic, attention to detail, and commitment to quality and customer service."
+                }
+            }
+        },
+        {
+            "recommender_id": "320",
+            "recommendation": {
+                "resume_file": "529.json",
+                "recommendation_file": "Recommendation_From_ID_320.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background as a registered nurse may not be directly relevant to the candidate's mortgage banking experience.",
+                    "verified_skills": [
+                        "Mortgage Banking",
+                        "Quality Control",
+                        "Analytical Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience and skills in mortgage banking, but the recommender's background may not be directly relevant. The recommendation is well-written and provides specific examples of the candidate's achievements."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "resume_file": "853.json",
+    "recommendation_file": "Recommendation_From_ID_335.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role is unclear, and some skills mentioned in the recommendation are not explicitly listed in the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's operational management and customer service skills, which align with their experience as an Assistant Manager and Store Manager. However, some skills mentioned in the recommendation, such as analytical skills and experience with Returned Deposited Items, are not explicitly listed in the resume."
+    }
+}

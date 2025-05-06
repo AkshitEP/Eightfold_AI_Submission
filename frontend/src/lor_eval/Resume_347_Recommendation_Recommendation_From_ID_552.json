@@ -1,0 +1,17 @@
+{
+    "resume_file": "347.json",
+    "recommendation_file": "Recommendation_From_ID_552.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation. The recommender's title is mentioned as Information Technology Manager, but the candidate's experience in IT is limited to an internship. However, the recommendation still seems largely credible.",
+        "verified_skills": [
+            "Problem-Solving",
+            "Business Analysis",
+            "Leadership",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's analytical skills, adaptability, and commitment to enhancing user experience through technology. However, it does not fully align with the candidate's extensive experience in business management and marketing."
+    }
+}

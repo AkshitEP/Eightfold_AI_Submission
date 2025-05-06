@@ -1,0 +1,85 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Operations Manager",
+                "work_description": "Established operational objectives and work plans and delegated assignments to all employees, developed new process for employee evaluation which resulted in marked performance improvements, supported Chief Operating Officer with daily operational functions.",
+                "company_level": "Mid-level",
+                "start_date": "07/2016",
+                "end_date": "12/2016"
+            },
+            {
+                "role_name": "Operations Manager",
+                "work_description": "Identified prospective customers using lead generating methods and performing an average of 60 cold calls per day. Recognized as top sales generator, increasing sales level by 70% in 2016. Consistently met and exceeded department expectations for productivity and accuracy levels. Maintained sales record of 20% 6 months in a row.",
+                "company_level": "Mid-level",
+                "start_date": "08/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Administrator",
+                "work_description": "Directed marketing initiatives, forecasted needs and adjusted future plans, created professional business presentations, maintained detailed administrative and procedural processes to improve accuracy and efficiency, filed insurance, coordinated meetings with other department managers and served as main liaison between.",
+                "company_level": "Mid-level",
+                "start_date": "06/2015",
+                "end_date": "12/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "George Mason University",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Sports Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Sports Management",
+            "Coaching"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience in managing teams, establishing operational objectives, and delegating assignments to employees, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has experience in developing new processes, forecasting needs, and adjusting future plans, showing a solid working proficiency."
+            },
+            {
+                "name": "Sales and Marketing",
+                "level": 4,
+                "explanation": "Recognized as top sales generator, increasing sales level by 70% in 2016, and consistently meeting and exceeding department expectations, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in creating professional business presentations, maintaining detailed administrative and procedural processes, and serving as a liaison between departments, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in managing multiple tasks, meeting deadlines, and consistently meeting productivity expectations, showing a solid working proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Has experience in identifying prospective customers, developing new processes, and adjusting future plans, showing a solid working proficiency."
+            },
+            {
+                "name": "Sports Management",
+                "level": 2,
+                "explanation": "Has a degree in Sports Management and listed it as an interest, but lacks direct experience in the field, indicating some practical experience."
+            },
+            {
+                "name": "Coaching",
+                "level": 1,
+                "explanation": "Listed as an interest, but lacks direct experience in the field, indicating basic familiarity."
+            }
+        ]
+    }
+}

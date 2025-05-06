@@ -1,0 +1,105 @@
+{
+    "target_id": "433",
+    "recommendations": [
+        {
+            "recommender_id": "609",
+            "recommendation": {
+                "resume_file": "433.json",
+                "recommendation_file": "Recommendation_From_ID_609.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions the candidate's expertise in network protocols, data management, and technical support, but these skills are not explicitly mentioned in the resume. However, the candidate's experience in technical support and customer service roles, as well as their master's degree in Network Communications Management, provide some credibility to these claims.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Troubleshooting",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills and experience, but some claims seem exaggerated or unsupported. The candidate's master's degree in Network Communications Management is mentioned, but the recommendation does not provide specific examples of how this degree has been applied in their work."
+                }
+            }
+        },
+        {
+            "recommender_id": "599",
+            "recommendation": {
+                "resume_file": "433.json",
+                "recommendation_file": "Recommendation_From_ID_599.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Troubleshooting",
+                        "Communication",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's technical support and customer service experience, highlighting their exceptional communication skills and critical thinking mindset. However, it does not directly reference their teaching experience or leadership skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "51",
+            "recommendation": {
+                "resume_file": "433.json",
+                "recommendation_file": "Recommendation_From_ID_51.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Troubleshooting",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's technical skills and experience, providing specific examples of their technical support and customer service abilities. However, it does not mention the candidate's teaching experience or leadership skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "246",
+            "recommendation": {
+                "resume_file": "433.json",
+                "recommendation_file": "Recommendation_From_ID_246.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Troubleshooting",
+                        "Communication",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's technical skills and experience, providing specific examples of their problem-solving and communication abilities. However, the recommender's role as an accountant seems unrelated to the candidate's field, which might slightly reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "241",
+            "recommendation": {
+                "resume_file": "433.json",
+                "recommendation_file": "Recommendation_From_ID_241.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'military training and education' which is not directly related to the candidate's experience. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Troubleshooting",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical expertise, problem-solving abilities, and customer service skills, which are well-aligned with their experience as a Field Support Specialist and Technical Support Representative. However, the mention of 'military training and education' seems unrelated to the candidate's experience and may be an exaggeration."
+                }
+            }
+        }
+    ]
+}

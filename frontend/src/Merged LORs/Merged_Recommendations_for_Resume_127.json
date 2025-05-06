@@ -1,0 +1,157 @@
+{
+    "target_id": "127",
+    "recommendations": [
+        {
+            "recommender_id": "802",
+            "recommendation": {
+                "resume_file": "127.json",
+                "recommendation_file": "Recommendation_From_ID_802.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "System Implementation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and work ethic. However, the recommendation does not explicitly mention the candidate's experience with project management or leadership, which are skills listed on the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "615",
+            "recommendation": {
+                "resume_file": "127.json",
+                "recommendation_file": "Recommendation_From_ID_615.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions a Master's degree in Accounting, which is not present in the resume. Additionally, the leadership experience mentioned is not directly supported by the resume.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "System Implementation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's accounting experience and skills, but also mentions some information not present in the resume, such as a Master's degree and leadership experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "263",
+            "recommendation": {
+                "resume_file": "127.json",
+                "recommendation_file": "Recommendation_From_ID_263.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions leadership skills, but the resume does not provide direct evidence of leadership experience.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "System Implementation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in accounting, but there are some minor inconsistencies and exaggerated claims. The recommendation mentions leadership skills, but the resume does not provide direct evidence of leadership experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "259",
+            "recommendation": {
+                "resume_file": "127.json",
+                "recommendation_file": "Recommendation_From_ID_259.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "System Implementation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and job cost reporting. However, the recommendation mentions the candidate's experience as a Senior Accountant, which is not explicitly stated in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "871",
+            "recommendation": {
+                "resume_file": "127.json",
+                "recommendation_file": "Recommendation_From_ID_871.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, such as the mention of leadership quality and extra-curricular management roles, which are not directly supported by the resume.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "System Implementation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's accounting experience and skills, but some claims seem exaggerated or unsupported, such as the mention of leadership quality and extra-curricular management roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "763",
+            "recommendation": {
+                "resume_file": "127.json",
+                "recommendation_file": "Recommendation_From_ID_763.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions leadership roles in community organizations, but the resume does not provide direct evidence of leadership experience.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "System Implementation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in accounting, but some claims seem exaggerated or unsupported. The recommendation mentions leadership roles in community organizations, but the resume does not provide direct evidence of leadership experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "299",
+            "recommendation": {
+                "resume_file": "127.json",
+                "recommendation_file": "Recommendation_From_ID_299.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone who has not directly worked with the candidate, and the language used is overly flattering. Additionally, the recommendation mentions the candidate's CPA qualifications, which are not mentioned in the resume.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "System Implementation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but the language used is overly flattering and the source of the recommendation is unclear. The mention of CPA qualifications not present in the resume raises some concerns."
+                }
+            }
+        },
+        {
+            "recommender_id": "246",
+            "recommendation": {
+                "resume_file": "127.json",
+                "recommendation_file": "Recommendation_From_ID_246.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be comparing two different accountants, but only one is mentioned in the resume. However, the skills and experiences mentioned align well with the resume.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "System Implementation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in accounting, financial reporting, and system implementation, which aligns well with their resume. However, the comparison with another accountant seems unnecessary and may be an attempt to exaggerate the candidate's skills."
+                }
+            }
+        }
+    ]
+}

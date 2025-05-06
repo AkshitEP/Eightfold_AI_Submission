@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Hospital & Physician Billing Specialist",
+                "work_description": "Responsible for managing and resolving insurance denials for medical, Workers Compensation and Personal Injury claims. Works with a team of Billing Specialists to interact with major insurance carriers, as well as government payers, including Medicare. Accountable for ensuring all new insurance claims are filed in a timely manner to prevent future reimbursement issues.",
+                "company_level": "Mid-level",
+                "start_date": "12/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Healthcare Marketing Consultant / Freelancer",
+                "work_description": "Provides ongoing marketing support to Scripps Memorial Hospital and Scripps Mercy Hospital in San Diego. Assists with projects including graphic design, marketing materials, industry trade shows, and implementing marketing to promote fundraising events.",
+                "company_level": "Startup",
+                "start_date": "01/2009",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Physician Billing Specialist",
+                "work_description": "Served in a frontline role, and was tasked with managing 40 accounts on a daily basis as well as assisting with medical billing and collections software. Provided daily updates to physicians' office managers on the Athena billing software packages via teleconference.",
+                "company_level": "Mid-level",
+                "start_date": "03/2012",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Hospital and Physician Billing Specialist",
+                "work_description": "Joined as an Insurance Verifier and was quickly promoted to a Billing Specialist. Responsible for auditing patient accounts for production of clean claims, which resulted in 15% fewer rejected claims, and reimbursement received from the carriers within an average of 45 days or less.",
+                "company_level": "Mid-level",
+                "start_date": "06/2009",
+                "end_date": "05/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Canisius College",
+                "start_date": "01/2005",
+                "end_date": "12/2009",
+                "domain": "Business Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "San Diego City College",
+                "start_date": "01/2007",
+                "end_date": "12/2009",
+                "domain": "Medical Billing and Coding",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Medical Billing",
+                "level": 5,
+                "explanation": "Has extensive experience in medical billing, including managing accounts, resolving insurance denials, and ensuring timely filing of claims, indicating expert-level mastery."
+            },
+            {
+                "name": "Healthcare Management",
+                "level": 4,
+                "explanation": "Has experience in managing patient accounts, auditing claims, and implementing processes to improve reimbursement rates, showing strong proficiency."
+            },
+            {
+                "name": "Insurance Verification",
+                "level": 4,
+                "explanation": "Has experience in verifying insurance information and resolving denials, suggesting strong proficiency in insurance verification."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Has experience in providing marketing support, including graphic design and event promotion, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in communicating with physicians' office managers, insurance carriers, and government payers, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has experience in managing multiple projects, including marketing materials and fundraising events, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Has experience in analyzing data to improve reimbursement rates and reduce rejected claims, showing a solid working proficiency."
+            },
+            {
+                "name": "Software Proficiency",
+                "level": 4,
+                "explanation": "Has experience in using medical billing and collections software, including Athena billing software, suggesting strong proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "339.json",
+    "recommendation_file": "Recommendation_From_ID_304.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Nursing",
+            "Operations Management",
+            "Quality Assurance",
+            "Risk Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and operational management abilities. However, the recommender's background in government accounting and financial management seems unrelated to the candidate's field, which might raise some questions about their ability to assess the candidate's technical skills."
+    }
+}

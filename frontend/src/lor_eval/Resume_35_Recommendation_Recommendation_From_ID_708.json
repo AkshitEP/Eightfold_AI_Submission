@@ -1,0 +1,19 @@
+{
+    "resume_file": "35.json",
+    "recommendation_file": "Recommendation_From_ID_708.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as an aviation mechanic may not be directly relevant to the candidate's security expertise. However, the recommender's experience in a military environment and emphasis on safety and regulatory standards provide some credibility.",
+        "verified_skills": [
+            "Security Clearance Management",
+            "Personnel Security",
+            "Information Security",
+            "Physical Security",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's expertise in personnel security, leadership, and communication. However, the recommender's background and experience may not be directly relevant to the candidate's security expertise, which slightly reduces the relevance score."
+    }
+}

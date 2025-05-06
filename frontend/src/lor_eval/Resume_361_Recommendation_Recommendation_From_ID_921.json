@@ -1,0 +1,18 @@
+{
+    "resume_file": "361.json",
+    "recommendation_file": "Recommendation_From_ID_921.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. Some minor inconsistencies are present, such as the mention of software development life cycle and Consumer Private Wealth Management sector, which are not directly related to the candidate's experience.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Safety Management",
+            "Communication",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and project management skills, but it seems to be a general recommendation that could apply to multiple individuals. It lacks specific examples from the candidate's experience and skills mentioned in the resume."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "resume_id": 997,
+    "recommendation_file": "Recommendation_From_ID_228.txt",
+    "output": {
+        "relevance_score": 1,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation is for an accounting role, while the resume is for an IT professional. This raises some concerns about the accuracy of the recommendation.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's skills and experience, and some inconsistencies are present."
+    }
+}

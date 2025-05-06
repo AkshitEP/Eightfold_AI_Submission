@@ -1,0 +1,49 @@
+{
+    "target_id": "882",
+    "recommendations": [
+        {
+            "recommender_id": "209",
+            "recommendation": {
+                "resume_file": "882.json",
+                "recommendation_file": "Recommendation_From_ID_209.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The claim of exceeding sales goals by 40% monthly seems unrealistic and lacks concrete evidence from the resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Planning",
+                        "Contract Negotiation",
+                        "Customer Service",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in finance, particularly in the automotive industry. However, some claims seem exaggerated and lack concrete evidence from the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "510",
+            "recommendation": {
+                "resume_file": "882.json",
+                "recommendation_file": "Recommendation_From_ID_510.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with the second individual matching the resume details. However, the first individual is described as a tax accountant, which is not mentioned in the resume. This inconsistency raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Contract Negotiation",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be describing two different individuals, with the second individual matching the resume details. However, the first individual is described as a tax accountant, which is not mentioned in the resume. This inconsistency raises concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

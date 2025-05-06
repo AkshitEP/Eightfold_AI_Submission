@@ -1,0 +1,22 @@
+{
+    "resume_file": "116.json",
+    "recommendation_file": "Recommendation_From_ID_319.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Recruitment",
+            "HR Administration",
+            "Employee Onboarding",
+            "Time Management",
+            "Data Entry",
+            "Communication",
+            "Payroll Processing",
+            "Accounts Payable/Receivable",
+            "Vendor Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and highlighting their strengths in recruitment, employee relations, and organizational management."
+    }
+}

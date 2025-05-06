@@ -1,0 +1,18 @@
+{
+    "resume_file": "619.json",
+    "recommendation_file": "Recommendation_From_ID_110.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source claims to be a Project Manager, which is not mentioned in the resume. This inconsistency raises some concerns.",
+        "verified_skills": [
+            "Game Design",
+            "Leadership",
+            "Teamwork",
+            "Problem-Solving",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their game design and leadership abilities. However, the source's claim of being a Project Manager is not supported by the resume."
+    }
+}

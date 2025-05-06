@@ -1,0 +1,19 @@
+{
+    "resume_file": "940.json",
+    "recommendation_file": "Recommendation_From_ID_785.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Quality Assurance",
+            "Technical Inspection",
+            "Aviation Maintenance",
+            "Technical Writing",
+            "Training and Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in aviation maintenance, quality assurance, and leadership. The source of the recommendation appears to be a peer, as they mention working alongside the candidate."
+    }
+}

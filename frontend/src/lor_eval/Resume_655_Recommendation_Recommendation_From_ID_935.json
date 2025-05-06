@@ -1,0 +1,15 @@
+{
+    "resume_file": "655.json",
+    "recommendation_file": "Recommendation_From_ID_935.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written for a different person, with some skills and experiences mentioned not matching the resume. However, the language is formal and there are no obvious signs of exaggeration.",
+        "verified_skills": [
+            "Data Analysis",
+            "Public Health"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some skills and experiences from the resume, but it seems to be written for a different person, specifically a Senior HR Manager and HR Business Partner. The recommendation highlights the individual's expertise in employee relations, compliance, and strategic HR alignment, which is not present in the resume. However, the recommendation does mention the individual's experience as a Communicable Disease Specialist, showcasing their abilities in data analysis, disease intervention, and public health education."
+    }
+}

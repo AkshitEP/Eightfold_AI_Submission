@@ -1,0 +1,19 @@
+{
+    "resume_file": "479.json",
+    "recommendation_file": "Recommendation_From_ID_387.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Customer Service",
+            "Project Management",
+            "Team Collaboration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and problem-solving abilities. The source of the recommendation is a peer, a Senior Accountant, who has worked alongside the candidate."
+    }
+}

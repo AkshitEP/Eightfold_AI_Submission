@@ -1,0 +1,19 @@
+{
+    "resume_file": "109.json",
+    "recommendation_file": "Recommendation_From_ID_587.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The recommender mentions working in education as a Healthcare Instructional Assistant, which seems unrelated to the candidate's accounting experience.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Accounting",
+            "Financial Analysis",
+            "Financial Planning and Budgeting",
+            "Leadership and Management",
+            "Auditing and Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional capabilities in managing complex financial operations, ensuring compliance with regulatory standards, and demonstrating strong analytical skills. However, the recommender's background and relationship with the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

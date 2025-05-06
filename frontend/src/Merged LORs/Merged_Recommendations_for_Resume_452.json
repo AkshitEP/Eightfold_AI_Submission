@@ -1,0 +1,48 @@
+{
+    "target_id": "452",
+    "recommendations": [
+        {
+            "recommender_id": "934",
+            "recommendation": {
+                "resume_file": "452.json",
+                "recommendation_file": "Recommendation_From_ID_934.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions another person (Lisa Phinney) and their skills, which is not directly relevant to Meisha Lawson's resume. However, the language is formal and there are no statistically improbable claims.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Cost Control",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights Meisha Lawson's financial skills and experience, but also mentions another person and their operational skills, which is not directly relevant to Meisha's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "500",
+            "recommendation": {
+                "resume_file": "452.json",
+                "recommendation_file": "Recommendation_From_ID_500.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Cost Control",
+                        "Auditing",
+                        "Financial Reporting",
+                        "Accounting",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and managerial skills. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

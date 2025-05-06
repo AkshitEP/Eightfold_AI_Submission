@@ -1,0 +1,15 @@
+{
+    "resume_file": "187.json",
+    "recommendation_file": "Recommendation_From_ID_372.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and lack of specific examples or metrics to support claims.",
+        "verified_skills": [
+            "Leadership",
+            "Business Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and business development skills, but does not provide specific examples or metrics to support these claims."
+    }
+}

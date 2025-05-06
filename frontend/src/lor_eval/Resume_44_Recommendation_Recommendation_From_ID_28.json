@@ -1,0 +1,18 @@
+{
+    "resume_id": 44,
+    "recommendation_file": "Recommendation_From_ID_28.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the claim of a 100% customer satisfaction rating is statistically improbable and may be an exaggeration.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales",
+            "Human Resources",
+            "Communication",
+            "Organization"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and HR management abilities. However, the claim of a 100% customer satisfaction rating raises some concerns about the accuracy of the recommendation."
+    }
+}

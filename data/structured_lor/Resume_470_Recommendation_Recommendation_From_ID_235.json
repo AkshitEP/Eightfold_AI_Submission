@@ -1,0 +1,19 @@
+{
+    "resume_file": "470.json",
+    "recommendation_file": "Recommendation_From_ID_235.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Payroll Management",
+            "Human Resources Management",
+            "Recruitment",
+            "Employee Relations",
+            "Benefits Administration",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience in Human Resources. The recommender highlights the candidate's strengths in various HR functions, including payroll administration, recruitment, and employee relations, and praises their exceptional interpersonal skills."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "836.json",
+    "recommendation_file": "Recommendation_From_ID_618.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Facilities Management",
+            "Leadership",
+            "Project Management",
+            "Maintenance and Repair",
+            "Budgeting and Cost Control",
+            "Safety and Security"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operational expertise, and commitment to safety and efficiency."
+    }
+}

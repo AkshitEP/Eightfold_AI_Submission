@@ -1,0 +1,18 @@
+{
+    "resume_file": "789.json",
+    "recommendation_file": "Recommendation_From_ID_5.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and unrelated mention of HR Shared Services Supervisor.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Innovation",
+            "Cost Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's skills and experience, but there are some minor inconsistencies and unrelated mentions."
+    }
+}

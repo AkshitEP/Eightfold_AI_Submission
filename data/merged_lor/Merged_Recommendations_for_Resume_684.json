@@ -1,0 +1,68 @@
+{
+    "target_id": "684",
+    "recommendations": [
+        {
+            "recommender_id": "164",
+            "recommendation": {
+                "resume_file": "684.json",
+                "recommendation_file": "Recommendation_From_ID_164.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of retail banking operations, which is not explicitly mentioned in the resume. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Training and Development",
+                        "Curriculum Development",
+                        "Logistics Coordination",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in project management, training and development, and curriculum development, which are all relevant to their experience and skills listed in the resume. However, the mention of retail banking operations is not explicitly mentioned in the resume, which raises some minor concerns about the accuracy of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "488",
+            "recommendation": {
+                "resume_file": "684.json",
+                "recommendation_file": "Recommendation_From_ID_488.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Training and Development",
+                        "Database Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and communication abilities. The source of the recommendation is a Program Assistant, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "233",
+            "recommendation": {
+                "resume_file": "684.json",
+                "recommendation_file": "Recommendation_From_ID_233.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Event Planning",
+                        "Training and Development",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and event coordination abilities. The recommender's tone is professional and supportive, indicating a genuine endorsement."
+                }
+            }
+        }
+    ]
+}

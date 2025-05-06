@@ -1,0 +1,16 @@
+{
+    "resume_file": "290.json",
+    "recommendation_file": "Recommendation_From_ID_917.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's dental assisting experience. The language is formal, but the connection to the candidate's skills and experience is moderate.",
+        "verified_skills": [
+            "Dental Assisting",
+            "Patient Care",
+            "Infection Control"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's professionalism, work ethic, and customer service skills, but it does not provide concrete examples from their dental assisting experience. The connection to the candidate's skills and experience is moderate, and some minor inconsistencies are present."
+    }
+}

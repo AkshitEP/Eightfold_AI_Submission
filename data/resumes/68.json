@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior HR Business Partner",
+                "work_description": "Organized the start up of a new call center opened in September 2013. Played a key role in recruiting, hiring, and onboarding over 1,000 employees during the startup of this new location. Administers human resources activities for assigned office, ensuring compliance with all relevant laws, regulations, policies, and procedures.",
+                "company_level": "Mid-level",
+                "start_date": "08/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "HR & Safety Manager",
+                "work_description": "Worked with senior management to create HR policies and procedures; recruit employees; and develop orientation, training, and incentive programs. Manage leave-of-absence programs and personnel records; administer benefits enrollment and handle HR generalist workplace issues.",
+                "company_level": "Mid-level",
+                "start_date": "08/2010",
+                "end_date": "08/2013"
+            },
+            {
+                "role_name": "HR Supervisor",
+                "work_description": "Responsibilities included a broad range of HR functions, including training employees, administering benefits, overseeing disciplinary action and managing HR records.",
+                "company_level": "Mid-level",
+                "start_date": "08/2008",
+                "end_date": "08/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+                "start_date": "01/2004",
+                "end_date": "12/2008",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 5,
+                "explanation": "Played a key role in recruiting over 1,000 employees during the startup of a new location, and also recruited employees in previous roles, indicating expert-level mastery."
+            },
+            {
+                "name": "HR Policy Development",
+                "level": 4,
+                "explanation": "Worked with senior management to create HR policies and procedures, showing strong proficiency in this area."
+            },
+            {
+                "name": "Employee Onboarding",
+                "level": 4,
+                "explanation": "Handled onboarding of over 1,000 employees during the startup of a new location, suggesting strong proficiency in this area."
+            },
+            {
+                "name": "Benefits Administration",
+                "level": 4,
+                "explanation": "Administered benefits enrollment in multiple roles, indicating strong proficiency in this area."
+            },
+            {
+                "name": "Employee Training",
+                "level": 4,
+                "explanation": "Developed and implemented training programs, and also trained employees in previous roles, suggesting strong proficiency in this area."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Handled HR generalist workplace issues, and also managed disciplinary action, indicating strong proficiency in this area."
+            },
+            {
+                "name": "Compliance",
+                "level": 4,
+                "explanation": "Ensured compliance with all relevant laws, regulations, policies, and procedures in multiple roles, suggesting strong proficiency in this area."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised employees in multiple roles, and also played a key role in the startup of a new location, indicating strong proficiency in leadership."
+            }
+        ]
+    }
+}

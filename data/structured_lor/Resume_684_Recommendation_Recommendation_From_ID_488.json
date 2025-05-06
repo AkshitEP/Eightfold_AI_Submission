@@ -1,0 +1,18 @@
+{
+    "resume_file": "684.json",
+    "recommendation_file": "Recommendation_From_ID_488.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Training and Development",
+            "Database Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and communication abilities. The source of the recommendation is a Program Assistant, indicating a peer-level relationship."
+    }
+}

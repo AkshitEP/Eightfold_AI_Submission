@@ -1,0 +1,96 @@
+{
+    "target_id": "235",
+    "recommendations": [
+        {
+            "recommender_id": "691",
+            "recommendation": {
+                "resume_file": "235.json",
+                "recommendation_file": "Recommendation_From_ID_691.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Payroll Management",
+                        "Recruitment and Hiring",
+                        "Safety and Workers Compensation",
+                        "Leadership and Management",
+                        "Communication and Interpersonal Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management capabilities and leadership in safety programs and wellness initiatives."
+                }
+            }
+        },
+        {
+            "recommender_id": "242",
+            "recommendation": {
+                "resume_file": "235.json",
+                "recommendation_file": "Recommendation_From_ID_242.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Benefits Administration",
+                        "Recruitment and Hiring",
+                        "Employee Relations",
+                        "Compliance and Risk Management",
+                        "Safety and Workers Compensation",
+                        "Leadership and Management",
+                        "Communication and Interpersonal Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management capabilities and highlighting their strengths in employee relations, compliance, and leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "891",
+            "recommendation": {
+                "resume_file": "235.json",
+                "recommendation_file": "Recommendation_From_ID_891.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Benefits Administration",
+                        "Recruitment and Hiring",
+                        "Employee Relations",
+                        "Compliance and Risk Management",
+                        "Leadership and Management",
+                        "Communication and Interpersonal Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and accomplishments. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "654",
+            "recommendation": {
+                "resume_file": "235.json",
+                "recommendation_file": "Recommendation_From_ID_654.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly positive tone, but no obvious signs of fraud.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Benefits Administration",
+                        "Recruitment and Hiring",
+                        "Employee Relations",
+                        "Leadership and Management",
+                        "Communication and Interpersonal Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but mentions an irrelevant role (Executive Assistant). The tone is overly positive, which may indicate some exaggeration."
+                }
+            }
+        }
+    ]
+}

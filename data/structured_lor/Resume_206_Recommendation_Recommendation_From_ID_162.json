@@ -1,0 +1,20 @@
+{
+    "resume_file": "206.json",
+    "recommendation_file": "Recommendation_From_ID_162.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Mergers and Acquisitions",
+            "Investment Banking",
+            "Financial Modeling",
+            "Data Analysis",
+            "Valuation",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's analytical skills, ability to distill complex financial metrics, and cross-departmental collaboration. However, the language is overly flattering and lacks specific examples from the candidate's resume, which raises some concerns about the authenticity of the recommendation."
+    }
+}

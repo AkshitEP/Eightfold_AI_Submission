@@ -1,0 +1,120 @@
+{
+    "target_id": "217",
+    "recommendations": [
+        {
+            "recommender_id": "909",
+            "recommendation": {
+                "resume_file": "217.json",
+                "recommendation_file": "Recommendation_From_ID_909.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Financial Reporting",
+                        "Internal Controls",
+                        "Database Management",
+                        "Leadership",
+                        "Process Improvement",
+                        "Variance Analysis",
+                        "Financial Forecasting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership, and process improvement capabilities. The source of the recommendation is a peer, indicating a credible and informed perspective."
+                }
+            }
+        },
+        {
+            "recommender_id": "820",
+            "recommendation": {
+                "resume_file": "217.json",
+                "recommendation_file": "Recommendation_From_ID_820.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Financial Reporting",
+                        "Internal Controls",
+                        "Leadership",
+                        "Process Improvement",
+                        "Variance Analysis",
+                        "Financial Forecasting"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis skills, as well as their ability to collaborate with stakeholders and manage audit processes."
+                }
+            }
+        },
+        {
+            "recommender_id": "407",
+            "recommendation": {
+                "resume_file": "217.json",
+                "recommendation_file": "Recommendation_From_ID_407.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the tone is overly positive. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Financial Reporting",
+                        "Internal Controls",
+                        "Leadership",
+                        "Process Improvement",
+                        "Variance Analysis",
+                        "Financial Forecasting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and financial management expertise. However, the source of the recommendation is unclear, and the tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "282",
+            "recommendation": {
+                "resume_file": "217.json",
+                "recommendation_file": "Recommendation_From_ID_282.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but it mentions another Accountant and their collaboration, which seems slightly unrelated to Angelo's skills and experience. The language is formal, but the mention of another individual's skills and expertise raises some minor concerns.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Financial Reporting",
+                        "Internal Controls",
+                        "Variance Analysis",
+                        "Financial Forecasting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with Angelo's skills and experience, providing specific examples of his financial acumen, accounting processes, and collaboration with auditors. However, the mention of another Accountant and their collaboration seems slightly unrelated to Angelo's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "214",
+            "recommendation": {
+                "resume_file": "217.json",
+                "recommendation_file": "Recommendation_From_ID_214.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly flattering tone, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Financial Reporting",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but the recommender's tone is overly flattering, which may indicate some exaggeration."
+                }
+            }
+        }
+    ]
+}

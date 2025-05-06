@@ -1,0 +1,83 @@
+{
+    "target_id": "770",
+    "recommendations": [
+        {
+            "recommender_id": "658",
+            "recommendation": {
+                "resume_file": "770.json",
+                "recommendation_file": "Recommendation_From_ID_658.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the writer's experience in healthcare administration seems unrelated to the candidate's roles and skills. However, the language is formal and no statistically improbable claims are detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentoring",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's leadership, mentoring, and communication skills, which align with their experience as a Gradation Candidate Advocate. However, the writer's experience in healthcare administration seems unrelated to the candidate's roles and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "439",
+            "recommendation": {
+                "resume_file": "770.json",
+                "recommendation_file": "Recommendation_From_ID_439.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and generic language, but no obvious signs of exaggeration or statistically improbable claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentoring",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experiences, but mentions unrelated information about the Account Executive's experience in healthcare."
+                }
+            }
+        },
+        {
+            "recommender_id": "247",
+            "recommendation": {
+                "resume_file": "770.json",
+                "recommendation_file": "Recommendation_From_ID_247.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written for a different person, with skills and experiences not matching the resume. The language is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentoring"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align well with the candidate's skills and experience, with a focus on marketing and client management, which is not present in the resume. However, it does mention leadership and mentoring abilities, which are present in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "641",
+            "recommendation": {
+                "resume_file": "770.json",
+                "recommendation_file": "Recommendation_From_ID_641.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentoring",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, mentoring, and communication abilities. The source of the recommendation is a Healthcare Recruiter, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

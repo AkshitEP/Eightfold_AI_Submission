@@ -1,0 +1,17 @@
+{
+    "resume_file": "295.json",
+    "recommendation_file": "Recommendation_From_ID_846.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a Child Family Advocate seems unrelated to the candidate's work experience. However, the recommendation highlights the candidate's leadership skills, commitment to quality, and ability to work with teams, which are relevant to their experience.",
+        "verified_skills": [
+            "Leadership",
+            "Quality Control",
+            "Manufacturing Operations",
+            "Team Collaboration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and quality control abilities. However, the recommender's profession seems unrelated to the candidate's work experience, which raises some concerns about the recommendation's credibility."
+    }
+}

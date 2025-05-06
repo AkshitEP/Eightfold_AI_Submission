@@ -1,0 +1,18 @@
+{
+    "resume_id": 972,
+    "recommendation_file": "Recommendation_From_ID_781.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Troubleshooting",
+            "Communication",
+            "Quality Control"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and problem-solving abilities. However, the recommendation does not explicitly mention the candidate's experience in electrical engineering or forklift operation, which are significant aspects of their resume."
+    }
+}

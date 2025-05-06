@@ -1,0 +1,17 @@
+{
+    "resume_file": "500.json",
+    "recommendation_file": "Recommendation_From_ID_203.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of strong analytical skills and military background.",
+        "verified_skills": [
+            "Leadership",
+            "Logistics Management",
+            "Supply Chain Management",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's resume, but there are some minor inconsistencies that raise the fraud chance level to 2."
+    }
+}

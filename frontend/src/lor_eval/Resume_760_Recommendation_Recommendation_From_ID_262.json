@@ -1,0 +1,18 @@
+{
+    "resume_file": "760.json",
+    "recommendation_file": "Recommendation_From_ID_262.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be comparing the candidate to an unrelated role (Administrative Assistant in Human Resources), which may indicate some exaggeration or lack of direct relevance to the candidate's skills and experience.",
+        "verified_skills": [
+            "Leadership",
+            "Aircraft Maintenance",
+            "Project Management",
+            "Quality Control",
+            "Troubleshooting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and technical skills in the aerospace sector, but its comparison to an unrelated role may raise some concerns about its relevance and authenticity."
+    }
+}

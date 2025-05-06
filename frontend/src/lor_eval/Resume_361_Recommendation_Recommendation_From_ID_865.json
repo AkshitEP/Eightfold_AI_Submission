@@ -1,0 +1,15 @@
+{
+    "resume_file": "361.json",
+    "recommendation_file": "Recommendation_From_ID_865.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Unrealistic claims and lack of specific examples or evidence from the resume. Language is overly flattering.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks alignment with the key areas of expertise and contains unrealistic claims, making it seem less credible."
+    }
+}

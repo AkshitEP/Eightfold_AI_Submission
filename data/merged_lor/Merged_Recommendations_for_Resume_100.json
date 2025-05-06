@@ -1,0 +1,26 @@
+{
+    "target_id": "100",
+    "recommendations": [
+        {
+            "recommender_id": "424",
+            "recommendation": {
+                "resume_id": 100,
+                "recommendation_file": "Recommendation_From_ID_424.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. The recommender's background in healthcare management is not directly related to the candidate's experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Program Management",
+                        "Team Management",
+                        "Strategic Planning",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills, strategic mindset, and ability to drive service initiatives. However, it lacks concrete examples from the candidate's resume and seems overly flattering. The recommender's background in healthcare management is not directly related to the candidate's experience."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "333.json",
+    "recommendation_file": "Recommendation_From_ID_292.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Payroll Management",
+            "General Accounting",
+            "Financial Reporting",
+            "Bookkeeping",
+            "Bank Reconciliation",
+            "Accounts Payable and Receivable",
+            "Financial Analysis",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical knowledge and expertise in finance. The source of the recommendation appears to be a peer, with a background in strategic financial management and contract analytics."
+    }
+}

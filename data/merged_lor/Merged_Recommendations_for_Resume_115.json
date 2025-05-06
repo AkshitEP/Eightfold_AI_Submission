@@ -1,0 +1,178 @@
+{
+    "target_id": "115",
+    "recommendations": [
+        {
+            "recommender_id": "799",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_799.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and team management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "385",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_385.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Some claims seem exaggerated or unsupported, and the recommendation's tone is overly flattering.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with key areas of expertise. The recommender's relationship to the candidate is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "38",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_38.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source claims the candidate has a background as an Aviation Electronics Technician, which is not mentioned in the resume. This inconsistency raises some concerns.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Problem-Solving",
+                        "Compliance Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and problem-solving skills, which align with their experience as a Branch Logistics Manager and General Manager. However, the source's claim about the candidate's background as an Aviation Electronics Technician is not supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "274",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_274.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Compliance Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and compliance management abilities. The source of the recommendation is a peer, an Operations Manager with over 12 years of experience, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "308",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_308.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Compliance Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and problem-solving abilities. The source of the recommendation is a peer who worked with the candidate on cross-department projects."
+                }
+            }
+        },
+        {
+            "recommender_id": "125",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_125.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Compliance Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Vice President (likely a supervisor or someone in a higher management level)",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, logistical management, and problem-solving abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "216",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_216.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Sales Management",
+                        "Compliance Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and sales management abilities. The source of the recommendation is a Senior Sales Management Consultant, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "870",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_870.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Compliance Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and compliance management abilities. The source of the recommendation is unclear, but the language used is formal and professional."
+                }
+            }
+        },
+        {
+            "recommender_id": "339",
+            "recommendation": {
+                "resume_file": "115.json",
+                "recommendation_file": "Recommendation_From_ID_339.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration and improper language. The recommendation mentions a nursing executive's experience and skills, which is not related to the candidate's experience or skills.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's experience or skills, and appears to be fabricated or not genuine."
+                }
+            }
+        }
+    ]
+}

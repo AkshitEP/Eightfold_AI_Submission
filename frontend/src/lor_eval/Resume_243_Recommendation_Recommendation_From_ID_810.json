@@ -1,0 +1,12 @@
+{
+    "resume_file": "243.json",
+    "recommendation_file": "Recommendation_From_ID_810.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation does not align well with the candidate's skills and experience. The recommendation mentions unrelated experiences and skills, such as assisting in aircraft mechanics and managing livestock, which are not mentioned in the resume. The language used is also informal and lacks specific examples of the candidate's accomplishments.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide any specific examples of the candidate's skills or experiences that align with the resume. The recommendation seems to be based on personal qualities and unrelated experiences, which raises concerns about its credibility."
+    }
+}

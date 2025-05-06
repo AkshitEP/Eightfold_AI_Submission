@@ -1,0 +1,17 @@
+{
+    "resume_file": "592.json",
+    "recommendation_file": "Recommendation_From_ID_57.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Sales and Marketing",
+            "Customer Service",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, sales, and customer service abilities. The recommendation highlights the candidate's achievements in various roles, particularly within the fitness industry."
+    }
+}

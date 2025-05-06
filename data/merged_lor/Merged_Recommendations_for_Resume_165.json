@@ -1,0 +1,117 @@
+{
+    "target_id": "165",
+    "recommendations": [
+        {
+            "recommender_id": "699",
+            "recommendation": {
+                "resume_file": "165.json",
+                "recommendation_file": "Recommendation_From_ID_699.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Account Management",
+                        "Leadership",
+                        "Project Management",
+                        "Strategic Planning",
+                        "Communication",
+                        "Business Development",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their abilities and achievements."
+                }
+            }
+        },
+        {
+            "recommender_id": "877",
+            "recommendation": {
+                "resume_file": "165.json",
+                "recommendation_file": "Recommendation_From_ID_877.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Account Management",
+                        "Leadership",
+                        "Business Development",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and relationship management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "221",
+            "recommendation": {
+                "resume_file": "165.json",
+                "recommendation_file": "Recommendation_From_ID_221.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Account Management",
+                        "Leadership",
+                        "Project Management",
+                        "Strategic Planning",
+                        "Communication",
+                        "Business Development",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in managing strategic accounts, developing meaningful relationships with healthcare professionals, and launching innovative products."
+                }
+            }
+        },
+        {
+            "recommender_id": "105",
+            "recommendation": {
+                "resume_file": "165.json",
+                "recommendation_file": "Recommendation_From_ID_105.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Communication",
+                        "Team Collaboration",
+                        "Business Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems largely credible, but lacks substantial detail or alignment with the key areas of expertise mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "36",
+            "recommendation": {
+                "resume_file": "165.json",
+                "recommendation_file": "Recommendation_From_ID_36.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Account Management",
+                        "Leadership",
+                        "Project Management",
+                        "Strategic Planning",
+                        "Communication",
+                        "Business Development",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their account management, sales, and leadership abilities. The source of the recommendation is a supervisor, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "resume_id": 65,
+    "recommendation_file": "Recommendation_From_ID_914.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's work history.",
+        "verified_skills": [
+            "Sales",
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "HIPAA Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in sales, customer service, and communication, but lacks concrete examples from their work history. The language is formal, but the tone is overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

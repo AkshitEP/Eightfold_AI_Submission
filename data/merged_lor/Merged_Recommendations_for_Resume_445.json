@@ -1,0 +1,68 @@
+{
+    "target_id": "445",
+    "recommendations": [
+        {
+            "recommender_id": "24",
+            "recommendation": {
+                "resume_file": "445.json",
+                "recommendation_file": "Recommendation_From_ID_24.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Case Management",
+                        "Community Outreach",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and commitment to improving the lives of vulnerable populations. However, the source of the recommendation is unclear, and the Director of Finance's role is not directly related to the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "333",
+            "recommendation": {
+                "resume_file": "445.json",
+                "recommendation_file": "Recommendation_From_ID_333.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Case Management",
+                        "Community Outreach",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Clinical Service Advocate and their ability to connect empathetically with individuals in distress."
+                }
+            }
+        },
+        {
+            "recommender_id": "991",
+            "recommendation": {
+                "resume_file": "445.json",
+                "recommendation_file": "Recommendation_From_ID_991.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Case Management",
+                        "Community Outreach",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in clinical services and advocacy. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not explicitly stated."
+                }
+            }
+        }
+    ]
+}

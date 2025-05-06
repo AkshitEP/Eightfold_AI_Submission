@@ -1,0 +1,17 @@
+{
+    "resume_file": "133.json",
+    "recommendation_file": "Recommendation_From_ID_633.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of a $1.8M budget and a 60% increase in performance scores seems statistically improbable and requires further verification.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Operations Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational management skills and leadership abilities. However, some claims seem exaggerated and require further verification."
+    }
+}

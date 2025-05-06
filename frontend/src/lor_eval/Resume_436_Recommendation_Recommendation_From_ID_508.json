@@ -1,0 +1,17 @@
+{
+    "resume_file": "436.json",
+    "recommendation_file": "Recommendation_From_ID_508.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in pharmaceutical sales is unrelated to the candidate's finance experience. Some claims seem exaggerated, but overall, the recommendation is credible.",
+        "verified_skills": [
+            "Sales Management",
+            "Leadership",
+            "Customer Service",
+            "Product Knowledge"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in sales management, leadership, and customer service, but lacks specific examples from their finance experience. The recommender's background in pharmaceutical sales is unrelated to the candidate's finance experience, which raises some concerns about the recommendation's credibility."
+    }
+}

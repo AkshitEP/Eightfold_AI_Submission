@@ -1,0 +1,18 @@
+{
+    "resume_id": 987,
+    "recommendation_file": "Recommendation_From_ID_693.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written for two different individuals, which raises some concerns about its authenticity. However, the language is formal and there are no obvious red flags or statistically improbable claims.",
+        "verified_skills": [
+            "Leadership",
+            "Sales and Business Development",
+            "Project Management",
+            "Strategic Planning",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in leadership, business development, and clinical research operations. However, it seems to be written for two different individuals, which may indicate that the recommendation is not entirely genuine."
+    }
+}

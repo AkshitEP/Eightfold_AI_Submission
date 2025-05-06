@@ -1,0 +1,20 @@
+{
+    "resume_file": "841.json",
+    "recommendation_file": "Recommendation_From_ID_66.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Statement Analysis",
+            "General Accounting",
+            "Budgeting",
+            "Financial Planning",
+            "Auditing",
+            "Financial Modeling",
+            "Grant Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and analytical capabilities. The recommender's tone is professional and objective, suggesting a genuine endorsement."
+    }
+}

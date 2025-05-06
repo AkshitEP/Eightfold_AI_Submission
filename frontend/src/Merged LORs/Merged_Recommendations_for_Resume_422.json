@@ -1,0 +1,72 @@
+{
+    "target_id": "422",
+    "recommendations": [
+        {
+            "recommender_id": "240",
+            "recommendation": {
+                "resume_file": "422.json",
+                "recommendation_file": "Recommendation_From_ID_240.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies between the recommendation and the resume.",
+                    "verified_skills": [
+                        "HRIS (Human Resource Information System)",
+                        "Business Analysis",
+                        "Project Management",
+                        "Communication",
+                        "Process Improvement"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies between the recommendation and the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "186",
+            "recommendation": {
+                "resume_file": "422.json",
+                "recommendation_file": "Recommendation_From_ID_186.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Process Improvement",
+                        "Project Management",
+                        "Business Analysis",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their process improvement and project management abilities. The source of the recommendation is the Director of HR, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "136",
+            "recommendation": {
+                "resume_file": "422.json",
+                "recommendation_file": "Recommendation_From_ID_136.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HRIS (Human Resource Information System)",
+                        "Business Analysis",
+                        "Project Management",
+                        "Data Analysis",
+                        "SAP (Systems, Applications, and Products in Data Processing)",
+                        "Payroll Management",
+                        "Leadership",
+                        "Communication",
+                        "Process Improvement"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in HR systems and applications, process improvement, and project management. The recommendation also highlights the candidate's analytical abilities, attention to detail, and results-oriented mindset."
+                }
+            }
+        }
+    ]
+}

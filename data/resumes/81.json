@@ -1,0 +1,114 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Global IT Project Manager",
+                "work_description": "Manage the Internal system around our global network. Managing the in-house Java Development Team to offer internal, back of house solutions as well as Customer facing web portals to our Freight Agent community. I also manage the Support Network across our four regions ensuring the end user is supported by local key users or from members of my UK, US and South Pac based teams.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "IT Project Manager",
+                "work_description": "Responsible for several major projects, including Project Managing the IT Infrastructure required for our green field Station start-ups for our Joint Ventures in Hyderabad and Bangalore in 2007 and 2008.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2007",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Support Analyst and System Administrator",
+                "work_description": "Provided front line (on site and remote) support to all UK Cargo Terminals, Including PC support and maintenance, network administration, exchange server administration and answering user enquiries.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2001",
+                "end_date": "05/2007"
+            },
+            {
+                "role_name": "Business Analyst",
+                "work_description": "Developed via a Business Intelligence tool called IQ Objects, all reports generated from the core Cargo Handling System.",
+                "company_level": "Large Corporation",
+                "start_date": "05/1998",
+                "end_date": "05/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Glamorgan",
+                "start_date": "01/1992",
+                "end_date": "12/1996",
+                "domain": "Mathematics",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Cardinal Newman R.C. School",
+                "start_date": "01/1990",
+                "end_date": "12/1992",
+                "domain": "Mathematics & Geography",
+                "level": "A Levels"
+            },
+            {
+                "university": "Cardinal Newman R.C. School",
+                "start_date": "01/1988",
+                "end_date": "12/1992",
+                "domain": "Mathematics, Geography, Biology, English, French & Physics",
+                "level": "GSCEs"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Golf",
+            "English Soccer",
+            "Rugby",
+            "Collage Football",
+            "Watching the Cubs"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing multiple projects across different roles, including managing global IT projects and IT infrastructure for green field station start-ups, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has led teams in various roles, including managing a global IT project team and a support network across four regions, showing expert-level leadership skills."
+            },
+            {
+                "name": "Java Development",
+                "level": 3,
+                "explanation": "Managed a Java development team, suggesting a solid working proficiency in Java development, although direct hands-on experience is not mentioned."
+            },
+            {
+                "name": "System Administration",
+                "level": 4,
+                "explanation": "Has experience with system administration, including PC support, network administration, and exchange server administration, indicating strong proficiency."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 3,
+                "explanation": "Has experience as a business analyst, developing reports using a business intelligence tool, showing a solid working proficiency in business analysis."
+            },
+            {
+                "name": "Network Administration",
+                "level": 3,
+                "explanation": "Has experience with network administration, including providing front-line support to UK cargo terminals, suggesting a solid working proficiency."
+            },
+            {
+                "name": "IT Infrastructure Management",
+                "level": 4,
+                "explanation": "Has experience managing IT infrastructure for green field station start-ups, indicating strong proficiency in IT infrastructure management."
+            },
+            {
+                "name": "Customer Support",
+                "level": 3,
+                "explanation": "Has experience providing front-line support to end-users, suggesting a solid working proficiency in customer support."
+            },
+            {
+                "name": "Business Intelligence",
+                "level": 2,
+                "explanation": "Has experience using a business intelligence tool to develop reports, suggesting some practical experience with business intelligence."
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "resume_file": "23.json",
+    "recommendation_file": "Recommendation_From_ID_456.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and recommendation is well-supported by the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Risk Management",
+            "Financial Analysis",
+            "Compliance",
+            "Communication",
+            "Financial Products",
+            "Regulatory Knowledge",
+            "Team Management",
+            "Business Process Improvement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant, fully aligning with all key skills, experiences, and roles from the resume, providing strong support for the candidate's qualifications. The recommendation highlights the candidate's exceptional leadership, project management, and technical expertise, as well as their ability to work effectively with diverse teams and ensure regulatory compliance."
+    }
+}

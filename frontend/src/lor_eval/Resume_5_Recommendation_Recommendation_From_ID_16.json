@@ -1,0 +1,17 @@
+{
+    "resume_id": 5,
+    "recommendation_file": "Recommendation_From_ID_16.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as a Phlebotomist and Preceptor seems unrelated to the candidate's experience in HR and operations management. However, the recommendation highlights the candidate's skills and expertise in leadership, performance management, and talent assessments.",
+        "verified_skills": [
+            "Leadership",
+            "Performance Management",
+            "Talent Management",
+            "Coaching"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in HR and operations management, but the recommender's background seems unrelated. The recommendation highlights the candidate's expertise in leadership, performance management, and talent assessments, but lacks specific examples from the candidate's work history."
+    }
+}

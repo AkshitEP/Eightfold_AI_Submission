@@ -1,0 +1,125 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Assistant Banking Center Manager",
+                "work_description": "Financial reporting, Bank reconciliations, Knowledge of commercial law, Negotiation skills, Complex problem solving skills, Needs assessments, Creative design, Strategic planning, Sales and Marketing, Client Interface, Profile management, Staff management, and Compliance.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Sr. Financial Banker",
+                "work_description": "Profile management, Developing strategic alliances, Counseling individuals and corporate clients, Cross-selling banking services, Participating in community events, and Achieving beyond expected quota each quarter.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2007",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Sr. Financial Service Rep",
+                "work_description": "Directed daily operations for retail banking, Managed a staff of customer service representatives and tellers, Analyzed financial statements, Counseled corporate clients and high net-worth individuals.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2003",
+                "end_date": "07/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Houston downtown",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Business Finance/HR Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Houston Community College",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Unknown",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Leadership Development",
+            "Junior Achievement",
+            "Red Cross",
+            "March Of Dimes",
+            "Breast Cancer Awareness"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Has extensive experience with financial reporting, bank reconciliations, and analyzing financial statements, indicating strong proficiency."
+            },
+            {
+                "name": "Bank Reconciliation",
+                "level": 4,
+                "explanation": "Has performed bank reconciliations as part of financial reporting, showing strong proficiency in this skill."
+            },
+            {
+                "name": "Commercial Law",
+                "level": 3,
+                "explanation": "Has knowledge of commercial law, which is a solid working proficiency, but may not have extensive experience applying it."
+            },
+            {
+                "name": "Negotiation Skills",
+                "level": 4,
+                "explanation": "Has negotiation skills, which is likely used extensively in sales and marketing, indicating strong proficiency."
+            },
+            {
+                "name": "Complex Problem Solving",
+                "level": 4,
+                "explanation": "Has complex problem solving skills, which is likely used extensively in managing staff and clients, indicating strong proficiency."
+            },
+            {
+                "name": "Needs Assessment",
+                "level": 3,
+                "explanation": "Has performed needs assessments, which is a solid working proficiency, but may not have extensive experience applying it."
+            },
+            {
+                "name": "Creative Design",
+                "level": 2,
+                "explanation": "Has creative design skills, but may not have extensive experience applying it, indicating some practical experience."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Has strategic planning skills, which is likely used extensively in managing staff and clients, indicating strong proficiency."
+            },
+            {
+                "name": "Sales and Marketing",
+                "level": 4,
+                "explanation": "Has sales and marketing skills, which is likely used extensively in managing clients and achieving quotas, indicating strong proficiency."
+            },
+            {
+                "name": "Client Interface",
+                "level": 4,
+                "explanation": "Has client interface skills, which is likely used extensively in managing clients and achieving quotas, indicating strong proficiency."
+            },
+            {
+                "name": "Profile Management",
+                "level": 4,
+                "explanation": "Has profile management skills, which is likely used extensively in managing clients and achieving quotas, indicating strong proficiency."
+            },
+            {
+                "name": "Staff Management",
+                "level": 4,
+                "explanation": "Has staff management skills, which is likely used extensively in managing staff, indicating strong proficiency."
+            },
+            {
+                "name": "Compliance",
+                "level": 3,
+                "explanation": "Has compliance skills, which is a solid working proficiency, but may not have extensive experience applying it."
+            },
+            {
+                "name": "Leadership Development",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no direct experience or skills mentioned in job history or education."
+            }
+        ]
+    }
+}

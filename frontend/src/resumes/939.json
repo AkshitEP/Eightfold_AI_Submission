@@ -1,0 +1,70 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+                "work_description": "Interpreted scan results, implemented corrective action, and prepared reports of findings in support of the network infrastructure. Worked in coordination with Army Cyber Command and Regional Computer Emergency Response (Army Cyber and RCERT) to support Computer Networks Attacks (CNA) and Computer Network Defense (CND) efforts.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2012",
+                "end_date": "11/2015"
+            },
+            {
+                "role_name": "Chief Steward",
+                "work_description": "Defended the interest of the federal employees at Fort Sam Houston, TX. Assigned cases to stewards based on their skill sets. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Prepared employee's rebuttal to grievances. Organized files, developed spreadsheets, faxed reports and scanned documents. Participated in arbitrations, mediations, and Alternate dispute resolutions.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2000",
+                "end_date": "01/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Richard Bland College",
+                "start_date": "01/1980",
+                "end_date": "12/1980",
+                "domain": "Business Administration",
+                "level": "Associate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Security",
+                "level": 4,
+                "explanation": "Worked in coordination with Army Cyber Command and Regional Computer Emergency Response to support Computer Networks Attacks and Computer Network Defense efforts, indicating strong proficiency in network security."
+            },
+            {
+                "name": "Information Security",
+                "level": 4,
+                "explanation": "Interpreted scan results, implemented corrective action, and prepared reports of findings in support of the network infrastructure, showing strong proficiency in information security."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Assigned cases to stewards based on their skill sets and managed the receptionist area, indicating a solid working proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Participated in arbitrations, mediations, and Alternate dispute resolutions, and prepared employee's rebuttal to grievances, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Organized files, developed spreadsheets, faxed reports and scanned documents, indicating a solid working proficiency in Microsoft Office."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Managed the receptionist area and prepared reports of findings, showing some practical experience in project management."
+            },
+            {
+                "name": "Business Administration",
+                "level": 2,
+                "explanation": "Graduated with an Associate degree in Business Administration, indicating some familiarity with business administration concepts."
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "target_id": "506",
+    "recommendations": [
+        {
+            "recommender_id": "189",
+            "recommendation": {
+                "resume_file": "506.json",
+                "recommendation_file": "Recommendation_From_ID_189.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Forecasting",
+                        "Financial Analysis",
+                        "Financial Modeling",
+                        "Leadership",
+                        "Financial Planning",
+                        "Financial Reporting",
+                        "Risk Management",
+                        "Budgeting",
+                        "Financial Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in strategic planning, budgeting, and process improvements. The recommender's experience as a Global Finance Accountant adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

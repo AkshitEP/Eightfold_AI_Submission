@@ -1,0 +1,127 @@
+{
+    "target_id": "756",
+    "recommendations": [
+        {
+            "recommender_id": "483",
+            "recommendation": {
+                "resume_file": "756.json",
+                "recommendation_file": "Recommendation_From_ID_483.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions network administration skills, which are not explicitly mentioned in the resume. The language is formal, but the recommendation seems to focus on a different set of skills than those listed in the resume.",
+                    "verified_skills": [
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation highlights the candidate's leadership qualities and ability to communicate technical information effectively, but it does not align well with the skills and experience listed in the resume. The recommendation seems to focus on network administration skills, which are not mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "728",
+            "recommendation": {
+                "resume_file": "756.json",
+                "recommendation_file": "Recommendation_From_ID_728.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "IT Strategy",
+                        "Process Improvement",
+                        "Electronic Health Records",
+                        "Information Security"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and IT strategy skills. The source of the recommendation appears to be a peer, as they mention their own role in managing accreditation efforts and understanding the dedication required to ensure compliance and security across various systems."
+                }
+            }
+        },
+        {
+            "recommender_id": "744",
+            "recommendation": {
+                "resume_file": "756.json",
+                "recommendation_file": "Recommendation_From_ID_744.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "IT Strategy",
+                        "Process Improvement",
+                        "Information Security"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and IT strategy expertise. The recommendation source appears to be the Director of Information Technology, who is likely the candidate's supervisor."
+                }
+            }
+        },
+        {
+            "recommender_id": "182",
+            "recommendation": {
+                "resume_file": "756.json",
+                "recommendation_file": "Recommendation_From_ID_182.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "IT Strategy",
+                        "Process Improvement",
+                        "Electronic Health Records"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and process improvement abilities. The source of the recommendation is a peer, indicating a credible and informed perspective."
+                }
+            }
+        },
+        {
+            "recommender_id": "798",
+            "recommendation": {
+                "resume_file": "756.json",
+                "recommendation_file": "Recommendation_From_ID_798.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Process Improvement",
+                        "IT Strategy"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "560",
+            "recommendation": {
+                "resume_file": "756.json",
+                "recommendation_file": "Recommendation_From_ID_560.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and the recommender's background in IT management adds credibility.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "IT Strategy",
+                        "Process Improvement",
+                        "Electronic Health Records"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and process improvement skills. The recommender's background in IT management adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

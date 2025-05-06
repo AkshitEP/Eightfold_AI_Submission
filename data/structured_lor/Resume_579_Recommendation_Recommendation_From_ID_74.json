@@ -1,0 +1,20 @@
+{
+    "resume_file": "579.json",
+    "recommendation_file": "Recommendation_From_ID_74.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the accountant's experience in IT finance management, but the resume does not explicitly mention working in an academic environment or as an IT administrator.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Financial Analysis",
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Negotiation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in finance management, but there are some minor inconsistencies and exaggerated claims. The recommendation seems to be based on the candidate's experience as an accountant and finance manager, but it also mentions their experience in IT administration, which is not explicitly mentioned in the resume."
+    }
+}

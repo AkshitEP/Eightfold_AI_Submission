@@ -1,0 +1,17 @@
+{
+    "resume_file": "374.json",
+    "recommendation_file": "Recommendation_From_ID_9.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly positive tone, but no obvious red flags or statistically improbable claims.",
+        "verified_skills": [
+            "Business Banking",
+            "Client Relationship Management",
+            "Leadership",
+            "Sales"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies and an overly positive tone."
+    }
+}

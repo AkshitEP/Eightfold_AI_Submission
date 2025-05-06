@@ -1,0 +1,76 @@
+{
+    "target_id": "939",
+    "recommendations": [
+        {
+            "recommender_id": "62",
+            "recommendation": {
+                "resume_file": "939.json",
+                "recommendation_file": "Recommendation_From_ID_62.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in Aircraft Hydraulics Journeyman seems unrelated to the candidate's field of expertise. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Network Security",
+                        "Information Security",
+                        "Leadership",
+                        "Communication",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in network security and information assurance. However, the recommender's background seems unrelated to the candidate's field of expertise, which raises some concerns about the recommender's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "323",
+            "recommendation": {
+                "resume_file": "939.json",
+                "recommendation_file": "Recommendation_From_ID_323.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be describing a different person, with a focus on sales and relationship-building skills, which are not mentioned in the resume. The language is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+                    "verified_skills": [
+                        "Network Security"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation barely aligns with the candidate's skills and experience, with a focus on sales and relationship-building skills that are not mentioned in the resume. The recommendation seems to be describing a different person, which raises concerns about its authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "555",
+            "recommendation": {
+                "resume_file": "939.json",
+                "recommendation_file": "Recommendation_From_ID_555.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to be more focused on healthcare management rather than the candidate's experience in IT and INFOSEC.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not fully align with the candidate's skills and experience, particularly in the areas of Network Security, Information Security, and Project Management. The recommendation seems to be more focused on the candidate's experience in healthcare management, which is not mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "554",
+            "recommendation": {
+                "resume_file": "939.json",
+                "recommendation_file": "Recommendation_From_ID_554.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation mentions leadership, fundraising, and campaign management, which are not directly related to the candidate's background in information assurance and security. The claim of generating $2.25 million in two months seems statistically improbable.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide any specific examples or evidence of the candidate's skills and experience in information assurance and security. The recommendation appears to be more focused on the recommender's personal experience and opinion rather than the candidate's qualifications."
+                }
+            }
+        }
+    ]
+}

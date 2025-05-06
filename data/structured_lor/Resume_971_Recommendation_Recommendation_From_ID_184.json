@@ -1,0 +1,17 @@
+{
+    "resume_file": "971.json",
+    "recommendation_file": "Recommendation_From_ID_184.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's background in the legal field does not directly relate to the candidate's banking experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales",
+            "Relationship Building",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional skills in customer service, sales, and relationship building, which aligns well with their job history and skills. However, the recommender's background and relationship with the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

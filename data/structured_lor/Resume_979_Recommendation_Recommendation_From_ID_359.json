@@ -1,0 +1,17 @@
+{
+    "resume_id": 979,
+    "recommendation_file": "Recommendation_From_ID_359.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but no statistically improbable claims or informal language detected.",
+        "verified_skills": [
+            "Technology Analysis",
+            "Project Engineering",
+            "Software Engineering",
+            "Curriculum planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies. The recommendation verifies several skills mentioned in the resume, but the source of the recommendation is unknown."
+    }
+}

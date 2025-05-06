@@ -1,0 +1,203 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Database Programmer/Analyst (.NET Developer)",
+                "work_description": "Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network (ADN), DoIT which supports University of Missouri System faculty and students through agile and rapid creation of new applications.",
+                "company_level": "Mid-level",
+                "start_date": "06/2014",
+                "end_date": "02/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Missouri",
+                "start_date": "Present",
+                "end_date": "Present",
+                "domain": "Computer Engineering",
+                "level": "Master's"
+            },
+            {
+                "university": "Jawaharlal Nehru Technological University",
+                "start_date": "01/2009",
+                "end_date": "05/2013",
+                "domain": "Electrical and Electronics Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Education",
+                "description": "This project is all about requesting, scheduling the tutoring sessions.",
+                "skills": [
+                    "C#",
+                    "ASP.Net",
+                    "JavaScript",
+                    "jQuery",
+                    "CSS",
+                    "Bootstrap CSS",
+                    "HTML",
+                    "XML",
+                    "AJAX"
+                ]
+            },
+            {
+                "domain": "Project Management",
+                "description": "The goal of the project to allow the admins, managers, scrum masters of the organization to keep track various applications which includes their developed, ongoing and future projects.",
+                "skills": [
+                    "Entity Framework",
+                    "LINQ",
+                    "ADO.Net",
+                    "Console Application",
+                    "JavaScript",
+                    "CSS",
+                    "Bootstrap CSS",
+                    "HTML"
+                ]
+            },
+            {
+                "domain": "Mobile Application",
+                "description": "The goal of this project is to allow GoMizzou Staff to edit the master tables involved with the GoMizzou webservices.",
+                "skills": [
+                    "AJAX",
+                    "ASP.Net",
+                    "JavaScript",
+                    "CSS",
+                    "Bootstrap CSS",
+                    "HTML",
+                    "SQL server"
+                ]
+            },
+            {
+                "domain": "E-commerce",
+                "description": "The goal of the project is to develop a web application for Checkout process similar to shopping cart for various departments who met the certain rules.",
+                "skills": [
+                    "Smtp server",
+                    "C#",
+                    "Class Library",
+                    "CSV file",
+                    "LIM Service",
+                    "Role-based authentication"
+                ]
+            },
+            {
+                "domain": "Email Customization",
+                "description": "The goal of the project to give students to customize their outlook email.",
+                "skills": [
+                    "Outlook",
+                    "Email customization"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "C#",
+                "level": 4,
+                "explanation": "Used in multiple projects, including Education, Project Management, and E-commerce, indicating strong proficiency."
+            },
+            {
+                "name": "ASP.Net",
+                "level": 4,
+                "explanation": "Used in multiple projects, including Education, Project Management, and Mobile Application, indicating strong proficiency."
+            },
+            {
+                "name": "JavaScript",
+                "level": 4,
+                "explanation": "Used in multiple projects, including Education, Project Management, and Mobile Application, indicating strong proficiency."
+            },
+            {
+                "name": "CSS",
+                "level": 4,
+                "explanation": "Used in multiple projects, including Education, Project Management, and Mobile Application, indicating strong proficiency."
+            },
+            {
+                "name": "HTML",
+                "level": 4,
+                "explanation": "Used in multiple projects, including Education, Project Management, and Mobile Application, indicating strong proficiency."
+            },
+            {
+                "name": "Entity Framework",
+                "level": 3,
+                "explanation": "Used in Project Management project, showing solid working proficiency."
+            },
+            {
+                "name": "LINQ",
+                "level": 3,
+                "explanation": "Used in Project Management project, showing solid working proficiency."
+            },
+            {
+                "name": "ADO.Net",
+                "level": 3,
+                "explanation": "Used in Project Management project, showing solid working proficiency."
+            },
+            {
+                "name": "AJAX",
+                "level": 4,
+                "explanation": "Used in multiple projects, including Education and Mobile Application, indicating strong proficiency."
+            },
+            {
+                "name": "SQL Server",
+                "level": 3,
+                "explanation": "Used in Mobile Application project, showing solid working proficiency."
+            },
+            {
+                "name": "Bootstrap CSS",
+                "level": 4,
+                "explanation": "Used in multiple projects, including Education, Project Management, and Mobile Application, indicating strong proficiency."
+            },
+            {
+                "name": "Smtp server",
+                "level": 2,
+                "explanation": "Used in E-commerce project, showing some practical experience."
+            },
+            {
+                "name": "Class Library",
+                "level": 2,
+                "explanation": "Used in E-commerce project, showing some practical experience."
+            },
+            {
+                "name": "CSV file",
+                "level": 2,
+                "explanation": "Used in E-commerce project, showing some practical experience."
+            },
+            {
+                "name": "LIM Service",
+                "level": 2,
+                "explanation": "Used in E-commerce project, showing some practical experience."
+            },
+            {
+                "name": "Role-based authentication",
+                "level": 2,
+                "explanation": "Used in E-commerce project, showing some practical experience."
+            },
+            {
+                "name": "Outlook",
+                "level": 2,
+                "explanation": "Used in Email Customization project, showing some practical experience."
+            },
+            {
+                "name": "Email customization",
+                "level": 2,
+                "explanation": "Used in Email Customization project, showing some practical experience."
+            },
+            {
+                "name": "Console Application",
+                "level": 2,
+                "explanation": "Used in Project Management project, showing some practical experience."
+            },
+            {
+                "name": "XML",
+                "level": 2,
+                "explanation": "Used in Education project, showing some practical experience."
+            },
+            {
+                "name": "jQuery",
+                "level": 2,
+                "explanation": "Used in Education project, showing some practical experience."
+            }
+        ]
+    }
+}

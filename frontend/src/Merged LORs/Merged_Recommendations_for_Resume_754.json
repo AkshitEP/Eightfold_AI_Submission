@@ -1,0 +1,93 @@
+{
+    "target_id": "754",
+    "recommendations": [
+        {
+            "recommender_id": "894",
+            "recommendation": {
+                "resume_file": "754.json",
+                "recommendation_file": "Recommendation_From_ID_894.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The Branch Chief Information Technology Specialist's experience and expertise in overseeing large-scale IT operations for the Air Force seems unrelated to the candidate's experience and skills.",
+                    "verified_skills": [
+                        "Analytical Testing",
+                        "Method Development",
+                        "Instrument Calibration",
+                        "Research and Development",
+                        "EPIC Systems",
+                        "Team Collaboration",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in supporting healthcare professionals with the EPIC Care system, analytical techniques, and operational workflows. However, the source of the recommendation seems unrelated to the candidate's experience and skills, and some claims seem exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "347",
+            "recommendation": {
+                "resume_file": "754.json",
+                "recommendation_file": "Recommendation_From_ID_347.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but the writer's relationship to the candidate is unclear and the writer's own role is not consistent with the candidate's job history.",
+                    "verified_skills": [
+                        "EPIC Systems",
+                        "Analytical Testing",
+                        "Method Development",
+                        "Instrument Calibration",
+                        "Research and Development",
+                        "Bioprocessing",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills and their ability to bridge the gap between technology and patient care. However, the writer's relationship to the candidate and their own role in the organization are unclear, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "29",
+            "recommendation": {
+                "resume_file": "754.json",
+                "recommendation_file": "Recommendation_From_ID_29.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but the source claims the candidate has 16 years of experience, which is not supported by the resume. Additionally, the source's relationship to the candidate is unclear.",
+                    "verified_skills": [
+                        "Analytical Testing",
+                        "Method Development",
+                        "Instrument Calibration",
+                        "EPIC Systems",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills and collaborative abilities, but some claims seem exaggerated or unsupported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "730",
+            "recommendation": {
+                "resume_file": "754.json",
+                "recommendation_file": "Recommendation_From_ID_730.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's work experience.",
+                    "verified_skills": [
+                        "EPIC Systems",
+                        "Analytical Testing",
+                        "Method Development",
+                        "Research and Development",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills and collaborative spirit, but the tone is overly positive and lacks concrete examples from their work experience."
+                }
+            }
+        }
+    ]
+}

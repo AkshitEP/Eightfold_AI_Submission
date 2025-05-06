@@ -1,0 +1,17 @@
+{
+    "resume_file": "632.json",
+    "recommendation_file": "Recommendation_From_ID_891.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in banking and customer service, but lacks specific examples and details from their job history.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Financial Management",
+            "Accounting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and operational expertise, but lacks concrete examples from their job history. The recommendation also mentions the candidate's experience in banking and customer service, which aligns with their skills and job history."
+    }
+}

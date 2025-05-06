@@ -1,0 +1,18 @@
+{
+    "resume_file": "519.json",
+    "recommendation_file": "Recommendation_From_ID_630.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of aviation technician experience, which is not present in the resume. However, the recommendation still seems largely credible.",
+        "verified_skills": [
+            "Recruitment",
+            "Communication",
+            "Time Management",
+            "Organizational Skills",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in recruitment, but there are some minor inconsistencies and exaggerated claims. The source of the recommendation is unclear, and the mention of aviation technician experience is not supported by the resume."
+    }
+}

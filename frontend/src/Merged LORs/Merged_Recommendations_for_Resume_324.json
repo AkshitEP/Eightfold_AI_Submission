@@ -1,0 +1,116 @@
+{
+    "target_id": "324",
+    "recommendations": [
+        {
+            "recommender_id": "298",
+            "recommendation": {
+                "resume_file": "324.json",
+                "recommendation_file": "Recommendation_From_ID_298.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Financial Oversight",
+                        "Vendor Management",
+                        "Operational Excellence",
+                        "Leadership",
+                        "Project Management",
+                        "Forecasting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning, leadership, and operational excellence. The source of the recommendation appears to be a peer, as they mention collaborating with the candidate in their role."
+                }
+            }
+        },
+        {
+            "recommender_id": "132",
+            "recommendation": {
+                "resume_file": "324.json",
+                "recommendation_file": "Recommendation_From_ID_132.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Financial Oversight",
+                        "Vendor Management",
+                        "Leadership",
+                        "Operational Excellence"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial leadership and achievements."
+                }
+            }
+        },
+        {
+            "recommender_id": "271",
+            "recommendation": {
+                "resume_file": "324.json",
+                "recommendation_file": "Recommendation_From_ID_271.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Financial Oversight",
+                        "Leadership",
+                        "Operational Excellence",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "663",
+            "recommendation": {
+                "resume_file": "324.json",
+                "recommendation_file": "Recommendation_From_ID_663.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Financial Oversight",
+                        "Vendor Management",
+                        "Operational Excellence",
+                        "Leadership",
+                        "Project Management",
+                        "Forecasting",
+                        "Staffing and Capacity Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial leadership and strategic planning abilities. The recommender's experience in accounting operations and budget management provides credibility to their assessment of the candidate's financial expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "389",
+            "recommendation": {
+                "resume_file": "324.json",
+                "recommendation_file": "Recommendation_From_ID_389.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Financial Oversight",
+                        "Vendor Management",
+                        "Operational Excellence",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning and leadership abilities."
+                }
+            }
+        }
+    ]
+}

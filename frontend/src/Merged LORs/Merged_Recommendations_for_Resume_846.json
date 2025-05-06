@@ -1,0 +1,76 @@
+{
+    "target_id": "846",
+    "recommendations": [
+        {
+            "recommender_id": "924",
+            "recommendation": {
+                "resume_file": "846.json",
+                "recommendation_file": "Recommendation_From_ID_924.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation mentions unrelated fields and skills, claims an award-winning cupcake shop, and uses overly flattering language, which are all red flags for potential deception.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly suspicious and does not align with the skills and experiences mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "294",
+            "recommendation": {
+                "resume_file": "846.json",
+                "recommendation_file": "Recommendation_From_ID_294.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems highly suspicious due to the recommender's unrelated profession, exaggerated claims, and informal language.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience, and the recommender's claims seem unrealistic and unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "392",
+            "recommendation": {
+                "resume_file": "846.json",
+                "recommendation_file": "Recommendation_From_ID_392.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommender's background and experience seem unrelated to the candidate's field, and the recommendation contains some exaggerated language and claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Case Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and qualities, but the recommender's background and experience seem unrelated to the candidate's field. The recommendation also contains some exaggerated language and claims, such as comparing the candidate's role to a high-stakes energy sector job."
+                }
+            }
+        },
+        {
+            "recommender_id": "635",
+            "recommendation": {
+                "resume_file": "846.json",
+                "recommendation_file": "Recommendation_From_ID_635.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Customer Service",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and problem-solving skills. However, it does not directly reference all of the candidate's skills, such as Data Analysis, Microsoft Excel, and Case Management."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "resume_file": "197.json",
+    "recommendation_file": "Recommendation_From_ID_105.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is highly unlikely to be genuine due to the lack of relevance to the candidate's skills and experience. The language used is overly flattering and lacks specific examples from the candidate's work history.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experience, and the language used is overly flattering and lacks specific examples. The recommendation appears to be for a different individual with a background in healthcare, rather than the candidate's actual experience in banking and finance."
+    }
+}

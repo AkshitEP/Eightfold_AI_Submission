@@ -1,0 +1,17 @@
+{
+    "resume_file": "886.json",
+    "recommendation_file": "Recommendation_From_ID_34.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, including the recommender's attempt to draw parallels between unrelated fields.",
+        "verified_skills": [
+            "Leadership",
+            "Microsoft Excel",
+            "Financial Analysis",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's experience and skills, but there are some minor inconsistencies that raise concerns about the recommender's credibility."
+    }
+}

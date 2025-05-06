@@ -1,0 +1,16 @@
+{
+    "resume_file": "723.json",
+    "recommendation_file": "Recommendation_From_ID_256.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation is from an Accountant, which seems unrelated to the candidate's experience and skills in healthcare. The language is formal, but the recommendation lacks specific examples and details about the candidate's work in healthcare.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Patient Admission"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's customer service and communication skills, but it is unclear how the recommender is familiar with the candidate's work in healthcare. The recommendation seems to be more focused on the candidate's general skills rather than their specific experience and qualifications in healthcare."
+    }
+}

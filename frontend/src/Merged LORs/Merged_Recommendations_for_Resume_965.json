@@ -1,0 +1,91 @@
+{
+    "target_id": "965",
+    "recommendations": [
+        {
+            "recommender_id": "47",
+            "recommendation": {
+                "resume_file": "965.json",
+                "recommendation_file": "Recommendation_From_ID_47.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Bookkeeping",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Data Analysis",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and administrative expertise. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "796",
+            "recommendation": {
+                "resume_id": 965,
+                "recommendation_file": "Recommendation_From_ID_796.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks direct connection to the candidate's skills and experience. The recommender's relationship to the candidate is unclear, and the recommendation focuses on a hypothetical collaboration with a volunteer accountant.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Bookkeeping"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's potential to benefit from the expertise of a volunteer accountant, but it does not provide specific examples of the candidate's skills or accomplishments. The recommender's credentials as a CPA candidate with over 15 years of experience add credibility, but the recommendation's focus on a hypothetical collaboration raises some concerns."
+                }
+            }
+        },
+        {
+            "recommender_id": "122",
+            "recommendation": {
+                "resume_file": "965.json",
+                "recommendation_file": "Recommendation_From_ID_122.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Bookkeeping",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, organizational skills, and proficiency in using accounting software and Microsoft applications."
+                }
+            }
+        },
+        {
+            "recommender_id": "487",
+            "recommendation": {
+                "resume_file": "965.json",
+                "recommendation_file": "Recommendation_From_ID_487.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Bookkeeping",
+                        "Credit Management",
+                        "Leadership",
+                        "Communication",
+                        "Data Analysis",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and technical skills. The source of the recommendation appears to be a peer, as they mention collaborating closely with the candidate."
+                }
+            }
+        }
+    ]
+}

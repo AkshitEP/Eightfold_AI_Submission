@@ -1,0 +1,16 @@
+{
+    "resume_file": "608.json",
+    "recommendation_file": "Recommendation_From_ID_364.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Patient Care",
+            "Communication",
+            "Emotional Support"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and communication skills. However, the source of the recommendation is unclear, and some skills mentioned in the recommendation (e.g., CPR and blood withdrawal) are not explicitly listed in the candidate's skills section."
+    }
+}

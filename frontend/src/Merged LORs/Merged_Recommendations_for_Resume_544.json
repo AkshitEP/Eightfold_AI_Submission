@@ -1,0 +1,50 @@
+{
+    "target_id": "544",
+    "recommendations": [
+        {
+            "recommender_id": "888",
+            "recommendation": {
+                "resume_file": "544.json",
+                "recommendation_file": "Recommendation_From_ID_888.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written in a formal tone, but it appears to be slightly exaggerated and lacks specific examples from the candidate's experience. The language used is professional, but the claims seem overly positive.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Team Management",
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in leadership, operations management, and customer service, which aligns well with their experience as a Consumer Banking Default Management Supervisor. However, the recommendation seems to be slightly exaggerated and lacks specific examples from the candidate's experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "472",
+            "recommendation": {
+                "resume_file": "544.json",
+                "recommendation_file": "Recommendation_From_ID_472.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Team Management",
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and operational excellence. The recommender's perspective as the Director of Vendor Services and Compliance adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

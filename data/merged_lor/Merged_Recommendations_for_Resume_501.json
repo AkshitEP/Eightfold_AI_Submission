@@ -1,0 +1,40 @@
+{
+    "target_id": "501",
+    "recommendations": [
+        {
+            "recommender_id": "846",
+            "recommendation": {
+                "resume_file": "501.json",
+                "recommendation_file": "Recommendation_From_ID_846.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Project Management",
+                        "IT Consulting",
+                        "Solution Architecture",
+                        "Banking and Financial Services"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional capabilities in the banking and IT sector, but lacks specific examples and details. The language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "865",
+            "recommendation": {
+                "resume_file": "501.json",
+                "recommendation_file": "Recommendation_From_ID_865.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with little to no connection to the skills and experience mentioned in the resume. The language is formal, but the content appears to be unrelated to the candidate's background.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience, and appears to be describing two different individuals. This raises concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

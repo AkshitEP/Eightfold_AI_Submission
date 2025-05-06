@@ -1,0 +1,19 @@
+{
+    "resume_file": "905.json",
+    "recommendation_file": "Recommendation_From_ID_696.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Microsoft Excel",
+            "Computer Networking",
+            "Software Installation",
+            "Telecommunications System Administration",
+            "Project Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but contains some minor inconsistencies and exaggerated claims. The recommender's relationship to the candidate is unclear."
+    }
+}

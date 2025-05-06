@@ -1,0 +1,96 @@
+{
+    "target_id": "987",
+    "recommendations": [
+        {
+            "recommender_id": "937",
+            "recommendation": {
+                "resume_id": 987,
+                "recommendation_file": "Recommendation_From_ID_937.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is for an 'audit and recovery specialist' which is not mentioned in the resume, and the skills and experience mentioned in the recommendation do not align with the candidate's actual experience.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems fraudulent, with obvious signs of exaggeration or misrepresentation. The recommendation does not align with the candidate's actual experience and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "693",
+            "recommendation": {
+                "resume_id": 987,
+                "recommendation_file": "Recommendation_From_ID_693.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written for two different individuals, which raises some concerns about its authenticity. However, the language is formal and there are no obvious red flags or statistically improbable claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales and Business Development",
+                        "Project Management",
+                        "Strategic Planning",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in leadership, business development, and clinical research operations. However, it seems to be written for two different individuals, which may indicate that the recommendation is not entirely genuine."
+                }
+            }
+        },
+        {
+            "recommender_id": "953",
+            "recommendation": {
+                "resume_id": 987,
+                "recommendation_file": "Recommendation_From_ID_953.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The recommendation does not address the candidate's experience and skills mentioned in the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's resume and seems to be exaggerated. It is recommended to verify the candidate's skills and experience through other means."
+                }
+            }
+        },
+        {
+            "recommender_id": "709",
+            "recommendation": {
+                "resume_id": 987,
+                "recommendation_file": "Recommendation_From_ID_709.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Clinical Research",
+                        "Medical Science",
+                        "Strategic Planning",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in clinical research operations and medical science."
+                }
+            }
+        },
+        {
+            "recommender_id": "621",
+            "recommendation": {
+                "resume_id": 987,
+                "recommendation_file": "Recommendation_From_ID_621.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no obvious signs of exaggeration or statistically improbable claims.",
+                    "verified_skills": [
+                        "Communication",
+                        "Analytical skills",
+                        "Ability to work independently"
+                    ],
+                    "recommendation_source": "Supervisor/Manager",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems largely credible, but there are some minor inconsistencies."
+                }
+            }
+        }
+    ]
+}

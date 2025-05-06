@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Assistant Intern",
+                "work_description": "Provide administrative support to the Human Resources Director. Verify I-9 documentation for new hires. Submit the online investigation requests and assists with new employee background checks. Update HR spreadsheet with employee change requests and process paperwork.",
+                "company_level": "Mid-level",
+                "start_date": "02/2016",
+                "end_date": "03/2016"
+            },
+            {
+                "role_name": "Owner, Operator",
+                "work_description": "Managed fashion retail store independently. Provided professional support to staff. Assisted retail store in exhibiting innovative products.",
+                "company_level": "Startup",
+                "start_date": "08/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Preservation Technician I",
+                "work_description": "Responsible for the assembly of fabricated phase boxes, portfolios and custom enclosures for protecting historic and fragile library materials. Performed archival sound repairs for books and pamphlets which included: rebinding books in the original covers (recasing). Prepared and submitted books for additional processing at the bindery. Designed complex enclosures for special projects.",
+                "company_level": "Mid-level",
+                "start_date": "10/2004",
+                "end_date": "05/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Cleveland State University",
+                "start_date": "01/2018",
+                "end_date": "04/2018",
+                "domain": "Organizational Leadership",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Bryant & Stratton College",
+                "start_date": "01/2016",
+                "end_date": "04/2016",
+                "domain": "Unknown",
+                "level": "Associate Degree"
+            },
+            {
+                "university": "Cuyahoga Community College",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "EMT",
+                "level": "Certification"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed fashion retail store independently and provided professional support to staff, showing a solid working proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Designed complex enclosures for special projects as a Preservation Technician I, indicating some practical experience in project management."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Handled multiple responsibilities as an HR Assistant Intern and Preservation Technician I, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Provided administrative support to the Human Resources Director and assisted with new employee background checks, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 2,
+                "explanation": "Performed archival sound repairs for books and pamphlets, showing some practical experience in problem-solving."
+            },
+            {
+                "name": "Organizational Skills",
+                "level": 3,
+                "explanation": "Updated HR spreadsheet with employee change requests and processed paperwork, indicating a solid working proficiency in organizational skills."
+            },
+            {
+                "name": "Teamwork",
+                "level": 2,
+                "explanation": "Assisted retail store in exhibiting innovative products, showing some practical experience in teamwork."
+            },
+            {
+                "name": "Attention to Detail",
+                "level": 3,
+                "explanation": "Verified I-9 documentation for new hires and prepared books for additional processing at the bindery, indicating a solid working proficiency in attention to detail."
+            }
+        ]
+    }
+}

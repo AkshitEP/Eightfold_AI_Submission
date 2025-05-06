@@ -1,0 +1,85 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Electronics Technician",
+                "work_description": "Winner of numerous awards for training and supervising military personnel in the completion of >2,000 maintenance exercises, as well as receiving inspector qualifications for primary and cross-trained rate of aviation electrician's mate. Awarded for implementing innovative electronic travel claims processing system and coordinating the phase-out of an out-of-date legacy system, saving the US government >$500K. Successfully captured accounting errors placed on orders, preventing a substantial financial loss of >150K.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2003",
+                "end_date": "11/2014"
+            },
+            {
+                "role_name": "Collections Manager",
+                "work_description": "Oversaw management of collections; providing leadership, training and performance analysis to ensure staff proficiency and compliance with all applicable laws governing debt collections. Established personal financial plans by effectively interviewing clients to determine income status, present expenses, financial objectives and risk tolerance.",
+                "company_level": "Mid-level",
+                "start_date": "12/2000",
+                "end_date": "01/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "Saint Leo University",
+                "start_date": "01/2011",
+                "end_date": "12/2014",
+                "domain": "Business Administration/Management",
+                "level": "Master's"
+            },
+            {
+                "university": "Saint Leo University",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Co-Founder of Boys to Men Mentoring Program",
+            "Meals on Wheels"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has extensive experience in supervising and training personnel, as well as leading teams in various roles, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully implemented an electronic travel claims processing system and coordinated the phase-out of a legacy system, showing strong proficiency in project management."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 3,
+                "explanation": "Captured accounting errors and prevented a substantial financial loss, indicating a solid working proficiency in financial analysis."
+            },
+            {
+                "name": "Accounting",
+                "level": 3,
+                "explanation": "Received education in accounting and has experience in identifying accounting errors, showing a solid working proficiency."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 3,
+                "explanation": "Established personal financial plans by interviewing clients and determining their financial objectives, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively interviewed clients to determine their financial objectives, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Successfully implemented a new system and prevented financial losses, indicating a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple responsibilities and successfully implemented projects, showing a solid working proficiency in time management."
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "199.json",
+    "recommendation_file": "Recommendation_From_ID_761.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Information Technology",
+            "Procedure Development",
+            "Relationship Building",
+            "Test Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and process improvement initiatives. The source of the recommendation is the Director of Information Technology, indicating a direct supervisory relationship."
+    }
+}

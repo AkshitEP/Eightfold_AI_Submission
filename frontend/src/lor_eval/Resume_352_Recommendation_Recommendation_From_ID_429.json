@@ -1,0 +1,16 @@
+{
+    "resume_file": "352.json",
+    "recommendation_file": "Recommendation_From_ID_429.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be referencing a different person's experience in recruiting, which is not relevant to the candidate's skills and experience in IT. However, it does mention the candidate's role as VP of Information Technology and their background in IT operations and project management.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Information Technology"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a mix of two different people's experiences. While it does mention the candidate's role and background in IT, it also references a recruiting role that is not relevant to the candidate's skills and experience. This inconsistency raises some concerns about the authenticity of the recommendation."
+    }
+}

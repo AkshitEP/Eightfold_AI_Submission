@@ -1,0 +1,72 @@
+{
+    "target_id": "908",
+    "recommendations": [
+        {
+            "recommender_id": "247",
+            "recommendation": {
+                "resume_file": "908.json",
+                "recommendation_file": "Recommendation_From_ID_247.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not a direct supervisor or peer, and the language is somewhat informal. The claims made are generally supported by the resume, but the connection to the recommender's marketing background is unclear.",
+                    "verified_skills": [
+                        "Nursing Care",
+                        "Patient Education",
+                        "Patient Advocacy",
+                        "Communication",
+                        "Critical Thinking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the nurse's patient-centered approach, communication skills, and dedication to improving patient outcomes. However, the recommender's background in marketing and lack of direct supervision or peer relationship with the nurse raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "70",
+            "recommendation": {
+                "resume_file": "908.json",
+                "recommendation_file": "Recommendation_From_ID_70.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing Care",
+                        "Patient Education",
+                        "Patient Advocacy",
+                        "Medical Record Keeping",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Critical Thinking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing practice and patient advocacy. The recommender highlights the candidate's exceptional patient-centered care, ability to foster positive relationships, and commitment to high standards of patient satisfaction."
+                }
+            }
+        },
+        {
+            "recommender_id": "439",
+            "recommendation": {
+                "resume_file": "908.json",
+                "recommendation_file": "Recommendation_From_ID_439.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work history. Some claims seem exaggerated, such as the 'dynamic partnership' between the Account Executive and the Field Nurse.",
+                    "verified_skills": [
+                        "Nursing Care",
+                        "Patient Education",
+                        "Patient Advocacy",
+                        "Medical Record Keeping",
+                        "Communication",
+                        "Critical Thinking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience and skills in patient care, but it does not provide concrete examples from their work history. The mention of the Account Executive and the Field Nurse's partnership seems unrelated to the candidate's skills and experience."
+                }
+            }
+        }
+    ]
+}

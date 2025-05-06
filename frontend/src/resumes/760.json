@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Mechanic",
+                "work_description": "Orchestrate aircraft maintenance activity across 12 work centers, supervising 200+ technicians in testing, troubleshooting, and upkeep of aircraft and engine subsystems on both fixed and rotor-wing models. Direct organizational-level and intermediate-level maintenance programs; implement policies, improve processes, and provide technical supervision and management control of programs impacting aircraft maintenance activities. Drive production quality control and administrative audits; collect, analyze, and interpret test data to provide senior leadership with crucial guidance for improving operational efficiency and performance.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Aviation Maintenance & Production Manager",
+                "work_description": "Orchestrate aircraft maintenance activity across 12 work centers, supervising 200+ technicians in testing, troubleshooting, and upkeep of aircraft and engine subsystems on both fixed and rotor-wing models. Direct organizational-level and intermediate-level maintenance programs; implement policies, improve processes, and provide technical supervision and management control of programs impacting aircraft maintenance activities. Drive production quality control and administrative audits; collect, analyze, and interpret test data to provide senior leadership with crucial guidance for improving operational efficiency and performance.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2010",
+                "end_date": "08/2010"
+            },
+            {
+                "role_name": "Aviation Mechanic",
+                "work_description": "Skillfully performed scheduled / unscheduled and preventative maintenance across variety of aircraft models; led troubleshooting, removal, repair, modification, calibration, assembly, and quality assurance of mechanical and electrical systems, subsystems, airframes, power plants, engines, hydraulics, avionics, and associated support equipment (SE). Coordinated with technicians from multiple shops to drive work sequencing, scheduling, and priority changes; adapted procedures and resources to resolve problems arising from equipment failures, material delays, and labor shortages. Trained employees and inspected finished work to ensure adherence with quality standards; documented maintenance activity and submitted reports on schedule.",
+                "company_level": "Large Corporation",
+                "start_date": "06/1994",
+                "end_date": "08/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Embry-Riddle Aeronautical University",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Technical Management / Occupational Safety and Health",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Coastline Community College",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Aviation Technology and Healthy Technology",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Aircraft Maintenance",
+                "level": 5,
+                "explanation": "Over 25 years of experience in aircraft maintenance, including leadership roles and hands-on experience with various aircraft models, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Extensive experience in supervising large teams of technicians, directing organizational-level maintenance programs, and providing technical supervision and management control, indicating expert-level leadership skills."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Experience in orchestrating aircraft maintenance activity across multiple work centers, implementing policies, and improving processes, suggesting strong proficiency in project management."
+            },
+            {
+                "name": "Quality Control",
+                "level": 4,
+                "explanation": "Experience in driving production quality control and administrative audits, collecting and analyzing test data, and providing guidance for improving operational efficiency, indicating strong proficiency in quality control."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Experience in leading troubleshooting efforts, resolving problems arising from equipment failures, material delays, and labor shortages, suggesting strong proficiency in troubleshooting."
+            },
+            {
+                "name": "Technical Management",
+                "level": 3,
+                "explanation": "Education in Technical Management and experience in implementing policies and improving processes, indicating a solid working proficiency in technical management."
+            },
+            {
+                "name": "Occupational Safety and Health",
+                "level": 3,
+                "explanation": "Education in Occupational Safety and Health, indicating a solid working proficiency in this area."
+            }
+        ]
+    }
+}

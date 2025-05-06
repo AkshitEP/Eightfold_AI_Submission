@@ -1,0 +1,18 @@
+{
+    "resume_file": "862.json",
+    "recommendation_file": "Recommendation_From_ID_113.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in financial reporting, financial analysis, and operational management, but the language used is somewhat generic and lacks specific examples from the resume.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Financial Analysis",
+            "Cash Flow Management",
+            "Payroll Management",
+            "Accounts Payable/Receivable"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but some claims seem exaggerated or unsupported. The recommendation mentions the candidate's expertise in SAP, but this is not explicitly mentioned in the resume. Additionally, the recommendation mentions the candidate's ability to handle extensive financial responsibilities with international corporations, but this is not fully supported by the resume."
+    }
+}

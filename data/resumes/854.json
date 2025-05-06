@@ -1,0 +1,115 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Vice President, Information Technology",
+                "work_description": "Represent Information Technology as a member of the senior leadership team with oversight of all tactical and strategic aspects of corporate IT systems. Manage and lead six-person team that oversees all IT Infrastructure and Business Intelligence operations at one of the largest United Ways in the nation ($38M Revenue).",
+                "company_level": "Large Corporation",
+                "start_date": "11/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Director, IT Infrastructure",
+                "work_description": "Directly responsible for mission critical support of all computer, network, and telecom infrastructure including 800 Windows XP/Windows 7 workstations and 160 Windows 2003/2008 servers at 28 treatment centers, five operations offices, and two co-location facilities.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2008",
+                "end_date": "11/2012"
+            },
+            {
+                "role_name": "Manager, IT Operations - Windows",
+                "work_description": "Managed eleven person team of Help Desk Technicians, System Administrators, System Engineers, and System Architects. Responsible for all new hire and terminate activities, staff scheduling, mentoring, and reviews.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2006",
+                "end_date": "03/2008"
+            },
+            {
+                "role_name": "IT Manager - Networking, Systems, & Support",
+                "work_description": "Managed eight person team of Help Desk Engineers, Network Administrators, Network Engineers, and Telecommunications Administrators. Directly responsible for mission critical support of WAN, LAN, 300+ Windows 2000/XP workstations, and 85 Windows 2000/2003 servers.",
+                "company_level": "Large Corporation",
+                "start_date": "09/1999",
+                "end_date": "10/2006"
+            },
+            {
+                "role_name": "System Administrator",
+                "work_description": "Solely responsible for mission critical support of 400+ Windows 95/98 workstations and 30 Windows NT 4.0 servers for multi-million dollar mortgage broker with offices in 3 states.",
+                "company_level": "Mid-level",
+                "start_date": "03/1996",
+                "end_date": "09/1999"
+            },
+            {
+                "role_name": "Inside Sales Representative",
+                "work_description": "Inside Sales Representative for Company Name.",
+                "company_level": "Mid-level",
+                "start_date": "06/1994",
+                "end_date": "03/1996"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Massachusetts",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "Arizona State University",
+                "start_date": "01/1990",
+                "end_date": "05/1994",
+                "domain": "Real Estate",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including Vice President, Director, and Manager positions, indicating expert-level mastery."
+            },
+            {
+                "name": "IT Infrastructure Management",
+                "level": 5,
+                "explanation": "Has managed large-scale IT infrastructure, including networks, servers, and workstations, across multiple organizations, showing expert-level proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 5,
+                "explanation": "Has managed teams of varying sizes, including teams of up to eleven people, indicating expert-level mastery of team management skills."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Has experience with network administration, including WAN and LAN support, showing strong proficiency."
+            },
+            {
+                "name": "System Administration",
+                "level": 4,
+                "explanation": "Has experience with system administration, including Windows and server management, showing strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has managed multiple IT projects, including mission-critical support, showing a solid working proficiency."
+            },
+            {
+                "name": "Business Administration",
+                "level": 3,
+                "explanation": "Has a Master's degree in Business Administration and has applied business administration skills in various roles, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience with communication, including sales and leadership roles, showing a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Windows",
+                "level": 4,
+                "explanation": "Has extensive experience with Microsoft Windows, including Windows XP, Windows 7, and Windows Server, showing strong proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "target_id": "870",
+    "recommendations": [
+        {
+            "recommender_id": "696",
+            "recommendation": {
+                "resume_file": "870.json",
+                "recommendation_file": "Recommendation_From_ID_696.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's experience and unclear relationship to the candidate.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's experience as a Senior Implementation Manager, but raises some concerns due to minor inconsistencies and unclear relationship to the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "65",
+            "recommendation": {
+                "resume_file": "870.json",
+                "recommendation_file": "Recommendation_From_ID_65.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and potential exaggeration of sales achievements.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but may contain some minor inconsistencies and exaggerations."
+                }
+            }
+        },
+        {
+            "recommender_id": "759",
+            "recommendation": {
+                "resume_id": 870,
+                "recommendation_file": "Recommendation_From_ID_759.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "905",
+            "recommendation": {
+                "resume_file": "870.json",
+                "recommendation_file": "Recommendation_From_ID_905.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and communication skills. The source of the recommendation is a peer, who has witnessed the candidate's work firsthand."
+                }
+            }
+        }
+    ]
+}

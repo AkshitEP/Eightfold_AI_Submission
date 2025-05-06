@@ -1,0 +1,49 @@
+{
+    "target_id": "418",
+    "recommendations": [
+        {
+            "recommender_id": "535",
+            "recommendation": {
+                "resume_file": "418.json",
+                "recommendation_file": "Recommendation_From_ID_535.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Investment Banking",
+                        "Sales",
+                        "Project Management",
+                        "Financial Analysis",
+                        "Deal Structuring",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales performance, project management, and analytical skills. The source of the recommendation is likely a supervisor or someone in a leadership role, given their familiarity with the candidate's work and their own experience in Wealth Management."
+                }
+            }
+        },
+        {
+            "recommender_id": "317",
+            "recommendation": {
+                "resume_file": "418.json",
+                "recommendation_file": "Recommendation_From_ID_317.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's work experience. The language is formal, but the recommendation does not provide specific examples of the candidate's skills and experiences.",
+                    "verified_skills": [
+                        "Investment Banking",
+                        "Sales",
+                        "Project Management",
+                        "Financial Analysis",
+                        "Deal Structuring"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's achievements in investment banking and sales, but the source of the recommendation is unclear. The recommendation does not provide specific examples of the candidate's skills and experiences, but it does demonstrate a general understanding of the candidate's strengths and accomplishments."
+                }
+            }
+        }
+    ]
+}

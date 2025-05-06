@@ -1,0 +1,17 @@
+{
+    "resume_file": "108.json",
+    "recommendation_file": "Recommendation_From_ID_982.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Fitness Instruction",
+            "Health Promotion"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in health and fitness management, leadership, and community engagement."
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "target_id": "297",
+    "recommendations": [
+        {
+            "recommender_id": "238",
+            "recommendation": {
+                "resume_file": "297.json",
+                "recommendation_file": "Recommendation_From_ID_238.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Administration",
+                        "Recruitment",
+                        "Communication",
+                        "Time Management",
+                        "Leadership Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, employee engagement, and compliance with policies and regulations."
+                }
+            }
+        },
+        {
+            "recommender_id": "824",
+            "recommendation": {
+                "resume_file": "297.json",
+                "recommendation_file": "Recommendation_From_ID_824.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Administration",
+                        "Recruitment",
+                        "Data Analysis",
+                        "Communication",
+                        "Time Management",
+                        "Leadership Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, administrative support, and employee engagement initiatives."
+                }
+            }
+        }
+    ]
+}

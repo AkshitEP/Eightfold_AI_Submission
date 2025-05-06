@@ -1,0 +1,21 @@
+{
+    "resume_id": 894,
+    "recommendation_file": "Recommendation_From_ID_761.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Information Technology Management",
+            "Cybersecurity",
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Systems Administration",
+            "Network Administration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership, and interpersonal skills. The recommender's position as the Director of Information Technology at Adsystech adds credibility to the recommendation."
+    }
+}

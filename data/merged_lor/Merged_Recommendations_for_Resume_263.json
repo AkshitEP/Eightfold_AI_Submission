@@ -1,0 +1,58 @@
+{
+    "target_id": "263",
+    "recommendations": [
+        {
+            "recommender_id": "540",
+            "recommendation": {
+                "resume_file": "263.json",
+                "recommendation_file": "Recommendation_From_ID_540.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's work experience or skills. The language used is formal, but the examples provided are not specific to the candidate's accounting experience.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be written by someone who is not familiar with the candidate's work experience or skills. While the recommendation mentions some relevant skills, it also mentions unrelated skills and experiences, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "638",
+            "recommendation": {
+                "resume_file": "263.json",
+                "recommendation_file": "Recommendation_From_ID_638.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and lack of explicit mention of some skills and experiences in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Management",
+                        "Attention to detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some relevant skills and experiences, but lacks substantial detail or alignment with the key areas of expertise mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "230",
+            "recommendation": {
+                "resume_file": "263.json",
+                "recommendation_file": "Recommendation_From_ID_230.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation does not align well with the candidate's skills and experience. The recommendation focuses on customer service skills, which are not mentioned in the resume. The mention of MS Office proficiency is also not supported by the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be for a different role or individual, as it does not match the skills and experience listed in the resume. The recommendation highlights customer service skills, which are not relevant to the accounting roles mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

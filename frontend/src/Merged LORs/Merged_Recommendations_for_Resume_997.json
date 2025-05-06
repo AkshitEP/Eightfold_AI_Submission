@@ -1,0 +1,61 @@
+{
+    "target_id": "997",
+    "recommendations": [
+        {
+            "recommender_id": "194",
+            "recommendation": {
+                "resume_id": 997,
+                "recommendation_file": "Recommendation_From_ID_194.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be from an accountant, not someone who has worked closely with the candidate in an IT capacity. The language used is formal, but the recommendation lacks specific examples of the candidate's technical skills and experience.",
+                    "verified_skills": [
+                        "Cloud Computing",
+                        "Disaster Recovery",
+                        "Troubleshooting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical capability, systematic approach to problem-solving, and ability to interface with various departments. However, it lacks specific examples of the candidate's technical skills and experience, and the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "228",
+            "recommendation": {
+                "resume_id": 997,
+                "recommendation_file": "Recommendation_From_ID_228.txt",
+                "output": {
+                    "relevance_score": 1,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation is for an accounting role, while the resume is for an IT professional. This raises some concerns about the accuracy of the recommendation.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's skills and experience, and some inconsistencies are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "850",
+            "recommendation": {
+                "resume_file": "997.json",
+                "recommendation_file": "Recommendation_From_ID_850.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Troubleshooting",
+                        "Network Administration",
+                        "Microsoft Office 365",
+                        "Virtualization",
+                        "Scripting",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and collaboration on projects. However, the recommendation does not cover all key skills and experiences from the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "target_id": "803",
+    "recommendations": [
+        {
+            "recommender_id": "528",
+            "recommendation": {
+                "resume_file": "803.json",
+                "recommendation_file": "Recommendation_From_ID_528.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of the candidate's current role as a cashier, which seems unrelated to the rest of the recommendation. However, the language is formal and the claims are generally supported by the resume.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Teamwork",
+                        "Nutrition and Fitness",
+                        "Personal Training"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's achievements in personal training and sales, which aligns with their experience and skills. However, the mention of their current role as a cashier seems out of place. Overall, the recommendation is generally credible and supports the candidate's qualifications."
+                }
+            }
+        },
+        {
+            "recommender_id": "916",
+            "recommendation": {
+                "resume_file": "803.json",
+                "recommendation_file": "Recommendation_From_ID_916.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Teamwork",
+                        "Nutrition and Fitness",
+                        "Personal Training"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in the fitness industry, but the source of the recommendation is unclear. The language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "585",
+            "recommendation": {
+                "resume_file": "803.json",
+                "recommendation_file": "Recommendation_From_ID_585.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Nutrition and Fitness",
+                        "Personal Training"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales acumen, customer service skills, and knowledge in fitness and nutrition. However, the source of the recommendation is unclear, and the tone is somewhat promotional."
+                }
+            }
+        }
+    ]
+}

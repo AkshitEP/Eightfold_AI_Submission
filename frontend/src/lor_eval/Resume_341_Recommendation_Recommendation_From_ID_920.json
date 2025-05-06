@@ -1,0 +1,17 @@
+{
+    "resume_file": "341.json",
+    "recommendation_file": "Recommendation_From_ID_920.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Some claims seem slightly exaggerated, but overall, the recommendation is credible.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Problem-Solving",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional customer service and operational efficiency skills, which align with their experience as an Advisor and other roles. However, the recommender's role and relationship to the candidate are unclear, and some claims seem slightly exaggerated."
+    }
+}

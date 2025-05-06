@@ -1,0 +1,12 @@
+{
+    "resume_file": "642.json",
+    "recommendation_file": "Recommendation_From_ID_296.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is for a different individual and does not align with the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be for an administrative assistant, while the resume is for a financial professional."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "resume_file": "360.json",
+    "recommendation_file": "Recommendation_From_ID_405.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's technical work. The language is formal, but the recommendation focuses more on the candidate's leadership and teamwork skills rather than technical expertise.",
+        "verified_skills": [
+            "Network Security",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's leadership and teamwork skills, but does not provide specific examples of their technical expertise. The source of the recommendation is an Inside Sales Representative, which may not be directly related to the candidate's technical work."
+    }
+}

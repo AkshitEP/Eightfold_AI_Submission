@@ -1,0 +1,21 @@
+{
+    "resume_file": "138.json",
+    "recommendation_file": "Recommendation_From_ID_123.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. The recommender's relationship with the candidate is unclear.",
+        "verified_skills": [
+            "Data Analysis",
+            "R Programming",
+            "Linear Model",
+            "Regression Model",
+            "Classification Model",
+            "Neural Network",
+            "GARCH Model",
+            "ARIMA Model"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's analytical skills and experience in statistical methods and programming. However, the language is overly flattering, and the recommender's relationship with the candidate is unclear. The recommendation could benefit from more specific examples from the candidate's resume."
+    }
+}

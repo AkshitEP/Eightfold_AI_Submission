@@ -1,0 +1,87 @@
+{
+    "target_id": "234",
+    "recommendations": [
+        {
+            "recommender_id": "449",
+            "recommendation": {
+                "resume_file": "234.json",
+                "recommendation_file": "Recommendation_From_ID_449.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Storekeeper II seems unrelated to the candidate's experience and skills. However, the recommendation provides specific examples of the candidate's leadership and technical abilities.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional leadership and technical abilities, but the recommender's role and experience seem unrelated to the candidate's background. The recommendation provides specific examples of the candidate's skills and experience, but the lack of direct connection between the recommender and the candidate raises some concerns."
+                }
+            }
+        },
+        {
+            "recommender_id": "392",
+            "recommendation": {
+                "resume_file": "234.json",
+                "recommendation_file": "Recommendation_From_ID_392.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Team Management",
+                        "Communication",
+                        "Training and Development",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and communication abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "380",
+            "recommendation": {
+                "resume_file": "234.json",
+                "recommendation_file": "Recommendation_From_ID_380.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems overly positive and lacks specific examples from the candidate's experience. Some claims seem exaggerated, such as 'reducing safety incidents to zero'.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in leadership, project management, and team management, but lacks concrete examples from their experience. The tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "569",
+            "recommendation": {
+                "resume_file": "234.json",
+                "recommendation_file": "Recommendation_From_ID_569.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and communication skills. The source of the recommendation is a peer, specifically the AFSCME Union President, who has worked with the candidate in a professional capacity."
+                }
+            }
+        }
+    ]
+}

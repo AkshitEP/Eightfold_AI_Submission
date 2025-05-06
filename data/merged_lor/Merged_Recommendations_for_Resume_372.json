@@ -1,0 +1,96 @@
+{
+    "target_id": "372",
+    "recommendations": [
+        {
+            "recommender_id": "245",
+            "recommendation": {
+                "resume_file": "372.json",
+                "recommendation_file": "Recommendation_From_ID_245.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Benefits Administration",
+                        "Organizational Development",
+                        "Leadership",
+                        "Communication",
+                        "HR Operations"
+                    ],
+                    "recommendation_source": "Peer/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's experience in HR management and organizational development, but does not specifically mention some of the skills highlighted in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "481",
+            "recommendation": {
+                "resume_file": "372.json",
+                "recommendation_file": "Recommendation_From_ID_481.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Talent Management",
+                        "Change Management",
+                        "Workforce Planning",
+                        "Leadership",
+                        "Communication",
+                        "Employee Benefits Administration",
+                        "Vendor Relations",
+                        "HR Operations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "472",
+            "recommendation": {
+                "resume_file": "372.json",
+                "recommendation_file": "Recommendation_From_ID_472.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Talent Management",
+                        "Change Management",
+                        "Workforce Planning",
+                        "Organizational Development",
+                        "Leadership",
+                        "Communication",
+                        "Employee Benefits Administration",
+                        "Vendor Relations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and business partnership. The source of the recommendation is likely a peer or colleague, given the level of detail and familiarity with the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "807",
+            "recommendation": {
+                "resume_file": "372.json",
+                "recommendation_file": "Recommendation_From_ID_807.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Talent Management",
+                        "Change Management",
+                        "Workforce Planning",
+                        "Organizational Development",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and business acumen. The source of the recommendation is a Management Consultant who has worked with the candidate, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

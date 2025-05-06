@@ -1,0 +1,46 @@
+{
+    "target_id": "185",
+    "recommendations": [
+        {
+            "recommender_id": "607",
+            "recommendation": {
+                "resume_file": "185.json",
+                "recommendation_file": "Recommendation_From_ID_607.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Lesson Planning",
+                        "Classroom Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, classroom management, and communication skills. The recommender's role as a school library media specialist adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "72",
+            "recommendation": {
+                "resume_file": "185.json",
+                "recommendation_file": "Recommendation_From_ID_72.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's role as a food server with customer service experience seems unrelated to the candidate's teaching profession, raising some concerns about the recommender's credibility.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Lesson Planning",
+                        "Classroom Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's teaching skills, lesson planning, and classroom management abilities, but the recommender's background and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

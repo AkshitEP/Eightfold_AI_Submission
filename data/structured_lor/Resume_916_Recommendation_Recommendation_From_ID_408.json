@@ -1,0 +1,17 @@
+{
+    "resume_id": 916,
+    "recommendation_file": "Recommendation_From_ID_408.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Teaching",
+            "Yoga Instruction",
+            "Fitness Instruction",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and fitness instruction. However, the recommendation does not explicitly mention the candidate's experience as a first-grade teacher or their curriculum development skills."
+    }
+}

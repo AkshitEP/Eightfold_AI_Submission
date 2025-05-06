@@ -1,0 +1,16 @@
+{
+    "resume_file": "219.json",
+    "recommendation_file": "Recommendation_From_ID_193.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims detected, including unrelated roles and industries.",
+        "verified_skills": [
+            "Employee Relations",
+            "Organizational Skills",
+            "Payroll Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some skills and experiences from the resume, but also contains inconsistencies and exaggerated claims."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "354.json",
+    "recommendation_file": "Recommendation_From_ID_454.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but largely credible.",
+        "verified_skills": [
+            "Data Collection",
+            "Customer Service",
+            "Administrative Support",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but lacks substantial detail in some areas. Minor inconsistencies and exaggerated claims are present, but the recommendation seems largely credible."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "200.json",
+    "recommendation_file": "Recommendation_From_ID_992.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but the source of the recommendation is unclear and the language used seems somewhat informal. Additionally, the claim of managing logistics for equipment valued at over $300 million seems statistically improbable without further context.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Supply Chain Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns somewhat with the candidate's skills and experience, but the source of the recommendation is unclear and some claims seem exaggerated or unsupported."
+    }
+}

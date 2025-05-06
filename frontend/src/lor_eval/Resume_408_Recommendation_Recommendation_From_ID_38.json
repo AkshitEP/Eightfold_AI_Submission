@@ -1,0 +1,17 @@
+{
+    "resume_file": "408.json",
+    "recommendation_file": "Recommendation_From_ID_38.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's profession and experience seem unrelated to the candidate's field, which raises some concerns about the credibility of the recommendation. However, the language is formal, and no statistically improbable claims are detected.",
+        "verified_skills": [
+            "Fitness Program Development",
+            "Leadership",
+            "Fitness Instruction",
+            "Personal Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's organizational skills, commitment to health education, and interpersonal abilities, which align with their skills and experience. However, the recommender's profession and experience seem unrelated to the candidate's field, which raises some concerns about the credibility of the recommendation."
+    }
+}

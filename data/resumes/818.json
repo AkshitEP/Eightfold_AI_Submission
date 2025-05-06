@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sr. Mortgage Banking Executive",
+                "work_description": "Identified prospects and solicited business referrals, by contacting realtors, attorneys and financial professionals in an assigned territory. Drove company expansion from 12-member mortgage brokerage with one office, to three and established new branch in Las Vegas, NV. Led teams to excel in highstakes environment while encouraging professional development and independent decision making.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Sr. Mortgage Banker & Financial Advisor",
+                "work_description": "Designed financial plans for over 100 high net-worth individuals and business owners including mortgages, insurance, retirement. Managed a team of ten Senior Loan Consultants forging new client relationships and servicing existing ones while maintaining large client base.",
+                "company_level": "Mid-level",
+                "start_date": "12/2011",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Sr. Investment Advisor",
+                "work_description": "Demonstrated record of success in Capital Raising via Private Placement for Preferred and Common stock offering to accredited investors through my own prospecting. Successfully introduced over $3,000,000 million dollars in one year for an early stage startup company for acquisition purposes, as well as opened two satellite offices in Texas and Ohio.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "12/2011"
+            },
+            {
+                "role_name": "Financial Advisor",
+                "work_description": "Responsible for helping individuals and business owners design and implement an appropriate investment strategy based on their specific personal financial goals and circumstances. Rendered exceptionally high quality service to clients in the area of estate planning for high net worth individuals using appropriate life insurance policies.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Massachusetts",
+                "start_date": "01/2000",
+                "end_date": "12/2004",
+                "domain": "English Literature",
+                "level": "Bachelor of Arts"
+            },
+            {
+                "university": "Homer High School",
+                "start_date": "01/1994",
+                "end_date": "12/1998",
+                "domain": "",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience leading teams in high-stakes environments, driving company expansion, and encouraging professional development, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 5,
+                "explanation": "Has designed financial plans for over 100 high net-worth individuals and business owners, demonstrating expert-level proficiency in financial planning."
+            },
+            {
+                "name": "Mortgage Banking",
+                "level": 5,
+                "explanation": "Has extensive experience in mortgage banking, including soliciting business referrals, managing teams, and driving company expansion, indicating expert-level mastery."
+            },
+            {
+                "name": "Investment Management",
+                "level": 5,
+                "explanation": "Has demonstrated a record of success in capital raising, introducing over $3,000,000 in one year for an early stage startup company, and managing a team of Senior Loan Consultants, indicating expert-level proficiency."
+            },
+            {
+                "name": "Estate Planning",
+                "level": 4,
+                "explanation": "Has rendered exceptionally high-quality service to clients in the area of estate planning for high net worth individuals, suggesting strong proficiency."
+            },
+            {
+                "name": "Client Relationship Management",
+                "level": 4,
+                "explanation": "Has managed a large client base, serviced existing clients, and forged new client relationships, indicating strong proficiency in client relationship management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience communicating with realtors, attorneys, and financial professionals, suggesting a solid working proficiency in communication."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has managed teams of up to ten Senior Loan Consultants, indicating strong proficiency in team management."
+            }
+        ]
+    }
+}

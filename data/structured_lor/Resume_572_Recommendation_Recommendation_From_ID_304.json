@@ -1,0 +1,20 @@
+{
+    "resume_file": "572.json",
+    "recommendation_file": "Recommendation_From_ID_304.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "Payroll Management",
+            "Microsoft Excel",
+            "Financial Reporting",
+            "Auditing",
+            "Accounting",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis skills. The recommender's extensive experience in government accounting and financial management lends credibility to their assessment."
+    }
+}

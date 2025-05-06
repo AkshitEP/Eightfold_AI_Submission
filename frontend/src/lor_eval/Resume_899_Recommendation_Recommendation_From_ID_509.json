@@ -1,0 +1,18 @@
+{
+    "resume_file": "899.json",
+    "recommendation_file": "Recommendation_From_ID_509.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Customer Service",
+            "Quality Assurance",
+            "Training and Development"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and customer service skills. The hiring manager's endorsement of the candidate's abilities and achievements is credible and well-supported by the resume."
+    }
+}

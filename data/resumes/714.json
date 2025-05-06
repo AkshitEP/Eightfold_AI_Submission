@@ -1,0 +1,244 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "PhD Candidate in Finance",
+                "work_description": "Conduct research in Finance, specifically asset pricing and econometric modeling.",
+                "company_level": "University",
+                "start_date": "08/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Visiting Instructor in Finance",
+                "work_description": "Taught MBA and Undergraduate Classes in Investments, Financial Markets and Institutions, Bank Financial Management, Introduction to Financial Management",
+                "company_level": "University",
+                "start_date": "09/2013",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Visiting Asst. Professor in Finance",
+                "work_description": "Taught MBA and Undergraduate Classes in Financial Modeling, Strategic Business Problem Solving, Working Capital Management",
+                "company_level": "University",
+                "start_date": "08/2008",
+                "end_date": "06/2010"
+            },
+            {
+                "role_name": "Research Assistant Professor",
+                "work_description": "Principal Investigator on projects for the development of mathematical models for life prediction of Nuclear Waste containers for the Yucca Mountain Nuclear Waste Repository (sponsored by DOE). Taught classes in engineering to graduate and undergraduate students.",
+                "company_level": "University",
+                "start_date": "01/2001",
+                "end_date": "02/2006"
+            },
+            {
+                "role_name": "Research Scientist",
+                "work_description": "Worked on the development of mathematical models for life prediction of turbine engines blades for US Air Force fighter jets.",
+                "company_level": "Research Institution",
+                "start_date": "10/1999",
+                "end_date": "12/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Georgia Institute of Technology (Georgia Tech)",
+                "start_date": "01/1995",
+                "end_date": "06/1999",
+                "domain": "Materials Science and Engineering",
+                "level": "Ph.D."
+            },
+            {
+                "university": "IIT Bombay",
+                "start_date": "01/1988",
+                "end_date": "06/1992",
+                "domain": "Metallurgical Engineering",
+                "level": "B. Tech."
+            },
+            {
+                "university": "University of Connecticut",
+                "start_date": "01/2010",
+                "end_date": "12/2015",
+                "domain": "Finance",
+                "level": "Ph.D."
+            },
+            {
+                "university": "Gonzaga University",
+                "start_date": "01/2005",
+                "end_date": "12/2007",
+                "domain": "Finance",
+                "level": "MBA"
+            },
+            {
+                "university": "Georgia Institute of Technology (Georgia Tech)",
+                "start_date": "01/1992",
+                "end_date": "12/1995",
+                "domain": "Ceramic Engineering",
+                "level": "M.S."
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Finance",
+                "description": "Do tax revenues Reduce Agency Costs and Increase Hospital Efficiency? Empirical Evidence from Washington State",
+                "skills": [
+                    "Maximum Entropy Econometrics"
+                ]
+            },
+            {
+                "domain": "Finance",
+                "description": "Return Distributions under GARCH Process with Sentiment Measures",
+                "skills": [
+                    "GARCH Process",
+                    "Sentiment Measures"
+                ]
+            },
+            {
+                "domain": "Finance",
+                "description": "Market Sentiment and its Effects on Stock Returns",
+                "skills": [
+                    "Market Sentiment",
+                    "Stock Returns"
+                ]
+            },
+            {
+                "domain": "Finance",
+                "description": "A State-Space Model for Investor Sentiment",
+                "skills": [
+                    "State-Space Model",
+                    "Investor Sentiment"
+                ]
+            },
+            {
+                "domain": "Finance",
+                "description": "Herding in Option Pricing Models \u00e2\u20ac\u201c A State Space Approach",
+                "skills": [
+                    "Option Pricing Models",
+                    "State Space Approach"
+                ]
+            },
+            {
+                "domain": "Materials Science",
+                "description": "Improved Corrosion Resistance of Ni-22Cr-13Mo-4W Alloy by Surface Nanocrystallization",
+                "skills": [
+                    "Surface Nanocrystallization",
+                    "Corrosion Resistance"
+                ]
+            },
+            {
+                "domain": "Materials Science",
+                "description": "Effects of Microstructure on Fretting Fatigue Crack Initiation Behavior of Ti-6Al-4V",
+                "skills": [
+                    "Microstructure",
+                    "Fretting Fatigue"
+                ]
+            },
+            {
+                "domain": "Materials Science",
+                "description": "Fretting behavior of Ti-6Al-4V under combined high cycle and low cycle fatigue loading",
+                "skills": [
+                    "Fretting Behavior",
+                    "Fatigue Loading"
+                ]
+            },
+            {
+                "domain": "Materials Science",
+                "description": "Modeling The Reaction Synthesis Of Shock-Densified Titanium-Silicon Powder Mixture Compacts",
+                "skills": [
+                    "Reaction Synthesis",
+                    "Shock-Densified Powder"
+                ]
+            },
+            {
+                "domain": "Materials Science",
+                "description": "Mechanistic Processes Influencing Shock-Chemistry in Powder Mixtures of the Ti-Si, Ti-Al, and Ti-B Systems",
+                "skills": [
+                    "Shock-Chemistry",
+                    "Powder Mixtures"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Modeling",
+                "level": 5,
+                "explanation": "Taught classes in financial modeling and has extensive experience in econometric modeling, indicating expert-level mastery."
+            },
+            {
+                "name": "Econometric Modeling",
+                "level": 5,
+                "explanation": "Conducted research in econometric modeling and has taught classes in this area, showing expert-level proficiency."
+            },
+            {
+                "name": "Asset Pricing",
+                "level": 5,
+                "explanation": "Conducted research in asset pricing and has taught classes in investments, indicating expert-level mastery."
+            },
+            {
+                "name": "Teaching",
+                "level": 5,
+                "explanation": "Taught various classes in finance and materials science, showing expert-level proficiency in teaching."
+            },
+            {
+                "name": "Research",
+                "level": 5,
+                "explanation": "Conducted research in finance and materials science, and has published papers in these areas, indicating expert-level mastery."
+            },
+            {
+                "name": "GARCH Process",
+                "level": 4,
+                "explanation": "Used GARCH process in research projects, showing strong proficiency in this area."
+            },
+            {
+                "name": "Sentiment Measures",
+                "level": 4,
+                "explanation": "Used sentiment measures in research projects, showing strong proficiency in this area."
+            },
+            {
+                "name": "State-Space Model",
+                "level": 4,
+                "explanation": "Used state-space model in research projects, showing strong proficiency in this area."
+            },
+            {
+                "name": "Option Pricing Models",
+                "level": 4,
+                "explanation": "Used option pricing models in research projects, showing strong proficiency in this area."
+            },
+            {
+                "name": "Materials Science",
+                "level": 4,
+                "explanation": "Conducted research in materials science and has taught classes in this area, showing strong proficiency."
+            },
+            {
+                "name": "Surface Nanocrystallization",
+                "level": 3,
+                "explanation": "Used surface nanocrystallization in research projects, showing solid working proficiency in this area."
+            },
+            {
+                "name": "Corrosion Resistance",
+                "level": 3,
+                "explanation": "Used corrosion resistance in research projects, showing solid working proficiency in this area."
+            },
+            {
+                "name": "Microstructure",
+                "level": 3,
+                "explanation": "Used microstructure in research projects, showing solid working proficiency in this area."
+            },
+            {
+                "name": "Fretting Fatigue",
+                "level": 3,
+                "explanation": "Used fretting fatigue in research projects, showing solid working proficiency in this area."
+            },
+            {
+                "name": "Reaction Synthesis",
+                "level": 3,
+                "explanation": "Used reaction synthesis in research projects, showing solid working proficiency in this area."
+            },
+            {
+                "name": "Shock-Chemistry",
+                "level": 3,
+                "explanation": "Used shock-chemistry in research projects, showing solid working proficiency in this area."
+            }
+        ]
+    }
+}

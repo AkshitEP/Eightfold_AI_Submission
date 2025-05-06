@@ -1,0 +1,21 @@
+{
+    "resume_file": "333.json",
+    "recommendation_file": "Recommendation_From_ID_107.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Payroll Management",
+            "General Accounting",
+            "Financial Reporting",
+            "Bookkeeping",
+            "Bank Reconciliation",
+            "Accounts Payable and Receivable",
+            "Microsoft Excel",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and soft skills. The source of the recommendation is a Finance Officer, indicating a peer-level relationship."
+    }
+}

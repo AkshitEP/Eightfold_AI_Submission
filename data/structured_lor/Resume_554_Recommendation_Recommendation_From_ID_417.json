@@ -1,0 +1,16 @@
+{
+    "resume_file": "554.json",
+    "recommendation_file": "Recommendation_From_ID_417.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims detected. Recommendation seems genuine but lacks specific examples or evidence from the resume.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but it lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to be genuine, but there are some minor inconsistencies and exaggerated claims."
+    }
+}

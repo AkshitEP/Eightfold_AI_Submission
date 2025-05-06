@@ -1,0 +1,50 @@
+{
+    "target_id": "634",
+    "recommendations": [
+        {
+            "recommender_id": "350",
+            "recommendation": {
+                "resume_file": "634.json",
+                "recommendation_file": "Recommendation_From_ID_350.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Taxation",
+                        "Financial Planning",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns perfectly with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities. The language used is formal and professional, indicating a genuine and well-supported recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "153",
+            "recommendation": {
+                "resume_file": "634.json",
+                "recommendation_file": "Recommendation_From_ID_153.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's work history. However, the skills and experiences mentioned align well with the candidate's resume.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Financial Planning",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's leadership skills, strategic vision, and ability to manage complex financial operations. However, it would be more convincing with specific examples from the candidate's work history."
+                }
+            }
+        }
+    ]
+}

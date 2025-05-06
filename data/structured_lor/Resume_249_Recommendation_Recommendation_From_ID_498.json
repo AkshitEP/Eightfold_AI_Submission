@@ -1,0 +1,17 @@
+{
+    "resume_file": "249.json",
+    "recommendation_file": "Recommendation_From_ID_498.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Healthcare",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Supervisor/Boss",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and healthcare background. The source of the recommendation is a Director of National Sales, indicating a supervisory or managerial relationship with the candidate."
+    }
+}

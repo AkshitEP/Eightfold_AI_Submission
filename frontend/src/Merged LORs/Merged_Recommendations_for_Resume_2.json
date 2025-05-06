@@ -1,0 +1,112 @@
+{
+    "target_id": "2",
+    "recommendations": [
+        {
+            "recommender_id": "662",
+            "recommendation": {
+                "resume_id": 2,
+                "recommendation_file": "Recommendation_From_ID_662.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Fitness Instruction",
+                        "Personal Training",
+                        "Leadership",
+                        "Fitness Management",
+                        "Group Fitness Instruction",
+                        "Communication",
+                        "English"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and community involvement. The source of the recommendation is a peer, indicating a collaborative working relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "592",
+            "recommendation": {
+                "resume_id": 2,
+                "recommendation_file": "Recommendation_From_ID_592.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's educational background and experience in personal training and fitness instruction, but does not provide specific examples or details to support these claims.",
+                    "verified_skills": [
+                        "Fitness Instruction",
+                        "Personal Training",
+                        "Leadership",
+                        "Fitness Management",
+                        "Group Fitness Instruction"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's passion for health and fitness, as well as their experience in academia and hands-on experience in fitness supervision. However, it does not provide specific examples or details to support these claims, and the language used is somewhat generic and lacking in concrete evidence."
+                }
+            }
+        },
+        {
+            "recommender_id": "582",
+            "recommendation": {
+                "resume_id": 2,
+                "recommendation_file": "Recommendation_From_ID_582.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Fitness Instruction",
+                        "Personal Training",
+                        "Leadership",
+                        "Group Fitness Instruction",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and coaching abilities. The source of the recommendation appears to be a peer or colleague in the fitness industry."
+                }
+            }
+        },
+        {
+            "recommender_id": "469",
+            "recommendation": {
+                "resume_id": 2,
+                "recommendation_file": "Recommendation_From_ID_469.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Fitness Instruction",
+                        "Personal Training",
+                        "Leadership",
+                        "Fitness Management",
+                        "Group Fitness Instruction",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and fitness management. The source of the recommendation appears to be a peer, possibly a colleague or supervisor in the field of physical therapy."
+                }
+            }
+        },
+        {
+            "recommender_id": "624",
+            "recommendation": {
+                "resume_id": 2,
+                "recommendation_file": "Recommendation_From_ID_624.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone without direct experience in the fitness industry, and the language used is overly general and lacks specific examples. The recommender's background as a cashier and receptionist does not provide a strong basis for evaluating the candidate's fitness expertise.",
+                    "verified_skills": [
+                        "Fitness Instruction",
+                        "Personal Training",
+                        "Leadership",
+                        "Fitness Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in personal training and fitness management, but the recommender's lack of direct experience in the fitness industry raises concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

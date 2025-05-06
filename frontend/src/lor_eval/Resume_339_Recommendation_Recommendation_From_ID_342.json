@@ -1,0 +1,18 @@
+{
+    "resume_file": "339.json",
+    "recommendation_file": "Recommendation_From_ID_342.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's background as a Staff Accountant seems unrelated to the candidate's field, which raises some concerns about the recommender's ability to accurately assess the candidate's skills and expertise.",
+        "verified_skills": [
+            "Leadership",
+            "Nursing",
+            "Operations Management",
+            "Quality Assurance",
+            "Risk Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, the recommender's background and expertise in accounting may not be directly relevant to the candidate's field, which could impact the credibility of the recommendation."
+    }
+}

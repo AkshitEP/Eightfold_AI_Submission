@@ -1,0 +1,16 @@
+{
+    "resume_file": "273.json",
+    "recommendation_file": "Recommendation_From_ID_598.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with key areas of expertise. The source of the recommendation is unclear, and the language used seems overly flattering.",
+        "verified_skills": [
+            "Communication",
+            "Event Management",
+            "Marketing Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's communication and organizational skills, but fails to provide specific examples or details about their marketing management experience. The recommendation also seems to exaggerate the candidate's abilities and experience."
+    }
+}

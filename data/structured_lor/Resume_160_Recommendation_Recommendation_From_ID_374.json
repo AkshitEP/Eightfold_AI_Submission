@@ -1,0 +1,18 @@
+{
+    "resume_file": "160.json",
+    "recommendation_file": "Recommendation_From_ID_374.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Banking Operations",
+            "Customer Service",
+            "Account Management",
+            "Cash Management",
+            "Analytical Skills"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking operations and customer service skills."
+    }
+}

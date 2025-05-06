@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Manager/Specialist Leader HealthCare",
+                "work_description": "Served as a Practice Leader in Deloitte's Healthcare Strategy and Operations Practice. Provided advisory services to enable clients to manage ever changing Healthcare Landscape. Provided Leadership and Project Management to large, complex multi year technical and operational transformations.",
+                "company_level": "Large Corporation",
+                "start_date": "05/1999",
+                "end_date": "03/2017"
+            },
+            {
+                "role_name": "Director of Home Care Services",
+                "work_description": "Served as Director of Homecare Services for a hospital based agency that served a 10 county area (rural and urban). Participated in the planning and implementation of merger and acquisition of additional homecare company. Re-engineered operations and processes which resulted in increased efficiency and responsiveness of the agency, as well as a 40% increase over a 1 year period (decreased cost per visit and decreased utilization to maximize reimbursement).",
+                "company_level": "Mid-level",
+                "start_date": "05/1996",
+                "end_date": "05/1999"
+            },
+            {
+                "role_name": "Executive Director/Owner",
+                "work_description": "Developed, planned and implemented a cost-effective healthcare delivery system that has been recognized as a model for children with special needs. Center provided nursing care, as well as, PT, OT, ST and educational services to medically fragile children and their families.",
+                "company_level": "Startup",
+                "start_date": "02/1993",
+                "end_date": "05/1996"
+            },
+            {
+                "role_name": "Nurse Manager/RN",
+                "work_description": "Managed a 35 bed Bone Marrow Transplant/Oncology unit. Daily operations management accountability. Served as a member of the design team that developed the facilities planning, workflow design and patient care 'experience' for a new 300 bed pediatric hospital.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1984",
+                "end_date": "01/1993"
+            }
+        ],
+        "education": [
+            {
+                "university": "Ursuline College",
+                "start_date": "01/1980",
+                "end_date": "12/1984",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "CWRU Weatherhead",
+                "start_date": "01/1990",
+                "end_date": "12/1992",
+                "domain": "Healthcare Management",
+                "level": "Executive Certification"
+            },
+            {
+                "university": "Cleveland State University",
+                "start_date": "01/1995",
+                "end_date": "12/1998",
+                "domain": "Healthcare Management",
+                "level": "MBA (Incomplete)"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing large, complex multi-year technical and operational transformations, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Served as a Practice Leader, Director, and Executive Director, demonstrating expert-level leadership skills."
+            },
+            {
+                "name": "Healthcare Management",
+                "level": 5,
+                "explanation": "Has over 30 years of experience in healthcare management, including developing and implementing cost-effective healthcare delivery systems, indicating expert-level mastery."
+            },
+            {
+                "name": "Operations Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing daily operations, including workflow design and patient care, indicating expert-level mastery."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Participated in the planning and implementation of merger and acquisition, and re-engineered operations and processes, suggesting strong proficiency."
+            },
+            {
+                "name": "Change Management",
+                "level": 4,
+                "explanation": "Enabled clients to manage ever-changing healthcare landscape, and implemented changes that resulted in increased efficiency and responsiveness, suggesting strong proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 3,
+                "explanation": "Developed a cost-effective healthcare delivery system, and decreased cost per visit and utilization, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Nursing",
+                "level": 3,
+                "explanation": "Served as a Nurse Manager and RN, demonstrating a solid working proficiency in nursing."
+            }
+        ]
+    }
+}

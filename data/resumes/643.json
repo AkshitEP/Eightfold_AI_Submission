@@ -1,0 +1,86 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sales & Trading Intern",
+                "work_description": "Worked directly with Senior Managing Directors and Associates of the firm assisting them with the introduction of their Prime Brokerage Service, LCG Primeview. Provided asset and market analysis, conducted cold calls and communicated directly with domestic and international high net worth clients. Reviewed merger prospectuses and provided daily Current Events summaries. Researched particular assets in order to help shape sales pitches for brokers.",
+                "company_level": "Mid-level",
+                "start_date": "07/2009",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Investment Banking Intern",
+                "work_description": "Worked directly with the Senior Managing Directors and Associates of the firm assisting their Senior Portfolio Managers with client relations and account management. Researched particular assets in order to help shape sales pitches for Associates. Prepared business plans, a business pipeline, business summaries, and performed routine office tasks. Attended Shareholder Meetings with Senior Managing Directors.",
+                "company_level": "Mid-level",
+                "start_date": "07/2008",
+                "end_date": "06/2009"
+            },
+            {
+                "role_name": "Associate",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "07/2007",
+                "end_date": "06/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Hampden-Sydney College",
+                "start_date": "01/2006",
+                "end_date": "12/2010",
+                "domain": "Economics and Commerce",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Sigma Chi Fraternity",
+            "Society of '91, Student Leadership Program",
+            "Ridgewood High School Basketball Team"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Asset Analysis",
+                "level": 4,
+                "explanation": "Conducted asset analysis for Senior Managing Directors and Associates in multiple roles, indicating strong proficiency."
+            },
+            {
+                "name": "Market Analysis",
+                "level": 4,
+                "explanation": "Provided market analysis for Senior Managing Directors and Associates in multiple roles, indicating strong proficiency."
+            },
+            {
+                "name": "Sales and Trading",
+                "level": 3,
+                "explanation": "Assisted with the introduction of Prime Brokerage Service and helped shape sales pitches for brokers, showing solid working proficiency."
+            },
+            {
+                "name": "Client Relations",
+                "level": 3,
+                "explanation": "Assisted with client relations and account management in multiple roles, indicating solid working proficiency."
+            },
+            {
+                "name": "Business Planning",
+                "level": 3,
+                "explanation": "Prepared business plans, business pipeline, and business summaries, showing solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Communicated directly with domestic and international high net worth clients, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Participated in Shareholder Meetings with Senior Managing Directors and held leadership roles in extracurricular activities, indicating some practical experience."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Handled multiple tasks and responsibilities in various roles, indicating solid working proficiency."
+            }
+        ]
+    }
+}

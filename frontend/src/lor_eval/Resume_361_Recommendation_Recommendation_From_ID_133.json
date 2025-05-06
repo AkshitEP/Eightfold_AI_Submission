@@ -1,0 +1,19 @@
+{
+    "resume_file": "361.json",
+    "recommendation_file": "Recommendation_From_ID_133.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Safety Management",
+            "Inventory Management",
+            "Communication",
+            "Team Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management and logistical capabilities, attention to detail, and ability to build strong relationships with diverse teams."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "385.json",
+    "recommendation_file": "Recommendation_From_ID_410.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role as an Executive Assistant/Office Manager not directly related to the candidate's experience. However, the recommendation remains largely credible.",
+        "verified_skills": [
+            "Coaching",
+            "Teaching",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in promoting health and wellness, coaching, and working with special education students. However, the recommender's role and experience seem somewhat unrelated to the candidate's background, which raises minor concerns about the recommendation's credibility."
+    }
+}

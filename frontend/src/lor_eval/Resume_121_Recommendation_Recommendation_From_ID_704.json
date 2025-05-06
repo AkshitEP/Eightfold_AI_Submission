@@ -1,0 +1,18 @@
+{
+    "resume_file": "121.json",
+    "recommendation_file": "Recommendation_From_ID_704.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat generic. No statistically improbable claims detected.",
+        "verified_skills": [
+            "System Administration",
+            "Troubleshooting",
+            "Computer Security",
+            "Microsoft Office",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but the source is unclear and the language is somewhat generic. The recommendation highlights the candidate's expertise in network management, system security, and troubleshooting, which are all relevant to their role as a System Administrator."
+    }
+}

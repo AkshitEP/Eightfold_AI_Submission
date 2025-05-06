@@ -1,0 +1,18 @@
+{
+    "resume_file": "462.json",
+    "recommendation_file": "Recommendation_From_ID_289.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Staff Management",
+            "Business Development",
+            "Financial Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, staff management, and customer service abilities. The recommender's relationship with the candidate is clear, and their endorsement is based on direct observation and experience working together."
+    }
+}

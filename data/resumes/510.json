@@ -1,0 +1,92 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Tax Accountant",
+                "work_description": "Prepared and reviewed hundreds of federal and multi-state tax returns for Individuals, Partnerships, LLCs, S Corporations, and C Corporations. Conducted consulting services for clients regarding their filing status and related tax issues. Conducted foreign tax compliance, including foreign withholding taxes and foreign tax credit. Provided comprehensive bookkeeping and accounting services for multiple clients in various industries. Managed general ledger transaction and reporting and performed account reconciliation. Provided financial analysis for clients and assisted with documentation for annual audit. Completed payroll, payroll tax deposits, payroll tax returns and 1099/W2 forms. Prepared and filed monthly and quarterly sales and use tax deposit and tax returns. Assisted clients to setup business, register federal and state tax information and dissolve business.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Intern",
+                "work_description": "Prepared applications for fund transfers and submitted to headquarter to ensure the circulation of funds. Collected and sent contracts and invoices to banks. Created Excel reports and updated the data for reconciliation.",
+                "company_level": "Startup",
+                "start_date": "07/2015",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Wholesale Banking Intern",
+                "work_description": "Organized marketing campaign to develop client relationship and complete business transactions. Assisted client relationship manager with daily administrative work. Conducted telemarketing and social media marketing to attract potential clients.",
+                "company_level": "Startup",
+                "start_date": "05/2014",
+                "end_date": "08/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of California",
+                "start_date": "06/2016",
+                "end_date": "06/2016",
+                "domain": "Accounting",
+                "level": "Master's"
+            },
+            {
+                "university": "The Pennsylvania State University, University Park",
+                "start_date": "05/2015",
+                "end_date": "05/2015",
+                "domain": "Accounting, Economics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "LEADERSHIP & VOLUNTEER",
+            "Recreation and Sports"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Tax Preparation",
+                "level": 5,
+                "explanation": "Has extensive experience preparing and reviewing hundreds of federal and multi-state tax returns for various entities, indicating expert-level mastery."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 4,
+                "explanation": "Provided comprehensive bookkeeping services for multiple clients, including general ledger transaction management and account reconciliation, showing strong proficiency."
+            },
+            {
+                "name": "Account Reconciliation",
+                "level": 4,
+                "explanation": "Performed account reconciliation and managed general ledger transactions, suggesting a strong proficiency in this area."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Provided financial analysis for clients and assisted with documentation for annual audits, indicating a strong proficiency in financial analysis."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Completed payroll, payroll tax deposits, payroll tax returns, and 1099/W2 forms, showing a strong proficiency in payroll management."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Created Excel reports and updated data for reconciliation, suggesting a strong proficiency in using Excel for financial tasks."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Mentioned interest in leadership, but no direct experience in leading teams or projects, indicating some familiarity but limited practical experience."
+            },
+            {
+                "name": "Marketing",
+                "level": 2,
+                "explanation": "Assisted with marketing campaigns and telemarketing, showing some practical experience but limited depth in marketing skills."
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "target_id": "229",
+    "recommendations": [
+        {
+            "recommender_id": "824",
+            "recommendation": {
+                "resume_file": "229.json",
+                "recommendation_file": "Recommendation_From_ID_824.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Recruitment and Staffing",
+                        "Leadership Development",
+                        "Project Management",
+                        "HR Policy Advisement",
+                        "Communication",
+                        "Marketing and Branding"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR advisory services, recruitment, staffing, and policy advisement. The recommendation also highlights the candidate's leadership development, project management, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "235",
+            "recommendation": {
+                "resume_file": "229.json",
+                "recommendation_file": "Recommendation_From_ID_235.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Recruitment and Staffing",
+                        "Leadership Development",
+                        "Project Management",
+                        "HR Policy Advisement",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR advisory services, recruitment, and leadership development initiatives. The source of the recommendation is an HR Manager, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "514",
+            "recommendation": {
+                "resume_file": "229.json",
+                "recommendation_file": "Recommendation_From_ID_514.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Recruitment and Staffing",
+                        "Leadership Development",
+                        "Project Management",
+                        "Communication",
+                        "Marketing and Branding"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR program management, recruitment efforts, and communication skills. The source of the recommendation is a peer, indicating a credible assessment of the candidate's abilities."
+                }
+            }
+        }
+    ]
+}

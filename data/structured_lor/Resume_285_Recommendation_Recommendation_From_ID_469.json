@@ -1,0 +1,17 @@
+{
+    "resume_file": "285.json",
+    "recommendation_file": "Recommendation_From_ID_469.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Some minor inconsistencies are present, such as the recommender's claim of working alongside the candidate as a Physical Therapy Aide, which is not mentioned in the candidate's job history.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Sales and Marketing",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership capabilities, operational oversight, and sales prowess. However, the recommender's role and relationship to the candidate are unclear, and some minor inconsistencies are present."
+    }
+}

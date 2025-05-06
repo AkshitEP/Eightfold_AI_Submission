@@ -1,0 +1,21 @@
+{
+    "resume_file": "168.json",
+    "recommendation_file": "Recommendation_From_ID_831.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Financial Analysis",
+            "Accounting",
+            "Financial Planning",
+            "Communication",
+            "Problem-Solving",
+            "Time Management"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and financial analysis skills. The source of the recommendation is a supervisor, adding credibility to the endorsement."
+    }
+}

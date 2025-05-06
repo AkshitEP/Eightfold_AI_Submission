@@ -1,0 +1,19 @@
+{
+    "resume_file": "144.json",
+    "recommendation_file": "Recommendation_From_ID_826.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the claim of 80% growth in community partners seems statistically improbable without further context or evidence.",
+        "verified_skills": [
+            "Graphic Design",
+            "Art Direction",
+            "Leadership",
+            "Problem Solving",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their design and leadership abilities. However, the claim of 80% growth in community partners raises some concerns about the accuracy of the statement."
+    }
+}

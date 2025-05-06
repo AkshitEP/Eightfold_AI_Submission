@@ -1,0 +1,19 @@
+{
+    "resume_file": "270.json",
+    "recommendation_file": "Recommendation_From_ID_142.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but no red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Employee Relations",
+            "Talent Acquisition",
+            "Recruitment",
+            "Onboarding"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in HR customer service, but might benefit from more specific examples and a clearer connection to the candidate's resume."
+    }
+}

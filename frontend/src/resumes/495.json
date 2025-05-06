@@ -1,0 +1,155 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Head, Information Technology and Information Center",
+                "work_description": "Provide leadership and direction to the GMS Information Center - a collection of data scientists and analysts dedicated to the production of high-value analytics to support manufacturing.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Director, Supply Chain and Logistics Information Technology",
+                "work_description": "Established supply chain technology direction for global manufacturing organization. Established the GMS Information Center - an organization dedicated to providing advanced analytical capabilities to support the manufacturing organization.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2010",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Senior Director, COMET Program",
+                "work_description": "Responsible for managing the delivery efforts for the global COMET program, focusing on the procurement, employee expense management and eSourcing areas.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2009",
+                "end_date": "10/2010"
+            },
+            {
+                "role_name": "Director, SAP Center of Excellence",
+                "work_description": "Responsible for a $15MM annual budget; 75 FTEs and 30+ offshore (mix of consultants and employees); adept at remote management with domestic staff in New Jersey, Tennessee, Delaware and international staff in Europe and Singapore.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2005",
+                "end_date": "11/2009"
+            },
+            {
+                "role_name": "Director, Supply Chain Systems",
+                "work_description": "Led the effort to implement SAP for the US Commercial operations of Schering - Plough.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2002",
+                "end_date": "05/2005"
+            },
+            {
+                "role_name": "Manager, Commercial and Field Force Systems",
+                "work_description": "Led a team of developers implementing web-based solutions for support of Schering - Plough's field forces in the United States.",
+                "company_level": "Large Corporation",
+                "start_date": "04/1998",
+                "end_date": "01/2002"
+            },
+            {
+                "role_name": "Manager, Service Delivery Systems",
+                "work_description": "Led the implementation of outbound call center solutions for key operations in the Ohio call center.",
+                "company_level": "Large Corporation",
+                "start_date": "04/1997",
+                "end_date": "05/1998"
+            },
+            {
+                "role_name": "Manager, Client Services Systems",
+                "work_description": "Led the implementation of the Marketing and Client Services application for the front-office organization of the global bond operations.",
+                "company_level": "Large Corporation",
+                "start_date": "02/1994",
+                "end_date": "04/1997"
+            },
+            {
+                "role_name": "Project Manager",
+                "work_description": "Led the implementation of a new cash management system to support the treasury operations of Prudential.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1992",
+                "end_date": "02/1994"
+            },
+            {
+                "role_name": "PC Coordinator",
+                "work_description": "Responsible for day-to-day support of PC hardware and software for the Prudential Help Desk.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1990",
+                "end_date": "01/1992"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Maryland",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "New Jersey Institute of Technology",
+                "start_date": "01/1994",
+                "end_date": "12/1994",
+                "domain": "Computer Science",
+                "level": "Master's"
+            },
+            {
+                "university": "New Jersey Institute of Technology",
+                "start_date": "01/1990",
+                "end_date": "12/1990",
+                "domain": "Computer Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including heading the Information Center, directing supply chain technology, and managing large teams, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has led numerous projects, including the implementation of SAP, COMET program, and cash management systems, demonstrating expert-level proficiency in project management."
+            },
+            {
+                "name": "Supply Chain Management",
+                "level": 5,
+                "explanation": "Has established supply chain technology direction and led efforts to implement SAP for US Commercial operations, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has experience in providing high-value analytics to support manufacturing, suggesting strong proficiency in data analysis."
+            },
+            {
+                "name": "IT Management",
+                "level": 5,
+                "explanation": "Has managed large IT teams, including 75 FTEs and 30+ offshore staff, and has experience with remote management, indicating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Has managed a $15MM annual budget, suggesting strong proficiency in budgeting."
+            },
+            {
+                "name": "SAP",
+                "level": 5,
+                "explanation": "Has led the implementation of SAP for US Commercial operations and has experience with SAP Center of Excellence, indicating expert-level mastery."
+            },
+            {
+                "name": "Software Development",
+                "level": 3,
+                "explanation": "Has experience in implementing web-based solutions and has led teams of developers, suggesting solid working proficiency in software development."
+            },
+            {
+                "name": "Call Center Management",
+                "level": 3,
+                "explanation": "Has led the implementation of outbound call center solutions, suggesting solid working proficiency in call center management."
+            },
+            {
+                "name": "Cash Management",
+                "level": 3,
+                "explanation": "Has led the implementation of a new cash management system, suggesting solid working proficiency in cash management."
+            }
+        ]
+    }
+}

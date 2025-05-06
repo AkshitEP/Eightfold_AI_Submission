@@ -1,0 +1,20 @@
+{
+    "resume_file": "567.json",
+    "recommendation_file": "Recommendation_From_ID_156.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender claims to be a Finance Director, but the candidate's resume does not mention working with a Finance Director. Additionally, the recommender mentions the candidate's experience in budgeting and resource allocation, which is not explicitly mentioned in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Inventory Management",
+            "Supply Chain Management",
+            "Lean Manufacturing",
+            "Materials Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in leadership, project management, and inventory control, which aligns with their resume. However, the recommender's claim of working with the candidate as a Finance Director raises some concerns about the authenticity of the recommendation."
+    }
+}

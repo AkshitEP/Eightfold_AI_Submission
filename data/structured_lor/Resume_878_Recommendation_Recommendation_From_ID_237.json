@@ -1,0 +1,18 @@
+{
+    "resume_file": "878.json",
+    "recommendation_file": "Recommendation_From_ID_237.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's role and relationship to the candidate are unclear, and the recommender's background in Visual Arts may not be directly relevant to the candidate's experience in math and language arts.",
+        "verified_skills": [
+            "Lesson Planning",
+            "Differentiated Instruction",
+            "Communication",
+            "Technology Integration",
+            "Assessment and Evaluation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in designing differentiated lessons, evaluating academic difficulties, and integrating technology into classroom instruction. However, the recommender's background and relationship to the candidate are unclear, which may raise some concerns about the recommendation's credibility."
+    }
+}

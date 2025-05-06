@@ -1,0 +1,45 @@
+{
+    "target_id": "547",
+    "recommendations": [
+        {
+            "recommender_id": "516",
+            "recommendation": {
+                "resume_file": "547.json",
+                "recommendation_file": "Recommendation_From_ID_516.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Account Management",
+                        "Leadership",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and customer service abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "626",
+            "recommendation": {
+                "resume_file": "547.json",
+                "recommendation_file": "Recommendation_From_ID_626.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of a 95% return on premium after cancellations seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Account Management",
+                        "Customer Service",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and client relations skills. However, the claim of a 95% return on premium after cancellations requires further verification to ensure its accuracy."
+                }
+            }
+        }
+    ]
+}

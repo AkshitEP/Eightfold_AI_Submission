@@ -1,0 +1,18 @@
+{
+    "resume_file": "454.json",
+    "recommendation_file": "Recommendation_From_ID_410.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unknown and the language is somewhat informal. The claims made are mostly supported by the resume, but some exaggeration is possible.",
+        "verified_skills": [
+            "Leadership",
+            "Financial Analysis",
+            "Project Management",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional organizational skills, resource management, and leadership abilities, which are supported by their experience as an Office Manager. However, the source of the recommendation is unclear, and the language used is somewhat informal."
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "target_id": "969",
+    "recommendations": [
+        {
+            "recommender_id": "521",
+            "recommendation": {
+                "resume_file": "969.json",
+                "recommendation_file": "Recommendation_From_ID_521.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job roles and responsibilities mentioned in the recommendation, but overall the language is formal and the claims seem credible.",
+                    "verified_skills": [
+                        "Organizational Skills",
+                        "Communication Skills",
+                        "Paralegal Skills",
+                        "Customer Service",
+                        "Administrative Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's organizational, communication, and paralegal skills, which align well with their resume. However, the recommendation mentions the candidate's experience as an Assistant to the CFO, which is not mentioned in the resume. This inconsistency raises some concerns about the accuracy of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "813",
+            "recommendation": {
+                "resume_id": 969,
+                "recommendation_file": "Recommendation_From_ID_813.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic given the recommender's background as an Aircraft Mechanic, with no apparent connection to the candidate's work experience or skills. The language used is overly flattering and lacks specific examples from the candidate's work history.",
+                    "verified_skills": [
+                        "Organizational Skills",
+                        "Analytical Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks concrete examples from the candidate's work history and seems to be based on the recommender's general impression. The recommender's background as an Aircraft Mechanic raises questions about their familiarity with the candidate's work experience and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "686",
+            "recommendation": {
+                "resume_id": 969,
+                "recommendation_file": "Recommendation_From_ID_686.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of business management background which is not present in the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Organizational Skills",
+                        "Communication Skills",
+                        "Paralegal Skills",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional organizational skills, strategic mindset, and ability to manage diverse responsibilities. It also mentions her expertise in legal research and document management, which aligns with her experience as a paralegal. However, the recommendation does not provide specific examples of her work and seems to be more focused on her general qualities rather than specific skills and accomplishments."
+                }
+            }
+        },
+        {
+            "recommender_id": "787",
+            "recommendation": {
+                "resume_id": 969,
+                "recommendation_file": "Recommendation_From_ID_787.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Organizational Skills",
+                        "Paralegal Skills",
+                        "Time Management",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their paralegal work and organizational abilities. However, the source of the recommendation is unclear, and the language used is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "294",
+            "recommendation": {
+                "resume_id": 969,
+                "recommendation_file": "Recommendation_From_ID_294.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Management",
+                        "Organizational Skills",
+                        "Communication Skills",
+                        "Paralegal Skills",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and paralegal work. However, the source of the recommendation is unclear, and the language used is somewhat generic."
+                }
+            }
+        }
+    ]
+}

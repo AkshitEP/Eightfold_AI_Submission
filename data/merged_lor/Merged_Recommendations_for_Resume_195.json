@@ -1,0 +1,88 @@
+{
+    "target_id": "195",
+    "recommendations": [
+        {
+            "recommender_id": "742",
+            "recommendation": {
+                "resume_file": "195.json",
+                "recommendation_file": "Recommendation_From_ID_742.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "IT Systems Administration",
+                        "Network Administration",
+                        "Computer Hardware Maintenance",
+                        "Cloud Backup Solutions",
+                        "Data Recovery",
+                        "Training and End-User Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and customer service skills. However, the source of the recommendation is unclear, as the recommender's role as an ABA Therapist does not directly relate to the candidate's technical work."
+                }
+            }
+        },
+        {
+            "recommender_id": "117",
+            "recommendation": {
+                "resume_file": "195.json",
+                "recommendation_file": "Recommendation_From_ID_117.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "IT Systems Administration",
+                        "Network Administration",
+                        "Computer Hardware Maintenance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's technical expertise and experience in IT systems administration, but does not specifically mention some of their other skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "468",
+            "recommendation": {
+                "resume_file": "195.json",
+                "recommendation_file": "Recommendation_From_ID_468.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "IT Systems Administration",
+                        "Network Administration",
+                        "Computer Hardware Maintenance",
+                        "Cloud Backup Solutions",
+                        "Data Recovery",
+                        "Training and End-User Support"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and customer support abilities. The source of the recommendation is a Deputy Director, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "425",
+            "recommendation": {
+                "resume_file": "195.json",
+                "recommendation_file": "Recommendation_From_ID_425.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the Specialist's extensive experience and technical skills, but does not provide specific examples or details to support these claims.",
+                    "verified_skills": [
+                        "IT Systems Administration",
+                        "Network Administration",
+                        "Computer Hardware Maintenance",
+                        "Training and End-User Support"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation highlights the Specialist's technical skills and customer service dedication, but lacks specific examples and details to support these claims. The recommendation also mentions the Manager's guidance and leadership, which suggests a collaborative spirit and a well-rounded professional."
+                }
+            }
+        }
+    ]
+}

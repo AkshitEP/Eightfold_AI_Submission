@@ -1,0 +1,120 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Assistant",
+                "work_description": "Advise managers on organizational policy matters and recommend needed changes. Conduct new employee orientation to foster positive attitudes toward organizational objectives. Identify staff vacancies and recruit, interview, and select applicants. Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems.",
+                "company_level": "Mid-level",
+                "start_date": "09/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Experience Specialist",
+                "work_description": "Prevented store losses using awareness, attention to detail, and integrity. Cross-trained and provided back-up for other customer services representatives when needed. Generated sales inventory reports in Excel with data from a variety of sources, maintaining a 100% accuracy rate.",
+                "company_level": "Mid-level",
+                "start_date": "11/2011",
+                "end_date": "09/2015"
+            },
+            {
+                "role_name": "Clerk/Store Manager",
+                "work_description": "Managed a team of 7 professionals. Reduced and controlled expenses by developing an inventory control process that was later used in all local stores. Delivered excellent customer service by greeting and assisting each customer. Addressed customer inquiries and resolved complaints.",
+                "company_level": "Mid-level",
+                "start_date": "06/2002",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Student worker/Multiple departments",
+                "work_description": "Inspired students to translate their academic interests into the real world by taking positive actions. Initiated thought-provoking classroom discussions to help students develop their critical thinking abilities. Emphasized the importance of academic honesty with students and instructed them on proper citation of research sources.",
+                "company_level": "Mid-level",
+                "start_date": "05/2004",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Conducted benefits administration for 30 benefit-eligible employees. Designed the employee performance evaluation process and merit program. Addressed inquiries from employees and management regarding new-hire activity and ongoing employee relation issues.",
+                "company_level": "Mid-level",
+                "start_date": "01/2004",
+                "end_date": "05/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Lourdes College",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Organizational Leadership Management and Human Resource Management",
+                "level": "Bachelor of Arts"
+            },
+            {
+                "university": "Lourdes College",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Organizational Leadership Management and Human Resource Management",
+                "level": "Associate of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Swimming",
+            "Bike riding",
+            "Camping",
+            "Crocheting",
+            "Crafts",
+            "Family activities"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resource Management",
+                "level": 5,
+                "explanation": "Extensive experience in HR roles, including HR Assistant, HR Generalist, and Experience Specialist, demonstrating expert-level mastery in HR management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed teams in various roles, including Clerk/Store Manager and HR Generalist, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Handled employee inquiries, resolved work-related problems, and conducted benefits administration, indicating strong proficiency in employee relations."
+            },
+            {
+                "name": "Recruitment and Selection",
+                "level": 3,
+                "explanation": "Identified staff vacancies, recruited, interviewed, and selected applicants, showing a solid working proficiency in recruitment and selection."
+            },
+            {
+                "name": "Employee Performance Management",
+                "level": 3,
+                "explanation": "Designed the employee performance evaluation process and merit program, demonstrating a solid working proficiency in employee performance management."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Developed an inventory control process that was later used in all local stores, showing a solid working proficiency in inventory management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided excellent customer service, addressed customer inquiries, and resolved complaints, demonstrating a solid working proficiency in customer service."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 2,
+                "explanation": "Generated sales inventory reports in Excel with data from a variety of sources, maintaining a 100% accuracy rate, showing some practical experience with Excel."
+            },
+            {
+                "name": "Time Management",
+                "level": 0,
+                "explanation": "No direct evidence of time management skills, but may be implied through various roles and responsibilities."
+            },
+            {
+                "name": "Communication",
+                "level": 0,
+                "explanation": "No direct evidence of communication skills, but may be implied through various roles and responsibilities."
+            }
+        ]
+    }
+}

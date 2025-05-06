@@ -1,0 +1,17 @@
+{
+    "resume_file": "109.json",
+    "recommendation_file": "Recommendation_From_ID_617.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. The comparison to the recommender's own experience as a Licensed Practical Nurse seems unrelated to the candidate's accounting skills.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Reporting",
+            "Financial Analysis",
+            "Auditing and Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting abilities and collaborative work style. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the objectivity of the recommendation."
+    }
+}

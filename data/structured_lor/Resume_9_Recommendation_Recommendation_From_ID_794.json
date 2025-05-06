@@ -1,0 +1,17 @@
+{
+    "resume_file": "9.json",
+    "recommendation_file": "Recommendation_From_ID_794.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem-Solving",
+            "Communication",
+            "Risk Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and analytical capabilities."
+    }
+}

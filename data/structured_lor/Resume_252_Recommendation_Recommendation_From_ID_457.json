@@ -1,0 +1,16 @@
+{
+    "resume_file": "252.json",
+    "recommendation_file": "Recommendation_From_ID_457.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be more focused on the intern rather than the candidate, and the language used is overly promotional. There are also statistically improbable claims about the candidate's abilities.",
+        "verified_skills": [
+            "Electronic Health Record Systems",
+            "Data Analysis",
+            "Healthcare Quality Improvement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide a clear connection between the candidate's skills and experience, and the language used is overly promotional. While it mentions some relevant skills, it does not provide specific examples or evidence to support the claims."
+    }
+}

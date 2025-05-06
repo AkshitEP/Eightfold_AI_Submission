@@ -1,0 +1,100 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance",
+                "work_description": "Held various Finance and Project Management related roles including: Integrated Scheduling, Contracts, Business Partner. Advised managers on program specific matters and recommend needed changes. Developed metrics to reduce risk. Directed personnel training activities. Served as a link between management and employees by handling questions, interpreting and executing program requirements, and helping resolve work-related problems.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2008",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Adjunct Professor",
+                "work_description": "Conducted adult learner leadership courses to foster positive attitude toward organizational leadership. Presented leadership and human behavior material. Coordinated material to meet student needs and goals.",
+                "company_level": "Mid-level",
+                "start_date": "08/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Human Resource Generalist Intern",
+                "work_description": "Served as a link between management and employees by handling questions and helping resolve work-related problems. Advised managers on organizational policy matters and recommend needed changes. Directed job description development to maximize maneuverability of personnel.",
+                "company_level": "Mid-level",
+                "start_date": "07/2014",
+                "end_date": "03/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "The Chicago School of Professional Psychology",
+                "start_date": "01/2010",
+                "end_date": "03/2013",
+                "domain": "Organizational Leadership",
+                "level": "Doctor of Philosophy"
+            },
+            {
+                "university": "The Chicago School of Professional Psychology",
+                "start_date": "01/2006",
+                "end_date": "12/2008",
+                "domain": "Industrial Organizational Psychology",
+                "level": "Master of Arts"
+            },
+            {
+                "university": "Belmont University",
+                "start_date": "01/2002",
+                "end_date": "12/2006",
+                "domain": "Psychology",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Leadership development - continuing education",
+            "Coordinating volunteer efforts within work teams",
+            "Mentoring"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held various leadership roles, advised managers, directed personnel training activities, and taught leadership courses, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Held various Project Management related roles and developed metrics to reduce risk, suggesting strong proficiency."
+            },
+            {
+                "name": "Organizational Development",
+                "level": 4,
+                "explanation": "Advised managers on organizational policy matters, recommended needed changes, and directed job description development, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Served as a link between management and employees, handled questions, and helped resolve work-related problems, suggesting strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Directed personnel training activities and taught adult learner leadership courses, indicating strong proficiency."
+            },
+            {
+                "name": "Mentoring",
+                "level": 3,
+                "explanation": "Mentioned as an interest, but no direct experience is provided, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Volunteer Management",
+                "level": 2,
+                "explanation": "Mentioned as an interest in coordinating volunteer efforts, but no direct experience is provided, suggesting some practical experience."
+            },
+            {
+                "name": "Industrial Organizational Psychology",
+                "level": 3,
+                "explanation": "Earned a Master's degree in Industrial Organizational Psychology, but no direct experience is provided, suggesting a solid working proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "resume_file": "878.json",
+    "recommendation_file": "Recommendation_From_ID_419.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be written for a different individual, with no direct connection to the candidate's skills or experience as a teacher. The language is formal, but the content is unrelated to the candidate's resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be for a different individual, with no mention of the candidate's teaching experience or skills. The content is unrelated to the candidate's resume, making it seem like a generic or fake recommendation."
+    }
+}

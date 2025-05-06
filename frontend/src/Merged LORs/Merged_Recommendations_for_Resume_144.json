@@ -1,0 +1,109 @@
+{
+    "target_id": "144",
+    "recommendations": [
+        {
+            "recommender_id": "362",
+            "recommendation": {
+                "resume_file": "144.json",
+                "recommendation_file": "Recommendation_From_ID_362.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Graphic Design",
+                        "Art Direction",
+                        "Leadership",
+                        "Problem Solving",
+                        "Time Management",
+                        "Communication",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their creative and project management skills. However, the mention of working with high-profile clients such as PepsiCo and Elizabeth Arden seems exaggerated and lacks concrete evidence from the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "207",
+            "recommendation": {
+                "resume_file": "144.json",
+                "recommendation_file": "Recommendation_From_ID_207.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation mentions Government Relations, Communications, and Organizational Development Director, which is not mentioned in the resume. The language is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+                    "verified_skills": [],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation does not align with the candidate's skills and experience. The candidate's resume highlights their experience in graphic design, art direction, and leadership, but the recommendation focuses on government relations, communications, and organizational development."
+                }
+            }
+        },
+        {
+            "recommender_id": "826",
+            "recommendation": {
+                "resume_file": "144.json",
+                "recommendation_file": "Recommendation_From_ID_826.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of 80% growth in community partners seems statistically improbable without further context or evidence.",
+                    "verified_skills": [
+                        "Graphic Design",
+                        "Art Direction",
+                        "Leadership",
+                        "Problem Solving",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their design and leadership abilities. However, the claim of 80% growth in community partners raises some concerns about the accuracy of the statement."
+                }
+            }
+        },
+        {
+            "recommender_id": "326",
+            "recommendation": {
+                "resume_file": "144.json",
+                "recommendation_file": "Recommendation_From_ID_326.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommender claims to be a Landscape Technician with experience in banking operations and fraud analysis, but the recommendation is for a Creative Director/Graphic Artist. This inconsistency raises concerns about the recommender's credibility and the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Graphic Design",
+                        "Art Direction",
+                        "Leadership",
+                        "Problem Solving",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in graphic design, art direction, and leadership, but the recommender's background and relationship to the candidate are unclear, which raises concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "746",
+            "recommendation": {
+                "resume_file": "144.json",
+                "recommendation_file": "Recommendation_From_ID_746.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The Operations Coordinator mentions the creative director's expertise in data analysis, which is not explicitly mentioned in the resume.",
+                    "verified_skills": [
+                        "Graphic Design",
+                        "Art Direction",
+                        "Leadership",
+                        "Problem Solving",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their creative vision, problem-solving skills, and ability to adapt designs. However, some minor inconsistencies and exaggerated claims are present, such as the mention of data analysis expertise."
+                }
+            }
+        }
+    ]
+}

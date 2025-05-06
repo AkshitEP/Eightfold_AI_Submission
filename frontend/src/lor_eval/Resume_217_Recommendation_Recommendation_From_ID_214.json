@@ -1,0 +1,17 @@
+{
+    "resume_file": "217.json",
+    "recommendation_file": "Recommendation_From_ID_214.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly flattering tone, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Management",
+            "Financial Reporting",
+            "Cash Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but the recommender's tone is overly flattering, which may indicate some exaggeration."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "target_id": "53",
+    "recommendations": [
+        {
+            "recommender_id": "956",
+            "recommendation": {
+                "resume_id": 53,
+                "recommendation_file": "Recommendation_From_ID_956.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Inventory Management",
+                        "Operations Management",
+                        "Customer Service",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, inventory management, and customer service skills. The recommendation highlights the candidate's ability to lead effectively in fast-paced environments and build productive working relationships."
+                }
+            }
+        }
+    ]
+}

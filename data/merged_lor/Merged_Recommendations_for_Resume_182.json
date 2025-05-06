@@ -1,0 +1,102 @@
+{
+    "target_id": "182",
+    "recommendations": [
+        {
+            "recommender_id": "728",
+            "recommendation": {
+                "resume_file": "182.json",
+                "recommendation_file": "Recommendation_From_ID_728.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be comparing two individuals, which is unusual. However, the description of the second individual aligns well with the resume.",
+                    "verified_skills": [
+                        "Network Communications",
+                        "IT Infrastructure",
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience and skills in IT infrastructure development, project management, and leadership. However, it is unclear why the recommendation is comparing two individuals."
+                }
+            }
+        },
+        {
+            "recommender_id": "114",
+            "recommendation": {
+                "resume_file": "182.json",
+                "recommendation_file": "Recommendation_From_ID_114.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Communications",
+                        "Local Area Networks",
+                        "Visual Information Systems",
+                        "IT Infrastructure",
+                        "Systems Integration",
+                        "Facility Design",
+                        "System Design",
+                        "Engineering Installation",
+                        "IT Engineering",
+                        "Command and Control",
+                        "Communications",
+                        "Networks",
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and leadership skills. The recommender's role as a Senior Vice President of Information Technology adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "756",
+            "recommendation": {
+                "resume_file": "182.json",
+                "recommendation_file": "Recommendation_From_ID_756.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job roles and responsibilities, but overall the recommendation seems credible.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Systems Integration",
+                        "IT Infrastructure"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and project management skills, but does not directly reference their technical skills in network communications, local area networks, and visual information systems. However, it does mention their experience in overseeing large-scale telecommunications and information technology projects, which aligns with their resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "306",
+            "recommendation": {
+                "resume_file": "182.json",
+                "recommendation_file": "Recommendation_From_ID_306.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Lead Information Technology Support Specialist' which is not present in the resume. However, the overall tone and content seem genuine.",
+                    "verified_skills": [
+                        "IT Infrastructure",
+                        "Project Management",
+                        "Leadership",
+                        "Network Communications",
+                        "Local Area Networks",
+                        "Visual Information Systems",
+                        "Systems Integration",
+                        "IT Engineering",
+                        "Command and Control",
+                        "Communications",
+                        "Networks"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in managing IT infrastructure projects, leadership, and technical skills. However, some minor inconsistencies and lack of specific examples from the resume reduce the relevance score."
+                }
+            }
+        }
+    ]
+}

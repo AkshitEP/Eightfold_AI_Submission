@@ -1,0 +1,123 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Clerk",
+                "work_description": "Coordinate and oversea recruitment and orientation program support for other HR assigned special projects. Coordinates and support for hiring of temporary hourly employees.",
+                "company_level": "Mid-level",
+                "start_date": "02/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Administrative Coordinator",
+                "work_description": "Coordinates, oversees, and performs a wide variety of administrative, secretarial, and program support activities. Serves as primary point of operational and administrative contact for internal and external constituencies, often on complex and confidential issues.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Administrative Assistant/Bookkeeper",
+                "work_description": "Provides high-level administrative support for human resources, accounts payable, and purchasing departments. Primary duties includes bookkeeping (A/R, A/P, and General Ledger) duties related to daily maintenance and financial period closure as well as Human Resources support focusing on payroll administration, compensation and benefits administration responsibilities.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Clerical II",
+                "work_description": "Provides high-level administrative support by conducting research, preparing statistical reports, handling information requests, and performing clerical functions such as preparing correspondence, receiving visitors, arranging conference calls, and scheduling meetings.",
+                "company_level": "Mid-level",
+                "start_date": "01/2000",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Executive Secretary",
+                "work_description": "Provides bookkeeping and clerical support including monthly invoicing, correspondence, receiving visitors, arranging conference calls, and scheduling meetings. Provides support for Human Resource functional areas including tracking for Workers Compensation, developing employee handbook, and maintaining the material safety data sheets.",
+                "company_level": "Mid-level",
+                "start_date": "01/1983",
+                "end_date": "01/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Business Management & HR Management",
+                "level": "Bachelor's Degree"
+            },
+            {
+                "university": "Blue Ridge Community College",
+                "start_date": "01/1985",
+                "end_date": "12/1985",
+                "domain": "Business Management",
+                "level": "Associates Degree"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "HR",
+                "description": "Tyco Electronics, Best Practice- Vacation database for MRP Calendar used for scheduling in plant.",
+                "skills": [
+                    "database management",
+                    "HR"
+                ]
+            },
+            {
+                "domain": "HR",
+                "description": "Tyco Electronics, Staffing Project - brain storm employee development and engagement ideas for use by local and Corporate.",
+                "skills": [
+                    "staffing",
+                    "HR"
+                ]
+            },
+            {
+                "domain": "HR",
+                "description": "Tyco Electronics, Project Team Lead -Updating employee skills database that promoted 100% knowledge of program and increased usage of program within division.",
+                "skills": [
+                    "database management",
+                    "HR"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Bookkeeping",
+                "level": 4,
+                "explanation": "Has extensive experience with bookkeeping duties, including A/R, A/P, and General Ledger, across multiple roles, showing strong proficiency."
+            },
+            {
+                "name": "Payroll Administration",
+                "level": 4,
+                "explanation": "Handled payroll administration responsibilities in multiple roles, indicating strong proficiency in payroll management."
+            },
+            {
+                "name": "HR Management",
+                "level": 5,
+                "explanation": "Has over a decade of experience in HR-related roles, including HR Clerk, Administrative Assistant/Bookkeeper, and Executive Secretary, showing expert-level mastery."
+            },
+            {
+                "name": "Database Management",
+                "level": 3,
+                "explanation": "Managed and updated employee skills databases, as well as created a vacation database for MRP Calendar, showing a solid working proficiency in database management."
+            },
+            {
+                "name": "Staffing",
+                "level": 3,
+                "explanation": "Participated in staffing projects, including brainstorming employee development and engagement ideas, indicating a solid level of proficiency in staffing."
+            },
+            {
+                "name": "Administrative Support",
+                "level": 5,
+                "explanation": "Provided high-level administrative support across multiple roles, including Clerical II, Administrative Coordinator, and Executive Secretary, showing expert-level mastery."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 0,
+                "explanation": "No specific mention of Microsoft Office skills in the provided data, but likely used extensively in administrative roles."
+            }
+        ]
+    }
+}

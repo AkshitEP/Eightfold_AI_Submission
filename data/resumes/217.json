@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "An Accountant experienced in driving efficiency, productivity, and implementation of process improvements to support achievement of overall corporate goals and objectives.",
+                "company_level": "Mid-level",
+                "start_date": "07/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Accounting Manager",
+                "work_description": "Responsible for financial management functions including preparation and delivery of monthly/quarterly financial statements, and variance analysis for several cost centers.",
+                "company_level": "Mid-level",
+                "start_date": "04/2010",
+                "end_date": "07/2014"
+            },
+            {
+                "role_name": "Senior Accountant",
+                "work_description": "Responsible for property and development accounting for several entities which includes preparation financial statements.",
+                "company_level": "Mid-level",
+                "start_date": "05/2005",
+                "end_date": "06/2009"
+            },
+            {
+                "role_name": "Finance Manager/Accountant",
+                "work_description": "Responsible for financial management functions including preparation and delivery of monthly/quarterly financial statements, variance analysis, and financial forecasts.",
+                "company_level": "Mid-level",
+                "start_date": "11/2004",
+                "end_date": "05/2005"
+            },
+            {
+                "role_name": "Assistant Controller",
+                "work_description": "Responsible for overseeing accounting procedures, internal controls (implementing, monitoring, enhancing), and database management.",
+                "company_level": "Mid-level",
+                "start_date": "11/2001",
+                "end_date": "11/2004"
+            },
+            {
+                "role_name": "Project Accountant",
+                "work_description": "Closed and compiled monthly financial reporting packages for management and owners of residential developments.",
+                "company_level": "Mid-level",
+                "start_date": "01/1999",
+                "end_date": "01/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of South Carolina - Upstate",
+                "start_date": "01/1993",
+                "end_date": "12/1993",
+                "domain": "Accounting & Finance",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Over 20 years of experience in various accounting roles, including Accountant, Accounting Manager, Senior Accountant, and Assistant Controller, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Extensive experience in financial management functions, including preparation and delivery of financial statements, variance analysis, and financial forecasts, showing expert-level proficiency."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Consistently prepared and delivered monthly/quarterly financial statements, and compiled financial reporting packages, indicating strong proficiency."
+            },
+            {
+                "name": "Internal Controls",
+                "level": 4,
+                "explanation": "Implemented, monitored, and enhanced internal controls, suggesting strong proficiency in this area."
+            },
+            {
+                "name": "Database Management",
+                "level": 3,
+                "explanation": "Responsible for database management, but the extent of experience is not explicitly stated, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Held leadership roles, including Accounting Manager and Assistant Controller, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Process Improvement",
+                "level": 3,
+                "explanation": "Experienced in driving efficiency and productivity, and implementing process improvements, showing a solid working proficiency."
+            },
+            {
+                "name": "Variance Analysis",
+                "level": 4,
+                "explanation": "Consistently performed variance analysis for several cost centers, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Forecasting",
+                "level": 4,
+                "explanation": "Responsible for financial forecasting, suggesting strong proficiency in this area."
+            }
+        ]
+    }
+}

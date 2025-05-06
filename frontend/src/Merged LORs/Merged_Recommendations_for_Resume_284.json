@@ -1,0 +1,112 @@
+{
+    "target_id": "284",
+    "recommendations": [
+        {
+            "recommender_id": "163",
+            "recommendation": {
+                "resume_file": "284.json",
+                "recommendation_file": "Recommendation_From_ID_163.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Customer Service",
+                        "Inventory Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and operational expertise. However, the source of the recommendation is unclear, and the recommender's relationship to the candidate is not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "672",
+            "recommendation": {
+                "resume_file": "284.json",
+                "recommendation_file": "Recommendation_From_ID_672.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Time Management",
+                        "Communication",
+                        "Customer Service",
+                        "Inventory Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and operational management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "326",
+            "recommendation": {
+                "resume_file": "284.json",
+                "recommendation_file": "Recommendation_From_ID_326.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management and leadership abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "746",
+            "recommendation": {
+                "resume_file": "284.json",
+                "recommendation_file": "Recommendation_From_ID_746.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The Operations Coordinator is not mentioned in the resume, and the recommendation seems to be for two different individuals.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Time Management",
+                        "Communication",
+                        "Inventory Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with some of the candidate's skills and experience, but it seems to be for two different individuals. The Operations Coordinator is not mentioned in the resume, and the recommendation for the General Manager is more relevant to the candidate's experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "814",
+            "recommendation": {
+                "resume_file": "284.json",
+                "recommendation_file": "Recommendation_From_ID_814.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Time Management",
+                        "Communication",
+                        "Customer Service",
+                        "Marketing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and operational management abilities. However, some claims seem exaggerated, such as the mention of 'exceptional individual' and 'unique blend of creativity and operational acumen'."
+                }
+            }
+        }
+    ]
+}

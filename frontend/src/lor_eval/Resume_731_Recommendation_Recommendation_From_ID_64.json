@@ -1,0 +1,17 @@
+{
+    "resume_file": "731.json",
+    "recommendation_file": "Recommendation_From_ID_64.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be for two different individuals, and the language is overly flattering. However, the skills mentioned are somewhat relevant to the candidate's experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Leadership",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be for two different individuals, which makes it difficult to assess its relevance to the candidate's skills and experience. However, the skills mentioned are somewhat relevant to the candidate's experience, particularly in customer service and communication."
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "target_id": "361",
+    "recommendations": [
+        {
+            "recommender_id": "295",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_295.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Safety Management",
+                        "Team Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and safety management abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "133",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_133.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Safety Management",
+                        "Inventory Management",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management and logistical capabilities, attention to detail, and ability to build strong relationships with diverse teams."
+                }
+            }
+        },
+        {
+            "recommender_id": "141",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_141.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions a role (Gunnery Sergeant) not present in the resume. However, the skills and experiences mentioned align well with the candidate's background.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Safety Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, resource management, and project execution skills, which are relevant to their experience as a Superintendent II and Aviation Ordnanceman. However, the mention of a Gunnery Sergeant role not present in the resume raises some concerns."
+                }
+            }
+        },
+        {
+            "recommender_id": "896",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_896.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Safety Management",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and safety management skills. The source of the recommendation is a peer who has worked alongside the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "398",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_398.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Safety Management",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management and organizational skills, safety focus, and ability to communicate effectively."
+                }
+            }
+        },
+        {
+            "recommender_id": "813",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_813.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the writer claims to have worked alongside the candidate for 16 years as an Aircraft Mechanic, which is not mentioned in the resume. This inconsistency raises some concerns.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Safety Management",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional leadership and management abilities, which aligns with their experience as a Superintendent II and Aviation Ordnanceman. However, the writer's claim of working alongside the candidate for 16 years as an Aircraft Mechanic is not supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "501",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_501.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Safety Management",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and safety management abilities. The recommender's own role and industry are different, but their shared commitment to excellence and the candidate's skills are highlighted."
+                }
+            }
+        },
+        {
+            "recommender_id": "921",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_921.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. Some minor inconsistencies are present, such as the mention of software development life cycle and Consumer Private Wealth Management sector, which are not directly related to the candidate's experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Safety Management",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and project management skills, but it seems to be a general recommendation that could apply to multiple individuals. It lacks specific examples from the candidate's experience and skills mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "865",
+            "recommendation": {
+                "resume_file": "361.json",
+                "recommendation_file": "Recommendation_From_ID_865.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Unrealistic claims and lack of specific examples or evidence from the resume. Language is overly flattering.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks alignment with the key areas of expertise and contains unrealistic claims, making it seem less credible."
+                }
+            }
+        }
+    ]
+}

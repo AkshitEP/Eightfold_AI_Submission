@@ -1,0 +1,18 @@
+{
+    "resume_file": "683.json",
+    "recommendation_file": "Recommendation_From_ID_817.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, unclear relationship between recommender and candidate.",
+        "verified_skills": [
+            "Leadership",
+            "Equipment Operation",
+            "Training and Development",
+            "Time Management",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and operations management skills, but does not directly address their nursing skills or education."
+    }
+}

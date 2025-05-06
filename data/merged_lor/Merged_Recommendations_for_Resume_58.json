@@ -1,0 +1,74 @@
+{
+    "target_id": "58",
+    "recommendations": [
+        {
+            "recommender_id": "852",
+            "recommendation": {
+                "resume_id": 58,
+                "recommendation_file": "Recommendation_From_ID_852.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Employee Relations",
+                        "Recruitment and Hiring",
+                        "Benefits Administration",
+                        "Compliance and Risk Management",
+                        "Leadership and Management",
+                        "Communication and Interpersonal Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, employee relations, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "20",
+            "recommendation": {
+                "resume_id": 58,
+                "recommendation_file": "Recommendation_From_ID_20.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Employee Relations",
+                        "Leadership and Management",
+                        "Compliance and Risk Management",
+                        "Benefits Administration",
+                        "Communication and Interpersonal Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, conflict resolution, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "661",
+            "recommendation": {
+                "resume_id": 58,
+                "recommendation_file": "Recommendation_From_ID_661.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Employee Relations",
+                        "Recruitment and Hiring",
+                        "Benefits Administration",
+                        "Compliance and Risk Management",
+                        "Leadership and Management",
+                        "Communication and Interpersonal Skills",
+                        "HRIS and Database Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        }
+    ]
+}

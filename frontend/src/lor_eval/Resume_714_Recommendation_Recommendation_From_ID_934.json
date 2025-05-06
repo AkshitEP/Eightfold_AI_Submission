@@ -1,0 +1,12 @@
+{
+    "resume_file": "714.json",
+    "recommendation_file": "Recommendation_From_ID_934.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be for a different person (Lisa Phinney) and does not align with the candidate's skills and experience in finance. The language is formal, but the content is unrelated to the candidate's qualifications.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide any relevant information about the candidate's skills or experience in finance. It appears to be a recommendation for a different person, which raises concerns about the authenticity of the recommendation."
+    }
+}

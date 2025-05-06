@@ -1,0 +1,17 @@
+{
+    "resume_file": "546.json",
+    "recommendation_file": "Recommendation_From_ID_724.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Overly positive tone and lack of specific examples to support claims. Statistically improbable claim about the candidate's experience in healthcare roles.",
+        "verified_skills": [
+            "Recruitment",
+            "Healthcare Administration",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but lacks specific examples to support the claims made. The tone is overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

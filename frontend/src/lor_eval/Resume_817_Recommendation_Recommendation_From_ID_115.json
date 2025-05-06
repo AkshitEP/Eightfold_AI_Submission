@@ -1,0 +1,19 @@
+{
+    "resume_file": "817.json",
+    "recommendation_file": "Recommendation_From_ID_115.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Electronic Medical Records",
+            "Medical Documentation",
+            "Patient Care",
+            "Communication",
+            "Time Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Medical Scribe and highlighting their leadership qualities."
+    }
+}

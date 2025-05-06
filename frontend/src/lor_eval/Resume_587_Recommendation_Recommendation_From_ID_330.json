@@ -1,0 +1,19 @@
+{
+    "resume_file": "587.json",
+    "recommendation_file": "Recommendation_From_ID_330.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Health Education",
+            "Healthcare Administration",
+            "Patient Care",
+            "Classroom Management",
+            "Instructional Support",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their instructional support, classroom management, and healthcare knowledge. The recommender highlights the candidate's teamwork, communication, and adaptability skills, which are essential in a healthcare instructional assistant role."
+    }
+}

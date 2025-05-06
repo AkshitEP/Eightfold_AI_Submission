@@ -1,0 +1,21 @@
+{
+    "resume_file": "465.json",
+    "recommendation_file": "Recommendation_From_ID_314.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Technical Support",
+            "Information Assurance",
+            "Network Administration",
+            "Leadership",
+            "Cable Installation and Maintenance",
+            "Troubleshooting",
+            "Communication Systems",
+            "Cybersecurity"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership skills. The recommender's own expertise as an Information Technology Assistant adds credibility to the recommendation."
+    }
+}

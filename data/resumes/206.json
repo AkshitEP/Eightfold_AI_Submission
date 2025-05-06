@@ -1,0 +1,133 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Financial Analyst",
+                "work_description": "Support CEO and corporate operating committee directly by shaping and implementing AIG's strategy on a global level. Initiate, evaluate and execute M&A deals and innovation investments in order to enable AIG's inorganic growth.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Investment Banking Summer Analyst",
+                "work_description": "Supported Industrials Coverage Group by building client presentations, evaluating and compiling financial metrics and aiding in model analysis and valuation.",
+                "company_level": "Mid-level",
+                "start_date": "06/2014",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Co-President",
+                "work_description": "Taught 30 undergraduates stock market fundamentals and socially responsible investing in order to increase financial literacy. Evaluated public companies by analyzing strategy and operations, examining financial statements and performing valuation.",
+                "company_level": "Startup",
+                "start_date": "09/2013",
+                "end_date": "12/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Yale University",
+                "start_date": "01/2011",
+                "end_date": "05/2015",
+                "domain": "Economics and Psychology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Finance",
+                "description": "Built database of financial metrics including market capitalization, total revenues and assets, segment (property and casualty versus life and retirement) revenues and assets from 70 companies in order to formulate a peer list and competitor set for AIG.",
+                "skills": [
+                    "Database",
+                    "Financial Analysis",
+                    "Market Research"
+                ]
+            },
+            {
+                "domain": "Investment Banking",
+                "description": "Compiled 8 years of titanium price and production data in order to project summary financials and aid private equity buyer in determining valuation price of the target company.",
+                "skills": [
+                    "Financial Modeling",
+                    "Data Analysis",
+                    "Valuation"
+                ]
+            },
+            {
+                "domain": "Social Impact",
+                "description": "Invested $1,000 of fundraised money in selected microfinance businesses, B corps, or charities to support social impact.",
+                "skills": [
+                    "Social Impact Investing",
+                    "Financial Literacy"
+                ]
+            }
+        ],
+        "interests": [
+            "Traveling",
+            "Piano",
+            "Violin",
+            "Table Tennis",
+            "Swimming",
+            "Volunteering",
+            "Pistachio Ice Cream",
+            "Yelp"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience in financial analysis, including evaluating M&A deals, innovation investments, and building financial models, indicating expert-level mastery."
+            },
+            {
+                "name": "Mergers and Acquisitions",
+                "level": 4,
+                "explanation": "Initiated, evaluated, and executed M&A deals, suggesting strong proficiency in this area."
+            },
+            {
+                "name": "Investment Banking",
+                "level": 4,
+                "explanation": "Supported Industrials Coverage Group and worked on model analysis and valuation, indicating strong proficiency in investment banking."
+            },
+            {
+                "name": "Financial Modeling",
+                "level": 4,
+                "explanation": "Built financial models and compiled financial metrics, suggesting strong proficiency in financial modeling."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Compiled and analyzed large datasets, including financial metrics and production data, indicating strong proficiency in data analysis."
+            },
+            {
+                "name": "Valuation",
+                "level": 4,
+                "explanation": "Performed valuation analysis and aided in determining valuation price of target companies, suggesting strong proficiency in valuation."
+            },
+            {
+                "name": "Database Management",
+                "level": 3,
+                "explanation": "Built a database of financial metrics, showing a solid working proficiency in database management."
+            },
+            {
+                "name": "Market Research",
+                "level": 3,
+                "explanation": "Conducted market research and formulated a peer list and competitor set, indicating a solid working proficiency in market research."
+            },
+            {
+                "name": "Social Impact Investing",
+                "level": 2,
+                "explanation": "Invested in selected microfinance businesses, B corps, or charities, suggesting some practical experience in social impact investing."
+            },
+            {
+                "name": "Financial Literacy",
+                "level": 2,
+                "explanation": "Taught undergraduates stock market fundamentals and socially responsible investing, indicating some practical experience in financial literacy."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Co-President of a startup, indicating a solid working proficiency in leadership."
+            }
+        ]
+    }
+}

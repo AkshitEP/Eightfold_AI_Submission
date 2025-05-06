@@ -1,0 +1,17 @@
+{
+    "resume_file": "306.json",
+    "recommendation_file": "Recommendation_From_ID_495.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions leadership and technical expertise, but lacks specific examples from the candidate's resume.",
+        "verified_skills": [
+            "Leadership",
+            "Technical Support",
+            "Problem-Solving",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and technical expertise, but lacks specific examples from their resume. The recommendation seems to be more focused on the candidate's potential role as Head of Information Technology and Information Center rather than their current role as Lead Information Technology Support Specialist."
+    }
+}

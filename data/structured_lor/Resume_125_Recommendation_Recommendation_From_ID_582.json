@@ -1,0 +1,15 @@
+{
+    "resume_file": "125.json",
+    "recommendation_file": "Recommendation_From_ID_582.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be from a professional fitness and wellness coach, which is unrelated to the candidate's field of expertise. The language used is formal, but the recommendation lacks specific examples and details about the candidate's skills and experience in the manufacturing sector.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership skills and customer service background, but it lacks concrete examples and specific details about their experience in the manufacturing sector. The source of the recommendation is unclear and seems unrelated to the candidate's field of expertise."
+    }
+}

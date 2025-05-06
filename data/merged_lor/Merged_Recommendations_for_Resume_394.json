@@ -1,0 +1,89 @@
+{
+    "target_id": "394",
+    "recommendations": [
+        {
+            "recommender_id": "536",
+            "recommendation": {
+                "resume_file": "394.json",
+                "recommendation_file": "Recommendation_From_ID_536.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in HR, but the specific job titles and company names do not match the resume.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Talent Management",
+                        "Recruitment",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in HR, talent management, and employee engagement, but lacks specific examples and details from the resume. The recommendation also mentions the candidate's ability to interpret policies, develop training programs, and handle complex leave requests, which is not explicitly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "725",
+            "recommendation": {
+                "resume_file": "394.json",
+                "recommendation_file": "Recommendation_From_ID_725.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Talent Management",
+                        "Recruitment",
+                        "HR Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management abilities and leadership skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "26",
+            "recommendation": {
+                "resume_file": "394.json",
+                "recommendation_file": "Recommendation_From_ID_26.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Talent Management",
+                        "Recruitment",
+                        "HR Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "186",
+            "recommendation": {
+                "resume_file": "394.json",
+                "recommendation_file": "Recommendation_From_ID_186.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Talent Management",
+                        "Recruitment",
+                        "HR Management",
+                        "Client Relationship Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their talent management, recruitment, and HR management abilities. The source of the recommendation is a Director of HR, indicating a supervisory relationship."
+                }
+            }
+        }
+    ]
+}

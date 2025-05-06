@@ -1,0 +1,142 @@
+{
+    "target_id": "15",
+    "recommendations": [
+        {
+            "recommender_id": "751",
+            "recommendation": {
+                "resume_file": "15.json",
+                "recommendation_file": "Recommendation_From_ID_751.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of boosting annual sales from $4M to $6.7M seems statistically improbable without further context or evidence from the resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Leadership",
+                        "Process Improvement",
+                        "Cash Flow Management",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and analytical abilities. However, the claim of boosting annual sales from $4M to $6.7M seems exaggerated and requires further verification."
+                }
+            }
+        },
+        {
+            "recommender_id": "993",
+            "recommendation": {
+                "resume_file": "15.json",
+                "recommendation_file": "Recommendation_From_ID_993.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of 'twenty years' of experience is not supported by the resume, which only shows around 10 years of experience. Additionally, the recommendation mentions 'multiple locations' which is not explicitly mentioned in the resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Leadership",
+                        "Process Improvement",
+                        "Cash Flow Management",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and operations expertise. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "511",
+            "recommendation": {
+                "resume_file": "15.json",
+                "recommendation_file": "Recommendation_From_ID_511.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Inventory Management",
+                        "Leadership",
+                        "Process Improvement",
+                        "Cash Flow Management",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership qualities, analytical expertise, and ability to communicate complex data effectively."
+                }
+            }
+        },
+        {
+            "recommender_id": "445",
+            "recommendation": {
+                "resume_file": "15.json",
+                "recommendation_file": "Recommendation_From_ID_445.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic given the candidate's domain and experience level. The recommender's background and relationship with the candidate are unclear, and the language used is overly flattering and lacks specific examples.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Process Improvement"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and analytical skills, but lacks concrete examples and seems overly flattering. The recommender's background and relationship with the candidate are unclear, which raises concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "963",
+            "recommendation": {
+                "resume_file": "15.json",
+                "recommendation_file": "Recommendation_From_ID_963.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of boosting annual sales from $4 million to $6.7 million seems statistically improbable without more context. However, the language is formal and the recommendation aligns well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Leadership",
+                        "Process Improvement",
+                        "Cash Flow Management",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. However, the claim of boosting annual sales from $4 million to $6.7 million seems statistically improbable without more context."
+                }
+            }
+        },
+        {
+            "recommender_id": "748",
+            "recommendation": {
+                "resume_file": "15.json",
+                "recommendation_file": "Recommendation_From_ID_748.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of a $2.7M increase in sales within two years seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Inventory Management",
+                        "Leadership",
+                        "Process Improvement",
+                        "Cash Flow Management",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. However, the claim of a significant increase in sales requires further verification to confirm its accuracy."
+                }
+            }
+        }
+    ]
+}

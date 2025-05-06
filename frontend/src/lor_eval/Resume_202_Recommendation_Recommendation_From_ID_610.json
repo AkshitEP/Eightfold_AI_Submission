@@ -1,0 +1,17 @@
+{
+    "resume_file": "202.json",
+    "recommendation_file": "Recommendation_From_ID_610.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. Some minor inconsistencies in the recommender's description of the candidate's skills and experience.",
+        "verified_skills": [
+            "Software Quality Assurance",
+            "Test Planning and Execution",
+            "Troubleshooting",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills and experience in software quality assurance, as well as their customer-centric approach. However, the recommender's background and relationship with the candidate are unclear, which raises some minor concerns about the recommendation's credibility."
+    }
+}

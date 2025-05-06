@@ -1,0 +1,82 @@
+{
+    "target_id": "669",
+    "recommendations": [
+        {
+            "recommender_id": "147",
+            "recommendation": {
+                "resume_file": "669.json",
+                "recommendation_file": "Recommendation_From_ID_147.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Data Analysis",
+                        "Financial Reporting",
+                        "Project Management",
+                        "Microsoft Excel",
+                        "SQL",
+                        "Business Intelligence",
+                        "Access"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, data analysis, and project management skills. The source of the recommendation is a Finance Controller, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "777",
+            "recommendation": {
+                "resume_file": "669.json",
+                "recommendation_file": "Recommendation_From_ID_777.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The recommendation also lacks specific examples and metrics to support the claims.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Project Management",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "SQL",
+                        "Business Intelligence",
+                        "Access",
+                        "Risk Management",
+                        "Audit and Compliance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but the source of the recommendation is unclear and the language is somewhat informal. The recommendation also lacks specific examples and metrics to support the claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "349",
+            "recommendation": {
+                "resume_file": "669.json",
+                "recommendation_file": "Recommendation_From_ID_349.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Data Analysis",
+                        "Financial Reporting",
+                        "Project Management",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "SQL",
+                        "Business Intelligence",
+                        "Access",
+                        "Risk Management",
+                        "Audit and Compliance"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, data analysis, and project management skills. The source of the recommendation is a Corporate Director of Finance, indicating a supervisory relationship."
+                }
+            }
+        }
+    ]
+}

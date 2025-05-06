@@ -1,0 +1,17 @@
+{
+    "resume_file": "838.json",
+    "recommendation_file": "Recommendation_From_ID_839.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's role and overly positive tone, but no obvious red flags or statistically improbable claims.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Leadership",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's financial management skills and leadership abilities, but does not specifically mention some key skills mentioned in the resume."
+    }
+}

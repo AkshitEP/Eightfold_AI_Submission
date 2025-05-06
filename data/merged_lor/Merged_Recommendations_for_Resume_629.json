@@ -1,0 +1,109 @@
+{
+    "target_id": "629",
+    "recommendations": [
+        {
+            "recommender_id": "301",
+            "recommendation": {
+                "resume_file": "629.json",
+                "recommendation_file": "Recommendation_From_ID_301.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "GAAP Accounting",
+                        "Financial Reporting",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and professionalism."
+                }
+            }
+        },
+        {
+            "recommender_id": "496",
+            "recommendation": {
+                "resume_file": "629.json",
+                "recommendation_file": "Recommendation_From_ID_496.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "GAAP Accounting",
+                        "Financial Reporting",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and software proficiency. The source of the recommendation is a peer, indicating a professional relationship with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "930",
+            "recommendation": {
+                "resume_file": "629.json",
+                "recommendation_file": "Recommendation_From_ID_930.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "GAAP Accounting",
+                        "Financial Reporting",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and interpersonal skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "327",
+            "recommendation": {
+                "resume_file": "629.json",
+                "recommendation_file": "Recommendation_From_ID_327.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly enthusiastic endorsement",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "GAAP Accounting",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but there are some minor inconsistencies and an overly enthusiastic endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "267",
+            "recommendation": {
+                "resume_file": "629.json",
+                "recommendation_file": "Recommendation_From_ID_267.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and attention to detail. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

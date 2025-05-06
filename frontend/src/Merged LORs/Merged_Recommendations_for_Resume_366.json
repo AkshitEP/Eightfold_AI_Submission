@@ -1,0 +1,144 @@
+{
+    "target_id": "366",
+    "recommendations": [
+        {
+            "recommender_id": "933",
+            "recommendation": {
+                "resume_file": "366.json",
+                "recommendation_file": "Recommendation_From_ID_933.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Recruitment and Employment",
+                        "Training and Development",
+                        "Employee Benefits Administration",
+                        "Leadership",
+                        "Communication",
+                        "Organizational Development",
+                        "Time Management",
+                        "Conflict Resolution",
+                        "Critical Thinking",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR practices, employee relations, and talent management processes. The source of the recommendation is likely a supervisor or manager, given their familiarity with the candidate's work and responsibilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "682",
+            "recommendation": {
+                "resume_file": "366.json",
+                "recommendation_file": "Recommendation_From_ID_682.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Recruitment and Employment",
+                        "Training and Development",
+                        "Employee Benefits Administration",
+                        "Communication",
+                        "Organizational Development",
+                        "Time Management",
+                        "Conflict Resolution",
+                        "Critical Thinking",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and accomplishments. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "91",
+            "recommendation": {
+                "resume_file": "366.json",
+                "recommendation_file": "Recommendation_From_ID_91.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Recruitment and Employment",
+                        "Training and Development",
+                        "Employee Benefits Administration",
+                        "Leadership",
+                        "Communication",
+                        "Organizational Development",
+                        "Time Management",
+                        "Conflict Resolution",
+                        "Critical Thinking",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and accomplishments. The source of the recommendation appears to be a peer, who has worked closely with the candidate and can attest to their abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "68",
+            "recommendation": {
+                "resume_file": "366.json",
+                "recommendation_file": "Recommendation_From_ID_68.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Recruitment and Employment",
+                        "Training and Development",
+                        "Employee Benefits Administration",
+                        "Leadership",
+                        "Communication",
+                        "Organizational Development",
+                        "Time Management",
+                        "Conflict Resolution",
+                        "Critical Thinking",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Senior HR Business Partner",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR practices, employee relations, and talent management. The recommendation source is a Senior HR Business Partner, indicating a direct working relationship with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "219",
+            "recommendation": {
+                "resume_file": "366.json",
+                "recommendation_file": "Recommendation_From_ID_219.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Recruitment and Employment",
+                        "Training and Development",
+                        "Employee Benefits Administration",
+                        "Leadership",
+                        "Communication",
+                        "Organizational Development",
+                        "Time Management",
+                        "Conflict Resolution",
+                        "Critical Thinking",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The recommender's role as an HR Associate Mobilization Coordinator adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

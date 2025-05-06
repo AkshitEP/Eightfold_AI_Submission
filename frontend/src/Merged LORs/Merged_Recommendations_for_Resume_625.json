@@ -1,0 +1,133 @@
+{
+    "target_id": "625",
+    "recommendations": [
+        {
+            "recommender_id": "305",
+            "recommendation": {
+                "resume_file": "625.json",
+                "recommendation_file": "Recommendation_From_ID_305.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Leadership",
+                        "Change Management",
+                        "Staff Management",
+                        "Training and Development",
+                        "Project Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise, leadership, and collaboration with senior leadership. The recommendation source is a peer, likely an HR & Safety Manager, who has worked closely with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "935",
+            "recommendation": {
+                "resume_file": "625.json",
+                "recommendation_file": "Recommendation_From_ID_935.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Leadership",
+                        "Change Management",
+                        "Staff Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and change management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "557",
+            "recommendation": {
+                "resume_file": "625.json",
+                "recommendation_file": "Recommendation_From_ID_557.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Finance Officer with no direct HR experience raises some concerns about their ability to fully assess the candidate's HR skills.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Leadership",
+                        "Change Management",
+                        "Staff Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional competence and leadership in HR, but the recommender's background in finance may limit their expertise in evaluating the candidate's HR skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "422",
+            "recommendation": {
+                "resume_file": "625.json",
+                "recommendation_file": "Recommendation_From_ID_422.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Change Management",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, change management, and leadership abilities. The source of the recommendation appears to be a peer, as they mention collaborating with the candidate on projects."
+                }
+            }
+        },
+        {
+            "recommender_id": "68",
+            "recommendation": {
+                "resume_file": "625.json",
+                "recommendation_file": "Recommendation_From_ID_68.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Leadership",
+                        "Change Management",
+                        "Staff Management",
+                        "Training and Development",
+                        "Project Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and change management abilities. The recommender's role as a Senior HR Business Partner adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "593",
+            "recommendation": {
+                "resume_file": "625.json",
+                "recommendation_file": "Recommendation_From_ID_593.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions two individuals, but only one is relevant to the resume.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Leadership",
+                        "Change Management",
+                        "Staff Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities. However, the mention of two individuals and some exaggerated claims reduce the relevance score and increase the fraud chance level."
+                }
+            }
+        }
+    ]
+}

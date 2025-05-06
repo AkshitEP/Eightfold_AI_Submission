@@ -1,0 +1,17 @@
+{
+    "resume_file": "275.json",
+    "recommendation_file": "Recommendation_From_ID_354.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and some claims seem exaggerated.",
+        "verified_skills": [
+            "Leadership",
+            "Sales Management",
+            "Business Development",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business development and sales abilities. However, the recommender's role and relationship with the candidate are unclear, and some claims seem exaggerated."
+    }
+}

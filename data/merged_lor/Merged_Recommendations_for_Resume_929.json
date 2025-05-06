@@ -1,0 +1,75 @@
+{
+    "target_id": "929",
+    "recommendations": [
+        {
+            "recommender_id": "993",
+            "recommendation": {
+                "resume_file": "929.json",
+                "recommendation_file": "Recommendation_From_ID_993.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Compliance",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and analytical abilities. The Operations Finance Director's endorsement highlights the candidate's strengths in budgeting, forecasting, and compliance, as well as their ability to build and retain high-performance teams."
+                }
+            }
+        },
+        {
+            "recommender_id": "475",
+            "recommendation": {
+                "resume_file": "929.json",
+                "recommendation_file": "Recommendation_From_ID_475.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and team development abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "502",
+            "recommendation": {
+                "resume_file": "929.json",
+                "recommendation_file": "Recommendation_From_ID_502.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Inventory Management",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and analytical skills."
+                }
+            }
+        }
+    ]
+}

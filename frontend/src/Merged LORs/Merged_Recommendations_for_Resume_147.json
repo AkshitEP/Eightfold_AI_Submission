@@ -1,0 +1,65 @@
+{
+    "target_id": "147",
+    "recommendations": [
+        {
+            "recommender_id": "917",
+            "recommendation": {
+                "resume_file": "147.json",
+                "recommendation_file": "Recommendation_From_ID_917.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly flattering tone, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Accounting Operations",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies and bias are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "28",
+            "recommendation": {
+                "resume_file": "147.json",
+                "recommendation_file": "Recommendation_From_ID_28.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unclear source of recommendation.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and unclear language. The source of the recommendation is unknown."
+                }
+            }
+        },
+        {
+            "recommender_id": "515",
+            "recommendation": {
+                "resume_file": "147.json",
+                "recommendation_file": "Recommendation_From_ID_515.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source's background as a Client Relations Advocate may not be directly relevant to the candidate's finance expertise. However, the recommendation provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Accounting Operations",
+                        "Financial Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strategic thinking, problem-solving abilities, and leadership skills, which align with their experience as a Finance Controller. However, the source's background and lack of direct experience in finance may raise some concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

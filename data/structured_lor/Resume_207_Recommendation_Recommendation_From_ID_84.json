@@ -1,0 +1,17 @@
+{
+    "resume_file": "207.json",
+    "recommendation_file": "Recommendation_From_ID_84.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as a Reading, Speech, and Language Arts Teacher seems unrelated to the candidate's experience and skills. However, the recommender's observations of the candidate's communication and relationship-building skills are plausible.",
+        "verified_skills": [
+            "Communication",
+            "Leadership",
+            "Team Management",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in communication, leadership, and team management, which aligns with their skills and experience. However, the recommender's background and connection to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

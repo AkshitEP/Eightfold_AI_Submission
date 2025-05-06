@@ -1,0 +1,73 @@
+{
+    "target_id": "811",
+    "recommendations": [
+        {
+            "recommender_id": "260",
+            "recommendation": {
+                "resume_file": "811.json",
+                "recommendation_file": "Recommendation_From_ID_260.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Patient Advocate seems unrelated to the candidate's experience and skills. However, the recommendation provides specific examples of the candidate's accomplishments and skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Financial Management",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments and skills. However, the recommender's role and experience seem unrelated to the candidate's, which raises some concerns about the recommender's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "715",
+            "recommendation": {
+                "resume_file": "811.json",
+                "recommendation_file": "Recommendation_From_ID_715.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Financial Management",
+                        "Project Management",
+                        "Risk Management",
+                        "Communication",
+                        "Time Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operational management, and problem-solving abilities. The source of the recommendation is a Care Coordinator, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "795",
+            "recommendation": {
+                "resume_file": "811.json",
+                "recommendation_file": "Recommendation_From_ID_795.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Financial Management",
+                        "Communication",
+                        "Time Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational management, leadership, and communication skills. The source of the recommendation is a General Manager, indicating a direct supervisory relationship."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "target_id": "853",
+    "recommendations": [
+        {
+            "recommender_id": "335",
+            "recommendation": {
+                "resume_file": "853.json",
+                "recommendation_file": "Recommendation_From_ID_335.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role is unclear, and some skills mentioned in the recommendation are not explicitly listed in the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's operational management and customer service skills, which align with their experience as an Assistant Manager and Store Manager. However, some skills mentioned in the recommendation, such as analytical skills and experience with Returned Deposited Items, are not explicitly listed in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "257",
+            "recommendation": {
+                "resume_file": "853.json",
+                "recommendation_file": "Recommendation_From_ID_257.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Leadership",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management and customer service abilities. However, the recommender's role as a Corporate Banking Assistant and intern may limit their perspective on the candidate's overall performance."
+                }
+            }
+        },
+        {
+            "recommender_id": "955",
+            "recommendation": {
+                "resume_file": "853.json",
+                "recommendation_file": "Recommendation_From_ID_955.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Leadership",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management, sales, and customer service abilities. The recommender's role as a V/P Commercial Relationship Manager adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "793",
+            "recommendation": {
+                "resume_file": "853.json",
+                "recommendation_file": "Recommendation_From_ID_793.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation mentions skills and expertise not present in the resume, such as compliance investigations, understanding complex regulations, and knowledge of banking laws. The language used is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+                    "verified_skills": [],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation does not align well with the candidate's skills and experience, as it mentions expertise in the legal and financial sectors, which is not present in the resume. The recommendation seems to be for a different person, as it mentions a role of Legal Specialist III, which is not mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

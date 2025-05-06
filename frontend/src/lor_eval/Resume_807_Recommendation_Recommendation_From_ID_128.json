@@ -1,0 +1,19 @@
+{
+    "resume_file": "807.json",
+    "recommendation_file": "Recommendation_From_ID_128.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Management",
+            "Leadership",
+            "Financial Analysis",
+            "Communication",
+            "Team Collaboration",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, analytical capabilities, and communication skills. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not specified."
+    }
+}

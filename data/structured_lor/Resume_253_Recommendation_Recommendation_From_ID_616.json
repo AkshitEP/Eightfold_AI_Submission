@@ -1,0 +1,19 @@
+{
+    "resume_file": "253.json",
+    "recommendation_file": "Recommendation_From_ID_616.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Problem-Solving",
+            "Communication",
+            "Time Management",
+            "Six Sigma",
+            "Lean"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and analytical abilities. However, it does not directly reference some of the candidate's other skills, such as Project Management, Team Management, and Aviation Maintenance."
+    }
+}

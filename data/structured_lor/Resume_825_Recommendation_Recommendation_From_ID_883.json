@@ -1,0 +1,15 @@
+{
+    "resume_file": "825.json",
+    "recommendation_file": "Recommendation_From_ID_883.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language. The candidate's skills and experience do not align with the bank teller role mentioned in the recommendation. The language used is overly formal and lacks specific examples from the candidate's work history.",
+        "verified_skills": [
+            "Project Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a mix of two different candidates, with the first part describing a bank teller and the second part describing a planner/scheduler. The candidate's skills and experience do not align with the bank teller role, and the recommendation lacks specific examples from the candidate's work history."
+    }
+}

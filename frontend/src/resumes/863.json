@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Operation Specialist",
+                "work_description": "Compiled, managed, and maintained sensitive flight data for more than 60 aviators ensuring all flight departures and arrivals were successful and all aviator flight information was accurately and consistently logged for daily and weekly flight reports.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "02/2015"
+            },
+            {
+                "role_name": "Defense Travel System Representative",
+                "work_description": "Managed over 1 million dollars of Federal funds in travel arrangements, claims and travel reimbursements for over 300 employees using Defense Travel Operating Systems (DTS) resulting in a decrease of error with excessive expenses by 10%.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Created weekly rotational day and night flight schedules on excel assigning aviators specific dates and times for potential flights enforcing fairness while maximizing productivity.",
+                "company_level": "Mid-level",
+                "start_date": "07/2011",
+                "end_date": "12/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Brandman",
+                "start_date": "01/2015",
+                "end_date": "02/2017",
+                "domain": "Organizational Leadership",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Puerto Rico",
+                "start_date": "01/2010",
+                "end_date": "12/2011",
+                "domain": "Business Administration Accounting",
+                "level": "BBA"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "reading",
+            "dancing",
+            "watching scary movies",
+            "spending time with family"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Management",
+                "level": 4,
+                "explanation": "Compiled, managed, and maintained sensitive flight data for over 60 aviators, indicating strong proficiency in data management."
+            },
+            {
+                "name": "Financial Management",
+                "level": 4,
+                "explanation": "Managed over 1 million dollars of Federal funds in travel arrangements, claims, and travel reimbursements, suggesting strong proficiency in financial management."
+            },
+            {
+                "name": "Travel Management",
+                "level": 4,
+                "explanation": "Successfully managed travel arrangements, claims, and reimbursements for over 300 employees, resulting in a decrease of error with excessive expenses by 10%."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Created complex flight schedules using Excel, indicating strong proficiency in the software."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed and maintained flight data for multiple aviators, suggesting a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Organizational Skills",
+                "level": 4,
+                "explanation": "Effectively managed multiple tasks and responsibilities, including creating flight schedules and managing travel arrangements, indicating strong organizational skills."
+            },
+            {
+                "name": "Attention to Detail",
+                "level": 4,
+                "explanation": "Accurately and consistently logged flight information for daily and weekly reports, suggesting strong attention to detail."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Effectively managed time-sensitive tasks, including creating flight schedules and managing travel arrangements, indicating strong time management skills."
+            },
+            {
+                "name": "Analytical Skills",
+                "level": 3,
+                "explanation": "Analyzed data to identify errors and optimize travel arrangements, suggesting a solid level of proficiency in analytical skills."
+            }
+        ]
+    }
+}

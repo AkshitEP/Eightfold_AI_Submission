@@ -1,0 +1,42 @@
+{
+    "target_id": "737",
+    "recommendations": [
+        {
+            "recommender_id": "402",
+            "recommendation": {
+                "resume_file": "737.json",
+                "recommendation_file": "Recommendation_From_ID_402.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and they mention the candidate's bilingual capabilities in Portuguese, which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Aircraft Operations",
+                        "Aviation Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in the aviation field, but the recommender's background as a maintenance mechanic may not provide direct insight into the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "801",
+            "recommendation": {
+                "resume_file": "737.json",
+                "recommendation_file": "Recommendation_From_ID_801.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation also seems to be referencing a different person's experience in non-profit operations, which is not relevant to the candidate's resume.",
+                    "verified_skills": [
+                        "Aircraft Operations",
+                        "Aviation Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be referencing a different person's experience in non-profit operations, which is not relevant to the candidate's resume. However, it does mention the candidate's background in aviation and their pursuit of an MBA in Aviation International Business, which aligns with their resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Social Media Producer",
+                "work_description": "Produce content for Instagram and Facebook. Set clear content objectives. Videographer and Photographer. Film, edit and upload to Social Media Sites.",
+                "company_level": "Mid-level",
+                "start_date": "11/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Photographer, Videographer, Editor",
+                "work_description": "Shoots still photography for individual hire for weddings, fitness shoots, headshots, family portraits, real estate, etc. Camera Operator for weddings, short films, short documentaries, YouTube, vlogs etc. Edit shoots, both photography and video using adobe or avid producing quality work for individual use.",
+                "company_level": "Freelance",
+                "start_date": "02/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Club Coordinator",
+                "work_description": "Billing, member updates, data entry, reports, Excel sheets, Microsoft outlook, payroll, Aphelion, Money Movers, Paychex, Quick Books. Collect bank account information, credit card information, as well as cash for memberships and re-occurring payments. Multitask regularly answering phone calls while working with members and staff. Greet customers with a smile and implement a friendly company culture. Supervise, direct and encouraged other team members to stay on top of task.",
+                "company_level": "Mid-level",
+                "start_date": "05/2007",
+                "end_date": "11/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "California State University of Los Angeles",
+                "start_date": "01/2016",
+                "end_date": "06/2016",
+                "domain": "Television, Film and Media Studies",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Riverside Community College",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Arts",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Content Creation",
+                "level": 4,
+                "explanation": "Has extensive experience producing content for social media platforms, including filming, editing, and uploading, showing strong proficiency."
+            },
+            {
+                "name": "Photography",
+                "level": 4,
+                "explanation": "Has extensive experience shooting still photography for various events and clients, indicating strong proficiency."
+            },
+            {
+                "name": "Videography",
+                "level": 4,
+                "explanation": "Has extensive experience filming for various events and clients, including weddings and short documentaries, showing strong proficiency."
+            },
+            {
+                "name": "Video Editing",
+                "level": 4,
+                "explanation": "Has extensive experience editing video shoots using Adobe or Avid, producing quality work for individual use, indicating strong proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 3,
+                "explanation": "Has experience using Excel sheets for billing, member updates, and data entry, showing a solid working proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Has experience handling payroll using Paychex, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience supervising, directing, and encouraging team members, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience greeting customers, answering phone calls, and implementing a friendly company culture, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Has experience with data entry, reports, and member updates, indicating a solid working proficiency."
+            },
+            {
+                "name": "Multitasking",
+                "level": 3,
+                "explanation": "Has experience multitasking regularly, answering phone calls while working with members and staff, showing a solid working proficiency."
+            }
+        ]
+    }
+}

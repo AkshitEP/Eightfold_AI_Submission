@@ -1,0 +1,74 @@
+{
+    "target_id": "244",
+    "recommendations": [
+        {
+            "recommender_id": "716",
+            "recommendation": {
+                "resume_file": "244.json",
+                "recommendation_file": "Recommendation_From_ID_716.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in healthcare operations does not directly align with the candidate's experience in training and development. However, the recommendation highlights the candidate's transferable skills and adaptability.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership and Management",
+                        "Project Management",
+                        "Communication and Presentation",
+                        "Problem-Solving and Analysis",
+                        "Time Management and Organization",
+                        "Coaching and Mentoring",
+                        "Teamwork and Collaboration",
+                        "Adaptability and Flexibility"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training expertise and leadership abilities. However, the recommender's background in healthcare operations does not directly align with the candidate's experience, which may raise some concerns about the recommender's familiarity with the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "750",
+            "recommendation": {
+                "resume_file": "244.json",
+                "recommendation_file": "Recommendation_From_ID_750.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership and Management",
+                        "Project Management",
+                        "Communication and Presentation",
+                        "Problem-Solving and Analysis",
+                        "Time Management and Organization",
+                        "Coaching and Mentoring",
+                        "Teamwork and Collaboration",
+                        "Adaptability and Flexibility"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and management abilities. The recommendation source is a peer, indicating a collaborative working relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "880",
+            "recommendation": {
+                "resume_file": "244.json",
+                "recommendation_file": "Recommendation_From_ID_880.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Exaggerated claims and lack of specific examples or evidence from the resume.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership and Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with the key areas of expertise. The language used is overly flattering and lacks specific examples or evidence from the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "target_id": "133",
+    "recommendations": [
+        {
+            "recommender_id": "708",
+            "recommendation": {
+                "resume_file": "133.json",
+                "recommendation_file": "Recommendation_From_ID_708.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Training and Development",
+                        "Operations Management",
+                        "Logistics Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operational expertise, and training management. The source of the recommendation is a peer, an Aviation Mechanic, who has worked alongside the candidate and can attest to their skills and abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "562",
+            "recommendation": {
+                "resume_file": "133.json",
+                "recommendation_file": "Recommendation_From_ID_562.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of '20+ year career' which is not entirely supported by the resume. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Training and Development",
+                        "Operations Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional operational leadership, project management, and staff productivity skills, which are well-supported by their resume. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "168",
+            "recommendation": {
+                "resume_file": "133.json",
+                "recommendation_file": "Recommendation_From_ID_168.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Training and Development",
+                        "Operations Management",
+                        "Logistics Management",
+                        "Microsoft Office",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and operational management abilities. The source of the recommendation is a peer who has worked alongside the candidate for several years, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "294",
+            "recommendation": {
+                "resume_file": "133.json",
+                "recommendation_file": "Recommendation_From_ID_294.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Training and Development",
+                        "Operations Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational oversight, team support, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "633",
+            "recommendation": {
+                "resume_file": "133.json",
+                "recommendation_file": "Recommendation_From_ID_633.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of a $1.8M budget and a 60% increase in performance scores seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Operations Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational management skills and leadership abilities. However, some claims seem exaggerated and require further verification."
+                }
+            }
+        },
+        {
+            "recommender_id": "438",
+            "recommendation": {
+                "resume_file": "133.json",
+                "recommendation_file": "Recommendation_From_ID_438.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Training and Development",
+                        "Operations Management",
+                        "Logistics Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and operational expertise. The source of the recommendation is a peer, indicating a collaborative working relationship."
+                }
+            }
+        }
+    ]
+}

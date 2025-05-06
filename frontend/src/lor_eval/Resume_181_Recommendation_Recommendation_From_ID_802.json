@@ -1,0 +1,20 @@
+{
+    "resume_file": "181.json",
+    "recommendation_file": "Recommendation_From_ID_802.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Payroll Management",
+            "Tax Preparation",
+            "Leadership",
+            "Financial Statement Preparation",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting work, leadership, and proficiency in software tools."
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "target_id": "69",
+    "recommendations": [
+        {
+            "recommender_id": "792",
+            "recommendation": {
+                "resume_id": 69,
+                "recommendation_file": "Recommendation_From_ID_792.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and communication abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "854",
+            "recommendation": {
+                "resume_id": 69,
+                "recommendation_file": "Recommendation_From_ID_854.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Time Management",
+                        "Conflict Resolution",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and operational management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "34",
+            "recommendation": {
+                "resume_id": 69,
+                "recommendation_file": "Recommendation_From_ID_34.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "594",
+            "recommendation": {
+                "resume_id": 69,
+                "recommendation_file": "Recommendation_From_ID_594.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Supervisor/Colleague",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities."
+                }
+            }
+        }
+    ]
+}

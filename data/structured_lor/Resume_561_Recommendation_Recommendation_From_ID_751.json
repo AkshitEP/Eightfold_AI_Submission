@@ -1,0 +1,16 @@
+{
+    "resume_file": "561.json",
+    "recommendation_file": "Recommendation_From_ID_751.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as a Student Finance Consultant seems unrelated to the candidate's work as a School Counselor, which raises some questions about their ability to assess the candidate's skills and experience.",
+        "verified_skills": [
+            "Counseling",
+            "Communication",
+            "Classroom Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience as a School Counselor, but some claims seem exaggerated or unsupported. The recommender's role and relationship to the candidate are unclear, which affects the credibility of the recommendation."
+    }
+}

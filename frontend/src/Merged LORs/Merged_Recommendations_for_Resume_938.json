@@ -1,0 +1,47 @@
+{
+    "target_id": "938",
+    "recommendations": [
+        {
+            "recommender_id": "230",
+            "recommendation": {
+                "resume_file": "938.json",
+                "recommendation_file": "Recommendation_From_ID_230.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Quality Assurance",
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Human Resource Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their quality assurance and customer service expertise. The recommender's experience in advocating for customer needs in a fast-paced environment adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "971",
+            "recommendation": {
+                "resume_file": "938.json",
+                "recommendation_file": "Recommendation_From_ID_971.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected, including mention of banking experience and national awards not present in the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with key areas of expertise. Some inconsistencies and exaggerated claims are present."
+                }
+            }
+        }
+    ]
+}

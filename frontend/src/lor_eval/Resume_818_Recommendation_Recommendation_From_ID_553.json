@@ -1,0 +1,17 @@
+{
+    "resume_file": "818.json",
+    "recommendation_file": "Recommendation_From_ID_553.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Client Relationship Management",
+            "Communication",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in the banking sector, but does not specifically mention some of the key skills and experiences mentioned in the resume."
+    }
+}

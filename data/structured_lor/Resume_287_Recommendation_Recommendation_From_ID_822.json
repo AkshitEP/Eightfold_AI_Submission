@@ -1,0 +1,12 @@
+{
+    "resume_file": "287.json",
+    "recommendation_file": "Recommendation_From_ID_822.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be exaggerated and lacks concrete examples or evidence from the resume. The claims made seem unrealistic given the candidate's domain and experience level.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is barely relevant to the resume and seems to be exaggerated. The claims made seem unrealistic given the candidate's domain and experience level."
+    }
+}

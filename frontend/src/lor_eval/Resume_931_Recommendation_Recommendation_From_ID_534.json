@@ -1,0 +1,18 @@
+{
+    "resume_file": "931.json",
+    "recommendation_file": "Recommendation_From_ID_534.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall seems genuine and well-supported by the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Operational expertise",
+            "Problem-solving",
+            "Leadership",
+            "Team collaboration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's resume, but could benefit from more specific examples and details to support the claims made."
+    }
+}

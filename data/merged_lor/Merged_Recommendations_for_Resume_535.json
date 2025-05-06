@@ -1,0 +1,83 @@
+{
+    "target_id": "535",
+    "recommendations": [
+        {
+            "recommender_id": "233",
+            "recommendation": {
+                "resume_file": "535.json",
+                "recommendation_file": "Recommendation_From_ID_233.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. Some minor inconsistencies in the recommender's description of the candidate's experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Customer Engagement",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and team management abilities. However, the recommender's role and relationship with the candidate are unclear, and some minor inconsistencies are present in the description of the candidate's experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "642",
+            "recommendation": {
+                "resume_file": "535.json",
+                "recommendation_file": "Recommendation_From_ID_642.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Customer Engagement",
+                        "Revenue Growth"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team development, and client engagement abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "11",
+            "recommendation": {
+                "resume_file": "535.json",
+                "recommendation_file": "Recommendation_From_ID_11.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies or exaggerated claims are present, but the recommendation seems largely credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Engagement",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with key areas of expertise. Some minor inconsistencies or exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "611",
+            "recommendation": {
+                "resume_file": "535.json",
+                "recommendation_file": "Recommendation_From_ID_611.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions Kristy's experience as a Relationship Banker II, but this role is not mentioned in the resume. Additionally, the claim of a 70% increase in bank deposits seems statistically improbable without further context.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Customer Engagement"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in leadership, team management, and customer engagement. However, some claims seem exaggerated or unsupported, and the recommendation lacks specific details about Kristy's experience in strategic planning, revenue growth, and financial management."
+                }
+            }
+        }
+    ]
+}

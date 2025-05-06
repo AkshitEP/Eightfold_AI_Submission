@@ -1,0 +1,90 @@
+{
+    "target_id": "981",
+    "recommendations": [
+        {
+            "recommender_id": "93",
+            "recommendation": {
+                "resume_file": "981.json",
+                "recommendation_file": "Recommendation_From_ID_93.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems overly flattering and lacks specific examples from the candidate's work experience. The language is formal, but the tone appears exaggerated.",
+                    "verified_skills": [
+                        "HRIS Management",
+                        "Benefits Administration",
+                        "Customer Support",
+                        "Policy Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in HRIS management, benefits administration, and customer support. However, it lacks concrete examples and seems overly flattering, which raises concerns about its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "139",
+            "recommendation": {
+                "resume_file": "981.json",
+                "recommendation_file": "Recommendation_From_ID_139.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HRIS Management",
+                        "Benefits Administration",
+                        "Customer Support",
+                        "Policy Administration",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HRIS management, benefits administration, and customer support skills. The source of the recommendation appears to be a peer, possibly an HR Consultant, who has worked closely with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "229",
+            "recommendation": {
+                "resume_file": "981.json",
+                "recommendation_file": "Recommendation_From_ID_229.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HRIS Management",
+                        "Benefits Administration",
+                        "Customer Support",
+                        "Policy Administration",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and service excellence. The source of the recommendation appears to be a peer, as they mention collaborating with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "91",
+            "recommendation": {
+                "resume_id": 981,
+                "recommendation_file": "Recommendation_From_ID_91.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HRIS Management",
+                        "Benefits Administration",
+                        "Customer Support",
+                        "Policy Administration",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management abilities and problem-solving skills. However, it does not explicitly mention payroll management or project management skills."
+                }
+            }
+        }
+    ]
+}

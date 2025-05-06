@@ -1,0 +1,155 @@
+{
+    "target_id": "575",
+    "recommendations": [
+        {
+            "recommender_id": "550",
+            "recommendation": {
+                "resume_file": "575.json",
+                "recommendation_file": "Recommendation_From_ID_550.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including mention of experience as a Branch Banker not listed in the resume.",
+                    "verified_skills": [
+                        "Investment Banking Operations",
+                        "Data Analysis",
+                        "Communication",
+                        "Problem-solving",
+                        "Analytical skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies that raise concerns about the recommender's relationship to the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "317",
+            "recommendation": {
+                "resume_file": "575.json",
+                "recommendation_file": "Recommendation_From_ID_317.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written for a different person, with the majority of the content focusing on the Corporate Controller's experience and achievements. The language is formal, but the recommendation lacks specific examples and details about the Associate's skills and experience.",
+                    "verified_skills": [
+                        "Investment Banking Operations",
+                        "Loan Management",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide a clear connection between the Associate's skills and experience and the content of the recommendation. It appears to be written for a different person, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "527",
+            "recommendation": {
+                "resume_file": "575.json",
+                "recommendation_file": "Recommendation_From_ID_527.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Investment Banking Operations",
+                        "Loan Management",
+                        "Data Analysis",
+                        "Project Management",
+                        "Compliance Management",
+                        "Communication",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and problem-solving abilities, communication skills, and leadership capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "745",
+            "recommendation": {
+                "resume_file": "575.json",
+                "recommendation_file": "Recommendation_From_ID_745.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. However, the skills and experiences mentioned align well with the candidate's background.",
+                    "verified_skills": [
+                        "Investment Banking Operations",
+                        "Loan Management",
+                        "Data Analysis",
+                        "Project Management",
+                        "Compliance Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation highlights the candidate's analytical skills, attention to detail, and problem-solving abilities, which align with their experience in investment banking operations. However, the language is overly positive and lacks specific examples from the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "289",
+            "recommendation": {
+                "resume_file": "575.json",
+                "recommendation_file": "Recommendation_From_ID_289.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. The recommender claims to have observed the candidate's skills over a decade, but the candidate's resume only shows experience since 2011.",
+                    "verified_skills": [
+                        "Investment Banking Operations",
+                        "Loan Management",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's analytical abilities, attention to detail, and communication skills, which align with their resume. However, the recommender's role and relationship to the candidate are unclear, and the claim of observing the candidate's skills over a decade seems exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "374",
+            "recommendation": {
+                "resume_file": "575.json",
+                "recommendation_file": "Recommendation_From_ID_374.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Investment Banking Operations",
+                        "Loan Management",
+                        "Data Analysis",
+                        "Project Management",
+                        "Compliance Management",
+                        "Communication",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Senior Commercial Business Banking Relationship Manager",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and operational skills in investment banking operations. The recommender's position as a senior commercial business banking relationship manager adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "128",
+            "recommendation": {
+                "resume_file": "575.json",
+                "recommendation_file": "Recommendation_From_ID_128.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The language is formal, but the recommender's experience in the banking industry is not directly related to the candidate's role.",
+                    "verified_skills": [
+                        "Investment Banking Operations",
+                        "Data Analysis",
+                        "Compliance Management",
+                        "Communication",
+                        "System Enhancements"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and work ethic, but the recommender's relationship with the candidate and their experience in the banking industry are unclear. The recommendation seems genuine, but the lack of specific examples and details reduces its relevance score."
+                }
+            }
+        }
+    ]
+}

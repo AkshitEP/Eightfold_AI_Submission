@@ -1,0 +1,129 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Fuel Quality Control Specialist",
+                "work_description": "Regularly inspects equipments, valves, strainers, pipes, filters and hoses for any leakage or abnormality. Proven ability to leverage engineering skill-set by applying math, science, and engineering knowledge to provide a disciplined approach to problem solving. Known as a resourceful and innovative personality.",
+                "company_level": "Mid-level",
+                "start_date": "06/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Quality Implementation Assistant",
+                "work_description": "Collected strategic experimental data for analysis; used basic statistical tools and route cause analysis. Participated in the implementation of ISO9000 policies. Supported quality analysis on all new projects.",
+                "company_level": "Mid-level",
+                "start_date": "06/2010",
+                "end_date": "08/2011"
+            },
+            {
+                "role_name": "Formulation Chemist",
+                "work_description": "Performed on Polyvinyl Alcohol functionalization and neutralization for the production of nelfilicon polymer. Demonstrated expertise while working either independently or as a comprehensive team player.",
+                "company_level": "Mid-level",
+                "start_date": "07/2008",
+                "end_date": "09/2009"
+            },
+            {
+                "role_name": "Quality Software Tester",
+                "work_description": "Increased profit by reducing defects to the lowest level by working with the vendor to the rework components. Initiated failure mode statistical data analysis and studied satellite signal behaviors at various transponders.",
+                "company_level": "Mid-level",
+                "start_date": "09/2006",
+                "end_date": "09/2007"
+            },
+            {
+                "role_name": "Inventory Associate",
+                "work_description": "Packaged tools and parts according customer specification. Directed warehouse employees and drivers to ensure consistency in inventory receiving and restocking.",
+                "company_level": "Mid-level",
+                "start_date": "04/2003",
+                "end_date": "07/2006"
+            },
+            {
+                "role_name": "Process Development Technician",
+                "work_description": "Managed prototype process for laser diode manufacturing, and studied sputtering uniformity deposition. Collaborated with engineers and managers regarding optical design parameters.",
+                "company_level": "Mid-level",
+                "start_date": "04/1998",
+                "end_date": "01/2002"
+            },
+            {
+                "role_name": "Research and Development Assistant",
+                "work_description": "Scaled up and modeled low pressure chemical vapor deposition processes. Conducted uniformity experiment on polysilicon film deposition.",
+                "company_level": "Mid-level",
+                "start_date": "01/1994",
+                "end_date": "01/1998"
+            },
+            {
+                "role_name": "Analytical Chemist",
+                "work_description": "Conducted analysis of petroleum hydrocarbons, extraction of oil and grease, biological oxygen demand, and total organic carbon.",
+                "company_level": "Mid-level",
+                "start_date": "07/1994",
+                "end_date": "12/1997"
+            }
+        ],
+        "education": [
+            {
+                "university": "Lee College",
+                "start_date": "08/2012",
+                "end_date": "Present",
+                "domain": "Process Technology",
+                "level": "A.A.S"
+            },
+            {
+                "university": "New Jersey Institute of Technology",
+                "start_date": "Present",
+                "end_date": "Present",
+                "domain": "Chemical Engineering",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Quality Control",
+                "level": 5,
+                "explanation": "Extensive experience in quality control roles, including inspection of equipment and implementation of ISO9000 policies, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Chemical Analysis",
+                "level": 4,
+                "explanation": "Proven ability to conduct chemical analysis, including petroleum hydrocarbons, extraction of oil and grease, and total organic carbon, showing strong proficiency."
+            },
+            {
+                "name": "Problem Solving",
+                "level": 4,
+                "explanation": "Demonstrated ability to apply math, science, and engineering knowledge to provide a disciplined approach to problem solving, indicating strong proficiency."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Experience working as a team player in various roles, including quality implementation and process development, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Directed warehouse employees and drivers, and collaborated with engineers and managers, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Experience in inventory receiving and restocking, and packaged tools and parts according to customer specification, showing a solid working proficiency."
+            },
+            {
+                "name": "Process Development",
+                "level": 4,
+                "explanation": "Managed prototype process for laser diode manufacturing, and studied sputtering uniformity deposition, indicating strong proficiency."
+            },
+            {
+                "name": "Research and Development",
+                "level": 4,
+                "explanation": "Conducted uniformity experiment on polysilicon film deposition, and scaled up and modeled low pressure chemical vapor deposition processes, showing strong proficiency."
+            },
+            {
+                "name": "Statistical Analysis",
+                "level": 3,
+                "explanation": "Used basic statistical tools and route cause analysis, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

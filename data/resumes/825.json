@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Planner/Scheduler",
+                "work_description": "Determine schedules, sequences, and assignments for work activities, based on work priority, quantity of equipment, and skill of personnel. Monitor employees' work levels and review work performance. Monitor tool and part inventories and the condition and maintenance of shops to ensure adequate working conditions.",
+                "company_level": "Unknown",
+                "start_date": "11/2011",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Maintenance Head operator",
+                "work_description": "Use tools ranging from common hand and power tools, such as hammers, hoists, saws, drills, and wrenches, to precision measuring instruments and electrical and electronic testing devices. Perform routine preventive maintenance to ensure that machines continue to run smoothly, building systems operate efficiently, or the physical condition of buildings does not deteriorate.",
+                "company_level": "Unknown",
+                "start_date": "10/2010",
+                "end_date": "11/2011"
+            },
+            {
+                "role_name": "Aviation Machinist Mechanic",
+                "work_description": "Implement airfield safety procedures to ensure a safe operating environment for personnel and aircraft operation. Monitor the arrival, parking, refueling, loading, and departure of all aircraft. Train operations staff.",
+                "company_level": "Unknown",
+                "start_date": "12/1990",
+                "end_date": "12/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "South Albany High School",
+                "start_date": "Unknown",
+                "end_date": "06/1989",
+                "domain": "Unknown",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Westhills College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Unknown",
+                "level": "Technical Training"
+            },
+            {
+                "university": "Fresno State",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Unknown",
+                "level": "Continuing Education to Complete BSN"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has extensive experience in planning, scheduling, and monitoring work activities, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience in leading teams, monitoring work performance, and training staff, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Maintenance Management",
+                "level": 4,
+                "explanation": "Has experience in performing routine preventive maintenance, monitoring tool and part inventories, and ensuring adequate working conditions, indicating strong proficiency in maintenance management."
+            },
+            {
+                "name": "Safety Management",
+                "level": 4,
+                "explanation": "Has experience in implementing airfield safety procedures and ensuring a safe operating environment, suggesting strong proficiency in safety management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in training operations staff and monitoring work performance, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Has experience in monitoring tool and part inventories and the condition and maintenance of shops, suggesting a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in determining schedules, sequences, and assignments for work activities, indicating a solid working proficiency in time management."
+            }
+        ]
+    }
+}

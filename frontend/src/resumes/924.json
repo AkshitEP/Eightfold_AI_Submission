@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Bakery Entrepreneur",
+                "work_description": "Established and built a strong local cupcake store brand name through quality products, community involvement and alternative advertising methods. Performed employee hiring, training and supervisory duties. Engaged in day-to-day operations of all aspects of the store including baking, cleaning and customer service.",
+                "company_level": "Startup",
+                "start_date": "10/2011",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Project Engineer",
+                "work_description": "Data research for equipment segmentation and disposal project. Research and design cutting methods for large equipment. Design self-powered transportation system for large equipment. Project engineer for design phase of a new Category 2 nuclear processing facility, Isotek project. Perform field walk downs to generate P&ID drawings using AutoCAD for assigned systems. Develop technical basis for assigned systems. Develop technical specifications and requirements, including documentation of engineering calculations, to support technical basis. Perform and review calculations for new design and facility support. Write and review System Design Descriptions for new design. Perform database maintenance for an equipment reliability system.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2010",
+                "end_date": "02/2014"
+            },
+            {
+                "role_name": "Reliability Engineer Intern",
+                "work_description": "Set up bearing ultrasound program integrating the maintenance with SAP. Performed flow meter failure analysis. Performed gearbox failure analysis. Designed new piping system for failed pipe. Performed root cause failure analysis (RCFA) for failed pumps. Developed a standardized job procedure for pipe flange make up. Established lubrication program for plant after a two-year shutdown. Worked with vendors to determine appropriate lubrication types and methods. Set up lubrication filtering and dehydration procedure for large containers of lubrication.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2007",
+                "end_date": "08/2009"
+            },
+            {
+                "role_name": "Aviation Electronics Technician",
+                "work_description": "Assistant shift supervisor for an F/A-18 Hornet squadron. Managed and delegated maintenance tasks among 30 squadron members. Coordinated communication during launch procedures between our squadron aircraft and flight deck control aboard an aircraft carrier. Voluntarily trained as final checker (inspector) of aircraft prior to launch.",
+                "company_level": "Large Corporation",
+                "start_date": "09/1995",
+                "end_date": "12/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Tennessee",
+                "start_date": "01/2005",
+                "end_date": "12/2009",
+                "domain": "Aerospace Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Demonstrated strong leadership skills as a shift supervisor in the aviation electronics technician role and as the owner of a bakery, showing ability to manage teams and delegate tasks."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed multiple projects as a project engineer, including equipment segmentation and disposal, and design of a new nuclear processing facility, indicating strong proficiency."
+            },
+            {
+                "name": "Engineering Design",
+                "level": 4,
+                "explanation": "Designed cutting methods for large equipment, self-powered transportation systems, and piping systems, demonstrating strong proficiency in engineering design."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Performed data research for equipment segmentation and disposal project, and analyzed failure data for flow meters, gearboxes, and pumps, showing solid working proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Conducted root cause failure analysis for failed pumps and designed solutions to prevent future failures, indicating strong proficiency in problem-solving."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Coordinated communication during launch procedures between squadron aircraft and flight deck control, and wrote and reviewed system design descriptions, showing solid working proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Managed and delegated maintenance tasks among 30 squadron members, and worked with vendors to determine lubrication types and methods, showing solid working proficiency."
+            },
+            {
+                "name": "Quality Control",
+                "level": 3,
+                "explanation": "Trained as a final checker (inspector) of aircraft prior to launch, and established a lubrication program for a plant, indicating solid working proficiency."
+            },
+            {
+                "name": "Entrepreneurship",
+                "level": 3,
+                "explanation": "Established and built a strong local cupcake store brand, showing solid working proficiency in entrepreneurship."
+            },
+            {
+                "name": "AutoCAD",
+                "level": 2,
+                "explanation": "Used AutoCAD to generate P&ID drawings, but the extent of usage is not clear, indicating some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "target_id": "766",
+    "recommendations": [
+        {
+            "recommender_id": "288",
+            "recommendation": {
+                "resume_file": "766.json",
+                "recommendation_file": "Recommendation_From_ID_288.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Audio/Video Installation",
+                        "Audio/Video Signal Flow",
+                        "Event Planning",
+                        "Audio Editing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in audio/visual installation and event planning. However, it does not directly reference the candidate's experience in brake system servicing, fuel system servicing, inventory management, customer service, or DJing."
+                }
+            }
+        },
+        {
+            "recommender_id": "155",
+            "recommendation": {
+                "resume_file": "766.json",
+                "recommendation_file": "Recommendation_From_ID_155.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a supervisor or peer. The language is formal, but some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Audio/Video Installation",
+                        "Audio/Video Signal Flow",
+                        "Event Planning",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical acumen and versatility. However, the source of the recommendation is unclear, and some claims seem slightly exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "826",
+            "recommendation": {
+                "resume_file": "766.json",
+                "recommendation_file": "Recommendation_From_ID_826.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Audio/Video Installation",
+                        "Audio/Video Signal Flow",
+                        "Event Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in audio-visual installation and event planning, but does not directly reference their experience in other areas such as brake system servicing or DJing. The recommendation is generally positive and provides specific examples of the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "326",
+            "recommendation": {
+                "resume_file": "766.json",
+                "recommendation_file": "Recommendation_From_ID_326.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Audio/Video Installation",
+                        "Audio/Video Signal Flow",
+                        "Event Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical expertise and professionalism in the audio/visual field, aligning well with their skills and experience. However, the source of the recommendation is unclear, and some skills mentioned in the resume are not directly referenced."
+                }
+            }
+        }
+    ]
+}

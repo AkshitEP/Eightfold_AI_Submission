@@ -1,0 +1,17 @@
+{
+    "resume_file": "960.json",
+    "recommendation_file": "Recommendation_From_ID_196.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The recommender's experience in logistics and safety compliance does not directly relate to the candidate's field of expertise.",
+        "verified_skills": [
+            "Radiological Control",
+            "Leadership",
+            "Environmental Sampling",
+            "Nuclear Energy"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional leadership, technical expertise, and dedication to safety. However, the recommender's background and relationship with the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

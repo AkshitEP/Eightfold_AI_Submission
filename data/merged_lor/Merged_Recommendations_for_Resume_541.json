@@ -1,0 +1,71 @@
+{
+    "target_id": "541",
+    "recommendations": [
+        {
+            "recommender_id": "705",
+            "recommendation": {
+                "resume_file": "541.json",
+                "recommendation_file": "Recommendation_From_ID_705.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Some inconsistencies and exaggerated claims detected. The recommendation mentions roles and skills not explicitly mentioned in the resume, such as Senior Vice-President and Chief Information Officer, and micro-lending initiatives. However, the language is formal and no statistically improbable claims are present.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Operational Finance",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Project Management",
+                        "Contract Negotiation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in financial management, operational finance, and leadership. However, some claims seem exaggerated or unsupported, and the recommendation mentions roles and skills not explicitly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "545",
+            "recommendation": {
+                "resume_file": "541.json",
+                "recommendation_file": "Recommendation_From_ID_545.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of erasing $1.3 million in expenses seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Operational Finance",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in financial management, operational finance, and leadership, but some claims seem exaggerated or unsupported. The source of the recommendation is unclear, and the tone is overly positive."
+                }
+            }
+        },
+        {
+            "recommender_id": "775",
+            "recommendation": {
+                "resume_file": "541.json",
+                "recommendation_file": "Recommendation_From_ID_775.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of saving $1.3 million in expenses seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's financial acumen, strategic thinking, and operational efficiency. However, the claim of saving $1.3 million in expenses requires further verification to confirm its accuracy."
+                }
+            }
+        }
+    ]
+}

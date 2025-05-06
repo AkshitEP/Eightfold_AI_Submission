@@ -1,0 +1,21 @@
+{
+    "resume_file": "15.json",
+    "recommendation_file": "Recommendation_From_ID_511.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reporting",
+            "Budgeting",
+            "Inventory Management",
+            "Leadership",
+            "Process Improvement",
+            "Cash Flow Management",
+            "Financial Planning"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership qualities, analytical expertise, and ability to communicate complex data effectively."
+    }
+}

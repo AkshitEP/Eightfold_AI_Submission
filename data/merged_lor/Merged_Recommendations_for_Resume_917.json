@@ -1,0 +1,27 @@
+{
+    "target_id": "917",
+    "recommendations": [
+        {
+            "recommender_id": "432",
+            "recommendation": {
+                "resume_file": "917.json",
+                "recommendation_file": "Recommendation_From_ID_432.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Microsoft Word",
+                        "Microsoft Excel",
+                        "Customer Service",
+                        "General Office Duties",
+                        "Data Entry",
+                        "Organization"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative abilities and customer service skills. The recommender's own experience as an Executive Director adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

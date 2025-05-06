@@ -1,0 +1,140 @@
+{
+    "target_id": "181",
+    "recommendations": [
+        {
+            "recommender_id": "887",
+            "recommendation": {
+                "resume_file": "181.json",
+                "recommendation_file": "Recommendation_From_ID_887.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Tax Preparation",
+                        "Leadership",
+                        "Financial Statement Preparation",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, account reconciliation, and leadership abilities. The recommendation also highlights the candidate's proficiency with accounting software, particularly QuickBooks and Excel."
+                }
+            }
+        },
+        {
+            "recommender_id": "802",
+            "recommendation": {
+                "resume_file": "181.json",
+                "recommendation_file": "Recommendation_From_ID_802.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Tax Preparation",
+                        "Leadership",
+                        "Financial Statement Preparation",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting work, leadership, and proficiency in software tools."
+                }
+            }
+        },
+        {
+            "recommender_id": "52",
+            "recommendation": {
+                "resume_file": "181.json",
+                "recommendation_file": "Recommendation_From_ID_52.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Financial Statement Preparation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership skills, and attention to detail. The recommendation highlights the candidate's ability to work in a fast-paced environment and their commitment to accuracy and compliance."
+                }
+            }
+        },
+        {
+            "recommender_id": "137",
+            "recommendation": {
+                "resume_file": "181.json",
+                "recommendation_file": "Recommendation_From_ID_137.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Tax Preparation",
+                        "Leadership",
+                        "Financial Statement Preparation",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and proficiency in accounting software."
+                }
+            }
+        },
+        {
+            "recommender_id": "726",
+            "recommendation": {
+                "resume_file": "181.json",
+                "recommendation_file": "Recommendation_From_ID_726.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Tax Preparation",
+                        "Leadership",
+                        "Financial Statement Preparation",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership qualities. The recommender's background in accounting functions also adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "205",
+            "recommendation": {
+                "resume_file": "181.json",
+                "recommendation_file": "Recommendation_From_ID_205.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Tax Preparation",
+                        "Leadership",
+                        "Financial Statement Preparation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and leadership abilities. The recommendation highlights the candidate's technical proficiency in financial management and their ability to train and supervise junior staff."
+                }
+            }
+        }
+    ]
+}

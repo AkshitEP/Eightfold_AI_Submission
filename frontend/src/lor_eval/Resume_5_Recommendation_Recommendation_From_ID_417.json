@@ -1,0 +1,17 @@
+{
+    "resume_file": "5.json",
+    "recommendation_file": "Recommendation_From_ID_417.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. Some minor inconsistencies in job roles and industries are present.",
+        "verified_skills": [
+            "Leadership",
+            "Performance Management",
+            "Training and Development",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and problem-solving skills, which align with their experience in HR roles. However, the recommendation mentions working in the healthcare sector, which is not explicitly mentioned in the resume. Additionally, the recommendation does not provide specific examples from the candidate's resume, which reduces its relevance score."
+    }
+}

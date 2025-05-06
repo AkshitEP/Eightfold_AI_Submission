@@ -1,0 +1,24 @@
+{
+    "resume_file": "136.json",
+    "recommendation_file": "Recommendation_From_ID_981.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Performance Management",
+            "Employee Engagement",
+            "Conflict Resolution",
+            "Team Development",
+            "Recruitment",
+            "Employee Retention",
+            "HR Operations",
+            "Talent Management",
+            "Leadership",
+            "People Management",
+            "Mentorship"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experiences, providing specific examples of their expertise in human resources."
+    }
+}

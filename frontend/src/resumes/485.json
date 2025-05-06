@@ -1,0 +1,122 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Flight Attendant",
+                "work_description": "Took this job for the time to write two novels about terrorism and police/military response: GOOD BYE, SEATTLE and AVENGE SEATTLE",
+                "company_level": "Large Corporation",
+                "start_date": "10/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Personal Fitness Trainer",
+                "work_description": "Designed and conducted individualized fitness programs. Developed and implemented an Access based database for programs and exercises for trainers.",
+                "company_level": "Mid-level",
+                "start_date": "09/2011",
+                "end_date": "10/2013"
+            },
+            {
+                "role_name": "Fraud Detective",
+                "work_description": "Pioneered asset forfeiture procedures for fraud unit, over $50,000 in criminal proceeds and equipment being converted to support investigations. Created the Internet Forensic Detective position, increasing our detectives' ability to function in the modern media and specifically the off-site, foreign server storage of data.",
+                "company_level": "Mid-level",
+                "start_date": "08/2005",
+                "end_date": "09/2011"
+            },
+            {
+                "role_name": "Enforcement Officer",
+                "work_description": "Managed enforcement and regulatory activities related to 300+ licensees. Conducted investigations ranging up to complex financial investigations of hidden owners.",
+                "company_level": "Mid-level",
+                "start_date": "12/2004",
+                "end_date": "08/2005"
+            },
+            {
+                "role_name": "Program Manager / Technician",
+                "work_description": "Designed and implemented a GIS based data management system, replacing their paper system, which drastically decreased man-hour costs per project.",
+                "company_level": "Mid-level",
+                "start_date": "08/2003",
+                "end_date": "12/2004"
+            },
+            {
+                "role_name": "Senior Police Officer",
+                "work_description": "Served on gang emphasis patrol detail, SWAT team, Field Training Officer, and Fraud Investigator.",
+                "company_level": "Mid-level",
+                "start_date": "11/1994",
+                "end_date": "06/2002"
+            },
+            {
+                "role_name": "Deputy Sheriff",
+                "work_description": "SWAT Team Trainer, Field Relief Supervisor, Search and Rescue team member",
+                "company_level": "Mid-level",
+                "start_date": "06/1989",
+                "end_date": "11/1994"
+            },
+            {
+                "role_name": "Commanding Officer",
+                "work_description": "Commanded a 143 man Military Police organization.",
+                "company_level": "Large Corporation",
+                "start_date": "06/1985",
+                "end_date": "06/1989"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Washington",
+                "start_date": "01/1985",
+                "end_date": "12/1989",
+                "domain": "Criminology",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including commanding a 143-man Military Police organization and serving as a Commanding Officer, indicating expert-level mastery."
+            },
+            {
+                "name": "Investigation",
+                "level": 5,
+                "explanation": "Has over 20 years of experience in investigation roles, including as a Fraud Detective and Enforcement Officer, showing expert-level mastery."
+            },
+            {
+                "name": "Data Management",
+                "level": 4,
+                "explanation": "Designed and implemented a GIS-based data management system and an Access-based database for fitness programs, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed enforcement and regulatory activities, conducted complex financial investigations, and implemented a data management system, showing strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Served as a Field Training Officer, SWAT Team Trainer, and designed individualized fitness programs, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Wrote two novels and worked as a Flight Attendant, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Conducted complex financial investigations and implemented a data management system, indicating a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple roles and responsibilities, including as a Commanding Officer and Fraud Detective, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked as part of a team in various roles, including as a SWAT Team member and Field Relief Supervisor, indicating a solid working proficiency in teamwork."
+            }
+        ]
+    }
+}

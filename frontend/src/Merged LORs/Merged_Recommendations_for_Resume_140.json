@@ -1,0 +1,66 @@
+{
+    "target_id": "140",
+    "recommendations": [
+        {
+            "recommender_id": "156",
+            "recommendation": {
+                "resume_file": "140.json",
+                "recommendation_file": "Recommendation_From_ID_156.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Management",
+                        "Communication",
+                        "Time Management",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative management, communication, and time management skills. The source of the recommendation is a Finance Director, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "276",
+            "recommendation": {
+                "resume_file": "140.json",
+                "recommendation_file": "Recommendation_From_ID_276.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Management",
+                        "Communication",
+                        "Project Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative expertise and finance-oriented responsibilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "882",
+            "recommendation": {
+                "resume_file": "140.json",
+                "recommendation_file": "Recommendation_From_ID_882.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Management",
+                        "Communication",
+                        "Project Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative capabilities, attention to detail, and proactive approach. The Finance Manager's endorsement highlights the candidate's value to the finance team and their potential to make a valuable addition to any organization."
+                }
+            }
+        }
+    ]
+}

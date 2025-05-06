@@ -1,0 +1,17 @@
+{
+    "resume_file": "175.json",
+    "recommendation_file": "Recommendation_From_ID_1.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with the first part mentioning a Mortgage Banking Default Operations Specialist and the second part describing a Store Manager. This inconsistency raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Customer Service",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation partially aligns with the candidate's skills and experience, but the inconsistency in describing two different roles and individuals raises concerns about the authenticity of the recommendation."
+    }
+}

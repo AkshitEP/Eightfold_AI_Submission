@@ -1,0 +1,72 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Online Coaching, Personal Training",
+                "work_description": "Clients have access to a broad range of services from online to in-person personal training, nutrition programming, weight loss consultations and exercise analysis. Solution focused health coaching based on readiness for change assessment, establishing trust and rapport with clients through collaborative coaching, proactive communication, use of empathy and consistency of follow-through.",
+                "company_level": "Startup",
+                "start_date": "01/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Chief Fitness Pro",
+                "work_description": "Designed online personalized fitness programs to help members achieve their weight loss and physical transformation goals, achieving outstanding results by coaching 95% of testimonials used in National TV commercial campaigns, including multiple 100-pound weight loss testimonials.",
+                "company_level": "Mid-level",
+                "start_date": "07/2002",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Personal Trainer",
+                "work_description": "Extensive one-to-one personal training experience in gyms, personal training studios and homes, providing nutritional guidance and support, guiding clients in safe exercise, taking into account individualized physical limitations.",
+                "company_level": "Startup",
+                "start_date": "07/2000",
+                "end_date": "Current"
+            }
+        ],
+        "education": [
+            {
+                "university": "Southern Connecticut State University",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Communications",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Personal Training",
+                "level": 5,
+                "explanation": "Over two decades of experience in one-to-one personal training, designing online fitness programs, and guiding clients in safe exercise, indicating expert-level mastery."
+            },
+            {
+                "name": "Nutrition Programming",
+                "level": 4,
+                "explanation": "Provided nutritional guidance and support to clients, suggesting strong proficiency in nutrition programming."
+            },
+            {
+                "name": "Weight Loss Consultations",
+                "level": 4,
+                "explanation": "Conducted weight loss consultations and achieved outstanding results, indicating strong proficiency in this area."
+            },
+            {
+                "name": "Health Coaching",
+                "level": 4,
+                "explanation": "Utilized solution-focused health coaching based on readiness for change assessment, establishing trust and rapport with clients, suggesting strong proficiency in health coaching."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Held the role of Chief Fitness Pro, which indicates a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Utilized proactive communication, empathy, and consistency of follow-through to establish trust and rapport with clients, suggesting strong proficiency in communication."
+            }
+        ]
+    }
+}

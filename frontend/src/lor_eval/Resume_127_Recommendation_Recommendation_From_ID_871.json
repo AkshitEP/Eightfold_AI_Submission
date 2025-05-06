@@ -1,0 +1,16 @@
+{
+    "resume_file": "127.json",
+    "recommendation_file": "Recommendation_From_ID_871.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, such as the mention of leadership quality and extra-curricular management roles, which are not directly supported by the resume.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Reporting",
+            "System Implementation"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's accounting experience and skills, but some claims seem exaggerated or unsupported, such as the mention of leadership quality and extra-curricular management roles."
+    }
+}

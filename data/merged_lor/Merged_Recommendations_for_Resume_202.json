@@ -1,0 +1,44 @@
+{
+    "target_id": "202",
+    "recommendations": [
+        {
+            "recommender_id": "610",
+            "recommendation": {
+                "resume_file": "202.json",
+                "recommendation_file": "Recommendation_From_ID_610.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. Some minor inconsistencies in the recommender's description of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Software Quality Assurance",
+                        "Test Planning and Execution",
+                        "Troubleshooting",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills and experience in software quality assurance, as well as their customer-centric approach. However, the recommender's background and relationship with the candidate are unclear, which raises some minor concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "559",
+            "recommendation": {
+                "resume_file": "202.json",
+                "recommendation_file": "Recommendation_From_ID_559.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Exaggerated claims, informal language, and statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Banking Operations",
+                        "Software Quality Assurance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but it contains some exaggerated claims and informal language that raise concerns about its credibility."
+                }
+            }
+        }
+    ]
+}

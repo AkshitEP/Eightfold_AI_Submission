@@ -1,0 +1,85 @@
+{
+    "target_id": "60",
+    "recommendations": [
+        {
+            "recommender_id": "724",
+            "recommendation": {
+                "resume_id": 60,
+                "recommendation_file": "Recommendation_From_ID_724.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples and details from the candidate's resume. Some minor inconsistencies are present, such as the mention of 'Business Office Manager' which is not a role mentioned in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Healthcare Management",
+                        "Occupational Therapy"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and management skills, which align with their experience as Senior Director of Operations and Regional Director. However, it does not provide specific examples or details from the candidate's resume, and some minor inconsistencies are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "743",
+            "recommendation": {
+                "resume_id": 60,
+                "recommendation_file": "Recommendation_From_ID_743.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Occupational Therapy",
+                        "Leadership",
+                        "Healthcare Management",
+                        "Team Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their clinical competence, management abilities, and commitment to patient care. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "518",
+            "recommendation": {
+                "resume_id": 60,
+                "recommendation_file": "Recommendation_From_ID_518.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Occupational Therapy",
+                        "Leadership",
+                        "Healthcare Management",
+                        "Team Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, management, and clinical expertise. However, the source of the recommendation is unclear, and the recommender's role and relationship to the candidate are not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "922",
+            "recommendation": {
+                "resume_id": 60,
+                "recommendation_file": "Recommendation_From_ID_922.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommender claims to be an engineer, but there is no clear connection between their experience and the occupational therapist's skills and experience. The recommendation seems overly flattering and lacks specific examples from the occupational therapist's work history.",
+                    "verified_skills": [
+                        "Occupational Therapy",
+                        "Leadership",
+                        "Healthcare Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the occupational therapist's skills and experience, but the recommender's background and connection to the occupational therapist are unclear. The recommendation seems to be based on general impressions rather than specific examples from the occupational therapist's work history."
+                }
+            }
+        }
+    ]
+}

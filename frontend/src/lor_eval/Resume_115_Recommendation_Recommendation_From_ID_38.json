@@ -1,0 +1,17 @@
+{
+    "resume_file": "115.json",
+    "recommendation_file": "Recommendation_From_ID_38.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source claims the candidate has a background as an Aviation Electronics Technician, which is not mentioned in the resume. This inconsistency raises some concerns.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Problem-Solving",
+            "Compliance Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and problem-solving skills, which align with their experience as a Branch Logistics Manager and General Manager. However, the source's claim about the candidate's background as an Aviation Electronics Technician is not supported by the resume."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "462.json",
+    "recommendation_file": "Recommendation_From_ID_448.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Staff Management",
+            "Business Development",
+            "Strategic planning",
+            "Financial Management",
+            "Customer Service",
+            "Organization and Time management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, strategic planning, and employee development. However, the recommendation mentions the candidate being 'creative' which is not supported by the resume."
+    }
+}

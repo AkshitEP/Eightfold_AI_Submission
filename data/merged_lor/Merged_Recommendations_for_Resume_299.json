@@ -1,0 +1,78 @@
+{
+    "target_id": "299",
+    "recommendations": [
+        {
+            "recommender_id": "965",
+            "recommendation": {
+                "resume_file": "299.json",
+                "recommendation_file": "Recommendation_From_ID_965.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Cash Management",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Auditing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, auditing, and compliance expertise. The recommendation highlights the candidate's exceptional skills in cash management, budgetary controls, and leadership qualities."
+                }
+            }
+        },
+        {
+            "recommender_id": "572",
+            "recommendation": {
+                "resume_file": "299.json",
+                "recommendation_file": "Recommendation_From_ID_572.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Cash Management",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Auditing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and highlighting their attention to detail, reliability, and strong organizational and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "710",
+            "recommendation": {
+                "resume_file": "299.json",
+                "recommendation_file": "Recommendation_From_ID_710.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Auditing"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and attention to detail. The recommender's tone is professional and objective, indicating a genuine endorsement of the candidate's abilities."
+                }
+            }
+        }
+    ]
+}

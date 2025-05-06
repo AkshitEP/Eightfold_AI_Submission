@@ -1,0 +1,139 @@
+{
+    "target_id": "686",
+    "recommendations": [
+        {
+            "recommender_id": "810",
+            "recommendation": {
+                "resume_file": "686.json",
+                "recommendation_file": "Recommendation_From_ID_810.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. Some claims seem exaggerated or unsupported, but no statistically improbable data is present.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Business Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and leadership abilities. However, the recommender's background and relationship with the candidate are unclear, and some claims seem exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "375",
+            "recommendation": {
+                "resume_file": "686.json",
+                "recommendation_file": "Recommendation_From_ID_375.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Communication",
+                        "Time Management",
+                        "Business Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but the recommender's own experience in logistics management is not directly related to the candidate's work experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "635",
+            "recommendation": {
+                "resume_file": "686.json",
+                "recommendation_file": "Recommendation_From_ID_635.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. Some minor inconsistencies are present, such as the recommender's title and the candidate's role not matching.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in project management, leadership, communication, and time management, which are relevant to their work experience. However, the recommender's role and relationship with the candidate are unclear, and some minor inconsistencies are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "992",
+            "recommendation": {
+                "resume_file": "686.json",
+                "recommendation_file": "Recommendation_From_ID_992.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and lacks concrete examples from the candidate's resume. The first paragraph seems unrelated to the candidate's experience and skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation partially aligns with the candidate's skills and experience, but it contains some inconsistencies and exaggerated claims. The first paragraph seems unrelated to the candidate's experience and skills, and the recommendation lacks concrete examples from the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "63",
+            "recommendation": {
+                "resume_file": "686.json",
+                "recommendation_file": "Recommendation_From_ID_63.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is for a completely different profession and does not align with the candidate's skills or experience.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems fraudulent and does not provide any relevant information about the candidate's skills or experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "868",
+            "recommendation": {
+                "resume_file": "686.json",
+                "recommendation_file": "Recommendation_From_ID_868.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "453",
+            "recommendation": {
+                "resume_file": "686.json",
+                "recommendation_file": "Recommendation_From_ID_453.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and communication skills. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not explicitly stated."
+                }
+            }
+        }
+    ]
+}

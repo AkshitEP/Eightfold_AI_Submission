@@ -1,0 +1,17 @@
+{
+    "resume_id": 927,
+    "recommendation_file": "Recommendation_From_ID_554.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of a 98% increase in client engagement seems statistically improbable and requires further verification.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and communication abilities. However, some claims seem exaggerated and require further verification."
+    }
+}

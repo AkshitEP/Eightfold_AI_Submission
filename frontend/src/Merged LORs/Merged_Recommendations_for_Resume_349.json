@@ -1,0 +1,31 @@
+{
+    "target_id": "349",
+    "recommendations": [
+        {
+            "recommender_id": "127",
+            "recommendation": {
+                "resume_file": "349.json",
+                "recommendation_file": "Recommendation_From_ID_127.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Forecasting",
+                        "Leadership",
+                        "Accounting",
+                        "Financial Reporting",
+                        "Project Management",
+                        "Microsoft Excel",
+                        "Communication",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. The recommender's experience as an Accountant adds credibility to their endorsement."
+                }
+            }
+        }
+    ]
+}

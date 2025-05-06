@@ -1,0 +1,155 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Information Technology",
+                "work_description": "Member of the Health Care Executive team responsible for the delivery of technology to two hospitals, 40 clinics, Public Health, Behavioral Health, Medical Examiner and the County's Health Insurance plan. Implemented Service Now, ITIL Active Directory and Office 365 for the agency. Responsible for the agency's Informatics organization. Oversaw the outsourcing of the agency's Cerner EHR system, implemented two major Cerner upgrades and developed the technology plan to implement the agency's new hospital. Developed and managed the County's Project Leadership Academy.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Senior Project Manager/Architect/Business Analyst",
+                "work_description": "Managed the implementation of a $50 million Cerner system across two hospitals, 40 clinics and Public Health in 14 months, The system included 56 solutions including registration, scheduling, patient care, and billing. It included interfaces to PACS, Pyxis, and other outside entities. Land Management Providing Project Management Office (PMO) oversight and mentoring to project managers on a major upgrade ($4.5 million) to the County's Land Management and Permitting System. Includes executive status presentations, multiagency coordination and mentoring/supervision of 2 junior project managers.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2001",
+                "end_date": "10/2013"
+            },
+            {
+                "role_name": "Principal Consultant/Senior Project Manager",
+                "work_description": "Acted in roles including Project Management, Architect and Lead Designer on the below listed projects. RR Donnelley - Managed the design and development of a customer B2B portal for RR Donnelley's Book Division to provide secure access to customer's proprietary reports using data aggregated from disparate databases within numerous Publishing Services facilities.",
+                "company_level": "Mid-level",
+                "start_date": "03/1997",
+                "end_date": "04/2001"
+            },
+            {
+                "role_name": "Senior Project Manager",
+                "work_description": "Major Projects Rearchitect of Altris' product suite Implemented Customer Support Desk, introduction and implementation of Project Management processes. Arco Alaska - Managed the implementation of a custom engineering drawing change solution, which reduced engineering change cycle time.",
+                "company_level": "Mid-level",
+                "start_date": "03/1992",
+                "end_date": "03/1997"
+            }
+        ],
+        "education": [
+            {
+                "university": "Pepperdine University",
+                "start_date": "01/2005",
+                "end_date": "12/2009",
+                "domain": "Business Administration",
+                "level": "MBA"
+            },
+            {
+                "university": "Loyola Marymount University",
+                "start_date": "01/1985",
+                "end_date": "12/1989",
+                "domain": "Biology Computer Science",
+                "level": "BS"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Healthcare",
+                "description": "Implemented Service Now, ITIL Active Directory and Office 365 for the agency.",
+                "skills": [
+                    "ITIL",
+                    "Active Directory",
+                    "Office 365"
+                ]
+            },
+            {
+                "domain": "Land Management",
+                "description": "Providing Project Management Office (PMO) oversight and mentoring to project managers on a major upgrade ($4.5 million) to the County's Land Management and Permitting System.",
+                "skills": [
+                    "Project Management",
+                    "PMO"
+                ]
+            },
+            {
+                "domain": "Telecommunications",
+                "description": "Managed the implementation of a Cisco based data network and VoIP telephone system at all the County's main campuses.",
+                "skills": [
+                    "Cisco",
+                    "VoIP"
+                ]
+            },
+            {
+                "domain": "Customer Relationship Management",
+                "description": "Managed the design and development of a customer B2B portal for RR Donnelley's Book Division to provide secure access to customer's proprietary reports using data aggregated from disparate databases within numerous Publishing Services facilities.",
+                "skills": [
+                    "B2B",
+                    "Portal Development"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Extensive experience in managing large-scale projects across multiple domains, including healthcare, land management, and telecommunications, indicating expert-level mastery."
+            },
+            {
+                "name": "ITIL",
+                "level": 4,
+                "explanation": "Implemented ITIL for the agency, suggesting strong proficiency in IT service management."
+            },
+            {
+                "name": "Active Directory",
+                "level": 4,
+                "explanation": "Implemented Active Directory for the agency, indicating strong proficiency in identity and access management."
+            },
+            {
+                "name": "Office 365",
+                "level": 4,
+                "explanation": "Implemented Office 365 for the agency, suggesting strong proficiency in cloud-based productivity solutions."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held senior leadership positions, including Director of Information Technology, indicating expert-level mastery in leadership and management."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 4,
+                "explanation": "Acted as a business analyst on multiple projects, suggesting strong proficiency in business analysis and requirements gathering."
+            },
+            {
+                "name": "Architecture",
+                "level": 4,
+                "explanation": "Acted as an architect on multiple projects, indicating strong proficiency in system design and architecture."
+            },
+            {
+                "name": "Cisco",
+                "level": 3,
+                "explanation": "Managed the implementation of a Cisco-based data network and VoIP telephone system, showing solid working proficiency in network administration."
+            },
+            {
+                "name": "VoIP",
+                "level": 3,
+                "explanation": "Managed the implementation of a VoIP telephone system, indicating solid working proficiency in voice over IP technologies."
+            },
+            {
+                "name": "B2B",
+                "level": 3,
+                "explanation": "Managed the design and development of a customer B2B portal, showing solid working proficiency in business-to-business solutions."
+            },
+            {
+                "name": "Portal Development",
+                "level": 3,
+                "explanation": "Managed the design and development of a customer B2B portal, indicating solid working proficiency in portal development."
+            },
+            {
+                "name": "Healthcare IT",
+                "level": 4,
+                "explanation": "Implemented multiple healthcare IT projects, including Cerner EHR system and Service Now, suggesting strong proficiency in healthcare IT."
+            },
+            {
+                "name": "Land Management",
+                "level": 3,
+                "explanation": "Provided project management oversight for a major upgrade to the County's Land Management and Permitting System, showing solid working proficiency in land management."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_id": 72,
+    "recommendation_file": "Recommendation_From_ID_241.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's background in the military does not directly relate to the candidate's experience in the restaurant industry.",
+        "verified_skills": [
+            "Customer Service",
+            "Teamwork",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in customer service, teamwork, and communication, which aligns with their skills and experience. However, the recommender's background and relationship with the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Shift Supervisor",
+                "work_description": "Monitor behavior of subordinates to ensure alert, courteous, and professional behavior toward inmates, parolees, fellow employees, visitors, and the public. Instruct employees or provide on-the-job training. Set up employee work schedules. Supervise my team while they're out on the line, helping with the customers. Bake, line cook, cashier, open and close the store, stoke/inventory, cleans, customer services.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "First-Line Supervisors of Retail Sales Workers",
+                "work_description": "Greet customers and ascertain what each customer wants or needs. Recommend, select, and help locate or obtain merchandise based on customer needs and desires. Answer questions regarding the store and its merchandise. Compute sales prices, total purchases and receive and process cash or credit payment.",
+                "company_level": "Mid-level",
+                "start_date": "12/2014",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Choreographer / Secretary",
+                "work_description": "Direct rehearsals to instruct dancers in how to use dance steps, and in techniques to achieve desired effects. Read and study story lines and musical scores to determine how to translate ideas and moods into dance movements. Design dances for individual dancers, dance companies, musical theater, opera, fashion shows, film, television productions and special events, and for dancers ranging from beginners to professionals.",
+                "company_level": "Mid-level",
+                "start_date": "02/2014",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Assistant",
+                "work_description": "Establish and enforce rules for behavior, and procedures for maintaining order. Organize and lead activities designed to promote physical, mental and social development, such as games, arts and crafts, music, storytelling, and field trips. Teach basic skills such as color, shape, number and letter recognition, personal hygiene, and social skills.",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "12/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Monroe Community College",
+                "start_date": "05/2016",
+                "end_date": "Present",
+                "domain": "International Business/ Politics",
+                "level": "Associate's"
+            },
+            {
+                "university": "Kensington High School for the Creative and Performing Arts",
+                "start_date": "06/2013",
+                "end_date": "06/2013",
+                "domain": "International Business/ Politics",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Volunteer",
+            "Grand Rapids Animal Shelter",
+            "Toys for Tots",
+            "Pee Wee Kickball",
+            "Assistant Coach"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has extensive experience in supervisory roles, including setting up employee work schedules, instructing employees, and monitoring behavior, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has handled customer interactions, including greeting customers, answering questions, and processing payments, suggesting strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience with scheduling and managing time, including setting up employee work schedules and managing multiple tasks, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience with instructing employees, communicating with customers, and leading activities, showing a solid working proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Has experience with supervising teams, including monitoring behavior and providing on-the-job training, indicating a solid working proficiency."
+            },
+            {
+                "name": "Event Planning",
+                "level": 2,
+                "explanation": "Has experience with designing dances and leading activities, suggesting some practical experience."
+            },
+            {
+                "name": "Teaching",
+                "level": 2,
+                "explanation": "Has experience with teaching basic skills and leading activities, indicating some practical experience."
+            },
+            {
+                "name": "International Business",
+                "level": 1,
+                "explanation": "Has education in International Business, but no direct work experience, indicating basic familiarity."
+            },
+            {
+                "name": "Politics",
+                "level": 1,
+                "explanation": "Has education in Politics, but no direct work experience, indicating basic familiarity."
+            }
+        ]
+    }
+}

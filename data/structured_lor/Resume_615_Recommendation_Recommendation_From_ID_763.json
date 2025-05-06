@@ -1,0 +1,16 @@
+{
+    "resume_file": "615.json",
+    "recommendation_file": "Recommendation_From_ID_763.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies detected, but no significant red flags.",
+        "verified_skills": [
+            "Accounting",
+            "Payroll Management",
+            "Financial Reconciliation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies were detected."
+    }
+}

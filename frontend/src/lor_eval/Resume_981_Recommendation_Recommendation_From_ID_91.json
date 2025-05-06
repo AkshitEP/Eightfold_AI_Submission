@@ -1,0 +1,18 @@
+{
+    "resume_id": 981,
+    "recommendation_file": "Recommendation_From_ID_91.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "HRIS Management",
+            "Benefits Administration",
+            "Customer Support",
+            "Policy Administration",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management abilities and problem-solving skills. However, it does not explicitly mention payroll management or project management skills."
+    }
+}

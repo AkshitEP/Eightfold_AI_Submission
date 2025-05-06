@@ -1,0 +1,91 @@
+{
+    "target_id": "600",
+    "recommendations": [
+        {
+            "recommender_id": "113",
+            "recommendation": {
+                "resume_file": "600.json",
+                "recommendation_file": "Recommendation_From_ID_113.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Leadership",
+                        "Cash Flow Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "864",
+            "recommendation": {
+                "resume_file": "600.json",
+                "recommendation_file": "Recommendation_From_ID_864.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and the recommender's profession (Patient Advocate) does not directly align with the candidate's field (Finance).",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Cash Flow Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's financial management skills, leadership abilities, and attention to detail, but does not provide specific examples or metrics to support these claims. The recommender's profession and relationship to the candidate are also unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "873",
+            "recommendation": {
+                "resume_file": "600.json",
+                "recommendation_file": "Recommendation_From_ID_873.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in finance, but the source of the recommendation is unclear and the language is overly flattering. The recommendation highlights the candidate's financial acumen, strategic oversight, and leadership skills, but lacks specific examples from the candidate's work history."
+                }
+            }
+        },
+        {
+            "recommender_id": "263",
+            "recommendation": {
+                "resume_file": "600.json",
+                "recommendation_file": "Recommendation_From_ID_263.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Leadership",
+                        "Cash Flow Management",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. The recommender's experience in a similar financial role adds credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

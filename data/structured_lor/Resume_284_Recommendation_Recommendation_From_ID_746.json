@@ -1,0 +1,19 @@
+{
+    "resume_file": "284.json",
+    "recommendation_file": "Recommendation_From_ID_746.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The Operations Coordinator is not mentioned in the resume, and the recommendation seems to be for two different individuals.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Time Management",
+            "Communication",
+            "Inventory Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with some of the candidate's skills and experience, but it seems to be for two different individuals. The Operations Coordinator is not mentioned in the resume, and the recommendation for the General Manager is more relevant to the candidate's experience."
+    }
+}

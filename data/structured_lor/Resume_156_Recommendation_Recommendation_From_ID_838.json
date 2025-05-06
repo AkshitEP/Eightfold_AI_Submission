@@ -1,0 +1,19 @@
+{
+    "resume_file": "156.json",
+    "recommendation_file": "Recommendation_From_ID_838.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Financial Reporting",
+            "Leadership",
+            "Financial Modeling",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and budgeting expertise. The recommendation source is likely a supervisor or someone who has worked closely with the candidate, given the level of detail and insight provided."
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Intern",
+                "work_description": "Create and implement strength and conditioning workouts for spring season. Monitor weight lifting form and technique. Provide feedback and apply knowledge to strength training and conditioning programs. Organize and prepare equipment daily for strength and conditioning programs.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "05/2016"
+            },
+            {
+                "role_name": "Fitness Intern",
+                "work_description": "Exposed to daily routine of fitness specialist and client interaction Conducted one-on-one orientation for new members and instructed in the proper use of equipment Assisted with revising programs offered to incorporate updated topics Created bulletin boards for Member-of-the-Month Provided complimentary body measurements Maintained facility and equipment according to health and safety standards.",
+                "company_level": "Mid-level",
+                "start_date": "08/2015",
+                "end_date": "12/2015"
+            },
+            {
+                "role_name": "Student Assistant",
+                "work_description": "Utilize Front Rush website to enter football and lacrosse recruit and roster information. Organize and coordinate football recruiting events during the fall, including giving tours. Provide office support for football and lacrosse coaches. Restock office and break room supplies.",
+                "company_level": "Mid-level",
+                "start_date": "08/2013",
+                "end_date": "05/2016"
+            },
+            {
+                "role_name": "Production Worker",
+                "work_description": "Individually standardized jelly and ice cream topping batches (checked pH, temperature, and consistency). Trained in operation and safety of a stand up and sit down forklift. Consistently met quotas when packed jelly, syrup, ice cream toppings and plate scapers into boxes. Operated label machine allowing for continual operation and upkeep.",
+                "company_level": "Mid-level",
+                "start_date": "05/2013",
+                "end_date": "12/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Baldwin Wallace University",
+                "start_date": "05/2016",
+                "end_date": "05/2016",
+                "domain": "Exercise Science Orthopedic Assessment and Treatment Health Promotion and Education",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Strength and Conditioning",
+                "level": 3,
+                "explanation": "Created and implemented strength and conditioning workouts, monitored weight lifting form and technique, and provided feedback, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Provided one-on-one orientation for new members, instructed in the proper use of equipment, and assisted with revising programs, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 2,
+                "explanation": "Conducted one-on-one orientation for new members, provided feedback, and created bulletin boards, showing some practical experience in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 2,
+                "explanation": "Organized and coordinated football recruiting events, restocked office and break room supplies, and met quotas in a production environment, indicating some practical experience in time management."
+            },
+            {
+                "name": "Teamwork",
+                "level": 2,
+                "explanation": "Assisted with revising programs, provided office support for football and lacrosse coaches, and worked in a team environment in a production setting, showing some practical experience in teamwork."
+            },
+            {
+                "name": "Equipment Operation",
+                "level": 2,
+                "explanation": "Operated a label machine, forklift, and other equipment, indicating some practical experience in equipment operation."
+            },
+            {
+                "name": "Data Entry",
+                "level": 1,
+                "explanation": "Utilized Front Rush website to enter football and lacrosse recruit and roster information, showing basic familiarity with data entry."
+            },
+            {
+                "name": "Health and Safety",
+                "level": 1,
+                "explanation": "Maintained facility and equipment according to health and safety standards, showing basic familiarity with health and safety protocols."
+            }
+        ]
+    }
+}

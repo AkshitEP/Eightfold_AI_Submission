@@ -1,0 +1,17 @@
+{
+    "resume_file": "731.json",
+    "recommendation_file": "Recommendation_From_ID_263.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Additionally, the recommender's background as a General Accountant seems unrelated to the candidate's customer service experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Leadership",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in customer service, communication, leadership, and problem-solving. However, the recommender's background and relationship to the candidate are unclear, which may raise some concerns about the recommendation's credibility."
+    }
+}

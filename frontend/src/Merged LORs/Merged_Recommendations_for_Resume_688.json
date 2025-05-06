@@ -1,0 +1,86 @@
+{
+    "target_id": "688",
+    "recommendations": [
+        {
+            "recommender_id": "658",
+            "recommendation": {
+                "resume_file": "688.json",
+                "recommendation_file": "Recommendation_From_ID_658.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Customer Service",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and technical tasks in the veterinary field. However, the source of the recommendation is unclear, and the recommendation does not explicitly mention all of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "668",
+            "recommendation": {
+                "resume_file": "688.json",
+                "recommendation_file": "Recommendation_From_ID_668.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected, including lack of evidence for dynamic leadership and entrepreneurial spirit, and unclear source of recommendation.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Administrative Support",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks substantial detail and alignment with the key areas of expertise, and contains some inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "275",
+            "recommendation": {
+                "resume_file": "688.json",
+                "recommendation_file": "Recommendation_From_ID_275.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and interpersonal abilities. The source of the recommendation appears to be a supervisor or someone who has worked closely with the candidate, given their detailed knowledge of the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "765",
+            "recommendation": {
+                "resume_file": "688.json",
+                "recommendation_file": "Recommendation_From_ID_765.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Administrative Support",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and communication abilities. However, it does not cover all key skills and experiences from the resume."
+                }
+            }
+        }
+    ]
+}

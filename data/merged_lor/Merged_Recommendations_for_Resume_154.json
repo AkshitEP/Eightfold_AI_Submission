@@ -1,0 +1,63 @@
+{
+    "target_id": "154",
+    "recommendations": [
+        {
+            "recommender_id": "200",
+            "recommendation": {
+                "resume_file": "154.json",
+                "recommendation_file": "Recommendation_From_ID_200.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, such as the candidate's background in Human Resources not being mentioned in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems largely credible, but lacks substantial detail or alignment with the key areas of expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "35",
+            "recommendation": {
+                "resume_file": "154.json",
+                "recommendation_file": "Recommendation_From_ID_35.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'accounting acumen' which is not strongly supported by the resume. However, the recommendation is largely credible and well-supported by the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Customer Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in leadership, team management, communication, and customer relationship management, which are well-supported by their work experience. However, the mention of 'accounting acumen' is not strongly supported by the resume, and the recommendation could benefit from more specific examples of the candidate's skills in action."
+                }
+            }
+        },
+        {
+            "recommender_id": "486",
+            "recommendation": {
+                "resume_file": "154.json",
+                "recommendation_file": "Recommendation_From_ID_486.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, such as 'impressive adaptability and commitment to excellence in various fields' and 'unparalleled capacity to achieve organizational goals effectively'. Additionally, the recommendation does not align well with the candidate's skills and experience, as it focuses on military service and aviation supply management, which are not mentioned in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be written for a different candidate, as it does not align well with the candidate's skills and experience. The language used is also overly flattering and contains statistically improbable claims."
+                }
+            }
+        }
+    ]
+}

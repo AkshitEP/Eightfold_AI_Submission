@@ -1,0 +1,18 @@
+{
+    "resume_file": "394.json",
+    "recommendation_file": "Recommendation_From_ID_725.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Talent Management",
+            "Recruitment",
+            "HR Management",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer/Colleague",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management abilities and leadership skills."
+    }
+}

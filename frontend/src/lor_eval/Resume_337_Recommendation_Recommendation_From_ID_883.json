@@ -1,0 +1,16 @@
+{
+    "resume_file": "337.json",
+    "recommendation_file": "Recommendation_From_ID_883.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, including unverified claims of awards received by the candidate.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's customer service skills and industry knowledge, but does not specifically mention their experience in policy management, data analysis, or leadership."
+    }
+}

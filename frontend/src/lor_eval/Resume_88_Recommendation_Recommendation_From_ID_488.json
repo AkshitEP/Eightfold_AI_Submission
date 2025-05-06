@@ -1,0 +1,15 @@
+{
+    "resume_id": 88,
+    "recommendation_file": "Recommendation_From_ID_488.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in customer service and communication. However, it does not specifically mention other skills like Sales, Time Management, Problem-Solving, Teamwork, or Leadership."
+    }
+}

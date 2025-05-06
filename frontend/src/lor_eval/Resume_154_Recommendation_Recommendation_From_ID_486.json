@@ -1,0 +1,16 @@
+{
+    "resume_file": "154.json",
+    "recommendation_file": "Recommendation_From_ID_486.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, such as 'impressive adaptability and commitment to excellence in various fields' and 'unparalleled capacity to achieve organizational goals effectively'. Additionally, the recommendation does not align well with the candidate's skills and experience, as it focuses on military service and aviation supply management, which are not mentioned in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be written for a different candidate, as it does not align well with the candidate's skills and experience. The language used is also overly flattering and contains statistically improbable claims."
+    }
+}

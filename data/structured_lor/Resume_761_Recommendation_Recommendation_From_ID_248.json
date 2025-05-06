@@ -1,0 +1,15 @@
+{
+    "resume_file": "761.json",
+    "recommendation_file": "Recommendation_From_ID_248.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to focus on a different role and experience not mentioned in the resume.",
+        "verified_skills": [
+            "Information Technology",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation does not strongly align with the candidate's skills and experience, providing limited specific examples of their technical expertise and leadership skills. The recommendation seems to focus on a different role and experience not mentioned in the resume."
+    }
+}

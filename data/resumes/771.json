@@ -1,0 +1,122 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Product Specialist",
+                "work_description": "Checked in vendors, Changed and verified prices, Created and tested promotions, Emphasized fast, friendly customer service, Offered product recommendations when appropriate",
+                "company_level": "Mid-level",
+                "start_date": "10/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Sales Representative",
+                "work_description": "Cold-called prospective customers to build relationship, Maintained productive relationships with existing customers through exceptional follow-up after sales, Delivered products to customers in timely manner, Established new customer accounts, Evaluated competitors and performed market research, Achieved monthly sales goals",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Fitness Coach",
+                "work_description": "Suggested exercise modifications to individual students to avoid strain and injury, Encouraged members to continue attending group fitness classes, Corrected dangerous movements and suggested alternate exercises, Talked one-on-one with members about their fitness needs and eating habits",
+                "company_level": "Mid-level",
+                "start_date": "05/2014",
+                "end_date": "05/2016"
+            },
+            {
+                "role_name": "Assistant Manager",
+                "work_description": "Executed cash transactions quickly and accurately, Greeted all customers, Oversaw overnight store operations, including staff assignments and production lists, Delegated tasks to team members to optimize productivity, Supervised employees, Ordered and shelved weekly sale items for customers, Developed positive vendor relationships, Verified inventory counts, Bookkeeping back-up",
+                "company_level": "Mid-level",
+                "start_date": "11/2009",
+                "end_date": "10/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "AIB College of Business",
+                "start_date": "11/2015",
+                "end_date": "Present",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Des Moines Area Community College",
+                "start_date": "05/2014",
+                "end_date": "Present",
+                "domain": "Business Administration",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Travel",
+            "Hiking",
+            "Biking",
+            "Reading",
+            "Writing"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience in providing fast and friendly customer service across multiple roles, including Product Specialist and Sales Representative."
+            },
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Achieved monthly sales goals as a Sales Representative and demonstrated ability to build relationships with customers and perform market research."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Demonstrated leadership skills as an Assistant Manager, including delegating tasks to team members, supervising employees, and overseeing store operations."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Effectively managed time in multiple roles, including executing cash transactions quickly and accurately, and delivering products to customers in a timely manner."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Developed strong communication skills through one-on-one interactions with customers, team members, and vendors."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 2,
+                "explanation": "Had some experience with bookkeeping as an Assistant Manager, but extent of experience is unclear."
+            },
+            {
+                "name": "Fitness Coaching",
+                "level": 2,
+                "explanation": "Had some experience as a Fitness Coach, including suggesting exercise modifications and encouraging members to attend group fitness classes."
+            },
+            {
+                "name": "Travel",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no relevant experience or skills demonstrated."
+            },
+            {
+                "name": "Hiking",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no relevant experience or skills demonstrated."
+            },
+            {
+                "name": "Biking",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no relevant experience or skills demonstrated."
+            },
+            {
+                "name": "Reading",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no relevant experience or skills demonstrated."
+            },
+            {
+                "name": "Writing",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no relevant experience or skills demonstrated."
+            }
+        ]
+    }
+}

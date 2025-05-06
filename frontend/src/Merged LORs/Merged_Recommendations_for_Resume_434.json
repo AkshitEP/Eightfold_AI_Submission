@@ -1,0 +1,98 @@
+{
+    "target_id": "434",
+    "recommendations": [
+        {
+            "recommender_id": "121",
+            "recommendation": {
+                "resume_file": "434.json",
+                "recommendation_file": "Recommendation_From_ID_121.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Computer Systems Administration",
+                        "Network Administration",
+                        "Troubleshooting",
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication",
+                        "Security",
+                        "Data Management"
+                    ],
+                    "recommendation_source": "Peer/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and problem-solving abilities. The recommender's perspective as a System Administrator in the federal IT sector adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "760",
+            "recommendation": {
+                "resume_file": "434.json",
+                "recommendation_file": "Recommendation_From_ID_760.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written by someone from a different field (aviation) and lacks specific examples from the IT specialist's work experience. Some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Troubleshooting",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the IT specialist's leadership, technical, and problem-solving skills, but lacks specific examples from their work experience. The source of the recommendation is unclear, and some claims seem exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "866",
+            "recommendation": {
+                "resume_file": "434.json",
+                "recommendation_file": "Recommendation_From_ID_866.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Computer Systems Administration",
+                        "Network Administration",
+                        "Troubleshooting",
+                        "Leadership",
+                        "Problem-Solving",
+                        "Security",
+                        "Data Management"
+                    ],
+                    "recommendation_source": "Peer/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership qualities. The recommender's background as an IT manager adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "973",
+            "recommendation": {
+                "resume_file": "434.json",
+                "recommendation_file": "Recommendation_From_ID_973.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Computer Systems Administration",
+                        "Network Administration",
+                        "Troubleshooting",
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Security"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management and problem-solving abilities. The recommender's relationship with the candidate is clear, and their endorsement is based on firsthand experience working together in the Information Technology department."
+                }
+            }
+        }
+    ]
+}

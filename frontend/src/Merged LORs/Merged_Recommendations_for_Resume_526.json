@@ -1,0 +1,63 @@
+{
+    "target_id": "526",
+    "recommendations": [
+        {
+            "recommender_id": "302",
+            "recommendation": {
+                "resume_file": "526.json",
+                "recommendation_file": "Recommendation_From_ID_302.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Administrative Support",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR and administrative expertise. The source of the recommendation is an HR Manager, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "59",
+            "recommendation": {
+                "resume_file": "526.json",
+                "recommendation_file": "Recommendation_From_ID_59.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with the first part discussing a Fitness Director and the second part discussing an HR specialist. This inconsistency raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Payroll Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not seem to be directly related to the candidate's skills and experience, with the exception of a few administrative skills. The mention of a Fitness Director and the focus on the fitness industry is not relevant to the candidate's background."
+                }
+            }
+        },
+        {
+            "recommender_id": "366",
+            "recommendation": {
+                "resume_file": "526.json",
+                "recommendation_file": "Recommendation_From_ID_366.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in HR, but the resume does not explicitly mention HR experience. However, the skills and job history suggest that the candidate has relevant experience.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Payroll Management",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience and skills in HR, but some claims seem exaggerated or unsupported. The recommendation is generally credible, but some minor inconsistencies are present."
+                }
+            }
+        }
+    ]
+}

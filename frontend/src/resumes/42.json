@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Assistant Manager - HR",
+                "work_description": "Generalist profile - Recruitment, Training & Development, Performance Appraisal, Employee Engagement, Audit, SAP-HR PA -Personnel Administration Defined the Enterprise Structure, Personnel Structure and Pay Scale Structure for the enterprise and linked the Pay Scale and Enterprise Structures.",
+                "company_level": "Mid-level",
+                "start_date": "09/2012",
+                "end_date": "08/2013"
+            },
+            {
+                "role_name": "Assistant Manager - HR",
+                "work_description": "To maintain HR database. To generate various HR reports required by the management. To maintain organizational structures, create positions and jobs in SAP To provide support in the HR administration of pay and bonus review, providing reports and stats to senior managers and supporting HRBPs in the collation of work.",
+                "company_level": "Mid-level",
+                "start_date": "07/2010",
+                "end_date": "07/2011"
+            },
+            {
+                "role_name": "Assistant Manager - HR",
+                "work_description": "Overlooking the recruitment process for providing best fit to the client as per their requirement. Understanding the requirement of the position in terms of competencies, experience etc. Sourcing suitable profiles from various sources as per requirement.",
+                "company_level": "Mid-level",
+                "start_date": "05/2008",
+                "end_date": "05/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Magadh University",
+                "start_date": "01/2014",
+                "end_date": "12/2015",
+                "domain": "Education",
+                "level": "Bachelor of Education (B.Ed)"
+            },
+            {
+                "university": "Xavier Institute of Social Service",
+                "start_date": "01/2006",
+                "end_date": "12/2008",
+                "domain": "Human Resource",
+                "level": "MBA"
+            },
+            {
+                "university": "Ranchi University",
+                "start_date": "01/2002",
+                "end_date": "12/2005",
+                "domain": "Biotechnology",
+                "level": "Bachelor of Science (B.Sc)"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Has extensive experience in recruitment process, including sourcing suitable profiles and understanding client requirements, showing strong proficiency."
+            },
+            {
+                "name": "HR Administration",
+                "level": 4,
+                "explanation": "Handled various HR administration tasks, including pay and bonus review, generating HR reports, and maintaining organizational structures, indicating strong proficiency."
+            },
+            {
+                "name": "Training & Development",
+                "level": 3,
+                "explanation": "Involved in training and development activities, showing a solid working proficiency."
+            },
+            {
+                "name": "Performance Appraisal",
+                "level": 3,
+                "explanation": "Handled performance appraisal tasks, indicating a solid level of proficiency."
+            },
+            {
+                "name": "Employee Engagement",
+                "level": 3,
+                "explanation": "Involved in employee engagement activities, showing a solid working proficiency."
+            },
+            {
+                "name": "Audit",
+                "level": 2,
+                "explanation": "Involved in audit activities, but the extent of involvement is not clear, indicating some practical experience."
+            },
+            {
+                "name": "SAP-HR",
+                "level": 4,
+                "explanation": "Defined Enterprise Structure, Personnel Structure, and Pay Scale Structure for the enterprise, and linked the Pay Scale and Enterprise Structures, showing strong proficiency."
+            },
+            {
+                "name": "HR Database Management",
+                "level": 3,
+                "explanation": "Maintained HR database, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No clear indication of leadership experience, but handled various HR tasks, indicating some practical experience."
+            }
+        ]
+    }
+}

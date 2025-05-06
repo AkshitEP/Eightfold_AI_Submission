@@ -1,0 +1,16 @@
+{
+    "resume_file": "36.json",
+    "recommendation_file": "Recommendation_From_ID_62.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly flattering language may indicate some exaggeration.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Operational Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional leadership skills, customer service, and operational excellence, but does not specifically mention their experience in healthcare administration, project management, or financial management."
+    }
+}

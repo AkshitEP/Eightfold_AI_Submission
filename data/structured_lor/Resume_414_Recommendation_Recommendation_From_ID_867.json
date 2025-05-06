@@ -1,0 +1,17 @@
+{
+    "resume_file": "414.json",
+    "recommendation_file": "Recommendation_From_ID_867.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Patient Care",
+            "Vital Signs Monitoring",
+            "Communication",
+            "CPR/AED"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and communication skills. However, the recommender's background in education and lack of direct experience in the healthcare field may impact the relevance score."
+    }
+}

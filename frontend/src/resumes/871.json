@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Prepare federal tax returns for individuals and small businesses. Perform bookkeeping and prepare financial statements for small businesses. Perform special projects & short-term assignments such as accountant at MCT Sheet Metal, Inc.",
+                "company_level": "Mid-level",
+                "start_date": "04/2012",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Tax Accountant",
+                "work_description": "Contributed to the overall production and enhanced the efficiency of the corporate tax services by exceeding production goals. Answered clients' queries regarding their tax filing status. Resolved clients' tax filing problems. Prepared simple and complex tax returns for individuals and for small businesses. Prepared and reviewed financial statements needed to prepare tax returns.",
+                "company_level": "Mid-level",
+                "start_date": "10/2011",
+                "end_date": "04/2012"
+            },
+            {
+                "role_name": "Accounting Manager",
+                "work_description": "Established new strategies to maximize profitability. Played an overwhelming role in the developing and restructuring of the entire accounting department. Improved the efficiency of the entire accounting department by 40%. Reduced accounts receivable turnover by 50%. Prepared general ledger journal entries on QuickBooks. Processed weekly and monthly invoices for accounts receivable. Prepared bank reconciliations and periodic financial statements.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "08/2011"
+            },
+            {
+                "role_name": "Tax Accountant",
+                "work_description": "Played a vital role in the growth of the company by introducing new clients and maintaining good relationship with existing ones. Prepared individual and business tax returns. Assisted in preparing corporate tax returns. Prepared quarterly and annually payroll reports 940s & 941s and state sales taxes. Reconciled monthly bank statements and prepared detailed financial statements. Handled customer queries over the phone and through emails.",
+                "company_level": "Mid-level",
+                "start_date": "12/2005",
+                "end_date": "12/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Houston",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Tax Preparation",
+                "level": 5,
+                "explanation": "Has extensive experience preparing individual and business tax returns, exceeding production goals, and resolving tax filing problems, indicating expert-level mastery."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 4,
+                "explanation": "Performed bookkeeping for small businesses, prepared financial statements, and reconciled monthly bank statements, showing strong proficiency."
+            },
+            {
+                "name": "Financial Statement Preparation",
+                "level": 4,
+                "explanation": "Prepared financial statements for small businesses, reviewed financial statements for tax returns, and prepared periodic financial statements, indicating strong proficiency."
+            },
+            {
+                "name": "Accounting Management",
+                "level": 5,
+                "explanation": "Established new strategies to maximize profitability, restructured the accounting department, and improved efficiency by 40%, indicating expert-level mastery."
+            },
+            {
+                "name": "QuickBooks",
+                "level": 4,
+                "explanation": "Processed weekly and monthly invoices, prepared bank reconciliations, and prepared general ledger journal entries on QuickBooks, suggesting strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Prepared quarterly and annual payroll reports, handled payroll-related customer queries, and processed payroll reports, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Analyzed financial statements, prepared detailed financial statements, and reconciled monthly bank statements, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Played a vital role in the growth of the company, introduced new clients, and maintained good relationships with existing ones, indicating strong proficiency in leadership."
+            }
+        ]
+    }
+}

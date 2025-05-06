@@ -1,0 +1,103 @@
+{
+    "target_id": "78",
+    "recommendations": [
+        {
+            "recommender_id": "795",
+            "recommendation": {
+                "resume_id": 78,
+                "recommendation_file": "Recommendation_From_ID_795.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Yoga Instruction"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in leadership and customer service. However, it does not directly reference all of the candidate's skills, such as accounting, project management, and human resources."
+                }
+            }
+        },
+        {
+            "recommender_id": "916",
+            "recommendation": {
+                "resume_id": 78,
+                "recommendation_file": "Recommendation_From_ID_916.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Yoga Instruction",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in group fitness instruction, particularly in yoga. However, it does not cover all key skills and experiences from the resume, such as accounting, project management, and leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "936",
+            "recommendation": {
+                "resume_id": 78,
+                "recommendation_file": "Recommendation_From_ID_936.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Yoga Instruction"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service skills, communication abilities, and leadership qualities, which align with their experience in various roles. However, it does not directly reference their skills in accounting, project management, or human resources, which are prominent in their resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "356",
+            "recommendation": {
+                "resume_id": 78,
+                "recommendation_file": "Recommendation_From_ID_356.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Yoga Instruction",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in group fitness instruction, customer service, and communication. The source of the recommendation is a peer, likely a colleague or fellow instructor, who has witnessed the candidate's teaching style and effectiveness firsthand."
+                }
+            }
+        },
+        {
+            "recommender_id": "344",
+            "recommendation": {
+                "resume_id": 78,
+                "recommendation_file": "Recommendation_From_ID_344.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Yoga Instruction",
+                        "Customer Service",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in group fitness instruction, customer service, and leadership. However, it does not mention specific skills like accounting, project management, or human resources, which are also listed in the resume."
+                }
+            }
+        }
+    ]
+}

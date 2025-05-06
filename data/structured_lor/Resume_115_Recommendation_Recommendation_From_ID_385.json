@@ -1,0 +1,15 @@
+{
+    "resume_file": "115.json",
+    "recommendation_file": "Recommendation_From_ID_385.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Some claims seem exaggerated or unsupported, and the recommendation's tone is overly flattering.",
+        "verified_skills": [
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with key areas of expertise. The recommender's relationship to the candidate is unclear."
+    }
+}

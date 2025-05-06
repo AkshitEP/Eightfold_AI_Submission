@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Develops Human Resources policies, procedures, plans and budgets. The safety of the workforce for recruitment, development and compensation of a superior workforce. Develops an employee-oriented culture that emphasizes quality, continuous improvement and high performance.",
+                "company_level": "Mid-level",
+                "start_date": "12/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Administered various HR plans and procedures for all company personnel; assist in development and implementation of personnel policies and procedures; Ensure employee compliance.",
+                "company_level": "Mid-level",
+                "start_date": "02/2013",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Human Resource Manager",
+                "work_description": "Developed, implemented and coordinated policies and procedures for all Human Resources functions such as recruiting, wage/salary administration and health programs.",
+                "company_level": "Mid-level",
+                "start_date": "10/2008",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Staffing Manager",
+                "work_description": "Conducted background checks on candidates by obtaining information from law enforcement officials, previous employers and references.",
+                "company_level": "Mid-level",
+                "start_date": "10/2004",
+                "end_date": "09/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Sam Houston State University",
+                "start_date": "01/2004",
+                "end_date": "12/2004",
+                "domain": "Human Resource Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "North Harris Community College",
+                "start_date": "01/2000",
+                "end_date": "12/2000",
+                "domain": "Liberal Arts",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resource Management",
+                "level": 5,
+                "explanation": "Over a decade of experience in various HR roles, including HR Generalist and Human Resource Manager, with a strong educational background in Human Resource Management, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Extensive experience in recruitment, including conducting background checks and developing employee-oriented cultures, suggesting strong proficiency."
+            },
+            {
+                "name": "Employee Development",
+                "level": 4,
+                "explanation": "Consistently involved in employee development, including compensation and benefits, indicating strong proficiency."
+            },
+            {
+                "name": "Policy Development",
+                "level": 4,
+                "explanation": "Developed and implemented various HR policies and procedures, suggesting strong proficiency in policy development."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed HR functions and teams, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Compliance",
+                "level": 3,
+                "explanation": "Ensured employee compliance with HR policies and procedures, showing a solid working proficiency."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 3,
+                "explanation": "Developed and maintained employee-oriented cultures, indicating a solid working proficiency in employee relations."
+            }
+        ]
+    }
+}

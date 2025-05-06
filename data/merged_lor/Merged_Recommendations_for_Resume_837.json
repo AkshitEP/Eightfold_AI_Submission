@@ -1,0 +1,26 @@
+{
+    "target_id": "837",
+    "recommendations": [
+        {
+            "recommender_id": "285",
+            "recommendation": {
+                "resume_file": "837.json",
+                "recommendation_file": "Recommendation_From_ID_285.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Teaching",
+                        "Communication",
+                        "Time Management",
+                        "Event Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and teaching abilities. However, the recommendation source is unclear, and the Operations Manager's role is not directly related to the candidate's job history."
+                }
+            }
+        }
+    ]
+}

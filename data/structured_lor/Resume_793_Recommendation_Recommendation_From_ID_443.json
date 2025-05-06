@@ -1,0 +1,18 @@
+{
+    "resume_file": "793.json",
+    "recommendation_file": "Recommendation_From_ID_443.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no obvious red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Compliance",
+            "Leadership",
+            "Investment Banking",
+            "Risk Management",
+            "Regulatory Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but contains some minor inconsistencies and exaggerated claims. The recommendation verifies several key skills mentioned in the resume, but does not provide specific examples or details to support these claims."
+    }
+}

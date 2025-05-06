@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Programming Arts",
+                "work_description": "Responsible for the cultural arts activities at multiple venues, including the Cox Performing Arts Center and the Tanner Amphitheater. Managed programming, marketing, hospitality, financial accounts, administration, and fulfillment. Interacted with and guided the CCS Board of Directors.",
+                "company_level": "Mid-level",
+                "start_date": "03/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Board of Directors Member",
+                "work_description": "Provided a platform for like-minded individuals interested in the art of songwriting and performance. Planned and implemented various clinics and concert series.",
+                "company_level": "Non-profit",
+                "start_date": "01/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Operations Manager/Owner",
+                "work_description": "Managed the daily operations of a busy commercial recording studio. Created production music and managed a staff of engineers and musicians.",
+                "company_level": "Small business",
+                "start_date": "01/1994",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Musician",
+                "work_description": "Traveled the world as a touring/performing musician. Gained a deep understanding of the challenges faced by touring musicians and the technical demands of events.",
+                "company_level": "Freelance",
+                "start_date": "01/1994",
+                "end_date": "Current"
+            }
+        ],
+        "education": [
+            {
+                "university": "Brigham Young University",
+                "start_date": "01/1994",
+                "end_date": "12/1994",
+                "domain": "Psychology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including managing daily operations of a commercial recording studio, guiding the CCS Board of Directors, and leading a staff of engineers and musicians, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully managed programming, marketing, hospitality, financial accounts, administration, and fulfillment for multiple venues, showing strong proficiency in project management."
+            },
+            {
+                "name": "Event Planning",
+                "level": 4,
+                "explanation": "Planned and implemented various clinics and concert series, and managed cultural arts activities at multiple venues, indicating strong proficiency in event planning."
+            },
+            {
+                "name": "Financial Management",
+                "level": 3,
+                "explanation": "Managed financial accounts for multiple venues and a commercial recording studio, showing a solid working proficiency in financial management."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Managed marketing efforts for multiple venues, indicating a solid working proficiency in marketing."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Successfully led a staff of engineers and musicians, and guided the CCS Board of Directors, showing strong proficiency in team management."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively interacted with and guided the CCS Board of Directors, and managed a staff of engineers and musicians, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Successfully managed daily operations of a commercial recording studio, and multiple venues, showing strong proficiency in time management."
+            }
+        ]
+    }
+}

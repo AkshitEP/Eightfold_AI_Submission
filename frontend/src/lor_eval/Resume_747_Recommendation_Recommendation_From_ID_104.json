@@ -1,0 +1,21 @@
+{
+    "resume_file": "747.json",
+    "recommendation_file": "Recommendation_From_ID_104.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Data Analysis",
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Compliance",
+            "Training and Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, data analysis, and provider education expertise. The source of the recommendation is a peer, which adds credibility to the endorsement."
+    }
+}

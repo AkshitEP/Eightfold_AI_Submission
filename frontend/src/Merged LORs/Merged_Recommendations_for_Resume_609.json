@@ -1,0 +1,107 @@
+{
+    "target_id": "609",
+    "recommendations": [
+        {
+            "recommender_id": "171",
+            "recommendation": {
+                "resume_file": "609.json",
+                "recommendation_file": "Recommendation_From_ID_171.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's experience as a Warehouse Lead may not be directly relevant to the candidate's technical skills. However, the recommender highlights the candidate's communication and problem-solving skills, which are relevant to their experience.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Problem Solving",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation emphasizes the candidate's soft skills, such as communication, problem-solving, and leadership, which are relevant to their experience. However, the recommender's background in warehouse management may not be directly relevant to the candidate's technical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "414",
+            "recommendation": {
+                "resume_file": "609.json",
+                "recommendation_file": "Recommendation_From_ID_414.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be for two different individuals, with the first part describing a Certified Nurse Assistant and the second part describing the I.T. Support Technician. This inconsistency raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Problem Solving",
+                        "Communication",
+                        "Technical Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is partially relevant to the candidate's skills and experience, but it seems to be a mix of two different recommendations. The second part of the recommendation aligns with the candidate's experience as an I.T. Support Technician, but the first part is unrelated."
+                }
+            }
+        },
+        {
+            "recommender_id": "843",
+            "recommendation": {
+                "resume_file": "609.json",
+                "recommendation_file": "Recommendation_From_ID_843.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Networking",
+                        "Problem Solving",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support and communication abilities. However, some claims seem exaggerated, such as the 'remarkable blend of skills' and 'strong commitment to enhancing customer satisfaction'."
+                }
+            }
+        },
+        {
+            "recommender_id": "173",
+            "recommendation": {
+                "resume_file": "609.json",
+                "recommendation_file": "Recommendation_From_ID_173.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the 90% problem resolution success rate seems like an exaggerated claim. No other red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Problem Solving",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support and communication skills. However, the 90% problem resolution success rate seems like an exaggerated claim, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "607",
+            "recommendation": {
+                "resume_file": "609.json",
+                "recommendation_file": "Recommendation_From_ID_607.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Problem Solving",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Software Installation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support abilities, customer service skills, and leadership qualities. The recommender's perspective as a School Library Media Specialist adds credibility to their assessment of the candidate's communication and interpersonal skills."
+                }
+            }
+        }
+    ]
+}

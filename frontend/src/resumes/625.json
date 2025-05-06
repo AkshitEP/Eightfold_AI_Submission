@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR & Safety Manager",
+                "work_description": "Rapidly growing transportation, distribution, and warehousing company Serving the HR and safety needs of the organizations' various operations, while leading the change management and cultural transformation efforts to support continued growth and expansion.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Site Supervisor (HR Generalist)",
+                "work_description": "Providing HR support for the operations management team of the company's second largest revenue producing account, while also assisting the organization's staffing firm, and championing special projects for the HR department.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Senior Bill Pay Support Associate",
+                "work_description": "Provided support for the organization's staffing firm and assisted with special projects for the HR department.",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Commissioned Officer (NCO)",
+                "work_description": "Served in various positions and locations throughout military career. Developed human resources responsibilities, including mentoring and counseling personnel, conducting medical and basic skills training and education, managing staff scheduling, and coordinating and documenting treatment.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1997",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Keller Graduate school of Management, Devry University",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Human Resource Management",
+                "level": "Master's"
+            },
+            {
+                "university": "Franklin University",
+                "start_date": "01/2000",
+                "end_date": "12/2004",
+                "domain": "Human Resource Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resource Management",
+                "level": 5,
+                "explanation": "Holds a Master's degree in Human Resource Management and has over a decade of experience in HR roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has led teams and managed staff scheduling in various roles, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Change Management",
+                "level": 3,
+                "explanation": "Led change management and cultural transformation efforts in a rapidly growing company, indicating a solid working proficiency."
+            },
+            {
+                "name": "Staff Management",
+                "level": 4,
+                "explanation": "Has managed staff scheduling and coordinated treatment in various roles, suggesting strong proficiency in staff management."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Conducted medical and basic skills training and education in a military setting, showing a solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Assisted with special projects for the HR department, indicating some practical experience in project management."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Coordinated and documented treatment, and managed staff scheduling, showing a solid working proficiency in time management."
+            }
+        ]
+    }
+}

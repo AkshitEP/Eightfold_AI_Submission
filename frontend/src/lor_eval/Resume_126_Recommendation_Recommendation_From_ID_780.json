@@ -1,0 +1,17 @@
+{
+    "resume_file": "126.json",
+    "recommendation_file": "Recommendation_From_ID_780.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Advocacy",
+            "Case Management",
+            "Counseling",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and highlighting their analytical and interpersonal skills. However, the recommendation does not explicitly mention some of the candidate's other skills, such as Customer Service, Inventory Management, Loan Administration, and Data Entry."
+    }
+}

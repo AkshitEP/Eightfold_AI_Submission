@@ -1,0 +1,47 @@
+{
+    "target_id": "926",
+    "recommendations": [
+        {
+            "recommender_id": "780",
+            "recommendation": {
+                "resume_file": "926.json",
+                "recommendation_file": "Recommendation_From_ID_780.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of NF/SG Healthcare for Homeless Veterans Program which is not mentioned in the resume. However, the language is formal and the claims are generally supported by the resume.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in conflict resolution, mentorship, and organizational effectiveness, which are supported by their experience as a Child Advocate Manager. However, some minor inconsistencies and exaggerated claims are present, such as the mention of coaching 100 clients in career counseling."
+                }
+            }
+        },
+        {
+            "recommender_id": "964",
+            "recommendation": {
+                "resume_file": "926.json",
+                "recommendation_file": "Recommendation_From_ID_964.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and advocacy abilities. The recommender's role as a Health Advocate adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "target_id": "581",
+    "recommendations": [
+        {
+            "recommender_id": "496",
+            "recommendation": {
+                "resume_file": "581.json",
+                "recommendation_file": "Recommendation_From_ID_496.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Financial Management",
+                        "Accounts Payable Management",
+                        "Process Improvement"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, reporting, and management abilities. The source of the recommendation is a peer, indicating a collaborative work environment."
+                }
+            }
+        },
+        {
+            "recommender_id": "315",
+            "recommendation": {
+                "resume_file": "581.json",
+                "recommendation_file": "Recommendation_From_ID_315.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, such as the mention of 'exceptional ability' and 'remarkable analytical skills' without concrete evidence from the resume. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Financial Management",
+                        "Process Improvement"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis abilities. However, some claims seem exaggerated, and the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "841",
+            "recommendation": {
+                "resume_file": "581.json",
+                "recommendation_file": "Recommendation_From_ID_841.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Financial Management",
+                        "Accounts Payable Management",
+                        "Process Improvement",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical skills, analytical mind, and ability to streamline processes and implement effective controls."
+                }
+            }
+        },
+        {
+            "recommender_id": "322",
+            "recommendation": {
+                "resume_file": "581.json",
+                "recommendation_file": "Recommendation_From_ID_322.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions the candidate's experience and skills, but the recommender's relationship with the candidate is unclear. Additionally, the recommender's experience working with the candidate is not explicitly stated.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Financial Management",
+                        "Accounts Payable Management",
+                        "Process Improvement",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in financial analysis, reporting, and management, but the recommender's experience working with the candidate is not explicitly stated. The recommender's mention of working with C-level executives and their emphasis on effective communication suggests that they may have a supervisory or managerial role, but this is not clear."
+                }
+            }
+        }
+    ]
+}

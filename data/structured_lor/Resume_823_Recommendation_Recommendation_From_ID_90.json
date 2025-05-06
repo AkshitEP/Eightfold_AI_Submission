@@ -1,0 +1,17 @@
+{
+    "resume_file": "823.json",
+    "recommendation_file": "Recommendation_From_ID_90.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the author's background as an HR Assistant and Payroll Coordinator raises some questions about their technical expertise to evaluate the IT Specialist's skills.",
+        "verified_skills": [
+            "Network Management",
+            "Troubleshooting",
+            "Project Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical expertise, project management skills, and customer service abilities, but the author's background and lack of technical expertise to evaluate the candidate's skills raise some concerns."
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "target_id": "597",
+    "recommendations": [
+        {
+            "recommender_id": "600",
+            "recommendation": {
+                "resume_file": "597.json",
+                "recommendation_file": "Recommendation_From_ID_600.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's background in finance seems unrelated to the candidate's experience and skills, raising some concerns about the credibility of the recommendation.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentorship",
+                        "Communication",
+                        "Team Building",
+                        "Academic Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in leadership, mentorship, and communication, but the recommender's background in finance seems unrelated to the candidate's experience and skills, which may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "6",
+            "recommendation": {
+                "resume_file": "597.json",
+                "recommendation_file": "Recommendation_From_ID_6.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentorship",
+                        "Communication",
+                        "Academic Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a School Success Advocate and their commitment to inclusivity and accessibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "178",
+            "recommendation": {
+                "resume_file": "597.json",
+                "recommendation_file": "Recommendation_From_ID_178.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentorship",
+                        "Communication",
+                        "Academic Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a School Success Advocate. The recommender's own experience as a Family Advocate adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "540",
+            "recommendation": {
+                "resume_file": "597.json",
+                "recommendation_file": "Recommendation_From_ID_540.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentorship",
+                        "Communication",
+                        "Academic Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, mentorship, and communication skills in an educational setting."
+                }
+            }
+        },
+        {
+            "recommender_id": "645",
+            "recommendation": {
+                "resume_file": "597.json",
+                "recommendation_file": "Recommendation_From_ID_645.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentorship",
+                        "Communication",
+                        "Academic Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, mentorship, and communication skills. The recommender's relationship with the candidate is clear, and their endorsement is credible."
+                }
+            }
+        },
+        {
+            "recommender_id": "16",
+            "recommendation": {
+                "resume_file": "597.json",
+                "recommendation_file": "Recommendation_From_ID_16.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentorship",
+                        "Communication",
+                        "Team Building",
+                        "Academic Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a School Success Advocate and highlighting their strong communication skills and cultural sensitivity."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "target_id": "877",
+    "recommendations": [
+        {
+            "recommender_id": "836",
+            "recommendation": {
+                "resume_file": "877.json",
+                "recommendation_file": "Recommendation_From_ID_836.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be describing a different person, with skills and experiences not matching the provided resume. The language is formal, but the content is not aligned with the candidate's background.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experiences. It appears to be describing a different person, specifically a Facility Manager, rather than a Medical Support Assistant. The recommendation highlights skills and experiences not present in the provided resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "895",
+            "recommendation": {
+                "resume_file": "877.json",
+                "recommendation_file": "Recommendation_From_ID_895.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Entry",
+                        "Microsoft Office",
+                        "Time Management",
+                        "Healthcare Administration",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative tasks, technical assistance, and customer service skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "587",
+            "recommendation": {
+                "resume_file": "877.json",
+                "recommendation_file": "Recommendation_From_ID_587.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender mentions the candidate's experience in performing medical procedures, such as catheterization, which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills and experience in healthcare and education, but some claims seem exaggerated or unsupported. The recommender's relationship with the candidate is unclear, but their role as a medical support assistant suggests a peer-level recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "148",
+            "recommendation": {
+                "resume_file": "877.json",
+                "recommendation_file": "Recommendation_From_ID_148.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. Some claims seem exaggerated, but no statistically improbable data or informal language is present.",
+                    "verified_skills": [
+                        "Communication",
+                        "Customer Service",
+                        "Healthcare Administration",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional communication and interpersonal skills, strong work ethic, and proficiency in operational and customer service aspects of healthcare. However, it does not provide specific examples from the candidate's work experience, which reduces its relevance score."
+                }
+            }
+        }
+    ]
+}

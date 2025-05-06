@@ -1,0 +1,18 @@
+{
+    "resume_file": "270.json",
+    "recommendation_file": "Recommendation_From_ID_945.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Data Analysis",
+            "Time Management",
+            "Policy Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, communication, and data analysis skills. The source of the recommendation is an HR Specialist, indicating a peer-level relationship."
+    }
+}

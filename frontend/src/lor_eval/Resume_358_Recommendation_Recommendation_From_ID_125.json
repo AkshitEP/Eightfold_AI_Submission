@@ -1,0 +1,17 @@
+{
+    "resume_file": "358.json",
+    "recommendation_file": "Recommendation_From_ID_125.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the vice president's credentials and relationship to the server are unclear. The recommendation also seems to be comparing the server to the vice president, which is unusual.",
+        "verified_skills": [
+            "Communication",
+            "Customer Service",
+            "Teamwork",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the server's exceptional communication skills, solution-focused approach to customer service, and ability to work in fast-paced environments. However, the vice president's credentials and relationship to the server are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

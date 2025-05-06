@@ -1,0 +1,19 @@
+{
+    "resume_file": "493.json",
+    "recommendation_file": "Recommendation_From_ID_926.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Aviation Management",
+            "Aircraft Appraisal",
+            "Leadership",
+            "Project Management",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their expertise in aircraft sales and aviation management. However, it does not cover all key areas of expertise."
+    }
+}

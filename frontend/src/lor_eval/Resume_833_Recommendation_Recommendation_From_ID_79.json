@@ -1,0 +1,15 @@
+{
+    "resume_file": "833.json",
+    "recommendation_file": "Recommendation_From_ID_79.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Some minor inconsistencies in the recommendation, such as the recommender's role as a Donor Advocate, which is not directly related to the candidate's experience.",
+        "verified_skills": [
+            "Inventory Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in inventory management and customer service, but lacks specific examples from the candidate's work experience. The recommender's role and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+    }
+}

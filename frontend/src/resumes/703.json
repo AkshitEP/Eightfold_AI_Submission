@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Human Resource/ Finance Analyst",
+                "work_description": "Provide support to Columbia University community by providing excellent customer service via telephone, email and the self-service system. Responsible for resolving customer/ employees problems related to Human Resources, Payroll Labor Accounting transactions, Data, JACS and RAPS applications and Finance.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Human Resource Supervisor/Hiring Specialist",
+                "work_description": "Responsible for supervising a group of over 120 employees and clients. Responsible for recruitment of employees, contractors, per-diem and interns. Responsible for employee development, employee evaluations and relations.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "04/2013"
+            },
+            {
+                "role_name": "Case Manager/ Counselor",
+                "work_description": "In charge of 80+ cases for women and families in the homeless shelter system. In charge of interviewing clients and doing their admission assessment. Worked closely with housing and employment specialists in helping clients obtain employment and permanent housing.",
+                "company_level": "Mid-level",
+                "start_date": "06/2009",
+                "end_date": "06/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "DeVry University",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Human Resource Management",
+                "level": "Master's"
+            },
+            {
+                "university": "Le Moyne College",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Spanish Communications",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resource Management",
+                "level": 5,
+                "explanation": "Has over a decade of experience in human resources, including supervising large teams, recruitment, employee development, and relations, indicating expert-level mastery."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided excellent customer service to a large community via multiple channels, showing strong proficiency in customer service."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Handled payroll labor accounting transactions, indicating a solid working proficiency in payroll management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised large teams in multiple roles, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Responsible for recruitment of employees, contractors, per-diem, and interns, indicating strong proficiency in recruitment."
+            },
+            {
+                "name": "Employee Development",
+                "level": 4,
+                "explanation": "Responsible for employee development, employee evaluations, and relations, showing strong proficiency in employee development."
+            },
+            {
+                "name": "Case Management",
+                "level": 3,
+                "explanation": "In charge of managing over 80 cases, indicating a solid working proficiency in case management."
+            },
+            {
+                "name": "Counseling",
+                "level": 3,
+                "explanation": "Worked as a counselor, helping clients obtain employment and permanent housing, showing a solid working proficiency in counseling."
+            }
+        ]
+    }
+}

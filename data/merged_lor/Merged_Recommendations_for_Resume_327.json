@@ -1,0 +1,47 @@
+{
+    "target_id": "327",
+    "recommendations": [
+        {
+            "recommender_id": "47",
+            "recommendation": {
+                "resume_file": "327.json",
+                "recommendation_file": "Recommendation_From_ID_47.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession as an accountant seems unrelated to the candidate's IT experience. However, the recommendation provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Network Administration",
+                        "Troubleshooting",
+                        "Desktop Support",
+                        "IT Service Management",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical abilities and collaborative approach. However, the recommender's profession seems unrelated to the candidate's IT experience, which raises some concerns about the recommender's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "909",
+            "recommendation": {
+                "resume_file": "327.json",
+                "recommendation_file": "Recommendation_From_ID_909.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the IT Specialist's work, as they mention working as an accountant and having no direct experience with the IT Specialist's technical skills. The language used is formal, but the claims seem exaggerated and lack concrete examples.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Troubleshooting",
+                        "IT Service Management",
+                        "Network Administration",
+                        "Desktop Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some of the IT Specialist's skills and experiences, but it seems to be written by someone who is not familiar with their work. The claims seem exaggerated and lack concrete examples, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

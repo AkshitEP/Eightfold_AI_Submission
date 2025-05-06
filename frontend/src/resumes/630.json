@@ -1,0 +1,93 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Technician",
+                "work_description": "Perform aircraft maintenance, preventative maintenance, repairs, and alterations. Research schedule inspections, and parts on BK117-C2, Bell 206, Bell 407, Bell 430, and Pilatus PC-12. Base mechanic and single mechanic on BK117-C2 at the main receiving facility",
+                "company_level": "Mid-level",
+                "start_date": "10/2007",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Aviation Technician",
+                "work_description": "Performed aircraft maintenance, aircraft alterations, and aircraft repairs. Gained training on all systems for Embraer Brasilia, Bombardier CRJ-200 series, CRJ-700 series, and CRJ-900 series aircraft. Worked in maintenance teams. Performed line maintenance at the gate",
+                "company_level": "Mid-level",
+                "start_date": "08/2006",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Automotive Technician",
+                "work_description": "Automotive diagnosis and repair on Mitsubishi and Other brands of new and used cars. Auto computer reprogramming and computer scanning",
+                "company_level": "Mid-level",
+                "start_date": "09/2004",
+                "end_date": "01/2006"
+            },
+            {
+                "role_name": "Automotive Technician",
+                "work_description": "Automotive diagnosis and repair on Mitsubishi and Other brands of new and used cars",
+                "company_level": "Mid-level",
+                "start_date": "06/2003",
+                "end_date": "01/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Salt Lake Community College",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Aviation Technology",
+                "level": "Associate's"
+            },
+            {
+                "university": "Barber Brothers Mitsubishi",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "Automotive",
+                "level": "Training"
+            },
+            {
+                "university": "Woods Cross High School",
+                "start_date": "01/1999",
+                "end_date": "12/2003",
+                "domain": "General Studies",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Aircraft Maintenance",
+                "level": 5,
+                "explanation": "Has extensive experience in performing aircraft maintenance, preventative maintenance, repairs, and alterations on various aircraft models, indicating expert-level mastery."
+            },
+            {
+                "name": "Aviation Technology",
+                "level": 4,
+                "explanation": "Completed an Associate's degree in Aviation Technology and has hands-on experience working with various aircraft systems, showing strong proficiency."
+            },
+            {
+                "name": "Automotive Repair",
+                "level": 3,
+                "explanation": "Has experience in automotive diagnosis and repair on various car brands, including Mitsubishi, indicating a solid working proficiency."
+            },
+            {
+                "name": "Computer-Aided Diagnosis",
+                "level": 2,
+                "explanation": "Has experience with auto computer reprogramming and computer scanning, showing some practical experience."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked in maintenance teams, indicating a solid level of proficiency in teamwork and collaboration."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Has experience in diagnosing and repairing complex problems in aircraft and automotive systems, showing a solid working proficiency in problem-solving."
+            }
+        ]
+    }
+}

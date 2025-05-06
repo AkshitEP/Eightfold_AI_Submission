@@ -1,0 +1,20 @@
+{
+    "resume_file": "272.json",
+    "recommendation_file": "Recommendation_From_ID_90.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Employee Engagement",
+            "Talent Management",
+            "Leadership",
+            "Communication",
+            "Analytical Skills",
+            "Organizational Skills",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR capabilities and leadership. The source of the recommendation is an HR Assistant and Payroll Specialist, indicating a peer-level relationship."
+    }
+}

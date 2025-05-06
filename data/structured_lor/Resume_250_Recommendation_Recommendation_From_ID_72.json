@@ -1,0 +1,15 @@
+{
+    "resume_file": "250.json",
+    "recommendation_file": "Recommendation_From_ID_72.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommender's background and experience seem unrelated to the candidate's field of expertise, and the recommendation focuses more on the recommender's own experiences and values.",
+        "verified_skills": [
+            "Teaching/Lecturing",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems suspicious due to the recommender's unrelated background and the informal language used."
+    }
+}

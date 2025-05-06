@@ -1,0 +1,18 @@
+{
+    "resume_file": "852.json",
+    "recommendation_file": "Recommendation_From_ID_309.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Training and Development",
+            "Leadership",
+            "Coaching",
+            "Project Management",
+            "Communication"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training and development programs, conflict resolution, and commitment to diversity and inclusion."
+    }
+}

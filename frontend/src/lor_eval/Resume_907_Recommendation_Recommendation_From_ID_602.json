@@ -1,0 +1,17 @@
+{
+    "resume_file": "907.json",
+    "recommendation_file": "Recommendation_From_ID_602.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be referencing two different individuals, with the first part discussing an HR assistant and the second part discussing the Advocate General. This inconsistency raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Policy Development",
+            "Data Analysis",
+            "Collaboration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation partially aligns with the candidate's skills and experience, but the inconsistency in referencing two different individuals raises concerns about the authenticity of the recommendation."
+    }
+}

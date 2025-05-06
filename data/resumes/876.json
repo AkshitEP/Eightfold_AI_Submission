@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Assistant General/Operations Manager",
+                "work_description": "Managed team of 45 professionals. Served as mentor to junior team members. Initiated program that standardized employee training and led to increase in customer satisfaction by 12%.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "General Manager",
+                "work_description": "Informed guests of spa services, programs and activities over the phone and in person. Addressed all guest complaints and referred any escalated situations to management. Coordinated and booked all spa service appointments for individual and group clients.",
+                "company_level": "Mid-level",
+                "start_date": "07/2012",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Head/Esthetician",
+                "work_description": "Advised guests on special events and product promotions. Mailed client forms and salon promotional documents. Informed guests of spa services, programs and activities over the phone and in person.",
+                "company_level": "Mid-level",
+                "start_date": "08/2010",
+                "end_date": "07/2012"
+            },
+            {
+                "role_name": "Esthetician, Certified Laser Technician",
+                "work_description": "Informed guests of spa services, programs and activities over the phone and in person. Addressed all guest complaints and referred any escalated situations to management. Researched the various types of spa therapies and treatments to be better informed of spa services.",
+                "company_level": "Mid-level",
+                "start_date": "11/2007",
+                "end_date": "10/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Aesthetics",
+                "start_date": "2006",
+                "end_date": "2006",
+                "domain": "Marketing/Management",
+                "level": "Bachelor"
+            },
+            {
+                "university": "Emporia State University",
+                "start_date": "1993",
+                "end_date": "1993",
+                "domain": "Marketing/Management",
+                "level": "Bachelor"
+            },
+            {
+                "university": "Seward County Community College",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Marketing and Communications",
+                "level": "Associate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Managed a team of 45 professionals, served as a mentor to junior team members, and led a program that standardized employee training, indicating expert-level mastery."
+            },
+            {
+                "name": "Team Management",
+                "level": 5,
+                "explanation": "Successfully managed a large team of professionals, demonstrating strong leadership and management skills, indicating expert-level mastery."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Addressed guest complaints, referred escalated situations to management, and informed guests of spa services, programs, and activities, showing strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with guests, team members, and management, demonstrating strong communication skills, indicating strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Addressed guest complaints and referred escalated situations to management, showing strong problem-solving skills, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Coordinated and booked spa service appointments for individual and group clients, demonstrating strong time management skills, indicating strong proficiency."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Advised guests on special events and product promotions, and mailed client forms and salon promotional documents, showing a solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Initiated a program that standardized employee training, showing a solid working proficiency in project management."
+            }
+        ]
+    }
+}

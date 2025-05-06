@@ -1,0 +1,17 @@
+{
+    "resume_file": "613.json",
+    "recommendation_file": "Recommendation_From_ID_847.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Time Management",
+            "Problem-Solving",
+            "Communication"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in customer service, but does not fully cover all key areas of expertise mentioned in the resume."
+    }
+}

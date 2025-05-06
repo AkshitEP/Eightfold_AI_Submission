@@ -1,0 +1,68 @@
+{
+    "target_id": "727",
+    "recommendations": [
+        {
+            "recommender_id": "415",
+            "recommendation": {
+                "resume_file": "727.json",
+                "recommendation_file": "Recommendation_From_ID_415.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Some minor inconsistencies in the recommender's experience and the candidate's skills.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Process Improvement",
+                        "Insurance Knowledge"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in the insurance industry, but the recommender's role and relationship to the candidate are unclear. The recommender mentions their own experience as a Kids Club Attendant, which seems unrelated to the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "291",
+            "recommendation": {
+                "resume_file": "727.json",
+                "recommendation_file": "Recommendation_From_ID_291.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's work experience or skills. The claims made are somewhat exaggerated, and there is a lack of concrete examples or evidence from the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Analytical skills",
+                        "Quality assurance",
+                        "Interpersonal skills",
+                        "Medical terminology"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks substantial detail or alignment with the key areas of expertise, and the claims made are somewhat exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "65",
+            "recommendation": {
+                "resume_file": "727.json",
+                "recommendation_file": "Recommendation_From_ID_65.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of sales growth exceeding goals by over 13% consistently, which seems like an exaggerated claim. However, the language is formal and the recommendation is well-supported by the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Training and Development",
+                        "Insurance Knowledge"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, communication, and problem-solving abilities. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        }
+    ]
+}

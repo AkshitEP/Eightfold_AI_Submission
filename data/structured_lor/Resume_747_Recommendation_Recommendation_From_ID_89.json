@@ -1,0 +1,21 @@
+{
+    "resume_file": "747.json",
+    "recommendation_file": "Recommendation_From_ID_89.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise.",
+        "verified_skills": [
+            "Data Analysis",
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Compliance",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with some of the candidate's skills and experience, but lacks specific examples and details. The recommendation also mentions some skills and experiences not explicitly mentioned in the resume, which may indicate some exaggeration or lack of clarity."
+    }
+}

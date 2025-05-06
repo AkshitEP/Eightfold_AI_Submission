@@ -1,0 +1,17 @@
+{
+    "resume_file": "432.json",
+    "recommendation_file": "Recommendation_From_ID_995.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistency in the candidate's experience.",
+        "verified_skills": [
+            "Leadership",
+            "Strategic Planning",
+            "Community Engagement",
+            "Professional Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience as an Executive Director, but there are some minor inconsistencies."
+    }
+}

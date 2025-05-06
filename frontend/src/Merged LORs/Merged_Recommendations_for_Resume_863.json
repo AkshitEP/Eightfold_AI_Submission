@@ -1,0 +1,43 @@
+{
+    "target_id": "863",
+    "recommendations": [
+        {
+            "recommender_id": "447",
+            "recommendation": {
+                "resume_file": "863.json",
+                "recommendation_file": "Recommendation_From_ID_447.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written for a different individual, with little connection to the candidate's skills and experience. The language is formal, but the content does not align with the candidate's background.",
+                    "verified_skills": [
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide specific examples of the candidate's skills and experience, and seems to be written for a different individual. The language is formal, but the content does not align with the candidate's background."
+                }
+            }
+        },
+        {
+            "recommender_id": "694",
+            "recommendation": {
+                "resume_file": "863.json",
+                "recommendation_file": "Recommendation_From_ID_694.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Management",
+                        "Organizational Skills",
+                        "Attention to Detail",
+                        "Time Management",
+                        "Analytical Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, attention to detail, and ability to work in high-pressure scenarios."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "resume_id": 874,
+    "recommendation_file": "Recommendation_From_ID_320.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem-Solving",
+            "Communication",
+            "Insurance",
+            "Health and Wellness"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and problem-solving abilities in the healthcare industry."
+    }
+}

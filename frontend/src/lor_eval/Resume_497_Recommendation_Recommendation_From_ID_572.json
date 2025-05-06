@@ -1,0 +1,20 @@
+{
+    "resume_file": "497.json",
+    "recommendation_file": "Recommendation_From_ID_572.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Analysis",
+            "Financial Reporting",
+            "General Ledger Management",
+            "Compliance",
+            "Auditing",
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and collaborative work. The source of the recommendation is a peer, indicating a professional relationship and credibility."
+    }
+}

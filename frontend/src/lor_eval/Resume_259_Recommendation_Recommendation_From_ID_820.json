@@ -1,0 +1,20 @@
+{
+    "resume_file": "259.json",
+    "recommendation_file": "Recommendation_From_ID_820.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Payroll Management",
+            "Budgeting",
+            "Financial Analysis",
+            "Accounting Software",
+            "Leadership"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and accounting expertise. The recommendation highlights the candidate's proactive approach, attention to detail, and collaborative spirit, which are valuable assets to any financial team."
+    }
+}

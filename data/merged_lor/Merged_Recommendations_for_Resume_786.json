@@ -1,0 +1,92 @@
+{
+    "target_id": "786",
+    "recommendations": [
+        {
+            "recommender_id": "978",
+            "recommendation": {
+                "resume_file": "786.json",
+                "recommendation_file": "Recommendation_From_ID_978.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing Care",
+                        "Patient Assessment",
+                        "Critical Thinking",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing care, critical thinking, and leadership abilities. The source of the recommendation is a peer, indicating a strong working relationship and familiarity with the candidate's skills and work ethic."
+                }
+            }
+        },
+        {
+            "recommender_id": "373",
+            "recommendation": {
+                "resume_file": "786.json",
+                "recommendation_file": "Recommendation_From_ID_373.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing Care",
+                        "Patient Assessment",
+                        "Critical Thinking",
+                        "Communication",
+                        "Leadership",
+                        "Time Management",
+                        "Emergency Medical Response",
+                        "Basic Life Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing skills, patient care, and teamwork. The source of the recommendation is a Clinical Research Coordinator Mentor, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "323",
+            "recommendation": {
+                "resume_file": "786.json",
+                "recommendation_file": "Recommendation_From_ID_323.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing Care",
+                        "Patient Assessment",
+                        "Critical Thinking",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing skills and patient care. The recommendation highlights the candidate's ability to build collaborative relationships, anticipate potential issues, and address them proactively, which is consistent with their experience as a Registered Nurse."
+                }
+            }
+        },
+        {
+            "recommender_id": "457",
+            "recommendation": {
+                "resume_file": "786.json",
+                "recommendation_file": "Recommendation_From_ID_457.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's work experience and skills. The language used is generic and does not provide specific examples or details about the candidate's accomplishments. Additionally, the recommendation mentions the candidate's experience in various nursing roles, but does not provide any specific examples or anecdotes to support this claim.",
+                    "verified_skills": [
+                        "Nursing Care",
+                        "Patient Assessment",
+                        "Critical Thinking",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation provides a general overview of the candidate's skills and experience, but lacks specific details and examples to support these claims. The language used is also generic and does not provide any unique insights into the candidate's abilities or accomplishments."
+                }
+            }
+        }
+    ]
+}

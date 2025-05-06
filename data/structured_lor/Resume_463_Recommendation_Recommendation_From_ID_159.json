@@ -1,0 +1,16 @@
+{
+    "resume_file": "463.json",
+    "recommendation_file": "Recommendation_From_ID_159.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with little connection to the provided resume. Some skills mentioned in the resume are validated, but the recommendation lacks substantial detail or alignment with the key areas of expertise.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be describing two different individuals, with little connection to the provided resume. While some skills mentioned in the resume are validated, the recommendation lacks substantial detail or alignment with the key areas of expertise. The recommendation also seems to be exaggerated, with overly positive language and a lack of concrete examples or evidence from the resume."
+    }
+}

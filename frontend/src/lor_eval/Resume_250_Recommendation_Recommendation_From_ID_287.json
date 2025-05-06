@@ -1,0 +1,19 @@
+{
+    "resume_file": "250.json",
+    "recommendation_file": "Recommendation_From_ID_287.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Teaching/Lecturing",
+            "Lab Management",
+            "Scientific Sales",
+            "Technical Application Support",
+            "Molecular Biology",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, technical support, and sales performance. The recommendation highlights the candidate's ability to blend scientific acumen with practical application, making them a valuable asset to any team."
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "target_id": "651",
+    "recommendations": [
+        {
+            "recommender_id": "706",
+            "recommendation": {
+                "resume_file": "651.json",
+                "recommendation_file": "Recommendation_From_ID_706.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as a Mortgage Banking Research Specialist seems unrelated to the candidate's work, and the claim of 'strong leadership qualities' is not supported by the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Sales and Marketing",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in client support and banking, but some claims seem exaggerated or unsupported. The recommender's relationship to the candidate is unclear, and their role seems unrelated to the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "160",
+            "recommendation": {
+                "resume_file": "651.json",
+                "recommendation_file": "Recommendation_From_ID_160.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions leadership capabilities, but the resume does not provide clear evidence of leadership experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Sales and Marketing",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in banking, providing specific examples of their client relationship management and operational support. However, the recommendation exaggerates the candidate's leadership capabilities, which are not clearly supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "544",
+            "recommendation": {
+                "resume_file": "651.json",
+                "recommendation_file": "Recommendation_From_ID_544.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions leadership skills, but the resume does not provide clear evidence of leadership experience. Additionally, the recommendation mentions 'sales representative of the year' awards, but the resume does not mention such awards.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Sales and Marketing",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in customer service, account management, sales and marketing, and banking operations. However, some minor inconsistencies and exaggerated claims are present, which raises the fraud chance level to 2."
+                }
+            }
+        },
+        {
+            "recommender_id": "289",
+            "recommendation": {
+                "resume_file": "651.json",
+                "recommendation_file": "Recommendation_From_ID_289.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Sales and Marketing",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their client service and management abilities. However, the recommendation does not explicitly mention the candidate's technical skills, such as web development or technical writing."
+                }
+            }
+        },
+        {
+            "recommender_id": "345",
+            "recommendation": {
+                "resume_file": "651.json",
+                "recommendation_file": "Recommendation_From_ID_345.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation seems overly positive and lacks specific examples from the candidate's work experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Sales and Marketing",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills and experience in the financial services industry, but some claims seem exaggerated or unsupported. The source of the recommendation is a colleague, which may indicate a biased perspective."
+                }
+            }
+        }
+    ]
+}

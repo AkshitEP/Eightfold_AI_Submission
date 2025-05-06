@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Service Advocate",
+                "work_description": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Addressed customer service inquiries in a timely and accurate fashion. Provided accurate and appropriate information in response to customer inquiries.",
+                "company_level": "Mid-level",
+                "start_date": "03/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Sales Manager",
+                "work_description": "Delivered excellent customer service by greeting and assisting each customer. Addressed customer inquiries and resolved complaints. Designed and implemented customer satisfaction metrics. Completed weekly schedules according to payroll policies.",
+                "company_level": "Mid-level",
+                "start_date": "10/1995",
+                "end_date": "02/2014"
+            },
+            {
+                "role_name": "Sales Manager",
+                "work_description": "Managed a $30,000 monthly sales portfolio. Served as liaison between customers, store personnel and various store departments. Answered customers' questions and addressed problems and complaints in person and via phone.",
+                "company_level": "Mid-level",
+                "start_date": "10/1989",
+                "end_date": "07/1995"
+            },
+            {
+                "role_name": "Data Entry operator",
+                "work_description": "Verified and logged in deadlines for responding to daily inquiries. Assisted with payroll preparation and entered data into cumulative payroll document.",
+                "company_level": "Mid-level",
+                "start_date": "09/1985",
+                "end_date": "06/1989"
+            },
+            {
+                "role_name": "Loan Servicing Representative",
+                "work_description": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Provided accurate and appropriate information in response to customer inquiries.",
+                "company_level": "Mid-level",
+                "start_date": "08/1984",
+                "end_date": "08/1985"
+            }
+        ],
+        "education": [
+            {
+                "university": "William Penn Vo-tech",
+                "start_date": "01/1980",
+                "end_date": "12/1983",
+                "domain": "General-Business Communications",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Morgan State University",
+                "start_date": "",
+                "end_date": "",
+                "domain": "",
+                "level": ""
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience in customer-facing roles, consistently delivering excellent customer service, and making process changes to exceed customer satisfaction goals, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 5,
+                "explanation": "Has consistently demonstrated strong communication skills, providing accurate and appropriate information to customers, and addressing customer inquiries in a timely and accurate fashion, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience as a Sales Manager, managing a sales portfolio and serving as a liaison between customers and store personnel, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has demonstrated ability to manage time effectively, completing weekly schedules according to payroll policies, and verifying deadlines for responding to daily inquiries, suggesting strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Has assisted with payroll preparation and entered data into cumulative payroll documents, showing a solid working proficiency in payroll management."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Has experience as a Data Entry operator, verifying and logging deadlines, and entering data into cumulative payroll documents, showing a solid working proficiency in data entry."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Has consistently demonstrated ability to address customer complaints and resolve problems, suggesting strong proficiency in problem-solving."
+            }
+        ]
+    }
+}

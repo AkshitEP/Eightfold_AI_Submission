@@ -1,0 +1,17 @@
+{
+    "resume_file": "269.json",
+    "recommendation_file": "Recommendation_From_ID_283.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples and details from the resume. The language is formal, but the recommendation appears to be for two individuals, not one.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales",
+            "Leadership",
+            "Inventory Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in customer service, sales, leadership, and inventory management, but it appears to be for two individuals, not one. The recommendation lacks specific examples and details from the resume, which reduces its relevance score."
+    }
+}

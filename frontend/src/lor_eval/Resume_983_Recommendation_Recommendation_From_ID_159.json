@@ -1,0 +1,19 @@
+{
+    "resume_file": "983.json",
+    "recommendation_file": "Recommendation_From_ID_159.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of the candidate's experience in visual arts seems unrelated to their actual job history.",
+        "verified_skills": [
+            "Leadership",
+            "Counseling",
+            "Teaching",
+            "Communication",
+            "Program Planning",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience in education and administration, but also mentions unrelated experience in visual arts. The language is formal, but some claims seem exaggerated or unsupported."
+    }
+}

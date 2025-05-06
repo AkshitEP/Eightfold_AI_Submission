@@ -1,0 +1,63 @@
+{
+    "target_id": "87",
+    "recommendations": [
+        {
+            "recommender_id": "925",
+            "recommendation": {
+                "resume_id": 87,
+                "recommendation_file": "Recommendation_From_ID_925.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Time Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and communication skills. However, it does not directly reference the candidate's experience in the insurance industry or their technical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "649",
+            "recommendation": {
+                "resume_id": 87,
+                "recommendation_file": "Recommendation_From_ID_649.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and the language used is somewhat generic. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service skills, commitment to client satisfaction, and ability to navigate complex health insurance options. However, the recommender's relationship to the candidate is unclear, and the language used is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "161",
+            "recommendation": {
+                "resume_id": 87,
+                "recommendation_file": "Recommendation_From_ID_161.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in customer service and communication. However, it does not provide specific examples of their work in the insurance industry or their technical skills."
+                }
+            }
+        }
+    ]
+}

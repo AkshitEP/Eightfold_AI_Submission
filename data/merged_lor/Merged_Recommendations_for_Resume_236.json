@@ -1,0 +1,83 @@
+{
+    "target_id": "236",
+    "recommendations": [
+        {
+            "recommender_id": "425",
+            "recommendation": {
+                "resume_file": "236.json",
+                "recommendation_file": "Recommendation_From_ID_425.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Instructional Design",
+                        "Leadership",
+                        "Behavioral Intervention"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and collaborative approach. The recommender's background in IT management adds credibility to their assessment of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "584",
+            "recommendation": {
+                "resume_file": "236.json",
+                "recommendation_file": "Recommendation_From_ID_584.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's profession (Database Programmer/Analyst) does not directly relate to the candidate's field of expertise.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Data Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's teaching methods, data analysis skills, and leadership qualities, but the recommender's profession and relationship with the candidate raise some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "742",
+            "recommendation": {
+                "resume_file": "236.json",
+                "recommendation_file": "Recommendation_From_ID_742.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Instructional Design",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, collaborative spirit, and commitment to continuous improvement."
+                }
+            }
+        },
+        {
+            "recommender_id": "979",
+            "recommendation": {
+                "resume_file": "236.json",
+                "recommendation_file": "Recommendation_From_ID_979.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Instructional Design",
+                        "Data Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and leadership abilities. The recommender's background in early childhood education adds credibility to their assessment."
+                }
+            }
+        }
+    ]
+}

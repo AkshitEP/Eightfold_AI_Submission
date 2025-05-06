@@ -1,0 +1,20 @@
+{
+    "target_id": "585",
+    "recommendations": [
+        {
+            "recommender_id": "125",
+            "recommendation": {
+                "resume_file": "585.json",
+                "recommendation_file": "Recommendation_From_ID_125.txt",
+                "output": {
+                    "relevance_score": 3,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation appears to be for a different individual, with no mention of the candidate's skills or experience as a personal trainer. The language is formal, but the content is unrelated to the candidate's resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills or experience. It appears to be a generic recommendation for a different individual, with no specific examples or details related to the candidate's work as a personal trainer."
+                }
+            }
+        }
+    ]
+}

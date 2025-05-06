@@ -1,0 +1,123 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Build, implement or support electronic health records and other systems that store patient's data. Assisted in network management and software development. Took periodic review of set standards and database.",
+                "company_level": "Mid-level",
+                "start_date": "08/2015",
+                "end_date": "05/2020"
+            },
+            {
+                "role_name": "Principal Chemical Engineer / Information Technology Specialist",
+                "work_description": "Monitored, implemented, and maintained IT systems. Produced technical reports, analyzed data, and built databases. Facilitated discussions to resolve a safety concern with a key process monitoring instrument. Planned and designed technology related activities aimed at nurturing the growth of innovative businesses. Provided technical support and capacity building in science and technology. Collaborated with market development on new IT technologies for industrial and consumer groups.",
+                "company_level": "Government",
+                "start_date": "10/2005",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Facility Engineer Intern",
+                "work_description": "Analyzed process data from newly revamped furnace to improve efficiency of long-term performance monitoring plan by over 50%. Developed and maintained of engineering/operating standards through periodic review. Improved 40% Reliability/uptime performance and cost reduction efforts for the production units. Managed materials through preventive/corrective maintenance of products.",
+                "company_level": "Mid-level",
+                "start_date": "10/2002",
+                "end_date": "09/2003"
+            },
+            {
+                "role_name": "Engineer Intern",
+                "work_description": "Produce a piping and instrumentation diagram of the pumphouse, cooling tower and condensate lines. Led weekly group meetings with interns and management for future improvements. Monitored, troubleshoot, and observed operations and processes for quality, damages and /or defects.",
+                "company_level": "Mid-level",
+                "start_date": "08/2000",
+                "end_date": "01/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Lagos",
+                "start_date": "11/2005",
+                "end_date": "Present",
+                "domain": "Chemical Engineering",
+                "level": "Master's"
+            },
+            {
+                "university": "University of the District of Columbia",
+                "start_date": "Present",
+                "end_date": "Present",
+                "domain": "Computer Science and Information Technology",
+                "level": "Master's"
+            },
+            {
+                "university": "Federal University of Technology",
+                "start_date": "09/2001",
+                "end_date": "Present",
+                "domain": "Chemical Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Database Management",
+                "level": 4,
+                "explanation": "Built, implemented, and maintained databases across various roles, indicating strong proficiency."
+            },
+            {
+                "name": "Network Management",
+                "level": 3,
+                "explanation": "Assisted in network management and implemented IT systems, showing a solid working proficiency."
+            },
+            {
+                "name": "Software Development",
+                "level": 3,
+                "explanation": "Assisted in software development and implemented IT systems, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Produced technical reports and analyzed data, suggesting strong proficiency in data analysis."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Planned and designed technology-related activities, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led weekly group meetings and facilitated discussions, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 3,
+                "explanation": "Monitored, troubleshoot, and observed operations and processes, indicating a solid working proficiency in troubleshooting."
+            },
+            {
+                "name": "Process Improvement",
+                "level": 4,
+                "explanation": "Improved efficiency of long-term performance monitoring plan and cost reduction efforts, suggesting strong proficiency in process improvement."
+            },
+            {
+                "name": "IT Systems Implementation",
+                "level": 4,
+                "explanation": "Implemented and maintained IT systems, indicating strong proficiency in IT systems implementation."
+            },
+            {
+                "name": "Technical Support",
+                "level": 3,
+                "explanation": "Provided technical support and capacity building in science and technology, showing a solid working proficiency in technical support."
+            },
+            {
+                "name": "Chemical Engineering",
+                "level": 4,
+                "explanation": "Worked as a chemical engineer and improved reliability/uptime performance and cost reduction efforts, suggesting strong proficiency in chemical engineering."
+            },
+            {
+                "name": "Computer Science and Information Technology",
+                "level": 4,
+                "explanation": "Pursued a master's degree in computer science and information technology and worked as an IT specialist, indicating strong proficiency in computer science and information technology."
+            }
+        ]
+    }
+}

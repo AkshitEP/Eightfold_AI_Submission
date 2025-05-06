@@ -1,0 +1,18 @@
+{
+    "resume_file": "308.json",
+    "recommendation_file": "Recommendation_From_ID_876.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in hospitality sector seems unrelated to the candidate's IT experience. However, the recommendation highlights specific skills and qualities that align with the candidate's resume.",
+        "verified_skills": [
+            "Technical Support",
+            "Team Leadership",
+            "Communication",
+            "Process Improvement",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, communication skills, and process improvement abilities. However, the recommender's background and relationship to the candidate are unclear."
+    }
+}

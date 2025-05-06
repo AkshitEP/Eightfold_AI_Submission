@@ -1,0 +1,98 @@
+{
+    "target_id": "337",
+    "recommendations": [
+        {
+            "recommender_id": "737",
+            "recommendation": {
+                "resume_file": "337.json",
+                "recommendation_file": "Recommendation_From_ID_737.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims in the recommendation, including unverified work experience and education.",
+                    "verified_skills": [
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not specifically align with the skills and roles mentioned in the resume, and contains some inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "633",
+            "recommendation": {
+                "resume_file": "337.json",
+                "recommendation_file": "Recommendation_From_ID_633.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's background in aviation parts sales seems unrelated to the candidate's experience, and the mention of 'various awards received for outstanding service' lacks concrete evidence.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Policy Management",
+                        "Communication",
+                        "Time Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills in customer service, policy management, and communication, which align with their resume. However, the recommender's background and some claims seem exaggerated or unsupported, reducing the relevance score and increasing the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "392",
+            "recommendation": {
+                "resume_file": "337.json",
+                "recommendation_file": "Recommendation_From_ID_392.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation mentions a different industry (energy sector) and role (Managed Pressure Drilling Field Supervisor) that is not present in the resume. The language used is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide any specific examples of the candidate's skills or experience. The recommendation seems to be for a different person, and the claims made are not supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "558",
+            "recommendation": {
+                "resume_file": "337.json",
+                "recommendation_file": "Recommendation_From_ID_558.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Policy Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and problem-solving abilities. The source of the recommendation is a Passenger Service Concourse Manager, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "883",
+            "recommendation": {
+                "resume_file": "337.json",
+                "recommendation_file": "Recommendation_From_ID_883.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including unverified claims of awards received by the candidate.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service skills and industry knowledge, but does not specifically mention their experience in policy management, data analysis, or leadership."
+                }
+            }
+        }
+    ]
+}

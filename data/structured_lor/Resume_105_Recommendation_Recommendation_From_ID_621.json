@@ -1,0 +1,19 @@
+{
+    "resume_file": "105.json",
+    "recommendation_file": "Recommendation_From_ID_621.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, including mention of unrelated experience.",
+        "verified_skills": [
+            "Healthcare Management",
+            "Health Education",
+            "Leadership",
+            "Project Management",
+            "Communication",
+            "Community Outreach"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is generally relevant to the candidate's skills and experiences, but there are some minor inconsistencies that raise concerns about its accuracy."
+    }
+}

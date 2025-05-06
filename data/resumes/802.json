@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Compile and analyze financial information to prepare financial statements for the formulation of corporate tax returns for private and corporate clients. Maintaining general ledgers, including posting, adjusting, and closing journal entries. Analyze financial transactions to ensure they are recorded to the appropriate general ledger accounts and make any necessary corrections to journal entries as needed to properly reflect the financial position of the company.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Oversee all financial accounting functions for a $15 million construction company. Report directly to the owner, providing financial data and analytical reports to maximize profits and cost savings alternatives. Assist with the preparation and coordination of the month/year-end closing by ensuring financial statements are accurate and in compliance with Generally Accepted Accounting (GAAP) requirements.",
+                "company_level": "Mid-level",
+                "start_date": "01/1999",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Trading Assistant",
+                "work_description": "Prepared reports, analyzed, and audited internal billing, while coordinating deliveries with accuracy and great attention to detail. Maintained high level of customer satisfaction through business communications with international subsidiaries in Mexico and Japan in the preparation of documentation of import and export shipments.",
+                "company_level": "Mid-level",
+                "start_date": "01/1996",
+                "end_date": "01/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "LEWIS UNIVERSITY",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Accounting",
+                "level": "Master of Business Administration"
+            },
+            {
+                "university": "ROBERT MORRIS UNIVERSITY",
+                "start_date": "01/1995",
+                "end_date": "12/1998",
+                "domain": "Accounting",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience analyzing financial transactions and preparing financial statements, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over two decades of experience with all aspects of accounting, including maintaining general ledgers, posting, adjusting, and closing journal entries, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Has experience preparing financial data and analytical reports to maximize profits and cost savings alternatives, indicating expert-level mastery."
+            },
+            {
+                "name": "GAAP Compliance",
+                "level": 4,
+                "explanation": "Ensured financial statements were accurate and in compliance with Generally Accepted Accounting (GAAP) requirements, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Reported directly to the owner and provided financial data, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Auditing",
+                "level": 3,
+                "explanation": "Audited internal billing, showing a solid working proficiency in auditing."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Maintained high level of customer satisfaction through business communications, indicating a solid level of proficiency in customer service."
+            },
+            {
+                "name": "International Trade",
+                "level": 2,
+                "explanation": "Coordinated with international subsidiaries in Mexico and Japan, showing some practical experience in international trade."
+            }
+        ]
+    }
+}

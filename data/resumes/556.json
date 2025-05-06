@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Team player mentality, Fitness programming specialist, Verbal/written communication, Zumba instructor, Time Management, Nutrition supplement familiarity, Opened and closed the store, including counting cash, opening and closing cash registers and creating staff assignments as well as shared product knowledge with customers while making personal recommendations to meet that specific need.",
+                "company_level": "Mid-level",
+                "start_date": "02/2014",
+                "end_date": "02/2015"
+            },
+            {
+                "role_name": "Vista Representative",
+                "work_description": "Helped underemployed, unemployed, and undergraduates further their education through Continuing Education programs. Proctored C.R.C (Career Readiness Career) Testing. Helped with unemployment filing and weekly certification.",
+                "company_level": "Mid-level",
+                "start_date": "03/2015",
+                "end_date": "03/2016"
+            },
+            {
+                "role_name": "Fitness Instructor",
+                "work_description": "Taught Dance Fitness, Spin and Power. Designed each class to match the skill and learning levels of all participants. Cleaned and organized studio after each group fitness class.",
+                "company_level": "Mid-level",
+                "start_date": "06/2015",
+                "end_date": "04/2016"
+            },
+            {
+                "role_name": "Personal Trainer & Fitness Instructor",
+                "work_description": "Suggested exercise modifications to individual students to avoid strain and injury. Teach Circuit classes, Advanced Dance Fitness, and a Booty Builder class.",
+                "company_level": "Mid-level",
+                "start_date": "04/2016",
+                "end_date": "Current"
+            }
+        ],
+        "education": [
+            {
+                "university": "Corinth High School",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "General Studies",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Northeast MS Community College",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "Business Administration Accounting",
+                "level": "Associate of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Demonstrated ability to manage time effectively in multiple roles, including opening and closing stores, teaching fitness classes, and handling administrative tasks."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Showcased verbal and written communication skills in various roles, including sharing product knowledge with customers and making personal recommendations."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Some experience with leadership, including creating staff assignments and leading group fitness classes, but limited scope and duration."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Demonstrated ability to work effectively in teams, including as a sales associate and fitness instructor."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided customer service in various roles, including making personal recommendations and sharing product knowledge with customers."
+            },
+            {
+                "name": "Fitness Instruction",
+                "level": 4,
+                "explanation": "Extensive experience teaching various fitness classes, including Dance Fitness, Spin, Power, Circuit, and Booty Builder, demonstrating strong proficiency."
+            },
+            {
+                "name": "Personal Training",
+                "level": 4,
+                "explanation": "Provided personal training services, including suggesting exercise modifications to individual students, showing strong proficiency."
+            },
+            {
+                "name": "Nutrition Supplement Familiarity",
+                "level": 2,
+                "explanation": "Some familiarity with nutrition supplements, but limited scope and duration."
+            },
+            {
+                "name": "Business Administration",
+                "level": 1,
+                "explanation": "Basic familiarity with business administration, having completed an Associate of Arts degree in Business Administration Accounting, but limited practical experience."
+            },
+            {
+                "name": "Accounting",
+                "level": 1,
+                "explanation": "Basic familiarity with accounting, having completed an Associate of Arts degree in Business Administration Accounting, but limited practical experience."
+            }
+        ]
+    }
+}

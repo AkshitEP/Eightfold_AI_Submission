@@ -1,0 +1,18 @@
+{
+    "resume_file": "405.json",
+    "recommendation_file": "Recommendation_From_ID_869.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, such as comparing the candidate's sales skills to those in skilled trades like helicopter maintenance or professional fishing. The use of unrelated fields like dolphin interaction therapy and wrestling competitions to describe the candidate's abilities raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Sales",
+            "Account Management",
+            "Communication",
+            "Networking",
+            "Business Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "While the recommendation highlights the candidate's skills in sales, account management, and communication, it contains unrealistic and exaggerated language that detracts from its credibility."
+    }
+}

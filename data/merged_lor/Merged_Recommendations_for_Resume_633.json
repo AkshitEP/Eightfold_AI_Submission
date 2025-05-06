@@ -1,0 +1,86 @@
+{
+    "target_id": "633",
+    "recommendations": [
+        {
+            "recommender_id": "788",
+            "recommendation": {
+                "resume_file": "633.json",
+                "recommendation_file": "Recommendation_From_ID_788.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The recommender's experience as a concierge and doorman seems unrelated to the candidate's field, which raises some concerns.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Inventory Management",
+                        "Aeronautics"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in sales, customer service, and inventory management, which aligns with their experience as an Aviation Parts Salesman. However, the recommender's background and relationship with the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "35",
+            "recommendation": {
+                "resume_file": "633.json",
+                "recommendation_file": "Recommendation_From_ID_35.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Inventory Management",
+                        "Aeronautics",
+                        "Aviation Safety"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and operational efficiency. However, the recommender's role as a Personnel Security Specialist seems unrelated to the candidate's job history, which might raise some questions about the nature of their working relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "358",
+            "recommendation": {
+                "resume_file": "633.json",
+                "recommendation_file": "Recommendation_From_ID_358.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's mention of witnessing the candidate's customer service skills firsthand as a server.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Aeronautics",
+                        "Aviation Safety"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies. The recommender's relationship to the candidate is not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "903",
+            "recommendation": {
+                "resume_file": "633.json",
+                "recommendation_file": "Recommendation_From_ID_903.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Inventory Management",
+                        "Aeronautics",
+                        "Aviation Safety"
+                    ],
+                    "recommendation_source": "Peer/Colleague (Aviation Electrician with U.S. Navy experience)",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and customer service abilities, as well as their knowledge of aviation systems. The recommender's experience in the U.S. Navy adds credibility to their assessment."
+                }
+            }
+        }
+    ]
+}

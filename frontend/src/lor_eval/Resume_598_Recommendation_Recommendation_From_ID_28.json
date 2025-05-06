@@ -1,0 +1,17 @@
+{
+    "resume_file": "598.json",
+    "recommendation_file": "Recommendation_From_ID_28.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Cash Handling",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Supervisor/Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in customer service and cash handling, but does not fully cover all areas of expertise."
+    }
+}

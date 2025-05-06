@@ -1,0 +1,17 @@
+{
+    "resume_file": "587.json",
+    "recommendation_file": "Recommendation_From_ID_922.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and generic language, but no obvious signs of exaggeration or statistically improbable claims.",
+        "verified_skills": [
+            "Patient Care",
+            "Classroom Management",
+            "Instructional Support",
+            "Healthcare Administration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but includes a section about an engineer that is not relevant. The language used is somewhat generic, but there are no obvious signs of exaggeration or statistically improbable claims."
+    }
+}

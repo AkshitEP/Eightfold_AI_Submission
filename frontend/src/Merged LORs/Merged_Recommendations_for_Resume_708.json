@@ -1,0 +1,63 @@
+{
+    "target_id": "708",
+    "recommendations": [
+        {
+            "recommender_id": "595",
+            "recommendation": {
+                "resume_file": "708.json",
+                "recommendation_file": "Recommendation_From_ID_595.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Aircraft Maintenance",
+                        "Troubleshooting",
+                        "Leadership",
+                        "Record Keeping"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their mechanical aptitude, leadership qualities, and problem-solving skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "919",
+            "recommendation": {
+                "resume_file": "708.json",
+                "recommendation_file": "Recommendation_From_ID_919.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender mentions the candidate's Lean Six Sigma certification, which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Aircraft Maintenance",
+                        "Troubleshooting",
+                        "Leadership",
+                        "Record Keeping"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their maintenance and leadership abilities. However, some minor inconsistencies and exaggerated claims are present, such as the mention of Lean Six Sigma certification, which is not mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "883",
+            "recommendation": {
+                "resume_file": "708.json",
+                "recommendation_file": "Recommendation_From_ID_883.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and lacks concrete examples from the candidate's experience. The recommender's background as a bank teller seems unrelated to the candidate's field, raising concerns about their ability to assess the candidate's technical skills.",
+                    "verified_skills": [
+                        "Troubleshooting",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical aptitude and leadership skills, but the recommender's lack of experience in the aviation field and the unrelated background as a bank teller raise concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

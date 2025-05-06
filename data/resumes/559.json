@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Banking Boot Camp Participant",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "05/2017",
+                "end_date": "05/2017"
+            },
+            {
+                "role_name": "Sandwich Artist/Cashier",
+                "work_description": "Took necessary steps to meet customer needs and effectively resolve food or service issues. Recorded customer orders and repeated them back in a clear, understandable manner. Correctly received orders, processed payments and responded appropriately to guest concerns.",
+                "company_level": "Small",
+                "start_date": "02/2017",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Student worker",
+                "work_description": "Filling out paper workers, making copies, informing students about upcoming events, answering the phone, schedule advising and organizing speak sessions.",
+                "company_level": "Small",
+                "start_date": "01/2014",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Front End Supervisor",
+                "work_description": "",
+                "company_level": "Small",
+                "start_date": "06/2014",
+                "end_date": "02/2017"
+            },
+            {
+                "role_name": "Sandwich Maker",
+                "work_description": "",
+                "company_level": "Small",
+                "start_date": "10/2017",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Sandwich Maker",
+                "work_description": "",
+                "company_level": "Small",
+                "start_date": "02/2017",
+                "end_date": "Current"
+            }
+        ],
+        "education": [
+            {
+                "university": "Central Connecticut State University",
+                "start_date": "01/2013",
+                "end_date": "05/2017",
+                "domain": "Economics Finance",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Volleyball",
+            "Track and Field"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience in resolving customer complaints and meeting customer needs, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with customers, took orders, and responded to concerns, showing strong proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple tasks such as scheduling advising sessions, answering phones, and organizing events, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Held a supervisory role, but the extent of leadership experience is unclear, suggesting some practical experience."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked in a team environment, taking orders and resolving customer issues, indicating a solid working proficiency."
+            },
+            {
+                "name": "Basic Office Skills",
+                "level": 3,
+                "explanation": "Performed tasks such as making copies, filling out paperwork, and answering phones, showing a solid working proficiency."
+            },
+            {
+                "name": "Banking",
+                "level": 1,
+                "explanation": "Participated in a banking boot camp, but the extent of experience is unclear, suggesting basic familiarity."
+            }
+        ]
+    }
+}

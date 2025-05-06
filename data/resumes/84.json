@@ -1,0 +1,70 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Reading, Speech & Language Arts Teacher",
+                "work_description": "Designed and implemented original classroom curricula. Self-driven, resourceful leader with excellent communication and interpersonal skills. Effectively collaborates with all levels of staff members. Fosters quality relationships with students. Creates a fun and challenging learning environment for students. Computer proficient and adaptable to new technology. Leads a creative, yet organized and structured classroom. Possesses a genuine interest in students' cognitive and social growth.",
+                "company_level": "Mid-level",
+                "start_date": "01/2000",
+                "end_date": "01/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Saginaw Valley State University",
+                "start_date": "01/1995",
+                "end_date": "12/2000",
+                "domain": "Communication & Theater English and Psychology",
+                "level": "Master of Arts Degree"
+            },
+            {
+                "university": "Central Michigan University",
+                "start_date": "01/1990",
+                "end_date": "12/1995",
+                "domain": "Interpersonal and Public Communication Marketing",
+                "level": "Bachelor of Applied Arts Degree"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Self-driven and resourceful leader with excellent communication and interpersonal skills, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 5,
+                "explanation": "Excellent communication skills and ability to effectively collaborate with staff members, indicating expert-level mastery."
+            },
+            {
+                "name": "Curriculum Development",
+                "level": 4,
+                "explanation": "Designed and implemented original classroom curricula, showing strong proficiency in curriculum development."
+            },
+            {
+                "name": "Classroom Management",
+                "level": 4,
+                "explanation": "Leads a creative, yet organized and structured classroom, indicating strong proficiency in classroom management."
+            },
+            {
+                "name": "Interpersonal Skills",
+                "level": 4,
+                "explanation": "Effectively collaborates with all levels of staff members and fosters quality relationships with students, showing strong proficiency in interpersonal skills."
+            },
+            {
+                "name": "Public Speaking",
+                "level": 3,
+                "explanation": "Possesses excellent communication skills, which likely includes public speaking, indicating a solid working proficiency."
+            },
+            {
+                "name": "Computer Literacy",
+                "level": 3,
+                "explanation": "Computer proficient and adaptable to new technology, showing a solid working proficiency in computer literacy."
+            }
+        ]
+    }
+}

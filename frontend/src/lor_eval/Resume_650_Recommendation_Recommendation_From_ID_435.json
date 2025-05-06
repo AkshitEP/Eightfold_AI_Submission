@@ -1,0 +1,19 @@
+{
+    "resume_file": "650.json",
+    "recommendation_file": "Recommendation_From_ID_435.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "Investment Analysis",
+            "Portfolio Management",
+            "Accounting",
+            "Data Analysis",
+            "Communication"
+        ],
+        "recommendation_source": "Peer/Boss",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis and management skills. The source of the recommendation appears to be a peer or supervisor, given their familiarity with the candidate's work and their own experience in accounting departments."
+    }
+}

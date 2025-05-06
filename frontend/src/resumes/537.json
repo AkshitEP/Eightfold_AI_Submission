@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Advocate",
+                "work_description": "Handle incoming calls from a national customer base. Provide detailed information on services and products to customers. Make appropriate account recommendations based on customer requirements. Enter accurate and complete customer information into system. Research and resolve service, product and billing issues. Maintain updated records of all customer interactions. Achieve and exceed key performance indicators in all areas. Addressed customer service inquiries in a timely and accurate fashion. Made reasonable procedure exceptions to accommodate unusual customer requests. Built customer loyalty by placing follow-up calls for customers who reported product issues.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Caregiver",
+                "work_description": "Read stories to the children and taught them painting, drawing and crafts. Employed a variety of materials for children to explore and manipulate in learning activities and imaginative play. Planned and implemented educational programs for children. Managed general housekeeping duties, including feeding, diapering, resting, and cleanup. Supported children's emotional and social development by adapting communication tactics for differing client needs. Planned and led games, reading and activities for groups of school-age children. Disciplined children and recommended other measures to correct behavior. Carefully monitored children's play activities.",
+                "company_level": "Mid-level",
+                "start_date": "09/2010",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Club Connect Team Member",
+                "work_description": "Contact potential students to schedule campus tours. Provide incoming students with scholarship opportunities available to each individual. Contact potential students to inform them of scholarship deadlines. Help potential students signup for campus events via online portals.",
+                "company_level": "Mid-level",
+                "start_date": "08/2013",
+                "end_date": "05/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Central Arkansas",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Marketing",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Handled a high volume of customer inquiries, resolved issues, and exceeded key performance indicators, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with customers, provided detailed information, and adapted communication tactics for differing client needs, showing strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Researched and resolved service, product, and billing issues, demonstrating strong proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Managed multiple tasks, including handling customer calls, entering customer information, and maintaining records, showing strong proficiency in time management."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Disciplined children and recommended measures to correct behavior in a caregiving role, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Event Planning",
+                "level": 3,
+                "explanation": "Planned and led games, reading, and activities for groups of school-age children, showing a solid working proficiency in event planning."
+            },
+            {
+                "name": "Marketing",
+                "level": 2,
+                "explanation": "Provided information on services and products to customers, and informed potential students about scholarship opportunities, indicating some practical experience in marketing."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Entered accurate and complete customer information into the system, showing a solid working proficiency in data entry."
+            }
+        ]
+    }
+}

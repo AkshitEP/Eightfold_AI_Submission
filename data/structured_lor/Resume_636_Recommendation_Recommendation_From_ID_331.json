@@ -1,0 +1,20 @@
+{
+    "resume_file": "636.json",
+    "recommendation_file": "Recommendation_From_ID_331.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of increasing sales by over 50% in just one year seems unrealistic and requires further verification.",
+        "verified_skills": [
+            "Sales Management",
+            "Leadership",
+            "Customer Service",
+            "Team Management",
+            "Communication",
+            "Negotiation",
+            "Music Education"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales leadership and customer satisfaction. However, some claims seem exaggerated and require further verification."
+    }
+}

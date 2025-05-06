@@ -1,0 +1,68 @@
+{
+    "target_id": "654",
+    "recommendations": [
+        {
+            "recommender_id": "422",
+            "recommendation": {
+                "resume_file": "654.json",
+                "recommendation_file": "Recommendation_From_ID_422.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "HR Administration",
+                        "Administrative Support",
+                        "Time Management",
+                        "Organizational Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR administrative support, payroll management, and organizational abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "666",
+            "recommendation": {
+                "resume_file": "654.json",
+                "recommendation_file": "Recommendation_From_ID_666.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "HR Administration",
+                        "Payroll Management",
+                        "Time Management",
+                        "Organizational Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative support, HR administration, and payroll management. The source of the recommendation is a Senior HR Generalist, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "112",
+            "recommendation": {
+                "resume_file": "654.json",
+                "recommendation_file": "Recommendation_From_ID_112.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Payroll Management",
+                        "HR Administration",
+                        "Time Management",
+                        "Organizational Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative support, payroll management, and HR administration. The source of the recommendation is unclear, but the language is formal and there are no obvious signs of exaggeration or fraud."
+                }
+            }
+        }
+    ]
+}

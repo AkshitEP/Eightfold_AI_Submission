@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Server",
+                "work_description": "Spoke with patrons to ensure satisfaction with food and service. Displayed enthusiasm and knowledge about the restaurant's menu and products. Communicated with other kitchen team members to ensure food was prepared on time and correctly.",
+                "company_level": "Mid-level",
+                "start_date": "01/2017",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Server",
+                "work_description": "Provided friendly and attentive service and exceptional hospitality. Set dining tables according to type of event and service standards. Consistently offered professional, friendly and engaging service. Stocked service stations with items such as ice, napkins, and straws.",
+                "company_level": "Mid-level",
+                "start_date": "08/2016",
+                "end_date": "12/2016"
+            },
+            {
+                "role_name": "Front Desk",
+                "work_description": "Promoted club programs, products and services to participants. Trained all new sales employees on effective techniques. Listened to customer needs and preferences to provide accurate advice. Corrected dangerous movements and suggested alternate exercises.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "05/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Jackson Liberty High School",
+                "start_date": "01/2008",
+                "end_date": "12/2012",
+                "domain": "General",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "University of South Florida",
+                "start_date": "01/2012",
+                "end_date": "12/2014",
+                "domain": "Psychology",
+                "level": "Associate of Science"
+            },
+            {
+                "university": "Temple University",
+                "start_date": "01/2014",
+                "end_date": "12/2016",
+                "domain": "Psychology",
+                "level": "Associate of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience in providing friendly and attentive service to patrons, demonstrating expert-level mastery in customer service."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with kitchen team members, patrons, and new sales employees, showing strong proficiency in communication."
+            },
+            {
+                "name": "Teamwork",
+                "level": 4,
+                "explanation": "Worked collaboratively with kitchen team members and other staff to ensure smooth service, indicating strong proficiency in teamwork."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed to ensure food was prepared on time and correctly, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Sales",
+                "level": 2,
+                "explanation": "Promoted club programs, products, and services to participants, but the extent of sales experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Trained new sales employees on effective techniques, but the scope of leadership experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 2,
+                "explanation": "Corrected dangerous movements and suggested alternate exercises, showing some practical experience in problem-solving."
+            }
+        ]
+    }
+}

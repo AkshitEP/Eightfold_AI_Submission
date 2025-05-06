@@ -1,0 +1,18 @@
+{
+    "resume_file": "786.json",
+    "recommendation_file": "Recommendation_From_ID_323.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Nursing Care",
+            "Patient Assessment",
+            "Critical Thinking",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing skills and patient care. The recommendation highlights the candidate's ability to build collaborative relationships, anticipate potential issues, and address them proactively, which is consistent with their experience as a Registered Nurse."
+    }
+}

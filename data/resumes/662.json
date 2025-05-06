@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Fitness Attendant",
+                "work_description": "Supervised and guided members in safe exercise and use of machines. Contributed to the operation of a clean, friendly and well-maintained recreation center. Encouraged and motivated members to attend group fitness classes. Contributed in selecting, interviewing and training of new employees.",
+                "company_level": "Unknown",
+                "start_date": "03/2014",
+                "end_date": "05/2015"
+            },
+            {
+                "role_name": "Nutritionist",
+                "work_description": "Assessed almost 5,000 patients' overall physical health with body composition scale measurements and In Body Machine. Recommended appropriate feeding schedules and methods to meet nutritional needs in line with patients' age, gender, diagnosis, cultural background and religious practices. Encouraged patients and caregivers to follow recommended food guidelines for well-balanced diets. Consulted regularly with physicians on patients' weight and recommended specialized laboratory tests to assess and monitor nutritional status.",
+                "company_level": "Unknown",
+                "start_date": "07/2012",
+                "end_date": "07/2013"
+            },
+            {
+                "role_name": "Trainee in food services and in healthy and therapeutic nutrition",
+                "work_description": "Manage tray line, checking and setting up trays to ensure patient food orders are correct according to their dietary need and disease status. Utilize sanitation procedures at all times with food interaction and handling. Work with specialized diets, kidney dialysis patients. Screen all newly admitted patients for nutrition concerns. Daily round on patients for nutrition concerns and risks. Provide special diet menu options for inpatients.",
+                "company_level": "Unknown",
+                "start_date": "02/2012",
+                "end_date": "03/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of New Haven",
+                "start_date": "01/2012",
+                "end_date": "12/2015",
+                "domain": "Human Nutrition",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Jordan",
+                "start_date": "01/2008",
+                "end_date": "12/2012",
+                "domain": "Human Nutrition and Dietetics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Nutrition Counseling",
+                "level": 5,
+                "explanation": "Has extensive experience assessing patients' nutritional needs, recommending feeding schedules, and encouraging well-balanced diets, indicating expert-level mastery."
+            },
+            {
+                "name": "Patient Assessment",
+                "level": 4,
+                "explanation": "Has experience assessing patients' overall physical health, including body composition scale measurements and In Body Machine, showing strong proficiency."
+            },
+            {
+                "name": "Dietary Planning",
+                "level": 4,
+                "explanation": "Has experience managing tray lines, setting up trays according to patients' dietary needs, and providing special diet menu options, suggesting strong proficiency."
+            },
+            {
+                "name": "Food Safety and Sanitation",
+                "level": 3,
+                "explanation": "Has experience utilizing sanitation procedures with food interaction and handling, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience supervising and guiding members in a recreation center, but lacks extensive leadership experience."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience consulting with physicians and communicating with patients and caregivers, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Has experience working with healthcare teams, including physicians and caregivers, showing a solid working proficiency in teamwork."
+            }
+        ]
+    }
+}

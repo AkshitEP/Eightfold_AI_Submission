@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Accountant",
+                "work_description": "Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards. Process, prepare and maintain reporting related to Inventory, and all associated recurring and/or ad hoc journal entries, account analysis, financial reporting, account reconciliation and system interface analysis, (COGS, Rebates, Adjustments, Other Revenues) in accordance with established general accounting policies and procedures.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Accountant II",
+                "work_description": "Completed assigned reconciliations accurately, completely and in the time frame required by corporate policies. Prepared and ensured accuracy and integrity of accounting and transactional records to ensure proper financial reporting.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2013",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Accountant II",
+                "work_description": "Assisted in the month/year end close and preparation of associated journal entries. Performed detailed analysis of the general ledger in conjunction with the month end close.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2008",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Associate",
+                "work_description": "Developed, coordinated and planned expense budgets, forecasts, headcount monitoring and tracking and consolidated and analyzed trends of the expenses for Compensation and Planning within Agency Division.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2006",
+                "end_date": "06/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "KEAN UNIVERSITY",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Accounting",
+                "level": "Master's"
+            },
+            {
+                "university": "Unknown",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Management Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 5,
+                "explanation": "Has extensive experience in account reconciliation, journal entries, and financial reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience in accounting, including financial statement preparation, account analysis, and financial reporting, showing expert-level proficiency."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Performed detailed analysis of the general ledger and prepared financial reports, suggesting strong proficiency in financial analysis."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Developed and coordinated expense budgets, forecasts, and headcount monitoring, indicating strong proficiency in budgeting."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Prepared and ensured accuracy and integrity of financial reports, showing expert-level proficiency in financial reporting."
+            },
+            {
+                "name": "Accounting Standards",
+                "level": 4,
+                "explanation": "Ensured compliance with established general accounting policies and procedures, suggesting strong proficiency in accounting standards."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for financial reporting, budgeting, and financial analysis, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No direct leadership experience mentioned, but has worked in senior roles, indicating some practical experience in leadership."
+            }
+        ]
+    }
+}

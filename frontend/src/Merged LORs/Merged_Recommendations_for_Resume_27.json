@@ -1,0 +1,64 @@
+{
+    "target_id": "27",
+    "recommendations": [
+        {
+            "recommender_id": "684",
+            "recommendation": {
+                "resume_file": "27.json",
+                "recommendation_file": "Recommendation_From_ID_684.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Program Management",
+                        "Event Planning",
+                        "Fitness Instruction"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, program management, and event planning abilities. The source of the recommendation is a peer, indicating a credible and informed perspective."
+                }
+            }
+        },
+        {
+            "recommender_id": "332",
+            "recommendation": {
+                "resume_file": "27.json",
+                "recommendation_file": "Recommendation_From_ID_332.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship to the candidate are unclear. The recommender's profession as a Project Accountant seems unrelated to the candidate's field, which raises some concerns.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Program Management",
+                        "Event Planning",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in leadership, program management, event planning, and communication, which aligns well with their experience as a Group Fitness Coordinator. However, the recommender's profession and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "138",
+            "recommendation": {
+                "resume_file": "27.json",
+                "recommendation_file": "Recommendation_From_ID_138.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems partially genuine, but there are some inconsistencies and exaggerated claims. The initial part of the recommendation discussing the skills of a data analyst seems unrelated to the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Program Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The source of the recommendation is unknown, and there are some inconsistencies and exaggerated claims."
+                }
+            }
+        }
+    ]
+}

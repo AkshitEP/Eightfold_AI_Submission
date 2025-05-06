@@ -1,0 +1,84 @@
+{
+    "target_id": "63",
+    "recommendations": [
+        {
+            "recommender_id": "201",
+            "recommendation": {
+                "resume_id": 63,
+                "recommendation_file": "Recommendation_From_ID_201.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommender's background and experience seem unrelated to the candidate's field, and the recommendation lacks specific examples from the candidate's work history. However, the language is formal and no statistically improbable claims are detected.",
+                    "verified_skills": [
+                        "Pharmacy Operations",
+                        "Medication Management",
+                        "Customer Service",
+                        "Inventory Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in customer service, administration, and pharmacy knowledge, but lacks concrete examples from their work history. The recommender's background in aviation safety seems unrelated to the candidate's field, which raises some concerns about the relevance of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "921",
+            "recommendation": {
+                "resume_id": 63,
+                "recommendation_file": "Recommendation_From_ID_921.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written for a different candidate, with the first paragraph mentioning a Project Manager and software development experience, which is not present in the resume. The second paragraph seems to be more relevant, but the language is overly formal and lacks specific examples from the resume.",
+                    "verified_skills": [
+                        "Medication Management",
+                        "Inventory Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be a mix of two different candidates, with the first paragraph being completely unrelated to the resume. The second paragraph is more relevant, but the language is overly formal and lacks specific examples from the resume. The recommendation does not provide a clear picture of the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "521",
+            "recommendation": {
+                "resume_id": 63,
+                "recommendation_file": "Recommendation_From_ID_521.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Pharmacy Operations",
+                        "Medication Management",
+                        "Sterile Compounding",
+                        "Inventory Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their pharmacy operations, medication management, and customer service skills. The recommendation highlights the candidate's attention to detail, ability to work under pressure, and commitment to excellence in the workplace."
+                }
+            }
+        },
+        {
+            "recommender_id": "486",
+            "recommendation": {
+                "resume_id": 63,
+                "recommendation_file": "Recommendation_From_ID_486.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims, unrelated information about Owen B. Headman, and overly flattering language.",
+                    "verified_skills": [
+                        "Pharmacy Operations",
+                        "Medication Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but it contains some inconsistencies and exaggerated claims. The source of the recommendation is unknown, and the language used is overly flattering."
+                }
+            }
+        }
+    ]
+}

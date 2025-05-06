@@ -1,0 +1,17 @@
+{
+    "resume_file": "638.json",
+    "recommendation_file": "Recommendation_From_ID_338.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Teamwork"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, some claims, such as 'exceeding daily targets' and 'streamlining service processes,' seem exaggerated and lack concrete evidence."
+    }
+}

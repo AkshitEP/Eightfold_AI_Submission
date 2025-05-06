@@ -1,0 +1,18 @@
+{
+    "resume_id": 95,
+    "recommendation_file": "Recommendation_From_ID_352.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Aircraft Handling",
+            "Communication",
+            "Teamwork",
+            "Customer Service",
+            "Aviation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Line Service Technician and highlighting their dedication to aviation."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "888.json",
+    "recommendation_file": "Recommendation_From_ID_23.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in investment banking and lack of direct experience in mortgage underwriting may raise some questions about their ability to fully assess the candidate's skills.",
+        "verified_skills": [
+            "Mortgage Underwriting",
+            "Risk Analysis",
+            "Financial Analysis",
+            "Compliance",
+            "Leadership",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional skills and work ethic, but the recommender's background and relationship to the candidate are unclear. The recommendation is generally positive and provides specific examples of the candidate's abilities, but some minor inconsistencies and lack of direct experience in mortgage underwriting may raise some questions."
+    }
+}

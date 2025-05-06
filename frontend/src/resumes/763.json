@@ -1,0 +1,120 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Handled the day to day accounts payable, accounts receivable, monthly financial closing, work in process, and sales tax.",
+                "company_level": "Mid-level",
+                "start_date": "08/2016",
+                "end_date": "03/2017"
+            },
+            {
+                "role_name": "Co-Owner",
+                "work_description": "Created a business plan to help preserve a historic landmark building and encourage economic development in Historic downtown Rogers. Created from scratch Poor Richard's Art (an artist co-op) and then purchased The Rabbit's Lair and turned it into a fabric & fiber center that became one of the top 10 shops in America. Handled all day to day operations, finances, management of employees, strategic planning, and worked with City of Rogers to help with beautification and implementation of events.",
+                "company_level": "Startup",
+                "start_date": "01/2007",
+                "end_date": "08/2016"
+            },
+            {
+                "role_name": "Owner",
+                "work_description": "BKP was created after I had my daughter and wanted a more stay at home job. It turned into a bookkeeping/accounting firm that had 7 employees and over 120 different business customers. BKP specialized in small businesses that needed a bookkeeper to come to their site and keep their accounting records up-to-date and train them in the day-to-day accounting needs. BKP was sold to Beall-Barclay is 2005, where I became the Business Development Manager.",
+                "company_level": "Startup",
+                "start_date": "11/2001",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Accounting Manager",
+                "work_description": "Hanna's was a company that had grown so fast it needed process, procedures, and software to bring it up to speed. While I was there we implemented new software, audits, and inventory controls for the retail shops.",
+                "company_level": "Mid-level",
+                "start_date": "09/1999",
+                "end_date": "06/2001"
+            },
+            {
+                "role_name": "Cost Accounting Manager",
+                "work_description": "My job was to implement SAP software. Starbuck's was going through their manufacturing processes and creating a cost accounting system.",
+                "company_level": "Large Corporation",
+                "start_date": "09/1997",
+                "end_date": "09/1999"
+            },
+            {
+                "role_name": "Cost Accounting Manager",
+                "work_description": "I begin as a cost-accountant for the Irish Spring portion of manufacturing at the Kansas City, Ks plant. It was a time of change, automation of the manufacturing process, and upgrading software to SAP.",
+                "company_level": "Large Corporation",
+                "start_date": "06/1989",
+                "end_date": "09/1999"
+            },
+            {
+                "role_name": "Accounting Manager",
+                "work_description": "Speaco Foods was a manufacturing facility (multi-state) that made vinegar, juices, hot sauce and mustard. It was a family owned business that I worked at all my summers during high school and college. I worked in the manufacturing plants until I graduated college. Once I graduated college, I worked in the accounting department. I started in Accounts Payable, then receivables and then inventory control.",
+                "company_level": "Mid-level",
+                "start_date": "02/1985",
+                "end_date": "01/1989"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of the Ozarks",
+                "start_date": "01/1985",
+                "end_date": "12/1985",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Has extensive experience in various accounting roles, including accounts payable, accounts receivable, financial closing, and inventory control, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Handled finances for multiple businesses, including creating business plans, managing day-to-day operations, and implementing financial processes, showing expert-level proficiency."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 4,
+                "explanation": "Owned and operated a bookkeeping firm, providing services to over 120 businesses, indicating strong proficiency in bookkeeping."
+            },
+            {
+                "name": "Cost Accounting",
+                "level": 4,
+                "explanation": "Worked as a Cost Accounting Manager for multiple companies, implementing cost accounting systems and software, suggesting strong proficiency."
+            },
+            {
+                "name": "Inventory Control",
+                "level": 4,
+                "explanation": "Implemented inventory controls for retail shops and managed inventory for manufacturing facilities, indicating strong proficiency."
+            },
+            {
+                "name": "Audit",
+                "level": 3,
+                "explanation": "Implemented audits for retail shops, showing a solid working proficiency in audit processes."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Led teams in various roles, including as a Co-Owner and Owner of businesses, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Created business plans and implemented strategic planning for multiple businesses, suggesting strong proficiency."
+            },
+            {
+                "name": "Software Implementation",
+                "level": 4,
+                "explanation": "Implemented new software, including SAP, for multiple companies, indicating strong proficiency in software implementation."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed projects, including implementing new software and processes, showing a solid working proficiency in project management."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "542.json",
+    "recommendation_file": "Recommendation_From_ID_749.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but overall seems genuine.",
+        "verified_skills": [
+            "Financial Analysis",
+            "General Accounting",
+            "Financial Reporting",
+            "Bank Reconciliation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies. The recommendation verifies some of the skills mentioned in the resume, but not all."
+    }
+}

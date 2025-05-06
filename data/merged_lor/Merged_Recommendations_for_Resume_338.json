@@ -1,0 +1,125 @@
+{
+    "target_id": "338",
+    "recommendations": [
+        {
+            "recommender_id": "556",
+            "recommendation": {
+                "resume_file": "338.json",
+                "recommendation_file": "Recommendation_From_ID_556.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unclear recommender relationship",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Sales Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and unclear recommender relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "192",
+            "recommendation": {
+                "resume_file": "338.json",
+                "recommendation_file": "Recommendation_From_ID_192.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job titles and roles, but overall the recommendation seems genuine and well-supported by the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Negotiation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service skills, leadership abilities, and commitment to training and personnel development. However, the job title mentioned in the recommendation (Customer Service Advocate) does not match the job titles listed in the resume (Sales Manager, Data Entry operator, Loan Servicing Representative). Additionally, the recommendation mentions managing a team of 20, which is not explicitly stated in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "382",
+            "recommendation": {
+                "resume_file": "338.json",
+                "recommendation_file": "Recommendation_From_ID_382.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Sales Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and sales management abilities. The recommendation source is a supervisor, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "638",
+            "recommendation": {
+                "resume_file": "338.json",
+                "recommendation_file": "Recommendation_From_ID_638.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Sales Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and sales management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "89",
+            "recommendation": {
+                "resume_file": "338.json",
+                "recommendation_file": "Recommendation_From_ID_89.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in public health administration and disability advocacy seems unrelated to the candidate's experience in customer service and sales management. However, the recommendation highlights the candidate's interpersonal skills and commitment to customer satisfaction, which aligns with their experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in customer service and sales management, but the recommender's background seems unrelated. The recommendation highlights the candidate's ability to connect with individuals from diverse backgrounds and their track record of leading successful teams."
+                }
+            }
+        },
+        {
+            "recommender_id": "779",
+            "recommendation": {
+                "resume_file": "338.json",
+                "recommendation_file": "Recommendation_From_ID_779.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Sales Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities."
+                }
+            }
+        }
+    ]
+}

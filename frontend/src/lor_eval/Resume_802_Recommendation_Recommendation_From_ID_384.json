@@ -1,0 +1,20 @@
+{
+    "resume_file": "802.json",
+    "recommendation_file": "Recommendation_From_ID_384.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reporting",
+            "GAAP Compliance",
+            "General Accounting",
+            "Leadership",
+            "Auditing",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities. The recommendation highlights the candidate's strengths in financial reporting, cost accounting, and taxation, as well as their proficiency in GAAP and tax regulations."
+    }
+}

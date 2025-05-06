@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Assistant Information Technology (IT) Director",
+                "work_description": "Led the organization towards eligibility in the eHealth Exchange Information Network, completed detailed survey of the county's privacy, security, confidentiality, and information exchange policies, and facilitated the processing of the Entrust Subscriber Agreement documents.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "IT Supervisor",
+                "work_description": "Executed the enterprise information technology strategy, partnered with the Health Services CIO and stakeholders to establish project and program governance, and supervised, led, coached, and mentored Application Support and Project Management staff.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "12/2010"
+            },
+            {
+                "role_name": "Senior Management Information Systems Analyst",
+                "work_description": "Developed a comprehensive map and fit-gap review and analysis of the clinical workflow and electronic medical records requirements, and led a cross-functional and multi-dimensional Lean Six Sigma process improvement team.",
+                "company_level": "Mid-level",
+                "start_date": "07/2005",
+                "end_date": "12/2006"
+            },
+            {
+                "role_name": "Program Administrator",
+                "work_description": "Defined, managed, and owned the three year IT project and program roadmap, project and features prioritization, and release strategy of the web enablement of a 20/7 statewide enterprise case management, reporting, and payment system.",
+                "company_level": "Mid-level",
+                "start_date": "12/2000",
+                "end_date": "06/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "De La Salle University",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Guidance & Counseling",
+                "level": "Master's"
+            },
+            {
+                "university": "Assumption College",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Psychology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Extensive experience in managing IT projects and programs, including defining project roadmaps, prioritizing features, and leading cross-functional teams, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Proven track record of leading teams, supervising staff, and mentoring others in various IT roles, demonstrating expert-level leadership skills."
+            },
+            {
+                "name": "IT Strategy",
+                "level": 4,
+                "explanation": "Experience in executing enterprise IT strategies, partnering with stakeholders, and establishing project governance, showing strong proficiency in IT strategy development and implementation."
+            },
+            {
+                "name": "Process Improvement",
+                "level": 4,
+                "explanation": "Led a Lean Six Sigma process improvement team, demonstrating strong proficiency in process analysis and improvement techniques."
+            },
+            {
+                "name": "Electronic Health Records",
+                "level": 3,
+                "explanation": "Involved in the development of electronic medical records requirements, showing a solid working proficiency in EHR systems."
+            },
+            {
+                "name": "Information Security",
+                "level": 3,
+                "explanation": "Participated in the development of information security policies and procedures, demonstrating a solid working proficiency in information security principles."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Some experience with data analysis, but the extent of this skill is not clearly demonstrated in the provided work descriptions."
+            },
+            {
+                "name": "Guidance & Counseling",
+                "level": 1,
+                "explanation": "Education background in Guidance & Counseling, but no direct work experience is mentioned, indicating basic familiarity with this skill."
+            },
+            {
+                "name": "Psychology",
+                "level": 1,
+                "explanation": "Education background in Psychology, but no direct work experience is mentioned, indicating basic familiarity with this skill."
+            }
+        ]
+    }
+}

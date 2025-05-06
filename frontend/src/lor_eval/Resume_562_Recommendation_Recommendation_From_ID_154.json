@@ -1,0 +1,15 @@
+{
+    "resume_file": "562.json",
+    "recommendation_file": "Recommendation_From_ID_154.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions skills and experiences not directly mentioned in the resume, such as managing employee benefits programs, conducting training sessions, and developing tailored performance plans. While the candidate has experience in budgeting and financial analysis, the recommendation highlights skills in human resources and leadership that are not explicitly mentioned in the resume.",
+        "verified_skills": [
+            "Budgeting",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation provides some insight into the candidate's skills and experience, but it also mentions skills and experiences not directly mentioned in the resume. The source of the recommendation is a peer, which may indicate a more subjective evaluation of the candidate's abilities."
+    }
+}

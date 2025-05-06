@@ -1,0 +1,47 @@
+{
+    "target_id": "990",
+    "recommendations": [
+        {
+            "recommender_id": "392",
+            "recommendation": {
+                "resume_file": "990.json",
+                "recommendation_file": "Recommendation_From_ID_392.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Quality Control",
+                        "Problem Solving",
+                        "Process Development",
+                        "Statistical Analysis"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, innovative approach, and collaborative nature."
+                }
+            }
+        },
+        {
+            "recommender_id": "596",
+            "recommendation": {
+                "resume_id": 990,
+                "recommendation_file": "Recommendation_From_ID_596.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Quality Control",
+                        "Problem Solving",
+                        "Process Development",
+                        "Research and Development",
+                        "Teamwork",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and commitment to quality. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the objectivity of the recommendation."
+                }
+            }
+        }
+    ]
+}

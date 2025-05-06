@@ -1,0 +1,17 @@
+{
+    "resume_file": "374.json",
+    "recommendation_file": "Recommendation_From_ID_671.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's relationship to the candidate is unclear, and the mention of unrelated activities (coaching and community affairs) seems to be an attempt to add a personal touch but may be seen as slightly exaggerated.",
+        "verified_skills": [
+            "Business Banking",
+            "Leadership",
+            "Client Relationship Management",
+            "Sales"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional leadership, analytical skills, and ability to manage a diverse portfolio of business clients. However, the recommender's relationship to the candidate is unclear, and some claims may be seen as slightly exaggerated."
+    }
+}

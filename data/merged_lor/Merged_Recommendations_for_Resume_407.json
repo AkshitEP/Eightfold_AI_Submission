@@ -1,0 +1,94 @@
+{
+    "target_id": "407",
+    "recommendations": [
+        {
+            "recommender_id": "580",
+            "recommendation": {
+                "resume_file": "407.json",
+                "recommendation_file": "Recommendation_From_ID_580.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions accounting experience, which is not present in the resume. However, the recommendation is well-supported by the resume in terms of leadership, management, and strategic planning skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Strategic Planning",
+                        "Problem-Solving",
+                        "Financial Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in leadership, management, and strategic planning. However, the mention of accounting experience is not supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "310",
+            "recommendation": {
+                "resume_file": "407.json",
+                "recommendation_file": "Recommendation_From_ID_310.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of 'accounting principles' and 'accountant' seems out of place given the candidate's background in aviation and military operations.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Management",
+                        "Communication",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and strategic operations skills, but also mentions accounting principles and an accountant, which seems unrelated to the candidate's background. The recommendation is generally positive, but some claims seem exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "4",
+            "recommendation": {
+                "resume_file": "407.json",
+                "recommendation_file": "Recommendation_From_ID_4.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be comparing two individuals, which is unusual. However, the description of the Aviation Executive Officer's skills and experience aligns well with the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Budgeting",
+                        "Project Management",
+                        "Risk Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Team Management",
+                        "Financial Management",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the Aviation Executive Officer's leadership and strategic decision-making skills, which are consistent with the resume. However, the comparison with another individual and the lack of specific examples from the resume reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "194",
+            "recommendation": {
+                "resume_file": "407.json",
+                "recommendation_file": "Recommendation_From_ID_194.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. The recommender claims to be an accountant, but the candidate's experience is in aviation, which raises some questions about the nature of their working relationship.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Management",
+                        "Team Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills, budgeting abilities, and commitment to operational excellence, which aligns with their experience as an aviation executive officer. However, the recommender's relationship to the candidate is unclear, and the language is overly flattering, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

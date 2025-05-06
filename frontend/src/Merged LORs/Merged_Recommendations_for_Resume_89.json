@@ -1,0 +1,48 @@
+{
+    "target_id": "89",
+    "recommendations": [
+        {
+            "recommender_id": "125",
+            "recommendation": {
+                "resume_id": 89,
+                "recommendation_file": "Recommendation_From_ID_125.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Community Outreach",
+                        "Counseling",
+                        "Public Relations",
+                        "Leadership",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work, project management, and staff development skills. The recommender's experience in leading high-performance teams in a diverse, global environment adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "493",
+            "recommendation": {
+                "resume_id": 89,
+                "recommendation_file": "Recommendation_From_ID_493.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Community Outreach",
+                        "Counseling",
+                        "Public Relations",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their community outreach, counseling, and leadership abilities. The recommender's background in aviation management and sales is unrelated to the candidate's field, but their observations of the candidate's skills are credible and well-supported."
+                }
+            }
+        }
+    ]
+}

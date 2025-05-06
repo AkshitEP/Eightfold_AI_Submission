@@ -1,0 +1,20 @@
+{
+    "resume_file": "562.json",
+    "recommendation_file": "Recommendation_From_ID_644.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The mention of 'remarkable achievements' and 'profound knowledge' might be slightly exaggerated.",
+        "verified_skills": [
+            "Budgeting",
+            "Financial Analysis",
+            "Accounting Operations",
+            "Financial Reporting",
+            "Project Management",
+            "Data Analysis",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills and budget management expertise. However, the source of the recommendation is unclear, and the language is somewhat informal."
+    }
+}

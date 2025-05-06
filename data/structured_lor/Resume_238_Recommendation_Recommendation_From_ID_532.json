@@ -1,0 +1,20 @@
+{
+    "resume_file": "238.json",
+    "recommendation_file": "Recommendation_From_ID_532.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources",
+            "Payroll Management",
+            "Employee Relations",
+            "Benefits Management",
+            "Communication",
+            "Problem-Solving",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and process improvements. The recommender's background as a General HR Assistant and Office Assistant adds credibility to their assessment."
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "target_id": "504",
+    "recommendations": [
+        {
+            "recommender_id": "732",
+            "recommendation": {
+                "resume_file": "504.json",
+                "recommendation_file": "Recommendation_From_ID_732.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's background as a Wheeled Vehicle Mechanic seems unrelated to the candidate's field of civil engineering, which raises some concerns about the recommender's ability to accurately assess the candidate's skills.",
+                    "verified_skills": [
+                        "CAD Design",
+                        "Transportation Engineering",
+                        "Project Management",
+                        "Microsoft Excel",
+                        "VBA Programming",
+                        "Leadership",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in civil engineering, project management, and communication, which aligns well with their resume. However, the recommender's background and relationship to the candidate are unclear, which affects the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "670",
+            "recommendation": {
+                "resume_file": "504.json",
+                "recommendation_file": "Recommendation_From_ID_670.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is not relevant to the candidate's skills and experience. The recommendation is for a Geek Squad Agent, not a Graduate Engineer. Statistically improbable claims are present, such as the mention of military background and exceptional technical support abilities, which are not supported by the candidate's resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience. It appears to be a recommendation for a different individual, and the claims made are not supported by the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "120",
+            "recommendation": {
+                "resume_file": "504.json",
+                "recommendation_file": "Recommendation_From_ID_120.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written for a different candidate, with no mention of the skills or experiences listed in the resume. The language is formal, but the content does not align with the candidate's background.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience, and seems to be written for a different candidate. The language is formal, but the content does not provide any specific examples or evidence from the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "863",
+            "recommendation": {
+                "resume_file": "504.json",
+                "recommendation_file": "Recommendation_From_ID_863.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "CAD Design",
+                        "Microsoft Excel",
+                        "VBA Programming",
+                        "Transportation Engineering",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency and project management skills. The source of the recommendation is a peer, indicating a collaborative work environment."
+                }
+            }
+        }
+    ]
+}

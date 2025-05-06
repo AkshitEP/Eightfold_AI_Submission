@@ -1,0 +1,19 @@
+{
+    "resume_file": "356.json",
+    "recommendation_file": "Recommendation_From_ID_573.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Yoga Instruction",
+            "Fitness Instruction",
+            "Nutrition Education",
+            "Program Management",
+            "Leadership",
+            "Public Speaking"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their program development, teaching, and leadership abilities. However, the source of the recommendation is unclear, as the title 'Child Center Assistant Department Head' does not directly relate to the candidate's work history."
+    }
+}

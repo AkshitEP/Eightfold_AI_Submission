@@ -1,0 +1,83 @@
+{
+    "target_id": "588",
+    "recommendations": [
+        {
+            "recommender_id": "145",
+            "recommendation": {
+                "resume_file": "588.json",
+                "recommendation_file": "Recommendation_From_ID_145.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. Some minor inconsistencies are present, such as the candidate's role as a Healthcare Customer Service Representative not being explicitly mentioned as a sales agent.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in customer service, sales, and problem-solving, which aligns with their experience as a Healthcare Customer Service Representative. However, the recommender's role and relationship with the candidate are unclear, and some minor inconsistencies are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "31",
+            "recommendation": {
+                "resume_file": "588.json",
+                "recommendation_file": "Recommendation_From_ID_31.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service expertise, problem-solving abilities, and leadership potential."
+                }
+            }
+        },
+        {
+            "recommender_id": "709",
+            "recommendation": {
+                "resume_file": "588.json",
+                "recommendation_file": "Recommendation_From_ID_709.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but there are inconsistencies and exaggerated claims. The recommender's background in nursing and quality improvement does not align with the candidate's experience, and the recommendation seems overly flattering.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service and problem-solving, but it lacks specific examples and details from the candidate's work experience. The recommender's background and expertise do not align with the candidate's experience, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "699",
+            "recommendation": {
+                "resume_file": "588.json",
+                "recommendation_file": "Recommendation_From_ID_699.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in customer service, highlighting their ability to manage customer inquiries, provide effective solutions, and demonstrate strong active listening skills."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "804.json",
+    "recommendation_file": "Recommendation_From_ID_542.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in finance and administration, but the details seem to be a mix of the candidate's actual experience and unrelated information.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Accounting",
+            "Leadership",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with some of the candidate's skills and experience, but there are some inconsistencies and exaggerated claims. The recommendation seems to be a mix of the candidate's actual experience and unrelated information."
+    }
+}

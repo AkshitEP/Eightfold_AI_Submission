@@ -1,0 +1,17 @@
+{
+    "resume_file": "583.json",
+    "recommendation_file": "Recommendation_From_ID_28.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, such as selling over 31 phones in a single day, which seems statistically improbable.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales",
+            "Inventory Management",
+            "Team Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales strategies and customer service skills. However, some claims seem exaggerated, and the source of the recommendation is unclear."
+    }
+}

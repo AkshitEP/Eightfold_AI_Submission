@@ -1,0 +1,137 @@
+{
+    "target_id": "335",
+    "recommendations": [
+        {
+            "recommender_id": "12",
+            "recommendation": {
+                "resume_file": "335.json",
+                "recommendation_file": "Recommendation_From_ID_12.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written from the perspective of a Partner Account Manager, which is not directly related to the candidate's experience. However, the recommendation does highlight the candidate's skills and experience in bank operations, compliance analysis, and customer service.",
+                    "verified_skills": [
+                        "Bank Operations",
+                        "Compliance Analysis",
+                        "Customer Service",
+                        "Data Analysis",
+                        "Team Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is generally relevant to the candidate's skills and experience, but the source of the recommendation is unclear. The recommendation highlights the candidate's strengths in bank operations, compliance analysis, and customer service, but also mentions the Partner Account Manager's experience, which is not directly related to the candidate's experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "642",
+            "recommendation": {
+                "resume_file": "335.json",
+                "recommendation_file": "Recommendation_From_ID_642.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's experience and relationship with the candidate are unclear. The recommender mentions working in the Global Financial Markets for over 12 years, but their role and company are not specified.",
+                    "verified_skills": [
+                        "Bank Operations",
+                        "Leadership",
+                        "Customer Service",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in bank operations, but the recommender's credibility and relationship with the candidate are unclear. The recommendation highlights the candidate's analytical skills, commitment to excellence, and ability to foster teamwork."
+                }
+            }
+        },
+        {
+            "recommender_id": "212",
+            "recommendation": {
+                "resume_file": "335.json",
+                "recommendation_file": "Recommendation_From_ID_212.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the analyst's work experience. However, the language is formal and the claims seem generally credible.",
+                    "verified_skills": [
+                        "Bank Operations",
+                        "Leadership",
+                        "Customer Service",
+                        "Data Analysis",
+                        "Team Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the analyst's analytical expertise, customer service skills, and leadership abilities, which align with their work experience and skills listed in the resume. However, the recommendation could benefit from more specific examples and details to support the claims made."
+                }
+            }
+        },
+        {
+            "recommender_id": "713",
+            "recommendation": {
+                "resume_file": "335.json",
+                "recommendation_file": "Recommendation_From_ID_713.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Purchasing Agent is unrelated to the candidate's banking experience. This might indicate a lack of direct knowledge about the candidate's skills and performance.",
+                    "verified_skills": [
+                        "Bank Operations",
+                        "Compliance Analysis",
+                        "Customer Service",
+                        "Data Analysis",
+                        "Team Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's analytical skills, attention to detail, and ability to streamline processes. However, the recommender's role is unrelated to the candidate's banking experience, which might affect the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "102",
+            "recommendation": {
+                "resume_file": "335.json",
+                "recommendation_file": "Recommendation_From_ID_102.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Bank Operations",
+                        "Compliance Analysis",
+                        "Leadership",
+                        "Customer Service",
+                        "Data Analysis",
+                        "Team Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, customer service, and leadership abilities. The recommender's role as an Assistant Banking Center Manager adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "651",
+            "recommendation": {
+                "resume_file": "335.json",
+                "recommendation_file": "Recommendation_From_ID_651.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Bank Operations",
+                        "Compliance Analysis",
+                        "Leadership",
+                        "Customer Service",
+                        "Data Analysis",
+                        "Team Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, commitment to customer service, and ability to improve departmental processes."
+                }
+            }
+        }
+    ]
+}

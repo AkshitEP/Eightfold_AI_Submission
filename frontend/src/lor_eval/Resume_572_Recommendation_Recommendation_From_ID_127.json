@@ -1,0 +1,19 @@
+{
+    "resume_file": "572.json",
+    "recommendation_file": "Recommendation_From_ID_127.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions the candidate's experience in a different company and role, but the skills and qualifications mentioned align with the resume.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "Payroll Management",
+            "Microsoft Excel",
+            "Financial Reporting",
+            "Auditing",
+            "Accounting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis skills. However, some minor inconsistencies and exaggerated claims are present, such as the mention of the candidate's experience in a different company and role."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "target_id": "536",
+    "recommendations": [
+        {
+            "recommender_id": "204",
+            "recommendation": {
+                "resume_file": "536.json",
+                "recommendation_file": "Recommendation_From_ID_204.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Administration",
+                        "Leave Management",
+                        "Benefits Administration",
+                        "Compliance and Regulatory Affairs",
+                        "Training and Development",
+                        "Communication and Interpersonal Skills",
+                        "Data Analysis and Reporting"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, attention to detail, and analytical skills."
+                }
+            }
+        }
+    ]
+}

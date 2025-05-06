@@ -1,0 +1,22 @@
+{
+    "resume_file": "331.json",
+    "recommendation_file": "Recommendation_From_ID_118.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Communication",
+            "Leadership",
+            "Event Planning",
+            "Public Relations",
+            "Time Management",
+            "Teamwork",
+            "Problem-Solving",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, communication, and leadership abilities. The recommendation highlights the candidate's versatility and dedication to their work, making them a strong candidate for opportunities in the entertainment industry."
+    }
+}

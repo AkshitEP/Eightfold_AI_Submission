@@ -1,0 +1,116 @@
+{
+    "target_id": "934",
+    "recommendations": [
+        {
+            "recommender_id": "998",
+            "recommendation": {
+                "resume_file": "934.json",
+                "recommendation_file": "Recommendation_From_ID_998.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and experience do not directly align with the candidate's skills and experience. However, the recommender provides specific examples of the candidate's skills and qualities.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Event Planning",
+                        "Customer Service",
+                        "Technology"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's organizational and project management skills, as well as their ability to foster relationships with clients and manage communication. However, the recommender's background and experience are not directly related to the candidate's skills and experience, which may raise some concerns about the relevance of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "506",
+            "recommendation": {
+                "resume_file": "934.json",
+                "recommendation_file": "Recommendation_From_ID_506.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Event Planning",
+                        "Teamwork",
+                        "Time Management",
+                        "Technology"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, administrative support, and communication skills. The source of the recommendation is a Finance Manager, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "819",
+            "recommendation": {
+                "resume_file": "934.json",
+                "recommendation_file": "Recommendation_From_ID_819.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Event Planning",
+                        "Teamwork",
+                        "Time Management",
+                        "Technology"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and operational tasks, project coordination, and leadership qualities."
+                }
+            }
+        },
+        {
+            "recommender_id": "748",
+            "recommendation": {
+                "resume_file": "934.json",
+                "recommendation_file": "Recommendation_From_ID_748.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Technology"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, project coordination, and technology proficiency. However, it does not directly mention some of the candidate's other skills, such as Event Planning, Customer Service, and Marketing."
+                }
+            }
+        },
+        {
+            "recommender_id": "153",
+            "recommendation": {
+                "resume_file": "934.json",
+                "recommendation_file": "Recommendation_From_ID_153.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Event Planning",
+                        "Teamwork",
+                        "Time Management",
+                        "Technology"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and operational tasks, project coordination, and interpersonal skills."
+                }
+            }
+        }
+    ]
+}

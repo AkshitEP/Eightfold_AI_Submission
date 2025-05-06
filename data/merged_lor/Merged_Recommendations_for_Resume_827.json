@@ -1,0 +1,119 @@
+{
+    "target_id": "827",
+    "recommendations": [
+        {
+            "recommender_id": "222",
+            "recommendation": {
+                "resume_file": "827.json",
+                "recommendation_file": "Recommendation_From_ID_222.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Project Management",
+                        "Cost Efficiency"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operational management, and project management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "920",
+            "recommendation": {
+                "resume_file": "827.json",
+                "recommendation_file": "Recommendation_From_ID_920.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Operations Management",
+                        "Cost Efficiency"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and operational restructuring capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "86",
+            "recommendation": {
+                "resume_file": "827.json",
+                "recommendation_file": "Recommendation_From_ID_86.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples and details from the candidate's resume. Some minor inconsistencies are present, such as the recommendation focusing on office administration and healthcare support, while the resume highlights more complex roles and skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Payroll Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation provides a general endorsement of the candidate's skills and dedication, but it does not specifically align with the candidate's resume. The recommendation focuses on office administration and healthcare support, while the resume highlights more complex roles and skills, such as project management, data analysis, and database management."
+                }
+            }
+        },
+        {
+            "recommender_id": "401",
+            "recommendation": {
+                "resume_file": "827.json",
+                "recommendation_file": "Recommendation_From_ID_401.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration or misrepresentation. The recommendation mentions experience and skills that are not mentioned in the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the resume and seems to be based on false information. It is recommended to verify the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "525",
+            "recommendation": {
+                "resume_file": "827.json",
+                "recommendation_file": "Recommendation_From_ID_525.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's work history. However, the language is formal and the claims seem largely credible.",
+                    "verified_skills": [
+                        "Operations Management",
+                        "Leadership",
+                        "Project Management",
+                        "Cost Efficiency"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in operations management and leadership. However, some minor inconsistencies and lack of specific examples from the candidate's work history reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "709",
+            "recommendation": {
+                "resume_file": "827.json",
+                "recommendation_file": "Recommendation_From_ID_709.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be referring to two individuals, but the resume only belongs to one person.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Data Analysis",
+                        "Cost Efficiency"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in healthcare administration, but some claims seem exaggerated or unsupported. The recommendation also seems to be referring to two individuals, which is inconsistent with the provided resume."
+                }
+            }
+        }
+    ]
+}

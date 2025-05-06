@@ -1,0 +1,18 @@
+{
+    "resume_file": "576.json",
+    "recommendation_file": "Recommendation_From_ID_945.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume but lacks substantial detail or alignment with the key areas of expertise. There are also some minor inconsistencies, such as the mention of Accenture's Peopleline Email Management Team, which is not present in the resume.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Leadership",
+            "Strategic Planning",
+            "Team Management",
+            "Policy Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience and skills in HR, but there are some inconsistencies and lack of detail. The recommendation seems to be based on the candidate's overall experience and skills, rather than specific accomplishments or achievements."
+    }
+}

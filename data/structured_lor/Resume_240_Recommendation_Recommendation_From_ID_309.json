@@ -1,0 +1,17 @@
+{
+    "resume_file": "240.json",
+    "recommendation_file": "Recommendation_From_ID_309.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation contains some inconsistencies and exaggerated claims. The HR Director's experience is mentioned as 'over two decades', but the resume only shows around 10 years of experience. Additionally, the recommendation mentions the HR Director's ability to manage large teams, but this is not mentioned in the resume.",
+        "verified_skills": [
+            "Recruitment",
+            "Employee Relations",
+            "Human Resource Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in HR services, but contains some inconsistencies and exaggerated claims. The recommendation highlights the candidate's strengths in recruitment and employee relations, but also mentions the HR Director's experience and skills, which is not relevant to the candidate's resume."
+    }
+}

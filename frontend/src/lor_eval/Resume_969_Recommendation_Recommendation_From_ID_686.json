@@ -1,0 +1,17 @@
+{
+    "resume_id": 969,
+    "recommendation_file": "Recommendation_From_ID_686.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of business management background which is not present in the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+        "verified_skills": [
+            "Organizational Skills",
+            "Communication Skills",
+            "Paralegal Skills",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional organizational skills, strategic mindset, and ability to manage diverse responsibilities. It also mentions her expertise in legal research and document management, which aligns with her experience as a paralegal. However, the recommendation does not provide specific examples of her work and seems to be more focused on her general qualities rather than specific skills and accomplishments."
+    }
+}

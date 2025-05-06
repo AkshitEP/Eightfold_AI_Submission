@@ -1,0 +1,18 @@
+{
+    "resume_file": "830.json",
+    "recommendation_file": "Recommendation_From_ID_600.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Office Administration",
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Organization"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative tasks, customer service, and organizational abilities. The Finance Director's endorsement highlights the candidate's professionalism, efficiency, and commitment to excellence."
+    }
+}

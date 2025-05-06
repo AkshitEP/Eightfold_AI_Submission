@@ -1,0 +1,19 @@
+{
+    "resume_file": "764.json",
+    "recommendation_file": "Recommendation_From_ID_517.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The claim of increasing annual gross sales by 15% seems impressive but lacks concrete evidence or context.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Complex Problem Solving",
+            "Client Interface",
+            "Profile Management",
+            "Staff Management",
+            "Compliance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and financial management abilities. However, some claims seem exaggerated or lack concrete evidence."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "867.json",
+    "recommendation_file": "Recommendation_From_ID_166.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source's profession as a Medical Billing Specialist seems unrelated to the candidate's field of education. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Teaching",
+            "Academic Advising",
+            "Leadership",
+            "Communication",
+            "Relationship Building"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and communication skills. However, the source's profession seems unrelated to the candidate's field, which raises some concerns about the recommendation's credibility."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "target_id": "835",
+    "recommendations": [
+        {
+            "recommender_id": "511",
+            "recommendation": {
+                "resume_file": "835.json",
+                "recommendation_file": "Recommendation_From_ID_511.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Entry",
+                        "Administrative Support",
+                        "Communication",
+                        "Organization",
+                        "PeopleSoft (HRS)"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, attention to detail, and ability to navigate systems like PeopleSoft."
+                }
+            }
+        },
+        {
+            "recommender_id": "333",
+            "recommendation": {
+                "resume_file": "835.json",
+                "recommendation_file": "Recommendation_From_ID_333.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Entry",
+                        "Administrative Support",
+                        "Organization",
+                        "PeopleSoft (HRS)",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative support, organizational capabilities, and proficiency with software like PeopleSoft."
+                }
+            }
+        }
+    ]
+}

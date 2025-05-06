@@ -1,0 +1,28 @@
+{
+    "target_id": "590",
+    "recommendations": [
+        {
+            "recommender_id": "744",
+            "recommendation": {
+                "resume_file": "590.json",
+                "recommendation_file": "Recommendation_From_ID_744.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "IT Project Management",
+                        "Leadership",
+                        "Cloud Computing",
+                        "Network Design",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency, leadership skills, and innovative approach to product design. The recommender's experience as a Director of Information Technology at the Port of New Orleans adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

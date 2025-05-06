@@ -1,0 +1,19 @@
+{
+    "resume_file": "212.json",
+    "recommendation_file": "Recommendation_From_ID_959.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in job titles and roles mentioned in the recommendation and resume. However, the recommendation aligns well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Program Management",
+            "Leadership",
+            "Communication",
+            "Analytical Skills",
+            "Team Collaboration",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in program management, leadership, and communication, which are well-supported by their resume. However, the job titles and roles mentioned in the recommendation do not exactly match those in the resume, which raises some minor concerns about the accuracy of the recommendation."
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Fitness Director",
+                "work_description": "Managed 20 full time staff and 40 part-time and on call staff. Managed schedules for 10 full time and five part-time personal trainers, three nutritionists, two cardio coaches, and four Pilates trainers. Worked directly with sales of personal training, wellness, Pilates, group exercise services and packages to members based on the needs of the member. Provided members with exceptional member service by exceeding expectations and being proactive in resolving issues and answering questions.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Fitness Specialist/Member Service Specialist",
+                "work_description": "Worked with clients to assess, design, and maintain exercise programs. Programs included goal setting, cardiovascular workouts, and strength training workouts to help obtain health and wellness goals. Created and implemented programming for fitness division within the company including fitness bowls, muscle matchups, and table tennis tournaments.",
+                "company_level": "Mid-level",
+                "start_date": "12/2007",
+                "end_date": "03/2010"
+            },
+            {
+                "role_name": "Event Management",
+                "work_description": "Organized and prepared materials for school athletic events including basketball and volleyball matches. Sold and distributed tickets at athletic events working within the ticket sales and will call sales offices. Tracked game day attendance by counting tickets prior to completion of each match. Provided extraordinary game day experience by escorting ticket holders to seats, handing out flyers, and answering questions.",
+                "company_level": "Mid-level",
+                "start_date": "11/2006",
+                "end_date": "03/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "UNIVERSITY OF PHOENIX",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "General Management",
+                "level": "Master's"
+            },
+            {
+                "university": "SEATTLE PACIFIC UNIVERSITY",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Exercise Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Volunteer for Northwest Association for Blind Athletes",
+            "4-year member of Seattle Pacific University Women's Soccer Team",
+            "3-year member of Student Athletic Advisory Committee at Seattle Pacific University"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed a large team of staff, including full-time, part-time, and on-call employees, demonstrating strong leadership skills."
+            },
+            {
+                "name": "Event Management",
+                "level": 3,
+                "explanation": "Organized and prepared materials for school athletic events, sold and distributed tickets, and provided a good game day experience, showing solid working proficiency in event management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided exceptional member service by exceeding expectations, being proactive in resolving issues, and answering questions, indicating strong proficiency in customer service."
+            },
+            {
+                "name": "Program Management",
+                "level": 3,
+                "explanation": "Created and implemented programming for the fitness division, including fitness bowls, muscle matchups, and table tennis tournaments, showing solid working proficiency in program management."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Worked directly with sales of personal training, wellness, Pilates, group exercise services, and packages to members, demonstrating solid working proficiency in sales."
+            },
+            {
+                "name": "Fitness Training",
+                "level": 4,
+                "explanation": "Worked with clients to assess, design, and maintain exercise programs, including goal setting, cardiovascular workouts, and strength training workouts, indicating strong proficiency in fitness training."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed schedules for multiple staff members, including personal trainers, nutritionists, and coaches, showing solid working proficiency in time management."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_id": 898,
+    "recommendation_file": "Recommendation_From_ID_434.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Database Administration",
+            "Database Security",
+            "Leadership and Management",
+            "Communication and Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills and interpersonal acumen, aligning with their experience in IT infrastructure management, user support, and team mentorship. However, it does not specifically mention some of the candidate's key skills, such as Oracle Database Administration, SQL and PL/SQL, and Data Modeling."
+    }
+}

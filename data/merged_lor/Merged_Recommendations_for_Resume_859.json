@@ -1,0 +1,136 @@
+{
+    "target_id": "859",
+    "recommendations": [
+        {
+            "recommender_id": "19",
+            "recommendation": {
+                "resume_file": "859.json",
+                "recommendation_file": "Recommendation_From_ID_19.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims present, but overall the recommendation seems genuine and well-supported by the resume.",
+                    "verified_skills": [
+                        "Account Management",
+                        "Client Relations",
+                        "Sales",
+                        "Problem-Solving",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in banking and financial services, as well as their skills in client relations, sales, and problem-solving. However, there are some minor inconsistencies and exaggerated claims present."
+                }
+            }
+        },
+        {
+            "recommender_id": "123",
+            "recommendation": {
+                "resume_file": "859.json",
+                "recommendation_file": "Recommendation_From_ID_123.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Management",
+                        "Sales Management",
+                        "Communication",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their client relations and sales expertise. However, it does not highlight all of the candidate's skills mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "245",
+            "recommendation": {
+                "resume_file": "859.json",
+                "recommendation_file": "Recommendation_From_ID_245.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Account Management",
+                        "Leadership",
+                        "Communication",
+                        "Strategic Planning",
+                        "Time Management",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their client relationship management, negotiation skills, and ability to deliver exceptional service. The source of the recommendation is an Employee Relations Consultant, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "642",
+            "recommendation": {
+                "resume_file": "859.json",
+                "recommendation_file": "Recommendation_From_ID_642.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Management",
+                        "Sales Management",
+                        "Leadership",
+                        "Communication",
+                        "Strategic Planning",
+                        "Time Management",
+                        "Team Collaboration",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their client relationship management and innovative strategies."
+                }
+            }
+        },
+        {
+            "recommender_id": "212",
+            "recommendation": {
+                "resume_file": "859.json",
+                "recommendation_file": "Recommendation_From_ID_212.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their account management and problem-solving skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "160",
+            "recommendation": {
+                "resume_file": "859.json",
+                "recommendation_file": "Recommendation_From_ID_160.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Account Management",
+                        "Leadership",
+                        "Communication",
+                        "Strategic Planning",
+                        "Time Management",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking operations, client relationship management, and analytical skills. However, some claims, such as 'zero-error cash handling' and 'bilingual abilities', are not explicitly mentioned in the resume and may be considered exaggerated."
+                }
+            }
+        }
+    ]
+}

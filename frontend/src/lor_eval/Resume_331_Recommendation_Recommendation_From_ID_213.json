@@ -1,0 +1,22 @@
+{
+    "resume_file": "331.json",
+    "recommendation_file": "Recommendation_From_ID_213.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. The recommender's relationship to the candidate is unclear.",
+        "verified_skills": [
+            "Project Management",
+            "Communication",
+            "Leadership",
+            "Event Planning",
+            "Public Relations",
+            "Time Management",
+            "Teamwork",
+            "Problem-Solving",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in the creative industries, but lacks specific examples and details from the candidate's resume. The recommender's relationship to the candidate is unclear, which raises some concerns about the authenticity of the recommendation."
+    }
+}

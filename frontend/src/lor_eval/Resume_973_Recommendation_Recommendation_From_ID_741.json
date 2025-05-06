@@ -1,0 +1,15 @@
+{
+    "resume_file": "973.json",
+    "recommendation_file": "Recommendation_From_ID_741.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language. The mention of 'legislation surrounding agricultural compliance' and 'intricate inventories of specialized honey production' seems unrelated to the candidate's job history and skills. Additionally, the claim about conducting 'training sessions for drones used in agricultural monitoring' appears unrealistic and unsupported by the resume.",
+        "verified_skills": [
+            "Administrative Support",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation contains some relevant information about the candidate's administrative skills and communication abilities, but it is largely overshadowed by unrealistic and exaggerated claims. The source of the recommendation is unclear, and the language used is overly flattering and lacks specific examples from the candidate's job history."
+    }
+}

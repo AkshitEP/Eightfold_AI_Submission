@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "RDA",
+                "work_description": "Coordinated appointment schedules for both the dentist and oral surgeon. Routinely completed inventory, supply orders and restocked supplies. Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Correctly arranged instrument trays prior to dental procedures and surgeries. Proficiently assisted dentist with diagnostic, preventative, general, orthodontic, endodontic, surgical and periodontic procedures.",
+                "company_level": "Unknown",
+                "start_date": "03/2014",
+                "end_date": "04/2015"
+            },
+            {
+                "role_name": "Dental Assistant",
+                "work_description": "Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Effectively operated x-ray machines and developed x-rays. Provided appropriate postoperative instructions as prescribed by dentist. Expertly filed patients' charts and processed billing and payments.",
+                "company_level": "Unknown",
+                "start_date": "04/2013",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Dental Assistant",
+                "work_description": "Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Accurately collected and recorded patient medical and dental histories.",
+                "company_level": "Unknown",
+                "start_date": "06/2012",
+                "end_date": "12/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Kaplan College",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Dental Assisting",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Dental Assisting",
+                "level": 5,
+                "explanation": "Has extensive experience as a dental assistant, with expertise in various dental procedures, patient care, and infection control, indicating expert-level mastery."
+            },
+            {
+                "name": "Patient Care",
+                "level": 4,
+                "explanation": "Consistently demonstrated strong proficiency in patient care, including greeting and preparing patients, providing postoperative instructions, and maintaining patient records."
+            },
+            {
+                "name": "Infection Control",
+                "level": 4,
+                "explanation": "Properly sterilized dental equipment and examination rooms, and maintained infection control policies, showing strong proficiency in infection control."
+            },
+            {
+                "name": "Dental Procedures",
+                "level": 4,
+                "explanation": "Assisted with various dental procedures, including diagnostic, preventative, general, orthodontic, endodontic, surgical, and periodontic procedures, indicating strong proficiency."
+            },
+            {
+                "name": "X-ray Operation",
+                "level": 3,
+                "explanation": "Effectively operated x-ray machines and developed x-rays, showing a solid working proficiency in x-ray operation."
+            },
+            {
+                "name": "Medical Record-Keeping",
+                "level": 3,
+                "explanation": "Accurately collected and recorded patient medical and dental histories, and filed patients' charts, showing a solid working proficiency in medical record-keeping."
+            },
+            {
+                "name": "Billing and Payments",
+                "level": 2,
+                "explanation": "Processed billing and payments, but with limited experience, indicating some practical experience in billing and payments."
+            }
+        ]
+    }
+}

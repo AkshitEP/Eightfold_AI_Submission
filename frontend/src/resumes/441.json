@@ -1,0 +1,115 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "LEAD ENGINEER - FLUID SYSTEMS AND THERMAL ACCESSORIES",
+                "work_description": "Design Premix Liquid Fuel delivery system for GE 9F.04 and 9HA.02. Instrument Air system design and specification for GE Gas 9F.04. Provides hazmat specification based on IBC for various gas turbine skids. Design water supply skids and accessories for purging and cooling of combustor nozzles. Conduct FMEA analysis of new products. Size and select various gas turbine accessories such fuel pump, filters, pressure transducers, water pump based of CFD and combustion requirement. Work with supplier design control valves and mixing valves for various fluid system.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "DESIGN ENGINEER - Military & Commercial Engine Fluid Systems",
+                "work_description": "Provide design and redesign requirements and specifications for fluid system test hardware. Review and provide engineering substantiation for Material Review Board documents for vendor components. Investigate field related failures of military engine fluid system components. Leads component upgrades and improvement projects for fuel systems. Establishes test procedure for afterburner fuel components, fuel pumps, Mechanical engine control units.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2015",
+                "end_date": "09/2016"
+            },
+            {
+                "role_name": "DESIGN ENGINEER - New Product Definition",
+                "work_description": "Performed preliminary and detail design of engine hardware. Performed and interprete FEA Analysis for design reviews and assessment. Ensured technical requirements of components are being met. Assigned ITAR/Export license for both technical data and hardware. Signed off on engineering drawings. Maintained in depth knowledge of product, technical details.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2012",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "DESKSIDE SUPPORT TECHNICIAN / IT SUPPORT",
+                "work_description": "Set up, tested and configured networks, desktops, laptops and printers. Performed routine software and hardware updates. Performed routing preventative maintenance on computers. Coordinated hardware and software repair processes with outside vendors. Resolved technical issues for clients in person, on the phone and through e-mail.",
+                "company_level": "Unknown",
+                "start_date": "06/2007",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Account Associate",
+                "work_description": "Set up new Xerox printers and copiers for client use. Identified equipment options to satisfy client needs. Developed new equipment training materials of for clients. Gathered usage data and generate monthly usage cost. Performed maintenance of equipment.",
+                "company_level": "Unknown",
+                "start_date": "09/2004",
+                "end_date": "06/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Dayton",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Mechanical Engineering",
+                "level": "Master's"
+            },
+            {
+                "university": "Miami University",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Mechanical Engineering",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Kwame Nkrumah University of Science and Technology",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Agricultural Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Mechanical Engineering",
+                "level": 5,
+                "explanation": "Has extensive experience in mechanical engineering, including design, analysis, and testing of fluid systems, thermal accessories, and engine components, indicating expert-level mastery."
+            },
+            {
+                "name": "Fluid Systems Design",
+                "level": 5,
+                "explanation": "Has led the design of complex fluid systems, including premix liquid fuel delivery systems and instrument air systems, demonstrating expert-level proficiency."
+            },
+            {
+                "name": "Thermal Accessories Design",
+                "level": 4,
+                "explanation": "Has designed water supply skids and accessories for purging and cooling of combustor nozzles, showing strong proficiency in thermal accessories design."
+            },
+            {
+                "name": "Failure Mode and Effects Analysis (FMEA)",
+                "level": 4,
+                "explanation": "Has conducted FMEA analysis of new products, indicating strong proficiency in this skill."
+            },
+            {
+                "name": "Computational Fluid Dynamics (CFD)",
+                "level": 4,
+                "explanation": "Has used CFD to size and select various gas turbine accessories, suggesting strong proficiency in this skill."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has led component upgrades and improvement projects, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has managed multiple projects, including design and redesign of fluid systems and engine components, indicating a solid working proficiency in project management."
+            },
+            {
+                "name": "IT Support",
+                "level": 2,
+                "explanation": "Has provided IT support, including setting up and configuring networks, desktops, laptops, and printers, showing some practical experience in this skill."
+            },
+            {
+                "name": "Software Development",
+                "level": 0,
+                "explanation": "No evidence of software development experience or skills."
+            }
+        ]
+    }
+}

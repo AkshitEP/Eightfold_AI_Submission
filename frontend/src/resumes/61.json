@@ -1,0 +1,112 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Maintenance Specialist/Technician",
+                "work_description": "Provided maintenance support to TWPC. Effective communicator and leader in the work areas.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Logistics & Embarkation Rep",
+                "work_description": "Prepared and shipped about 250 metric tons worth of military equipment on numerous operations to countries such as Australia, Thailand and Guam.",
+                "company_level": "Mid-level",
+                "start_date": "10/2013",
+                "end_date": "07/2014"
+            },
+            {
+                "role_name": "Aviation Electronics Technician",
+                "work_description": "Operated on and repaired around 200 pieces of gear used in F-18 fighter jets, EA-6B Electronic counter-measures jets, or AV-8B close ground support jets.",
+                "company_level": "Mid-level",
+                "start_date": "09/2011",
+                "end_date": "10/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "CONSOLIDATED AUTOMATED SUPPORT SYSTEM (CASS) ADVANCED MAINTENANCE/CALIBRATION INTERMEDIATE MAINTENANCE",
+                "start_date": "10/2011",
+                "end_date": "10/2011",
+                "domain": "Aviation Maintenance",
+                "level": "Certificate"
+            },
+            {
+                "university": "Sequoyah High School",
+                "start_date": "01/2006",
+                "end_date": "11/2010",
+                "domain": "General Education",
+                "level": "Diploma"
+            },
+            {
+                "university": "Advanced Electronics and Components",
+                "start_date": "01/2010",
+                "end_date": "01/2011",
+                "domain": "Electronics",
+                "level": "Certificate"
+            },
+            {
+                "university": "HIGH POWER DEVICE TEST SUBSYSTEM/RADAR INTERMEDIATE MAINTENANCE",
+                "start_date": "08/2011",
+                "end_date": "08/2011",
+                "domain": "Radar Maintenance",
+                "level": "Certificate"
+            },
+            {
+                "university": "Fundamentals of Digital Logic by Correspondence",
+                "start_date": "09/2011",
+                "end_date": "09/2011",
+                "domain": "Digital Logic",
+                "level": "Certificate"
+            },
+            {
+                "university": "RTCASS AN/USM702 OPERATION AND MAINTENANCE",
+                "start_date": "01/2011",
+                "end_date": "01/2011",
+                "domain": "Aviation Maintenance",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Demonstrated leadership skills in the work area as a Maintenance Specialist/Technician, but the extent of leadership experience is not clearly defined."
+            },
+            {
+                "name": "Communication",
+                "level": 2,
+                "explanation": "Effective communication skills were mentioned as a Maintenance Specialist/Technician, but the depth of experience is not clearly defined."
+            },
+            {
+                "name": "Logistics",
+                "level": 3,
+                "explanation": "Prepared and shipped a significant amount of military equipment, indicating a solid working proficiency in logistics."
+            },
+            {
+                "name": "Aviation Maintenance",
+                "level": 4,
+                "explanation": "Extensive experience in repairing and maintaining aviation equipment, including F-18 fighter jets, EA-6B Electronic counter-measures jets, and AV-8B close ground support jets, suggesting strong proficiency."
+            },
+            {
+                "name": "Electronics",
+                "level": 4,
+                "explanation": "Received multiple certifications in electronics and worked on various electronic components, indicating strong proficiency in electronics."
+            },
+            {
+                "name": "Radar Maintenance",
+                "level": 3,
+                "explanation": "Received certification in radar maintenance, but the extent of practical experience is not clearly defined, indicating a solid working proficiency."
+            },
+            {
+                "name": "Digital Logic",
+                "level": 2,
+                "explanation": "Received certification in digital logic, but the extent of practical experience is not clearly defined, indicating some practical experience."
+            }
+        ]
+    }
+}

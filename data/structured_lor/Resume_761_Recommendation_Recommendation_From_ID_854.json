@@ -1,0 +1,23 @@
+{
+    "resume_file": "761.json",
+    "recommendation_file": "Recommendation_From_ID_854.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Data Center Management",
+            "Cyber Security",
+            "Team Management",
+            "Network Design and Architecture",
+            "Project Management",
+            "ERP Solution Management",
+            "Strategic Planning",
+            "Risk Management",
+            "Leadership",
+            "Information Technology"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their leadership, technical expertise, and strategic thinking. The recommender's role as a Vice President of Information Technology adds credibility to the recommendation."
+    }
+}

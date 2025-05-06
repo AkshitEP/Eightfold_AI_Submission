@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "I.T. Support Technician/Specialist",
+                "work_description": "Respond to tickets given by Faculty and Staff through a helpdesk system. Tickets range from basic computer problems to networking problems regarding Cisco switches. Worked with the installation of voip phones, Risevision software for signage, and developed the installation procedures and currently oversee the installation of iTALC class management software.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Children's Program Developer/Operations Manager",
+                "work_description": "Over saw the day to day operations, sold memberships, retail goods, upgrade packages. Taught martial arts classes and designed curriculum programs and taught martial arts to children and adults. Solved problems between customers and management and talked frequently on a one on one basis with customers.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Instructor/Owner",
+                "work_description": "Over saw the day to day operations, sold memberships, retail goods, upgrade packages, designed curriculum programs and taught martial arts to children and adults. Solved problems between customers and management and talked frequently on a one on one basis with customers.",
+                "company_level": "Startup",
+                "start_date": "01/2005",
+                "end_date": "01/2009"
+            },
+            {
+                "role_name": "Technical Support",
+                "work_description": "Solved problems over the phone with a user of a software package designed to build picture frames. Problems included computer based as well as physical problems with design of picture frames.",
+                "company_level": "Startup",
+                "start_date": "01/2005",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Western Governors University",
+                "start_date": "01/2017",
+                "end_date": "Present",
+                "domain": "Network Administration",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Southern Crescent Technical College",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Networking Cisco and Microsoft",
+                "level": "Associate's"
+            },
+            {
+                "university": "Griffin High School",
+                "start_date": "01/1987",
+                "end_date": "12/1991",
+                "domain": "",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Has extensive experience providing technical support in various roles, including I.T. Support Technician/Specialist and Technical Support, showing strong proficiency."
+            },
+            {
+                "name": "Networking",
+                "level": 4,
+                "explanation": "Worked with Cisco switches and has education background in Networking Cisco and Microsoft, indicating strong proficiency."
+            },
+            {
+                "name": "Problem Solving",
+                "level": 4,
+                "explanation": "Consistently solved problems in various roles, including technical issues and customer complaints, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Held leadership roles, including I.T. Support Technician/Specialist and Instructor/Owner, indicating solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Frequently interacted with customers and staff in various roles, showing solid working proficiency in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Developed installation procedures for iTALC class management software, but the extent of project management experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Software Installation",
+                "level": 2,
+                "explanation": "Installed voip phones, Risevision software, and iTALC class management software, but the extent of experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Network Administration",
+                "level": 1,
+                "explanation": "Currently pursuing a Bachelor's degree in Network Administration, but no direct work experience is mentioned, indicating basic familiarity."
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "107.json",
+    "recommendation_file": "Recommendation_From_ID_24.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Microsoft Excel",
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, customer service, and communication skills. The source of the recommendation is the Director of Finance, indicating a direct supervisory relationship."
+    }
+}

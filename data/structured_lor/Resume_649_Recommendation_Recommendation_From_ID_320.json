@@ -1,0 +1,15 @@
+{
+    "resume_file": "649.json",
+    "recommendation_file": "Recommendation_From_ID_320.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies between the recommendation and resume, but no obvious signs of exaggeration or statistically improbable claims.",
+        "verified_skills": [
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation primarily focuses on the candidate's nursing background, which is not explicitly mentioned in the resume. However, the recommendation highlights the candidate's leadership and communication skills, which are mentioned in the resume."
+    }
+}

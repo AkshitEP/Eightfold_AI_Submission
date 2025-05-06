@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Maintain of Cash book. Maintenance and Finalization of Annual account Preparation of Bank Reconciliation Statement. Billing And Realisation From Debtors Verification of Expenditure Bills and Traveling Bills. Salary JV Verification. Day to day office activity",
+                "company_level": "Unknown",
+                "start_date": "01/2016",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Consultant",
+                "work_description": "Prepare journal entries and ensure reconciliation are complete. Review general ledger to ensure proper accounting is in place Process pay application invoice and payment. General ledger Reconcilation and adjusting entries. Reconcilation bank account accurately and in a timely manner with attention to unusal items that remain outstanding at monthend.",
+                "company_level": "Unknown",
+                "start_date": "01/2016",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Process Developer (Novartis Canada GL and AP)",
+                "work_description": "Worked in several sub modules of Sap Financials: Accounts receivable, Accounts Payable, General Ledger, Banking. Accounts Payable: Automated Payment Program (APP), Invoice Processing, IDOC, MIRO. Vendor Master, Customer Master, General Ledger Master data.",
+                "company_level": "Unknown",
+                "start_date": "03/2009",
+                "end_date": "12/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Unknown",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Finance and IT",
+                "level": "MBA"
+            },
+            {
+                "university": "Unknown",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Management Honors",
+                "level": "B.Com"
+            },
+            {
+                "university": "Unknown",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Computer Application",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Extensive experience in maintaining cash books, preparing annual accounts, and reconciling bank statements, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 5,
+                "explanation": "Consistently handled bank reconciliations, general ledger reconciliations, and ensured proper accounting practices, showing expert-level proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 2,
+                "explanation": "Limited experience in salary JV verification, but not enough to demonstrate strong proficiency."
+            },
+            {
+                "name": "Accounts Payable",
+                "level": 4,
+                "explanation": "Worked extensively with accounts payable, including automated payment programs, invoice processing, and vendor master data, indicating strong proficiency."
+            },
+            {
+                "name": "Accounts Receivable",
+                "level": 3,
+                "explanation": "Experience in accounts receivable, including customer master data, but not enough to demonstrate strong proficiency."
+            },
+            {
+                "name": "General Ledger",
+                "level": 4,
+                "explanation": "Worked extensively with general ledger, including reconciliations and adjusting entries, indicating strong proficiency."
+            },
+            {
+                "name": "Banking",
+                "level": 3,
+                "explanation": "Experience in banking, including banking modules in SAP Financials, but not enough to demonstrate strong proficiency."
+            },
+            {
+                "name": "SAP Financials",
+                "level": 4,
+                "explanation": "Worked extensively with SAP Financials, including various sub-modules, indicating strong proficiency."
+            }
+        ]
+    }
+}

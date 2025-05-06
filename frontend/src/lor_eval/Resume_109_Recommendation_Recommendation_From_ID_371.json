@@ -1,0 +1,17 @@
+{
+    "resume_file": "109.json",
+    "recommendation_file": "Recommendation_From_ID_371.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written by someone who is familiar with the candidate's work, but there are some inconsistencies in the language and tone used. The first paragraph appears to be describing a different person, which raises some concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Accounting",
+            "Financial Analysis",
+            "Auditing and Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in financial management, financial statement analysis, and internal control compliance. However, the first paragraph seems out of place and does not appear to be describing the candidate. The recommendation also mentions the candidate's ability to communicate effectively and work under pressure, which is not explicitly mentioned in the resume."
+    }
+}

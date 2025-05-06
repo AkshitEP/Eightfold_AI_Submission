@@ -1,0 +1,124 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant II",
+                "work_description": "Performed month-end General Ledger close and prepared manual journal entries. Prepared balance sheet accounts reconciliation and roll forward schedules. Researched and resolved reconciling items in a timely manner and informed management of any issues.",
+                "company_level": "Mid-level",
+                "start_date": "11/2014",
+                "end_date": "10/2016"
+            },
+            {
+                "role_name": "Senior Accountant (TEMP)",
+                "work_description": "Assisted in the on-going development of current accounting and reporting functions. Prepared consolidated monthly financial statements of various entities. Led efforts in company's monthly depreciable items reports.",
+                "company_level": "Mid-level",
+                "start_date": "11/2013",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Accountant (TEMP)",
+                "work_description": "Maintained responsibility for accounting and financial management associated with general ledger activity, cash flow management, and financial reporting. Developed accurate and reliable financial statements that aided in business decision-making.",
+                "company_level": "Mid-level",
+                "start_date": "02/2012",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Staff Accountant (TEMP)",
+                "work_description": "Charged with handling general ledger reviews, bank reconciliations, and month end close. Participated in balance sheet reconciliation. Verified daily bank transaction reports while ensuring the financial integrity of data.",
+                "company_level": "Mid-level",
+                "start_date": "12/2011",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Junior Accountant (TEMP)",
+                "work_description": "Heavily performed billing duties Led efforts to track all cash flows. Played a key role in streamlining billing expenses and introducing process improvements.",
+                "company_level": "Mid-level",
+                "start_date": "08/2010",
+                "end_date": "12/2011"
+            },
+            {
+                "role_name": "Equity Research Analyst (TEMP)",
+                "work_description": "Eliminated financial statement discrepancies by making sure items were accurately entered and balanced. Updated the balance sheet, income statement, and cash flow statement, which included pension plans, leases, contractual obligations, and debt.",
+                "company_level": "Mid-level",
+                "start_date": "09/2009",
+                "end_date": "07/2010"
+            },
+            {
+                "role_name": "Bookkeeper (TEMP)",
+                "work_description": "Performed accounting and finance duties associated with accounts receivable and accounts payable Prepared financial reports that detailed the financial position of the company Processed weekly payroll for over 20 employees Worked with sales tax, states payroll taxes, and federal payroll taxes payments Handled human resources queries as well as processed new hires.",
+                "company_level": "Mid-level",
+                "start_date": "06/2009",
+                "end_date": "09/2009"
+            },
+            {
+                "role_name": "Operation Budget (INTERN)",
+                "work_description": "Prepared weekly analytical Pay-Hour report for over 10,000 Bus Operator and Bus Maintenance employees Set up variances between budget and actual retrieved from Hyperion for budget modifications decided by management.",
+                "company_level": "Mid-level",
+                "start_date": "04/2008",
+                "end_date": "05/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "UNIVERSITY OF PHOENIX",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Master of Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "CITY UNIVERSITY OF NEW YORK",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Accounting Finance & Economics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Extensive experience in various accounting roles, including preparation of financial statements, balance sheet reconciliation, and general ledger management, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Consistently performed balance sheet reconciliation, roll forward schedules, and researched and resolved reconciling items, showing strong proficiency."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Prepared consolidated monthly financial statements, developed accurate and reliable financial statements, and updated balance sheet, income statement, and cash flow statement, indicating strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Processed weekly payroll for over 20 employees, handled payroll taxes, and worked with human resources queries, showing solid working proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Prepared weekly analytical Pay-Hour report, set up variances between budget and actual, and assisted in budget modifications, indicating solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Led efforts in company's monthly depreciable items reports, but limited leadership experience, showing some practical experience."
+            },
+            {
+                "name": "Cash Flow Management",
+                "level": 3,
+                "explanation": "Maintained responsibility for cash flow management, verified daily bank transaction reports, and ensured financial integrity of data, showing solid working proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No direct mention of Microsoft Excel usage, but likely used for financial reporting and analysis."
+            }
+        ]
+    }
+}

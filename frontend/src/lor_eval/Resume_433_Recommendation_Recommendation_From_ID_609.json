@@ -1,0 +1,17 @@
+{
+    "resume_file": "433.json",
+    "recommendation_file": "Recommendation_From_ID_609.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions the candidate's expertise in network protocols, data management, and technical support, but these skills are not explicitly mentioned in the resume. However, the candidate's experience in technical support and customer service roles, as well as their master's degree in Network Communications Management, provide some credibility to these claims.",
+        "verified_skills": [
+            "Technical Support",
+            "Troubleshooting",
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills and experience, but some claims seem exaggerated or unsupported. The candidate's master's degree in Network Communications Management is mentioned, but the recommendation does not provide specific examples of how this degree has been applied in their work."
+    }
+}

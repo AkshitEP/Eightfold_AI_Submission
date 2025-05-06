@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Front Desk Attendant",
+                "work_description": "Kept records of room availability and guests' accounts, manually or using computers. Assisted guests with any special requests during their visits. Performed bookkeeping activities, such as balancing accounts and conducting nightly audits.",
+                "company_level": "Mid-level",
+                "start_date": "05/2015",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Airline Operations Agent",
+                "work_description": "Aircraft transit coordinator. Dispatchment of company aircraft. Cargo Operations.",
+                "company_level": "Mid-level",
+                "start_date": "05/2014",
+                "end_date": "07/2014"
+            },
+            {
+                "role_name": "Ramp Agent",
+                "work_description": "Direct service to private airplanes. Marshaling, fueling and towing of aircraft.",
+                "company_level": "Mid-level",
+                "start_date": "12/2013",
+                "end_date": "05/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Bridgewater State University",
+                "start_date": "01/2011",
+                "end_date": "05/2015",
+                "domain": "Aviation Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Embry-riddle Aeronautical University",
+                "start_date": "01/2020",
+                "end_date": "Present",
+                "domain": "Aviation International Business",
+                "level": "MBA"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Aviation Enthusiast",
+            "Commercial Pilot"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Bookkeeping",
+                "level": 3,
+                "explanation": "Performed bookkeeping activities, such as balancing accounts and conducting nightly audits, showing a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Assisted guests with any special requests during their visits, indicating a solid level of proficiency in customer service."
+            },
+            {
+                "name": "Aircraft Operations",
+                "level": 4,
+                "explanation": "Handled various roles in aircraft operations, including dispatchment, cargo operations, and marshaling, fueling, and towing of aircraft, suggesting strong proficiency."
+            },
+            {
+                "name": "Aviation Management",
+                "level": 4,
+                "explanation": "Completed a Bachelor's degree in Aviation Management and an MBA in Aviation International Business, indicating strong proficiency in aviation management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No direct leadership experience mentioned, but some roles may have involved supervisory tasks, suggesting some practical experience."
+            },
+            {
+                "name": "Time Management",
+                "level": 2,
+                "explanation": "Handled multiple tasks in various roles, such as bookkeeping and aircraft operations, indicating some practical experience in time management."
+            }
+        ]
+    }
+}

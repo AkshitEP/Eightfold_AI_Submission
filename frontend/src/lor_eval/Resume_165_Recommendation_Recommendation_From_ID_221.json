@@ -1,0 +1,21 @@
+{
+    "resume_file": "165.json",
+    "recommendation_file": "Recommendation_From_ID_221.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales Management",
+            "Account Management",
+            "Leadership",
+            "Project Management",
+            "Strategic Planning",
+            "Communication",
+            "Business Development",
+            "Team Collaboration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in managing strategic accounts, developing meaningful relationships with healthcare professionals, and launching innovative products."
+    }
+}

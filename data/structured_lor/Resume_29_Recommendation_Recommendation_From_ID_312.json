@@ -1,0 +1,19 @@
+{
+    "resume_file": "29.json",
+    "recommendation_file": "Recommendation_From_ID_312.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Network Security",
+            "Digital Evidence Analysis",
+            "Compliance Management",
+            "Technical Support",
+            "Training and Development",
+            "Cisco Systems"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency and analytical support. The Director of Information Technology's endorsement carries significant weight, given their own expertise in IT infrastructure and networking."
+    }
+}

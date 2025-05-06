@@ -1,0 +1,23 @@
+{
+    "resume_file": "218.json",
+    "recommendation_file": "Recommendation_From_ID_768.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Theater Direction",
+            "Teaching",
+            "Playwrighting",
+            "Acting",
+            "Leadership",
+            "Curriculum Development",
+            "Shakespearean Theater",
+            "Physical Theater",
+            "Improvisation",
+            "Design for Theater"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their theater direction, teaching, and leadership abilities. The recommender's experience as an Arts Education Intern adds credibility to their assessment."
+    }
+}

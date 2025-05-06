@@ -1,0 +1,20 @@
+{
+    "resume_file": "880.json",
+    "recommendation_file": "Recommendation_From_ID_114.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Leadership",
+            "Vendor Management",
+            "Contract Negotiation",
+            "Project Management",
+            "Business Systems",
+            "Team Management",
+            "Business Administration"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience. The recommender, a Senior Vice President, provides specific examples of the candidate's accomplishments and highlights their exceptional leadership and strategic acumen."
+    }
+}

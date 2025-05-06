@@ -1,0 +1,19 @@
+{
+    "resume_file": "35.json",
+    "recommendation_file": "Recommendation_From_ID_678.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'recognized certifications' which are not explicitly mentioned in the resume. However, the recommendation is largely credible and well-supported by the resume.",
+        "verified_skills": [
+            "Security Clearance Management",
+            "Personnel Security",
+            "Information Security",
+            "Physical Security",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in security management, but there are some minor inconsistencies and exaggerated claims. The recommendation highlights the candidate's leadership and interpersonal skills, but these are not extensively demonstrated in the resume."
+    }
+}

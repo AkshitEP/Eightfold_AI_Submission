@@ -1,0 +1,16 @@
+{
+    "resume_file": "127.json",
+    "recommendation_file": "Recommendation_From_ID_615.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions a Master's degree in Accounting, which is not present in the resume. Additionally, the leadership experience mentioned is not directly supported by the resume.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Reporting",
+            "System Implementation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's accounting experience and skills, but also mentions some information not present in the resume, such as a Master's degree and leadership experience."
+    }
+}

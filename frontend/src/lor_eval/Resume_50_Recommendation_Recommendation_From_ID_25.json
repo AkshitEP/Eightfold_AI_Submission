@@ -1,0 +1,19 @@
+{
+    "resume_id": 50,
+    "recommendation_file": "Recommendation_From_ID_25.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Consulting",
+            "Project Management",
+            "Business Planning",
+            "Financial Systems Implementation",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in Revenue Cycle Management and strategic financial consulting. However, it does not explicitly mention Data Analysis, which is one of the candidate's key skills."
+    }
+}

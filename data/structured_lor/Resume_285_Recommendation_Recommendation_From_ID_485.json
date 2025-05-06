@@ -1,0 +1,15 @@
+{
+    "resume_file": "285.json",
+    "recommendation_file": "Recommendation_From_ID_485.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims, such as a 100% conviction rate in fraud cases, and mentions unrelated experience as a flight attendant. The language is formal, but the recommendation seems to be for two different individuals, with only a small portion relevant to the provided resume.",
+        "verified_skills": [
+            "Leadership",
+            "Sales and Marketing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be for two different individuals, with only a small portion relevant to the provided resume. The relevant portion mentions the candidate's ability to streamline workflow and improve employee performance, as well as their sales success and strategic planning skills."
+    }
+}

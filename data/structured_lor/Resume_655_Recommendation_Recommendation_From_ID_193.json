@@ -1,0 +1,17 @@
+{
+    "resume_file": "655.json",
+    "recommendation_file": "Recommendation_From_ID_193.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but it appears to be a combination of two separate recommendations, which may indicate some level of exaggeration or manipulation.",
+        "verified_skills": [
+            "Public Health",
+            "Data Analysis",
+            "Communication",
+            "Case Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in public health, data analysis, and communication, which are relevant to their experience as a Communicable Disease Specialist. However, the recommendation also mentions skills and experiences that are not directly related to the candidate's resume, which may indicate some level of exaggeration or manipulation."
+    }
+}

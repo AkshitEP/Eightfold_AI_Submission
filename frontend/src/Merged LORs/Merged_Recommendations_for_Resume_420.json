@@ -1,0 +1,70 @@
+{
+    "target_id": "420",
+    "recommendations": [
+        {
+            "recommender_id": "230",
+            "recommendation": {
+                "resume_file": "420.json",
+                "recommendation_file": "Recommendation_From_ID_230.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Communication",
+                        "Problem Solving",
+                        "Counseling"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their case management and client engagement skills. The recommender's background in healthcare advocacy adds credibility to their assessment."
+                }
+            }
+        },
+        {
+            "recommender_id": "490",
+            "recommendation": {
+                "resume_file": "420.json",
+                "recommendation_file": "Recommendation_From_ID_490.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Communication",
+                        "Problem Solving",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Case Manager and Outreach Advocate. The source of the recommendation appears to be a peer or colleague, as they mention observing the candidate's work and interacting with them in a professional capacity."
+                }
+            }
+        },
+        {
+            "recommender_id": "77",
+            "recommendation": {
+                "resume_file": "420.json",
+                "recommendation_file": "Recommendation_From_ID_77.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Communication",
+                        "Problem Solving",
+                        "Time Management",
+                        "Customer Service",
+                        "Data Entry",
+                        "Eligibility Determination"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Case Manager and Outreach Advocate. The recommender highlights the candidate's exceptional interpersonal skills, adaptability, and dedication to supporting clients."
+                }
+            }
+        }
+    ]
+}

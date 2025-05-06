@@ -1,0 +1,47 @@
+{
+    "target_id": "795",
+    "recommendations": [
+        {
+            "recommender_id": "354",
+            "recommendation": {
+                "resume_file": "795.json",
+                "recommendation_file": "Recommendation_From_ID_354.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, the source of the recommendation is unclear, and the language used is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "876",
+            "recommendation": {
+                "resume_file": "795.json",
+                "recommendation_file": "Recommendation_From_ID_876.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and operational management abilities. However, it does not explicitly mention some of the candidate's other skills, such as Sales Management, Financial Management, and Marketing."
+                }
+            }
+        }
+    ]
+}

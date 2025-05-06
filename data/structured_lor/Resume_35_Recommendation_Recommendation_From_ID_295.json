@@ -1,0 +1,19 @@
+{
+    "resume_file": "35.json",
+    "recommendation_file": "Recommendation_From_ID_295.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Security Clearance Management",
+            "Personnel Security",
+            "Information Security",
+            "Physical Security",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their security management expertise and leadership abilities. The recommender's role as a Production Supervisor and Value Stream Leader suggests a peer-level relationship with the candidate."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_id": 977,
+    "recommendation_file": "Recommendation_From_ID_533.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall the recommendation seems genuine.",
+        "verified_skills": [
+            "Accounting",
+            "Software solutions",
+            "Leadership",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and exaggerated claims. The recommender's role as a Production Associate may not be directly related to the candidate's work, which could raise some questions about the recommender's credibility."
+    }
+}

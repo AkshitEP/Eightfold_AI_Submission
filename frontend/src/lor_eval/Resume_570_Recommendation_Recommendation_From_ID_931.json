@@ -1,0 +1,17 @@
+{
+    "resume_file": "570.json",
+    "recommendation_file": "Recommendation_From_ID_931.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but no obvious signs of exaggeration or statistically improbable claims.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem-solving",
+            "Attention to detail",
+            "Medical terminology"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience in customer service and medical terminology, but does not specifically mention their skills in medical billing or data entry."
+    }
+}

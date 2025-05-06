@@ -1,0 +1,12 @@
+{
+    "resume_file": "184.json",
+    "recommendation_file": "Recommendation_From_ID_230.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems exaggerated, with some claims appearing unrealistic given the candidate's domain, experience level, or position. The recommendation also contains some informal language.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation barely mentions the skills or experiences from the resume, with little or no connection between the skills, experience, or roles mentioned. The recommendation highlights the individual's adaptability and management skills but fails to provide specific examples or details that align with the key areas of expertise mentioned in the resume."
+    }
+}

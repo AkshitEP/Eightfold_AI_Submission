@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Treasury Management Liaison",
+                "work_description": "Act as liaison between customer and Treasury Management Sales Consultant. Prepare Treasury Management Work Orders using the Treasury Management Implementation Automation system (TMIA) and Technical Assistance Requests. Monitor and track implementation to avoid stalled or inactive implementations. Assist the Treasury Management Consultant with gathering additional details for the setup and maintenance of Treasury Management products, including but not limited to internal and external customer contact. Prepare and review Treasury Management agreements.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Assistant Operations Manager",
+                "work_description": "Oversee daily operations of the department of 15 staff members. Team leader for testing new software for startup of new department with regards to client implementation which resulted in a seamless transition to software upgrade. Escalated and resolved customers issues and complaints on operational matters Assisted the manager in recruiting diligent professionals dedicated to high values of service and performance.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2002",
+                "end_date": "06/2011"
+            },
+            {
+                "role_name": "Item Fraud Coordinator",
+                "work_description": "Supervise 10 staff members. Conduct transaction activity reviews and client relationships to determine financial risk to the organization. Review and research all items referred. Contact clients to determine validity of check/item presented if deemed suspect. Identify unusual transaction behavior patterns on clients' accounts.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2001",
+                "end_date": "06/2002"
+            },
+            {
+                "role_name": "Bank Teller",
+                "work_description": "Accept cash and checks for deposit and check accuracy of deposit slip. Process cash withdrawals. Perform specialized tasks such as preparing cashier's checks, personal money orders, issuing traveler's checks and exchanging foreign currency. Perform services for customers such as ordering bank cards and checks.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2000",
+                "end_date": "06/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "Montclair State University",
+                "start_date": "01/2000",
+                "end_date": "05/2000",
+                "domain": "Business",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Treasury Management",
+                "level": 4,
+                "explanation": "Has extensive experience in Treasury Management, including preparing work orders, tracking implementation, and assisting with setup and maintenance of Treasury Management products, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience in supervising staff members in various roles, including Treasury Management Liaison, Assistant Operations Manager, and Item Fraud Coordinator, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Operations Management",
+                "level": 4,
+                "explanation": "Has experience in overseeing daily operations of a department, including managing staff members, resolving customer issues, and assisting with recruiting, indicating strong proficiency in operations management."
+            },
+            {
+                "name": "Risk Management",
+                "level": 3,
+                "explanation": "Has experience in conducting transaction activity reviews and client relationships to determine financial risk to the organization, indicating solid working proficiency in risk management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience in providing customer service, including resolving customer issues and complaints, and performing services for customers, indicating solid working proficiency in customer service."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 3,
+                "explanation": "Has experience in reviewing and researching financial transactions, including identifying unusual transaction behavior patterns, indicating solid working proficiency in financial analysis."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Has experience in leading a team in testing new software for startup of a new department, indicating some practical experience in project management."
+            }
+        ]
+    }
+}

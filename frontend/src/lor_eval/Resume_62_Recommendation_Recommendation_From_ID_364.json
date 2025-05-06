@@ -1,0 +1,16 @@
+{
+    "resume_id": 62,
+    "recommendation_file": "Recommendation_From_ID_364.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and the recommendation does not directly reference the candidate's skills and experience in healthcare management, patient care, or other relevant areas.",
+        "verified_skills": [
+            "Aircraft Hydraulics Systems",
+            "Communication and Interpersonal Skills",
+            "Time Management and Organization"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and qualities in the aviation industry, but does not directly reference their experience in healthcare management or patient care. The recommender's relationship to the candidate is unclear, which may impact the credibility of the recommendation."
+    }
+}

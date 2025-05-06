@@ -1,0 +1,70 @@
+{
+    "target_id": "733",
+    "recommendations": [
+        {
+            "recommender_id": "172",
+            "recommendation": {
+                "resume_file": "733.json",
+                "recommendation_file": "Recommendation_From_ID_172.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'HR Assistant' which is not present in the resume. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "Human Resources Management",
+                        "Communication",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR functions and accomplishments. However, some minor inconsistencies and lack of specific details in certain areas prevent it from being a perfect match."
+                }
+            }
+        },
+        {
+            "recommender_id": "514",
+            "recommendation": {
+                "resume_file": "733.json",
+                "recommendation_file": "Recommendation_From_ID_514.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "Human Resources Management",
+                        "Leadership",
+                        "Communication",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment and employee relations expertise. The recommendation also highlights the candidate's ability to work in educational institutions and their dedication to integrity and excellence in human resources practices."
+                }
+            }
+        },
+        {
+            "recommender_id": "489",
+            "recommendation": {
+                "resume_file": "733.json",
+                "recommendation_file": "Recommendation_From_ID_489.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "Human Resources Management",
+                        "Leadership",
+                        "Communication",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and consulting expertise. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        }
+    ]
+}

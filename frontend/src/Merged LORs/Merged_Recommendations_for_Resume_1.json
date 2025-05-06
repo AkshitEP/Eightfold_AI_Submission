@@ -1,0 +1,85 @@
+{
+    "target_id": "1",
+    "recommendations": [
+        {
+            "recommender_id": "233",
+            "recommendation": {
+                "resume_id": 1,
+                "recommendation_file": "Recommendation_From_ID_233.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's work experience. However, the language is formal and the claims seem largely credible.",
+                    "verified_skills": [
+                        "Mortgage Banking",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in project coordination, time management, and communication, which are relevant to their experience as a Mortgage Banking Default Operations Specialist II. However, the recommendation could benefit from more specific examples from the candidate's work experience to increase its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "869",
+            "recommendation": {
+                "resume_id": 1,
+                "recommendation_file": "Recommendation_From_ID_869.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written for a different individual (Financial Aid Specialist) and does not directly reference the candidate's skills and experience. However, it does mention the Mortgage Banking Default Operations Specialist II role, which is present in the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not directly align with the candidate's skills and experience, but it does mention one of the candidate's roles. It seems to be written for a different individual, which raises concerns about its authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "412",
+            "recommendation": {
+                "resume_id": 1,
+                "recommendation_file": "Recommendation_From_ID_412.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Unclear source, exaggerated claims, and lack of concrete examples.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks substantial detail and alignment with the key areas of expertise in mortgage banking, customer service, and leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "289",
+            "recommendation": {
+                "resume_id": 1,
+                "recommendation_file": "Recommendation_From_ID_289.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mortgage Banking",
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, communication, and process improvement. The source of the recommendation appears to be a peer or colleague, possibly a Branch Banking Coordinator, who has worked with the candidate in a similar capacity."
+                }
+            }
+        }
+    ]
+}

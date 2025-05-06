@@ -1,0 +1,18 @@
+{
+    "resume_file": "124.json",
+    "recommendation_file": "Recommendation_From_ID_163.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not a direct supervisor or colleague, and the language is somewhat informal. However, the recommendation aligns well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Leadership",
+            "Curriculum Development",
+            "Teacher Training and Development",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional leadership capabilities, passion for education, and expertise in developing professional goals for teachers and pioneering curriculum initiatives. However, the source of the recommendation is unclear, and the language is somewhat informal."
+    }
+}

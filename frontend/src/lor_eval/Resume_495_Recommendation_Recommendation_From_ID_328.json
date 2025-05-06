@@ -1,0 +1,16 @@
+{
+    "resume_file": "495.json",
+    "recommendation_file": "Recommendation_From_ID_328.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be comparing the candidate to another individual, which is unusual. Additionally, the language used is overly flattering and lacks specific examples from the candidate's resume.",
+        "verified_skills": [
+            "Leadership",
+            "IT Management",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and IT management skills, but lacks specific examples from their resume. The comparison to another individual is also unusual and raises some concerns about the authenticity of the recommendation."
+    }
+}

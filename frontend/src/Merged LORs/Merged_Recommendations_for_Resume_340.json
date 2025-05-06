@@ -1,0 +1,66 @@
+{
+    "target_id": "340",
+    "recommendations": [
+        {
+            "recommender_id": "570",
+            "recommendation": {
+                "resume_file": "340.json",
+                "recommendation_file": "Recommendation_From_ID_570.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills, communication abilities, and problem-solving capabilities. The recommendation source appears to be a peer or colleague, given their similar experience in the customer service sector."
+                }
+            }
+        },
+        {
+            "recommender_id": "540",
+            "recommendation": {
+                "resume_file": "340.json",
+                "recommendation_file": "Recommendation_From_ID_540.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and supportive.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional communication and problem-solving abilities, which align with their skills and experience in customer-facing roles. The recommender's own experience as a Youth Advocate provides a unique perspective on the candidate's dedication to advocacy and support."
+                }
+            }
+        },
+        {
+            "recommender_id": "938",
+            "recommendation": {
+                "resume_file": "340.json",
+                "recommendation_file": "Recommendation_From_ID_938.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and problem-solving abilities. The recommender's background in quality assurance and operations management adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

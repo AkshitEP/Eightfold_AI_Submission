@@ -1,0 +1,16 @@
+{
+    "resume_file": "594.json",
+    "recommendation_file": "Recommendation_From_ID_388.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of a role not mentioned in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Problem-solving",
+            "Instructional design"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but there are some minor inconsistencies that raise concerns about the accuracy of the recommendation."
+    }
+}

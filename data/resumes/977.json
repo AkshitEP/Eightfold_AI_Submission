@@ -1,0 +1,160 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Prepared, amended and reviewed individual income tax returns. Assisted in individual tax planning and preparation of corporate income tax returns.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "02/2010"
+            },
+            {
+                "role_name": "Data Processing Manager/Programmer",
+                "work_description": "Responsible for enhancements to software written in COBOL and CL on an IBM System i (AS/400, iSeries, Power System). Assist management and other staff with information needs and questions.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1993",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Supervisor of Accounting",
+                "work_description": "Supervised the General Accounting system, including the preparation of timely and accurate financial reports and the maintenance of the general ledger, subsidiary ledgers and related records in accordance with GAAP and the REA system of accounting.",
+                "company_level": "Mid-level",
+                "start_date": "01/1991",
+                "end_date": "01/1992"
+            },
+            {
+                "role_name": "Programmer",
+                "work_description": "Modified existing software written in COBOL on the IBM System/36 to price products according to the client's specifications. Designed and programmed an Inventory system that interfaced with the existing invoicing system.",
+                "company_level": "Mid-level",
+                "start_date": "01/1991",
+                "end_date": "01/1991"
+            },
+            {
+                "role_name": "Programmer",
+                "work_description": "Responsible for program development and modifications in COBOL (5 years) and BASIC (5 years). Hardware included System/36, AS/400 (36 environment), PC's, 5120, System/23 and System/34.",
+                "company_level": "Mid-level",
+                "start_date": "01/1981",
+                "end_date": "01/1990"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Responsible for the preparation of month-end financial statements, quarterly Call Reports and internal reports. Balanced or monitored the balancing of all subsidiary ledgers to general ledger on a monthly basis.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1980",
+                "end_date": "01/1981"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Northern Iowa - Cedar Falls",
+                "start_date": "01/1980",
+                "end_date": "05/1980",
+                "domain": "Accounting Mathematics Computer Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Accounting",
+                "description": "Developed and modified software for various marketing/pricing programs. Converted software from S/36 environment to native (OCL to CL, 1985 COBOL standards).",
+                "skills": [
+                    "COBOL",
+                    "CL",
+                    "OCL",
+                    "Marketing",
+                    "Pricing"
+                ]
+            },
+            {
+                "domain": "Accounting",
+                "description": "Designed Payroll tax calculation program to accommodate tax withholding for majority of states. Instrumental in design of Order Entry application.",
+                "skills": [
+                    "COBOL",
+                    "BASIC",
+                    "Payroll",
+                    "Tax"
+                ]
+            },
+            {
+                "domain": "Accounting",
+                "description": "Developed Bank Reconciliation and Financial Statement consolidation applications.",
+                "skills": [
+                    "COBOL",
+                    "BASIC",
+                    "Bank Reconciliation",
+                    "Financial Statements"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Extensive experience in accounting roles, including preparation of financial statements, tax returns, and maintenance of general ledger, indicating expert-level mastery."
+            },
+            {
+                "name": "COBOL",
+                "level": 5,
+                "explanation": "Over 15 years of experience with COBOL programming, including development and modification of various software applications, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Responsible for preparation of timely and accurate financial reports, including month-end financial statements and quarterly Call Reports, suggesting strong proficiency."
+            },
+            {
+                "name": "Tax Planning",
+                "level": 3,
+                "explanation": "Assisted in individual tax planning and preparation of corporate income tax returns, showing a solid working proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Instrumental in design of Payroll tax calculation program, suggesting a solid level of proficiency in payroll management."
+            },
+            {
+                "name": "Bank Reconciliation",
+                "level": 3,
+                "explanation": "Developed Bank Reconciliation application, showing a solid working proficiency."
+            },
+            {
+                "name": "Financial Statement Consolidation",
+                "level": 3,
+                "explanation": "Developed Financial Statement consolidation application, suggesting a solid level of proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Supervised the General Accounting system, but limited information is available about leadership roles, indicating some practical experience."
+            },
+            {
+                "name": "CL",
+                "level": 2,
+                "explanation": "Used CL programming language, but limited information is available about its usage, indicating some practical experience."
+            },
+            {
+                "name": "BASIC",
+                "level": 2,
+                "explanation": "Used BASIC programming language, but limited information is available about its usage, indicating some practical experience."
+            },
+            {
+                "name": "OCL",
+                "level": 1,
+                "explanation": "Mentioned as a programming language used in a project, but limited information is available about its usage, indicating basic familiarity."
+            },
+            {
+                "name": "Marketing",
+                "level": 1,
+                "explanation": "Mentioned as a domain in a project, but limited information is available about its usage, indicating basic familiarity."
+            },
+            {
+                "name": "Pricing",
+                "level": 1,
+                "explanation": "Mentioned as a domain in a project, but limited information is available about its usage, indicating basic familiarity."
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "5.json",
+    "recommendation_file": "Recommendation_From_ID_338.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation seems to focus more on sales and customer service skills, which are not the primary focus of the candidate's resume.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and customer service skills, but it seems to be more focused on sales and customer service experience, which is not the primary focus of the candidate's resume. The recommendation also mentions the candidate's experience in managing sales teams and meeting sales objectives, which is not directly mentioned in the resume."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_id": 63,
+    "recommendation_file": "Recommendation_From_ID_921.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be written for a different candidate, with the first paragraph mentioning a Project Manager and software development experience, which is not present in the resume. The second paragraph seems to be more relevant, but the language is overly formal and lacks specific examples from the resume.",
+        "verified_skills": [
+            "Medication Management",
+            "Inventory Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a mix of two different candidates, with the first paragraph being completely unrelated to the resume. The second paragraph is more relevant, but the language is overly formal and lacks specific examples from the resume. The recommendation does not provide a clear picture of the candidate's skills and experience."
+    }
+}

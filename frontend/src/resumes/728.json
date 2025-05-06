@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology",
+                "work_description": "Managed accreditation efforts for a major department modernization project involving 3 accreditation packages each leading to successful Authorization To Operate decisions. Responsibilities then increased to include all departmental accreditation efforts leading to another 3 successful ATOs. Now, working on 4 new accreditation including re-authorization for an existing project. Succeeded in writing and implementing vulnerability management for existing accredited systems.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Systems Engineer",
+                "work_description": "Initiated processing strategies in fulfilling department analyst requirements. Requirements were fulfilled thru identifying product problems and strengths and collected data on customer experience and review of Enterprise compliance to transition to new technology for supporting new processing needs thru proper processing power.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2006",
+                "end_date": "02/2011"
+            },
+            {
+                "role_name": "Senior Systems Analyst",
+                "work_description": "Improved corporate and client communications and processing requirements which resulted in the design, build and deployment of 3 Enterprise network solutions. One solution resulted in expanding capabilities to supporting Washington Navy Yard, Norfolk Virginia and Hawaii support facilities.",
+                "company_level": "Large Corporation",
+                "start_date": "02/1999",
+                "end_date": "02/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Florence Darlington Technical School",
+                "start_date": "01/1980",
+                "end_date": "12/1980",
+                "domain": "Electronic Engineering",
+                "level": "Associate of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accreditation Management",
+                "level": 5,
+                "explanation": "Successfully led multiple accreditation efforts, resulting in several Authorization To Operate decisions, indicating expert-level mastery."
+            },
+            {
+                "name": "Vulnerability Management",
+                "level": 4,
+                "explanation": "Wrote and implemented vulnerability management for existing accredited systems, showing strong proficiency."
+            },
+            {
+                "name": "Systems Engineering",
+                "level": 4,
+                "explanation": "Initiated processing strategies and fulfilled department analyst requirements, indicating strong proficiency in systems engineering."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed multiple projects, including department modernization and Enterprise network solutions, showing strong proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Led accreditation efforts and improved corporate and client communications, indicating strong leadership skills."
+            },
+            {
+                "name": "Network Design",
+                "level": 4,
+                "explanation": "Designed, built, and deployed Enterprise network solutions, showing strong proficiency in network design."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Improved corporate and client communications, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Identified product problems and strengths, and collected data on customer experience, showing a solid working proficiency in problem-solving."
+            }
+        ]
+    }
+}

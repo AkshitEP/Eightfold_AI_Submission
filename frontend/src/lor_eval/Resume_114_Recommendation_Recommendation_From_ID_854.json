@@ -1,0 +1,18 @@
+{
+    "resume_file": "114.json",
+    "recommendation_file": "Recommendation_From_ID_854.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "IT Management",
+            "Project Management",
+            "Vendor Management",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership capabilities, strategic thinking, and technology expertise. The recommender's role as Vice President of Information Technology adds credibility to the recommendation."
+    }
+}

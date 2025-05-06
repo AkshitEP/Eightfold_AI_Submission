@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Marketing Automation Consultant",
+                "work_description": "Focused on delivering Best Practices, Product Education and Configuration to marketing and sales organizations to ensure that their investment in marketing technology is maximized. Provide advisory and support to a variety of organizations including PwC, Vision Service Plan, TD Ameritrade, Tyco, and Parker Hannifin.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Marketing Automation Manager",
+                "work_description": "Contributed to the growth and development of Integrated Marketing programs and initiatives as sole Power User for the Eloqua platform. Led the planning, design and execution of marketing automation programs and projects for continuous improvement while driving sales and marketing effectiveness throughout the funnel.",
+                "company_level": "Mid-level",
+                "start_date": "10/2011",
+                "end_date": "09/2014"
+            },
+            {
+                "role_name": "Marketing Programs and Events Intern",
+                "work_description": "Responsible for setting the direction and overseeing successful execution of Marketing strategy, member programs and events.",
+                "company_level": "Startup",
+                "start_date": "05/2006",
+                "end_date": "10/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Oracle Marketing Cloud Academy",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Marketing",
+                "level": "Certification"
+            },
+            {
+                "university": "Eloqua University",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Marketing Automation",
+                "level": "Certification"
+            },
+            {
+                "university": "San Francisco State University",
+                "start_date": "01/2006",
+                "end_date": "12/2011",
+                "domain": "Communication Studies",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Marketing",
+            "Automation",
+            "Technology",
+            "Shaolin Kung Fu"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Marketing Automation",
+                "level": 5,
+                "explanation": "Has extensive experience in marketing automation, having worked as a Senior Marketing Automation Consultant and Marketing Automation Manager, and holding certifications from Oracle Marketing Cloud Academy and Eloqua University, indicating expert-level mastery."
+            },
+            {
+                "name": "Marketing Strategy",
+                "level": 4,
+                "explanation": "Has experience in setting the direction and overseeing successful execution of marketing strategy, and has contributed to the growth and development of Integrated Marketing programs, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has led the planning, design, and execution of marketing automation programs and projects, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience in leading and advising various organizations, including PwC, Vision Service Plan, TD Ameritrade, Tyco, and Parker Hannifin, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has a degree in Communication Studies and has worked in marketing and events, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Eloqua",
+                "level": 5,
+                "explanation": "Has experience as a sole Power User for the Eloqua platform and has completed certification from Eloqua University, indicating expert-level mastery."
+            },
+            {
+                "name": "Marketing Technology",
+                "level": 4,
+                "explanation": "Has experience in delivering Best Practices, Product Education, and Configuration to marketing and sales organizations to maximize their investment in marketing technology, suggesting strong proficiency."
+            },
+            {
+                "name": "Sales Effectiveness",
+                "level": 3,
+                "explanation": "Has experience in driving sales and marketing effectiveness throughout the funnel, showing a solid working proficiency."
+            }
+        ]
+    }
+}

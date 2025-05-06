@@ -1,0 +1,113 @@
+{
+    "target_id": "800",
+    "recommendations": [
+        {
+            "recommender_id": "794",
+            "recommendation": {
+                "resume_file": "800.json",
+                "recommendation_file": "Recommendation_From_ID_794.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and lacks direct experience working with the candidate in a QA role.",
+                    "verified_skills": [
+                        "Software Quality Assurance",
+                        "Test Case Development",
+                        "Functional Testing",
+                        "Regression Testing",
+                        "GUI Testing",
+                        "Security Testing (PCI Compliance)",
+                        "Business Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in software quality assurance, test case development, and testing, which aligns well with their experience and skills listed in the resume. However, the recommender's background as a Financial Institutions Examiner and lack of direct experience working with the candidate in a QA role raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "517",
+            "recommendation": {
+                "resume_file": "800.json",
+                "recommendation_file": "Recommendation_From_ID_517.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Financial Analyst Intern may not be directly related to the candidate's QA experience. However, the recommendation provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Software Quality Assurance",
+                        "Test Case Development",
+                        "Functional Testing",
+                        "Regression Testing",
+                        "Business Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their testing methods and attention to detail. However, the recommender's role may not be directly related to the candidate's QA experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "712",
+            "recommendation": {
+                "resume_file": "800.json",
+                "recommendation_file": "Recommendation_From_ID_712.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Software Quality Assurance",
+                        "Test Case Development",
+                        "Functional Testing",
+                        "Regression Testing",
+                        "GUI Testing",
+                        "Security Testing (PCI Compliance)",
+                        "Business Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their testing methods and collaboration with stakeholders. However, the recommender's relationship to the candidate is unclear, and some claims seem slightly exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "959",
+            "recommendation": {
+                "resume_file": "800.json",
+                "recommendation_file": "Recommendation_From_ID_959.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Software Quality Assurance",
+                        "Test Case Development",
+                        "Functional Testing",
+                        "Regression Testing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their testing abilities and quality assurance expertise. However, the recommender's relationship to the candidate is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "851",
+            "recommendation": {
+                "resume_file": "800.json",
+                "recommendation_file": "Recommendation_From_ID_851.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. Additionally, the recommender's background in Marketing & Sales seems unrelated to the candidate's QA experience.",
+                    "verified_skills": [
+                        "Software Quality Assurance",
+                        "Test Case Development",
+                        "Functional Testing",
+                        "Regression Testing",
+                        "Business Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills and experience in software quality assurance, but the recommender's background and relationship with the candidate are unclear. The recommendation also mentions the candidate's exceptional communication skills and commitment to improving product quality and operational efficiency."
+                }
+            }
+        }
+    ]
+}

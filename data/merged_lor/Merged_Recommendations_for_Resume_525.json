@@ -1,0 +1,73 @@
+{
+    "target_id": "525",
+    "recommendations": [
+        {
+            "recommender_id": "973",
+            "recommendation": {
+                "resume_file": "525.json",
+                "recommendation_file": "Recommendation_From_ID_973.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Immigration Law",
+                        "Regulatory Compliance",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Data Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in visa-related employment processes, regulatory compliance, and leadership. The source of the recommendation is a peer, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "548",
+            "recommendation": {
+                "resume_file": "525.json",
+                "recommendation_file": "Recommendation_From_ID_548.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's role as a Teacher Assistant seems unrelated to the candidate's HR experience.",
+                    "verified_skills": [
+                        "Immigration Law",
+                        "Regulatory Compliance",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Data Management",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in HR, but the recommender's role and relationship with the candidate are unclear. The recommendation highlights the candidate's expertise in immigration law, regulatory compliance, and project management, as well as their leadership and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "373",
+            "recommendation": {
+                "resume_file": "525.json",
+                "recommendation_file": "Recommendation_From_ID_373.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Immigration Law",
+                        "Regulatory Compliance",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments in HR and immigration law. The source of the recommendation is a Clinical Research Coordinator Mentor, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

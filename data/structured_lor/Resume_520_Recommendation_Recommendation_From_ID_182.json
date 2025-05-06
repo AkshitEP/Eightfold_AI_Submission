@@ -1,0 +1,21 @@
+{
+    "resume_file": "520.json",
+    "recommendation_file": "Recommendation_From_ID_182.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Software Development",
+            "Project Management",
+            "Leadership",
+            "Troubleshooting",
+            "Communication",
+            "IT Management",
+            "Problem-Solving",
+            "Customer Support"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership abilities, and commitment to customer satisfaction and team morale."
+    }
+}

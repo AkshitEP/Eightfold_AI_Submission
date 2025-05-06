@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Employee Relations Specialist",
+                "work_description": "Conducted Investigations and resolutions of workplace issues/inquiries from field employees and management. Served as a partner for managers and employees by ensuring application of company policies and procedures. Created and conducted training for hourly and salaried employees. Support performance management process for all employees. Partnered with Equifax and Unemployment Cost Control to research and respond to unemployment claims.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Store Operations Associate",
+                "work_description": "Monitored inventory control, processed physical counts of all merchandise, organized and secured all inventory (including cellular devices and accessories), and responsible for shipping and receiving of inventory. Investigated and resolved any inventory discrepancies. Merchandising, assist with floor sets, create service desk tickets for defective equipment. Processed customer trade-in's and returns (cellular devices and accessories). Provided general customer service and process account payments to assist account holders.",
+                "company_level": "Mid-level",
+                "start_date": "02/2014",
+                "end_date": "02/2015"
+            },
+            {
+                "role_name": "Clerical/Staff Associate IV",
+                "work_description": "Verified and updated business caption listings in (database) Common Suite System using setup forms received from the Directory Marketing Unit group. Review each Directory Listing Report in detail to confirm the accuracy of the data. Correct discrepancies between written order requests and database system. Interpret, verify, analyze and input listings from advertising orders. Input payroll, provided payroll administrative support for employees. Execute directory specific reports to prepare the white pages business section for final printing and shipping to external customers. Conducted training sessions for all new hires on writing service orders via NetMeeting (web-based) and classroom setting. Created learning materials including policy & procedure manuals utilized company wide.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2001",
+                "end_date": "01/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Eastern Michigan University",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Network Information & Technology Administration",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Davenport University",
+                "start_date": "01/Unknown",
+                "end_date": "Current",
+                "domain": "Management",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Volunteer Associations",
+            "Community Network",
+            "Metro Detroit Visitors Bureau"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Conducted investigations and resolutions of workplace issues, served as a partner for managers and employees, and supported performance management process, indicating strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Created and conducted training for hourly and salaried employees, and conducted training sessions for new hires, showing a solid working proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 2,
+                "explanation": "Monitored inventory control, processed physical counts, and investigated and resolved inventory discrepancies, indicating some practical experience."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Provided general customer service, processed account payments, and handled customer trade-ins and returns, indicating some practical experience."
+            },
+            {
+                "name": "Payroll Administration",
+                "level": 2,
+                "explanation": "Provided payroll administrative support for employees, indicating some practical experience."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Verified and updated business caption listings, reviewed directory listing reports, and corrected discrepancies, indicating some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Partnered with managers and employees, and conducted training sessions, indicating a solid working proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Created learning materials, conducted training sessions, and provided customer service, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Executed directory-specific reports and prepared the white pages business section for final printing and shipping, indicating some practical experience."
+            },
+            {
+                "name": "Time Management",
+                "level": 2,
+                "explanation": "Managed multiple tasks, including inventory control, customer service, and payroll administration, indicating some practical experience."
+            }
+        ]
+    }
+}

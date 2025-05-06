@@ -1,0 +1,71 @@
+{
+    "target_id": "81",
+    "recommendations": [
+        {
+            "recommender_id": "402",
+            "recommendation": {
+                "resume_id": 81,
+                "recommendation_file": "Recommendation_From_ID_402.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's claim to have worked with the candidate as a Maintenance Mechanic is not supported by the resume. Additionally, the recommender's tone is overly positive, which may indicate some exaggeration.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "IT Infrastructure Management",
+                        "Customer Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies. The recommender provides specific examples of the candidate's skills and experiences, which suggests that it is not entirely fraudulent."
+                }
+            }
+        },
+        {
+            "recommender_id": "201",
+            "recommendation": {
+                "resume_id": 81,
+                "recommendation_file": "Recommendation_From_ID_201.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Java Development",
+                        "System Administration",
+                        "Business Analysis",
+                        "Network Administration",
+                        "IT Infrastructure Management",
+                        "Customer Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership skills, technical expertise, and ability to deliver impactful solutions. The source of the recommendation is a peer, an Aviation Safety Assistant, who has worked closely with the candidate and can attest to their professional integrity and passion for excellence."
+                }
+            }
+        },
+        {
+            "recommender_id": "919",
+            "recommendation": {
+                "resume_id": 81,
+                "recommendation_file": "Recommendation_From_ID_919.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Java Development",
+                        "System Administration",
+                        "IT Infrastructure Management",
+                        "Customer Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and technical expertise. The source of the recommendation is a peer, a Supply Chain Manager, who has worked closely with the candidate."
+                }
+            }
+        }
+    ]
+}

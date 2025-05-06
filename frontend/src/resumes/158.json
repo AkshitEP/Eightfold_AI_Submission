@@ -1,0 +1,65 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Service Advocate II",
+                "work_description": "Provided accurate, prompt and courteous responses to all inquiries by members internal and external, agents and providers in a call center setting. Handled inquires that required extensive research, coordination with other departments and accurately documented information.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2014",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Customer Service Representatives",
+                "work_description": "Responsible for entering all payments for the office every day. Answered an average of 200 call per day by addressing customer inquiries, solving problems and providing information about their utility service.",
+                "company_level": "Mid-level",
+                "start_date": "11/1998",
+                "end_date": "09/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Coastal Carolina University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience handling customer inquiries, solving problems and providing information in a call center setting, showing strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Provided accurate, prompt and courteous responses to all inquiries by members internal and external, agents and providers, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Problem Solving",
+                "level": 3,
+                "explanation": "Handled inquires that required extensive research and coordination with other departments, showing a solid working proficiency in problem solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Answered an average of 200 calls per day, indicating a solid level of proficiency in time management."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Responsible for entering all payments for the office every day, showing a solid working proficiency in data entry."
+            },
+            {
+                "name": "Research",
+                "level": 2,
+                "explanation": "Handled inquires that required extensive research, indicating some practical experience in research."
+            }
+        ]
+    }
+}

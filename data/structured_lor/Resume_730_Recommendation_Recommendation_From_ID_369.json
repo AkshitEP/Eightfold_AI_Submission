@@ -1,0 +1,18 @@
+{
+    "resume_file": "730.json",
+    "recommendation_file": "Recommendation_From_ID_369.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Change Management",
+            "Training and Development",
+            "IT Infrastructure Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and IT infrastructure management abilities. The source of the recommendation is a former Director of Information Technology, indicating a direct supervisory relationship."
+    }
+}

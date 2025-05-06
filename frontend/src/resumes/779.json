@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Lead Pharmacy Technician Advocate - Supervisor",
+                "work_description": "Assist pharmacist in provision of pharmaceutical care by reviewing, collecting, and entering data used by pharmacists. Directly supervise the pharmacy technicians to keep a constant flow. Accountable for managing the day to day activities of the technician staff, scheduling technicians, and providing staff development.",
+                "company_level": "Mid-level",
+                "start_date": "06/2005",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Restaurant Manager",
+                "work_description": "Ensured that the restaurant operated efficiently and profitably while maintaining its reputation and ethos. Coordinated a variety of activities while handling the business performance to maintain high standards of food, service, and health and safety requirements.",
+                "company_level": "Mid-level",
+                "start_date": "08/2002",
+                "end_date": "04/2005"
+            },
+            {
+                "role_name": "Clinic Clerk",
+                "work_description": "Promptly schedule or check in and check out patients for appointments or make specialty and referral appointments. Maintain all medical records up to date and send to other medical facilities upon request.",
+                "company_level": "Mid-level",
+                "start_date": "12/2000",
+                "end_date": "08/2002"
+            }
+        ],
+        "education": [
+            {
+                "university": "Bellevue University",
+                "start_date": "01/2015",
+                "end_date": "03/2015",
+                "domain": "Behavior Science",
+                "level": "Bachelors"
+            },
+            {
+                "university": "Metro Community College",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "General Studies",
+                "level": "General Studies"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has over 15 years of experience in supervisory and management roles, including directly supervising pharmacy technicians and managing restaurant operations, indicating expert-level mastery."
+            },
+            {
+                "name": "Staff Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing staff, including scheduling, staff development, and performance management, indicating expert-level mastery."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has demonstrated ability to manage multiple tasks and responsibilities in fast-paced environments, such as pharmacies and restaurants, suggesting strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in coordinating with pharmacists, patients, and staff, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Has experience in entering data used by pharmacists, showing a solid working proficiency in data entry."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience in ensuring high standards of food, service, and health and safety requirements in a restaurant setting, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Medical Records Management",
+                "level": 2,
+                "explanation": "Has experience in maintaining medical records, but the extent of this experience is limited, suggesting some practical experience."
+            },
+            {
+                "name": "Scheduling",
+                "level": 2,
+                "explanation": "Has experience in scheduling appointments and staff, but the extent of this experience is limited, suggesting some practical experience."
+            }
+        ]
+    }
+}

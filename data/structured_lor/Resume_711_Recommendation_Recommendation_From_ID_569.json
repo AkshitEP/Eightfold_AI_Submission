@@ -1,0 +1,15 @@
+{
+    "resume_file": "711.json",
+    "recommendation_file": "Recommendation_From_ID_569.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written for two different individuals, and some claims seem exaggerated or unsupported. However, the language is formal, and no statistically improbable claims are detected.",
+        "verified_skills": [
+            "Leadership",
+            "Aircraft Maintenance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation partially aligns with the candidate's skills and experience, but it seems to be written for two different individuals. The recommendation highlights the candidate's leadership skills and experience in aircraft maintenance, but it lacks specific examples and details."
+    }
+}

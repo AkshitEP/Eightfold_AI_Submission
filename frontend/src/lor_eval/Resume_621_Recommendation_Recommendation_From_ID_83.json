@@ -1,0 +1,12 @@
+{
+    "resume_file": "621.json",
+    "recommendation_file": "Recommendation_From_ID_83.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent due to its exaggerated tone, unrelated examples, and lack of specific evidence to support the claims.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide any specific examples or evidence to support the claims, and it seems to be written in an overly flattering tone."
+    }
+}

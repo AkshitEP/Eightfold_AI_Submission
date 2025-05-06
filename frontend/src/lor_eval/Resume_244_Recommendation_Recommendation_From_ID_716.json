@@ -1,0 +1,22 @@
+{
+    "resume_file": "244.json",
+    "recommendation_file": "Recommendation_From_ID_716.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in healthcare operations does not directly align with the candidate's experience in training and development. However, the recommendation highlights the candidate's transferable skills and adaptability.",
+        "verified_skills": [
+            "Training and Development",
+            "Leadership and Management",
+            "Project Management",
+            "Communication and Presentation",
+            "Problem-Solving and Analysis",
+            "Time Management and Organization",
+            "Coaching and Mentoring",
+            "Teamwork and Collaboration",
+            "Adaptability and Flexibility"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training expertise and leadership abilities. However, the recommender's background in healthcare operations does not directly align with the candidate's experience, which may raise some concerns about the recommender's familiarity with the candidate's work."
+    }
+}

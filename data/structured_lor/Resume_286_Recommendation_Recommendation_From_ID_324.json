@@ -1,0 +1,21 @@
+{
+    "resume_file": "286.json",
+    "recommendation_file": "Recommendation_From_ID_324.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Statement Preparation",
+            "Payroll Management",
+            "Budgeting",
+            "Financial Analysis",
+            "Leadership",
+            "Bookkeeping",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their expertise in finance, leadership, and financial analysis. The recommendation highlights the candidate's strengths in financial planning, analysis, and management, showcasing their comprehensive understanding of the finance domain."
+    }
+}

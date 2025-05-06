@@ -1,0 +1,16 @@
+{
+    "resume_file": "704.json",
+    "recommendation_file": "Recommendation_From_ID_973.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "IT Management",
+            "Leadership",
+            "IT Security and Risk Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, IT management, and cybersecurity initiatives. The source of the recommendation is a Staff Assistant who worked closely with the Director of Information Technology, providing a credible perspective on the candidate's abilities."
+    }
+}

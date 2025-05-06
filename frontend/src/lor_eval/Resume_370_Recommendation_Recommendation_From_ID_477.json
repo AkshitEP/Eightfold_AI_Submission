@@ -1,0 +1,20 @@
+{
+    "resume_file": "370.json",
+    "recommendation_file": "Recommendation_From_ID_477.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. The language is formal, but the recommender's experience and qualifications are not directly related to the candidate's field.",
+        "verified_skills": [
+            "Leadership",
+            "Strategic Planning",
+            "Budgeting",
+            "Financial Management",
+            "Project Management",
+            "Grant Writing",
+            "Program Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership, strategic planning, and financial management skills, which are relevant to their experience as an Executive Director. However, the recommender's role and relationship to the candidate are unclear, and their experience is in a different field."
+    }
+}

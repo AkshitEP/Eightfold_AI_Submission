@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Financial Consultant",
+                "work_description": "Key point of contact and FP&A responsibility for seven diverse and rapidly growing lines of business within Corporate Banking. Full balance sheet and P&L forecasting responsibilities on both balanced balance sheet and MMCOF levels. Business-level and roll-up analysis around customer-level and industry drivers, roll-on/roll-off analysis, an extensive cross-sell portfolio, and loan/deposit pricing.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Financial Consultant",
+                "work_description": "Responsible for full balance sheet & income statement analysis/forecasting/management reporting for Private Banking line of business consisting of a $43 billion deposit and $34 billion loan portfolio.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2008",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Financial Consultant",
+                "work_description": "Supervised nine staff with constantly changing project goals and deadlines. Responsible for quarterly financial statement and variance analysis for $13 billion commercial real estate portfolio.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Financial Planning Analyst",
+                "work_description": "Supported Certified Financial Planner & clients to establish individualized financial plans for retirement, investment, insurance, long-term care, and small business needs.",
+                "company_level": "Mid-level",
+                "start_date": "01/2004",
+                "end_date": "01/2006"
+            },
+            {
+                "role_name": "Intern",
+                "work_description": "Researched potential lease sites and comparables for corporate clients. Assisted in broker presentations and maintained client relations.",
+                "company_level": "Mid-level",
+                "start_date": "01/2000",
+                "end_date": "01/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "St. Mary's College of California",
+                "start_date": "01/2010",
+                "end_date": "12/2012",
+                "domain": "Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "University of California",
+                "start_date": "01/2000",
+                "end_date": "12/2004",
+                "domain": "Management Science",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of California",
+                "start_date": "01/2000",
+                "end_date": "12/2004",
+                "domain": "General Biology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Planning",
+                "level": 5,
+                "explanation": "Has extensive experience in financial planning and analysis across multiple roles, including responsibility for full balance sheet and P&L forecasting, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has consistently demonstrated strong analytical skills in financial statement analysis, variance analysis, and forecasting, showing expert-level proficiency."
+            },
+            {
+                "name": "Forecasting",
+                "level": 4,
+                "explanation": "Has experience with balance sheet and P&L forecasting, as well as roll-up analysis and cross-sell portfolio analysis, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has supervised staff and managed project goals and deadlines, showing strong leadership skills."
+            },
+            {
+                "name": "Financial Modeling",
+                "level": 4,
+                "explanation": "Has likely used financial modeling techniques in forecasting and analysis, suggesting strong proficiency."
+            },
+            {
+                "name": "Business Development",
+                "level": 3,
+                "explanation": "Has experience with business-level analysis and roll-on/roll-off analysis, indicating a solid working proficiency in business development."
+            },
+            {
+                "name": "Client Relationship Management",
+                "level": 3,
+                "explanation": "Has experience with client relations and presentations, showing a solid working proficiency in client relationship management."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for financial modeling, forecasting, and analysis, suggesting strong proficiency."
+            }
+        ]
+    }
+}

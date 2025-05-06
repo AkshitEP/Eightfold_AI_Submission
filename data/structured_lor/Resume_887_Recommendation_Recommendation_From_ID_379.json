@@ -1,0 +1,20 @@
+{
+    "resume_file": "887.json",
+    "recommendation_file": "Recommendation_From_ID_379.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Compliance",
+            "Financial Record-Keeping",
+            "Accounting Software",
+            "Leadership",
+            "Project Management",
+            "Microsoft Excel",
+            "Quality Control"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, financial record-keeping, and compliance expertise. The recommendation highlights the candidate's attention to detail, organizational skills, and ability to train colleagues, which are all relevant to their skills and experience."
+    }
+}

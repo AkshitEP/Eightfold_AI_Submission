@@ -1,0 +1,20 @@
+{
+    "resume_file": "189.json",
+    "recommendation_file": "Recommendation_From_ID_333.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions two individuals, but the resume only belongs to one person.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Accounts Payable",
+            "Financial Operations",
+            "Tax Calculations",
+            "Cash Flow Management",
+            "Leadership",
+            "Financial Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and accounting expertise. However, the mention of two individuals and some exaggerated claims reduce the relevance score and increase the fraud chance level."
+    }
+}

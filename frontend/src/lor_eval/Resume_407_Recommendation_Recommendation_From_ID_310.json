@@ -1,0 +1,18 @@
+{
+    "resume_file": "407.json",
+    "recommendation_file": "Recommendation_From_ID_310.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of 'accounting principles' and 'accountant' seems out of place given the candidate's background in aviation and military operations.",
+        "verified_skills": [
+            "Leadership",
+            "Budgeting",
+            "Financial Management",
+            "Communication",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and strategic operations skills, but also mentions accounting principles and an accountant, which seems unrelated to the candidate's background. The recommendation is generally positive, but some claims seem exaggerated or unsupported."
+    }
+}

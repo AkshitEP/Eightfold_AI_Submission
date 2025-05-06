@@ -1,0 +1,16 @@
+{
+    "resume_file": "609.json",
+    "recommendation_file": "Recommendation_From_ID_414.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be for two different individuals, with the first part describing a Certified Nurse Assistant and the second part describing the I.T. Support Technician. This inconsistency raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Problem Solving",
+            "Communication",
+            "Technical Support"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is partially relevant to the candidate's skills and experience, but it seems to be a mix of two different recommendations. The second part of the recommendation aligns with the candidate's experience as an I.T. Support Technician, but the first part is unrelated."
+    }
+}

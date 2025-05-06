@@ -1,0 +1,79 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Assistant Manager",
+                "work_description": "Maintains and expands customer base by counseling district sales representatives; building and maintaining rapport with key customers; identifying new customer opportunities. Recommends product lines by identifying new product opportunities, and/or product, packaging, and service changes; surveying consumer needs and trends; tracking competitors.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Personal Banking Representative",
+                "work_description": "Daily bank deposit, weekly inventory, monthly meeting. Accomplishes sales and organization mission by completing related results as needed.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Store Manager",
+                "work_description": "Accomplishes regional sales human resource objectives by recruiting, selecting, orienting, training, assigning, scheduling, coaching, counseling, and disciplining employees in assigned districts; communicating job expectations; planning, monitoring, appraising, and reviewing job contributions; planning and reviewing compensation actions; enforcing policies and procedures.",
+                "company_level": "Mid-level",
+                "start_date": "09/2007",
+                "end_date": "06/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "KINGSBOROUGH COLLEGE",
+                "start_date": "01/1994",
+                "end_date": "12/1994",
+                "domain": "LIBERAL ART",
+                "level": "ASSOCIATE"
+            },
+            {
+                "university": "LAFAYETTE HS",
+                "start_date": "01/1990",
+                "end_date": "12/1990",
+                "domain": "LIBERAL ART",
+                "level": "DIPLOMA"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Has extensive experience in sales, including counseling district sales representatives, identifying new customer opportunities, and tracking competitors, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience in managing teams, including recruiting, selecting, orienting, training, and disciplining employees, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has experience in building and maintaining rapport with key customers, identifying new customer opportunities, and surveying consumer needs and trends, showing strong proficiency in customer service."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in managing daily, weekly, and monthly tasks, including bank deposits, inventory, and meetings, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in communicating job expectations, planning, and reviewing job contributions, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Human Resources",
+                "level": 3,
+                "explanation": "Has experience in recruiting, selecting, orienting, training, and disciplining employees, indicating a solid working proficiency in human resources."
+            }
+        ]
+    }
+}

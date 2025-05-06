@@ -1,0 +1,53 @@
+{
+    "target_id": "376",
+    "recommendations": [
+        {
+            "recommender_id": "142",
+            "recommendation": {
+                "resume_file": "376.json",
+                "recommendation_file": "Recommendation_From_ID_142.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Recruitment and Selection",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Training and Development",
+                        "Project Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, employee onboarding, policy development, and compliance management. The recommendation is from a peer in the HR field, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "935",
+            "recommendation": {
+                "resume_file": "376.json",
+                "recommendation_file": "Recommendation_From_ID_935.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Recruitment and Selection",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Training and Development",
+                        "Project Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, employee relations, and leadership abilities."
+                }
+            }
+        }
+    ]
+}

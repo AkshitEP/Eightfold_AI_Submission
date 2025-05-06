@@ -1,0 +1,19 @@
+{
+    "resume_file": "387.json",
+    "recommendation_file": "Recommendation_From_ID_256.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Financial Analysis",
+            "Financial Reporting",
+            "Accounting Standards",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership qualities. The source of the recommendation is a Financial Accountant who has worked closely with the candidate, lending credibility to the endorsement."
+    }
+}

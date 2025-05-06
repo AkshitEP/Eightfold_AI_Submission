@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Language Arts Teacher",
+                "work_description": "Taught Language Arts daily to sixth grade students. Performed interventions for Benchmark and SAT10 standardized tests to help children become proficient in Language Arts. Assessed students reading and comprehensive skills through group discussion, testing, and oral and writing responses.",
+                "company_level": "Mid-level",
+                "start_date": "08/2007",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Co-Advisor Team Leader",
+                "work_description": "Tutored Sixth & Seventh grade students that tested basic or below basic in Language Arts. Worked with students from varied ethnic, racial, and religious backgrounds. Maintained accountability of students safety and whereabouts during hours of operations.",
+                "company_level": "Mid-level",
+                "start_date": "08/1995",
+                "end_date": "05/2007"
+            },
+            {
+                "role_name": "Elementary Teacher",
+                "work_description": "Taught Mathematics, Language, Spelling, Reading, Social Studies, Arkansas History, Health, and Science. Tutored fifth grade students that tested basic or below basic in Math and Language Arts. Worked with students from varied ethnic, racial, and religious backgrounds.",
+                "company_level": "Mid-level",
+                "start_date": "08/1988",
+                "end_date": "05/1995"
+            },
+            {
+                "role_name": "Teacher of four year old children",
+                "work_description": "Introduced children to mathematics, language, science, and social studies. Used games, music, artwork, films, books, computers, and other tools to teach basic skills.",
+                "company_level": "Mid-level",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Arkansas at Pine Bluff",
+                "start_date": "Unknown",
+                "end_date": "05/2005",
+                "domain": "Elementary Education",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Arkansas at Pine Bluff",
+                "start_date": "Unknown",
+                "end_date": "05/1995",
+                "domain": "Elementary Education",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Teaching",
+                "level": 5,
+                "explanation": "Over 30 years of experience in teaching various subjects to students of different age groups and backgrounds, indicating expert-level mastery."
+            },
+            {
+                "name": "Language Arts",
+                "level": 5,
+                "explanation": "Extensive experience in teaching Language Arts to students of different age groups, including interventions for standardized tests, indicating expert-level mastery."
+            },
+            {
+                "name": "Curriculum Development",
+                "level": 4,
+                "explanation": "Developed and implemented curricula for various subjects, including Language Arts, Mathematics, and Science, showing strong proficiency."
+            },
+            {
+                "name": "Classroom Management",
+                "level": 4,
+                "explanation": "Managed classrooms of students from varied ethnic, racial, and religious backgrounds, maintaining accountability for students' safety and whereabouts, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led as a Co-Advisor Team Leader, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with students, parents, and colleagues from diverse backgrounds, indicating strong proficiency."
+            },
+            {
+                "name": "Assessment and Evaluation",
+                "level": 4,
+                "explanation": "Assessed students' reading and comprehensive skills through various methods, including group discussions, testing, and oral and writing responses, showing strong proficiency."
+            },
+            {
+                "name": "Diversity and Inclusion",
+                "level": 4,
+                "explanation": "Worked with students from varied ethnic, racial, and religious backgrounds, promoting diversity and inclusion in the classroom, indicating strong proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "17.json",
+    "recommendation_file": "Recommendation_From_ID_614.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "Overly flattering language, statistically improbable claims, and unclear connection to the candidate's experience.",
+        "verified_skills": [
+            "Budgeting",
+            "Auditing",
+            "Financial Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems highly suspicious and potentially fraudulent, with exaggerated language and improbable claims."
+    }
+}

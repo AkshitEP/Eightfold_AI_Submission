@@ -1,0 +1,21 @@
+{
+    "resume_id": 58,
+    "recommendation_file": "Recommendation_From_ID_661.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "HR Management",
+            "Employee Relations",
+            "Recruitment and Hiring",
+            "Benefits Administration",
+            "Compliance and Risk Management",
+            "Leadership and Management",
+            "Communication and Interpersonal Skills",
+            "HRIS and Database Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities. The language used is formal and professional, indicating a genuine recommendation."
+    }
+}

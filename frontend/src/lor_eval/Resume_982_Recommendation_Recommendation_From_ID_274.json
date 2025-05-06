@@ -1,0 +1,17 @@
+{
+    "resume_file": "982.json",
+    "recommendation_file": "Recommendation_From_ID_274.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Event Planning",
+            "Financial Management",
+            "Health and Wellness"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experiences, providing specific examples of their leadership and management abilities."
+    }
+}

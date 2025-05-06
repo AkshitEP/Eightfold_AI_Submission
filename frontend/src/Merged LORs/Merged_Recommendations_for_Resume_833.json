@@ -1,0 +1,105 @@
+{
+    "target_id": "833",
+    "recommendations": [
+        {
+            "recommender_id": "831",
+            "recommendation": {
+                "resume_file": "833.json",
+                "recommendation_file": "Recommendation_From_ID_831.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Quality Control",
+                        "Procurement"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistics operations, inventory management, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "79",
+            "recommendation": {
+                "resume_file": "833.json",
+                "recommendation_file": "Recommendation_From_ID_79.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Some minor inconsistencies in the recommendation, such as the recommender's role as a Donor Advocate, which is not directly related to the candidate's experience.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in inventory management and customer service, but lacks specific examples from the candidate's work experience. The recommender's role and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "154",
+            "recommendation": {
+                "resume_file": "833.json",
+                "recommendation_file": "Recommendation_From_ID_154.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Procurement",
+                        "Customer Service",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their inventory management, procurement, and customer service skills. The recommender's background in HR functions and accounting adds credibility to their assessment of the candidate's attention to detail and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "361",
+            "recommendation": {
+                "resume_file": "833.json",
+                "recommendation_file": "Recommendation_From_ID_361.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, such as handling responsibilities worth over $10 million.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Procurement",
+                        "Inventory Management",
+                        "Customer Service",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but contains some minor inconsistencies and exaggerated claims. The source of the recommendation is unknown."
+                }
+            }
+        },
+        {
+            "recommender_id": "449",
+            "recommendation": {
+                "resume_file": "833.json",
+                "recommendation_file": "Recommendation_From_ID_449.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Procurement"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their inventory management, procurement, and customer service skills. The recommendation also highlights the candidate's leadership and problem-solving abilities."
+                }
+            }
+        }
+    ]
+}

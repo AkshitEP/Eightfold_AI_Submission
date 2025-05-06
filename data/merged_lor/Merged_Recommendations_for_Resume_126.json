@@ -1,0 +1,45 @@
+{
+    "target_id": "126",
+    "recommendations": [
+        {
+            "recommender_id": "89",
+            "recommendation": {
+                "resume_file": "126.json",
+                "recommendation_file": "Recommendation_From_ID_89.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Disability Advocate' and 'public health and community relations' which are not explicitly mentioned in the resume. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Advocacy",
+                        "Case Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience as a Volunteer Advocate, highlighting their ability to understand psychological and social dynamics, conduct investigations, and advocate for the best interests of children. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "780",
+            "recommendation": {
+                "resume_file": "126.json",
+                "recommendation_file": "Recommendation_From_ID_780.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Advocacy",
+                        "Case Management",
+                        "Counseling",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and highlighting their analytical and interpersonal skills. However, the recommendation does not explicitly mention some of the candidate's other skills, such as Customer Service, Inventory Management, Loan Administration, and Data Entry."
+                }
+            }
+        }
+    ]
+}

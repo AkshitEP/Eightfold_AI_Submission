@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Intern",
+                "work_description": "Participated in human and technology interaction management with supervisor. Developed an interface between website and databases via Excel that allowed House of Representatives and Senators more effective and easier access to information. Completed several workshops and lectures about the history of the Library of Congress.",
+                "company_level": "Mid-level",
+                "start_date": "06/2012",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Media Student Assistant",
+                "work_description": "Set up and maintained the Computer Aided Real-Time translation (CART) system in classrooms and various locations around campus, when needed. Assisted staff, faculty and students on a daily basis with equipment repairs, customer service and technology problems. Verified that each classroom had the appropriate equipment and technology needed for success daily.",
+                "company_level": "Mid-level",
+                "start_date": "02/2012",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Information Technology Intern",
+                "work_description": "Provided assistance to students with weak study areas. Analyzed students in acquiring better understanding of specific weak areas within American Sign Language (ASL) courses. Contributed students to improve their ASL receptive and expressive skills.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "05/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Bloomsburg University of Pennsylvania",
+                "start_date": "01/2012",
+                "end_date": "12/2016",
+                "domain": "Information and Technology Management American Sign Language",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Microsoft Excel",
+                "level": 3,
+                "explanation": "Developed an interface between website and databases via Excel, showing a solid working proficiency in Excel."
+            },
+            {
+                "name": "Technical Support",
+                "level": 3,
+                "explanation": "Assisted staff, faculty, and students with equipment repairs, customer service, and technology problems, indicating a solid working proficiency in technical support."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Participated in human and technology interaction management with supervisor, suggesting some practical experience in project management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Provided assistance to students with weak study areas and contributed to improving their ASL receptive and expressive skills, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 2,
+                "explanation": "Analyzed students in acquiring better understanding of specific weak areas within ASL courses, suggesting some practical experience in problem-solving."
+            },
+            {
+                "name": "Leadership",
+                "level": 1,
+                "explanation": "No direct leadership experience mentioned, but assisted staff, faculty, and students, indicating basic familiarity with leadership."
+            },
+            {
+                "name": "American Sign Language (ASL)",
+                "level": 4,
+                "explanation": "Contributed to improving students' ASL receptive and expressive skills and analyzed students in acquiring better understanding of specific weak areas within ASL courses, suggesting strong proficiency in ASL."
+            }
+        ]
+    }
+}

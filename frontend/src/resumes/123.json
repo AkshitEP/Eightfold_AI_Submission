@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Business Banking Specialist",
+                "work_description": "Effective organizational, multi tasking, and prioritizing skills Excellent verbal, written, and interpersonal communication skills Proficient with proactively sourcing, acquiring, building, and maintaining relationships with customers and colleagues High motivation with ability to successfully meet individual and team goals Ability to work independently without supervision Basic Microsoft Office (Word, Excel, and Outlook) skills.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Personal Banker",
+                "work_description": "Experience leading or participating in events and activities for local networks or professional organizations, such as the chamber of commerce and professional business groups. Overseen the branch platform and teller side when management are off by making sure Customer Experience is top of mind at all times. Mitigating losses and Risks for the branch. Coaching in the moment by conducting bankers and tellers DBE's, and providing constructive feedback to my peers.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2014",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Lead Teller",
+                "work_description": "Manage the Teller's work flow to ensure success with daily cash balancing, building great rapport with customers, and meeting their referral and sales goals- all while maintaining an ethical and positive work environment for all. Requires little supervision and juggle a variety of tasks including exercising excellent customer service in all customer interactions and managing and resolving customer conflicts.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2013",
+                "end_date": "01/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of California, Riverside",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Math",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience leading teams and overseeing branch operations, mitigating losses and risks, and coaching peers, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience in customer-facing roles, ensuring customer experience is top of mind, resolving conflicts, and building great rapport with customers, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Possesses excellent verbal, written, and interpersonal communication skills, which is essential for effective customer service and team collaboration, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience juggling multiple tasks, prioritizing, and meeting individual and team goals, suggesting strong proficiency in time management."
+            },
+            {
+                "name": "Risk Management",
+                "level": 3,
+                "explanation": "Has experience mitigating losses and risks for the branch, indicating a solid working proficiency in risk management."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 2,
+                "explanation": "Has basic skills in Microsoft Office (Word, Excel, and Outlook), indicating some practical experience but limited depth."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Has experience meeting sales goals and building relationships with customers, indicating a solid working proficiency in sales."
+            }
+        ]
+    }
+}

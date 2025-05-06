@@ -1,0 +1,84 @@
+{
+    "target_id": "170",
+    "recommendations": [
+        {
+            "recommender_id": "604",
+            "recommendation": {
+                "resume_file": "170.json",
+                "recommendation_file": "Recommendation_From_ID_604.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in customer service, problem-solving, and leadership. However, it does not explicitly mention some of the other skills listed in the resume, such as project management, time management, and inventory management."
+                }
+            }
+        },
+        {
+            "recommender_id": "556",
+            "recommendation": {
+                "resume_file": "170.json",
+                "recommendation_file": "Recommendation_From_ID_556.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including mention of fitness instruction and sales experience not explicitly mentioned in the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies that raise concerns about accuracy."
+                }
+            }
+        },
+        {
+            "recommender_id": "931",
+            "recommendation": {
+                "resume_file": "170.json",
+                "recommendation_file": "Recommendation_From_ID_931.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills and dedication to client satisfaction."
+                }
+            }
+        },
+        {
+            "recommender_id": "178",
+            "recommendation": {
+                "resume_file": "170.json",
+                "recommendation_file": "Recommendation_From_ID_178.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Project Management",
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and problem-solving abilities. However, some claims seem exaggerated, such as the mention of 'extraordinary problem-solving and organizational skills' and 'unwavering support and commitment to member advocacy'."
+                }
+            }
+        }
+    ]
+}

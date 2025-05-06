@@ -1,0 +1,67 @@
+{
+    "target_id": "798",
+    "recommendations": [
+        {
+            "recommender_id": "220",
+            "recommendation": {
+                "resume_file": "798.json",
+                "recommendation_file": "Recommendation_From_ID_220.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Time Management",
+                        "Computer Information Systems"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, attention to detail, and ability to analyze complex information."
+                }
+            }
+        },
+        {
+            "recommender_id": "359",
+            "recommendation": {
+                "resume_file": "798.json",
+                "recommendation_file": "Recommendation_From_ID_359.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Time Management",
+                        "Computer Information Systems"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT coordination and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "880",
+            "recommendation": {
+                "resume_file": "798.json",
+                "recommendation_file": "Recommendation_From_ID_880.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational and communication abilities, as well as their analytical skills and commitment to customer service."
+                }
+            }
+        }
+    ]
+}

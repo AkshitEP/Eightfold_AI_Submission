@@ -1,0 +1,19 @@
+{
+    "resume_file": "568.json",
+    "recommendation_file": "Recommendation_From_ID_799.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Clinical Research Coordination",
+            "Patient Recruitment and Management",
+            "Data Collection and Management",
+            "Regulatory Compliance",
+            "Communication and Interpersonal Skills",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their clinical research coordination, communication, and project management skills. The recommendation highlights the candidate's exceptional capabilities in managing complex clinical trials and their commitment to patient safety and regulatory compliance."
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Administrative Assistant/Site Clerk",
+                "work_description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Maintained the front desk and reception area in a neat and organized fashion. Answering phones, helping parents with any concerns, Microsoft Word, Excel, Power point, Outlook, Internet Explorer, general office duties, working on spreadsheets for assistant principal.",
+                "company_level": "Unknown",
+                "start_date": "03/2007",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Receptionist/Telephone Operator",
+                "work_description": "Answering phones, helping parents with any concerns, Microsoft Word, Excel, Power point, Outlook, Internet Explorer, general office duties, working on spreadsheets for assistant principal. Also covering other positions such as attendance technician and assisting the nurses office.",
+                "company_level": "Unknown",
+                "start_date": "08/2008",
+                "end_date": "06/2010"
+            },
+            {
+                "role_name": "Receptionist/Administrative Assistant",
+                "work_description": "Answering phones, paging, Faxing, Filing invoices, Distributing mail, stamping mail, Fed-ex, greeting vendors & applicants, filing out application, Microsoft word, Excel, keeping track of company directory.",
+                "company_level": "Unknown",
+                "start_date": "04/2006",
+                "end_date": "11/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Valley High School",
+                "start_date": "Unknown",
+                "end_date": "2000",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Orange Coast College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "General Education",
+                "level": "Unknown"
+            },
+            {
+                "university": "Santa Ana College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "General Education",
+                "level": "Associate of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Microsoft Word",
+                "level": 4,
+                "explanation": "Consistently used Microsoft Word in various administrative roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Frequently used Microsoft Excel for working on spreadsheets, indicating strong proficiency."
+            },
+            {
+                "name": "Microsoft PowerPoint",
+                "level": 3,
+                "explanation": "Used Microsoft PowerPoint in administrative roles, showing a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Outlook",
+                "level": 3,
+                "explanation": "Used Microsoft Outlook in administrative roles, showing a solid working proficiency."
+            },
+            {
+                "name": "Internet Explorer",
+                "level": 2,
+                "explanation": "Used Internet Explorer in administrative roles, but the extent of usage is unclear, suggesting some practical experience."
+            },
+            {
+                "name": "General Office Duties",
+                "level": 4,
+                "explanation": "Consistently performed general office duties in various administrative roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Frequently interacted with visitors, parents, and applicants, handling their concerns and requests, indicating strong proficiency in customer service."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Performed data entry tasks, such as working on spreadsheets and keeping track of company directories, showing a solid working proficiency."
+            },
+            {
+                "name": "Organization",
+                "level": 3,
+                "explanation": "Maintained the front desk and reception area in a neat and organized fashion, showing a solid working proficiency in organization."
+            }
+        ]
+    }
+}

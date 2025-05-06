@@ -1,0 +1,18 @@
+{
+    "resume_file": "238.json",
+    "recommendation_file": "Recommendation_From_ID_891.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources",
+            "Employee Relations",
+            "Talent Acquisition and Retention",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and accomplishments. The source of the recommendation appears to be a peer or colleague, as they mention collaborating on projects and having firsthand experience with the candidate's skills."
+    }
+}

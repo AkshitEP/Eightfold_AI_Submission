@@ -1,0 +1,19 @@
+{
+    "resume_file": "988.json",
+    "recommendation_file": "Recommendation_From_ID_388.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of experience as an Information Technology Instructor, which is not supported by the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Strategic Planning",
+            "IT Project Management",
+            "Network Administration",
+            "VMware vSphere",
+            "Citrix Infrastructure"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership skills, strategic planning, and IT management experience, but contains some minor inconsistencies."
+    }
+}

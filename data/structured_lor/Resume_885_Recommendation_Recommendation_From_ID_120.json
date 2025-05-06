@@ -1,0 +1,12 @@
+{
+    "resume_file": "885.json",
+    "recommendation_file": "Recommendation_From_ID_120.txt",
+    "output": {
+        "relevance_score": 3,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is from an esteemed professional in Competitive Baking, which is unrelated to the candidate's field of expertise. The claims made about the candidate's involvement in digital baking logistics and online ingredient ordering systems are statistically improbable and lack concrete evidence from the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks relevance to the candidate's skills and experience, and the claims made seem exaggerated and unsupported. The source of the recommendation is unclear and unrelated to the candidate's field of expertise."
+    }
+}

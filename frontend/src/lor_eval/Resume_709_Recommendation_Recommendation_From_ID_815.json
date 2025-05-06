@@ -1,0 +1,17 @@
+{
+    "resume_file": "709.json",
+    "recommendation_file": "Recommendation_From_ID_815.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, unclear relationship between recommender and candidate.",
+        "verified_skills": [
+            "Leadership",
+            "Healthcare Administration",
+            "Quality Improvement",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience in healthcare administration and leadership, but lacks specific details about some of their key skills."
+    }
+}

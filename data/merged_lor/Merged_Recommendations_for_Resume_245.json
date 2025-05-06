@@ -1,0 +1,69 @@
+{
+    "target_id": "245",
+    "recommendations": [
+        {
+            "recommender_id": "706",
+            "recommendation": {
+                "resume_file": "245.json",
+                "recommendation_file": "Recommendation_From_ID_706.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in Mortgage Banking Research Specialist seems unrelated to the candidate's experience in Employee Relations. However, the recommender provides specific examples of the candidate's skills and accomplishments.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Risk Management",
+                        "Labor Law Compliance",
+                        "Leadership",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their employee relations management, training and development, and leadership abilities. However, the recommender's background seems unrelated to the candidate's experience, which might raise some concerns about the recommender's objectivity."
+                }
+            }
+        },
+        {
+            "recommender_id": "527",
+            "recommendation": {
+                "resume_file": "245.json",
+                "recommendation_file": "Recommendation_From_ID_527.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of a Business Banking Specialist not mentioned in the resume.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Diversity and Inclusion",
+                        "Recruitment",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but raises some concerns about accuracy due to the mention of a Business Banking Specialist."
+                }
+            }
+        },
+        {
+            "recommender_id": "472",
+            "recommendation": {
+                "resume_file": "245.json",
+                "recommendation_file": "Recommendation_From_ID_472.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Risk Management",
+                        "Labor Law Compliance",
+                        "Diversity and Inclusion",
+                        "Leadership",
+                        "Recruitment",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in employee relations, leadership, and compliance. The source of the recommendation is a Director of Vendor Services and Compliance, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

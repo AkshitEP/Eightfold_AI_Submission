@@ -1,0 +1,18 @@
+{
+    "resume_file": "622.json",
+    "recommendation_file": "Recommendation_From_ID_375.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's experience and role, but no obvious red flags or statistically improbable claims.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's customer service skills and problem-solving abilities, but does not explicitly mention their experience in other roles."
+    }
+}

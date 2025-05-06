@@ -1,0 +1,21 @@
+{
+    "resume_file": "477.json",
+    "recommendation_file": "Recommendation_From_ID_414.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as a certified nurse assistant seems unrelated to the candidate's role, which may indicate a lack of direct experience with the candidate's work.",
+        "verified_skills": [
+            "Budgeting",
+            "Financial Management",
+            "Contract Management",
+            "Human Resources",
+            "Leadership",
+            "Project Management",
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's financial oversight and administrative skills, which aligns well with their job history and skills. However, the recommender's background seems unrelated to the candidate's role, which may indicate a lack of direct experience with the candidate's work."
+    }
+}

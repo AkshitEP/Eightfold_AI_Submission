@@ -1,0 +1,28 @@
+{
+    "target_id": "725",
+    "recommendations": [
+        {
+            "recommender_id": "422",
+            "recommendation": {
+                "resume_file": "725.json",
+                "recommendation_file": "Recommendation_From_ID_422.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'HR Consultant' which is not present in the resume. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Recruitment",
+                        "Payroll Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and interpersonal skills. However, the mention of 'HR Consultant' is not present in the resume, which raises some minor concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

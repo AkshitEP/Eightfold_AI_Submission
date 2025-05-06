@@ -1,0 +1,19 @@
+{
+    "resume_file": "513.json",
+    "recommendation_file": "Recommendation_From_ID_316.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Event Planning",
+            "Customer Service",
+            "Project Management",
+            "Problem-Solving",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and customer service abilities. The source of the recommendation is a peer, with a complementary background in supply chain management and logistics."
+    }
+}

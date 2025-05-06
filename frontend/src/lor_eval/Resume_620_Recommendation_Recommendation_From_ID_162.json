@@ -1,0 +1,19 @@
+{
+    "resume_file": "620.json",
+    "recommendation_file": "Recommendation_From_ID_162.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. However, the skills and expertise mentioned align well with the candidate's experience.",
+        "verified_skills": [
+            "Database Design",
+            "Marketing Analysis",
+            "Data Integration",
+            "CRM",
+            "Marketing Campaign",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strengths in data management, marketing efforts, and project management. However, the language is overly positive, and the recommendation could benefit from more specific examples from the candidate's resume."
+    }
+}

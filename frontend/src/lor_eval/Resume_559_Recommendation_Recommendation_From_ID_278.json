@@ -1,0 +1,12 @@
+{
+    "resume_file": "559.json",
+    "recommendation_file": "Recommendation_From_ID_278.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, suggesting a high likelihood of fraud. The candidate's resume does not support the claims made in the recommendation, and the language used is overly flattering and lacks specific examples.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experience. The candidate's resume does not mention experience in investment banking, M&A deals, or advanced programming languages like Java and Python. The recommendation appears to be exaggerated and lacks specific examples to support the claims made."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "134.json",
+    "recommendation_file": "Recommendation_From_ID_110.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the resume. Some claims seem exaggerated or unsupported.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Community Outreach",
+            "Counseling",
+            "Problem Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in leadership, project management, community outreach, counseling, and problem solving. However, it lacks specific examples from the resume and some claims seem exaggerated or unsupported."
+    }
+}

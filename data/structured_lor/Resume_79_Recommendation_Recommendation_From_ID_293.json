@@ -1,0 +1,15 @@
+{
+    "resume_id": 79,
+    "recommendation_file": "Recommendation_From_ID_293.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, and the source of the recommendation is unclear. The recommendation also seems to be referencing a different individual (dance instructor) rather than the donor advocate.",
+        "verified_skills": [
+            "Teaching",
+            "Relationship Building"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align well with the candidate's skills and experience, and contains language that seems exaggerated or unrealistic. The recommendation also seems to be referencing a different individual rather than the donor advocate."
+    }
+}

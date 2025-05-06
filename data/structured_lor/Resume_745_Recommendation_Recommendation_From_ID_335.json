@@ -1,0 +1,17 @@
+{
+    "resume_file": "745.json",
+    "recommendation_file": "Recommendation_From_ID_335.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not a direct supervisor or peer, and the language is overly flattering. However, the skills and experiences mentioned align well with the resume.",
+        "verified_skills": [
+            "Marketing",
+            "Leadership",
+            "Event Management",
+            "Sales"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership, marketing, and event management skills, which are well-supported by their resume. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "215.json",
+    "recommendation_file": "Recommendation_From_ID_183.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Auditing",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and analytical skills. However, the recommender's role is unclear, and some skills mentioned in the recommendation (e.g., international payroll management) are not explicitly listed in the resume."
+    }
+}

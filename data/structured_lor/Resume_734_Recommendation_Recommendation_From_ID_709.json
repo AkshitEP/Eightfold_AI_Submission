@@ -1,0 +1,22 @@
+{
+    "resume_file": "734.json",
+    "recommendation_file": "Recommendation_From_ID_709.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific details about the Director's role and the Associate's achievements. However, the language is formal and the claims seem largely credible.",
+        "verified_skills": [
+            "Project Management",
+            "Data Analysis",
+            "Leadership",
+            "Communication",
+            "Strategic Planning",
+            "Financial Management",
+            "Healthcare Operations",
+            "Process Improvement",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the Associate's skills and experience in healthcare consulting, quality improvement, and management. It also emphasizes the synergy between the Associate's analytical skills and the Director's expertise in nursing and quality management. However, some minor inconsistencies and lack of specific details reduce the relevance score and increase the fraud chance level."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "target_id": "508",
+    "recommendations": [
+        {
+            "recommender_id": "897",
+            "recommendation": {
+                "resume_file": "508.json",
+                "recommendation_file": "Recommendation_From_ID_897.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's ability to double membership, but the context is unclear and seems to be referencing a different role or initiative.",
+                    "verified_skills": [
+                        "Sales",
+                        "Account Management",
+                        "Customer Service",
+                        "Marketing",
+                        "Communication",
+                        "Leadership",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills and achievements in sales, marketing, and leadership, but some claims seem exaggerated or unclear. The recommendation also mentions the candidate's ability to double membership, but the context is unclear and seems to be referencing a different role or initiative."
+                }
+            }
+        },
+        {
+            "recommender_id": "994",
+            "recommendation": {
+                "resume_file": "508.json",
+                "recommendation_file": "Recommendation_From_ID_994.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and credentials seem exaggerated or unrelated to the candidate's experience.",
+                    "verified_skills": [
+                        "Sales",
+                        "Account Management",
+                        "Customer Service",
+                        "Marketing",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and account management abilities. However, the recommender's background and credentials seem unrelated to the candidate's experience, and their language is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "165",
+            "recommendation": {
+                "resume_file": "508.json",
+                "recommendation_file": "Recommendation_From_ID_165.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Account Management",
+                        "Customer Service",
+                        "Marketing",
+                        "Communication",
+                        "Leadership",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales, account management, and customer service abilities. The recommendation also highlights the candidate's ability to drive membership growth and exceed quarterly sales goals."
+                }
+            }
+        }
+    ]
+}

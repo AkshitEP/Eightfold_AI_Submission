@@ -1,0 +1,21 @@
+{
+    "resume_file": "904.json",
+    "recommendation_file": "Recommendation_From_ID_920.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Data Analysis",
+            "Microsoft Excel",
+            "Financial Management",
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and managerial capabilities. The recommender's tone is professional and supportive, indicating a genuine endorsement of the candidate's abilities."
+    }
+}

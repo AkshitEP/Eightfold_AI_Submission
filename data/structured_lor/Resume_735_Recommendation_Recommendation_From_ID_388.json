@@ -1,0 +1,17 @@
+{
+    "resume_file": "735.json",
+    "recommendation_file": "Recommendation_From_ID_388.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be more focused on the candidate's leadership and collaboration skills rather than their technical skills.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "ITIL",
+            "Healthcare IT"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's leadership and collaboration skills, but lacks specific examples of their technical skills. The recommendation seems to be more focused on the candidate's ability to work with others and lead teams rather than their technical expertise."
+    }
+}

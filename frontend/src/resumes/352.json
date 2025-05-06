@@ -1,0 +1,113 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "VP of Information Technology",
+                "work_description": "Transformed the IT department, developed an IT strategy to increase sales and business process efficiency, and lower costs and company risk. Built and managed a highly effective team of employees, vendors, and service providers.",
+                "company_level": "Mid-level",
+                "start_date": "07/2014",
+                "end_date": "03/2017"
+            },
+            {
+                "role_name": "VP of Information and Security Technology",
+                "work_description": "Lead all IT operations, including purchasing, budget and structure. Conduct performance reviews and record results. Prepare and deliver reports and presentations on IT issues for CEO and VP of Sales on Demand.",
+                "company_level": "Mid-level",
+                "start_date": "02/2009",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Director of Information Technology",
+                "work_description": "Managed all information security to follow HIPAA Compliance guidelines. Advise the CEO and other executives on advanced technology solutions. Began serving on the Executive Management Team.",
+                "company_level": "Mid-level",
+                "start_date": "02/2006",
+                "end_date": "02/2009"
+            },
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Continued to improve and expand the Commissions Tracking Application. Gained expertise in the companies CRM and digitally integrated the Commissions Tracking System with the CRM.",
+                "company_level": "Mid-level",
+                "start_date": "02/2003",
+                "end_date": "02/2006"
+            },
+            {
+                "role_name": "Application Developer",
+                "work_description": "Spearheaded major, year-long initiative to plan, design, build, and implement an ETL commission database system utilizing SQL databases and ASP.Net, including data analysis reporting that recovered more than $2.5M in 'lost' commissions.",
+                "company_level": "Mid-level",
+                "start_date": "08/2002",
+                "end_date": "02/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "Park University",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Information Systems",
+                "level": "Bachelor of Science"
+            },
+            {
+                "university": "Park University",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Management",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held various leadership roles, including VP and Director positions, and managed teams of employees, vendors, and service providers, indicating expert-level mastery."
+            },
+            {
+                "name": "Information Technology",
+                "level": 5,
+                "explanation": "Transformed IT departments, developed IT strategies, and managed all IT operations, including purchasing, budget, and structure, showing expert-level proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully led a year-long initiative to plan, design, build, and implement an ETL commission database system, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Recovered more than $2.5M in 'lost' commissions through data analysis reporting, suggesting strong proficiency in data analysis."
+            },
+            {
+                "name": "Application Development",
+                "level": 4,
+                "explanation": "Spearheaded the development of an ETL commission database system utilizing SQL databases and ASP.Net, indicating strong proficiency in application development."
+            },
+            {
+                "name": "Information Security",
+                "level": 4,
+                "explanation": "Managed all information security to follow HIPAA Compliance guidelines, showing strong proficiency in information security."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Built and managed highly effective teams of employees, vendors, and service providers, indicating strong proficiency in team management."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Managed budgets and prepared reports on IT issues, showing a solid working proficiency in budgeting."
+            },
+            {
+                "name": "SQL",
+                "level": 3,
+                "explanation": "Utilized SQL databases in the development of an ETL commission database system, indicating a solid working proficiency in SQL."
+            },
+            {
+                "name": "ASP.Net",
+                "level": 3,
+                "explanation": "Utilized ASP.Net in the development of an ETL commission database system, indicating a solid working proficiency in ASP.Net."
+            }
+        ]
+    }
+}

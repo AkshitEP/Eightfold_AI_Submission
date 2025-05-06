@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Administrative Coordinator",
+                "work_description": "Developed and implemented new scheduling system for special events, portfolio reviews and advising through Acuity Scheduling to replace cumbersome phone appointments. Manage front line communication between students, faculty and administration, prepares written communication for prospective and current student admittance. Assist with PR/Marketing with CVPA Academic Affairs and Admissions Offices as well as outreach initiatives.",
+                "company_level": "Mid-level",
+                "start_date": "08/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Production Coordinator",
+                "work_description": "Manage Center for the Arts internal production calendar. Provide continuous data maintenance/entry in R-25 scheduling system (internal/external performances and scheduled rigging maintenance) to reflect consistency between performance calendars. Rental recaps - track labor hours for FT staff and over-hire.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "08/2013"
+            },
+            {
+                "role_name": "PR & Marketing Assistant",
+                "work_description": "Identified and conducted market research to provide logistical marketing support to the Artistic Director. Gathered promotional material for summer classes. Developed sponsorship package (included sponsorship letters, levels of sponsorship, sponsorship forms etc.).",
+                "company_level": "Mid-level",
+                "start_date": "09/2010",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Fundraising & Development Intern",
+                "work_description": "Event management for Friends of the Hylton. Provided staff support for annual fundraising event 'Shooting for the Stars'. Responsible for logistics of Friends of the Hylton Center (meetings, special events, catering and marketing materials).",
+                "company_level": "Mid-level",
+                "start_date": "03/2009",
+                "end_date": "05/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "George Mason University, College of Visual and Performing Arts",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Arts Management",
+                "level": "Master's"
+            },
+            {
+                "university": "New Mexico State University, College of Human Performance",
+                "start_date": "01/2004",
+                "end_date": "12/2004",
+                "domain": "Dance & Recreation",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Event Management",
+                "level": 4,
+                "explanation": "Has extensive experience managing events, including scheduling systems, logistics, and marketing materials, showing strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Developed written communication for students and faculty, and managed front-line communication between students, faculty, and administration, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed multiple projects and tasks, including scheduling systems, data maintenance, and marketing initiatives, showing a solid working proficiency."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Provided marketing support, including market research, promotional materials, and sponsorship packages, indicating a solid working proficiency."
+            },
+            {
+                "name": "Data Management",
+                "level": 3,
+                "explanation": "Maintained data in scheduling systems, including R-25, showing a solid working proficiency in data management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Provided staff support for events and managed some logistics, but limited experience in leading teams or projects, indicating some practical experience."
+            },
+            {
+                "name": "Fundraising",
+                "level": 2,
+                "explanation": "Provided support for fundraising events, but limited experience in leading fundraising efforts or developing fundraising strategies, indicating some practical experience."
+            }
+        ]
+    }
+}

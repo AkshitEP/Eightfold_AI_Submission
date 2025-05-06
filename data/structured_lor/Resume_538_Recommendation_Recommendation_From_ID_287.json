@@ -1,0 +1,17 @@
+{
+    "resume_file": "538.json",
+    "recommendation_file": "Recommendation_From_ID_287.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Audit and Compliance",
+            "HR Operations",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, audit, and HR operations skills. The recommendation highlights the candidate's ability to enhance organizational efficiency, conduct thorough evaluations, and foster a supportive work environment."
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "target_id": "502",
+    "recommendations": [
+        {
+            "recommender_id": "107",
+            "recommendation": {
+                "resume_file": "502.json",
+                "recommendation_file": "Recommendation_From_ID_107.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Turbo Cash' which is not mentioned in the resume. However, the overall tone and content of the recommendation seem genuine.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Debt Management",
+                        "Leadership",
+                        "Financial Reporting",
+                        "Treasury Management",
+                        "Taxation",
+                        "Banking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in financial management, accounting, and leadership, which aligns well with their resume. However, some minor inconsistencies and lack of specific examples from the candidate's work experience reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "266",
+            "recommendation": {
+                "resume_file": "502.json",
+                "recommendation_file": "Recommendation_From_ID_266.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Debt Management",
+                        "Leadership",
+                        "Financial Reporting",
+                        "Treasury Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities. The recommendation comes from a finance specialist's perspective, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "963",
+            "recommendation": {
+                "resume_file": "502.json",
+                "recommendation_file": "Recommendation_From_ID_963.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Debt Management",
+                        "Leadership",
+                        "Financial Reporting",
+                        "Treasury Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "884",
+            "recommendation": {
+                "resume_file": "502.json",
+                "recommendation_file": "Recommendation_From_ID_884.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Debt Management",
+                        "Leadership",
+                        "Financial Reporting",
+                        "Treasury Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities."
+                }
+            }
+        }
+    ]
+}

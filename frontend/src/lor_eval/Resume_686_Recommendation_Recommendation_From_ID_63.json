@@ -1,0 +1,12 @@
+{
+    "resume_file": "686.json",
+    "recommendation_file": "Recommendation_From_ID_63.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is for a completely different profession and does not align with the candidate's skills or experience.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems fraudulent and does not provide any relevant information about the candidate's skills or experience."
+    }
+}

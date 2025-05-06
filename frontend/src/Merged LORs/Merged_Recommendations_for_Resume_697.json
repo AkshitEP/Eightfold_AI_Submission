@@ -1,0 +1,48 @@
+{
+    "target_id": "697",
+    "recommendations": [
+        {
+            "recommender_id": "673",
+            "recommendation": {
+                "resume_file": "697.json",
+                "recommendation_file": "Recommendation_From_ID_673.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The language used is overly positive and lacks specific examples or evidence from the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The recommendation seems unrealistic and lacks specific examples or evidence from the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "475",
+            "recommendation": {
+                "resume_file": "697.json",
+                "recommendation_file": "Recommendation_From_ID_475.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Leadership",
+                        "Accounting Operations Management",
+                        "Financial Reporting",
+                        "Financial Planning and Analysis",
+                        "Risk Management",
+                        "Bank Reconciliation",
+                        "Payroll Management",
+                        "General Ledger Management",
+                        "Inventory Reconciliation",
+                        "Leadership",
+                        "Sarbanes-Oxley Compliance",
+                        "Financial Auditing"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial leadership, accounting operations management, and financial reporting expertise. The recommendation also highlights the candidate's attention to detail, organizational prowess, and ability to foster a collaborative environment."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "233.json",
+    "recommendation_file": "Recommendation_From_ID_372.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of HR-related skills and experience not explicitly mentioned in the resume. However, the recommendation still aligns well with the candidate's overall experience and skills.",
+        "verified_skills": [
+            "Project Management",
+            "Communication",
+            "Budgeting",
+            "Event Management",
+            "Time Management",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in project management, communication, and stakeholder engagement, which are well-supported by their resume. However, some minor inconsistencies and exaggerated claims are present, such as the mention of HR-related skills and experience not explicitly mentioned in the resume."
+    }
+}

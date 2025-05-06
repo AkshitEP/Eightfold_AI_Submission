@@ -1,0 +1,18 @@
+{
+    "resume_file": "804.json",
+    "recommendation_file": "Recommendation_From_ID_581.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in accounting and training, but the language used is overly flattering and lacks specific examples from the resume.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Accounting",
+            "Project Management",
+            "Training and Development",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in accounting and training, but the language used is overly flattering and lacks specific examples from the resume. The recommendation also mentions the candidate's exceptional leadership and commitment to excellence, but this is not fully supported by the resume."
+    }
+}

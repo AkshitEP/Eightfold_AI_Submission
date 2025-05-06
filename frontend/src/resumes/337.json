@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Service Representative",
+                "work_description": "Issue new business and renewal binders, endorsements, and any mid-term changes that may occur, while maintaining monthly reports for the commercial and airline policies. Assist brokers on a daily basis with a concerns or questions concerning policies, certificates, loss runs, invoices, and endorsements for Agriculture, Commercial, and Airline products.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Customer Service Representative",
+                "work_description": "Issue endorsements, binders, and policies for light general aviation aircrafts and also maintain renewals on a continuing basis through the updating underwriter information for renewal proposals. Manage and respond to brokers on a daily basis with any concerns and questions regarding accounting, underwriting, renewals, policy terms and conditions, non-ownership program, and providing training to brokers regarding an external quote system.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2013",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Device Support Center Manager",
+                "work_description": "Analyze the daily reports of data received, giving recommendations, and developing strategy plans on how to improve quality and quantity for the company. Taking inventory of all supplies, mobile devices, and accessories in the store and documenting daily transactions.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2008",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Louisiana at Lafayette",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Business Administration/Marketing",
+                "level": "Baccalaureate of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Over a decade of experience in customer service roles, consistently assisting brokers and maintaining reports, indicating expert-level mastery."
+            },
+            {
+                "name": "Policy Management",
+                "level": 4,
+                "explanation": "Extensive experience in issuing and managing policies, endorsements, and binders, showing strong proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Analyzed daily reports, provided recommendations, and developed strategy plans, indicating a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Took inventory of supplies, mobile devices, and accessories, documenting daily transactions, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Managed a device support center, but the extent of leadership experience is unclear, indicating some practical experience."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Consistently responded to brokers' concerns and questions, and provided training, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed daily tasks, including report maintenance and broker support, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Developed strategy plans to improve quality and quantity, showing a solid working proficiency in problem-solving."
+            }
+        ]
+    }
+}

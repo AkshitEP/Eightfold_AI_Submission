@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Mover",
+                "work_description": "Packing material, equipment, furniture from warehouse to businesses or residential areas throughout Maryland and D.C. Loading and unloading moving trucks, vans or automobiles with hands and pallet jacks. Installed protective bracing, padding and strapping to prevent shifting and damage to items and furniture during transport.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Warehouse Selector / Driver",
+                "work_description": "Selected, loaded, moved, and unloaded wine supplies at the dock. Loaded the forklift properly to perform daily job duties, placed materials in appropriated storage locations, and maintained accurate records of materials during transfers.",
+                "company_level": "Mid-level",
+                "start_date": "01/2015",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Laborer",
+                "work_description": "Lift heavy loads up to 70 lbs.' and navigate construction job site. Dig pits, trenches and foundations in preparation for job site construction. Operate heavy machinery, including construction vehicles.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Fitness and Aqua Aerobics Instructor",
+                "work_description": "Explain and enforce safety rules and regulations governing sports, recreational activities, and the use of exercise equipment. Offer alternatives during classes to accommodate different levels of fitness.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "01/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northern High School",
+                "start_date": "01/1995",
+                "end_date": "12/2000",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Physical Labor",
+                "level": 4,
+                "explanation": "Has extensive experience with physically demanding tasks such as lifting heavy loads, navigating construction sites, and operating heavy machinery, showing strong proficiency."
+            },
+            {
+                "name": "Logistics and Transportation",
+                "level": 4,
+                "explanation": "Has experience with loading, unloading, and transporting materials, equipment, and furniture, indicating a strong proficiency in logistics and transportation."
+            },
+            {
+                "name": "Warehouse Management",
+                "level": 3,
+                "explanation": "Has experience with selecting, loading, and unloading materials, and maintaining accurate records, showing a solid working proficiency in warehouse management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience with leading fitness classes and enforcing safety rules, but lacks extensive experience in leadership roles."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Has some experience with interacting with customers and providing alternatives during fitness classes, but lacks extensive experience in customer service."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience with managing time effectively in various roles, including logistics, warehouse management, and fitness instruction, showing a solid working proficiency."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Has experience with working in teams, including construction sites and warehouse environments, showing a solid working proficiency in teamwork."
+            }
+        ]
+    }
+}

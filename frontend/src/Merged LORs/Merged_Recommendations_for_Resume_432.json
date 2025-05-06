@@ -1,0 +1,47 @@
+{
+    "target_id": "432",
+    "recommendations": [
+        {
+            "recommender_id": "995",
+            "recommendation": {
+                "resume_file": "432.json",
+                "recommendation_file": "Recommendation_From_ID_995.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistency in the candidate's experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "Community Engagement",
+                        "Professional Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience as an Executive Director, but there are some minor inconsistencies."
+                }
+            }
+        },
+        {
+            "recommender_id": "598",
+            "recommendation": {
+                "resume_file": "432.json",
+                "recommendation_file": "Recommendation_From_ID_598.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "Communication",
+                        "Team Management",
+                        "Marketing",
+                        "Public Relations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, strategic planning, and community engagement. The source of the recommendation is a colleague who has observed the candidate's work in a non-profit organization."
+                }
+            }
+        }
+    ]
+}

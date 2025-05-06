@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "SENIOR VICE-PRESIDENT AND CHIEF INFORMATION OFFICER",
+                "work_description": "Industry expert in a wide variety of technology systems, business applications and IT service management. Primary focus: Network Security and IT Operational Management using the fundamentals of scalar design/architecture and business process improvement.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2009",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Vice-President, Information Technology",
+                "work_description": "Designed a system to overhaul the entire information gathering and distribution process through the use of portal technology. Streamlined operations and in doing so foster an atmosphere of empowerment and accountability using the principles of Enterprise Resource Planning.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2005",
+                "end_date": "01/2009"
+            },
+            {
+                "role_name": "Manager/Senior Network Engineer, Information Technology",
+                "work_description": "Challenged to secure and improve reliability of wide area network and all future business expansions sites.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2001",
+                "end_date": "01/2005"
+            },
+            {
+                "role_name": "Network Administrator",
+                "work_description": "Network Administration Install, configure and maintain organization's network.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1997",
+                "end_date": "01/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "State University of New York at Stony Brook",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Geography",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Security",
+                "level": 5,
+                "explanation": "Industry expert with extensive experience in network security, including securing wide area networks and implementing IT operational management."
+            },
+            {
+                "name": "IT Operational Management",
+                "level": 5,
+                "explanation": "Primary focus on IT operational management, including the use of scalar design and architecture, and business process improvement."
+            },
+            {
+                "name": "Enterprise Resource Planning",
+                "level": 4,
+                "explanation": "Streamlined operations using the principles of Enterprise Resource Planning, indicating strong proficiency."
+            },
+            {
+                "name": "Portal Technology",
+                "level": 4,
+                "explanation": "Designed a system to overhaul the entire information gathering and distribution process using portal technology, showing strong proficiency."
+            },
+            {
+                "name": "Business Process Improvement",
+                "level": 4,
+                "explanation": "Implemented business process improvement using the fundamentals of scalar design and architecture, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held senior leadership positions, including Senior Vice-President and Chief Information Officer, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Installed, configured, and maintained organization's network, showing strong proficiency."
+            },
+            {
+                "name": "Wide Area Network (WAN) Management",
+                "level": 4,
+                "explanation": "Challenged to secure and improve reliability of wide area network, indicating strong proficiency."
+            }
+        ]
+    }
+}

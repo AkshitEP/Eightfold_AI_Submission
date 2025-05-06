@@ -1,0 +1,12 @@
+{
+    "resume_file": "983.json",
+    "recommendation_file": "Recommendation_From_ID_804.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and mismatched information. The recommendation is for an Accountant, but the resume is for a Coordinator of Student Personnel Services. The language is formal, but the content is misleading.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experience. It appears to be a recommendation for a different person, with a different profession. The content is misleading and contains statistically improbable claims."
+    }
+}

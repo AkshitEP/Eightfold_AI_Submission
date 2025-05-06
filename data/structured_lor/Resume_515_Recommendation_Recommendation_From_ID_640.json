@@ -1,0 +1,16 @@
+{
+    "resume_file": "515.json",
+    "recommendation_file": "Recommendation_From_ID_640.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The comparison to a Language Arts educator seems unrelated to the candidate's experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Time Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's customer service skills, problem resolution, and bilingual proficiency, but lacks specific examples from their work experience. The comparison to a Language Arts educator seems unrelated to the candidate's experience."
+    }
+}

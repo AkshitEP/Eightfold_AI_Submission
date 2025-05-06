@@ -1,0 +1,44 @@
+{
+    "target_id": "855",
+    "recommendations": [
+        {
+            "recommender_id": "449",
+            "recommendation": {
+                "resume_file": "855.json",
+                "recommendation_file": "Recommendation_From_ID_449.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Storekeeper II may not be directly related to the candidate's work as an Electrical Engineer. However, the recommender provides specific examples of the candidate's skills and accomplishments.",
+                    "verified_skills": [
+                        "Electrical Engineering",
+                        "Project Management",
+                        "Problem-Solving",
+                        "Critical Thinking"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's technical proficiency, analytical skills, and ability to work with various stakeholders. However, the recommender's role may not be directly related to the candidate's work, which could be a minor concern."
+                }
+            }
+        },
+        {
+            "recommender_id": "398",
+            "recommendation": {
+                "resume_file": "855.json",
+                "recommendation_file": "Recommendation_From_ID_398.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in logistics and supply chain management does not directly relate to the candidate's electrical engineering expertise. However, the recommender does provide specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's leadership, project management, and problem-solving skills, which align with their experience and skills listed in the resume. However, the recommender's background does not directly relate to the candidate's electrical engineering expertise, which might raise some concerns about the recommender's ability to assess the candidate's technical skills."
+                }
+            }
+        }
+    ]
+}

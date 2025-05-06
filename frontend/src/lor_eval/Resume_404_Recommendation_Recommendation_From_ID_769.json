@@ -1,0 +1,22 @@
+{
+    "resume_file": "404.json",
+    "recommendation_file": "Recommendation_From_ID_769.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in finance and accounting, but lacks specific examples and details.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Payroll Management",
+            "Budgeting",
+            "Financial Reporting",
+            "Financial Analysis",
+            "Leadership",
+            "Communication",
+            "Organizational Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in finance and accounting, but lacks specific examples and details. The recommendation also mentions the candidate's ability to work collaboratively within a team, which is not explicitly mentioned in the resume."
+    }
+}

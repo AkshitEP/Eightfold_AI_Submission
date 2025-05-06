@@ -1,0 +1,21 @@
+{
+    "resume_file": "908.json",
+    "recommendation_file": "Recommendation_From_ID_70.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Nursing Care",
+            "Patient Education",
+            "Patient Advocacy",
+            "Medical Record Keeping",
+            "Leadership",
+            "Time Management",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing practice and patient advocacy. The recommender highlights the candidate's exceptional patient-centered care, ability to foster positive relationships, and commitment to high standards of patient satisfaction."
+    }
+}

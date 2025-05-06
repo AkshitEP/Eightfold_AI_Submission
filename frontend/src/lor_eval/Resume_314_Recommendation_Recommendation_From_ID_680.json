@@ -1,0 +1,19 @@
+{
+    "resume_file": "314.json",
+    "recommendation_file": "Recommendation_From_ID_680.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Data Validation",
+            "System Development",
+            "SQL",
+            "Strategic Planning",
+            "Team Success",
+            "Healthcare IT"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in data validation and system development. However, it does not specifically mention the candidate's experience in SAP, Microsoft Excel, or project management."
+    }
+}

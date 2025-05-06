@@ -1,0 +1,60 @@
+{
+    "target_id": "709",
+    "recommendations": [
+        {
+            "recommender_id": "247",
+            "recommendation": {
+                "resume_file": "709.json",
+                "recommendation_file": "Recommendation_From_ID_247.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unknown and has no direct connection to the candidate's work experience. The language is formal, but the recommendation is from someone in a different field (digital marketing).",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Leadership",
+                        "Quality Improvement",
+                        "Healthcare Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in data analysis, leadership, and quality improvement, which aligns with their experience in healthcare management. However, the source of the recommendation is unclear and has no direct connection to the candidate's work experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "630",
+            "recommendation": {
+                "resume_file": "709.json",
+                "recommendation_file": "Recommendation_From_ID_630.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is not relevant to the candidate's skills and experience. The recommendation is for an aviation technician, not the candidate. Statistically improbable claims and informal language are not present, but the recommendation is completely unrelated to the candidate's background.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience. It appears to be a recommendation for a different individual. The candidate's skills and experience in healthcare administration, quality improvement, and leadership are not mentioned in the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "815",
+            "recommendation": {
+                "resume_file": "709.json",
+                "recommendation_file": "Recommendation_From_ID_815.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, unclear relationship between recommender and candidate.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Healthcare Administration",
+                        "Quality Improvement",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's experience in healthcare administration and leadership, but lacks specific details about some of their key skills."
+                }
+            }
+        }
+    ]
+}

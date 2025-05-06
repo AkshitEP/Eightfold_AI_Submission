@@ -1,0 +1,17 @@
+{
+    "resume_file": "874.json",
+    "recommendation_file": "Recommendation_From_ID_474.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be comparing the candidate to someone else, which is not typical in a recommendation letter.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional customer service skills, conflict resolution abilities, and organizational skills, but raises some concerns about the authenticity of the recommendation."
+    }
+}

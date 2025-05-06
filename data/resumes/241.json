@@ -1,0 +1,72 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Full Time Student/Intern",
+                "work_description": "Assisted in the conduct of program orientations for large and small groups, complete individual mentoring of students, analyzed and synthesized data and information, wrote clear and concise reports, and effectively communicated with the staff, students and many members of a multidisciplinary team.",
+                "company_level": "Unknown",
+                "start_date": "01/2013",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Instructor/Writer AOBC",
+                "work_description": "Trained and evaluated the organizational effectiveness of units using virtual or constructive simulations. Planned and conducted training exercises in support of Army National Guard and Reserve Component units preparing for movement overseas.",
+                "company_level": "Unknown",
+                "start_date": "01/2009",
+                "end_date": "01/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Louisville",
+                "start_date": "01/2013",
+                "end_date": "12/2015",
+                "domain": "Social Work",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Central Texas College",
+                "start_date": "01/2011",
+                "end_date": "12/2012",
+                "domain": "Under Graduate Studies",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Has extensive experience in training and evaluating units using virtual or constructive simulations, and planning and conducting training exercises, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Trained and evaluated units, and planned and conducted training exercises, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with staff, students, and members of a multidisciplinary team, and wrote clear and concise reports, suggesting strong proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Analyzed and synthesized data and information, showing a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Mentoring",
+                "level": 3,
+                "explanation": "Provided individual mentoring of students, indicating a solid level of proficiency in mentoring."
+            },
+            {
+                "name": "Project Planning",
+                "level": 3,
+                "explanation": "Planned and conducted training exercises, showing a solid working proficiency in project planning."
+            }
+        ]
+    }
+}

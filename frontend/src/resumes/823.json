@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Specialist GS11",
+                "work_description": "Manage the assigned IT/communications environment with privileged access at the network level for the Wing, Geographically Separated Units (GSU), and Tenants. Plan, coordinate, install, and continuously analyze system design, hardware and software. Develop, recommend, and install solutions and upgrades to ensure availability, integrity, efficiency, and reliability of all components of the assigned system.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2004",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Cyber Transport/ Client Systems Workcenter Supervisor",
+                "work_description": "Manage Cyber Transport/Client Systems work center personnel. Set and adjust work priorities, evaluate, and counsel subordinates. Document training of personnel using Computer based training system (TBA) Sustain and operate systems through effective troubleshooting, repair, PMI's, system performance testing/analysis.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2001",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "F-16 Ejection System Technician",
+                "work_description": "Troubleshot, removed, tested, inspected, repaired, modified, and installed explosive and non-explosive components and assemblies on ejection systems. Performed preventative maintenance on over ninety different electronically fired explosive devices ensuring proper wiring and termination.",
+                "company_level": "Large Corporation",
+                "start_date": "07/1996",
+                "end_date": "07/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Brockport High School",
+                "start_date": "01/1996",
+                "end_date": "06/1996",
+                "domain": "General Studies",
+                "level": "HS Diploma"
+            },
+            {
+                "university": "University of TN",
+                "start_date": "01/2000",
+                "end_date": "05/2003",
+                "domain": "Electrical Engineering",
+                "level": "BS Degree"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Volunteer electrical work for Habitat for Humanity"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing IT/communications environments with privileged access at the network level, indicating expert-level mastery."
+            },
+            {
+                "name": "System Design",
+                "level": 4,
+                "explanation": "Has planned, coordinated, and installed system design, hardware and software, showing strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Has experience troubleshooting and repairing complex systems, including explosive and non-explosive components, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has managed teams and personnel, set work priorities, evaluated and counseled subordinates, showing strong leadership skills."
+            },
+            {
+                "name": "Electrical Engineering",
+                "level": 4,
+                "explanation": "Has a degree in Electrical Engineering and has applied this knowledge in various roles, including explosive device maintenance and electrical work for Habitat for Humanity."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has experience planning, coordinating, and installing solutions and upgrades, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Computer Hardware",
+                "level": 3,
+                "explanation": "Has experience installing and maintaining computer hardware, showing a solid working proficiency."
+            },
+            {
+                "name": "Software Development",
+                "level": 2,
+                "explanation": "Has some experience with software development, but the extent of this experience is not clear, indicating some practical experience."
+            }
+        ]
+    }
+}

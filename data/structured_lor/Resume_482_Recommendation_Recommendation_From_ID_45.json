@@ -1,0 +1,15 @@
+{
+    "resume_file": "482.json",
+    "recommendation_file": "Recommendation_From_ID_45.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Exaggerated language, lack of concrete examples, and inconsistencies with the resume.",
+        "verified_skills": [
+            "Customer Relationship Management",
+            "Negotiation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks specific details and evidence to support its claims, raising concerns about its authenticity."
+    }
+}

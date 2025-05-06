@@ -1,0 +1,18 @@
+{
+    "resume_file": "907.json",
+    "recommendation_file": "Recommendation_From_ID_149.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's field (HR) is distinct from the candidate's field (Advocacy), which may raise some questions about the depth of their working relationship and the recommender's understanding of the candidate's specific skills and accomplishments.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Policy Development",
+            "Collaboration",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership, innovation, and problem-solving skills, which align with their experience as Advocate General and Program Director. However, the recommender's field and relationship with the candidate are not clearly established, which may impact the credibility of the recommendation."
+    }
+}

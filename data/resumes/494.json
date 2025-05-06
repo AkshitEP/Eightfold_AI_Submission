@@ -1,0 +1,142 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Responsible for maintaining budget and implementing all new technologies within the firm. Integral part of technology team responsible for implementing and migrating Accounting and Billing system upgrade Managed firewall, network monitoring and server monitoring both on- and off-site.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Technical Project Lead",
+                "work_description": "Responsible for Maintaining Client relationships and Technical Integrity of the Infrastructure Responsible for Managing Engineers assigned to Client projects, Including time management, time approval and resource scheduling",
+                "company_level": "Mid-level",
+                "start_date": "11/2005",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Systems Engineer",
+                "work_description": "Install, Support and maintain Novell, Windows NT 4.0, Windows 2000,Windows 2003 servers. Maintain and Patch over 800 servers in the current environment.",
+                "company_level": "Mid-level",
+                "start_date": "01/2004",
+                "end_date": "11/2005"
+            },
+            {
+                "role_name": "Network Analyst",
+                "work_description": "Managed and supported Novell 4.x and 5.x Servers, Windows NT 4.0 and Windows 2000 Servers, Citrix. MetaFrame XPa, GroupWise 5.x.",
+                "company_level": "Mid-level",
+                "start_date": "10/2001",
+                "end_date": "10/2003"
+            },
+            {
+                "role_name": "Night Desk Supervisor",
+                "work_description": "Supervise two additional employees and responsible for all issue escalations and follow up. Manage all projects and ensure on-time completion.",
+                "company_level": "Mid-level",
+                "start_date": "07/2000",
+                "end_date": "04/2001"
+            },
+            {
+                "role_name": "Senior Network Engineer",
+                "work_description": "Responsible for all LAN/WAN Infrastructure. Evaluate, purchase, implement and maintain all Novell and Windows NT Servers.",
+                "company_level": "Mid-level",
+                "start_date": "08/1999",
+                "end_date": "07/2000"
+            },
+            {
+                "role_name": "Network Analyst",
+                "work_description": "Support 130+ Novell Servers and NDS Directory Structure. Responsible for upgrading and maintaining. servers as well as all workstation clients.",
+                "company_level": "Mid-level",
+                "start_date": "04/1997",
+                "end_date": "06/1999"
+            },
+            {
+                "role_name": "Network Support Specialist",
+                "work_description": "Responsible for All Software, hardware, Network, phone system and voicemail installation and support.",
+                "company_level": "Mid-level",
+                "start_date": "11/1993",
+                "end_date": "04/1997"
+            },
+            {
+                "role_name": "Service Manager",
+                "work_description": "Install and maintain all customer systems, network installations and rollouts of all new computer systesm. Supervised 3 additional technicians.",
+                "company_level": "Mid-level",
+                "start_date": "09/1988",
+                "end_date": "11/1993"
+            }
+        ],
+        "education": [
+            {
+                "university": "McHenry County College",
+                "start_date": "01/1996",
+                "end_date": "12/1996",
+                "domain": "Business Administration",
+                "level": "Associate of Science"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Algonquin Argonauts Football Board of Directors, Secretary",
+            "Algonquin Argonauts Football, Assistant Coach/Offensive Coordinator"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing projects, teams, and resources across various roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has led teams and supervised employees in multiple roles, demonstrating strong leadership skills and expertise."
+            },
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Has over two decades of experience in network administration, including installing, supporting, and maintaining various servers and systems, indicating expert-level mastery."
+            },
+            {
+                "name": "System Administration",
+                "level": 5,
+                "explanation": "Has extensive experience in system administration, including installing, supporting, and maintaining various servers and systems, indicating expert-level mastery."
+            },
+            {
+                "name": "Server Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing servers, including installing, supporting, and maintaining over 800 servers, indicating expert-level mastery."
+            },
+            {
+                "name": "Technical Integrity",
+                "level": 4,
+                "explanation": "Has experience maintaining technical integrity of infrastructure, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience managing time and resources, indicating strong proficiency."
+            },
+            {
+                "name": "Resource Scheduling",
+                "level": 4,
+                "explanation": "Has experience scheduling resources, indicating strong proficiency."
+            },
+            {
+                "name": "Client Relationship Management",
+                "level": 4,
+                "explanation": "Has experience maintaining client relationships, indicating strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Has experience maintaining budgets, indicating solid working proficiency."
+            },
+            {
+                "name": "Business Administration",
+                "level": 3,
+                "explanation": "Has education in Business Administration, indicating solid working proficiency."
+            }
+        ]
+    }
+}

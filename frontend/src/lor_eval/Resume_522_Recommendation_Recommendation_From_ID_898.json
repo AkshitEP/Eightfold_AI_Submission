@@ -1,0 +1,31 @@
+{
+    "resume_file": "522.json",
+    "recommendation_file": "Recommendation_From_ID_898.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Software Development",
+            "Project Management",
+            "Change Management",
+            "Database Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Testing and Quality Assurance",
+            "Algorithm Development",
+            "Statistical Analysis",
+            "Survey Methodology",
+            "PL/SQL",
+            "SQL",
+            "JavaScript",
+            "SAS",
+            "Visual Basic",
+            "LINUX",
+            "SharePoint"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in software development, project management, and configuration management. The recommendation also highlights the candidate's ability to streamline processes, improve productivity, and ensure quality assurance."
+    }
+}

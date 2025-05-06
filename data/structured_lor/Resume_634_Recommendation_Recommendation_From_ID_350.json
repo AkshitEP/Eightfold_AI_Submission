@@ -1,0 +1,21 @@
+{
+    "resume_file": "634.json",
+    "recommendation_file": "Recommendation_From_ID_350.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Financial Management",
+            "Leadership",
+            "Accounting",
+            "Budgeting",
+            "Financial Analysis",
+            "Taxation",
+            "Financial Planning",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns perfectly with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities. The language used is formal and professional, indicating a genuine and well-supported recommendation."
+    }
+}

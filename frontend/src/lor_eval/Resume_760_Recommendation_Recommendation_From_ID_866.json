@@ -1,0 +1,19 @@
+{
+    "resume_file": "760.json",
+    "recommendation_file": "Recommendation_From_ID_866.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the comparison to the recommender's own experience in IT management seems slightly unrelated and may be an attempt to inflate the candidate's abilities.",
+        "verified_skills": [
+            "Aircraft Maintenance",
+            "Leadership",
+            "Project Management",
+            "Quality Control",
+            "Troubleshooting",
+            "Technical Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and technical abilities. However, the comparison to the recommender's own experience in IT management seems slightly unrelated and may be an attempt to inflate the candidate's abilities."
+    }
+}

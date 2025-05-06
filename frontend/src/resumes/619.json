@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Game Design Intern",
+                "work_description": "Oversight of documentation and file organization. Level Designer, including enemy, items, and basic layout. Co-Designer for general game mechanics.",
+                "company_level": "Mid-level",
+                "start_date": "11/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Concessions Supervisor",
+                "work_description": "Served as mentor to junior team members. Filled out daily paperwork; inventory logs, staff time logs, etc. Oversight of multiple concession stands serving a variety of items.",
+                "company_level": "Mid-level",
+                "start_date": "06/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Food Service Clerk",
+                "work_description": "Prepared food items and cooked on a grill or in fryers. Carefully maintained sanitation, health and safety standards in all work areas. Performed general maintenance duties.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "07/2015"
+            },
+            {
+                "role_name": "Customer Service Representative / Cook",
+                "work_description": "Prepared items according to written or verbal orders while performing extensive multitasking. Cleaned food preparation areas, cooking surfaces, and utensils. Closely followed standard protocols for safe food preparation, assembly, and presentation to ensure customer satisfaction.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "08/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "New Tech High @ Coppell",
+                "start_date": "01/2011",
+                "end_date": "12/2015",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Texas A&M University",
+                "start_date": "01/2015",
+                "end_date": "12/2019",
+                "domain": "Computer Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Game Design",
+                "level": 3,
+                "explanation": "Worked as a Game Design Intern, including level design and co-designing game mechanics, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Served as a mentor to junior team members and had oversight of multiple concession stands, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Handled multiple tasks and responsibilities in various roles, including concessions supervision and food service, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked in team environments, including as a concessions supervisor and game design intern, indicating a solid working proficiency in teamwork."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 2,
+                "explanation": "Handled various tasks and responsibilities, including inventory management and staff time logs, showing some practical experience in problem-solving."
+            },
+            {
+                "name": "Communication",
+                "level": 2,
+                "explanation": "Interacted with customers and team members in various roles, including customer service representative and concessions supervisor, indicating some practical experience in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 1,
+                "explanation": "Had some experience with project management as a concessions supervisor, but it's not a primary skill, indicating basic familiarity."
+            },
+            {
+                "name": "Computer Science",
+                "level": 4,
+                "explanation": "Earned a Bachelor's degree in Computer Science, suggesting strong proficiency in the field."
+            }
+        ]
+    }
+}

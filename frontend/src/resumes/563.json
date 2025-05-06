@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Exercise Specialist & Sports and Recreation Coordinator",
+                "work_description": "Coordinated the redesign and grand re-opening of the corporate health facility, ensuring seamless integration of new equipment and layout. Planned and scheduled rollout of new fitness classes. Directed members during grand re-opening day and represented the fitness center as a new and improved site of service. Held post-project meeting reviewing status of the site remodel, discussing lessons learned, and getting feedback from team members.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Fitness Strategy Specialist",
+                "work_description": "Played integral role in successfully establishing a new hospital affiliated wellness facility. Ensured smoothness of grand opening and helped create a positive identity for the wellness center. Designed and documented fitness goals and programs for special populations including diabetics, elderly, obese, cancer survivors, sedentary, and other high-risk groups.",
+                "company_level": "Mid-level",
+                "start_date": "03/2011",
+                "end_date": "02/2013"
+            },
+            {
+                "role_name": "Legal Firm Administrator",
+                "work_description": "Created innovative templates to accelerate the court stipulation filing process, and implemented them as a requirement for attorneys to input for their legal assistants. Took on challenge of reconciling gaps during high-visibility audit, by reprioritizing team workload. Documented procedures, recommendations, and policies.",
+                "company_level": "Mid-level",
+                "start_date": "09/2004",
+                "end_date": "11/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Wisconsin",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Project Management",
+                "level": "Master's"
+            },
+            {
+                "university": "California State University",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Kinesiology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Held roles that involved managing projects, such as coordinating the redesign and grand re-opening of the corporate health facility, and establishing a new hospital affiliated wellness facility, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Directed members during grand re-opening day, represented the fitness center, and led a team in a legal firm, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively represented the fitness center, created innovative templates, and documented procedures, recommendations, and policies, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Reconciled gaps during high-visibility audit, reprioritized team workload, and handled challenges in various roles, suggesting strong proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Coordinated multiple projects, managed team workload, and met deadlines, indicating strong proficiency in time management."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Directed members, led a team in a legal firm, and managed team workload, suggesting strong proficiency in team management."
+            },
+            {
+                "name": "Fitness Program Development",
+                "level": 4,
+                "explanation": "Designed and documented fitness goals and programs for special populations, indicating strong proficiency in fitness program development."
+            },
+            {
+                "name": "Audit and Compliance",
+                "level": 3,
+                "explanation": "Reconciled gaps during high-visibility audit, and implemented procedures to ensure compliance, indicating solid working proficiency in audit and compliance."
+            }
+        ]
+    }
+}

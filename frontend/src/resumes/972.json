@@ -1,0 +1,127 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Material and Tooling Control Lead",
+                "work_description": "Helped achieve company goals by supporting production workers. Identified and implemented change in workplace policy and procedure to positively effect production rate and quality. Supervised team of eight skilled production and tooling machine operators. Inspected finished products for quality and adherence to customer specifications. Monitored the production processes and adjusted schedules. Adhered to all applicable regulations, policies and procedures for health, safety and environmental compliance. Worked with managers to implement the company's policies and goals. Troubleshooted problems with equipment, devices or products. Operated manufacturing machinery such as a forklift, hem saw, sheer, table saw, chop saw, drill, and recipicating saw.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Bale Inspector",
+                "work_description": "Changed equipment over to new product. Adjusted machine feed and speed if machine malfunctioned. Helped achieve company goals by supporting production workers. Started machine operations by inserting control instructions into control units. Safely operated a forklift.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Chef",
+                "work_description": "Consistently kept a clean and safe environment by adhering to all federal, state and local sanitation and safety requirements. Ensured smooth kitchen operation by overseeing daily product inventory, purchasing and receiving. Conducted daily inspections and maintained food sanitation and kitchen equipment safety reports. Displayed a positive and friendly attitude towards customers and fellow team members.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Electrician Apprentice",
+                "work_description": "Worked on projects, which provided value to the department, the company, and the client base. Implemented vast knowledge of electronics principles to resolve complex electrical problems. Maintained accurate electronic and instrument inventory to support safe and efficient operation. Frequently worked overtime, weekends and holidays.",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "01/2009"
+            },
+            {
+                "role_name": "Co-owner / Martial Arts Instructor",
+                "work_description": "Taught clients how to modify exercises appropriately to avoid injury. Contributed to the operation of a clean, friendly and well maintained health club. Encouraged clients to engage in group fitness classes and other activities in the gym to meet fitness goals. Led learning enhancement classes focused on improving martial arts and people skills needed for success in their fitness goals.",
+                "company_level": "Startup",
+                "start_date": "01/2007",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Electrical Forman",
+                "work_description": "Oversaw production efforts to guarantee that projects were completed in a timely and budget-conscious manner. Maintained open and effective communications with project teams to increase productivity. Interpreted electrical and mechanical schematics, blueprints and diagrams. Diagnosed equipment malfunctions and completed repairs to restore equipment and maintain uptime. Implemented vast knowledge of electronics principles to resolve complex electrical problems. Installed all electrical wiring during remodeling projects. Frequently worked overtime, weekends and holidays.",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Electrician",
+                "work_description": "Interpreted electrical and mechanical schematics, blueprints and diagrams. Implemented vast knowledge of electronics principles to resolve complex electrical problems. Maintained accurate electronic and instrument inventory to support safe and efficient operation. Installed all electrical wiring during remodeling projects. Laid and threaded pipe. Frequently worked overtime, weekends and holidays.",
+                "company_level": "Mid-level",
+                "start_date": "01/1999",
+                "end_date": "01/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northside Skill Center",
+                "start_date": "01/2000",
+                "end_date": "12/2000",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Northeast Flordia Builders Association",
+                "start_date": "01/2000",
+                "end_date": "12/2000",
+                "domain": "Electrical",
+                "level": "Electricians License"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience leading teams in various roles, including supervising a team of eight skilled production and tooling machine operators, and overseeing daily product inventory, purchasing, and receiving as a chef."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience managing projects, including overseeing production efforts to guarantee timely and budget-conscious completion, and maintaining open and effective communications with project teams to increase productivity."
+            },
+            {
+                "name": "Electrical Engineering",
+                "level": 5,
+                "explanation": "Has extensive experience working with electrical systems, including interpreting electrical and mechanical schematics, blueprints, and diagrams, and resolving complex electrical problems."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Has experience troubleshooting problems with equipment, devices, or products, including diagnosing equipment malfunctions and completing repairs to restore equipment and maintain uptime."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience working overtime, weekends, and holidays, and managing time effectively to meet project deadlines and goals."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience maintaining open and effective communications with project teams to increase productivity, and working with managers to implement company policies and goals."
+            },
+            {
+                "name": "Quality Control",
+                "level": 3,
+                "explanation": "Has experience inspecting finished products for quality and adherence to customer specifications, and maintaining accurate electronic and instrument inventory to support safe and efficient operation."
+            },
+            {
+                "name": "Martial Arts Instruction",
+                "level": 3,
+                "explanation": "Has experience teaching clients how to modify exercises appropriately to avoid injury, and leading learning enhancement classes focused on improving martial arts and people skills needed for success in fitness goals."
+            },
+            {
+                "name": "Food Safety and Sanitation",
+                "level": 2,
+                "explanation": "Has experience maintaining a clean and safe environment by adhering to all federal, state, and local sanitation and safety requirements as a chef."
+            },
+            {
+                "name": "Forklift Operation",
+                "level": 2,
+                "explanation": "Has experience safely operating a forklift in various roles."
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "target_id": "991",
+    "recommendations": [
+        {
+            "recommender_id": "440",
+            "recommendation": {
+                "resume_file": "991.json",
+                "recommendation_file": "Recommendation_From_ID_440.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Risk Management",
+                        "Payroll Management",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and analytical skills. The recommendation highlights the candidate's ability to manage financial operations, lead teams, and maintain compliance with regulations."
+                }
+            }
+        },
+        {
+            "recommender_id": "929",
+            "recommendation": {
+                "resume_file": "991.json",
+                "recommendation_file": "Recommendation_From_ID_929.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Risk Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. The recommendation source is a peer, indicating a collaborative working relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "189",
+            "recommendation": {
+                "resume_file": "991.json",
+                "recommendation_file": "Recommendation_From_ID_189.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of a Global Finance Accountant role not present in the resume. However, the recommendation still aligns well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Risk Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in finance operations, revenue management, and SOX compliance, which aligns with their experience as a Senior Manager in National Sales Finance. However, the mention of a Global Finance Accountant role and some minor inconsistencies in the recommendation reduce the relevance score."
+                }
+            }
+        }
+    ]
+}

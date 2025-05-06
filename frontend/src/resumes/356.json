@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Yoga Instructor",
+                "work_description": "Teaching yoga classes for adults with emphasis on functional fitness for lifestyle. Established format which includes strength, balance, flexibility, range of motion, and stress reduction.",
+                "company_level": "Unknown",
+                "start_date": "01/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Program Co-coordinator and Coach; Fitness Instructor (Independent)",
+                "work_description": "Co-Coordinated and Coached for 'Building Better Bodeez' weight loss/wellness program (BBB). Developed, promoted, and implemented 'Nutrition Challenge' program. Created the Nutrition Connection Office. Collaborated with community health and fitness professionals in developing events for community. Performed and evaluated fitness assessments and body composition measurements. Taught weekly fitness classes (Zumba, Spinning, Yoga, Strength/Toning, Aqua Fitness)",
+                "company_level": "Unknown",
+                "start_date": "04/2011",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Nutrition and Anatomy Adjunct Instructor",
+                "work_description": "Designed and implemented weekly lesson plans for 25-55 students per session. Tailored educational curriculum to students with a range of learning styles, disabilities, strengths, and weaknesses. Developed, administered and corrected tests and quizzes in a timely manner. Produced and maintained syllabus, lessons, and grades utilizing web-based learning management.",
+                "company_level": "Unknown",
+                "start_date": "06/2009",
+                "end_date": "04/2011"
+            },
+            {
+                "role_name": "Group Fitness Instructor/ Personal Trainer",
+                "work_description": "Teach weekly group fitness classes, which included Spinning, Yoga, and Zumba. Perform assessments and personal train new members to use equipment.",
+                "company_level": "Unknown",
+                "start_date": "10/1999",
+                "end_date": "04/2010"
+            },
+            {
+                "role_name": "Spa Manager and Skin Care Specialist",
+                "work_description": "",
+                "company_level": "Unknown",
+                "start_date": "10/1999",
+                "end_date": "08/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Wellcoaches School of Coaching",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Wellness Coach",
+                "level": "Certificate"
+            },
+            {
+                "university": "California University of Pennsylvania",
+                "start_date": "01/2009",
+                "end_date": "12/2011",
+                "domain": "Exercise Science and Health Promotion",
+                "level": "Master's"
+            },
+            {
+                "university": "Indiana University of Pennsylvania",
+                "start_date": "01/2003",
+                "end_date": "12/2007",
+                "domain": "Nutrition",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Yoga Instruction",
+                "level": 5,
+                "explanation": "Has extensive experience teaching yoga classes for adults, indicating expert-level mastery."
+            },
+            {
+                "name": "Fitness Instruction",
+                "level": 5,
+                "explanation": "Taught various fitness classes including Spinning, Zumba, Strength/Toning, Aqua Fitness, and Yoga, showing expert-level proficiency."
+            },
+            {
+                "name": "Nutrition Education",
+                "level": 4,
+                "explanation": "Developed and implemented nutrition programs, including the 'Nutrition Challenge' program and the Nutrition Connection Office, suggesting strong proficiency."
+            },
+            {
+                "name": "Program Management",
+                "level": 4,
+                "explanation": "Co-coordinated and coached the 'Building Better Bodeez' weight loss/wellness program, indicating strong proficiency in program management."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed and coordinated various programs and teams, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Public Speaking",
+                "level": 3,
+                "explanation": "Taught weekly classes and developed educational curriculum, suggesting a solid working proficiency in public speaking."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Developed and implemented weekly lesson plans, administered tests and quizzes, and maintained syllabus, lessons, and grades, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Wellness Coaching",
+                "level": 2,
+                "explanation": "Completed a certificate program in Wellness Coaching, but lacks extensive experience, indicating some practical experience."
+            }
+        ]
+    }
+}

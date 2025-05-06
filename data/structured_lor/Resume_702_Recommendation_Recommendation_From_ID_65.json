@@ -1,0 +1,16 @@
+{
+    "resume_file": "702.json",
+    "recommendation_file": "Recommendation_From_ID_65.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Some inconsistencies and exaggerated claims are present, but no statistically improbable claims or informal language detected.",
+        "verified_skills": [
+            "Photography",
+            "Videography",
+            "Content Creation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but some inconsistencies and exaggerated claims are present. The recommendation verifies some of the skills mentioned in the resume, but the source of the recommendation is unknown."
+    }
+}

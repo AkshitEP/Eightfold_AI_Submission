@@ -1,0 +1,17 @@
+{
+    "resume_file": "138.json",
+    "recommendation_file": "Recommendation_From_ID_443.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but overall it seems genuine.",
+        "verified_skills": [
+            "Data Analysis",
+            "R Programming",
+            "Customer Service",
+            "Organizational Planning"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation is highly relevant to the candidate's experience and skills, but there are some minor inconsistencies that may indicate some exaggeration."
+    }
+}

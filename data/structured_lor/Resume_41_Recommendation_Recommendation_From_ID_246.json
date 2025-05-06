@@ -1,0 +1,19 @@
+{
+    "resume_file": "41.json",
+    "recommendation_file": "Recommendation_From_ID_246.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in accounting and financial management seems unrelated to the candidate's field of expertise. However, the recommender's observations and praise for the candidate's work are specific and credible.",
+        "verified_skills": [
+            "Therapy",
+            "Counseling",
+            "Treatment Planning",
+            "Case Management",
+            "Crisis Intervention",
+            "Teaching"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in therapy, counseling, and treatment planning, and praises their ability to manage significant caseloads and effectively communicate with clients. However, the recommender's background and expertise are not directly related to the candidate's field, which may raise some questions about their ability to provide a fully informed recommendation."
+    }
+}

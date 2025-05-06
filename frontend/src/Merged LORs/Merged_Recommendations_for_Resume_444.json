@@ -1,0 +1,28 @@
+{
+    "target_id": "444",
+    "recommendations": [
+        {
+            "recommender_id": "868",
+            "recommendation": {
+                "resume_file": "444.json",
+                "recommendation_file": "Recommendation_From_ID_868.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Logistics Management",
+                        "Supply Chain Management",
+                        "Asset Management",
+                        "Leadership",
+                        "Procurement",
+                        "Data Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistical and organizational abilities. The source of the recommendation is a fellow technology professional, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

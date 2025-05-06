@@ -1,0 +1,97 @@
+{
+    "target_id": "673",
+    "recommendations": [
+        {
+            "recommender_id": "436",
+            "recommendation": {
+                "resume_file": "673.json",
+                "recommendation_file": "Recommendation_From_ID_436.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Marketing",
+                        "Account Management",
+                        "Data Analysis",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial management, and marketing abilities. The recommendation highlights the candidate's achievements in the automotive finance sector and their ability to lead and direct dealership operations."
+                }
+            }
+        },
+        {
+            "recommender_id": "963",
+            "recommendation": {
+                "resume_file": "673.json",
+                "recommendation_file": "Recommendation_From_ID_963.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Marketing",
+                        "Account Management",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management techniques, financial planning, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "692",
+            "recommendation": {
+                "resume_file": "673.json",
+                "recommendation_file": "Recommendation_From_ID_692.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Marketing",
+                        "Account Management",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in the finance sector. The recommendation highlights the candidate's exceptional leadership, analytical skills, and budget management abilities, making them a strong candidate for any position requiring financial acumen."
+                }
+            }
+        },
+        {
+            "recommender_id": "333",
+            "recommendation": {
+                "resume_file": "673.json",
+                "recommendation_file": "Recommendation_From_ID_333.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Marketing",
+                        "Account Management",
+                        "Data Analysis",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in finance management, leadership, and marketing. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        }
+    ]
+}

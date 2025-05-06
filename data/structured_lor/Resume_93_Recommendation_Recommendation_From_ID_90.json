@@ -1,0 +1,18 @@
+{
+    "resume_id": 93,
+    "recommendation_file": "Recommendation_From_ID_90.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and expertise not being explicitly stated. However, the language is formal and the claims are generally supported by the resume.",
+        "verified_skills": [
+            "Talent Acquisition",
+            "Performance Management",
+            "Employee Relations",
+            "Leadership",
+            "HR Operations"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR leadership and strategic vision. However, the recommender's role and expertise are not explicitly stated, which may raise some minor concerns about the credibility of the recommendation."
+    }
+}

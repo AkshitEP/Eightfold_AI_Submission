@@ -1,0 +1,12 @@
+{
+    "resume_file": "842.json",
+    "recommendation_file": "Recommendation_From_ID_986.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation makes unrealistic claims and lacks credibility. The fitness director's connection to the procurement analyst is unclear, and the recommendation is not supported by the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems highly suspicious and lacks credibility. It is not supported by the resume and makes unrealistic claims about the procurement analyst's skills and experience."
+    }
+}

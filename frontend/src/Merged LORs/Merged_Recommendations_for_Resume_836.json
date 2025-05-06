@@ -1,0 +1,97 @@
+{
+    "target_id": "836",
+    "recommendations": [
+        {
+            "recommender_id": "954",
+            "recommendation": {
+                "resume_file": "836.json",
+                "recommendation_file": "Recommendation_From_ID_954.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Facilities Management",
+                        "Leadership",
+                        "Project Management",
+                        "Maintenance and Repair",
+                        "Budgeting and Cost Control",
+                        "Safety and Security",
+                        "Time Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and facilities management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "904",
+            "recommendation": {
+                "resume_file": "836.json",
+                "recommendation_file": "Recommendation_From_ID_904.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Facilities Management",
+                        "Leadership",
+                        "Project Management",
+                        "Maintenance and Repair",
+                        "Budgeting and Cost Control",
+                        "Safety and Security",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operational management, and project management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "618",
+            "recommendation": {
+                "resume_file": "836.json",
+                "recommendation_file": "Recommendation_From_ID_618.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Facilities Management",
+                        "Leadership",
+                        "Project Management",
+                        "Maintenance and Repair",
+                        "Budgeting and Cost Control",
+                        "Safety and Security"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operational expertise, and commitment to safety and efficiency."
+                }
+            }
+        },
+        {
+            "recommender_id": "371",
+            "recommendation": {
+                "resume_file": "836.json",
+                "recommendation_file": "Recommendation_From_ID_371.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies between the recommendation and the resume, particularly regarding IT solutions implementation and system administration experience.",
+                    "verified_skills": [
+                        "Facilities Management",
+                        "Leadership",
+                        "Project Management",
+                        "Maintenance and Repair",
+                        "Budgeting and Cost Control",
+                        "Safety and Security",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies that raise concerns about the accuracy of the recommendation."
+                }
+            }
+        }
+    ]
+}

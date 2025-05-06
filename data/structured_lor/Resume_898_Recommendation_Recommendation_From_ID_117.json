@@ -1,0 +1,17 @@
+{
+    "resume_id": 898,
+    "recommendation_file": "Recommendation_From_ID_117.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Database Administration",
+            "Oracle Database Administration",
+            "Database Security",
+            "Leadership and Management"
+        ],
+        "recommendation_source": "Peer/Colleague",
+        "notes": "The recommendation is highly relevant to the resume, highlighting the candidate's skills and experience in database management and information security. The recommender provides specific examples of the candidate's skills and accomplishments, and the language used is formal and professional."
+    }
+}

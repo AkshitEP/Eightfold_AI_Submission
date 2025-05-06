@@ -1,0 +1,18 @@
+{
+    "resume_file": "893.json",
+    "recommendation_file": "Recommendation_From_ID_533.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but the source claims to have worked with the candidate in a different role (Production Associate) and mentions 15 years of experience, which is not verified by the resume. However, the language is formal and no statistically improbable claims are detected.",
+        "verified_skills": [
+            "Accounting",
+            "Data Analysis",
+            "Leadership",
+            "Project Management",
+            "Financial Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical prowess, organizational skills, and problem-solving abilities. However, the source's claim of 15 years of experience is not verified by the resume."
+    }
+}

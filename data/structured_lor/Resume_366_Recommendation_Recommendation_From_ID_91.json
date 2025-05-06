@@ -1,0 +1,25 @@
+{
+    "resume_file": "366.json",
+    "recommendation_file": "Recommendation_From_ID_91.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources",
+            "Employee Relations",
+            "Recruitment and Employment",
+            "Training and Development",
+            "Employee Benefits Administration",
+            "Leadership",
+            "Communication",
+            "Organizational Development",
+            "Time Management",
+            "Conflict Resolution",
+            "Critical Thinking",
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and accomplishments. The source of the recommendation appears to be a peer, who has worked closely with the candidate and can attest to their abilities."
+    }
+}

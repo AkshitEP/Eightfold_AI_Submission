@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Banking",
+                "work_description": "Opened new customer accounts, including checking, savings and lines of credit. Balanced daily cash deposits and bank vault inventory with a zero error rate. Processed cash withdrawals. Researched and resolved customer issues on personal savings, checking and lines of credit accounts. Delivered prompt, accurate and excellent customer service. Researched banking guidelines and statutory requirements to stay updated on new laws and applications.",
+                "company_level": "Mid-level",
+                "start_date": "11/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Banking Employee",
+                "work_description": "Opened new customer accounts, including checking, savings and lines of credit. Balanced daily cash deposits and bank vault inventory with a zero error rate. Processed cash withdrawals. Researched and resolved customer issues on personal savings, checking and lines of credit accounts. Delivered prompt, accurate and excellent customer service. Researched banking guidelines and statutory requirements to stay updated on new laws and applications.",
+                "company_level": "Mid-level",
+                "start_date": "05/2014",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Intern",
+                "work_description": "Managing and editing the company's online area and the educative software (Moodle). Developing and preparing accounting, statistics and Office subject papers (Word, Excel, PowerPoint).",
+                "company_level": "Startup",
+                "start_date": "06/2013",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Banking Intern",
+                "work_description": "Opened new customer accounts, including checking, savings and lines of credit. Balanced daily cash deposits and bank vault inventory with a zero error rate. Processed cash withdrawals. Researched and resolved customer issues on personal savings, checking and lines of credit accounts. Delivered prompt, accurate and excellent customer service. Researched banking guidelines and statutory requirements to stay updated on new laws and applications.",
+                "company_level": "Mid-level",
+                "start_date": "06/2012",
+                "end_date": "09/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Universidad Carlos III de Madrid",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "International Trade",
+                "level": "Master's"
+            },
+            {
+                "university": "Universidad P\u00fablica de Navarra",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Business Administration and Direction",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Banking Operations",
+                "level": 5,
+                "explanation": "Has extensive experience in banking operations, including opening new customer accounts, balancing daily cash deposits, and processing cash withdrawals, indicating expert-level mastery."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Delivered prompt, accurate, and excellent customer service in multiple banking roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Account Management",
+                "level": 4,
+                "explanation": "Managed customer accounts, including checking, savings, and lines of credit, showing strong proficiency."
+            },
+            {
+                "name": "Cash Management",
+                "level": 4,
+                "explanation": "Balanced daily cash deposits and bank vault inventory with a zero error rate, indicating strong proficiency."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Used Microsoft Office tools, including Word, Excel, and PowerPoint, in an internship role, showing solid working proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Researched and resolved customer issues, but no extensive data analysis experience is mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "International Trade",
+                "level": 2,
+                "explanation": "Completed a Master's degree in International Trade, but no direct work experience is mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Business Administration",
+                "level": 2,
+                "explanation": "Completed a Bachelor's degree in Business Administration and Direction, but no direct work experience is mentioned, suggesting some practical experience."
+            }
+        ]
+    }
+}

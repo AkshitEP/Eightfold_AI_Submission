@@ -1,0 +1,50 @@
+{
+    "target_id": "316",
+    "recommendations": [
+        {
+            "recommender_id": "972",
+            "recommendation": {
+                "resume_file": "316.json",
+                "recommendation_file": "Recommendation_From_ID_972.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Procurement",
+                        "Supply Chain Management",
+                        "Leadership",
+                        "Operations Management",
+                        "Time Management",
+                        "Communication",
+                        "SAP"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operations management, purchasing, and inventory control skills. The source of the recommendation is a peer, indicating a strong working relationship and firsthand knowledge of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "687",
+            "recommendation": {
+                "resume_file": "316.json",
+                "recommendation_file": "Recommendation_From_ID_687.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Procurement",
+                        "Supply Chain Management",
+                        "Leadership",
+                        "Operations Management",
+                        "Communication",
+                        "SAP"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in operations and management, but some claims seem exaggerated or unsupported. The source of the recommendation is unclear, and the tone is overly positive."
+                }
+            }
+        }
+    ]
+}

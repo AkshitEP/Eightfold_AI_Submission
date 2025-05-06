@@ -1,0 +1,12 @@
+{
+    "resume_file": "125.json",
+    "recommendation_file": "Recommendation_From_ID_573.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be written for a different person, with no direct connection to the candidate's skills, experience, or roles mentioned in the resume. The language is formal, but the content is inconsistent with the candidate's background.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align well with the candidate's skills and experience, providing no specific examples of their work in manufacturing or operations. The recommendation seems to be written for a different person, with a focus on child care and kids activities programs."
+    }
+}

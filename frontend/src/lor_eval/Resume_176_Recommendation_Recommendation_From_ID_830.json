@@ -1,0 +1,12 @@
+{
+    "resume_file": "176.json",
+    "recommendation_file": "Recommendation_From_ID_830.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation mentions administrative roles, but the candidate's resume highlights supervisory and leadership roles in customer service and benefit advocacy. The recommendation also mentions bilingual skills in Spanish, which is not mentioned in the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide any specific examples or evidence from the candidate's resume, and the skills and experience mentioned do not align with the candidate's profile. This raises concerns about the authenticity of the recommendation."
+    }
+}

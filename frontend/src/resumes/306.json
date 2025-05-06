@@ -1,0 +1,113 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Lead Information Technology Support Specialist",
+                "work_description": "Perform lead worker functions including assigning, coordinating and reviewing daily work of staff, training other employees and act as a resource to other staff. Perform help desk systems administration; develop and document procedures. Coordinate with technical support team, management, and users to define user needs for new or improved systems; coordinate software deployments and PC replacements; manage hardware and software inventories.",
+                "company_level": "Mid-level",
+                "start_date": "03/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Information Technology Support Specialist",
+                "work_description": "Identify, troubleshoot, install, program, configure, upgrade, analyze and maintain various computer and network peripherals including mobile data computing devices. Determine appropriate course of action and conduct repairs, modifications, procurement, and replacement of internal peripherals as needed. Install, configure, and support enterprise class, SQL compliant database software.",
+                "company_level": "Mid-level",
+                "start_date": "04/2007",
+                "end_date": "03/2016"
+            },
+            {
+                "role_name": "End User Support Specialist",
+                "work_description": "Ensure customer satisfaction by responding to calls to the help desk. Logs all customer questions and problems and tracks the same through to resolution. Field over 20,800 calls from user community per year. Analyze each call for problem symptoms then determine problem resolution.",
+                "company_level": "Mid-level",
+                "start_date": "08/2004",
+                "end_date": "03/2007"
+            },
+            {
+                "role_name": "Instructional Support Specialist",
+                "work_description": "Provided administrative/secretarial support to all full- and part-time instructors in the Business Computer Information Systems Department. Worked cooperatively with Department Chair and all other faculty of the Business Education Department located on the Main Campus, Chico Center, Orland, Paradise, and Glenn County.",
+                "company_level": "Mid-level",
+                "start_date": "08/2002",
+                "end_date": "05/2004"
+            },
+            {
+                "role_name": "Instructional Support Asst I",
+                "work_description": "Instructed and tutored Corporate Information Technology students in the basics of: Database design: including ERD diagrams, data dictionaries, using all functions of Microsoft Access. SAP R/3: enterprise wide functionality, materials requirement planning (MRP) functionality and to create a personnel file for a new employee.",
+                "company_level": "Mid-level",
+                "start_date": "02/2002",
+                "end_date": "05/2002"
+            },
+            {
+                "role_name": "Computer Systems Manager",
+                "work_description": "Database Manager and Desktop Publisher Managed and maintained customized church database with 6000+ entries including membership, attendance, and contribution modules. Produced tailored reports for administrator using data analysis and manipulation techniques.",
+                "company_level": "Mid-level",
+                "start_date": "06/1994",
+                "end_date": "05/1997"
+            }
+        ],
+        "education": [
+            {
+                "university": "California State University",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Business Administration, Management Information Systems",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Database Management",
+                "level": 5,
+                "explanation": "Extensive experience in managing and maintaining databases, including designing and implementing database systems, and creating tailored reports using data analysis and manipulation techniques."
+            },
+            {
+                "name": "Technical Support",
+                "level": 5,
+                "explanation": "Over 15 years of experience in providing technical support, including troubleshooting, installing, configuring, and upgrading computer and network peripherals, and resolving customer issues."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Experience in leading teams, including assigning, coordinating, and reviewing daily work of staff, training other employees, and acting as a resource to other staff."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Proven ability to analyze problems, determine course of action, and conduct repairs, modifications, procurement, and replacement of internal peripherals as needed."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Excellent communication skills, with experience in responding to customer calls, logging and tracking issues, and providing resolution to customer problems."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Experience in analyzing data, creating reports, and manipulating data to meet customer needs."
+            },
+            {
+                "name": "Microsoft Access",
+                "level": 4,
+                "explanation": "Experience in using Microsoft Access to design and implement database systems, and to create tailored reports using data analysis and manipulation techniques."
+            },
+            {
+                "name": "SAP R/3",
+                "level": 3,
+                "explanation": "Experience in using SAP R/3 to create a personnel file for a new employee, and to demonstrate enterprise-wide functionality and materials requirement planning (MRP) functionality."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Experience in managing projects, including coordinating software deployments and PC replacements, and managing hardware and software inventories."
+            },
+            {
+                "name": "SQL",
+                "level": 3,
+                "explanation": "Experience in installing, configuring, and supporting enterprise-class, SQL-compliant database software."
+            }
+        ]
+    }
+}

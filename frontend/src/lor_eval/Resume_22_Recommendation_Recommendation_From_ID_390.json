@@ -1,0 +1,18 @@
+{
+    "resume_file": "22.json",
+    "recommendation_file": "Recommendation_From_ID_390.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Crisis Intervention",
+            "Trauma-Informed Care",
+            "Case Management",
+            "Group Facilitation",
+            "Leadership"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in crisis intervention, trauma-informed care, and advocacy. The recommendation is written in a formal and professional tone, suggesting a genuine endorsement from a supervisor or colleague."
+    }
+}

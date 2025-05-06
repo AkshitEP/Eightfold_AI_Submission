@@ -1,0 +1,89 @@
+{
+    "target_id": "925",
+    "recommendations": [
+        {
+            "recommender_id": "729",
+            "recommendation": {
+                "resume_file": "925.json",
+                "recommendation_file": "Recommendation_From_ID_729.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Data Management",
+                        "Scheduling",
+                        "Relationship Building",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their talent management and coordination abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "211",
+            "recommendation": {
+                "resume_file": "925.json",
+                "recommendation_file": "Recommendation_From_ID_211.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Data Management",
+                        "Scheduling",
+                        "Relationship Building",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their talent acquisition and management skills, as well as their ability to build strong relationships and facilitate collaboration among teams."
+                }
+            }
+        },
+        {
+            "recommender_id": "16",
+            "recommendation": {
+                "resume_file": "925.json",
+                "recommendation_file": "Recommendation_From_ID_16.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Data Management",
+                        "Scheduling",
+                        "Relationship Building",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment, HR data management, and relationship building abilities. The recommendation source is a peer, a phlebotomist, who has witnessed the candidate's work firsthand."
+                }
+            }
+        },
+        {
+            "recommender_id": "645",
+            "recommendation": {
+                "resume_file": "925.json",
+                "recommendation_file": "Recommendation_From_ID_645.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and relationship to the candidate, are unclear. However, the language is formal and the claims are generally supported by the resume.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Data Management",
+                        "Scheduling",
+                        "Relationship Building",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment and HR data management abilities. However, the recommender's role and relationship to the candidate are unclear, which may raise some minor concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

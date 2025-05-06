@@ -1,0 +1,16 @@
+{
+    "resume_file": "717.json",
+    "recommendation_file": "Recommendation_From_ID_971.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall the recommendation seems credible.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Sales"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but it lacks specific examples or details about the candidate's experience in counseling, crisis intervention, or time management."
+    }
+}

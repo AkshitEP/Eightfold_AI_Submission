@@ -1,0 +1,15 @@
+{
+    "resume_file": "230.json",
+    "recommendation_file": "Recommendation_From_ID_49.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The language is formal, but the recommendation seems to be written by someone who is not directly familiar with the candidate's work.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem Resolution"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in customer service and problem resolution, but it seems to be written by someone who is not directly familiar with the candidate's work. The recommendation also mentions the candidate's ability to navigate intricate situations, but it does not provide specific examples from their work experience."
+    }
+}

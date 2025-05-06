@@ -1,0 +1,19 @@
+{
+    "resume_file": "710.json",
+    "recommendation_file": "Recommendation_From_ID_66.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Financial Analysis",
+            "Financial Reporting",
+            "Accounting Principles",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and financial management expertise. The language used is formal and professional, indicating a genuine recommendation."
+    }
+}

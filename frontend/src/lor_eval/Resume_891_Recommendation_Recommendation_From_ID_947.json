@@ -1,0 +1,18 @@
+{
+    "resume_file": "891.json",
+    "recommendation_file": "Recommendation_From_ID_947.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Recruitment",
+            "Talent Management",
+            "HR Consulting",
+            "Leadership",
+            "Employee Relations"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in HR consulting, talent acquisition, and employee relations. The source of the recommendation is a Regional HR Manager, indicating a peer-level endorsement."
+    }
+}

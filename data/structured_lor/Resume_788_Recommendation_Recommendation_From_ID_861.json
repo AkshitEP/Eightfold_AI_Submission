@@ -1,0 +1,17 @@
+{
+    "resume_file": "788.json",
+    "recommendation_file": "Recommendation_From_ID_861.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Administrative Support",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and communication skills. The recommendation also highlights the candidate's military background and its positive impact on their work ethic and problem-solving skills."
+    }
+}

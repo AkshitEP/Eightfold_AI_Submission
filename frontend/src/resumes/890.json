@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Dental Hygienist",
+                "work_description": "Provide optimal dental hygiene care for every patient, reinforce oral hygiene instructions to every patient and each appointment, educate patients on their periodontal status, treatment possibilities, potential surgical, restorative or cosmetic procedures that may possibly be needed. Educate patients on the benefits of preventative care such as fluoride and sealants.",
+                "company_level": "Unknown",
+                "start_date": "09/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Dental Hygienist",
+                "work_description": "Assess patients oral health conditions, review dental and medical histories, dental charting, periodontal assessment and treatment, soft tissue management, administer local antibiotics, fabricate bleaching trays and occlusal guards, schedule patient appointments.",
+                "company_level": "Unknown",
+                "start_date": "02/2008",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Dental Hygienist",
+                "work_description": "Worked on an as-needed basis as a part-time hygienist providing dental care to patients as well as periodontal treatment and maintenance. Exposed and developed radiographs, recorded conditions for diagnosis and treatment by dentist. Applied fluoride and sealants.",
+                "company_level": "Unknown",
+                "start_date": "06/2006",
+                "end_date": "12/2010"
+            },
+            {
+                "role_name": "Dental Assistant",
+                "work_description": "Provided dental and hygiene assistance during surgery, services, and cleanings. Maintained equipment and sterilized dental instruments. Answered phone calls, schedules appointments, trained new employees on back office duties.",
+                "company_level": "Unknown",
+                "start_date": "02/2003",
+                "end_date": "06/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Nova Southeastern University",
+                "start_date": "Unknown",
+                "end_date": "2015",
+                "domain": "Health Sciences",
+                "level": "Master's"
+            },
+            {
+                "university": "St Petersburg College",
+                "start_date": "Unknown",
+                "end_date": "2011",
+                "domain": "Dental Hygiene",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Florida State College",
+                "start_date": "Unknown",
+                "end_date": "2005",
+                "domain": "Dental Hygiene",
+                "level": "Associate's"
+            },
+            {
+                "university": "Tidewater Technical Institute",
+                "start_date": "Unknown",
+                "end_date": "1999",
+                "domain": "Dental Assisting",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Dental Hygiene",
+                "level": 5,
+                "explanation": "Over 15 years of experience as a dental hygienist, providing optimal dental hygiene care, educating patients, and performing various treatments, indicating expert-level mastery."
+            },
+            {
+                "name": "Patient Education",
+                "level": 4,
+                "explanation": "Consistently reinforced oral hygiene instructions and educated patients on their periodontal status, treatment possibilities, and preventative care, showing strong proficiency."
+            },
+            {
+                "name": "Periodontal Assessment and Treatment",
+                "level": 4,
+                "explanation": "Performed periodontal assessments and treatments, including soft tissue management and administering local antibiotics, suggesting strong proficiency."
+            },
+            {
+                "name": "Dental Charting",
+                "level": 3,
+                "explanation": "Recorded patients' dental and medical histories, and performed dental charting, indicating solid working proficiency."
+            },
+            {
+                "name": "Radiography",
+                "level": 3,
+                "explanation": "Exposed and developed radiographs, recorded conditions for diagnosis and treatment, showing solid working proficiency."
+            },
+            {
+                "name": "Dental Instrument Sterilization",
+                "level": 2,
+                "explanation": "Maintained equipment and sterilized dental instruments as a dental assistant, indicating some practical experience."
+            },
+            {
+                "name": "Dental Assisting",
+                "level": 2,
+                "explanation": "Provided dental and hygiene assistance during surgery, services, and cleanings, showing some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 1,
+                "explanation": "Trained new employees on back office duties as a dental assistant, but limited leadership experience, indicating basic familiarity."
+            }
+        ]
+    }
+}

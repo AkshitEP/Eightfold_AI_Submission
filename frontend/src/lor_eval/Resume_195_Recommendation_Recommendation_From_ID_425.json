@@ -1,0 +1,17 @@
+{
+    "resume_file": "195.json",
+    "recommendation_file": "Recommendation_From_ID_425.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the Specialist's extensive experience and technical skills, but does not provide specific examples or details to support these claims.",
+        "verified_skills": [
+            "IT Systems Administration",
+            "Network Administration",
+            "Computer Hardware Maintenance",
+            "Training and End-User Support"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation highlights the Specialist's technical skills and customer service dedication, but lacks specific examples and details to support these claims. The recommendation also mentions the Manager's guidance and leadership, which suggests a collaborative spirit and a well-rounded professional."
+    }
+}

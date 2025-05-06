@@ -1,0 +1,112 @@
+{
+    "target_id": "279",
+    "recommendations": [
+        {
+            "recommender_id": "522",
+            "recommendation": {
+                "resume_file": "279.json",
+                "recommendation_file": "Recommendation_From_ID_522.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Management",
+                        "Network Management",
+                        "Software Development",
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Troubleshooting",
+                        "Process Improvement",
+                        "IT Systems Implementation",
+                        "Technical Support",
+                        "Chemical Engineering",
+                        "Computer Science and Information Technology"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT expertise and unique combination of chemical engineering and IT skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "735",
+            "recommendation": {
+                "resume_file": "279.json",
+                "recommendation_file": "Recommendation_From_ID_735.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Management",
+                        "Network Management",
+                        "Software Development",
+                        "Data Analysis",
+                        "IT Systems Implementation",
+                        "Technical Support",
+                        "Process Improvement"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in IT systems implementation, network management, and software development. The source of the recommendation is a Director of Information Technology, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "227",
+            "recommendation": {
+                "resume_file": "279.json",
+                "recommendation_file": "Recommendation_From_ID_227.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Management",
+                        "Network Management",
+                        "Software Development",
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Troubleshooting",
+                        "Process Improvement",
+                        "IT Systems Implementation",
+                        "Technical Support",
+                        "Chemical Engineering",
+                        "Computer Science and Information Technology"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and collaboration. The recommender's background in senior technical support adds credibility to their endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "494",
+            "recommendation": {
+                "resume_file": "279.json",
+                "recommendation_file": "Recommendation_From_ID_494.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Management",
+                        "Network Management",
+                        "Software Development",
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Troubleshooting",
+                        "Process Improvement",
+                        "IT Systems Implementation",
+                        "Technical Support",
+                        "Chemical Engineering",
+                        "Computer Science and Information Technology"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and collaborative spirit. The source of the recommendation appears to be a supervisor or manager, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

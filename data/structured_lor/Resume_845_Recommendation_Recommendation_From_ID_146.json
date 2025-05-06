@@ -1,0 +1,23 @@
+{
+    "resume_file": "845.json",
+    "recommendation_file": "Recommendation_From_ID_146.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Strategic Planning",
+            "Financial Management",
+            "Clinical Management",
+            "Regulatory Compliance",
+            "Staff Supervision",
+            "Patient Care",
+            "Communication",
+            "Time Management",
+            "Healthcare Administration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, strategic planning, and financial management abilities. The recommender's experience as an Operations Manager in healthcare management adds credibility to the recommendation."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "575.json",
+    "recommendation_file": "Recommendation_From_ID_289.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. The recommender claims to have observed the candidate's skills over a decade, but the candidate's resume only shows experience since 2011.",
+        "verified_skills": [
+            "Investment Banking Operations",
+            "Loan Management",
+            "Data Analysis",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's analytical abilities, attention to detail, and communication skills, which align with their resume. However, the recommender's role and relationship to the candidate are unclear, and the claim of observing the candidate's skills over a decade seems exaggerated."
+    }
+}

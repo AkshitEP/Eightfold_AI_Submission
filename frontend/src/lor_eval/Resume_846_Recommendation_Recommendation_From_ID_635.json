@@ -1,0 +1,18 @@
+{
+    "resume_file": "846.json",
+    "recommendation_file": "Recommendation_From_ID_635.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Customer Service",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and problem-solving skills. However, it does not directly reference all of the candidate's skills, such as Data Analysis, Microsoft Excel, and Case Management."
+    }
+}

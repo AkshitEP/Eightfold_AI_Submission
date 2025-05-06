@@ -1,0 +1,17 @@
+{
+    "resume_file": "457.json",
+    "recommendation_file": "Recommendation_From_ID_952.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender claims to be a Finance Manager, but the recommendation is about an IT intern. This inconsistency raises some concerns about the recommender's credibility.",
+        "verified_skills": [
+            "Microsoft Excel",
+            "Technical Support",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical skills and problem-solving abilities. However, the recommender's background and relationship with the candidate are unclear, which raises some concerns about the credibility of the recommendation."
+    }
+}

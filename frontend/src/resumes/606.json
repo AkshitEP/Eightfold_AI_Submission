@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant I",
+                "work_description": "Provide Administrative support to the Finance Unit and maintain orderly filing system for various departmental units. Oversee and maintain the proper and appropriate systems for storing financial records and documents utilized by finance unit. Assist Contracts and Accounts Payable department with clerical duties such as faxing, filing, copying and scanning and assisting with the creation and editing of documents, spreadsheets or PowerPoint presentations.",
+                "company_level": "Mid-level",
+                "start_date": "12/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Intern",
+                "work_description": "Assisted the Human Resources department. Assisted the HR Liaison with collecting various forms (EPRS, GIC, retirement, among others), couriering important documents to various state agencies, and helping create and fill out any necessary forms. Maintained strictly confidential information and file HR Documents.",
+                "company_level": "Mid-level",
+                "start_date": "05/2010",
+                "end_date": "11/2010"
+            },
+            {
+                "role_name": "Security Officer",
+                "work_description": "Prepared written reports for complaints and incidents that occurred during an event. Provided Customer service. Ensured the safety of fans and the TD Garden property.",
+                "company_level": "Mid-level",
+                "start_date": "11/2008",
+                "end_date": "06/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Bridgewater State University",
+                "start_date": "01/2010",
+                "end_date": "05/2015",
+                "domain": "Business Management Accounting, Psychology",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Administrative Support",
+                "level": 4,
+                "explanation": "Provided administrative support to the Finance Unit and maintained orderly filing system for various departmental units, showing strong proficiency."
+            },
+            {
+                "name": "Record Keeping",
+                "level": 4,
+                "explanation": "Maintained proper and appropriate systems for storing financial records and documents, and also maintained strictly confidential information and file HR Documents, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided customer service as a Security Officer, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 2,
+                "explanation": "Assisted with the creation and editing of documents, spreadsheets or PowerPoint presentations, suggesting some practical experience."
+            },
+            {
+                "name": "Time Management",
+                "level": 2,
+                "explanation": "Handled multiple tasks and responsibilities in different roles, indicating some practical experience."
+            },
+            {
+                "name": "Communication",
+                "level": 2,
+                "explanation": "Created written reports for complaints and incidents, and also assisted with filling out forms, suggesting some practical experience."
+            },
+            {
+                "name": "Accounting",
+                "level": 1,
+                "explanation": "Studied Business Management Accounting, but there is no direct work experience mentioned, indicating basic familiarity."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 2,
+                "explanation": "Used Microsoft Office for creating and editing documents, spreadsheets or PowerPoint presentations, suggesting some practical experience."
+            }
+        ]
+    }
+}

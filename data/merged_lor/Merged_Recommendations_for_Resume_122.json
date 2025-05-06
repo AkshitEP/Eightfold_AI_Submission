@@ -1,0 +1,96 @@
+{
+    "target_id": "122",
+    "recommendations": [
+        {
+            "recommender_id": "54",
+            "recommendation": {
+                "resume_file": "122.json",
+                "recommendation_file": "Recommendation_From_ID_54.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Payroll Management",
+                        "Financial Analysis",
+                        "Account Reconciliation",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and collaboration across departments."
+                }
+            }
+        },
+        {
+            "recommender_id": "707",
+            "recommendation": {
+                "resume_file": "122.json",
+                "recommendation_file": "Recommendation_From_ID_707.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Payroll Management",
+                        "Financial Analysis",
+                        "Account Reconciliation",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and teamwork. The source of the recommendation appears to be a peer, indicating a firsthand account of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "650",
+            "recommendation": {
+                "resume_file": "122.json",
+                "recommendation_file": "Recommendation_From_ID_650.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Payroll Management",
+                        "Financial Analysis",
+                        "Account Reconciliation",
+                        "Microsoft Excel",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and proficiency in various accounting systems."
+                }
+            }
+        },
+        {
+            "recommender_id": "857",
+            "recommendation": {
+                "resume_file": "122.json",
+                "recommendation_file": "Recommendation_From_ID_857.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Payroll Management",
+                        "Financial Analysis",
+                        "Account Reconciliation",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and technical knowledge. The source of the recommendation appears to be a colleague, as they mention working together and witnessing the candidate's dedication and expertise firsthand."
+                }
+            }
+        }
+    ]
+}

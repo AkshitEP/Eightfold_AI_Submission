@@ -1,0 +1,18 @@
+{
+    "resume_file": "733.json",
+    "recommendation_file": "Recommendation_From_ID_172.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'HR Assistant' which is not present in the resume. However, the recommendation still seems largely credible.",
+        "verified_skills": [
+            "Recruitment",
+            "Employee Relations",
+            "Human Resources Management",
+            "Communication",
+            "Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR functions and accomplishments. However, some minor inconsistencies and lack of specific details in certain areas prevent it from being a perfect match."
+    }
+}

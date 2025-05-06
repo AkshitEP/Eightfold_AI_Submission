@@ -1,0 +1,16 @@
+{
+    "resume_id": 1,
+    "recommendation_file": "Recommendation_From_ID_412.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Unclear source, exaggerated claims, and lack of concrete examples.",
+        "verified_skills": [
+            "Project Management",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks substantial detail and alignment with the key areas of expertise in mortgage banking, customer service, and leadership."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "498.json",
+    "recommendation_file": "Recommendation_From_ID_555.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and relationship to the candidate being unclear. However, the language is formal and the claims are generally supported by the resume.",
+        "verified_skills": [
+            "Sales Management",
+            "Business Development",
+            "Leadership",
+            "Strategy Development",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales management and business development abilities. However, the recommender's role and relationship to the candidate are unclear, which may raise some minor concerns about the recommendation's credibility."
+    }
+}

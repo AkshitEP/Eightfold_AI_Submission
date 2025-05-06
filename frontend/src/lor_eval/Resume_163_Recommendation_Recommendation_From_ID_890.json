@@ -1,0 +1,17 @@
+{
+    "resume_file": "163.json",
+    "recommendation_file": "Recommendation_From_ID_890.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Time Management",
+            "Teamwork",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, time management, and teamwork abilities. The recommender's background as a Dental Hygienist adds credibility to their assessment of the candidate's communication and problem-solving skills."
+    }
+}

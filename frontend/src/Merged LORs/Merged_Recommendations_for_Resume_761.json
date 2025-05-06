@@ -1,0 +1,90 @@
+{
+    "target_id": "761",
+    "recommendations": [
+        {
+            "recommender_id": "467",
+            "recommendation": {
+                "resume_file": "761.json",
+                "recommendation_file": "Recommendation_From_ID_467.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Cyber Security",
+                        "Information Technology",
+                        "Team Management",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, cybersecurity expertise, and ability to motivate a diverse team."
+                }
+            }
+        },
+        {
+            "recommender_id": "248",
+            "recommendation": {
+                "resume_file": "761.json",
+                "recommendation_file": "Recommendation_From_ID_248.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to focus on a different role and experience not mentioned in the resume.",
+                    "verified_skills": [
+                        "Information Technology",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation does not strongly align with the candidate's skills and experience, providing limited specific examples of their technical expertise and leadership skills. The recommendation seems to focus on a different role and experience not mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "854",
+            "recommendation": {
+                "resume_file": "761.json",
+                "recommendation_file": "Recommendation_From_ID_854.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Center Management",
+                        "Cyber Security",
+                        "Team Management",
+                        "Network Design and Architecture",
+                        "Project Management",
+                        "ERP Solution Management",
+                        "Strategic Planning",
+                        "Risk Management",
+                        "Leadership",
+                        "Information Technology"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their leadership, technical expertise, and strategic thinking. The recommender's role as a Vice President of Information Technology adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "74",
+            "recommendation": {
+                "resume_file": "761.json",
+                "recommendation_file": "Recommendation_From_ID_74.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Information Technology",
+                        "Team Management",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and IT management skills. However, some claims seem exaggerated, such as the ability to 'significantly advance their organization's technological capabilities' without providing concrete evidence."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "134.json",
+    "recommendation_file": "Recommendation_From_ID_320.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession (RN and Assistant Head Nurse Practice Leader) does not directly align with the candidate's experience and skills. However, the recommendation provides specific examples of the candidate's skills and accomplishments.",
+        "verified_skills": [
+            "Counseling",
+            "Project Management",
+            "Community Outreach",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional skills in counseling and program development, as well as their ability to establish key partnerships within the community. However, the recommender's profession does not directly align with the candidate's experience and skills, which raises some concerns about the recommender's familiarity with the candidate's work."
+    }
+}

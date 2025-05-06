@@ -1,0 +1,22 @@
+{
+    "resume_file": "206.json",
+    "recommendation_file": "Recommendation_From_ID_754.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. The source of the recommendation is unclear, and the title 'EPIC Information Technology Specialist' does not match the candidate's job history.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Mergers and Acquisitions",
+            "Investment Banking",
+            "Financial Modeling",
+            "Data Analysis",
+            "Valuation",
+            "Database Management",
+            "Market Research",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but the language is overly flattering and lacks specific examples from the candidate's resume. The source of the recommendation is unclear, and the title 'EPIC Information Technology Specialist' does not match the candidate's job history."
+    }
+}

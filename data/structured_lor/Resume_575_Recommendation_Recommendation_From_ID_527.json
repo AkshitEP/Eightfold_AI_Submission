@@ -1,0 +1,20 @@
+{
+    "resume_file": "575.json",
+    "recommendation_file": "Recommendation_From_ID_527.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Investment Banking Operations",
+            "Loan Management",
+            "Data Analysis",
+            "Project Management",
+            "Compliance Management",
+            "Communication",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and problem-solving abilities, communication skills, and leadership capabilities."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "902.json",
+    "recommendation_file": "Recommendation_From_ID_27.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation appears to be written for a different profession (Group Fitness Coordinator) and lacks specific examples of the candidate's case management experience. However, it does mention some transferable skills such as leadership, organizational skills, and interpersonal skills.",
+        "verified_skills": [
+            "Assessment and Intervention",
+            "Advocacy",
+            "Client Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not seem to be written specifically for the candidate's case management experience, but it does highlight some relevant skills that can be applied to the role. However, the lack of specific examples and the mismatch in profession raises concerns about the authenticity of the recommendation."
+    }
+}

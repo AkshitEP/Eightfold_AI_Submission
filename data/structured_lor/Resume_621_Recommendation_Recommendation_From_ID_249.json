@@ -1,0 +1,24 @@
+{
+    "resume_file": "621.json",
+    "recommendation_file": "Recommendation_From_ID_249.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's profession as a synthetic chemist seems unrelated to the candidate's field of expertise, raising some concerns about the authenticity of the recommendation. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Polysomnogram Preparation and Setup",
+            "Diagnostic Testing",
+            "Patient Monitoring and Scoring",
+            "Data Transfers",
+            "Windows OS",
+            "EEG and LTM",
+            "Patient Preparation and Education",
+            "Equipment Calibration",
+            "Clinical Patient Evaluation",
+            "Disease Management Programs",
+            "Respiratory and Sleep Equipment Setup"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional analytical and critical thinking skills, as well as their ability to manage both patient care and technical processes seamlessly. However, the recommender's profession seems unrelated to the candidate's field of expertise, which raises some concerns about the authenticity of the recommendation."
+    }
+}

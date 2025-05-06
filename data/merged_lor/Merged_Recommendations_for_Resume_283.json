@@ -1,0 +1,65 @@
+{
+    "target_id": "283",
+    "recommendations": [
+        {
+            "recommender_id": "217",
+            "recommendation": {
+                "resume_file": "283.json",
+                "recommendation_file": "Recommendation_From_ID_217.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reconciliation",
+                        "Budgeting",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and financial management abilities. The source of the recommendation is a colleague, indicating a peer-level endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "342",
+            "recommendation": {
+                "resume_file": "283.json",
+                "recommendation_file": "Recommendation_From_ID_342.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reconciliation",
+                        "Customer Service",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and customer service abilities. The source of the recommendation appears to be a peer, as they mention observing the candidate's work and having a working relationship with them."
+                }
+            }
+        },
+        {
+            "recommender_id": "52",
+            "recommendation": {
+                "resume_file": "283.json",
+                "recommendation_file": "Recommendation_From_ID_52.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reconciliation",
+                        "Budgeting",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and financial management expertise."
+                }
+            }
+        }
+    ]
+}

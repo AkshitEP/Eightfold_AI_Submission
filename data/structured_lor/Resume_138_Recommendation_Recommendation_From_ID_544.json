@@ -1,0 +1,18 @@
+{
+    "resume_file": "138.json",
+    "recommendation_file": "Recommendation_From_ID_544.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Data Analysis",
+            "R Programming",
+            "Statistical knowledge",
+            "Leadership skills",
+            "Communication skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but may contain some exaggerated claims."
+    }
+}

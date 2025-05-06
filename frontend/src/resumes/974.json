@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Program Manager",
+                "work_description": "Mange 16 bed detoxification unit and 12 bed sobering center, mange and supervise the day to day operation of both inpatient and outpatient facilities. Select, supervise, train, develop, and evaluate staff Maintain licenses and certification for both inpatient and outpatient treatment Provide patient care, ensure safety and discharge plan Available 24/7 via cell phone for staff consult and staffing issues.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Rehabilitation/Detox Lead Nurse",
+                "work_description": "Patient care, medication administration, transcribe doctors' orders, Provide quality care to patients Attend to clients Physical and emotional needs. Coordinate aftercare treatment; maintain accountability for medications, patients and Hospital equipment.",
+                "company_level": "Mid-level",
+                "start_date": "06/2000",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "SSG, Squad Leader, Physical Fitness Instructor",
+                "work_description": "Critical care, Cardiac nurse, Patient Care, Charting, give medication. Counseling soldiers.",
+                "company_level": "Mid-level",
+                "start_date": "09/1997",
+                "end_date": "04/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "City University of Seattle",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Fort Sam Houston Military Academy of Science",
+                "start_date": "01/1998",
+                "end_date": "12/1998",
+                "domain": "Management",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including managing facilities, supervising staff, and leading teams, indicating expert-level mastery."
+            },
+            {
+                "name": "Patient Care",
+                "level": 5,
+                "explanation": "Has over two decades of experience in patient care, including critical care, medication administration, and counseling, showing expert-level proficiency."
+            },
+            {
+                "name": "Staff Management",
+                "level": 4,
+                "explanation": "Has experience in selecting, supervising, training, and evaluating staff, indicating strong proficiency in staff management."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience in managing day-to-day operations, including being available 24/7 for staff consult and staffing issues, suggesting strong proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in counseling soldiers and providing quality care to patients, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Has experience in handling staffing issues and providing patient care, showing a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Project Management",
+                "level": 0,
+                "explanation": "No direct experience in project management, but has experience in managing facilities and staff."
+            }
+        ]
+    }
+}

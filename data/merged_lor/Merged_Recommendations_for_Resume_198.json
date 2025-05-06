@@ -1,0 +1,49 @@
+{
+    "target_id": "198",
+    "recommendations": [
+        {
+            "recommender_id": "697",
+            "recommendation": {
+                "resume_file": "198.json",
+                "recommendation_file": "Recommendation_From_ID_697.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Strategic Planning",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning and analysis, leadership, and strategic planning abilities. The recommendation is from a Director of Finance with over 25 years of experience, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "510",
+            "recommendation": {
+                "resume_file": "198.json",
+                "recommendation_file": "Recommendation_From_ID_510.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Data Analysis",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Strategic Planning",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning and strategic insights. The recommendation highlights the candidate's expertise in leading initiatives, analytical capability, and interpersonal skills."
+                }
+            }
+        }
+    ]
+}

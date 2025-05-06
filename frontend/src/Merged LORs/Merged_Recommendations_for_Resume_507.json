@@ -1,0 +1,87 @@
+{
+    "target_id": "507",
+    "recommendations": [
+        {
+            "recommender_id": "605",
+            "recommendation": {
+                "resume_file": "507.json",
+                "recommendation_file": "Recommendation_From_ID_605.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Nursing Assistance",
+                        "Mobility Assistance",
+                        "Vital Signs Monitoring",
+                        "Daily Living Activities"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and nursing assistance skills. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "584",
+            "recommendation": {
+                "resume_file": "507.json",
+                "recommendation_file": "Recommendation_From_ID_584.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's role as a Database Programmer/Analyst seems unrelated to the candidate's field of work, which raises some concerns about the recommender's ability to accurately assess the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Nursing Assistance",
+                        "Mobility Assistance",
+                        "Daily Living Activities"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in patient care, adaptability, and professional bedside manner, but the recommender's background and relationship to the candidate are unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "31",
+            "recommendation": {
+                "resume_file": "507.json",
+                "recommendation_file": "Recommendation_From_ID_31.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Nursing Assistance",
+                        "Mobility Assistance",
+                        "Vital Signs Monitoring"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and nursing assistance skills. The recommender's tone is professional and supportive, indicating a genuine endorsement of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "658",
+            "recommendation": {
+                "resume_file": "507.json",
+                "recommendation_file": "Recommendation_From_ID_658.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Nursing Assistance",
+                        "Mobility Assistance",
+                        "Vital Signs Monitoring",
+                        "Daily Living Activities"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and nursing assistance skills. The source of the recommendation appears to be someone who has observed the candidate's work in a healthcare setting, possibly a supervisor or colleague."
+                }
+            }
+        }
+    ]
+}

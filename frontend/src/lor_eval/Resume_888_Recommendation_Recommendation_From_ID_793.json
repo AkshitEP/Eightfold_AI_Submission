@@ -1,0 +1,18 @@
+{
+    "resume_file": "888.json",
+    "recommendation_file": "Recommendation_From_ID_793.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Mortgage Underwriting",
+            "Risk Analysis",
+            "Financial Analysis",
+            "Compliance",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their underwriting abilities and attention to detail. The recommender's background in regulatory compliance and risk management adds credibility to their endorsement."
+    }
+}

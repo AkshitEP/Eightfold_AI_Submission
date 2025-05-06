@@ -1,0 +1,130 @@
+{
+    "target_id": "242",
+    "recommendations": [
+        {
+            "recommender_id": "20",
+            "recommendation": {
+                "resume_file": "242.json",
+                "recommendation_file": "Recommendation_From_ID_20.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Human Resources Management",
+                        "Project Management",
+                        "Global Talent Management",
+                        "Organizational Development",
+                        "Recruitment and Staffing",
+                        "Training and Development",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer/Boss",
+                    "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience. It provides specific examples of their leadership, project management, and HR expertise, and is written in a formal and professional tone."
+                }
+            }
+        },
+        {
+            "recommender_id": "933",
+            "recommendation": {
+                "resume_file": "242.json",
+                "recommendation_file": "Recommendation_From_ID_933.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Human Resources Management",
+                        "Project Management",
+                        "Global Talent Management",
+                        "Organizational Development",
+                        "Recruitment and Staffing",
+                        "Training and Development",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, leadership abilities, and global talent management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "7",
+            "recommendation": {
+                "resume_file": "242.json",
+                "recommendation_file": "Recommendation_From_ID_7.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Human Resources Management",
+                        "Project Management",
+                        "Global Talent Management",
+                        "Organizational Development",
+                        "Recruitment and Staffing",
+                        "Training and Development",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience. The recommender, an HR Director, provides specific examples of the candidate's accomplishments and strengths, demonstrating a deep understanding of their capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "446",
+            "recommendation": {
+                "resume_file": "242.json",
+                "recommendation_file": "Recommendation_From_ID_446.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Human Resources Management",
+                        "Project Management",
+                        "Global Talent Management",
+                        "Organizational Development",
+                        "Recruitment and Staffing",
+                        "Training and Development",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, project management, and talent development expertise. However, the recommendation appears to be written for two individuals, which may indicate a template or generic recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "422",
+            "recommendation": {
+                "resume_file": "242.json",
+                "recommendation_file": "Recommendation_From_ID_422.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Human Resources Management",
+                        "Project Management",
+                        "Global Talent Management",
+                        "Organizational Development",
+                        "Recruitment and Staffing",
+                        "Training and Development",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, project management capabilities, and analytical skills. The source of the recommendation is a peer, who has worked closely with the candidate and can attest to their abilities."
+                }
+            }
+        }
+    ]
+}

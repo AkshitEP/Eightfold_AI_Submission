@@ -1,0 +1,80 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Maintained accounts receivable documentation electronically and on paper. Processed bank reconciliations and financial reports to verify practice of p weekly and monthly. Increased efficiency and alleviated work loads by creating a new Excel financial recording system. Collaborated extensively with auditors during preliminary and year-end audit processes. Entered weekly sales and customer count sheets for review by management. Processed payroll, electronic deposits and employee pay adjustments.",
+                "company_level": "Mid-level",
+                "start_date": "07/2012",
+                "end_date": "10/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Greenwich",
+                "start_date": "01/2012",
+                "end_date": "12/2014",
+                "domain": "Business Studies",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Oshwal College",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Business",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Traveling",
+            "Hiking",
+            "Reading",
+            "Modeling"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Processed bank reconciliations and financial reports to verify practice on a weekly and monthly basis, showing strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Processed payroll, electronic deposits, and employee pay adjustments, indicating strong proficiency in payroll management."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Created a new Excel financial recording system to increase efficiency, suggesting strong proficiency in using Excel for financial management."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 3,
+                "explanation": "Processed financial reports to verify practice on a weekly and monthly basis, showing a solid working proficiency in financial reporting."
+            },
+            {
+                "name": "Auditing",
+                "level": 2,
+                "explanation": "Collaborated extensively with auditors during preliminary and year-end audit processes, indicating some practical experience in auditing."
+            },
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Maintained accounts receivable documentation electronically and on paper, and entered weekly sales and customer count sheets for review by management, suggesting strong proficiency in accounting."
+            },
+            {
+                "name": "Leadership",
+                "level": 1,
+                "explanation": "No direct leadership experience mentioned, but collaborated with auditors, indicating basic familiarity with leadership skills."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Entered weekly sales and customer count sheets for review by management, indicating some practical experience in data analysis."
+            }
+        ]
+    }
+}

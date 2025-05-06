@@ -1,0 +1,122 @@
+{
+    "target_id": "527",
+    "recommendations": [
+        {
+            "recommender_id": "442",
+            "recommendation": {
+                "resume_file": "527.json",
+                "recommendation_file": "Recommendation_From_ID_442.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Training",
+                        "Leadership",
+                        "Customer Service",
+                        "Employee Training",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and training abilities, leadership skills, and customer-centric approach."
+                }
+            }
+        },
+        {
+            "recommender_id": "550",
+            "recommendation": {
+                "resume_file": "527.json",
+                "recommendation_file": "Recommendation_From_ID_550.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Training",
+                        "Leadership",
+                        "Customer Service",
+                        "Marketing",
+                        "Project Management",
+                        "Conflict Management",
+                        "Employee Training",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, sales acumen, and customer-centric strategies. The recommendation source is a peer, indicating a collaborative working relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "411",
+            "recommendation": {
+                "resume_file": "527.json",
+                "recommendation_file": "Recommendation_From_ID_411.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Sales Training",
+                        "Leadership",
+                        "Customer Service",
+                        "Marketing",
+                        "Project Management",
+                        "Conflict Management",
+                        "Employee Training",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales success and employee training. However, some minor inconsistencies and exaggerated claims are present, such as the claim of 'significant advancements within the organization' without providing concrete evidence."
+                }
+            }
+        },
+        {
+            "recommender_id": "257",
+            "recommendation": {
+                "resume_file": "527.json",
+                "recommendation_file": "Recommendation_From_ID_257.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Training",
+                        "Leadership",
+                        "Customer Service",
+                        "Project Management",
+                        "Communication",
+                        "Employee Training",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales training programs, leadership skills, and customer service abilities. The source of the recommendation is a peer, who has closely collaborated with the candidate on projects."
+                }
+            }
+        },
+        {
+            "recommender_id": "488",
+            "recommendation": {
+                "resume_file": "527.json",
+                "recommendation_file": "Recommendation_From_ID_488.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Training",
+                        "Leadership",
+                        "Customer Service",
+                        "Employee Training",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer engagement, and training abilities. The recommender's role as a Program Assistant with experience in managing member services and administrative operations lends credibility to their assessment."
+                }
+            }
+        }
+    ]
+}

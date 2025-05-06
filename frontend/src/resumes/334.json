@@ -1,0 +1,112 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Professional Fitness Trainer, Group Instructor",
+                "work_description": "Lead group and private classes, administer guests' Test In and Test Outs using the InBody machine, and provide VO2 Max and/or RMR testing.",
+                "company_level": "Mid-level",
+                "start_date": "02/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Manager/Certified Personal Trainer",
+                "work_description": "Manage office accounting and insurance billing, schedule appointments, and provide fitness training to clients.",
+                "company_level": "Mid-level",
+                "start_date": "10/1995",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Massage Therapist",
+                "work_description": "Provide massage therapy services to clients, maintain a clean and serene massage therapy room, and advertise for the business.",
+                "company_level": "Startup",
+                "start_date": "01/1993",
+                "end_date": "09/1994"
+            },
+            {
+                "role_name": "Professional Triathlete",
+                "work_description": "Train and compete in triathlons, work with performance experts in track and field, swimming, and cycling.",
+                "company_level": "Startup",
+                "start_date": "01/1989",
+                "end_date": "12/1995"
+            },
+            {
+                "role_name": "Hostess",
+                "work_description": "Set up tables and stations for service, answer phone calls, make reservations, and seat guests.",
+                "company_level": "Mid-level",
+                "start_date": "09/1994",
+                "end_date": "10/1995"
+            },
+            {
+                "role_name": "Membership Manager",
+                "work_description": "Sell, manage, and update memberships for the gym, make phone calls and meetings with new and existing members.",
+                "company_level": "Mid-level",
+                "start_date": "09/1987",
+                "end_date": "10/1990"
+            }
+        ],
+        "education": [
+            {
+                "university": "BUENA HIGH SCHOOL",
+                "start_date": "01/1984",
+                "end_date": "06/1988",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "VENTURA COMMUNITY COLLEGE",
+                "start_date": "01/1988",
+                "end_date": "12/1990",
+                "domain": "General Education",
+                "level": "Associate of Arts"
+            },
+            {
+                "university": "Cal Poly San Luis Obispo",
+                "start_date": "01/1990",
+                "end_date": "12/1992",
+                "domain": "Sports Medicine",
+                "level": "Undergraduate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Fitness Training",
+                "level": 5,
+                "explanation": "Over 25 years of experience in fitness training, including leading group and private classes, providing personal training, and competing as a professional triathlete, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed office accounting, insurance billing, and scheduling appointments, showing strong proficiency in leadership and management."
+            },
+            {
+                "name": "Accounting",
+                "level": 3,
+                "explanation": "Handled office accounting, including managing finances and insurance billing, indicating a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided excellent customer service as a hostess, membership manager, and fitness trainer, showing strong proficiency in interacting with clients and customers."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Sold and managed memberships for the gym, indicating a solid working proficiency in sales."
+            },
+            {
+                "name": "Massage Therapy",
+                "level": 2,
+                "explanation": "Provided massage therapy services to clients, but limited experience, indicating some practical experience."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Managed multiple roles and responsibilities, including training, competing, and working, showing strong proficiency in time management."
+            }
+        ]
+    }
+}

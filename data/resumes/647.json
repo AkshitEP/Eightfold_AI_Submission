@@ -1,0 +1,87 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Entrepreneur General Manager",
+                "work_description": "Managed the daily operations of the gas stations. Oversaw sales, inventory and staff on a monthly basis. Conducted and performed inspections of all gas equipment and facilities. Maintained and obtained a clean and customer friendly environment for various customers. Enforced and implemented strict policies and procedures regulating the gas stations. Responsible for hire and managing more than 30 employees. Oversaw the price management of fuels and merchandise. Monitored monthly sales, and inventory, prepared monthly cash balance reports for the gas station and convenience store.",
+                "company_level": "Mid-level",
+                "start_date": "11/2011",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Safety & Training Coordinator",
+                "work_description": "Responsible for the preparation of training for more than 15,000 airport employees. Planned, directed, oversaw, reviewed and evaluated the work of staff providing support to airport training program. Maintained or directed the maintenance of accurate records and files. Monitored changes in legislation and FAA regulations that may affect training program operations or service delivery; evaluated their effect upon program activities and recommends appropriate policy and procedure modifications.",
+                "company_level": "Large Corporation",
+                "start_date": "06/1995",
+                "end_date": "01/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Barry University",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Public Administration",
+                "level": "Bachelor"
+            },
+            {
+                "university": "Miami Dade College",
+                "start_date": "01/2004",
+                "end_date": "06/2004",
+                "domain": "Business Administration",
+                "level": "Associate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience leading and managing large teams, including over 30 employees at the gas station and overseeing the work of staff in the airport training program, indicating expert-level mastery."
+            },
+            {
+                "name": "Operations Management",
+                "level": 4,
+                "explanation": "Managed the daily operations of the gas stations, including sales, inventory, and staff, and oversaw the preparation of training for over 15,000 airport employees, showing strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Planned, directed, and evaluated the work of staff providing support to the airport training program, suggesting a strong proficiency in training and development."
+            },
+            {
+                "name": "Policy Implementation",
+                "level": 3,
+                "explanation": "Implemented strict policies and procedures regulating the gas stations, and evaluated the effect of changes in legislation and FAA regulations on the airport training program, showing a solid working proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Oversaw inventory management at the gas stations, indicating a solid level of proficiency in inventory management."
+            },
+            {
+                "name": "Sales Management",
+                "level": 3,
+                "explanation": "Oversaw sales management at the gas stations, including price management of fuels and merchandise, showing a solid working proficiency."
+            },
+            {
+                "name": "Record Keeping",
+                "level": 2,
+                "explanation": "Maintained accurate records and files for the airport training program, suggesting some practical experience with record keeping."
+            },
+            {
+                "name": "Public Administration",
+                "level": 2,
+                "explanation": "Earned a degree in Public Administration, but no direct experience mentioned, indicating some familiarity with the field."
+            },
+            {
+                "name": "Business Administration",
+                "level": 2,
+                "explanation": "Earned a degree in Business Administration, but no direct experience mentioned, indicating some familiarity with the field."
+            }
+        ]
+    }
+}

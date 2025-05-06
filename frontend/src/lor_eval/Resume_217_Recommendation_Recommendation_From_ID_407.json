@@ -1,0 +1,21 @@
+{
+    "resume_file": "217.json",
+    "recommendation_file": "Recommendation_From_ID_407.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the tone is overly positive. No statistically improbable claims detected.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Management",
+            "Financial Reporting",
+            "Internal Controls",
+            "Leadership",
+            "Process Improvement",
+            "Variance Analysis",
+            "Financial Forecasting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and financial management expertise. However, the source of the recommendation is unclear, and the tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+    }
+}

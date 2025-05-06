@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Information Technology",
+                "work_description": "Serves as the main point of contact on all I.T. related matters. Located at the corporate headquarters supporting over 60 users locally and 150 users remotely. Worked with service providers and vendors cutting IT budget over 45%. Implemented new MPLS network and Phone system saving the company 180k a year. Oversees all IT financials. Established an IT Governance department to focus on managing systems quality assurance, PCI security, and audit change management, IT purchasing and administration, IT contracts and vendor management, and IT financial capital and expense management. Identifying and providing standards for gathering information for use in trend analysis and reporting information to company leaders.",
+                "company_level": "Mid-level",
+                "start_date": "01/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Network Engineer/I.T. Manager",
+                "work_description": "Supervised and led IT infrastructure team (including Help Desk). Worked with service providers and vendors cutting IT budget over 15%. Managed and designed IT security solutions and policies for all locations. Oversaw data center operations being hands on in all areas related to infrastructure and security. Located at corporate headquarters supporting over 200 users locally and 1500 users remotely. Manage local/wide area networks for optimal data and VoIP connectivity to over 300 sites including 3 warehouses, 1 corp office and 1 co-location. Served as lead network engineer in network (WAN, LAN, VoIP) problems and emergencies. Troubleshoot and resolve network production problems. Document network problems and resolutions for future reference. Conduct technical research on network upgrades and components to determine feasibility, cost, time required and compatibility with current system. Manage/troubleshoot Cisco UC systems including third party integration and mobile chat/video clients. Worked as lead network engineer with system administrators in setup of hardware/software networking modules for production and development environments. Maintained/optimized Cisco ASA/IDS/ISE/ACS/Nexus 7K/UCCX/Cisco Call Manager/Cisco Unity/Cisco Attendant Console/Cisco Jabber/Cisco Contact Center Express/Cisco Prime/WCS to ensure network stability and maximum uptime. Establishes network specifications by conferring with users; analyzing workflow, access, information and security requirements, designing router and firewall administration, interface configurations and routing protocols. Ensured interoperability between vendor specific hardware/applications for network access/usage. VPN/SSL VPN).",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Network Administrator/Help Desk Manager",
+                "work_description": "Served as technical specialist in network problems and emergencies. Troubleshoot and resolve network production problems. Conduct technical research on network upgrades and components to determine feasibility, cost, time required and compatibility with current system. Document network problems and resolutions for future reference. Manage local/wide area networks for optimal data and VoIP connectivity to over 300 sites including 3 warehouses, 1 corp office and 1 co-location. Administers/troubleshoot Cisco UC systems including third party integration and mobile chat/video clients. Provide data and reporting of KPI's and trends to IT department and others in ad-hoc, weekly, monthly and as needed.Coordinates with system engineers in setup of hardware/software networking modules for production and development environments. Ensures interoperability between vendor specific hardware/applications for network access/usage. VPN/SSL VPN). Assisted in the deployment of Nexus 7.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Help Desk Analyst",
+                "work_description": "Provided help desk support for over 7,000 Taco Bell stores. Troubleshoot all issues dealing with the P.O.S., TACO computer, and all the connections in the store. Log all calls in Remedy(software), follow up on all calls that weren't resolved, and we used Putty(software) to access the back end of their computer.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2010",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Help Desk Support/IT Technician/Network Admin",
+                "work_description": "Provided first level help desk IT support in a 300 user environment spanning over 15 remote sites. Troubleshoot hardware, software and connectivity issues for a mixed Windows 2003/2008 Server, mixed Linux , XP desktop environment, Cisco routers, and Cisco Switches. Installed, repaired, maintained and upgraded desktop/notebook computers; pre-configured cisco routers, cisco switches, network printers and troubleshoot printer failures. Web filter administrator/Barracuda.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "01/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "ITT Technical Institute",
+                "start_date": "01/2009",
+                "end_date": "12/2010",
+                "domain": "Computer Networking Systems",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Extensive experience in managing and designing IT infrastructure, including network administration, security solutions, and policies, indicating expert-level mastery."
+            },
+            {
+                "name": "IT Governance",
+                "level": 4,
+                "explanation": "Established an IT Governance department to focus on managing systems quality assurance, PCI security, and audit change management, IT purchasing and administration, IT contracts and vendor management, and IT financial capital and expense management, showing strong proficiency."
+            },
+            {
+                "name": "IT Budgeting",
+                "level": 4,
+                "explanation": "Cut IT budget over 45% by working with service providers and vendors, and implemented new MPLS network and Phone system saving the company 180k a year, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Served as the main point of contact on all I.T. related matters, and supervised and led IT infrastructure team, showing strong leadership skills."
+            },
+            {
+                "name": "Cisco Systems",
+                "level": 5,
+                "explanation": "Extensive experience in managing and optimizing Cisco UC systems, including third-party integration and mobile chat/video clients, and maintaining/optimizing Cisco ASA/IDS/ISE/ACS/Nexus 7K/UCCX/Cisco Call Manager/Cisco Unity/Cisco Attendant Console/Cisco Jabber/Cisco Contact Center Express/Cisco Prime/WCS, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Security",
+                "level": 5,
+                "explanation": "Designed and implemented IT security solutions and policies for all locations, and ensured interoperability between vendor-specific hardware/applications for network access/usage, indicating expert-level mastery."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 5,
+                "explanation": "Extensive experience in troubleshooting network production problems, and resolving issues related to hardware, software, and connectivity, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed and coordinated the deployment of Nexus 7, and worked on various IT projects, showing strong proficiency in project management."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Provided data and reporting of KPI's and trends to IT department and others, showing a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Served as the main point of contact on all I.T. related matters, and provided technical research and recommendations to stakeholders, showing strong communication skills."
+            }
+        ]
+    }
+}

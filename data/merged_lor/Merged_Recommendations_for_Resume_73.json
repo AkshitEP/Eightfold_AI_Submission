@@ -1,0 +1,44 @@
+{
+    "target_id": "73",
+    "recommendations": [
+        {
+            "recommender_id": "738",
+            "recommendation": {
+                "resume_id": 73,
+                "recommendation_file": "Recommendation_From_ID_738.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Communication",
+                        "Retail"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and sales abilities. However, it does not mention some of the candidate's other skills, such as inventory management, marketing, and leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "239",
+            "recommendation": {
+                "resume_id": 73,
+                "recommendation_file": "Recommendation_From_ID_239.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written in a very generic and overly positive tone, which raises some concerns about its authenticity. However, there are no obvious red flags or statistically improbable claims.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service and sales skills, which align with their experience as a Service Representative. However, the recommendation also mentions the candidate's experience as an AVID Tutor, which is not mentioned in the provided resume details. This inconsistency raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

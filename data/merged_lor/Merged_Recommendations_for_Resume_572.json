@@ -1,0 +1,70 @@
+{
+    "target_id": "572",
+    "recommendations": [
+        {
+            "recommender_id": "802",
+            "recommendation": {
+                "resume_file": "572.json",
+                "recommendation_file": "Recommendation_From_ID_802.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's work experience. The claim of 'over a decade of experience' is inconsistent with the provided resume, which shows experience from 2012 to 2015.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "Microsoft Excel",
+                        "Accounting",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but the language is overly flattering and lacks specific examples from the candidate's work experience. The claim of 'over a decade of experience' is inconsistent with the provided resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "127",
+            "recommendation": {
+                "resume_file": "572.json",
+                "recommendation_file": "Recommendation_From_ID_127.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions the candidate's experience in a different company and role, but the skills and qualifications mentioned align with the resume.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Microsoft Excel",
+                        "Financial Reporting",
+                        "Auditing",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis skills. However, some minor inconsistencies and exaggerated claims are present, such as the mention of the candidate's experience in a different company and role."
+                }
+            }
+        },
+        {
+            "recommender_id": "304",
+            "recommendation": {
+                "resume_file": "572.json",
+                "recommendation_file": "Recommendation_From_ID_304.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Microsoft Excel",
+                        "Financial Reporting",
+                        "Auditing",
+                        "Accounting",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis skills. The recommender's extensive experience in government accounting and financial management lends credibility to their assessment."
+                }
+            }
+        }
+    ]
+}

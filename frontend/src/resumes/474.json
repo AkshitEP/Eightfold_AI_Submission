@@ -1,0 +1,93 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Landscaper",
+                "work_description": "Landscape employee managing over 200 properties, both commercial and residential. Received landscape and hardscape training and education; provided training to new employees.",
+                "company_level": "Mid-level",
+                "start_date": "05/2017",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Delivery Driver",
+                "work_description": "Delivered to local homes and businesses and worked within the caf\u00e9 keeping up with various daily tasks.",
+                "company_level": "Mid-level",
+                "start_date": "05/2016",
+                "end_date": "08/2016"
+            },
+            {
+                "role_name": "Intern",
+                "work_description": "Internship with a Dayton area life and health insurance office, performing tactical activities for agents. Pursuing life and health insurance license.",
+                "company_level": "Mid-level",
+                "start_date": "05/2015",
+                "end_date": "08/2016"
+            },
+            {
+                "role_name": "Pro Shop Crew Member",
+                "work_description": "Managed various daily duties; caddy for members, cart and range management, and train new employees.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "08/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Miami University",
+                "start_date": "01/2013",
+                "end_date": "05/2017",
+                "domain": "Finance Economics",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Chaminade Julienne Catholic High School",
+                "start_date": "01/2009",
+                "end_date": "06/2013",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Varsity Soccer"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Provided training to new employees in multiple roles, showing a solid working proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed various daily duties and tasks in multiple roles, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Provided training to new employees in multiple roles, showing a solid working proficiency in training and development."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Worked with customers in various roles, such as delivery driver and pro shop crew member, showing some practical experience in customer service."
+            },
+            {
+                "name": "Teamwork",
+                "level": 2,
+                "explanation": "Worked as part of a team in multiple roles, such as pro shop crew member and landscaper, showing some practical experience in teamwork."
+            },
+            {
+                "name": "Insurance Knowledge",
+                "level": 1,
+                "explanation": "Pursued life and health insurance license during internship, showing basic familiarity with insurance concepts."
+            },
+            {
+                "name": "Finance",
+                "level": 1,
+                "explanation": "Studied finance economics in university, showing basic familiarity with finance concepts."
+            }
+        ]
+    }
+}

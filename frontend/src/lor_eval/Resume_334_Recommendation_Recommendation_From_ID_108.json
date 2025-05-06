@@ -1,0 +1,17 @@
+{
+    "resume_file": "334.json",
+    "recommendation_file": "Recommendation_From_ID_108.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Fitness Training",
+            "Leadership",
+            "Customer Service",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their fitness training methods, leadership abilities, and customer service skills. The source of the recommendation is a peer who has worked alongside the candidate, adding credibility to the endorsement."
+    }
+}

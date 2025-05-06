@@ -1,0 +1,50 @@
+{
+    "target_id": "148",
+    "recommendations": [
+        {
+            "recommender_id": "608",
+            "recommendation": {
+                "resume_file": "148.json",
+                "recommendation_file": "Recommendation_From_ID_608.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Patient Education",
+                        "Teamwork and Collaboration",
+                        "Communication",
+                        "Basic Life Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and communication skills. However, it does not mention some of the candidate's other skills, such as Vital Signs Monitoring, Quality Assurance, and Leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "743",
+            "recommendation": {
+                "resume_file": "148.json",
+                "recommendation_file": "Recommendation_From_ID_743.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Vital Signs Monitoring",
+                        "Patient Education",
+                        "Teamwork and Collaboration",
+                        "Quality Assurance",
+                        "Leadership",
+                        "Communication",
+                        "Basic Life Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care, leadership, and quality assurance abilities."
+                }
+            }
+        }
+    ]
+}

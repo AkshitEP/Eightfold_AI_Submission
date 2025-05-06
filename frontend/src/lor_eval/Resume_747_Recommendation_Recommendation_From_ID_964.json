@@ -1,0 +1,17 @@
+{
+    "resume_file": "747.json",
+    "recommendation_file": "Recommendation_From_ID_964.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Compliance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional organizational and communication skills, as well as their ability to manage extensive incoming communications and ensure the accuracy of critical patient paperwork. The recommendation also mentions the candidate's dedication to patient care and their ability to facilitate smooth operations within the medical environment."
+    }
+}

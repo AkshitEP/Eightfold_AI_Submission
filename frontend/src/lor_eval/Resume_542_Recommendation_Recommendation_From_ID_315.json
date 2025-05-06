@@ -1,0 +1,20 @@
+{
+    "resume_file": "542.json",
+    "recommendation_file": "Recommendation_From_ID_315.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions payroll management, which is not mentioned in the resume. However, the language is formal and the recommendation is well-supported by the resume in many areas.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Financial Analysis",
+            "Journal Entries",
+            "Ledger Management",
+            "Bank Reconciliation",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in many areas, providing specific examples of their accounting expertise. However, some minor inconsistencies and exaggerated claims are present, such as the mention of payroll management, which is not mentioned in the resume."
+    }
+}

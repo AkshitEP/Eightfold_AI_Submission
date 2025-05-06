@@ -1,0 +1,145 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "ASP.Net Web Developer",
+                "work_description": "Migration of IU Print website (print.iu.edu) from ColdFusion to ASP.Net using MVC Framework. Create a prototype dashboard for IU Print Analytics module using High Charts.",
+                "company_level": "Mid-level",
+                "start_date": "04/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Software Engineer",
+                "work_description": "Designed and developed an application to migrate legacy data to ASP.Net application by providing the ability to validate the data to meet the business rules for the new application. Design the story board using HTML and CSS and design database for applications by analyzing the customer requirements. Perform code reviews of the modules developed by other team members and participate in pair programming to improve the coding standards of the overall application. Preparation of build packages and actively participate in integration and deployment phase of the applications.",
+                "company_level": "Mid-level",
+                "start_date": "07/2011",
+                "end_date": "07/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Indiana University - Bloomington",
+                "start_date": "08/2014",
+                "end_date": "12/2015",
+                "domain": "Computer Science",
+                "level": "Master's"
+            },
+            {
+                "university": "Jawaharlal Nehru Technological University",
+                "start_date": "09/2007",
+                "end_date": "05/2011",
+                "domain": "Computer Science and Engineering",
+                "level": "Bachelor of Technology"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Finance",
+                "description": "Ledger is developed to manage the task of invoice clearance for different finance benefits trust accounts of Pratt & Whitney. It is also used to track invoices charged back to the department budget or to the various business units.",
+                "skills": [
+                    "ASP.Net",
+                    "SQL Server",
+                    "HTML",
+                    "CSS"
+                ]
+            },
+            {
+                "domain": "Taxation",
+                "description": "DEBTS is a tool which is used to calculate employee tax based on certain parameters (medical, social security tax factor). It is developed for UTC USA and deals with all UTC employees' daily equity tax.",
+                "skills": [
+                    "ASP.Net",
+                    "SQL Server",
+                    "SFTP"
+                ]
+            },
+            {
+                "domain": "Collaboration",
+                "description": "Supplier Portal is designed in SharePoint 2010 to collaborate with their authorized suppliers. Supplier Portal is a merge of seven legacy Pratt and Whitney existing applications into a single portal.",
+                "skills": [
+                    "SharePoint 2010",
+                    "ASP.Net",
+                    "SQL Server"
+                ]
+            },
+            {
+                "domain": "Agreement Management",
+                "description": "eRFA is an agreement between two parties (Company and Client) before they start the work. This process involved more than eight approvers to approve the agreement.",
+                "skills": [
+                    "SharePoint",
+                    "ASP.Net",
+                    "SQL Server"
+                ]
+            },
+            {
+                "domain": "Export Logging",
+                "description": "Export Logging Tool is a web based application to collect and log all export activities occurring at Pratt & Whitney Military Engines with a simple interface with an ability to generate various reports required to report of export events.",
+                "skills": [
+                    "ASP.Net",
+                    "SQL Server",
+                    "HTML",
+                    "CSS"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "ASP.Net",
+                "level": 5,
+                "explanation": "Extensive experience with ASP.Net, including migration of websites, development of applications, and participation in multiple projects showcasing expert-level mastery."
+            },
+            {
+                "name": "SQL Server",
+                "level": 4,
+                "explanation": "Strong proficiency in SQL Server, with experience in designing databases, developing applications, and participating in multiple projects."
+            },
+            {
+                "name": "HTML",
+                "level": 3,
+                "explanation": "Solid working proficiency in HTML, with experience in designing storyboards and developing web-based applications."
+            },
+            {
+                "name": "CSS",
+                "level": 3,
+                "explanation": "Solid working proficiency in CSS, with experience in designing storyboards and developing web-based applications."
+            },
+            {
+                "name": "SharePoint",
+                "level": 4,
+                "explanation": "Strong proficiency in SharePoint, with experience in designing portals and developing applications."
+            },
+            {
+                "name": "SFTP",
+                "level": 2,
+                "explanation": "Some practical experience with SFTP, with usage in a specific project."
+            },
+            {
+                "name": "MVC Framework",
+                "level": 3,
+                "explanation": "Solid working proficiency in MVC Framework, with experience in migrating websites and developing applications."
+            },
+            {
+                "name": "Pair Programming",
+                "level": 3,
+                "explanation": "Solid working proficiency in pair programming, with experience in improving coding standards and participating in team development."
+            },
+            {
+                "name": "Code Review",
+                "level": 3,
+                "explanation": "Solid working proficiency in code review, with experience in evaluating and improving code quality."
+            },
+            {
+                "name": "Agile Development",
+                "level": 2,
+                "explanation": "Some practical experience with agile development, with participation in multiple projects and teams."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Some practical experience with leadership, with experience in leading a project and participating in team development."
+            }
+        ]
+    }
+}

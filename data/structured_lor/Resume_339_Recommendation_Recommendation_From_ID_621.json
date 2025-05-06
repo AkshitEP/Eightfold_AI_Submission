@@ -1,0 +1,16 @@
+{
+    "resume_file": "339.json",
+    "recommendation_file": "Recommendation_From_ID_621.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims raise concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Attention to detail",
+            "Critical thinking",
+            "Patient-centered approach"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation verifies some skills, but not all, and raises some concerns about the authenticity of the recommendation."
+    }
+}

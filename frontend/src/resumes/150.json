@@ -1,0 +1,181 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Applications",
+                "work_description": "Management of all IT Applications (Administrative, Clinical, Revenue Cycle, Ambulatory, Ancillary). Manage $5M budget. Evaluate organizations IT needs, create strategic plan and implement new projects. Negotiation: Saved over $250,000 when purchasing new products. Manage staff: 7 Application Analysts, 2 Team Leads and 2 Consultants.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Project Manager",
+                "work_description": "Project management, product evaluation and contract management. Saved over $75,000 by negotiating price when purchasing new products. Introduced project management methodologies.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "Healthcare IT Consultant",
+                "work_description": "Prepared project plan for implementation of computerized physician order entry, ordersets (Zynx), physician and nursing documentation, e-prescription, clinical portal, single sign-on and Meaningful Use Stage 1 initiative.",
+                "company_level": "Mid-level",
+                "start_date": "10/2011",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Program Manager Consultant",
+                "work_description": "Managed $5M budget. Prepared project plan for implementation of computerized physician order entry, ordersets (Zynx), physician and nursing documentation, e-prescription, clinical portal, single sign-on and Meaningful Use Stage 1 initiative.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2008",
+                "end_date": "09/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Nevada",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Science",
+                "level": "Master's"
+            },
+            {
+                "university": "Sri Ram Engineering College",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Healthcare IT",
+                "description": "Implementation of Optical Character Recognition (OCR) system in Registrar Office.",
+                "skills": [
+                    "OCR",
+                    "Implementation"
+                ]
+            },
+            {
+                "domain": "Healthcare IT",
+                "description": "Implementation of computerized physician order entry, ordersets (Zynx), physician and nursing documentation, e-prescription, clinical portal, single sign-on and Meaningful Use Stage 1 initiative.",
+                "skills": [
+                    "Computerized Physician Order Entry",
+                    "Ordersets",
+                    "E-prescription",
+                    "Clinical Portal",
+                    "Single Sign-on",
+                    "Meaningful Use Stage 1"
+                ]
+            },
+            {
+                "domain": "Healthcare IT",
+                "description": "Implementation of EHR in Labor and Delivery department (Philips TraceVue fetal monitoring and documentation system).",
+                "skills": [
+                    "EHR",
+                    "Implementation"
+                ]
+            },
+            {
+                "domain": "Healthcare IT",
+                "description": "Implementation of EHR in Cardiology department (CardiacScience Pyramis).",
+                "skills": [
+                    "EHR",
+                    "Implementation"
+                ]
+            },
+            {
+                "domain": "Healthcare IT",
+                "description": "Migration of interface engine (from HL7 connect to Summit Interface engine).",
+                "skills": [
+                    "Interface Engine",
+                    "Migration"
+                ]
+            },
+            {
+                "domain": "Healthcare IT",
+                "description": "Implementation of standalone version of e-prescription and prepared project plan for its integration with EHR (Meditech).",
+                "skills": [
+                    "E-prescription",
+                    "Implementation"
+                ]
+            }
+        ],
+        "interests": [
+            "HIMSS NYC chapter member"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience in project management, including managing staff, budget, and implementing new projects, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has experience in managing staff, including 7 Application Analysts, 2 Team Leads, and 2 Consultants, indicating expert-level leadership skills."
+            },
+            {
+                "name": "Budgeting",
+                "level": 5,
+                "explanation": "Has experience in managing a $5M budget, indicating expert-level budgeting skills."
+            },
+            {
+                "name": "Negotiation",
+                "level": 4,
+                "explanation": "Has experience in negotiating prices, saving over $250,000 and $75,000, indicating strong proficiency in negotiation."
+            },
+            {
+                "name": "Healthcare IT",
+                "level": 5,
+                "explanation": "Has extensive experience in healthcare IT, including implementation of various systems and projects, indicating expert-level mastery."
+            },
+            {
+                "name": "EHR Implementation",
+                "level": 5,
+                "explanation": "Has experience in implementing EHR systems in various departments, including Labor and Delivery and Cardiology, indicating expert-level mastery."
+            },
+            {
+                "name": "Computerized Physician Order Entry",
+                "level": 4,
+                "explanation": "Has experience in implementing computerized physician order entry systems, indicating strong proficiency."
+            },
+            {
+                "name": "Ordersets",
+                "level": 4,
+                "explanation": "Has experience in implementing ordersets (Zynx), indicating strong proficiency."
+            },
+            {
+                "name": "E-prescription",
+                "level": 4,
+                "explanation": "Has experience in implementing e-prescription systems, indicating strong proficiency."
+            },
+            {
+                "name": "Clinical Portal",
+                "level": 4,
+                "explanation": "Has experience in implementing clinical portal systems, indicating strong proficiency."
+            },
+            {
+                "name": "Single Sign-on",
+                "level": 4,
+                "explanation": "Has experience in implementing single sign-on systems, indicating strong proficiency."
+            },
+            {
+                "name": "Meaningful Use Stage 1",
+                "level": 4,
+                "explanation": "Has experience in implementing Meaningful Use Stage 1 initiatives, indicating strong proficiency."
+            },
+            {
+                "name": "OCR Implementation",
+                "level": 4,
+                "explanation": "Has experience in implementing OCR systems, indicating strong proficiency."
+            },
+            {
+                "name": "Interface Engine Migration",
+                "level": 4,
+                "explanation": "Has experience in migrating interface engines, indicating strong proficiency."
+            }
+        ]
+    }
+}

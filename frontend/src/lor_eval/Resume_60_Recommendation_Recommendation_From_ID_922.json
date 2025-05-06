@@ -1,0 +1,16 @@
+{
+    "resume_id": 60,
+    "recommendation_file": "Recommendation_From_ID_922.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommender claims to be an engineer, but there is no clear connection between their experience and the occupational therapist's skills and experience. The recommendation seems overly flattering and lacks specific examples from the occupational therapist's work history.",
+        "verified_skills": [
+            "Occupational Therapy",
+            "Leadership",
+            "Healthcare Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the occupational therapist's skills and experience, but the recommender's background and connection to the occupational therapist are unclear. The recommendation seems to be based on general impressions rather than specific examples from the occupational therapist's work history."
+    }
+}

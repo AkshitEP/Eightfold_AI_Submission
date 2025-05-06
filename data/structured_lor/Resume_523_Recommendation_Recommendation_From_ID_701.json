@@ -1,0 +1,16 @@
+{
+    "resume_file": "523.json",
+    "recommendation_file": "Recommendation_From_ID_701.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's background and skills.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Leadership",
+            "Client Relationship Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's experience in corporate banking, but there are some minor inconsistencies in the recommender's background and skills."
+    }
+}

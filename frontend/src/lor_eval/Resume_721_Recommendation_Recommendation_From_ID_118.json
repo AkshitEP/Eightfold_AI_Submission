@@ -1,0 +1,12 @@
+{
+    "resume_file": "721.json",
+    "recommendation_file": "Recommendation_From_ID_118.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims, overly positive tone",
+        "verified_skills": [],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems overly positive, which raises some concerns about its authenticity."
+    }
+}

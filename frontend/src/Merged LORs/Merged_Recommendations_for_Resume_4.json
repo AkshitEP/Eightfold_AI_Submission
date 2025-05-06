@@ -1,0 +1,157 @@
+{
+    "target_id": "4",
+    "recommendations": [
+        {
+            "recommender_id": "950",
+            "recommendation": {
+                "resume_id": 4,
+                "recommendation_file": "Recommendation_From_ID_950.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership capabilities, and attention to detail."
+                }
+            }
+        },
+        {
+            "recommender_id": "726",
+            "recommendation": {
+                "resume_id": 4,
+                "recommendation_file": "Recommendation_From_ID_726.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Accounting Supervision"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and work ethic."
+                }
+            }
+        },
+        {
+            "recommender_id": "589",
+            "recommendation": {
+                "resume_id": 4,
+                "recommendation_file": "Recommendation_From_ID_589.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "Accounting Supervision",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership skills, and ability to work under pressure."
+                }
+            }
+        },
+        {
+            "recommender_id": "977",
+            "recommendation": {
+                "resume_id": 4,
+                "recommendation_file": "Recommendation_From_ID_977.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Accounting Supervision",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting functions, leadership abilities, and problem-solving skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "763",
+            "recommendation": {
+                "resume_id": 4,
+                "recommendation_file": "Recommendation_From_ID_763.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Accounting Supervision",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, organizational skills, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "543",
+            "recommendation": {
+                "resume_id": 4,
+                "recommendation_file": "Recommendation_From_ID_543.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Accounting Supervision"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting abilities and work ethic. However, it does not explicitly mention the candidate's proficiency in Microsoft Excel, Budgeting, or Financial Analysis."
+                }
+            }
+        },
+        {
+            "recommender_id": "30",
+            "recommendation": {
+                "resume_id": 4,
+                "recommendation_file": "Recommendation_From_ID_30.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Accounting Supervision"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities."
+                }
+            }
+        }
+    ]
+}

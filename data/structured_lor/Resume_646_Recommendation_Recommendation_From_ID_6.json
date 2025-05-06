@@ -1,0 +1,17 @@
+{
+    "resume_file": "646.json",
+    "recommendation_file": "Recommendation_From_ID_6.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions unrelated roles and skills, and the source seems to be from an unrelated field. Some claims seem exaggerated or unsupported.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be from someone who has worked with the candidate in a different capacity, but the connection to the candidate's current role and skills is limited. The recommendation highlights some relevant skills, but also mentions unrelated roles and skills."
+    }
+}

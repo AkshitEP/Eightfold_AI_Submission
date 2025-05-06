@@ -1,0 +1,94 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Inside Sales Representative",
+                "work_description": "Currently selling the suite of OpenTable products to an assigned territory with a concentration in Chicago, Minneapolis, and Milwaukee. Utilize a consultative approach to communicate the features and benefits of OpenTable products and services. Effectively meet sales results by various means such as cold-calling, presenting at company sponsored seminars, following up on company provided leads, meeting in person with restaurant owners, and networking with field representatives along with leveraging customer service into upselling opportunities.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Asset Manager",
+                "work_description": "Managed a $50M portfolio of real estate properties. Represented investors, developers and business owners in leasing residential and commercial space. Increased company profile with existing client base while networking extensively to forge new alliances to provide multi-faceted real estate services.",
+                "company_level": "Mid-level",
+                "start_date": "08/2009",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Property Manager",
+                "work_description": "Represented preferred developers and multi-unit operators including The University of Canterbury, New Zealand. Directed and managed a portfolio of 100+ units of university housing. Residential lease negotiations. Rent collection and financial reporting to operators.",
+                "company_level": "Mid-level",
+                "start_date": "02/2008",
+                "end_date": "05/2009"
+            },
+            {
+                "role_name": "Business Banking Specialist",
+                "work_description": "Responsible for managing and retaining existing relationships and generating new business in the Business Banking market segment. Cross-sold bank products, executed strategies with calls and site visits; provided needs assessment, customer qualification and meeting follow-up to maintain, enhance and expand customer relationships.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2005",
+                "end_date": "02/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Colorado State University",
+                "start_date": "01/2010",
+                "end_date": "05/2014",
+                "domain": "Business Administration Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Has extensive experience in sales, including cold-calling, presenting, and networking, showing strong proficiency."
+            },
+            {
+                "name": "Account Management",
+                "level": 4,
+                "explanation": "Managed and retained existing relationships, and generated new business, indicating strong proficiency in account management."
+            },
+            {
+                "name": "Real Estate Management",
+                "level": 4,
+                "explanation": "Managed a $50M portfolio of real estate properties, and represented investors, developers, and business owners, showing strong proficiency."
+            },
+            {
+                "name": "Property Management",
+                "level": 3,
+                "explanation": "Directed and managed a portfolio of 100+ units of university housing, and handled residential lease negotiations, indicating a solid working proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 3,
+                "explanation": "Handled financial reporting to operators, and managed rent collection, showing a solid working proficiency in financial management."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Represented preferred developers and multi-unit operators, and directed a team, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Utilized a consultative approach to communicate the features and benefits of products and services, and effectively met sales results, showing strong proficiency in communication."
+            },
+            {
+                "name": "Networking",
+                "level": 4,
+                "explanation": "Networked extensively to forge new alliances, and leveraged customer service into upselling opportunities, indicating strong proficiency in networking."
+            },
+            {
+                "name": "Business Development",
+                "level": 4,
+                "explanation": "Generated new business, and increased company profile with existing client base, showing strong proficiency in business development."
+            }
+        ]
+    }
+}

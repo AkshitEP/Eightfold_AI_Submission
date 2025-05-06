@@ -1,0 +1,18 @@
+{
+    "resume_file": "370.json",
+    "recommendation_file": "Recommendation_From_ID_432.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Strategic Planning",
+            "Financial Management",
+            "Project Management",
+            "Grant Writing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, strategic planning, and financial management abilities. However, the recommendation does not explicitly mention the candidate's teaching, customer service, marketing, human resources, or inventory control skills."
+    }
+}

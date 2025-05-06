@@ -1,0 +1,12 @@
+{
+    "resume_file": "644.json",
+    "recommendation_file": "Recommendation_From_ID_868.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. It does not provide any concrete examples or evidence from the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be focused on a different individual, and it does not provide any relevant information about the infantry specialist's skills or experiences."
+    }
+}

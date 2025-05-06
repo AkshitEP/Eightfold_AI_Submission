@@ -1,0 +1,19 @@
+{
+    "resume_file": "813.json",
+    "recommendation_file": "Recommendation_From_ID_168.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with the first part mentioning skills and experiences not present in the resume. However, the second part aligns well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Aircraft Assembly",
+            "Leadership",
+            "Quality Control",
+            "Aircraft Maintenance",
+            "Team Management",
+            "Mechanical Systems"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a mix of two different individuals, with the first part not aligning with the candidate's skills and experience. However, the second part provides specific examples of the candidate's craftsmanship, leadership, and technical skills, making it a strong recommendation."
+    }
+}

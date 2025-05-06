@@ -1,0 +1,21 @@
+{
+    "resume_file": "962.json",
+    "recommendation_file": "Recommendation_From_ID_37.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "AML/CFT Compliance",
+            "Sanctions Compliance",
+            "KYC/EDD/PEPs Procedures",
+            "Payment Investigations",
+            "Relationship Management",
+            "Loan Management",
+            "Retail Banking",
+            "Banking Operations"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their compliance expertise and analytical skills. The source of the recommendation is a peer, indicating a strong professional relationship."
+    }
+}

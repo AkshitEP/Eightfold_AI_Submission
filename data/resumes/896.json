@@ -1,0 +1,171 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Lead Operations Engineer - Global Hawk Project",
+                "work_description": "Managed all operational aspects of Global Hawk high-altitude, long-endurance UAS, (2 operational air vehicles, 3 ground control stations) and scientific payload integration. Overall leader for Global Hawk flight operations team, including maintenance personnel, avionics technicians and operations engineers.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2006",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Operations Engineer",
+                "work_description": "Project Manager. Missile Defense Agency DC-10 WASP Structural Restoration: Managed $5M project to investigate structural deficiencies with MDA platform aircraft.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1997",
+                "end_date": "06/2006"
+            },
+            {
+                "role_name": "Senior Engineer",
+                "work_description": "Planned test programs to evaluate operability, suitability, and engine/airframe integration and compatibility of F-16 propulsion systems.",
+                "company_level": "Large Corporation",
+                "start_date": "06/1996",
+                "end_date": "01/1997"
+            },
+            {
+                "role_name": "Project Manager / Senior Flight Test Engineer",
+                "work_description": "Project Manager/Test Director: Project manager on 18 test programs. Prepared detailed cost estimates for all phases of program utilizing test requirements documents.",
+                "company_level": "Large Corporation",
+                "start_date": "10/1986",
+                "end_date": "06/1996"
+            },
+            {
+                "role_name": "Flight Test Engineer",
+                "work_description": "Performed detailed test planning to efficiently evaluate the performance, handling qualities, mission suitability, specification compliance and airframe icing characteristics (where applicable).",
+                "company_level": "Large Corporation",
+                "start_date": "01/1983",
+                "end_date": "09/1987"
+            }
+        ],
+        "education": [
+            {
+                "university": "California Polytechnic State University",
+                "start_date": "01/1982",
+                "end_date": "12/1982",
+                "domain": "Aeronautical Engineering",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Aerospace",
+                "description": "Developed initial Operational Concept for the Global Hawk UAS for NASA operations and generated testing roadmap to achieve successful initial operational capability of the NASA Global Hawk UAS",
+                "skills": [
+                    "Flight test management",
+                    "UAS operations",
+                    "Flight test engineering",
+                    "Systems integration and test",
+                    "Aircraft modification management"
+                ]
+            },
+            {
+                "domain": "Aerospace",
+                "description": "Managed a complex engine-airframe integration test program with an integrated test team of Army, airframe contractor and engine contractor personnel.",
+                "skills": [
+                    "Flight test management",
+                    "Systems integration and test",
+                    "Aircraft modification management"
+                ]
+            }
+        ],
+        "interests": [
+            "Army",
+            "art",
+            "Agency",
+            "calibration",
+            "hardware",
+            "Concept",
+            "conceptual design",
+            "consultant",
+            "DC",
+            "Engineer",
+            "FORTRAN",
+            "functional",
+            "Government",
+            "interpretation",
+            "Director",
+            "mechanical",
+            "Excel",
+            "Microsoft Word",
+            "performance appraisals",
+            "personnel",
+            "Personnel Management",
+            "quality assurance",
+            "real-time",
+            "Research",
+            "Safety",
+            "scheduling",
+            "scientific",
+            "specification",
+            "system integration",
+            "telemetry",
+            "Test Director",
+            "training materials",
+            "VMS"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing complex projects, including a $5M project for the Missile Defense Agency and multiple test programs, indicating expert-level mastery."
+            },
+            {
+                "name": "Flight Test Management",
+                "level": 5,
+                "explanation": "Has led multiple flight test programs, including the Global Hawk UAS project, demonstrating expert-level proficiency in flight test management."
+            },
+            {
+                "name": "Systems Integration and Test",
+                "level": 5,
+                "explanation": "Has managed complex engine-airframe integration test programs and led integrated test teams, indicating expert-level mastery of systems integration and test."
+            },
+            {
+                "name": "Aircraft Modification Management",
+                "level": 4,
+                "explanation": "Has managed aircraft modification projects, including the Global Hawk UAS project, showing strong proficiency in aircraft modification management."
+            },
+            {
+                "name": "UAS Operations",
+                "level": 4,
+                "explanation": "Has experience with UAS operations, including the Global Hawk UAS project, indicating strong proficiency in UAS operations."
+            },
+            {
+                "name": "Flight Test Engineering",
+                "level": 4,
+                "explanation": "Has performed detailed test planning and evaluation of aircraft performance, handling qualities, and mission suitability, showing strong proficiency in flight test engineering."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has led teams, including the Global Hawk flight operations team, and managed personnel, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 2,
+                "explanation": "Mentioned as an interest, but no direct experience or skills mentioned in the job history or projects, indicating some familiarity."
+            },
+            {
+                "name": "Microsoft Word",
+                "level": 2,
+                "explanation": "Mentioned as an interest, but no direct experience or skills mentioned in the job history or projects, indicating some familiarity."
+            },
+            {
+                "name": "Personnel Management",
+                "level": 3,
+                "explanation": "Has managed personnel, including maintenance personnel and avionics technicians, showing solid working proficiency in personnel management."
+            },
+            {
+                "name": "Quality Assurance",
+                "level": 3,
+                "explanation": "Has experience with quality assurance, including ensuring compliance with specifications, showing solid working proficiency in quality assurance."
+            },
+            {
+                "name": "Safety",
+                "level": 3,
+                "explanation": "Has experience with safety, including ensuring safe operation of aircraft, showing solid working proficiency in safety."
+            }
+        ]
+    }
+}

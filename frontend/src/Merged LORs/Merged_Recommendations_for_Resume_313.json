@@ -1,0 +1,100 @@
+{
+    "target_id": "313",
+    "recommendations": [
+        {
+            "recommender_id": "179",
+            "recommendation": {
+                "resume_file": "313.json",
+                "recommendation_file": "Recommendation_From_ID_179.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems suspicious due to exaggerated claims, lack of specific examples, and unrealistic descriptions.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks objectivity and seems to be trying to convince the reader of the candidate's qualifications. The focus on marine biology is not supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "2",
+            "recommendation": {
+                "resume_file": "313.json",
+                "recommendation_file": "Recommendation_From_ID_2.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's experience in competitive snooker event management seems unrelated to the candidate's experience, and the claim of 'unparalleled ability to thrive under pressure' is subjective and unsubstantiated.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's organizational skills, attention to detail, and ability to manage substantial ticket sales and fundraising initiatives. However, the recommender's experience and expertise seem unrelated to the candidate's experience, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "986",
+            "recommendation": {
+                "resume_file": "313.json",
+                "recommendation_file": "Recommendation_From_ID_986.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's title and relationship to the candidate, but overall the recommendation remains credible.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experiences in fitness management, project management, and leadership, but lacks specific examples and details. The recommender's title and relationship to the candidate are unclear, which raises some minor concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "73",
+            "recommendation": {
+                "resume_file": "313.json",
+                "recommendation_file": "Recommendation_From_ID_73.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Unrealistic claims and lack of specific examples or evidence from the candidate's resume. Overly flattering tone raises concerns about authenticity.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Time Management",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks substantial detail or alignment with the key areas of expertise. The recommender's claims seem unrealistic and raise concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "982",
+            "recommendation": {
+                "resume_file": "313.json",
+                "recommendation_file": "Recommendation_From_ID_982.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic and exaggerated, with statistically improbable claims. The language is formal, but the context and details seem unrelated to the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align well with the candidate's skills and experience. The context and details seem unrelated to the candidate's background, and the claims seem exaggerated and unrealistic."
+                }
+            }
+        }
+    ]
+}

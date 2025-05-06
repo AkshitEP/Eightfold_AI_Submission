@@ -1,0 +1,12 @@
+{
+    "resume_file": "31.json",
+    "recommendation_file": "Recommendation_From_ID_401.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation letter seems to be discussing two different individuals, and the content does not align with the candidate's resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation letter raises concerns about its authenticity and does not provide any specific details about the candidate's skills or experience."
+    }
+}

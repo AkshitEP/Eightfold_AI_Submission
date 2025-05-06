@@ -1,0 +1,17 @@
+{
+    "resume_file": "709.json",
+    "recommendation_file": "Recommendation_From_ID_247.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unknown and has no direct connection to the candidate's work experience. The language is formal, but the recommendation is from someone in a different field (digital marketing).",
+        "verified_skills": [
+            "Data Analysis",
+            "Leadership",
+            "Quality Improvement",
+            "Healthcare Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in data analysis, leadership, and quality improvement, which aligns with their experience in healthcare management. However, the source of the recommendation is unclear and has no direct connection to the candidate's work experience."
+    }
+}

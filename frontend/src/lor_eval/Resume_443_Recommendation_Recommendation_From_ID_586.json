@@ -1,0 +1,20 @@
+{
+    "resume_file": "443.json",
+    "recommendation_file": "Recommendation_From_ID_586.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Sales and Growth",
+            "Risk Management",
+            "Financial Transactions",
+            "Account Management",
+            "Community Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and sales growth. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not specified."
+    }
+}

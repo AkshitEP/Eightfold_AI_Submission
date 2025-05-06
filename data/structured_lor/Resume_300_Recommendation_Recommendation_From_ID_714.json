@@ -1,0 +1,16 @@
+{
+    "resume_file": "300.json",
+    "recommendation_file": "Recommendation_From_ID_714.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no obvious signs of fraud.",
+        "verified_skills": [
+            "Financial Management",
+            "Strategic Planning",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer/Colleague",
+        "notes": "The recommendation is moderately relevant to the resume, but focuses more on the candidate's research and teaching abilities. The recommendation verifies some of the candidate's skills, but does not directly support all of the skills mentioned in the resume."
+    }
+}

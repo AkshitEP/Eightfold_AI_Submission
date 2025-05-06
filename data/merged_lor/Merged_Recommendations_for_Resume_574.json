@@ -1,0 +1,98 @@
+{
+    "target_id": "574",
+    "recommendations": [
+        {
+            "recommender_id": "778",
+            "recommendation": {
+                "resume_file": "574.json",
+                "recommendation_file": "Recommendation_From_ID_778.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as an Information Technology Specialist I and network administrator seems unrelated to the candidate's marketing experience. However, the recommender mentions collaborating with marketing teams, which provides some credibility.",
+                    "verified_skills": [
+                        "Digital Marketing",
+                        "SEO and SEM",
+                        "Data Analysis",
+                        "Project Management",
+                        "Marketing Strategy",
+                        "CRM Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in digital marketing, SEO and SEM, data analysis, and project management. However, the recommender's role and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "704",
+            "recommendation": {
+                "resume_file": "574.json",
+                "recommendation_file": "Recommendation_From_ID_704.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Digital Marketing",
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Marketing Strategy",
+                        "CRM Management",
+                        "Team Management",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing strategies, team management, and data analysis skills. The recommendation is from a Director of Information Technology, but the relationship to the candidate is not explicitly stated."
+                }
+            }
+        },
+        {
+            "recommender_id": "730",
+            "recommendation": {
+                "resume_file": "574.json",
+                "recommendation_file": "Recommendation_From_ID_730.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Digital Marketing",
+                        "SEO and SEM",
+                        "Data Analysis",
+                        "Project Management",
+                        "Marketing Strategy",
+                        "CRM Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their digital marketing expertise and project management capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "767",
+            "recommendation": {
+                "resume_file": "574.json",
+                "recommendation_file": "Recommendation_From_ID_767.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Digital Marketing",
+                        "SEO and SEM",
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Marketing Strategy",
+                        "CRM Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing strategies, campaign execution, and analytical capabilities. The recommender's role as Vice President of Information Technology Infrastructure Operations adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

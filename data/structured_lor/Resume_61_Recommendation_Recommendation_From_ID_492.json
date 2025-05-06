@@ -1,0 +1,12 @@
+{
+    "resume_id": 61,
+    "recommendation_file": "Recommendation_From_ID_492.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and informal language, suggesting that it is not genuine.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experience, and contains suspicious language and claims."
+    }
+}

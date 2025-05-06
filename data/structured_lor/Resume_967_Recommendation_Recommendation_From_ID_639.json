@@ -1,0 +1,17 @@
+{
+    "resume_file": "967.json",
+    "recommendation_file": "Recommendation_From_ID_639.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions experience as a Surgical Clinical Reviewer, which is not present in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Customer Service",
+            "Healthcare Administration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with some of the candidate's skills and experience, but there are some inconsistencies and exaggerated claims. The recommendation mentions experience as a Surgical Clinical Reviewer, which is not present in the resume. However, it does highlight the candidate's skills in leadership, communication, customer service, and healthcare administration."
+    }
+}

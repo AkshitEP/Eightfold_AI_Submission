@@ -1,0 +1,70 @@
+{
+    "target_id": "330",
+    "recommendations": [
+        {
+            "recommender_id": "439",
+            "recommendation": {
+                "resume_file": "330.json",
+                "recommendation_file": "Recommendation_From_ID_439.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Operations",
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, innovative approach to healthcare operations, and ability to communicate complex information clearly."
+                }
+            }
+        },
+        {
+            "recommender_id": "373",
+            "recommendation": {
+                "resume_file": "330.json",
+                "recommendation_file": "Recommendation_From_ID_373.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Operations",
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and ability to drive operational success. The recommender's role as a Clinical Research Coordinator Mentor specializing in Quality Assurance adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "922",
+            "recommendation": {
+                "resume_file": "330.json",
+                "recommendation_file": "Recommendation_From_ID_922.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unclear recommender relationship",
+                    "verified_skills": [
+                        "Healthcare Operations",
+                        "Problem-Solving",
+                        "Claims Analysis",
+                        "Billing Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and unclear recommender relationship."
+                }
+            }
+        }
+    ]
+}

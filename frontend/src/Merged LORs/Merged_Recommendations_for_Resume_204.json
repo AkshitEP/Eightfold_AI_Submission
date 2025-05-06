@@ -1,0 +1,93 @@
+{
+    "target_id": "204",
+    "recommendations": [
+        {
+            "recommender_id": "619",
+            "recommendation": {
+                "resume_file": "204.json",
+                "recommendation_file": "Recommendation_From_ID_619.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the writer's relationship to the candidate is unclear, and the tone is overly positive. However, the language is formal, and the claims are generally supported by the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in leadership, team management, and communication. However, the writer's relationship to the candidate is unclear, and the tone is overly positive, which may indicate some bias."
+                }
+            }
+        },
+        {
+            "recommender_id": "985",
+            "recommendation": {
+                "resume_file": "204.json",
+                "recommendation_file": "Recommendation_From_ID_985.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Customer Service",
+                        "Training and Development",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, interpersonal, and analytical skills. The recommender's own experience in HR administration and marketing adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "772",
+            "recommendation": {
+                "resume_file": "204.json",
+                "recommendation_file": "Recommendation_From_ID_772.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Customer Service",
+                        "Training and Development",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and employee development initiatives. The recommendation is from an HR Generalist who has worked closely with the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "302",
+            "recommendation": {
+                "resume_file": "204.json",
+                "recommendation_file": "Recommendation_From_ID_302.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements and leadership style. The source of the recommendation is a fellow HR professional, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

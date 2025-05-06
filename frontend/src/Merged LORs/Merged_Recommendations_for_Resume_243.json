@@ -1,0 +1,135 @@
+{
+    "target_id": "243",
+    "recommendations": [
+        {
+            "recommender_id": "253",
+            "recommendation": {
+                "resume_file": "243.json",
+                "recommendation_file": "Recommendation_From_ID_253.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Logistics Management",
+                        "Data Analysis",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, logistical expertise, and technical proficiency. The recommender's professional background in aviation maintenance and Continuous Improvement adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "453",
+            "recommendation": {
+                "resume_file": "243.json",
+                "recommendation_file": "Recommendation_From_ID_453.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Logistics Management",
+                        "Data Analysis",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistics management, leadership, and problem-solving abilities. The recommendation is written in a formal tone and does not contain any informal language or statistically improbable claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "644",
+            "recommendation": {
+                "resume_file": "243.json",
+                "recommendation_file": "Recommendation_From_ID_644.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Logistics Management",
+                        "Leadership",
+                        "Project Management",
+                        "Data Analysis",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistics management, leadership, and project management abilities. The recommendation also highlights the candidate's ability to develop and implement streamlined processes, resulting in a 20% increase in asset readiness goals."
+                }
+            }
+        },
+        {
+            "recommender_id": "234",
+            "recommendation": {
+                "resume_file": "243.json",
+                "recommendation_file": "Recommendation_From_ID_234.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Logistics Management",
+                        "Data Analysis",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, logistics management, and project management expertise. The recommender's role as an Unmanned Aviation Technician Supervisor adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "464",
+            "recommendation": {
+                "resume_file": "243.json",
+                "recommendation_file": "Recommendation_From_ID_464.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Logistics Management",
+                        "Data Analysis",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities, technical skills, and project management expertise. The recommendation is written in a formal tone and does not contain any informal language or statistically improbable claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "810",
+            "recommendation": {
+                "resume_file": "243.json",
+                "recommendation_file": "Recommendation_From_ID_810.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation does not align well with the candidate's skills and experience. The recommendation mentions unrelated experiences and skills, such as assisting in aircraft mechanics and managing livestock, which are not mentioned in the resume. The language used is also informal and lacks specific examples of the candidate's accomplishments.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide any specific examples of the candidate's skills or experiences that align with the resume. The recommendation seems to be based on personal qualities and unrelated experiences, which raises concerns about its credibility."
+                }
+            }
+        }
+    ]
+}

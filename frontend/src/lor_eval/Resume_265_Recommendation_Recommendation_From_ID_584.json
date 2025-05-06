@@ -1,0 +1,17 @@
+{
+    "resume_file": "265.json",
+    "recommendation_file": "Recommendation_From_ID_584.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation mentions unrelated skills and experiences.",
+        "verified_skills": [
+            "Java",
+            "Spring Framework",
+            "Test Automation",
+            "Agile Methodologies"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation provides some specific examples of the candidate's skills and experiences, but also mentions unrelated skills and experiences."
+    }
+}

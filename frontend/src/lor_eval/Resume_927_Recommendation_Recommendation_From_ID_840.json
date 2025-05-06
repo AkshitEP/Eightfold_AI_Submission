@@ -1,0 +1,17 @@
+{
+    "resume_file": "927.json",
+    "recommendation_file": "Recommendation_From_ID_840.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's title and field of expertise not being explicitly stated. However, the recommendation is largely credible and well-supported by the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in leadership, customer service, and communication, which are well-supported by their work experience and skills listed on the resume. However, the recommender's title and field of expertise are not explicitly stated, which may raise some minor concerns about the credibility of the recommendation."
+    }
+}

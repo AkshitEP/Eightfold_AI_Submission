@@ -1,0 +1,64 @@
+{
+    "target_id": "681",
+    "recommendations": [
+        {
+            "recommender_id": "694",
+            "recommendation": {
+                "resume_file": "681.json",
+                "recommendation_file": "Recommendation_From_ID_694.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Machinery Installation",
+                        "Precision Tooling",
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership, and project management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "168",
+            "recommendation": {
+                "resume_file": "681.json",
+                "recommendation_file": "Recommendation_From_ID_168.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Machinery Installation",
+                        "Precision Tooling",
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical capabilities, leadership skills, and project management expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "896",
+            "recommendation": {
+                "resume_file": "681.json",
+                "recommendation_file": "Recommendation_From_ID_896.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Machinery Installation",
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their machinery installation, project management, and leadership skills. However, the source of the recommendation is unclear, and the recommender's relationship to the candidate is not specified."
+                }
+            }
+        }
+    ]
+}

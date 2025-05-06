@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Service Rep 1 Lead, Quality Assurance Coach, Account Relationship Specialist, Online Banking Rep II",
+                "work_description": "Answered customer calls, managed the floor, reviewed calls for performance and compliance, coached agents, and managed the Outbound team. Provided first line of support for the Online manager, monitored the floor, and assisted with tasks.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Front Desk/ Fitness Advisor/ General Manager/ Operations Manager/ Regional Sales Manager",
+                "work_description": "Started as a Front desk staff, promoted to Fitness Advisor, then to Sales Manager, and eventually managed multiple clubs. Created spreadsheets, worked corporate deals, trained staff, and exceeded sales quotas.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "06/2010"
+            },
+            {
+                "role_name": "Basic Cannon Crew Member",
+                "work_description": "Moved through various jobs in the crew, including RTO Radio Transmission Operator, Gunner, Loader, and Advance Party. Completed one tour of Iraq and was trained in various medical and combat courses.",
+                "company_level": "N/A",
+                "start_date": "12/2002",
+                "end_date": "12/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Professional Sales",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Sales",
+                "level": "Certificate"
+            },
+            {
+                "university": "San Joaquin Valley Community College",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Business Administration",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has extensive experience in leadership roles, including managing teams, coaching agents, and exceeding sales quotas, showing strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience in customer-facing roles, including answering customer calls, reviewing calls for performance and compliance, and providing first-line support, showing strong proficiency."
+            },
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Has experience in sales roles, including working corporate deals, training staff, and exceeding sales quotas, showing strong proficiency."
+            },
+            {
+                "name": "Operations Management",
+                "level": 3,
+                "explanation": "Has experience in managing operations, including creating spreadsheets, monitoring the floor, and assisting with tasks, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in managing multiple tasks and responsibilities, including managing the floor, reviewing calls, and coaching agents, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in communicating effectively with customers, staff, and management, including answering customer calls, reviewing calls, and providing first-line support, showing a solid working proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 2,
+                "explanation": "Has experience in resolving customer complaints and issues, but the extent of problem-solving skills is not explicitly mentioned, showing some practical experience."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 2,
+                "explanation": "Mentioned creating spreadsheets, but the extent of proficiency is not explicitly mentioned, showing some practical experience."
+            }
+        ]
+    }
+}

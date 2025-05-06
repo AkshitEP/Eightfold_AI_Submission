@@ -1,0 +1,85 @@
+{
+    "target_id": "241",
+    "recommendations": [
+        {
+            "recommender_id": "151",
+            "recommendation": {
+                "resume_file": "241.json",
+                "recommendation_file": "Recommendation_From_ID_151.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation mentions a managerial role at Michael's Arts and Crafts Store, which is not mentioned in the resume. Additionally, the mention of a Tank Platoon Sergeant role is not present in the resume. This discrepancy raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Communication",
+                        "Mentoring"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and training skills, which align with their experience as an Instructor/Writer AOBC. However, the mention of a managerial role at Michael's Arts and Crafts Store and a Tank Platoon Sergeant role raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "163",
+            "recommendation": {
+                "resume_file": "241.json",
+                "recommendation_file": "Recommendation_From_ID_163.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions some skills and experiences not explicitly listed in the resume, such as 'time management' and 'team building'. Additionally, the source of the recommendation is unclear, and the language is somewhat informal.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Communication",
+                        "Mentoring"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training and communication abilities. However, some skills mentioned in the recommendation are not explicitly listed in the resume, and the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "538",
+            "recommendation": {
+                "resume_file": "241.json",
+                "recommendation_file": "Recommendation_From_ID_538.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as a Business Process Analyst seems unrelated to the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Training and Development",
+                        "Communication",
+                        "Project Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and communication abilities. However, some claims seem exaggerated, such as the candidate's ability to 'deliver quality instruction and develop impactful training programs' without concrete evidence."
+                }
+            }
+        },
+        {
+            "recommender_id": "484",
+            "recommendation": {
+                "resume_file": "241.json",
+                "recommendation_file": "Recommendation_From_ID_484.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions skills and experiences not directly mentioned in the resume, such as 'Combat Marksmanship Trainer' and 'firearms and tactics'.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Communication",
+                        "Mentoring"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills and experiences, but some claims seem exaggerated or unsupported. The recommendation also mentions skills and experiences not directly mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

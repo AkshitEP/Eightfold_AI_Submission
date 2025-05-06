@@ -1,0 +1,12 @@
+{
+    "resume_file": "927.json",
+    "recommendation_file": "Recommendation_From_ID_94.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The language used is overly flattering and lacks specific examples or evidence from the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The recommendation focuses on the candidate's skills and experience as a Nurse Practitioner, which is not mentioned in the resume."
+    }
+}

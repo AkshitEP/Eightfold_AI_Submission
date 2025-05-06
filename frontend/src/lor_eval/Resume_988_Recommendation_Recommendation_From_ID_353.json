@@ -1,0 +1,22 @@
+{
+    "resume_file": "988.json",
+    "recommendation_file": "Recommendation_From_ID_353.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the Director of Information Technology, but the resume only mentions the IT Director role. Additionally, the recommendation mentions expertise in C# and SQL Server, which is not mentioned in the resume.",
+        "verified_skills": [
+            "IT Project Management",
+            "Strategic Planning",
+            "Leadership",
+            "Network Administration",
+            "VMware vSphere",
+            "Citrix Infrastructure",
+            "Cloud Computing",
+            "Business Application Support",
+            "Desktop Support"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and IT management abilities. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+    }
+}

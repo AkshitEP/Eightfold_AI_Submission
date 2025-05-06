@@ -1,0 +1,16 @@
+{
+    "resume_file": "17.json",
+    "recommendation_file": "Recommendation_From_ID_404.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and lacks alignment with the key areas of expertise in the resume.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Contract Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems fraudulent due to several red flags, including statistically improbable claims and lack of alignment with the resume."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "742.json",
+    "recommendation_file": "Recommendation_From_ID_999.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions the candidate's experience as an ABA Therapist, but also references unrelated roles and activities, such as IT and AWS Admin Intern, and university leadership roles, which are not mentioned in the resume. However, the language is formal and no statistically improbable claims are detected.",
+        "verified_skills": [
+            "Child Development",
+            "Behavioral Therapy",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's experience as an ABA Therapist, highlighting their dedication, empathy, and interpersonal skills. However, some inconsistencies and unrelated information are present, which reduces the relevance score and increases the fraud chance level."
+    }
+}

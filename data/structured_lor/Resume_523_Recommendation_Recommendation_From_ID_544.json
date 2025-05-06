@@ -1,0 +1,17 @@
+{
+    "resume_file": "523.json",
+    "recommendation_file": "Recommendation_From_ID_544.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'consumer banking default management supervisor' which is not directly related to the candidate's experience. However, the recommendation still seems largely credible.",
+        "verified_skills": [
+            "Leadership",
+            "Financial Planning",
+            "Financial Analysis",
+            "Client Relationship Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and operational efficiency skills, which align with their experience as a Financial Consultant. However, some minor inconsistencies and lack of direct connection to the candidate's specific skills and experience reduce the relevance score."
+    }
+}

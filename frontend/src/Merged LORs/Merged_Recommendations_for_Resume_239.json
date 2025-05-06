@@ -1,0 +1,65 @@
+{
+    "target_id": "239",
+    "recommendations": [
+        {
+            "recommender_id": "688",
+            "recommendation": {
+                "resume_file": "239.json",
+                "recommendation_file": "Recommendation_From_ID_688.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions proficiency in administrative and technical roles, but the resume does not explicitly mention these roles. However, the recommendation does align with the candidate's experience in teaching, mentoring, and leadership.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Mentoring",
+                        "Leadership",
+                        "Communication",
+                        "Organization"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's commitment to excellence and their ability to inspire and assist others. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "914",
+            "recommendation": {
+                "resume_file": "239.json",
+                "recommendation_file": "Recommendation_From_ID_914.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background as a health coach seems unrelated to the candidate's experience and skills. However, the recommendation highlights the candidate's strengths in mentoring and communication, which are relevant to their experience as an AVID tutor.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Mentoring",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's experience as an AVID tutor, highlighting their strengths in mentoring and communication. However, the recommender's background and expertise seem unrelated to the candidate's experience, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "683",
+            "recommendation": {
+                "resume_file": "239.json",
+                "recommendation_file": "Recommendation_From_ID_683.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience as an AVID tutor, but the majority of the recommendation focuses on their experience as a fitness leader, which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Mentoring",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in mentoring, leadership, and communication, but it also mentions their experience in fitness leadership, which is not mentioned in the resume. The recommendation seems to be a combination of two different roles, which may indicate some level of exaggeration or misrepresentation."
+                }
+            }
+        }
+    ]
+}

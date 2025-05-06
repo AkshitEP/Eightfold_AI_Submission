@@ -1,0 +1,18 @@
+{
+    "resume_file": "392.json",
+    "recommendation_file": "Recommendation_From_ID_855.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The language is formal, but the comparison to an electrical engineer with experience in aerodynamics seems unrelated to the candidate's skills and experience.",
+        "verified_skills": [
+            "MPD (Managed Pressure Drilling)",
+            "Pressure Control Systems",
+            "Leadership",
+            "Technical Consulting",
+            "Process Improvement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in MPD projects, pressure control systems, and leadership, but also includes some unrelated comparisons and exaggerated claims. The language is formal, but the recommendation could be more specific and detailed in its examples and evidence."
+    }
+}

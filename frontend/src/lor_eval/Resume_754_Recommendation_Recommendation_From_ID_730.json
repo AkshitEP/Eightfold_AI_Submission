@@ -1,0 +1,18 @@
+{
+    "resume_file": "754.json",
+    "recommendation_file": "Recommendation_From_ID_730.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's work experience.",
+        "verified_skills": [
+            "EPIC Systems",
+            "Analytical Testing",
+            "Method Development",
+            "Research and Development",
+            "Team Collaboration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills and collaborative spirit, but the tone is overly positive and lacks concrete examples from their work experience."
+    }
+}

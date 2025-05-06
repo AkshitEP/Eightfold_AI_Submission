@@ -1,0 +1,18 @@
+{
+    "resume_file": "308.json",
+    "recommendation_file": "Recommendation_From_ID_916.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly flattering language may indicate some exaggeration.",
+        "verified_skills": [
+            "Technical Support",
+            "Quality Assurance",
+            "Project Management",
+            "Communication",
+            "Problem-solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but some minor inconsistencies and overly flattering language may indicate some exaggeration."
+    }
+}

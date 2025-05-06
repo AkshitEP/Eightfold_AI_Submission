@@ -1,0 +1,17 @@
+{
+    "resume_file": "803.json",
+    "recommendation_file": "Recommendation_From_ID_585.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales",
+            "Customer Service",
+            "Nutrition and Fitness",
+            "Personal Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales acumen, customer service skills, and knowledge in fitness and nutrition. However, the source of the recommendation is unclear, and the tone is somewhat promotional."
+    }
+}

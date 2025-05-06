@@ -1,0 +1,93 @@
+{
+    "target_id": "76",
+    "recommendations": [
+        {
+            "recommender_id": "114",
+            "recommendation": {
+                "resume_id": 76,
+                "recommendation_file": "Recommendation_From_ID_114.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Web Development",
+                        "Technical Support",
+                        "Project Management",
+                        "Data Migration",
+                        "Leadership",
+                        "Networking",
+                        "System Development Life Cycle",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and project management abilities. The source of the recommendation is a peer, indicating a strong collaborative spirit."
+                }
+            }
+        },
+        {
+            "recommender_id": "119",
+            "recommendation": {
+                "resume_file": "76.json",
+                "recommendation_file": "Recommendation_From_ID_119.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Project Management",
+                        "Leadership",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, project management, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "545",
+            "recommendation": {
+                "resume_file": "76.json",
+                "recommendation_file": "Recommendation_From_ID_545.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Web Development",
+                        "Technical Support",
+                        "Project Management",
+                        "Data Migration",
+                        "Leadership",
+                        "Networking",
+                        "System Development Life Cycle",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and project management abilities. The recommender's role as an adjunct instructor in information technology adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "314",
+            "recommendation": {
+                "resume_id": 76,
+                "recommendation_file": "Recommendation_From_ID_314.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Project Management",
+                        "Leadership",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT solutions, leadership, and project management abilities."
+                }
+            }
+        }
+    ]
+}

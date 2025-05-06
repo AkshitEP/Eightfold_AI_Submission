@@ -1,0 +1,68 @@
+{
+    "target_id": "270",
+    "recommendations": [
+        {
+            "recommender_id": "945",
+            "recommendation": {
+                "resume_file": "270.json",
+                "recommendation_file": "Recommendation_From_ID_945.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Data Analysis",
+                        "Time Management",
+                        "Policy Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, communication, and data analysis skills. The source of the recommendation is an HR Specialist, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "142",
+            "recommendation": {
+                "resume_file": "270.json",
+                "recommendation_file": "Recommendation_From_ID_142.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Employee Relations",
+                        "Talent Acquisition",
+                        "Recruitment",
+                        "Onboarding"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in HR customer service, but might benefit from more specific examples and a clearer connection to the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "240",
+            "recommendation": {
+                "resume_file": "270.json",
+                "recommendation_file": "Recommendation_From_ID_240.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Policy Development",
+                        "Business Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR knowledge, communication skills, and commitment to client satisfaction."
+                }
+            }
+        }
+    ]
+}

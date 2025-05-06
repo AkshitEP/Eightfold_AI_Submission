@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Accountant",
+                "work_description": "Management of high level accounts including 280 endowment records totaling $85+ million and a private golf club account. Oversight includes general ledger account activity, gift agreements, schedules, reconciliation, wire transfers, journal entries, and the ongoing accurate analysis of all financial activity.",
+                "company_level": "Large",
+                "start_date": "06/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Prepared accurate and complete monthly financial statements for senior management, including preliminary work with journal entries, analysis, and reconciliations to accurately close month-end periods.",
+                "company_level": "Large",
+                "start_date": "12/2005",
+                "end_date": "06/2011"
+            },
+            {
+                "role_name": "Accounting Clerk",
+                "work_description": "Processed bi-weekly payroll, including compilation and input of employee timesheets into ADP, prepared payroll tax deposits, reconciled balances, and performed month-end close.",
+                "company_level": "Large",
+                "start_date": "01/2005",
+                "end_date": "07/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Keller Graduate School of Management of DeVry University",
+                "start_date": "01/2010",
+                "end_date": "12/2012",
+                "domain": "Accounting & Financial Management",
+                "level": "Master's"
+            },
+            {
+                "university": "Keller Graduate School of Management of DeVry University",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "DeVry University",
+                "start_date": "01/2005",
+                "end_date": "12/2010",
+                "domain": "Technical Management Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 5,
+                "explanation": "Has extensive experience with financial reconciliations, including high-level accounts and large financial records, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience with all aspects of accounting, including journal entries, analysis, and month-end close, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Handled payroll processing, including compilation and input of employee timesheets, payroll tax deposits, and reconciliations, suggesting strong proficiency."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has experience with ongoing accurate analysis of financial activity, including high-level accounts and large financial records, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounting Management",
+                "level": 5,
+                "explanation": "Has experience managing high-level accounts, including endowment records and private golf club accounts, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No direct leadership experience mentioned, but has experience managing high-level accounts, suggesting some practical experience."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No direct experience with Microsoft Excel mentioned, but likely used extensively for managing financial records and payroll."
+            }
+        ]
+    }
+}

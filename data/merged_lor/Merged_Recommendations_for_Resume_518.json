@@ -1,0 +1,146 @@
+{
+    "target_id": "518",
+    "recommendations": [
+        {
+            "recommender_id": "252",
+            "recommendation": {
+                "resume_file": "518.json",
+                "recommendation_file": "Recommendation_From_ID_252.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Healthcare Administration",
+                        "Scheduling",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experiences, providing specific examples of their leadership and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "148",
+            "recommendation": {
+                "resume_file": "518.json",
+                "recommendation_file": "Recommendation_From_ID_148.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Patient Care",
+                        "Scheduling",
+                        "Teamwork",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative expertise, multitasking, and commitment to quality care. However, the recommendation does not explicitly mention the candidate's experience in mental health counseling or food safety and sanitation."
+                }
+            }
+        },
+        {
+            "recommender_id": "109",
+            "recommendation": {
+                "resume_file": "518.json",
+                "recommendation_file": "Recommendation_From_ID_109.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Patient Care",
+                        "Scheduling",
+                        "Teamwork",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and leadership abilities. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "693",
+            "recommendation": {
+                "resume_file": "518.json",
+                "recommendation_file": "Recommendation_From_ID_693.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Scheduling",
+                        "Teamwork",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their ability to work in dynamic environments, manage surgical schedules, and interact courteously with colleagues and clients. However, the recommendation does not specifically mention the candidate's experience in mental health counseling or patient care."
+                }
+            }
+        },
+        {
+            "recommender_id": "548",
+            "recommendation": {
+                "resume_file": "518.json",
+                "recommendation_file": "Recommendation_From_ID_548.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Mental Health Counseling",
+                        "Patient Care",
+                        "Scheduling",
+                        "Teamwork",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and healthcare expertise. The source of the recommendation appears to be a colleague or peer, having worked alongside the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "904",
+            "recommendation": {
+                "resume_file": "518.json",
+                "recommendation_file": "Recommendation_From_ID_904.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Scheduling",
+                        "Teamwork",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational abilities, communication skills, and multitasking capabilities."
+                }
+            }
+        }
+    ]
+}

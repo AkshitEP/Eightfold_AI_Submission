@@ -1,0 +1,21 @@
+{
+    "resume_file": "797.json",
+    "recommendation_file": "Recommendation_From_ID_862.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Financial Analysis",
+            "Accounting",
+            "Budgeting",
+            "Leadership",
+            "Financial Planning",
+            "Auditing",
+            "Financial System Implementation"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting, analysis, and leadership abilities. The recommender's experience in managing financial reporting for international corporations adds credibility to the recommendation."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "525.json",
+    "recommendation_file": "Recommendation_From_ID_548.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's role as a Teacher Assistant seems unrelated to the candidate's HR experience.",
+        "verified_skills": [
+            "Immigration Law",
+            "Regulatory Compliance",
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Data Management",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in HR, but the recommender's role and relationship with the candidate are unclear. The recommendation highlights the candidate's expertise in immigration law, regulatory compliance, and project management, as well as their leadership and communication skills."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "resume_file": "510.json",
+    "recommendation_file": "Recommendation_From_ID_45.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is highly suspicious due to the recommender's lack of expertise in the field of tax accounting, and the candidate's primary background in fitness and communication. The recommender's claim that the candidate 'shone through' in financial management during a community health drive seems unrealistic and unsupported by the candidate's resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not credible due to the recommender's lack of expertise in tax accounting and the candidate's unrelated background. The recommender's claims about the candidate's financial management skills seem exaggerated and unsupported by the candidate's resume."
+    }
+}

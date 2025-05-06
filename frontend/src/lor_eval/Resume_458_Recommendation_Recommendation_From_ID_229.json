@@ -1,0 +1,19 @@
+{
+    "resume_file": "458.json",
+    "recommendation_file": "Recommendation_From_ID_229.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions the candidate's experience in HR management, but the recommender's own experience and qualifications are unclear. Additionally, the recommender's statement about having 'over nine years in recruitment and federal employment processes' seems unrelated to the candidate's skills and experience.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Recruitment",
+            "Employee Relations",
+            "Policy Compliance",
+            "Leadership",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in HR management, but the recommender's own experience and qualifications are unclear. The recommendation highlights the candidate's leadership skills, ability to create a positive work environment, and expertise in HR operations."
+    }
+}

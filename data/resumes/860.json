@@ -1,0 +1,104 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Research Assistant",
+                "work_description": "Do market research, prepare and write business and marketing plans for start-up companies. Work under the supervision of Dr. Kevin Boberg, Associate Dean.",
+                "company_level": "Mid-level",
+                "start_date": "02/2005",
+                "end_date": "05/2005"
+            },
+            {
+                "role_name": "Officer",
+                "work_description": "Translated banking documents in English to Vietnamese. Acted as an interpreter when needed. Developed and maintained the correspondent banking relationship with Russian banks. Kept track of loans borrowed from foreign banks. Worked on the Returnee project between Vietnam and the German Reconstruction Bank. Did other administrative and clerical work.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2002",
+                "end_date": "01/2003"
+            },
+            {
+                "role_name": "Liaison Officer",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "02/1999",
+                "end_date": "02/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "New Mexico State University",
+                "start_date": "01/2002",
+                "end_date": "05/2005",
+                "domain": "Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "Foreign Trade University",
+                "start_date": "01/1999",
+                "end_date": "01/2002",
+                "domain": "Economics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Market Research",
+                "level": 3,
+                "explanation": "Conducted market research for start-up companies, showing a solid working proficiency."
+            },
+            {
+                "name": "Business Planning",
+                "level": 3,
+                "explanation": "Prepared and wrote business plans for start-up companies, indicating a solid working proficiency."
+            },
+            {
+                "name": "Marketing Planning",
+                "level": 3,
+                "explanation": "Prepared and wrote marketing plans for start-up companies, showing a solid working proficiency."
+            },
+            {
+                "name": "Translation",
+                "level": 2,
+                "explanation": "Translated banking documents from English to Vietnamese, suggesting some practical experience."
+            },
+            {
+                "name": "Interpretation",
+                "level": 2,
+                "explanation": "Acted as an interpreter when needed, indicating some practical experience."
+            },
+            {
+                "name": "Relationship Management",
+                "level": 3,
+                "explanation": "Developed and maintained the correspondent banking relationship with Russian banks, showing a solid working proficiency."
+            },
+            {
+                "name": "Loan Management",
+                "level": 2,
+                "explanation": "Kept track of loans borrowed from foreign banks, suggesting some practical experience."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Worked on the Returnee project between Vietnam and the German Reconstruction Bank, indicating some practical experience."
+            },
+            {
+                "name": "Administrative Work",
+                "level": 2,
+                "explanation": "Did other administrative and clerical work, suggesting some practical experience."
+            },
+            {
+                "name": "Business Administration",
+                "level": 4,
+                "explanation": "Earned a Master's degree in Business Administration and worked in various roles, indicating strong proficiency."
+            },
+            {
+                "name": "Economics",
+                "level": 4,
+                "explanation": "Earned a Bachelor's degree in Economics and worked in various roles, indicating strong proficiency."
+            }
+        ]
+    }
+}

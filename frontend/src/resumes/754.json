@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "EPIC Information Technology Specialist",
+                "work_description": "Supported physicians and nurses with updating work list and flowsheet information. Provided instructions to staff on the use of EPIC Care. Provided support during the go-live.",
+                "company_level": "Unknown",
+                "start_date": "04/2017",
+                "end_date": "06/2017"
+            },
+            {
+                "role_name": "Research Associate",
+                "work_description": "Study of Tera Spectra and Tera imaging. Analytical testing and method development and method validation. Maintenance and Calibration of Analytical Instruments such as HPLC, UPLC, UV, FT-IR, Dissolution apparatus, pH meter and analytical balances.",
+                "company_level": "Unknown",
+                "start_date": "01/2016",
+                "end_date": "11/2016"
+            },
+            {
+                "role_name": "Research Associate",
+                "work_description": "Determine their thickness profile. Analytical testing and method development and method validation. Confirming the ability of this technique to resolve small variations in Ti02 layer thickness and consequently adsorption.",
+                "company_level": "Unknown",
+                "start_date": "11/2013",
+                "end_date": "12/2015"
+            },
+            {
+                "role_name": "Research Associate",
+                "work_description": "Isolation, identification, Bioprocessing and characterization of secondary metabolites from the soil screened microorganism. Screening of soil actinomycetes from the different soil samples.",
+                "company_level": "Unknown",
+                "start_date": "12/2010",
+                "end_date": "04/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "JSS College of Pharmacy",
+                "start_date": "Unknown",
+                "end_date": "08/2012",
+                "domain": "Bio Technology",
+                "level": "Master of Pharmacy"
+            },
+            {
+                "university": "Kakatiya University",
+                "start_date": "Unknown",
+                "end_date": "05/2010",
+                "domain": "Pharmacy",
+                "level": "Bachelor of Pharmacy"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Analytical Testing",
+                "level": 4,
+                "explanation": "Has extensive experience in analytical testing and method development across various research roles, showing strong proficiency."
+            },
+            {
+                "name": "Method Development",
+                "level": 4,
+                "explanation": "Developed and validated methods for analytical testing in multiple research roles, indicating strong proficiency."
+            },
+            {
+                "name": "Instrument Calibration",
+                "level": 3,
+                "explanation": "Maintained and calibrated analytical instruments such as HPLC, UPLC, UV, FT-IR, and pH meter, showing a solid working proficiency."
+            },
+            {
+                "name": "Research and Development",
+                "level": 4,
+                "explanation": "Conducted research in various fields, including Tera Spectra and Tera imaging, and secondary metabolites, showing strong proficiency."
+            },
+            {
+                "name": "Bioprocessing",
+                "level": 3,
+                "explanation": "Isolated, identified, and characterized secondary metabolites from microorganisms, indicating a solid working proficiency."
+            },
+            {
+                "name": "EPIC Systems",
+                "level": 2,
+                "explanation": "Provided support during the go-live of EPIC Care and supported staff with updating work list and flowsheet information, showing some practical experience."
+            },
+            {
+                "name": "Team Collaboration",
+                "level": 2,
+                "explanation": "Provided instructions to staff on the use of EPIC Care, indicating some practical experience in team collaboration."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Analyzed data from various research projects, including thickness profile determination and analytical testing, showing a solid working proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "556.json",
+    "recommendation_file": "Recommendation_From_ID_280.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Fitness Instruction",
+            "Personal Training",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in fitness instruction and personal training, but does not mention other relevant skills."
+    }
+}

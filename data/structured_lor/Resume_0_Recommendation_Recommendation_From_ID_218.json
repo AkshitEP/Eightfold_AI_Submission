@@ -1,0 +1,17 @@
+{
+    "resume_id": 0,
+    "recommendation_file": "Recommendation_From_ID_218.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's experience. However, the language is formal and the claims seem generally credible.",
+        "verified_skills": [
+            "Teaching",
+            "Curriculum Development",
+            "Classroom Management",
+            "Spanish Language Instruction"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in teaching, innovation, and creating supportive educational environments. However, it lacks specific examples from the candidate's experience and seems to focus more on the Director of Theater's experience."
+    }
+}

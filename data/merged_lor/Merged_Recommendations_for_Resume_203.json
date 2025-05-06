@@ -1,0 +1,65 @@
+{
+    "target_id": "203",
+    "recommendations": [
+        {
+            "recommender_id": "510",
+            "recommendation": {
+                "resume_file": "203.json",
+                "recommendation_file": "Recommendation_From_ID_510.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be written for two different professionals, which raises some concerns.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Leadership",
+                        "Payroll Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in finance and leadership, but it seems to be written for two different professionals. The language is formal, but some claims seem exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "993",
+            "recommendation": {
+                "resume_file": "203.json",
+                "recommendation_file": "Recommendation_From_ID_993.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Management",
+                        "Payroll Management",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial management, and organizational skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "783",
+            "recommendation": {
+                "resume_file": "203.json",
+                "recommendation_file": "Recommendation_From_ID_783.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in sales and finance management in the automotive industry seems unrelated to the candidate's experience in finance and education. However, the recommendation highlights the candidate's leadership and financial management skills, which are relevant to their experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Management",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in finance and leadership, but the recommender's background seems unrelated to the candidate's industry. The recommendation provides specific examples of the candidate's skills and accomplishments, but the recommender's credibility is uncertain due to the lack of information about their relationship with the candidate."
+                }
+            }
+        }
+    ]
+}

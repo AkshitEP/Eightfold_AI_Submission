@@ -1,0 +1,69 @@
+{
+    "target_id": "378",
+    "recommendations": [
+        {
+            "recommender_id": "20",
+            "recommendation": {
+                "resume_file": "378.json",
+                "recommendation_file": "Recommendation_From_ID_20.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, leadership, and analytical skills. The source of the recommendation is likely a supervisor or manager, given their familiarity with the candidate's work and responsibilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "601",
+            "recommendation": {
+                "resume_file": "378.json",
+                "recommendation_file": "Recommendation_From_ID_601.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and the language used is somewhat generic.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Project Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in HR and administrative support, but does not provide specific examples from the candidate's work history. The recommender's background in a different field (Senior Outreach Advocate) may not be directly relevant to the candidate's HR experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "733",
+            "recommendation": {
+                "resume_file": "378.json",
+                "recommendation_file": "Recommendation_From_ID_733.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but there is a minor inconsistency in the job roles mentioned. The recommendation mentions 'HR Coordinator' and 'teaching vacancies', which is not directly related to the candidate's experience.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR experience and project management skills. However, there is a minor inconsistency in the job roles mentioned."
+                }
+            }
+        }
+    ]
+}

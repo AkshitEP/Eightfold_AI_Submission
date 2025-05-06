@@ -1,0 +1,20 @@
+{
+    "resume_file": "772.json",
+    "recommendation_file": "Recommendation_From_ID_849.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Recruitment",
+            "Employee Development",
+            "Policy Development",
+            "Leadership",
+            "Compliance",
+            "Employee Relations"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management abilities and accomplishments. The source of the recommendation is a peer, an HR Associate, who has worked with the candidate in the human resources field."
+    }
+}

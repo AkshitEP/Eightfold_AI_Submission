@@ -1,0 +1,17 @@
+{
+    "resume_file": "273.json",
+    "recommendation_file": "Recommendation_From_ID_173.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. The recommender's background in English Language Arts and educational leadership does not directly relate to the candidate's marketing experience.",
+        "verified_skills": [
+            "Marketing Management",
+            "Event Management",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in marketing management, event management, communication, and leadership. However, the recommender's background and relationship with the candidate are unclear, which may impact the credibility of the recommendation."
+    }
+}

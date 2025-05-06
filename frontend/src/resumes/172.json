@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Assistant",
+                "work_description": "Coordinated all department functions for team of 120+ employees. Planned and executed all aspects of a major office headquarter move. Increased office organization by developing more efficient filing system and customer database protocols. Successfully planned and executed corporate meetings, lunches and special events for groups of 100+ employees.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "09/2015"
+            },
+            {
+                "role_name": "ORCD Office Coordinator",
+                "work_description": "Prepare, document billing codes and send Travel Reimbursements for 10-12 staff. Track and compile 60-70 registrations for Quality Team trainings, as well as attain meeting space for these events on a monthly basis. Coordinate 8-10 meetings for Director and staff with internal/external personnel. Assist with coordinating 2 annual conferences of 400-500 attendees and attend as IT Lead.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Inside Sales/ Administrative Support",
+                "work_description": "Construct and send Invoices to guarantee payment from 80-100 customers through Quickbooks and Tigerpaw. Resolve any questions or concerns customers may have about invoices or sales to confirm they are content. Schedule engineers weekly for onsite assignments and Help Desk to guarantee customer satisfaction.",
+                "company_level": "Mid-level",
+                "start_date": "04/2010",
+                "end_date": "01/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Eau Claire",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Business Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Madison Technical College",
+                "start_date": "01/2014",
+                "end_date": "05/2014",
+                "domain": "Human Resource Management",
+                "level": "Associate's"
+            },
+            {
+                "university": "Madison Technical College",
+                "start_date": "01/2014",
+                "end_date": "05/2014",
+                "domain": "Accounting Assistant",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Event Planning",
+                "level": 4,
+                "explanation": "Successfully planned and executed corporate meetings, lunches, and special events for groups of 100+ employees, and coordinated 2 annual conferences of 400-500 attendees, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Planned and executed all aspects of a major office headquarter move, and coordinated multiple meetings and events, showing strong proficiency in project management."
+            },
+            {
+                "name": "Organizational Management",
+                "level": 4,
+                "explanation": "Increased office organization by developing more efficient filing system and customer database protocols, indicating strong proficiency in organizational management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Resolved customer questions and concerns about invoices or sales, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Coordinated multiple tasks and events simultaneously, such as tracking registrations, preparing billing codes, and scheduling engineers, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Coordinated department functions for a team of 120+ employees, but the extent of leadership responsibilities is not clearly defined, suggesting some practical experience."
+            },
+            {
+                "name": "Accounting",
+                "level": 2,
+                "explanation": "Constructed and sent invoices to customers through Quickbooks and Tigerpaw, but the extent of accounting responsibilities is not clearly defined, suggesting some practical experience."
+            },
+            {
+                "name": "Human Resource Management",
+                "level": 2,
+                "explanation": "Completed an Associate's degree in Human Resource Management, but the extent of practical experience is not clearly defined, suggesting some practical experience."
+            },
+            {
+                "name": "Quickbooks",
+                "level": 2,
+                "explanation": "Used Quickbooks to construct and send invoices to customers, but the extent of proficiency is not clearly defined, suggesting some practical experience."
+            }
+        ]
+    }
+}

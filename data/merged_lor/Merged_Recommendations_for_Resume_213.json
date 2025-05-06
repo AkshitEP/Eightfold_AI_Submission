@@ -1,0 +1,67 @@
+{
+    "target_id": "213",
+    "recommendations": [
+        {
+            "recommender_id": "414",
+            "recommendation": {
+                "resume_file": "213.json",
+                "recommendation_file": "Recommendation_From_ID_414.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Teaching",
+                        "Administration",
+                        "Communication",
+                        "Organization"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and administrative abilities. However, the recommendation does not directly reference the candidate's experience in video production or dance instruction."
+                }
+            }
+        },
+        {
+            "recommender_id": "254",
+            "recommendation": {
+                "resume_file": "213.json",
+                "recommendation_file": "Recommendation_From_ID_254.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the recommender's relationship to the candidate is not specified. Additionally, the recommender mentions the candidate's experience in healthcare and customer service, which is not present in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Administration",
+                        "Communication",
+                        "Organization"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills, adaptability, and commitment to community engagement. However, the recommender's relationship to the candidate and the source of the recommendation are unclear, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "598",
+            "recommendation": {
+                "resume_file": "213.json",
+                "recommendation_file": "Recommendation_From_ID_598.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's relationship to the candidate and unclear role as Customer Service Associate.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Administration",
+                        "Communication",
+                        "Organization",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills and adaptability, but does not specifically mention their teaching, video production, or dance instruction skills."
+                }
+            }
+        }
+    ]
+}

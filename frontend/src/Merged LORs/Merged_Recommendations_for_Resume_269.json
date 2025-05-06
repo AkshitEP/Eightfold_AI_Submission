@@ -1,0 +1,88 @@
+{
+    "target_id": "269",
+    "recommendations": [
+        {
+            "recommender_id": "858",
+            "recommendation": {
+                "resume_file": "269.json",
+                "recommendation_file": "Recommendation_From_ID_858.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Leadership",
+                        "Inventory Management",
+                        "Microsoft Excel",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales management, customer service, and inventory control abilities. The recommendation also highlights the candidate's attention to detail, ability to handle complex tasks, and commitment to fostering a collaborative work environment."
+                }
+            }
+        },
+        {
+            "recommender_id": "75",
+            "recommendation": {
+                "resume_file": "269.json",
+                "recommendation_file": "Recommendation_From_ID_75.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, but the resume only belongs to one person. The skills and experiences mentioned in the recommendation do not fully align with the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Leadership",
+                        "Inventory Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some relevant skills and experiences, but it appears to be describing two different individuals. The recommendation also lacks specific examples and details to support the claims made."
+                }
+            }
+        },
+        {
+            "recommender_id": "407",
+            "recommendation": {
+                "resume_file": "269.json",
+                "recommendation_file": "Recommendation_From_ID_407.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's title and the candidate's role not matching, but overall the language is formal and the claims are supported by the resume.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Leadership",
+                        "Inventory Management",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and customer service abilities, as well as their leadership and inventory management skills. However, the recommender's title and the candidate's role do not match, which raises some minor concerns about the accuracy of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "283",
+            "recommendation": {
+                "resume_file": "269.json",
+                "recommendation_file": "Recommendation_From_ID_283.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples and details from the resume. The language is formal, but the recommendation appears to be for two individuals, not one.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Leadership",
+                        "Inventory Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in customer service, sales, leadership, and inventory management, but it appears to be for two individuals, not one. The recommendation lacks specific examples and details from the resume, which reduces its relevance score."
+                }
+            }
+        }
+    ]
+}

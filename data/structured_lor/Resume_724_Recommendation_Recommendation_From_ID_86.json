@@ -1,0 +1,22 @@
+{
+    "resume_file": "724.json",
+    "recommendation_file": "Recommendation_From_ID_86.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of the candidate's role as an Administrative Assistant, which is not mentioned in the resume. However, the recommendation still seems largely credible.",
+        "verified_skills": [
+            "Leadership",
+            "Employee Management",
+            "Policy Development",
+            "Customer Service",
+            "Medical Records Management",
+            "Coding (CPT, HCPCS, ICD-9)",
+            "HIPAA Compliance",
+            "Accounts Receivable Management",
+            "Billing and Insurance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership capabilities and expertise in healthcare operations. However, some minor inconsistencies and lack of concrete examples in certain areas prevent a perfect score."
+    }
+}

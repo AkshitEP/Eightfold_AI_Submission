@@ -1,0 +1,17 @@
+{
+    "resume_file": "291.json",
+    "recommendation_file": "Recommendation_From_ID_108.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Health and Wellness",
+            "Entrepreneurship"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and passion for health and wellness. The recommendation also highlights the candidate's initiative in co-founding a fitness app, demonstrating a forward-thinking mindset."
+    }
+}

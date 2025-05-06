@@ -1,0 +1,17 @@
+{
+    "resume_file": "440.json",
+    "recommendation_file": "Recommendation_From_ID_614.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Leadership",
+            "Financial Reporting",
+            "Audit"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in finance, providing specific examples of their analytical skills and ability to manage complex financial data."
+    }
+}

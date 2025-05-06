@@ -1,0 +1,20 @@
+{
+    "resume_file": "620.json",
+    "recommendation_file": "Recommendation_From_ID_400.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Database Design",
+            "Marketing Analysis",
+            "Data Integration",
+            "CRM",
+            "Marketing Campaign",
+            "Project Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical background, business process understanding, and collaboration skills."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "973.json",
+    "recommendation_file": "Recommendation_From_ID_704.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The source of the recommendation is unclear, and the language is formal but slightly effusive.",
+        "verified_skills": [
+            "Administrative Support",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in administrative support, communication, and time management, which align with their job history and skills. However, the language is slightly effusive, and the source of the recommendation is unclear."
+    }
+}

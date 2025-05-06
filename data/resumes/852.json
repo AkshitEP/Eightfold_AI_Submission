@@ -1,0 +1,79 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Manager",
+                "work_description": "Perform professional administrative work involving the development, administration, and coordination of a comprehensive series of training and development opportunities for University staff and faculty.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2007",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "HR Representative III",
+                "work_description": "Trained over 250 time keepers on time keeping techniques and best practices, conducting workshops and one-on-one coaching sessions that contributed to a successful implementation of PeopleSoft.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2001",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Restaurant Manager & Trainer",
+                "work_description": "Responsible for the overall business performance of managing the restaurant and training all new employees.",
+                "company_level": "Mid-level",
+                "start_date": "01/1993",
+                "end_date": "01/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "TEXAS WOMAN'S UNIVERSITY",
+                "start_date": "01/1995",
+                "end_date": "12/1999",
+                "domain": "Sociology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "5k Runs/Walks"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Training and Development",
+                "level": 5,
+                "explanation": "Has extensive experience in developing, administering, and coordinating training programs for staff and faculty, indicating expert-level mastery."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Trained over 250 time keepers on time keeping techniques and best practices, suggesting strong proficiency in time management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Held multiple leadership roles, including HR Manager and Restaurant Manager, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Coaching",
+                "level": 4,
+                "explanation": "Conducted one-on-one coaching sessions for time keepers, suggesting strong proficiency in coaching."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Contributed to the successful implementation of PeopleSoft, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively communicated training and development opportunities to staff and faculty, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "PeopleSoft",
+                "level": 2,
+                "explanation": "Involved in the implementation of PeopleSoft, but the extent of proficiency is unclear."
+            }
+        ]
+    }
+}

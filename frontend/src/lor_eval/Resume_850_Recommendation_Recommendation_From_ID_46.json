@@ -1,0 +1,17 @@
+{
+    "resume_file": "850.json",
+    "recommendation_file": "Recommendation_From_ID_46.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of QuickBooks, which is not mentioned in the resume.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Analysis",
+            "Financial Planning",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies that may indicate a moderate level of exaggeration."
+    }
+}

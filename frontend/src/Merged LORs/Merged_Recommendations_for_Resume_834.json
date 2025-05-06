@@ -1,0 +1,89 @@
+{
+    "target_id": "834",
+    "recommendations": [
+        {
+            "recommender_id": "637",
+            "recommendation": {
+                "resume_file": "834.json",
+                "recommendation_file": "Recommendation_From_ID_637.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Exercise Science",
+                        "Project Management",
+                        "Marketing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in the fitness and wellness sectors, providing specific examples of their abilities and strengths. However, the recommendation does not directly reference the candidate's experience in customer service, process improvement, or audit and compliance."
+                }
+            }
+        },
+        {
+            "recommender_id": "355",
+            "recommendation": {
+                "resume_file": "834.json",
+                "recommendation_file": "Recommendation_From_ID_355.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of the intern's mentor's extensive career, which is not directly related to the intern's skills and experience. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Exercise Science",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the intern's passion for fitness and wellness, as well as their skills and experience in the field. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "408",
+            "recommendation": {
+                "resume_file": "834.json",
+                "recommendation_file": "Recommendation_From_ID_408.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and recommendation is well-supported by the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Exercise Science",
+                        "Customer Service",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in the fitness and wellness field, providing specific examples of their abilities and qualities. However, it does not cover all key skills and experiences from the resume, hence the relevance score is 8."
+                }
+            }
+        },
+        {
+            "recommender_id": "736",
+            "recommendation": {
+                "resume_file": "834.json",
+                "recommendation_file": "Recommendation_From_ID_736.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and recommendation is well-supported by the candidate's experience and skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Exercise Science",
+                        "Time Management",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in the fitness industry, highlighting their strengths in leadership, exercise science, and client engagement. However, it does not directly reference the candidate's experience in customer service, process improvement, or audit and compliance."
+                }
+            }
+        }
+    ]
+}

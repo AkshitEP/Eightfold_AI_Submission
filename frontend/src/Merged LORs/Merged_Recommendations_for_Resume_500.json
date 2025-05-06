@@ -1,0 +1,47 @@
+{
+    "target_id": "500",
+    "recommendations": [
+        {
+            "recommender_id": "203",
+            "recommendation": {
+                "resume_file": "500.json",
+                "recommendation_file": "Recommendation_From_ID_203.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of strong analytical skills and military background.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Logistics Management",
+                        "Supply Chain Management",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's resume, but there are some minor inconsistencies that raise the fraud chance level to 2."
+                }
+            }
+        },
+        {
+            "recommender_id": "753",
+            "recommendation": {
+                "resume_file": "500.json",
+                "recommendation_file": "Recommendation_From_ID_753.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Logistics Management",
+                        "Financial Management",
+                        "Inventory Management",
+                        "Supply Chain Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management capabilities. The recommender's position as a Senior Vice President and Regional Sales Director in Wealth Management adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

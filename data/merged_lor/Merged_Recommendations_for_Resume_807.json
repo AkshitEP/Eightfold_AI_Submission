@@ -1,0 +1,50 @@
+{
+    "target_id": "807",
+    "recommendations": [
+        {
+            "recommender_id": "128",
+            "recommendation": {
+                "resume_file": "807.json",
+                "recommendation_file": "Recommendation_From_ID_128.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Management",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Communication",
+                        "Team Collaboration",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, analytical capabilities, and communication skills. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "372",
+            "recommendation": {
+                "resume_file": "807.json",
+                "recommendation_file": "Recommendation_From_ID_372.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written in a way that is overly promotional and lacks specific examples from the candidate's resume. However, the language is formal and there are no obvious red flags.",
+                    "verified_skills": [
+                        "Management",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Project Management",
+                        "Communication",
+                        "Team Collaboration",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's management and leadership skills, as well as their ability to drive results in high-stakes projects. However, it does not provide specific examples from the candidate's resume and seems to be written in a way that is overly promotional."
+                }
+            }
+        }
+    ]
+}

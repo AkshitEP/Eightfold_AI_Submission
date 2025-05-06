@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Submitted loan applications to banks to obtain financing for customers along with completing all the necessary bank and state documents necessary for the purchase of automobiles. Created good customer relationships designed to grow future business. Monitored customer preferences to determine focus of sales efforts. Trained in negotiations and time management.",
+                "company_level": "Mid-level",
+                "start_date": "12/2013",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Secured bank loans for the purchase of new and used automobiles. Completed all necessary documents required by the lending institutions along with all state required paperwork for the purchase of automobiles. Sold aftermarket warranty and maintenance products that added to the bottom line of my department. Initiated programs that standardized employee training and led to an increase in customer satisfaction.",
+                "company_level": "Mid-level",
+                "start_date": "11/2012",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Secured loans for the purchase of new and used automobiles, along with completing all necessary state and bank documents necessary for the purchase of automobiles. Sold aftermarket warranty and maintenance products to dealership customers, which generated additional income to my department's bottom line. Educated customers on the variety of loan products and available credit options.",
+                "company_level": "Mid-level",
+                "start_date": "03/2010",
+                "end_date": "11/2012"
+            },
+            {
+                "role_name": "Sales Manager",
+                "work_description": "Managed team of 10 professionals. Directed strategic initiatives to achieve dealership sales objectives. Increased profits by developing, initiating, and implementing training designed to grow and develop a knowledgeable and competent sales team. Initiated programs that standardized employee training and led to an increase in customer satisfaction and increased sales performance.",
+                "company_level": "Mid-level",
+                "start_date": "03/2009",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Business Manager",
+                "work_description": "Submitted loan applications to lending institutions to secure financing for the purchase of new and used automobiles. Sold aftermarket warranties and maintenance products to dealership customers. Generated additional profit from securing financing for customers and from the sale of aftermarket products to dealership customers. Created and directed sales team training and development programs.",
+                "company_level": "Mid-level",
+                "start_date": "03/2003",
+                "end_date": "03/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Southern University",
+                "start_date": "01/1977",
+                "end_date": "12/1981",
+                "domain": "Music",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Over a decade of experience as a Finance Manager, securing loans, completing financial documents, and managing financial products, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales Management",
+                "level": 5,
+                "explanation": "Multiple years of experience as a Sales Manager, leading teams, developing training programs, and increasing sales performance, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Proven track record of leading teams, developing training programs, and increasing customer satisfaction, indicating expert-level mastery."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Trained in time management and demonstrated ability to manage multiple responsibilities, including securing loans and completing financial documents, suggesting strong proficiency."
+            },
+            {
+                "name": "Negotiation",
+                "level": 4,
+                "explanation": "Trained in negotiations and demonstrated ability to secure loans and sell financial products, suggesting strong proficiency."
+            },
+            {
+                "name": "Customer Relationship Management",
+                "level": 4,
+                "explanation": "Consistently created good customer relationships and demonstrated ability to grow future business, suggesting strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Developed and implemented training programs that standardized employee training and led to an increase in customer satisfaction, suggesting strong proficiency."
+            },
+            {
+                "name": "Accounting",
+                "level": 0,
+                "explanation": "No direct experience in accounting, despite working in finance roles."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 0,
+                "explanation": "No direct experience in data analysis, despite working in finance roles."
+            }
+        ]
+    }
+}

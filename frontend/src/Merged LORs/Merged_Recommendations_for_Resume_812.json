@@ -1,0 +1,64 @@
+{
+    "target_id": "812",
+    "recommendations": [
+        {
+            "recommender_id": "486",
+            "recommendation": {
+                "resume_file": "812.json",
+                "recommendation_file": "Recommendation_From_ID_486.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation is for a different person, and the language used is overly formal and exaggerated.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be for a different person, and the language used is overly formal and exaggerated. The recommendation does not align with the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "616",
+            "recommendation": {
+                "resume_file": "812.json",
+                "recommendation_file": "Recommendation_From_ID_616.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Onboarding",
+                        "Reception Management",
+                        "File Management",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative skills, attention to detail, and interpersonal skills. The recommender's role as a Passenger Services Officer suggests a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "816",
+            "recommendation": {
+                "resume_file": "812.json",
+                "recommendation_file": "Recommendation_From_ID_816.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job roles and industries, but overall the recommendation seems genuine and well-supported by the resume.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Onboarding",
+                        "Reception Management",
+                        "File Management",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills in HR and office management, which aligns well with their experience as an HR Generalist and Office Administrative Assistant. However, the recommender's role as a Quality Assurance Manager in the aerospace sector seems unrelated to the candidate's experience, which raises some minor concerns about the relevance of the recommendation."
+                }
+            }
+        }
+    ]
+}

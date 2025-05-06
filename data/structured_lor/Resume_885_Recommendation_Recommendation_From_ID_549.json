@@ -1,0 +1,16 @@
+{
+    "resume_file": "885.json",
+    "recommendation_file": "Recommendation_From_ID_549.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's expertise lies in agricultural science, which may not be directly relevant to the candidate's field of network administration. However, the recommendation provides specific examples of the candidate's skills and work experience.",
+        "verified_skills": [
+            "Network Administration",
+            "Network Security",
+            "Troubleshooting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills, attention to detail, and customer service abilities. However, the recommender's lack of direct experience in the field of network administration may raise some concerns about the recommendation's credibility."
+    }
+}

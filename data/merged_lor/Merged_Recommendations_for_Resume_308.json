@@ -1,0 +1,67 @@
+{
+    "target_id": "308",
+    "recommendations": [
+        {
+            "recommender_id": "803",
+            "recommendation": {
+                "resume_file": "308.json",
+                "recommendation_file": "Recommendation_From_ID_803.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation mentions unrelated experiences and skills, and uses overly positive language, which may be an exaggeration.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Quality Assurance",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but seems suspicious due to the mention of unrelated experiences and skills, and the use of overly positive language."
+                }
+            }
+        },
+        {
+            "recommender_id": "916",
+            "recommendation": {
+                "resume_file": "308.json",
+                "recommendation_file": "Recommendation_From_ID_916.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly flattering language may indicate some exaggeration.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Quality Assurance",
+                        "Project Management",
+                        "Communication",
+                        "Problem-solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but some minor inconsistencies and overly flattering language may indicate some exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "876",
+            "recommendation": {
+                "resume_file": "308.json",
+                "recommendation_file": "Recommendation_From_ID_876.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in hospitality sector seems unrelated to the candidate's IT experience. However, the recommendation highlights specific skills and qualities that align with the candidate's resume.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Team Leadership",
+                        "Communication",
+                        "Process Improvement",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, communication skills, and process improvement abilities. However, the recommender's background and relationship to the candidate are unclear."
+                }
+            }
+        }
+    ]
+}

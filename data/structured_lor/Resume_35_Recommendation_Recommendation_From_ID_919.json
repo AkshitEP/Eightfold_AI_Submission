@@ -1,0 +1,17 @@
+{
+    "resume_file": "35.json",
+    "recommendation_file": "Recommendation_From_ID_919.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a former Supply Chain Manager is unclear in relation to the candidate's work experience. The language is formal, but some claims seem exaggerated.",
+        "verified_skills": [
+            "Security Clearance Management",
+            "Personnel Security",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their security management expertise and leadership abilities. However, the recommender's role and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+    }
+}

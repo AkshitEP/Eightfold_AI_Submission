@@ -1,0 +1,79 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Supply Specialist",
+                "work_description": "Supervised, led, or performed highly technical functions in the areas of aviation unique applications of managing, regulating, coordinating, or otherwise exercising control over supplies, equipment, or other material.",
+                "company_level": "Military",
+                "start_date": "05/2002",
+                "end_date": "07/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Marine Corps Institute",
+                "start_date": "01/2006",
+                "end_date": "12/2013",
+                "domain": "Military Leadership and Studies",
+                "level": "Certificate of Completion"
+            },
+            {
+                "university": "Marine Corps Institute",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Military Leadership",
+                "level": "Certificate of Completion"
+            },
+            {
+                "university": "Marine Corps Institute",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "NAVAL AVIATION SURVIVAL TRAINING",
+                "level": "Certificate of Completion"
+            },
+            {
+                "university": "Monroe Senior High",
+                "start_date": "01/1995",
+                "end_date": "12/2001",
+                "domain": "K1-12",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised, led, or performed highly technical functions in the areas of aviation unique applications, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Supply Chain Management",
+                "level": 4,
+                "explanation": "Managed, regulated, coordinated, or otherwise exercised control over supplies, equipment, or other material, indicating strong proficiency in supply chain management."
+            },
+            {
+                "name": "Aviation Management",
+                "level": 4,
+                "explanation": "Handled highly technical functions in the areas of aviation unique applications, suggesting strong proficiency in aviation management."
+            },
+            {
+                "name": "Military Operations",
+                "level": 4,
+                "explanation": "Participated in military operations for over a decade, showing strong proficiency in military operations."
+            },
+            {
+                "name": "Survival Training",
+                "level": 3,
+                "explanation": "Completed NAVAL AVIATION SURVIVAL TRAINING, indicating a solid working proficiency in survival training."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Supervised or led teams in military settings, showing a solid working proficiency in team management."
+            }
+        ]
+    }
+}

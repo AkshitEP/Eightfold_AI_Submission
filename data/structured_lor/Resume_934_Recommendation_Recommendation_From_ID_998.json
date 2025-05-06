@@ -1,0 +1,18 @@
+{
+    "resume_file": "934.json",
+    "recommendation_file": "Recommendation_From_ID_998.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and experience do not directly align with the candidate's skills and experience. However, the recommender provides specific examples of the candidate's skills and qualities.",
+        "verified_skills": [
+            "Project Management",
+            "Communication",
+            "Event Planning",
+            "Customer Service",
+            "Technology"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's organizational and project management skills, as well as their ability to foster relationships with clients and manage communication. However, the recommender's background and experience are not directly related to the candidate's skills and experience, which may raise some concerns about the relevance of the recommendation."
+    }
+}

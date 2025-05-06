@@ -1,0 +1,51 @@
+{
+    "target_id": "3",
+    "recommendations": [
+        {
+            "recommender_id": "194",
+            "recommendation": {
+                "resume_id": 3,
+                "recommendation_file": "Recommendation_From_ID_194.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reconciliation",
+                        "Auditing",
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, analytical capabilities, and attention to detail."
+                }
+            }
+        },
+        {
+            "recommender_id": "122",
+            "recommendation": {
+                "resume_id": 3,
+                "recommendation_file": "Recommendation_From_ID_122.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but it appears to be written for two individuals instead of one. This inconsistency raises some concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reconciliation",
+                        "Procurement",
+                        "Auditing",
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and procurement expertise. However, the recommendation appears to be written for two individuals, which raises some concerns about its authenticity."
+                }
+            }
+        }
+    ]
+}

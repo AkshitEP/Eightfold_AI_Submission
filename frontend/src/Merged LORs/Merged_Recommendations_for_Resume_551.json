@@ -1,0 +1,50 @@
+{
+    "target_id": "551",
+    "recommendations": [
+        {
+            "recommender_id": "209",
+            "recommendation": {
+                "resume_file": "551.json",
+                "recommendation_file": "Recommendation_From_ID_209.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in finance and hospitality may not be directly relevant to the candidate's healthcare experience. However, the recommender's emphasis on leadership, collaboration, and analytical skills aligns well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Collaboration",
+                        "Data Analysis",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, analytical, and communication skills, which are well-supported by their experience in various healthcare roles. However, the recommender's background and expertise may not be directly relevant to the candidate's field."
+                }
+            }
+        },
+        {
+            "recommender_id": "475",
+            "recommendation": {
+                "resume_file": "551.json",
+                "recommendation_file": "Recommendation_From_ID_475.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Data Analysis",
+                        "Communication",
+                        "Research",
+                        "Collaboration",
+                        "Training and Development",
+                        "Quality Assurance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, analytical skills, and ability to collaborate with various stakeholders. However, the recommendation is from a Finance Manager, which may not be directly related to the candidate's field of expertise."
+                }
+            }
+        }
+    ]
+}

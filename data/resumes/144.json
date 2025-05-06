@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Creative Director",
+                "work_description": "Mentored our restructured Sales and Marketing Department which over saw web site design, web advertising, conference banners and ad creation for promotional marketing and catalog layouts. Responsible for: new logo creation and branding of new products, motivating and problem solving.",
+                "company_level": "Mid-level",
+                "start_date": "01/2002",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Professional Studio Artist/Graphic Artist",
+                "work_description": "Create art work for gallery display and sale as well as provide work to various charities, events and silent auctions (public as well as private). Teach classes on painting and life drawing.",
+                "company_level": "Startup",
+                "start_date": "04/1999",
+                "end_date": "02/2016"
+            },
+            {
+                "role_name": "Art Director/Graphic Designer",
+                "work_description": "Work directly with clients to provide images used for instructional booklets and large volume catalogs, as well as producing warning labels for various products with tight deadlines and strict accuracy.",
+                "company_level": "Startup",
+                "start_date": "08/2000",
+                "end_date": "10/2002"
+            },
+            {
+                "role_name": "Medical Billing for Radiology Department",
+                "work_description": "Working with medical records as well as insurance company information to locate patient information for updating medical records as well as updating contact information for patients.",
+                "company_level": "Large Corporation",
+                "start_date": "12/1994",
+                "end_date": "07/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "Drake University",
+                "start_date": "01/1995",
+                "end_date": "06/2000",
+                "domain": "Art, Painting, Graphic Design",
+                "level": "Bachelor of Arts"
+            },
+            {
+                "university": "College of DuPage",
+                "start_date": "01/1995",
+                "end_date": "12/1998",
+                "domain": "Painting and Graphic Design",
+                "level": "Associate of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Graphic Design",
+                "level": 5,
+                "explanation": "Over 15 years of experience in graphic design, including logo creation, branding, and artwork for various mediums, indicating expert-level mastery."
+            },
+            {
+                "name": "Art Direction",
+                "level": 5,
+                "explanation": "Proven experience as an Art Director, working directly with clients, and managing the visual aspects of projects, demonstrating expert-level proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Mentored and motivated the Sales and Marketing Department, and taught classes on painting and life drawing, showing strong leadership skills."
+            },
+            {
+                "name": "Problem Solving",
+                "level": 4,
+                "explanation": "Demonstrated problem-solving skills in various roles, including as a Creative Director and Art Director, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Managed multiple projects with tight deadlines and strict accuracy, showing strong time management skills."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Worked directly with clients, and taught classes, demonstrating strong communication skills."
+            },
+            {
+                "name": "Medical Billing",
+                "level": 3,
+                "explanation": "Experience in medical billing, including working with medical records and insurance company information, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Updated medical records and contact information for patients, demonstrating a solid working proficiency in data entry."
+            }
+        ]
+    }
+}

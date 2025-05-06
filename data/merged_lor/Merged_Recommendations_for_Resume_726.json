@@ -1,0 +1,68 @@
+{
+    "target_id": "726",
+    "recommendations": [
+        {
+            "recommender_id": "723",
+            "recommendation": {
+                "resume_file": "726.json",
+                "recommendation_file": "Recommendation_From_ID_723.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Payroll Management",
+                        "Procedure Development",
+                        "Employee Benefits",
+                        "Financial Reconciliation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, payroll, and employee benefits expertise. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "228",
+            "recommendation": {
+                "resume_file": "726.json",
+                "recommendation_file": "Recommendation_From_ID_228.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Financial Reconciliation",
+                        "Procedure Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but may contain some minor exaggerations. The recommender's relationship to the candidate is unknown."
+                }
+            }
+        },
+        {
+            "recommender_id": "862",
+            "recommendation": {
+                "resume_file": "726.json",
+                "recommendation_file": "Recommendation_From_ID_862.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no obvious signs of exaggeration or improper language.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies were detected."
+                }
+            }
+        }
+    ]
+}

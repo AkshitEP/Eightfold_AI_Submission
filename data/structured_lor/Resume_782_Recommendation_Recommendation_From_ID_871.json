@@ -1,0 +1,22 @@
+{
+    "resume_file": "782.json",
+    "recommendation_file": "Recommendation_From_ID_871.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Analysis",
+            "Financial Statements",
+            "Audit",
+            "Project Management",
+            "Analytical Abilities",
+            "Accounting Software",
+            "Teamwork",
+            "Operational Efficiency"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in accounting and finance. The language used is formal, and there are no red flags or statistically improbable claims detected."
+    }
+}

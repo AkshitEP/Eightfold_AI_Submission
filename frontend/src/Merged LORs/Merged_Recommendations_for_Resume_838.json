@@ -1,0 +1,129 @@
+{
+    "target_id": "838",
+    "recommendations": [
+        {
+            "recommender_id": "839",
+            "recommendation": {
+                "resume_file": "838.json",
+                "recommendation_file": "Recommendation_From_ID_839.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's role and overly positive tone, but no obvious red flags or statistically improbable claims.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Leadership",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's financial management skills and leadership abilities, but does not specifically mention some key skills mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "188",
+            "recommendation": {
+                "resume_file": "838.json",
+                "recommendation_file": "Recommendation_From_ID_188.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "General Accounting",
+                        "Budgeting",
+                        "Leadership",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "626",
+            "recommendation": {
+                "resume_file": "838.json",
+                "recommendation_file": "Recommendation_From_ID_626.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "General Accounting",
+                        "Budgeting",
+                        "Leadership",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "692",
+            "recommendation": {
+                "resume_file": "838.json",
+                "recommendation_file": "Recommendation_From_ID_692.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and analytical abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "689",
+            "recommendation": {
+                "resume_file": "838.json",
+                "recommendation_file": "Recommendation_From_ID_689.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "440",
+            "recommendation": {
+                "resume_file": "838.json",
+                "recommendation_file": "Recommendation_From_ID_440.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "General Accounting",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities."
+                }
+            }
+        }
+    ]
+}

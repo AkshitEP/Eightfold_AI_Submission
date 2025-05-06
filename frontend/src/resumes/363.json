@@ -1,0 +1,93 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Group Fitness Instructor",
+                "work_description": "An 8 week course getting trained in fitness classes to instruct group exercises for the on campus gym.",
+                "company_level": "Mid-level",
+                "start_date": "03/2014",
+                "end_date": "04/2014"
+            },
+            {
+                "role_name": "Assistant",
+                "work_description": "Provided children from the grades K-5 a safe and friendly place to be after school hours. Introduced fun and exciting new ways to learn outside of the classroom with student centers and interactive activities. Mentored inner city children in New York City providing them with love and attention.",
+                "company_level": "Startup",
+                "start_date": "11/2011",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "Assistant",
+                "work_description": "Provided children from the grades K-5 a safe and friendly place to be after school hours.",
+                "company_level": "Startup",
+                "start_date": "06/2011",
+                "end_date": "06/2011"
+            },
+            {
+                "role_name": "Member",
+                "work_description": "Served with my sisters in a Christian Sorority serving Texas Tech and our community in Lubbock, TX.",
+                "company_level": "Non-profit",
+                "start_date": "",
+                "end_date": ""
+            }
+        ],
+        "education": [
+            {
+                "university": "Centennial High School",
+                "start_date": "01/2008",
+                "end_date": "06/2012",
+                "domain": "General Studies",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Collin College",
+                "start_date": "08/2012",
+                "end_date": "05/2013",
+                "domain": "General Studies",
+                "level": "Certificate"
+            },
+            {
+                "university": "Texas Tech",
+                "start_date": "",
+                "end_date": "",
+                "domain": "",
+                "level": ""
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Served as an assistant in after-school programs and a Christian Sorority, showing some practical experience in leadership roles."
+            },
+            {
+                "name": "Child Development",
+                "level": 3,
+                "explanation": "Provided a safe and friendly environment for children in after-school programs, demonstrating a solid working proficiency in child development."
+            },
+            {
+                "name": "Event Planning",
+                "level": 2,
+                "explanation": "Introduced fun and exciting new ways to learn outside of the classroom, suggesting some practical experience in event planning."
+            },
+            {
+                "name": "Communication",
+                "level": 2,
+                "explanation": "Mentored inner city children and worked with students in group settings, showing some practical experience in communication."
+            },
+            {
+                "name": "Fitness Instruction",
+                "level": 1,
+                "explanation": "Completed an 8-week course to become a group fitness instructor, indicating basic familiarity with fitness instruction."
+            },
+            {
+                "name": "Community Service",
+                "level": 2,
+                "explanation": "Served with a Christian Sorority and provided services to the community, showing some practical experience in community service."
+            }
+        ]
+    }
+}

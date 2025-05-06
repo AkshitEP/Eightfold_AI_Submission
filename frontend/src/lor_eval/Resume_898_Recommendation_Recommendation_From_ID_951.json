@@ -1,0 +1,21 @@
+{
+    "resume_id": 898,
+    "recommendation_file": "Recommendation_From_ID_951.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Database Administration",
+            "Oracle Database Administration",
+            "Database Security",
+            "SQL and PL/SQL",
+            "Database Performance Tuning",
+            "Disaster Recovery",
+            "Leadership and Management",
+            "Communication and Training"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in database administration and information security. The language is formal, and the tone is professional."
+    }
+}

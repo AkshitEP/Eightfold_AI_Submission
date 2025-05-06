@@ -1,0 +1,47 @@
+{
+    "target_id": "505",
+    "recommendations": [
+        {
+            "recommender_id": "707",
+            "recommendation": {
+                "resume_file": "505.json",
+                "recommendation_file": "Recommendation_From_ID_707.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Financial Reporting",
+                        "Payroll Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and attention to detail. The recommender's experience in accounting and finance adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "256",
+            "recommendation": {
+                "resume_file": "505.json",
+                "recommendation_file": "Recommendation_From_ID_256.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Financial Reporting",
+                        "Payroll Administration",
+                        "Customer Service",
+                        "Cash Handling"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, attention to detail, and commitment to compliance."
+                }
+            }
+        }
+    ]
+}

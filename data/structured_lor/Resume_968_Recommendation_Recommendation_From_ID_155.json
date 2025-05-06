@@ -1,0 +1,17 @@
+{
+    "resume_id": 968,
+    "recommendation_file": "Recommendation_From_ID_155.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly flattering language may indicate some exaggeration.",
+        "verified_skills": [
+            "Marketing Automation",
+            "Marketing Technology",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but the recommender's language is overly flattering, and their connection to the candidate is unclear."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "673.json",
+    "recommendation_file": "Recommendation_From_ID_692.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Management",
+            "Leadership",
+            "Budgeting",
+            "Marketing",
+            "Account Management",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in the finance sector. The recommendation highlights the candidate's exceptional leadership, analytical skills, and budget management abilities, making them a strong candidate for any position requiring financial acumen."
+    }
+}

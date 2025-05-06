@@ -1,0 +1,19 @@
+{
+    "resume_file": "658.json",
+    "recommendation_file": "Recommendation_From_ID_518.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Communication",
+            "Time Management",
+            "Data Analysis",
+            "Health Administration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and ability to work with multidisciplinary teams."
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Superintendent II",
+                "work_description": "Initiator in Safety, and ensures team compliance with all Company and OSHA regulated safety requirements and standards. Utilize and ensures compliance with the Project Planning Policy per direction of Assigned Program Manager. Communicate contract requirements, specifications and customer expectations to all departments to ensure incorporation into the Project plan.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2010",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Aviation Ordnanceman First Class",
+                "work_description": "Managed and trained 55 personnel in all aspects of ordnance operation, receipt, issue, stowage, loading, downloading, transship and inventory control of all material handing operation in a safe, efficient and cost effective environment.",
+                "company_level": "Government",
+                "start_date": "03/2003",
+                "end_date": "04/2006"
+            },
+            {
+                "role_name": "Aviation Ordnanceman First Class",
+                "work_description": "Directly supervised over 8 personnel in the breakout, strike up, and stowage of conventional forward firing and precision guided weapons resulting in 100 percent mission success.",
+                "company_level": "Government",
+                "start_date": "04/1999",
+                "end_date": "05/2004"
+            },
+            {
+                "role_name": "Aviation Ordnanceman",
+                "work_description": "Transship and inventory control of all material handing operation in a safe, efficient and cost effective environment.",
+                "company_level": "Government",
+                "start_date": "03/1996",
+                "end_date": "04/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "Georgetown High School",
+                "start_date": "01/1990",
+                "end_date": "12/1990",
+                "domain": "Air Conditioning and Refrigerant",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has extensive experience in supervising and managing teams, including training and directing personnel, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Utilized project planning policy and ensured compliance with contract requirements, specifications, and customer expectations, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Safety Management",
+                "level": 4,
+                "explanation": "Ensured team compliance with safety requirements and standards, and initiated safety protocols, suggesting strong proficiency in safety management."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Handled transshipment and inventory control of material handling operations, showing a solid working proficiency in inventory management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Communicated contract requirements and customer expectations to all departments, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Managed and trained large teams, including 55 personnel, showing strong proficiency in team management."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple tasks and responsibilities, including ensuring compliance with safety requirements and project planning policy, showing a solid working proficiency in time management."
+            }
+        ]
+    }
+}

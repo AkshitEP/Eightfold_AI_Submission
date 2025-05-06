@@ -1,0 +1,16 @@
+{
+    "resume_file": "402.json",
+    "recommendation_file": "Recommendation_From_ID_85.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Aircraft Maintenance",
+            "Troubleshooting",
+            "Mechanical Repair"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in aircraft maintenance and troubleshooting. The source of the recommendation is a peer, likely a colleague or coworker in the aviation industry."
+    }
+}

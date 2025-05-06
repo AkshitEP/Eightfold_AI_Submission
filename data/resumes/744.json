@@ -1,0 +1,100 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director, Information Technology",
+                "work_description": "Manages information technology computer center for the Board of Commissioners of the Port of New Orleans (Board). Develops, initiates, implements and monitors procedures necessary to determine the need for improvement of the system and operational activities. Makes recommendations on the acquisition, lease or rental of equipment and computer services, the development and implementation of new data processing programs and the expansion of existing equipment and programs.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2008",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Associate Vice-President for Information Technology and Telecommunication",
+                "work_description": "Oversight responsibility for staff of 22 people, including 19 professionals. Created and managed the Office of Information Technology. Developed and implemented the Strategic Plan for the Office of Information Technology.",
+                "company_level": "Mid-level",
+                "start_date": "04/1980",
+                "end_date": "10/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "State University of New York",
+                "start_date": "01/1990",
+                "end_date": "12/1996",
+                "domain": "Coastal Oceanography",
+                "level": "Ph.D"
+            },
+            {
+                "university": "Marine Sciences Research Center, School of Marine and Atmospheric Sciences",
+                "start_date": "01/1985",
+                "end_date": "12/1987",
+                "domain": "Computer Science",
+                "level": "M.S"
+            },
+            {
+                "university": "University of Evansville",
+                "start_date": "01/1975",
+                "end_date": "12/1979",
+                "domain": "Mathematics",
+                "level": "B.S"
+            },
+            {
+                "university": "Xavier University",
+                "start_date": "01/1970",
+                "end_date": "12/1974",
+                "domain": "Mathematics",
+                "level": "B.S"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Community service",
+            "Teaching senior citizens how to use the computer",
+            "Advocating for science and math education"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including managing large teams and overseeing the development and implementation of strategic plans, indicating expert-level mastery."
+            },
+            {
+                "name": "Information Technology Management",
+                "level": 5,
+                "explanation": "Has over two decades of experience in managing information technology, including developing and implementing procedures, making recommendations on equipment and services, and overseeing the expansion of existing equipment and programs, indicating expert-level mastery."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Has experience in developing and implementing strategic plans, including the Strategic Plan for the Office of Information Technology, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience in managing large projects, including the development and implementation of new data processing programs and the expansion of existing equipment and programs, indicating strong proficiency."
+            },
+            {
+                "name": "Computer Science",
+                "level": 4,
+                "explanation": "Has a Master's degree in Computer Science and has applied this knowledge in various roles, including managing information technology and developing new data processing programs, indicating strong proficiency."
+            },
+            {
+                "name": "Mathematics",
+                "level": 4,
+                "explanation": "Has two Bachelor's degrees in Mathematics and has applied this knowledge in various roles, including managing information technology and developing new data processing programs, indicating strong proficiency."
+            },
+            {
+                "name": "Teaching",
+                "level": 3,
+                "explanation": "Has an interest in teaching senior citizens how to use the computer, indicating a solid working proficiency in teaching and communication skills."
+            },
+            {
+                "name": "Community Service",
+                "level": 3,
+                "explanation": "Has an interest in community service, indicating a solid working proficiency in working with others and contributing to the community."
+            }
+        ]
+    }
+}

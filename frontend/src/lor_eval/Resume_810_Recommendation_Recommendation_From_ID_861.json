@@ -1,0 +1,17 @@
+{
+    "resume_file": "810.json",
+    "recommendation_file": "Recommendation_From_ID_861.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume but lacks substantial detail or alignment with the key areas of expertise. Some minor inconsistencies or exaggerated claims are present.",
+        "verified_skills": [
+            "General Labor",
+            "Inventory Management",
+            "Aircraft Maintenance",
+            "Livestock Handling"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights Nolan's leadership skills, teamwork, and work ethic, but does not provide specific examples of his skills and experiences mentioned in the resume. The recommendation seems to focus more on Nolan's personal qualities rather than his professional skills and experiences."
+    }
+}

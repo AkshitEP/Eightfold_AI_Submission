@@ -1,0 +1,19 @@
+{
+    "resume_file": "380.json",
+    "recommendation_file": "Recommendation_From_ID_361.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Safety Management",
+            "Training and Development",
+            "Human Resource Management",
+            "Labor Relations",
+            "Organizational Effectiveness"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, safety management, and training development. The source of the recommendation is unclear, but the language and content suggest a genuine endorsement."
+    }
+}

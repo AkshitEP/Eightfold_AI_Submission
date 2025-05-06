@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Volunteer Asst. Manager",
+                "work_description": "Assist in handling common workplace disputes. Assist in maintaining employment policies and inform staff. Assist in hiring, firing, and disciplining staff. Assist in Handling compensation and benefits. Assist in creating new benefits. Assist in setting salaries for certain positions, and organize benefits like healthcare and pensions.",
+                "company_level": "Unknown",
+                "start_date": "01/2009",
+                "end_date": "09/2014"
+            },
+            {
+                "role_name": "HR Volunteer Asst. Manager",
+                "work_description": "Assist in handling common workplace disputes. Assist in maintaining employment policies and inform staff. Assist in hiring, firing, and disciplining staff. Assist in Handling compensation and benefits. Assist in creating new benefits. Assist in setting salaries for certain positions, and organize benefits like healthcare and pensions.",
+                "company_level": "Unknown",
+                "start_date": "01/2014",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "Ashford University",
+                "start_date": "01/2010",
+                "end_date": "12/2015",
+                "domain": "Entrepreneurship",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Grand Canyon University",
+                "start_date": "01/2016",
+                "end_date": "04/2018",
+                "domain": "Business Administration",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resources",
+                "level": 4,
+                "explanation": "Has extensive experience in HR roles, handling various responsibilities such as workplace disputes, employment policies, hiring, firing, disciplining staff, compensation, benefits, and salary setting, indicating strong proficiency."
+            },
+            {
+                "name": "Conflict Resolution",
+                "level": 3,
+                "explanation": "Handled common workplace disputes, showing a solid working proficiency in conflict resolution."
+            },
+            {
+                "name": "Policy Development",
+                "level": 3,
+                "explanation": "Maintained employment policies and informed staff, indicating a solid level of proficiency in policy development."
+            },
+            {
+                "name": "Recruitment",
+                "level": 3,
+                "explanation": "Assisted in hiring, firing, and disciplining staff, showing a solid working proficiency in recruitment."
+            },
+            {
+                "name": "Compensation and Benefits",
+                "level": 4,
+                "explanation": "Handled compensation and benefits, created new benefits, and set salaries for certain positions, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Assisted in managing staff, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Entrepreneurship",
+                "level": 2,
+                "explanation": "Completed a Bachelor's degree in Entrepreneurship, but no direct work experience is mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Business Administration",
+                "level": 2,
+                "explanation": "Completed a Master's degree in Business Administration, but no direct work experience is mentioned, suggesting some practical experience."
+            }
+        ]
+    }
+}

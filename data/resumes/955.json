@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "V/P Commercial Relationship Manager",
+                "work_description": "Acquiring and retaining a portfolio of commercial banking clients with annual revenue of 2 million to 20 million. Conducting relationship review meetings, developing customized client strategies, and ensuring attainment of loan, deposit, revenue and new households.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Supervisor",
+                "work_description": "Advising military and Department of Defense civilians of their entitlement for shipment of personal property and passenger travel. Preparing the necessary documentation and coordinating transport capability to meet a movement mission.",
+                "company_level": "Government",
+                "start_date": "01/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Business Banking Officer/ Branch Manager",
+                "work_description": "Covering a district size area over all small business commercial lending and relationship needs. Meeting and exceeding all assigned sales goals through outside sales and other activities.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2008",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Consultant/General Manager",
+                "work_description": "Opening a state of the art Wellness and Fitness Center for the Chase Park Plaza and developing management strategies to coincide with the consultant group and current hotel staff.",
+                "company_level": "Mid-level",
+                "start_date": "11/2007",
+                "end_date": "03/2008"
+            },
+            {
+                "role_name": "General Manager",
+                "work_description": "Managing multiple 35000 square foot fitness centers with over 35 employees. Managing payroll, scheduling, training for each department, and setting budgets for the sales team.",
+                "company_level": "Mid-level",
+                "start_date": "12/2004",
+                "end_date": "11/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Southern Illinois University",
+                "start_date": "01/2000",
+                "end_date": "05/2005",
+                "domain": "University Studies",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Liberty University",
+                "start_date": "01/2006",
+                "end_date": "12/2008",
+                "domain": "Business/ Management and Leadership",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including managing multiple teams, developing strategies, and exceeding sales goals, indicating expert-level mastery."
+            },
+            {
+                "name": "Management",
+                "level": 5,
+                "explanation": "Has managed multiple fitness centers, supervised employees, and handled payroll, scheduling, and training, showing expert-level proficiency in management."
+            },
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Has consistently met and exceeded sales goals in various roles, including commercial banking and fitness center management, indicating strong proficiency in sales."
+            },
+            {
+                "name": "Client Relationship Management",
+                "level": 4,
+                "explanation": "Has developed and maintained relationships with commercial banking clients, and has conducted relationship review meetings, suggesting strong proficiency in client relationship management."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Has set budgets for sales teams and managed financial aspects of fitness centers, showing a solid working proficiency in budgeting."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Has managed payroll for multiple employees, indicating a solid working proficiency in payroll management."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 3,
+                "explanation": "Has developed management strategies and customized client strategies, showing a solid working proficiency in strategic planning."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has advised military and Department of Defense civilians, and has conducted relationship review meetings, indicating a solid working proficiency in communication."
+            }
+        ]
+    }
+}

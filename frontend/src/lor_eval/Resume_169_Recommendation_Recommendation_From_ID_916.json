@@ -1,0 +1,19 @@
+{
+    "resume_file": "169.json",
+    "recommendation_file": "Recommendation_From_ID_916.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's role and credibility.",
+        "verified_skills": [
+            "IT Management",
+            "Leadership",
+            "Project Management",
+            "Problem-Solving",
+            "Virtualization",
+            "Disaster Recovery"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical expertise and leadership skills, but raises some concerns about the recommender's credibility."
+    }
+}

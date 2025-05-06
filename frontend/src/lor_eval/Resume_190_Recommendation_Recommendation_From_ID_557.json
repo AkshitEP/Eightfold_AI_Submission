@@ -1,0 +1,17 @@
+{
+    "resume_file": "190.json",
+    "recommendation_file": "Recommendation_From_ID_557.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions the candidate's role as a Regional HR Deputy Manager, but the recommender's background is in finance, which may indicate a lack of direct experience with the candidate's HR work. However, the recommendation provides specific examples of the candidate's accomplishments and skills.",
+        "verified_skills": [
+            "Human Resources",
+            "Recruitment",
+            "Employee Engagement",
+            "Performance Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in HR operations, recruitment, and employee engagement, but the recommender's background in finance may raise some questions about their direct experience with the candidate's work."
+    }
+}

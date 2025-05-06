@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Mobilized high volume employees overseas on short/long term in accompanied/unaccompanied status. Directed and implemented human resource policies and procedures and provided guidance to field human resources managers. Created assignment offers compensation packages to include uplifts and base pay, per diem allocation, additional payments and benefits. Directed employee to employee relations, policy development, training, recruitment, payroll and benefits administration.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2009",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "HR Associate Mobilization Coordinator",
+                "work_description": "Handled unemployment and workers' compensation claims, maintained personnel files, and updated the company's affirmative action plan. Responded with sensitivity in a timely manner to employee problems and concerns. Presented company policies, procedures, philosophy, and benefits to new employees.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2007",
+                "end_date": "01/2009"
+            },
+            {
+                "role_name": "Administrative Specialist",
+                "work_description": "Managed the Tax Equalization Program for Expats and inpats. Collect check payments, verified amount and send to payroll for endorsement. Assist expats with completing tax forms and answer questions.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2005",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Administrative Associate",
+                "work_description": "Provided administrative or secretarial support to a department. Worked to complete defined tasks in accordance with standard procedures. Supports general business operations by providing simply administrative support activities.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2003",
+                "end_date": "01/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "San Jacinto College",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "General Studies",
+                "level": "A.A"
+            },
+            {
+                "university": "University of Houston Downtown",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Business Mgt",
+                "level": "B.A"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "HR Management",
+                "level": 5,
+                "explanation": "Over 15 years of experience in HR roles, including directing and implementing HR policies, managing employee relations, and providing guidance to field HR managers, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Handled payroll-related tasks, including creating compensation packages and benefits administration, suggesting strong proficiency."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Directed employee relations, including responding to employee problems and concerns, and presented company policies and benefits to new employees, indicating strong proficiency."
+            },
+            {
+                "name": "Recruitment",
+                "level": 3,
+                "explanation": "Involved in recruitment activities, including presenting company policies and benefits to new employees, showing a solid working proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Provided training to new employees, indicating a solid working proficiency in training and development."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Directed and implemented HR policies, and provided guidance to field HR managers, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with employees, including responding to employee problems and concerns, and presenting company policies and benefits, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple tasks and responsibilities, including handling payroll-related tasks and providing administrative support, showing a solid working proficiency."
+            },
+            {
+                "name": "Organizational Skills",
+                "level": 3,
+                "explanation": "Maintained personnel files, updated the company's affirmative action plan, and managed the Tax Equalization Program, indicating a solid working proficiency in organizational skills."
+            }
+        ]
+    }
+}

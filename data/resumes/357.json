@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sales Associate/Cashier",
+                "work_description": "Met incoming customers and provided immediate assistance. Listened to customer needs and preferences to provide accurate advice. Trained all new sales employees on effective techniques. Reviewed purchases for fraudulent activities. Worked flexible schedule to accommodate changing customer levels. Answered incoming telephone calls with professional and knowledgeable responses.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Maintain a neat and clean stock room. Trusted to handle monetary transactions, cashier. Perform opening and closing procedures. Follow through with customer questions, concerns, and escalated issues when needed to management in regard to customers complaints. Determine customer's needs and help customer's make smart choices. Perform product sales and customer service by suggesting additional add-ons or features that the customer was not aware of",
+                "company_level": "Mid-level",
+                "start_date": "11/2009",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Sales Associate",
+                "work_description": "I make and answer phone call regarding clients billing issues I greet greet clients to the gym and answer any and all question they may have.",
+                "company_level": "Mid-level",
+                "start_date": "07/2012",
+                "end_date": "01/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Norwalk Community College",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Business and Computer Science",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Extensive experience in handling customer inquiries, resolving issues, and providing advice, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales",
+                "level": 5,
+                "explanation": "Long-term experience in sales, including product sales, suggesting additional add-ons or features, and making smart choices for customers, indicating expert-level mastery."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 4,
+                "explanation": "Trusted to handle monetary transactions, including cashier duties, showing strong proficiency in cash handling."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Ability to work flexible schedules and accommodate changing customer levels, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Trained new sales employees on effective techniques, but limited leadership experience, suggesting some practical experience."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effective communication with customers, including answering phone calls and responding to customer inquiries, showing strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Ability to resolve customer complaints and issues, indicating a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Teamwork",
+                "level": 2,
+                "explanation": "Limited experience working with teams, but some experience in following through with customer issues to management, suggesting some practical experience."
+            }
+        ]
+    }
+}

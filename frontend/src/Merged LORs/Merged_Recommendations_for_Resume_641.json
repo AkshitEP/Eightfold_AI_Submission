@@ -1,0 +1,91 @@
+{
+    "target_id": "641",
+    "recommendations": [
+        {
+            "recommender_id": "50",
+            "recommendation": {
+                "resume_file": "641.json",
+                "recommendation_file": "Recommendation_From_ID_50.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions the candidate's skills and experience, but the recommender's title and relationship to the candidate are unclear. Additionally, the recommender's background in Revenue Cycle Management seems unrelated to the candidate's experience in HR and recruitment.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Administration",
+                        "Training and Development",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in recruitment, HR administration, and communication, but the recommender's credibility and relationship to the candidate are unclear. The recommendation also mentions the candidate's ability to optimize recruitment workflows and implement training programs, which aligns with their experience in HR operations analysis and training and development."
+                }
+            }
+        },
+        {
+            "recommender_id": "130",
+            "recommendation": {
+                "resume_file": "641.json",
+                "recommendation_file": "Recommendation_From_ID_130.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Administration",
+                        "Communication",
+                        "Time Management",
+                        "Onboarding"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments in recruitment and HR administration."
+                }
+            }
+        },
+        {
+            "recommender_id": "323",
+            "recommendation": {
+                "resume_file": "641.json",
+                "recommendation_file": "Recommendation_From_ID_323.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Administration",
+                        "Training and Development",
+                        "Onboarding",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Former Director/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment, HR administration, and communication abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "518",
+            "recommendation": {
+                "resume_file": "641.json",
+                "recommendation_file": "Recommendation_From_ID_518.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Administration",
+                        "Training and Development",
+                        "Onboarding",
+                        "HR Operations Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment and HR administration abilities. The source of the recommendation is a peer, indicating a credible and firsthand account of the candidate's performance."
+                }
+            }
+        }
+    ]
+}

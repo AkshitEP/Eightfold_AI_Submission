@@ -1,0 +1,152 @@
+{
+    "target_id": "972",
+    "recommendations": [
+        {
+            "recommender_id": "84",
+            "recommendation": {
+                "resume_id": 972,
+                "recommendation_file": "Recommendation_From_ID_84.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and communication abilities. However, it does not directly reference some of the candidate's technical skills, such as Electrical Engineering or Troubleshooting."
+                }
+            }
+        },
+        {
+            "recommender_id": "288",
+            "recommendation": {
+                "resume_id": 972,
+                "recommendation_file": "Recommendation_From_ID_288.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Troubleshooting",
+                        "Communication",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's managerial skills, commitment to safety, and ability to troubleshoot complex issues, which aligns with their experience as a Material and Tooling Control Lead. However, the recommendation also mentions the candidate's arts educator background, which is not directly related to their current role."
+                }
+            }
+        },
+        {
+            "recommender_id": "781",
+            "recommendation": {
+                "resume_id": 972,
+                "recommendation_file": "Recommendation_From_ID_781.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Troubleshooting",
+                        "Communication",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and problem-solving abilities. However, the recommendation does not explicitly mention the candidate's experience in electrical engineering or forklift operation, which are significant aspects of their resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "451",
+            "recommendation": {
+                "resume_id": 972,
+                "recommendation_file": "Recommendation_From_ID_451.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Troubleshooting",
+                        "Time Management",
+                        "Communication",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and operational skills. However, it does not cover all key areas of expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "144",
+            "recommendation": {
+                "resume_file": "972.json",
+                "recommendation_file": "Recommendation_From_ID_144.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Troubleshooting",
+                        "Communication",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in leadership and operational management. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "484",
+            "recommendation": {
+                "resume_id": 972,
+                "recommendation_file": "Recommendation_From_ID_484.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Troubleshooting",
+                        "Communication",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, problem-solving, and communication skills, which align with their experience in manufacturing management. The recommender's background in high-stakes training and logistics management adds credibility to their endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "432",
+            "recommendation": {
+                "resume_id": 972,
+                "recommendation_file": "Recommendation_From_ID_432.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Electrical Engineering",
+                        "Troubleshooting",
+                        "Time Management",
+                        "Communication",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and technical expertise. The recommendation highlights the candidate's ability to manage production processes, foster a strong workplace culture, and communicate effectively with diverse teams."
+                }
+            }
+        }
+    ]
+}

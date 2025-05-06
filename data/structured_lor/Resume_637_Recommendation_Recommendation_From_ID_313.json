@@ -1,0 +1,19 @@
+{
+    "resume_file": "637.json",
+    "recommendation_file": "Recommendation_From_ID_313.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a pastry chef seems unrelated to the candidate's field, which raises some minor concerns about the recommender's credibility.",
+        "verified_skills": [
+            "Leadership",
+            "Teaching",
+            "Curriculum Development",
+            "Event Planning",
+            "Communication",
+            "Motivation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, teaching methods, and community engagement. However, the recommender's profession seems unrelated to the candidate's field, which raises some minor concerns."
+    }
+}

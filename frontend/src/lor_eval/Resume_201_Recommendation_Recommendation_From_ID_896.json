@@ -1,0 +1,17 @@
+{
+    "resume_file": "201.json",
+    "recommendation_file": "Recommendation_From_ID_896.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but the recommender's role and relationship to the candidate are unclear. Additionally, the recommender's own experience and credentials seem exaggerated (e.g., 'over two decades of aerospace expertise' and 'Lead Operations Engineer for the Global Hawk Project').",
+        "verified_skills": [
+            "Administrative Assistance",
+            "Record Keeping",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with some of the candidate's skills and experience, but the recommender's own credentials and relationship to the candidate are unclear. The recommendation also seems to exaggerate the candidate's experience and skills."
+    }
+}

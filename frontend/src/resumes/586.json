@@ -1,0 +1,121 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Business Analyst Sr. Technical Business Analyst",
+                "work_description": "Initiated new projects like mobile devices compatibility. Key resource for Standard Product Enhancement and Documentation. Interacting with Marketing Team to understand market demands. Worked actively for 'Cloud SFA' project to implement product on cloud technology. Market research of competitive products for product enhancement. Involved in pre-sales activities for understanding market and product enhancement. Involved in '30 Days Implementation Plan' documentation for WSFA. Actively involved in complete Software Development Life cycle to manage the project at every phase of SDLC in order to meet business requirements. Exposure to industry verticals such as Banking, Pharmaceuticals and Healthcare. Deciding time lines for UAT, Deployments, Staging movements, Live deployments. Working as an Application Owner.",
+                "company_level": "Mid-level",
+                "start_date": "07/2011",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Software Implementation Engineer",
+                "work_description": "To communicate directly with the client and gather details of requirement. Documentation (URS,SRS). Designing screen layouts Interact with development team, QC team for effective solution. Impact analysis, Gap Analysis documentation. Test cases review. Application implementation on site. Pilot Run and User Acceptance testing. Application training, Go Live, Project sign-off. Work with end-users to define and execute test scenarios and ensure appropriate end user training.",
+                "company_level": "Mid-level",
+                "start_date": "12/2008",
+                "end_date": "06/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Mumbai",
+                "start_date": "01/2004",
+                "end_date": "12/2008",
+                "domain": "Information Technology",
+                "level": "Bachelor of Engineering"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Sales Force Automation",
+                "description": "Base E12 WSFA is a web based sales force automation solution to automate and make the sales process more effective and productive.",
+                "skills": [
+                    "J2EE",
+                    "Web Based",
+                    "Sales Force Automation"
+                ]
+            },
+            {
+                "domain": "Customer Relationship Management",
+                "description": "CRM application is used for sale order booking, tracking, delivery for company's products. It includes SMS based sales tracking.",
+                "skills": [
+                    "J2EE",
+                    "Web Based",
+                    "Customer Relationship Management"
+                ]
+            },
+            {
+                "domain": "Workflow Applications",
+                "description": "Workflow applications include solutions for company's internal use like Cash voucher approvals, Capital Expenditure approval process.",
+                "skills": [
+                    "J2EE",
+                    "Web Based",
+                    "Workflow Applications"
+                ]
+            }
+        ],
+        "interests": [
+            "organizing collage events",
+            "Industrial Visits"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Actively managed the complete Software Development Life cycle, including planning, execution, and deployment, indicating strong proficiency."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 4,
+                "explanation": "Worked as a key resource for Standard Product Enhancement and Documentation, and was involved in market research and pre-sales activities, showing strong proficiency."
+            },
+            {
+                "name": "Cloud Computing",
+                "level": 3,
+                "explanation": "Involved in implementing a product on cloud technology, indicating a solid working proficiency."
+            },
+            {
+                "name": "Software Development Life Cycle (SDLC)",
+                "level": 4,
+                "explanation": "Actively managed the complete SDLC, including planning, execution, and deployment, indicating strong proficiency."
+            },
+            {
+                "name": "Application Implementation",
+                "level": 4,
+                "explanation": "Worked on application implementation, including pilot runs, user acceptance testing, and user training, showing strong proficiency."
+            },
+            {
+                "name": "Requirements Gathering",
+                "level": 3,
+                "explanation": "Communicated directly with clients to gather requirements and created documentation (URS, SRS), indicating a solid working proficiency."
+            },
+            {
+                "name": "J2EE",
+                "level": 4,
+                "explanation": "Worked on multiple projects using J2EE, including Sales Force Automation, Customer Relationship Management, and Workflow Applications, showing strong proficiency."
+            },
+            {
+                "name": "Web Development",
+                "level": 4,
+                "explanation": "Developed web-based applications, including Sales Force Automation, Customer Relationship Management, and Workflow Applications, indicating strong proficiency."
+            },
+            {
+                "name": "Sales Force Automation",
+                "level": 3,
+                "explanation": "Worked on a Sales Force Automation project, indicating a solid working proficiency."
+            },
+            {
+                "name": "Customer Relationship Management",
+                "level": 3,
+                "explanation": "Worked on a Customer Relationship Management project, indicating a solid working proficiency."
+            },
+            {
+                "name": "Workflow Applications",
+                "level": 3,
+                "explanation": "Worked on Workflow Applications, including solutions for company's internal use, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

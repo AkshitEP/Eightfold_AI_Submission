@@ -1,0 +1,18 @@
+{
+    "resume_file": "129.json",
+    "recommendation_file": "Recommendation_From_ID_689.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's background as a Wildlife Conservationist seems unrelated to the candidate's finance experience, raising some concerns about the authenticity of the recommendation. However, the language is formal and the claims are generally supported by the resume.",
+        "verified_skills": [
+            "Accounts Payable",
+            "General Ledger Reconciliation",
+            "Financial Analysis",
+            "Journal Entries",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's finance expertise and problem-solving skills, but the recommender's background and lack of direct experience in finance raises some concerns about the recommendation's authenticity."
+    }
+}

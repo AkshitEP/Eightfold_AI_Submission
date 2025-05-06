@@ -1,0 +1,102 @@
+{
+    "target_id": "333",
+    "recommendations": [
+        {
+            "recommender_id": "292",
+            "recommendation": {
+                "resume_file": "333.json",
+                "recommendation_file": "Recommendation_From_ID_292.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Bookkeeping",
+                        "Bank Reconciliation",
+                        "Accounts Payable and Receivable",
+                        "Financial Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical knowledge and expertise in finance. The source of the recommendation appears to be a peer, with a background in strategic financial management and contract analytics."
+                }
+            }
+        },
+        {
+            "recommender_id": "976",
+            "recommendation": {
+                "resume_file": "333.json",
+                "recommendation_file": "Recommendation_From_ID_976.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Inventory Management",
+                        "Bookkeeping",
+                        "Bank Reconciliation",
+                        "Accounts Payable and Receivable",
+                        "Financial Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and adaptability."
+                }
+            }
+        },
+        {
+            "recommender_id": "188",
+            "recommendation": {
+                "resume_file": "333.json",
+                "recommendation_file": "Recommendation_From_ID_188.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Bookkeeping",
+                        "Bank Reconciliation",
+                        "Accounts Payable and Receivable",
+                        "Financial Analysis",
+                        "Microsoft Excel",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency, organizational skills, and ability to prioritize tasks. The recommendation is from a peer who has worked closely with the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "107",
+            "recommendation": {
+                "resume_file": "333.json",
+                "recommendation_file": "Recommendation_From_ID_107.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Bookkeeping",
+                        "Bank Reconciliation",
+                        "Accounts Payable and Receivable",
+                        "Microsoft Excel",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and soft skills. The source of the recommendation is a Finance Officer, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

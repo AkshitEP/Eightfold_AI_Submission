@@ -1,0 +1,12 @@
+{
+    "resume_file": "538.json",
+    "recommendation_file": "Recommendation_From_ID_826.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The language used is overly flattering and lacks specific examples from the candidate's work history. The recommender's background as a Business Process Analyst is mentioned, but the connection to the candidate's skills is unclear.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide any specific examples or details about the candidate's skills or work experience. The language used is overly flattering and lacks substance, making it difficult to verify the candidate's qualifications."
+    }
+}

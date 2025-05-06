@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "High School English and Language Arts Teacher",
+                "work_description": "Continually improve instruction to ensure academic growth. Collaborate with faculty and community members to improve education and provide opportunities for students. Record and monitor student progress using multiple methods. Effectively communicate with administration, parents, and students about student achievement.",
+                "company_level": "Mid-level",
+                "start_date": "08/2018",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "School Culture Coordinator",
+                "work_description": "Supported the establishment of positive and safe school culture. Oversaw the development and implementation of student supports and interventions. Built and maintained positive work relationships with community-based organizations and service providers.",
+                "company_level": "Mid-level",
+                "start_date": "01/2018",
+                "end_date": "06/2018"
+            },
+            {
+                "role_name": "Education Advisor",
+                "work_description": "Developed relationships with GEAR UP students, guide them in academic decisions, social development, and career exploration. Formed and maintained professional relationships with GEAR UP students, school administrators, community agencies, and other service providers.",
+                "company_level": "Mid-level",
+                "start_date": "09/2013",
+                "end_date": "01/2018"
+            },
+            {
+                "role_name": "Academic Advisor",
+                "work_description": "Developed relationships with students, guide them in academic decisions & social development, career exploration, and help students get ready for college. Developed good relationships with parents and attend a minimum of 4 home visits a month.",
+                "company_level": "Mid-level",
+                "start_date": "08/2011",
+                "end_date": "09/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Providence College",
+                "start_date": "05/2017",
+                "end_date": "05/2017",
+                "domain": "Education Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "Providence College",
+                "start_date": "08/2014",
+                "end_date": "08/2014",
+                "domain": "Teacher Prep Program",
+                "level": "Teacher Certification Program (TCP)"
+            },
+            {
+                "university": "University Of Rhode Island",
+                "start_date": "05/2011",
+                "end_date": "05/2011",
+                "domain": "Political Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Teaching",
+                "level": 5,
+                "explanation": "Has extensive experience as a High School English and Language Arts Teacher, continually improving instruction and collaborating with faculty, indicating expert-level mastery."
+            },
+            {
+                "name": "Academic Advising",
+                "level": 4,
+                "explanation": "Developed relationships with students, guiding them in academic decisions, social development, and career exploration, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Supported the establishment of positive and safe school culture as a School Culture Coordinator, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with administration, parents, and students about student achievement, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Relationship Building",
+                "level": 4,
+                "explanation": "Built and maintained positive work relationships with community-based organizations, service providers, and students, showing strong proficiency in relationship building."
+            },
+            {
+                "name": "Education Administration",
+                "level": 3,
+                "explanation": "Earned a Master's degree in Education Administration and has experience in school culture coordination, indicating a solid working proficiency."
+            },
+            {
+                "name": "Student Progress Monitoring",
+                "level": 3,
+                "explanation": "Recorded and monitored student progress using multiple methods, showing a solid working proficiency in student progress monitoring."
+            }
+        ]
+    }
+}

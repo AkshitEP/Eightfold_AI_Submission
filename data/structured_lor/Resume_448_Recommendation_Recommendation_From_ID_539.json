@@ -1,0 +1,18 @@
+{
+    "resume_file": "448.json",
+    "recommendation_file": "Recommendation_From_ID_539.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Financial Analysis",
+            "Business Development",
+            "Customer Service",
+            "Sales"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in banking and finance. The source of the recommendation is a Mortgage Banking Document Operations Specialist, indicating a peer-level relationship."
+    }
+}

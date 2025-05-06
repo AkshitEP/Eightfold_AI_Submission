@@ -1,0 +1,19 @@
+{
+    "resume_file": "716.json",
+    "recommendation_file": "Recommendation_From_ID_76.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in job titles and roles, but overall the recommendation seems credible.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Compliance Management",
+            "Information Technology Management",
+            "Budgeting",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strengths in leadership, project management, and compliance management, which aligns with their experience as a Practice Manager. However, the job title mentioned in the recommendation (Information Technology Coordinator) does not match the candidate's job history, which may indicate a minor inconsistency."
+    }
+}

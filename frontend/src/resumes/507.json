@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Patient Care Technician",
+                "work_description": "Under the direction of the Nurse Manager, or designee, the Patient Care Technician assists the work of the Registered Nurse to meet the needs of patients in order to provide safe, quality care. Implements progressive mobility guidelines. Ambulating, turning and repositioning patients. Uses patient handling equipment in the tasks of lifting, transferring, repositioning and transporting patients. may also transport patients within the medical center and deliver and pick up specimens and prescriptions. Assisting with activities of daily living, including but not limited to: feeding, bathing, toileting, providing water, answering the phone, and oral care. Patient monitoring: obtaining, recording and reporting vital signs, weights, and measuring and recording inputs/outputs.",
+                "company_level": "Mid-level",
+                "start_date": "03/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Certified Nursing Assistant",
+                "work_description": "Helped patients effectively manage routine bathing, grooming and other hygiene needs. Assisted patients with mobility needs, including moving to and from beds, organizing wheelchairs and preparing assistive devices. Gathered dietary information, assisted with feeding and monitored intake to help patients achieve nutritional objectives and support. Participated in fun activities, including bingo and music with patients each day to boost mood, improve overall memory and provide light entertainment. Cared for average of 7 patients per pm shift in the facility, delivering high-quality, efficient support to meet all needs.",
+                "company_level": "Mid-level",
+                "start_date": "05/2014",
+                "end_date": "02/2015"
+            },
+            {
+                "role_name": "Private Duty Home Healthcare Aide",
+                "work_description": "Cooked meals and assisted patients with eating tasks to support healthy nutrition. Provided assistance in daily living activities by dressing, grooming, bathing and toileting patient. Managed large range of services including pet care, phone screening and shopping. Performed household tasks such as laundry, dusting, washing dishes and vacuuming. Accompanied clients to medical appointments.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Retail Associate",
+                "work_description": "Organized store merchandise racks and displays to promote and maintain visually appealing environments. Offered each customer top-notch, personal service and polite support to boost sales and customer satisfaction. Skilled using cash register including processing sales discounts and refunds. Greeted customers, helped locate merchandise and suggested suitable options.",
+                "company_level": "Mid-level",
+                "start_date": "12/2009",
+                "end_date": "01/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Armijo High School",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Solano Community College",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Criminal Justice And Nursing",
+                "level": "Some College (No Degree)"
+            },
+            {
+                "university": "Boston Reed",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Medical Assisting",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Patient Care",
+                "level": 5,
+                "explanation": "Has extensive experience providing direct patient care, including assisting with daily living activities, vital signs, and mobility needs, indicating expert-level mastery."
+            },
+            {
+                "name": "Nursing Assistance",
+                "level": 5,
+                "explanation": "Has worked as a Certified Nursing Assistant and Patient Care Technician, demonstrating a high level of proficiency in nursing assistance."
+            },
+            {
+                "name": "Mobility Assistance",
+                "level": 4,
+                "explanation": "Has experience assisting patients with mobility needs, including transferring, repositioning, and transporting patients, showing strong proficiency."
+            },
+            {
+                "name": "Vital Signs Monitoring",
+                "level": 4,
+                "explanation": "Has experience obtaining, recording, and reporting vital signs, weights, and measuring inputs/outputs, indicating strong proficiency."
+            },
+            {
+                "name": "Daily Living Activities",
+                "level": 4,
+                "explanation": "Has experience assisting patients with daily living activities, including bathing, grooming, toileting, and feeding, showing strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience working as a Retail Associate, providing top-notch customer service, indicating a solid working proficiency."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 3,
+                "explanation": "Has experience using a cash register, processing sales, discounts, and refunds, showing a solid working proficiency."
+            }
+        ]
+    }
+}

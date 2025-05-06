@@ -1,0 +1,26 @@
+{
+    "target_id": "775",
+    "recommendations": [
+        {
+            "recommender_id": "400",
+            "recommendation": {
+                "resume_file": "775.json",
+                "recommendation_file": "Recommendation_From_ID_400.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be written in a more formal tone, but it appears to be overly flattering and lacks specific examples from the candidate's resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "IT Strategy",
+                        "Project Management",
+                        "IT Infrastructure Development",
+                        "Data Security"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's leadership and technical skills, but it seems to be more focused on the collaboration between the candidate and another individual rather than the candidate's specific accomplishments and qualifications."
+                }
+            }
+        }
+    ]
+}

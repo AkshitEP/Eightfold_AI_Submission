@@ -1,0 +1,85 @@
+{
+    "target_id": "265",
+    "recommendations": [
+        {
+            "recommender_id": "421",
+            "recommendation": {
+                "resume_file": "265.json",
+                "recommendation_file": "Recommendation_From_ID_421.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Java",
+                        "Spring Framework",
+                        "Test Automation",
+                        "Software Development"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and collaboration skills. The recommender's background as an IT supervisor adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "400",
+            "recommendation": {
+                "resume_file": "265.json",
+                "recommendation_file": "Recommendation_From_ID_400.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Java",
+                        "Spring Framework",
+                        "Test Automation",
+                        "Software Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency and work ethic. However, the recommender's own expertise and role are not directly related to the candidate's work, which might reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "82",
+            "recommendation": {
+                "resume_file": "265.json",
+                "recommendation_file": "Recommendation_From_ID_82.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Java",
+                        "Test Automation",
+                        "Software Development",
+                        "Agile Methodologies"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their software development and test automation abilities. The source of the recommendation is an Information Technology Coordinator, indicating a supervisory role."
+                }
+            }
+        },
+        {
+            "recommender_id": "584",
+            "recommendation": {
+                "resume_file": "265.json",
+                "recommendation_file": "Recommendation_From_ID_584.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation mentions unrelated skills and experiences.",
+                    "verified_skills": [
+                        "Java",
+                        "Spring Framework",
+                        "Test Automation",
+                        "Agile Methodologies"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation provides some specific examples of the candidate's skills and experiences, but also mentions unrelated skills and experiences."
+                }
+            }
+        }
+    ]
+}

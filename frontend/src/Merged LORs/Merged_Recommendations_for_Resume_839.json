@@ -1,0 +1,48 @@
+{
+    "target_id": "839",
+    "recommendations": [
+        {
+            "recommender_id": "292",
+            "recommendation": {
+                "resume_file": "839.json",
+                "recommendation_file": "Recommendation_From_ID_292.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Accounting",
+                        "Payroll Management",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and financial management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "887",
+            "recommendation": {
+                "resume_file": "839.json",
+                "recommendation_file": "Recommendation_From_ID_887.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and project management skills."
+                }
+            }
+        }
+    ]
+}

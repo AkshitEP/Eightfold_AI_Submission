@@ -1,0 +1,21 @@
+{
+    "resume_file": "943.json",
+    "recommendation_file": "Recommendation_From_ID_90.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Payroll Management",
+            "Compliance",
+            "Data Analysis",
+            "Document Management",
+            "Leadership",
+            "Accounts Payable",
+            "Process Improvement",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise. The source of the recommendation appears to be a peer, as they mention working closely with the candidate in HR operations."
+    }
+}

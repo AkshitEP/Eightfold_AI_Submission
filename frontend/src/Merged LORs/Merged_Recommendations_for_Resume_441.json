@@ -1,0 +1,48 @@
+{
+    "target_id": "441",
+    "recommendations": [
+        {
+            "recommender_id": "805",
+            "recommendation": {
+                "resume_file": "441.json",
+                "recommendation_file": "Recommendation_From_ID_805.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mechanical Engineering",
+                        "Fluid Systems Design",
+                        "Thermal Accessories Design",
+                        "Failure Mode and Effects Analysis (FMEA)",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their engineering expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "521",
+            "recommendation": {
+                "resume_file": "441.json",
+                "recommendation_file": "Recommendation_From_ID_521.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no clear indications of fraud.",
+                    "verified_skills": [
+                        "Mechanical Engineering",
+                        "Fluid Systems Design",
+                        "Thermal Accessories Design",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but there are some minor inconsistencies that require further verification."
+                }
+            }
+        }
+    ]
+}

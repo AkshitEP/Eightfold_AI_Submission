@@ -1,0 +1,51 @@
+{
+    "target_id": "75",
+    "recommendations": [
+        {
+            "recommender_id": "505",
+            "recommendation": {
+                "resume_id": 75,
+                "recommendation_file": "Recommendation_From_ID_505.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Accounting Procedures",
+                        "Financial Reporting",
+                        "Tax Filing",
+                        "Audit Assistance",
+                        "Oracle Payables"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical skills and interpersonal abilities. The recommendation highlights the candidate's expertise in various accounting processes, financial statement preparation, and payroll management."
+                }
+            }
+        },
+        {
+            "recommender_id": "893",
+            "recommendation": {
+                "resume_id": 75,
+                "recommendation_file": "Recommendation_From_ID_893.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. Additionally, the recommendation mentions tools like SAP and QuickBooks, which are not mentioned in the resume.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Accounting Procedures",
+                        "Financial Reporting",
+                        "Tax Filing",
+                        "Audit Assistance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work ethic and attention to detail. However, it lacks concrete examples and evidence from the resume, and mentions tools not mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "resume_file": "359.json",
+    "recommendation_file": "Recommendation_From_ID_522.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Application Support",
+            "Database Management",
+            "Leadership",
+            "Business Process Development",
+            "Data Analysis",
+            "IT Consulting",
+            "System Administration",
+            "SQL",
+            "Oracle"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, application support, and leadership abilities."
+    }
+}

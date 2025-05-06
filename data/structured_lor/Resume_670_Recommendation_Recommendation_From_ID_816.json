@@ -1,0 +1,20 @@
+{
+    "resume_file": "670.json",
+    "recommendation_file": "Recommendation_From_ID_816.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+        "verified_skills": [
+            "Technical Support",
+            "Hardware Installation and Repair",
+            "Software Installation and Repair",
+            "Troubleshooting",
+            "Maintenance and Repair",
+            "Computer Hardware",
+            "Computer Software"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills and work ethic, but the source of the recommendation is unclear. The language is formal, but overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "resume_id": 984,
+    "recommendation_file": "Recommendation_From_ID_358.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be comparing the candidate to someone from a completely different industry (restaurant server), and the connection to the candidate's skills and experience is unclear. The language is formal, but the comparison is unrealistic and lacks concrete examples from the candidate's experience.",
+        "verified_skills": [
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide specific examples of the candidate's skills and experience in healthcare management, and the comparison to a restaurant server is unclear and unrealistic. The recommendation does mention the candidate's experience in military healthcare management, but it does not provide enough detail to fully support their qualifications."
+    }
+}

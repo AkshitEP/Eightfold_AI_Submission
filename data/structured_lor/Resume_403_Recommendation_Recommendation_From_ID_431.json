@@ -1,0 +1,16 @@
+{
+    "resume_file": "403.json",
+    "recommendation_file": "Recommendation_From_ID_431.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of 'remarkable prowess' and 'extensive career' might be slightly exaggerated.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Reconciliation",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in accounting, but some claims seem slightly exaggerated. The mention of 'complex tax returns' and 'substantial sales figures' is not directly supported by the resume."
+    }
+}

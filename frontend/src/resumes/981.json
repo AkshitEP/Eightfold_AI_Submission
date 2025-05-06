@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Shared Services Analyst",
+                "work_description": "Provide customer support for HRIS questions and issues by researching resolving simple to complex policy and transactional questions related to the use of the PeopleSoft HRIS and HR administrative policies and practices.",
+                "company_level": "Mid-level",
+                "start_date": "09/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Human Resources Representative",
+                "work_description": "Daily support for the administration of all University benefits programs, including communications with vendors and third party administrators.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "02/2015"
+            },
+            {
+                "role_name": "Benefits Manager/HRIS Specialist",
+                "work_description": "Management of the College's employee benefits programs and the Human Resources Information System (HRIS).",
+                "company_level": "Mid-level",
+                "start_date": "06/2012",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "HR Specialist",
+                "work_description": "Managed annual open enrollment and payroll-related functions to include frozen salary, imputed income, rates information, EOI, direct bill for retirees and LOA",
+                "company_level": "Mid-level",
+                "start_date": "12/2007",
+                "end_date": "07/2011"
+            },
+            {
+                "role_name": "Specialist",
+                "work_description": "Processed short term disability payments.",
+                "company_level": "Mid-level",
+                "start_date": "11/2006",
+                "end_date": "12/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Western Michigan University",
+                "start_date": "01/2000",
+                "end_date": "12/2006",
+                "domain": "Business",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "HRIS Management",
+                "level": 5,
+                "explanation": "Extensive experience managing HRIS systems, including PeopleSoft, and providing support for HRIS-related questions and issues, indicating expert-level mastery."
+            },
+            {
+                "name": "Benefits Administration",
+                "level": 5,
+                "explanation": "Long-term experience managing employee benefits programs, including communications with vendors and third-party administrators, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Significant experience with payroll-related functions, including frozen salary, imputed income, and direct bill for retirees, suggesting strong proficiency."
+            },
+            {
+                "name": "Customer Support",
+                "level": 4,
+                "explanation": "Extensive experience providing customer support for HRIS questions and issues, indicating strong proficiency."
+            },
+            {
+                "name": "Policy Administration",
+                "level": 4,
+                "explanation": "Experience researching and resolving policy-related questions and issues, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Experience managing annual open enrollment and other projects, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Experience communicating with vendors, third-party administrators, and employees, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

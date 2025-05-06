@@ -1,0 +1,152 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "IT Manager",
+                "work_description": "Server installations and migrations, SonicWall firewalls, VPN installation and support, wireless access points, multilayer switches, routers, help desk support for 3 sites, multi-mode fiber, Microsoft Exchange Server, Server 2012, Hyper-V installation and support, Windows XP mode, Windows 7, Windows 8, SharePoint, Microsoft Dynamics GP/CRM, Project Server, SQL, Macola, CCTV, time and attendance hardware and software, biometric reader installation and support, Syspine IP, Microsoft Response Point, VoIP, Creo Pro/E, Windchill, SolidWorks, QuickBooks Enterprise, McAfee SaaS, network security, disaster recovery, infrastructure design and support, network hardware and software troubleshooting, administration of user accounts, responsible for developing annual IT budget, responsible for IT project management.",
+                "company_level": "Mid-level",
+                "start_date": "07/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Information Technology Engineer",
+                "work_description": "Server installations and migrations, migration of databases, Exchange Server, SQL, MySQL. Cisco PIX and ASA 5505 installation and support, network security, wireless hardware, installation and support of Symantec Backup Exec and Endpoint Protection, Mac OS, help desk support for multiple sites, phone system and VoIP support.",
+                "company_level": "Mid-level",
+                "start_date": "10/2008",
+                "end_date": "07/2012"
+            },
+            {
+                "role_name": "Senior Network Engineer",
+                "work_description": "Server installations and migrations, databases, Exchange Server, SQL, MySQL. HP servers, Secure Computing Webwashers, Snapgear firewall/VPN appliances, Cisco switches, Trend Micro products, Symantec products, network security, wireless installation and support, virtual machines, help desk support for multiple sites, phone system and VoIP support.",
+                "company_level": "Mid-level",
+                "start_date": "10/2007",
+                "end_date": "06/2008"
+            },
+            {
+                "role_name": "Information Technology Engineer",
+                "work_description": "Server installations and migrations, migration of databases, MAS 90, SQL, MySQL. Cisco 1721, 2800 and 3600 series routers, Cisco Catalyst 2900 and 3100 series switches, HP ProCurve switches, Symantec products, network security, wireless installation, iSCSI NAS/SAN (Intel hardware), media servers, terminal server applications, BrainTree PACS and C-Arm, biometric readers, time and attendance installation and support, help desk and end user support for 7 sites.",
+                "company_level": "Mid-level",
+                "start_date": "03/2005",
+                "end_date": "10/2007"
+            },
+            {
+                "role_name": "Assistant Professor",
+                "work_description": "Program Chair for Region 2 (South Bend, Elkhart and Warsaw Server installations, teaching A+, Network+, Microsoft MCSA and Cisco CCNA classes, programming routers, switches and installing and configuring Windows 2000 server and Server 2003. Supervised all Computer Information Systems faculty, staff and adjunct instructors for all three sites in Region 2, hardware/software troubleshooting and support.",
+                "company_level": "Mid-level",
+                "start_date": "08/2000",
+                "end_date": "07/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Davenport University",
+                "start_date": "01/1988",
+                "end_date": "12/1988",
+                "domain": "Information Technology",
+                "level": "Certification"
+            },
+            {
+                "university": "Western Michigan University",
+                "start_date": "01/1985",
+                "end_date": "12/1985",
+                "domain": "Counselor Education and Counseling Psychology",
+                "level": "Master's"
+            },
+            {
+                "university": "Indiana University",
+                "start_date": "01/1980",
+                "end_date": "12/1980",
+                "domain": "Sociology",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Ivy Tech Community College",
+                "start_date": "01/2000",
+                "end_date": "12/2000",
+                "domain": "Information Technology",
+                "level": "Certification"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Server Installation and Migration",
+                "level": 5,
+                "explanation": "Extensive experience with server installations and migrations across multiple roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Security",
+                "level": 5,
+                "explanation": "Consistently handled network security responsibilities across multiple roles, showing expert-level proficiency."
+            },
+            {
+                "name": "Database Management",
+                "level": 4,
+                "explanation": "Handled database migrations and management across multiple roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Microsoft Exchange Server",
+                "level": 4,
+                "explanation": "Extensive experience with Microsoft Exchange Server across multiple roles, indicating strong proficiency."
+            },
+            {
+                "name": "SQL",
+                "level": 4,
+                "explanation": "Consistently worked with SQL across multiple roles, showing strong proficiency."
+            },
+            {
+                "name": "Virtualization",
+                "level": 4,
+                "explanation": "Handled virtual machine installation and support across multiple roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Help Desk Support",
+                "level": 4,
+                "explanation": "Provided help desk support for multiple sites across multiple roles, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Handled project management responsibilities as an IT Manager, showing solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Supervised faculty, staff, and adjunct instructors as an Assistant Professor, indicating solid level of proficiency in leadership."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Developed annual IT budget as an IT Manager, showing solid working proficiency."
+            },
+            {
+                "name": "Disaster Recovery",
+                "level": 3,
+                "explanation": "Handled disaster recovery responsibilities as an IT Manager, indicating solid working proficiency."
+            },
+            {
+                "name": "Cisco Products",
+                "level": 4,
+                "explanation": "Extensive experience with Cisco products such as routers, switches, and firewalls across multiple roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Symantec Products",
+                "level": 4,
+                "explanation": "Handled Symantec product installation and support across multiple roles, indicating strong proficiency."
+            },
+            {
+                "name": "Microsoft Windows",
+                "level": 4,
+                "explanation": "Extensive experience with Microsoft Windows operating systems across multiple roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Mac OS",
+                "level": 3,
+                "explanation": "Handled Mac OS installation and support as an Information Technology Engineer, showing solid working proficiency."
+            }
+        ]
+    }
+}

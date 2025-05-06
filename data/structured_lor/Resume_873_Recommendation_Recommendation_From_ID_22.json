@@ -1,0 +1,20 @@
+{
+    "resume_file": "873.json",
+    "recommendation_file": "Recommendation_From_ID_22.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Patient Care",
+            "Nursing Assessment",
+            "Medication Administration",
+            "Leadership",
+            "Communication",
+            "Critical Thinking",
+            "Teamwork"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teamwork, patient care, and leadership abilities. The source of the recommendation is a peer, a Domestic Violence Counselor Advocate, who has collaborated with the candidate in the field of mental health care."
+    }
+}

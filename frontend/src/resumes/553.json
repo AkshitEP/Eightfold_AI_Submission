@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Banking Center Manager",
+                "work_description": "Managing a consumer banking center. Leading, managing and coaching a team of sales and service professionals to meet and exceed sales targets, ensure the operational excellence of the banking center and create an excellent customer experience.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Personal Banker",
+                "work_description": "Offering and selling financial products and services to both consumer and small business customers. Routinely working with customers and small business clients, to build and deepen relationships by uncovering financial needs, and recommending the best products, services and solutions to meet those needs.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2010",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Sales and Service Specialist",
+                "work_description": "Providing customer solutions to moderately complex or escalated issues by providing seamless delivery of service, sales and/or fulfillment requests by answering calls, text messages or emails in a contact center environment.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2007",
+                "end_date": "02/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Minot State",
+                "start_date": "01/2001",
+                "end_date": "12/2005",
+                "domain": "Corporate Fitness",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Frank Phillips College",
+                "start_date": "01/1997",
+                "end_date": "12/1999",
+                "domain": "Business Admin",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has over a decade of experience in leadership roles, including managing a team of sales and service professionals, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales",
+                "level": 5,
+                "explanation": "Has extensive experience in sales, including selling financial products and services to both consumer and small business customers, showing expert-level proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has a long history of providing excellent customer service, including resolving complex and escalated issues, indicating expert-level mastery."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has experience managing a team of sales and service professionals, showing strong proficiency in team management."
+            },
+            {
+                "name": "Financial Products",
+                "level": 4,
+                "explanation": "Has experience selling financial products and services to both consumer and small business customers, suggesting strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience communicating with customers and small business clients to build and deepen relationships, showing strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Has experience resolving complex and escalated customer issues, indicating strong proficiency in problem-solving."
+            },
+            {
+                "name": "Banking Operations",
+                "level": 3,
+                "explanation": "Has experience managing the operational excellence of a banking center, showing a solid working proficiency."
+            }
+        ]
+    }
+}

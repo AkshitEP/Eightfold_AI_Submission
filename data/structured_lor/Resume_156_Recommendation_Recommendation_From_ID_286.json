@@ -1,0 +1,19 @@
+{
+    "resume_file": "156.json",
+    "recommendation_file": "Recommendation_From_ID_286.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions two individuals, which is unusual. The language is formal, but some claims seem exaggerated.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Financial Reporting",
+            "Leadership",
+            "Financial Modeling",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise. However, the mention of two individuals and some exaggerated claims raise concerns about the recommendation's credibility."
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "target_id": "907",
+    "recommendations": [
+        {
+            "recommender_id": "149",
+            "recommendation": {
+                "resume_file": "907.json",
+                "recommendation_file": "Recommendation_From_ID_149.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's field (HR) is distinct from the candidate's field (Advocacy), which may raise some questions about the depth of their working relationship and the recommender's understanding of the candidate's specific skills and accomplishments.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Policy Development",
+                        "Collaboration",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, innovation, and problem-solving skills, which align with their experience as Advocate General and Program Director. However, the recommender's field and relationship with the candidate are not clearly established, which may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "489",
+            "recommendation": {
+                "resume_file": "907.json",
+                "recommendation_file": "Recommendation_From_ID_489.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Policy Development",
+                        "Collaboration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, program development, and collaboration. However, the source of the recommendation is unclear, and the language used is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "602",
+            "recommendation": {
+                "resume_file": "907.json",
+                "recommendation_file": "Recommendation_From_ID_602.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be referencing two different individuals, with the first part discussing an HR assistant and the second part discussing the Advocate General. This inconsistency raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Policy Development",
+                        "Data Analysis",
+                        "Collaboration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation partially aligns with the candidate's skills and experience, but the inconsistency in referencing two different individuals raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "116",
+            "recommendation": {
+                "resume_file": "907.json",
+                "recommendation_file": "Recommendation_From_ID_116.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is an HR Assistant, which may not be directly familiar with the candidate's work. However, the language is formal, and no statistically improbable claims are detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Policy Development",
+                        "Community Outreach",
+                        "Collaboration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional leadership, interpersonal skills, and commitment to improving services. While the source is an HR Assistant, the recommendation provides specific examples of the candidate's accomplishments and aligns well with their skills and experience."
+                }
+            }
+        }
+    ]
+}

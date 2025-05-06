@@ -1,0 +1,20 @@
+{
+    "resume_file": "330.json",
+    "recommendation_file": "Recommendation_From_ID_373.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Healthcare Operations",
+            "Data Analysis",
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and ability to drive operational success. The recommender's role as a Clinical Research Coordinator Mentor specializing in Quality Assurance adds credibility to the recommendation."
+    }
+}

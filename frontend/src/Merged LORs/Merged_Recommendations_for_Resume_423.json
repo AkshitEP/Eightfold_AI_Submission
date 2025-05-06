@@ -1,0 +1,49 @@
+{
+    "target_id": "423",
+    "recommendations": [
+        {
+            "recommender_id": "709",
+            "recommendation": {
+                "resume_file": "423.json",
+                "recommendation_file": "Recommendation_From_ID_709.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions some skills and experiences not explicitly mentioned in the resume, such as data management and quality improvement initiatives. However, the language is formal and the claims seem plausible given the candidate's experience and education.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Teamwork",
+                        "Time Management",
+                        "Healthcare Management",
+                        "Patient Care"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills and dedication to supporting operational efficiency in healthcare settings. However, some skills and experiences mentioned in the recommendation are not explicitly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "31",
+            "recommendation": {
+                "resume_file": "423.json",
+                "recommendation_file": "Recommendation_From_ID_31.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Teamwork",
+                        "Time Management",
+                        "Healthcare Management",
+                        "Patient Care"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and patient care skills. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

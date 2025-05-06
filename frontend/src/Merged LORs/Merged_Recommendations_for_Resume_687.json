@@ -1,0 +1,118 @@
+{
+    "target_id": "687",
+    "recommendations": [
+        {
+            "recommender_id": "351",
+            "recommendation": {
+                "resume_file": "687.json",
+                "recommendation_file": "Recommendation_From_ID_351.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background as a Customer Service Specialist seems unrelated to the Assistant Principal's field, which raises some concerns about the recommender's credibility.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Mentoring"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the Assistant Principal's leadership and interpersonal skills, which aligns with their experience in educational administration. However, the recommender's background and relationship to the Assistant Principal are unclear, which affects the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "254",
+            "recommendation": {
+                "resume_file": "687.json",
+                "recommendation_file": "Recommendation_From_ID_254.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration and improper language. The information provided does not match the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the resume and seems to be promoting the first person's qualifications. The information provided does not match the resume, and the focus on the first person's experience as a summer camp counselor is not relevant to the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "657",
+            "recommendation": {
+                "resume_file": "687.json",
+                "recommendation_file": "Recommendation_From_ID_657.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but overall seems genuine.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentoring",
+                        "Communication",
+                        "Teaching"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills and experience in education, but may be a bit exaggerated in its comparison between retail and educational settings."
+                }
+            }
+        },
+        {
+            "recommender_id": "591",
+            "recommendation": {
+                "resume_file": "687.json",
+                "recommendation_file": "Recommendation_From_ID_591.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Staff Management",
+                        "Communication",
+                        "Mentoring"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and interpersonal skills. The recommendation source is a peer, an English teacher, who has worked alongside the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "513",
+            "recommendation": {
+                "resume_file": "687.json",
+                "recommendation_file": "Recommendation_From_ID_513.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Event Planning",
+                        "Mentoring"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, communication, and event planning skills, which align with their experience as an Assistant Principal. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "515",
+            "recommendation": {
+                "resume_file": "687.json",
+                "recommendation_file": "Recommendation_From_ID_515.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. The recommender's relationship to the candidate is unclear, and their profession as a Client Relations Advocate seems unrelated to the candidate's field.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mentoring",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and interpersonal skills, but it does not provide concrete examples from their work experience. The recommender's profession and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

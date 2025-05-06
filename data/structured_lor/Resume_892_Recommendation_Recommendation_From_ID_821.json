@@ -1,0 +1,17 @@
+{
+    "resume_file": "892.json",
+    "recommendation_file": "Recommendation_From_ID_821.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender claims to be an accountant with 15 years of experience, but the candidate's resume does not mention working with an accountant or in a governmental accounting setting. This inconsistency raises some concerns.",
+        "verified_skills": [
+            "HR Operations",
+            "Customer Service",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strengths in HR operations, customer service, and communication. However, the recommender's claim of working alongside the candidate in a governmental accounting setting is not supported by the candidate's resume, which raises some concerns about the accuracy of the recommendation."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "173.json",
+    "recommendation_file": "Recommendation_From_ID_822.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as a 'Grade 4 customer and brand representative' seems unrelated to the candidate's field of education. This inconsistency raises some concerns.",
+        "verified_skills": [
+            "Teaching",
+            "Curriculum Development",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership skills, and commitment to education. However, the recommender's background and connection to the candidate are unclear."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "646.json",
+    "recommendation_file": "Recommendation_From_ID_570.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems overly flattering and lacks specific examples from the candidate's work experience. The source of the recommendation is unclear and unrelated to the candidate's field.",
+        "verified_skills": [
+            "Food Service Management",
+            "Leadership",
+            "Team Management",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in food service management, leadership, and team management, but the source of the recommendation is unclear and unrelated to the candidate's field. The language used is formal, but the tone is overly flattering and lacks specific examples from the candidate's work experience."
+    }
+}

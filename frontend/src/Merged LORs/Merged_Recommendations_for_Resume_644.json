@@ -1,0 +1,58 @@
+{
+    "target_id": "644",
+    "recommendations": [
+        {
+            "recommender_id": "868",
+            "recommendation": {
+                "resume_file": "644.json",
+                "recommendation_file": "Recommendation_From_ID_868.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. It does not provide any concrete examples or evidence from the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be focused on a different individual, and it does not provide any relevant information about the infantry specialist's skills or experiences."
+                }
+            }
+        },
+        {
+            "recommender_id": "196",
+            "recommendation": {
+                "resume_file": "644.json",
+                "recommendation_file": "Recommendation_From_ID_196.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation does not directly reference specific skills or experiences from the resume, but rather focuses on the synergy of skills developed through military service and civilian roles.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Logistics"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the collaboration between two individuals, but does not directly reference specific skills or experiences from the resume. However, it does mention leadership and logistics skills, which are present in the resume. The recommendation seems to be more focused on the synergy of skills developed through military service and civilian roles, rather than directly referencing specific skills or experiences."
+                }
+            }
+        },
+        {
+            "recommender_id": "61",
+            "recommendation": {
+                "resume_file": "644.json",
+                "recommendation_file": "Recommendation_From_ID_61.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Logistics",
+                        "Mechanical Maintenance",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and mechanical maintenance abilities. However, it does not directly reference all of the candidate's skills, such as Inventory Management, Data Entry, and Forklift Operation."
+                }
+            }
+        }
+    ]
+}

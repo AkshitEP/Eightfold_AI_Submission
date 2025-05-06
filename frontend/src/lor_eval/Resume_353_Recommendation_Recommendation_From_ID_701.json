@@ -1,0 +1,18 @@
+{
+    "resume_file": "353.json",
+    "recommendation_file": "Recommendation_From_ID_701.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Application Development",
+            "Network Support",
+            "Business Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and exaggerated claims. The recommender's tone is overly positive, which may indicate some bias."
+    }
+}

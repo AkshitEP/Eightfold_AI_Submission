@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Implemented Quickbooks Accounting v. 2013 and 2016 for all the Companies. Implemented Quicbooks payroll v. 2016 from scratch. Worked on processing of journal entries, accounts payable & receivables using Prosystems software. Bookkeeping of small and midsized companies. Worked on bank reconciliation, cash management and financial statements analysis. Preparation and finalization of federal and multi state tax returns for Individuals & Corporate using Lacerte software.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "SAP Consultant",
+                "work_description": "Configured G/L Masters, Accounts Payable, Accounts Receivable, Cash Journals, House banks, Chart of Accounts, Posting Keys, Customer/Vendor Accounts Groups, & Customer/ Vendor Masters Creation. Created Input /Output Tax & Withholding Tax, Company Specific Code (Z Code), COPA (Costing Based Profitability Analysis) & Number Ranges. Defined Fiscal year variant, Posting periods, Tolerance groups, Document types & number ranges.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Financial Analyst",
+                "work_description": "Worked with multiple clients performing two part role: as an auditor & tax preparation. Conducted Audit for various clients. Identified key operational risk factors of clients and suggested focus approach to mitigate the risk. Carried analytical procedures like comparing financial ratios to industry standards to evaluate performance. Reconciled sub-ledger & general ledger account balance.",
+                "company_level": "Mid-level",
+                "start_date": "02/2011",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Reconciled journal entries & lead as coordinator with the internal audit team. Worked on Merger/Amalgamation, prepared agenda, notice, annual reports to compile Annual Account Prepared balance sheets & Income statement of various group companies.",
+                "company_level": "Mid-level",
+                "start_date": "04/2009",
+                "end_date": "12/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Mumbai",
+                "start_date": "01/2007",
+                "end_date": "12/2010",
+                "domain": "Commerce",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Institute of Company Secretaries of India (ICSI)",
+                "start_date": "01/2007",
+                "end_date": "12/2010",
+                "domain": "Company Secretary",
+                "level": "Certificate"
+            },
+            {
+                "university": "Boston, MA",
+                "start_date": "01/2011",
+                "end_date": "Present",
+                "domain": "Accounting",
+                "level": "CPA Candidate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience with all aspects of accounting including journal entries, accounts payable & receivables, bookkeeping, and financial statements analysis, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Conducted audits, identified key operational risk factors, and performed analytical procedures like comparing financial ratios to industry standards, showing strong proficiency."
+            },
+            {
+                "name": "Tax Preparation",
+                "level": 4,
+                "explanation": "Prepared and finalized federal and multi-state tax returns for individuals and corporate using Lacerte software, suggesting strong proficiency."
+            },
+            {
+                "name": "Auditing",
+                "level": 4,
+                "explanation": "Conducted audits for various clients, identified key operational risk factors, and suggested focus approach to mitigate the risk, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Reconciled journal entries, sub-ledger & general ledger account balance, and worked on bank reconciliation, showing strong proficiency."
+            },
+            {
+                "name": "QuickBooks",
+                "level": 4,
+                "explanation": "Implemented QuickBooks Accounting v. 2013 and 2016 for all the companies, and implemented QuickBooks payroll v. 2016 from scratch, suggesting strong proficiency."
+            },
+            {
+                "name": "SAP",
+                "level": 3,
+                "explanation": "Configured G/L Masters, Accounts Payable, Accounts Receivable, Cash Journals, and other SAP modules, showing solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Led as coordinator with the internal audit team, but limited information is available about leadership experience, indicating some practical experience."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Worked on Merger/Amalgamation, prepared agenda, notice, annual reports, but limited information is available about project management experience, indicating some practical experience."
+            }
+        ]
+    }
+}

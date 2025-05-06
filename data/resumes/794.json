@@ -1,0 +1,136 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Financial Institutions Examiner",
+                "work_description": "Conducted examinations of financial institutions to verify adherence with relevant laws and regulations. Conducted training, coached team members, and compiled/reported results while managing stakeholder relations.",
+                "company_level": "Mid-level",
+                "start_date": "03/2011",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Admissions Advisor",
+                "work_description": "Led recruitment activities and provided support to new and continuing students. Implemented recruitment plan to achieve budgeted goals each term.",
+                "company_level": "Mid-level",
+                "start_date": "11/2008",
+                "end_date": "11/2010"
+            },
+            {
+                "role_name": "IT Specialist Intern",
+                "work_description": "Provided technical support to all users, assisting with virus response/resolution, security patches, and application needs.",
+                "company_level": "Startup",
+                "start_date": "10/2007",
+                "end_date": "02/2008"
+            },
+            {
+                "role_name": "Department Administrator/Dental Assistant",
+                "work_description": "Served as part of dental assisting team for residents in the prosthodontics and general dentistry program. Handled range of administrative duties for department.",
+                "company_level": "Mid-level",
+                "start_date": "04/2003",
+                "end_date": "04/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "University College, University of Maryland",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Accounting and Financial Management",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Business Information Systems",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [],
+        "skills": [
+            "Account Analysis & Reconciliation",
+            "Accounts Payable",
+            "Accounts Receivable",
+            "Bank Reconciliations",
+            "Business",
+            "Due Diligence",
+            "Financial Report Preparation",
+            "General Ledger Accounting"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Institutions Examination",
+                "level": 4,
+                "explanation": "Conducted examinations of financial institutions to verify adherence with relevant laws and regulations, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led recruitment activities, coached team members, and managed stakeholder relations, indicating a solid working proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Conducted training and coached team members, showing a solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Implemented recruitment plan to achieve budgeted goals, suggesting some practical experience."
+            },
+            {
+                "name": "IT Support",
+                "level": 2,
+                "explanation": "Provided technical support to all users, assisting with virus response/resolution, security patches, and application needs, indicating some practical experience."
+            },
+            {
+                "name": "Dental Assisting",
+                "level": 1,
+                "explanation": "Served as part of dental assisting team, but no further information is available, suggesting basic familiarity."
+            },
+            {
+                "name": "Account Analysis & Reconciliation",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no relevant experience found."
+            },
+            {
+                "name": "Accounts Payable",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no relevant experience found."
+            },
+            {
+                "name": "Accounts Receivable",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no relevant experience found."
+            },
+            {
+                "name": "Bank Reconciliations",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no relevant experience found."
+            },
+            {
+                "name": "Business",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no relevant experience found."
+            },
+            {
+                "name": "Due Diligence",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no relevant experience found."
+            },
+            {
+                "name": "Financial Report Preparation",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no relevant experience found."
+            },
+            {
+                "name": "General Ledger Accounting",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no relevant experience found."
+            }
+        ]
+    }
+}

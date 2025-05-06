@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Arts Instructor",
+                "work_description": "Planned, implemented, monitored, and assessed a classroom instructional program which was consistent with Tempe and Arizona Board of Education Art standards. Taught visual arts, specializing in photography, serigraphy, ceramics, mural painting, mask making, glass mosaics and commercial graphic arts applications.",
+                "company_level": "Mid-level",
+                "start_date": "08/1990",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Arts Instructor",
+                "work_description": "Designed and Implemented over 10 individually focused programs in the arts for after school programs including claymation, ceramics, mask making, drawing, photography, silk screening and painting.",
+                "company_level": "Mid-level",
+                "start_date": "01/1998",
+                "end_date": "01/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Arizona State University",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Secondary Education Curriculum Development",
+                "level": "Master's"
+            },
+            {
+                "university": "Arizona State University",
+                "start_date": "01/1973",
+                "end_date": "12/1973",
+                "domain": "Photography",
+                "level": "Bachelor of Fine Arts"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "National Art Education annual conference presenter",
+            "Arizona Alliance for the Art",
+            "Tempe Elementary Education Association",
+            "International Non-Government Organization for Education Through Art"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Teaching",
+                "level": 5,
+                "explanation": "Over 20 years of experience as an Arts Instructor, with a Master's degree in Secondary Education Curriculum Development, indicating expert-level mastery."
+            },
+            {
+                "name": "Curriculum Development",
+                "level": 4,
+                "explanation": "Designed and implemented over 10 individually focused programs in the arts, showing strong proficiency in curriculum development."
+            },
+            {
+                "name": "Visual Arts",
+                "level": 5,
+                "explanation": "Extensive experience teaching various visual arts disciplines, including photography, serigraphy, ceramics, mural painting, mask making, glass mosaics, and commercial graphic arts applications, indicating expert-level mastery."
+            },
+            {
+                "name": "Photography",
+                "level": 5,
+                "explanation": "Bachelor of Fine Arts degree in Photography and extensive experience teaching photography, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Presented at the National Art Education annual conference and involved in various art education organizations, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with students, colleagues, and organizations, showing strong proficiency in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed multiple programs and projects, showing a solid level of proficiency in project management."
+            }
+        ]
+    }
+}

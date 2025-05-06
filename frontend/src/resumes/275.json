@@ -1,0 +1,127 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Owner/Operator",
+                "work_description": "Developed new customer base and generated new accounts by implementing effective networking and content marketing strategies. Managed budget forecasting, goal setting and performance reporting for all accounts. Cold and warm called 100 new and existing accounts per day. Planned, organized and oversaw daily activities of multiple production crews.",
+                "company_level": "Startup",
+                "start_date": "06/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "General Manager",
+                "work_description": "Implemented business-building and relationship-building expectations with uniquely assigned accounts and customers. Led sales calls with team members to establish sales and customer retention goals. Hired and trained all sales staff for new store location. Generated monthly and annual sales reports. Created and directed sales team training and development programs.",
+                "company_level": "Mid-level",
+                "start_date": "11/2009",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Vice President of Sales",
+                "work_description": "Accountable for all company-wide sales including overall customer satisfaction. Created and directed sales team training and development programs. Monitored customer preferences to determine focus of sales efforts. Determined merchandise price schedules and discount rates. Developed and directed strategy for launch of new product. Increased membership base by 30%.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2008",
+                "end_date": "10/2009"
+            },
+            {
+                "role_name": "Vice President of Sales & Operations",
+                "work_description": "Accountable for sales and retention including overall customer satisfaction. Strengthened company's business by leading implementation of new product line and sales strategies. Delivered performance updates, quarterly business reviews and planning meetings. Planned strategic brand-building events to expand the product portfolio. Identified, coordinated and participated in client relationship-building activities and meetings. Increased sales production 50% and reduced attrition rate by 8%.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2006",
+                "end_date": "10/2008"
+            },
+            {
+                "role_name": "Area Manager",
+                "work_description": "Defined strategy and business plan for multiple locations. Directed strategic initiatives to achieve company goals. Increased profits by developing, initiating, and managing payroll, profits and losses, customer service, and sales for multiple locations. Developed and managed annual operating budgets. Mentored, coached and trained managers, department heads, and team members. Identified inefficiencies and made recommendations for process improvements.",
+                "company_level": "Mid-level",
+                "start_date": "12/2003",
+                "end_date": "11/2006"
+            },
+            {
+                "role_name": "General Manager",
+                "work_description": "Consistently met and exceeded department expectations for productivity and accuracy levels. Recorded training sessions and maintained package rates for each client. Guided clients in safe exercise, taking into account individualized physical limitations. Participated in club promotions to recruit new members and increase club sales. Attained facility targets, including revenue goals and member retention rates.",
+                "company_level": "Mid-level",
+                "start_date": "10/2001",
+                "end_date": "12/2003"
+            },
+            {
+                "role_name": "Surgical Technician II",
+                "work_description": "Gathered supplies and equipment needed for surgical procedure, scrubs, gowns, gloves. Set up sterile table with instruments, supplies, equipment, and medications/solutions needed for procedure. Performed appropriate counts with surgical team prior to the operation and before incision is closed. Draping of sterile field, passing instruments, etc., to surgeon during procedure while maintaining highest standard of sterile technique during procedure.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1999",
+                "end_date": "02/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Texas",
+                "start_date": "01/1995",
+                "end_date": "12/1999",
+                "domain": "Biology",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Academy of Health Sciences",
+                "start_date": "01/1995",
+                "end_date": "12/1997",
+                "domain": "Surgical Technology / Emergency Medicine",
+                "level": "Associate of Applied Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Extensive experience in leadership roles, including Vice President of Sales, General Manager, and Area Manager, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Sales Management",
+                "level": 5,
+                "explanation": "Proven track record of success in sales management, including developing and directing sales team training and development programs, and increasing sales production by 50%."
+            },
+            {
+                "name": "Business Development",
+                "level": 4,
+                "explanation": "Experience in developing new customer base and generating new accounts through effective networking and content marketing strategies, showing strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Managed budget forecasting, goal setting, and performance reporting for all accounts, demonstrating strong proficiency in budgeting."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Experience in planning, organizing, and overseeing daily activities of multiple production crews, showing strong proficiency in project management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Proven track record of success in customer service, including increasing customer satisfaction and reducing attrition rate by 8%, demonstrating strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Experience in creating and directing sales team training and development programs, showing strong proficiency in training and development."
+            },
+            {
+                "name": "Operations Management",
+                "level": 4,
+                "explanation": "Experience in managing payroll, profits and losses, customer service, and sales for multiple locations, demonstrating strong proficiency in operations management."
+            },
+            {
+                "name": "Surgical Technology",
+                "level": 3,
+                "explanation": "Experience as a Surgical Technician II, but limited to a specific role and time period, showing solid working proficiency."
+            },
+            {
+                "name": "Biology",
+                "level": 2,
+                "explanation": "Education in biology, but no direct work experience, showing some practical experience."
+            }
+        ]
+    }
+}

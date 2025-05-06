@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Served as central point of contact for employee relations matters. Processed onboarding and new hire paperwork to ensure all employees were in company system for employment and payroll purposes. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.",
+                "company_level": "Mid-level",
+                "start_date": "04/2013",
+                "end_date": "10/2013"
+            },
+            {
+                "role_name": "Office Administrative Assistant",
+                "work_description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Screened telephone calls and inquiries and directed them as appropriate. Designed electronic file systems and maintained electronic and paper files.",
+                "company_level": "Mid-level",
+                "start_date": "06/2009",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Waitress",
+                "work_description": "Assisted guests with making menu choices in an informative and helpful fashion. Maintained knowledge of current menu items, garnishes, ingredients and preparation methods. Delivered exceptional service by greeting and serving customers in a timely, friendly manner.",
+                "company_level": "Small",
+                "start_date": "08/2010",
+                "end_date": "12/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "North Carolina Agricultural & Technical State University",
+                "start_date": "01/2008",
+                "end_date": "12/2012",
+                "domain": "Psychology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Employee Relations",
+                "level": 3,
+                "explanation": "Served as central point of contact for employee relations matters, showing a solid working proficiency."
+            },
+            {
+                "name": "Onboarding",
+                "level": 3,
+                "explanation": "Processed onboarding and new hire paperwork, indicating a solid working proficiency in onboarding processes."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 2,
+                "explanation": "Ensured all employees were in company system for employment and payroll purposes, suggesting some practical experience in payroll management."
+            },
+            {
+                "name": "Reception Management",
+                "level": 3,
+                "explanation": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information, showing a solid working proficiency."
+            },
+            {
+                "name": "File Management",
+                "level": 3,
+                "explanation": "Designed electronic file systems and maintained electronic and paper files, indicating a solid working proficiency in file management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Delivered exceptional service by greeting and serving customers in a timely, friendly manner, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Screened telephone calls and inquiries and directed them as appropriate, suggesting a solid working proficiency in communication."
+            }
+        ]
+    }
+}

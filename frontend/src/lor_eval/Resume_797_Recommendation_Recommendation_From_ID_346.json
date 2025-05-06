@@ -1,0 +1,22 @@
+{
+    "resume_file": "797.json",
+    "recommendation_file": "Recommendation_From_ID_346.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in financial services, but the actual duration is over 15 years, not three years as stated.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Budgeting",
+            "Financial Analysis",
+            "Accounting",
+            "Taxation",
+            "Leadership",
+            "Financial Planning",
+            "Auditing",
+            "Financial System Implementation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "807.json",
+    "recommendation_file": "Recommendation_From_ID_372.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written in a way that is overly promotional and lacks specific examples from the candidate's resume. However, the language is formal and there are no obvious red flags.",
+        "verified_skills": [
+            "Management",
+            "Leadership",
+            "Financial Analysis",
+            "Project Management",
+            "Communication",
+            "Team Collaboration",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's management and leadership skills, as well as their ability to drive results in high-stakes projects. However, it does not provide specific examples from the candidate's resume and seems to be written in a way that is overly promotional."
+    }
+}

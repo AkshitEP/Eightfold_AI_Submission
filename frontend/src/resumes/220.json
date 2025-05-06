@@ -1,0 +1,104 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Information Technology and Analytics",
+                "work_description": "Directed the firm's word-wide Information Technology strategy. Established and instituted policies, procedures and technology to mitigate corporate security risk and position ZAIS for Sarbanes-Oxley act compliance. Identified process improvement opportunities and recommended solutions and budget requirements to management committee. Managed team of 6 resources responsible for technology management and support operations encompassing all aspects of IT infrastructure including workstations, server platforms, IP telephony, L3 network infrastructure, network security, disaster recovery, Storage Area Networks and videoconferencing.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2005",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Directed hardware and software configuration, installation, troubleshooting, and support activities. Oversaw administration of network infrastructure, business systems, cabling and circuits, and telecommunications platforms. Established and managed relationships with technology vendors and service providers. Monitored and tracked call volumes, service requests, and performance metrics.",
+                "company_level": "Mid-level",
+                "start_date": "01/2002",
+                "end_date": "01/2005"
+            },
+            {
+                "role_name": "Systems Administrator",
+                "work_description": "Administered and supported 250 client node Windows NT environment. Planned, configured and administered the upgrade of Windows NT to Windows 2000. Maintained DNS, WINS and DHCP in multi-site environment. Maintained 85 node development server environment. Engineered and deployed System Management Server 2.0 infrastructure.",
+                "company_level": "Mid-level",
+                "start_date": "01/2000",
+                "end_date": "01/2002"
+            },
+            {
+                "role_name": "Data/Systems Administrator",
+                "work_description": "Oversee and modify the daily download of data from several distributors. Uploaded data to appropriate SQL databases. Maintained and perform hardware/software upgrades on Windows FTP servers.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1998",
+                "end_date": "01/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Rutgers University",
+                "start_date": "01/1994",
+                "end_date": "12/1998",
+                "domain": "Psychology/History",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "IT Strategy",
+                "level": 5,
+                "explanation": "Directed the firm's worldwide Information Technology strategy, indicating expert-level mastery."
+            },
+            {
+                "name": "IT Management",
+                "level": 5,
+                "explanation": "Managed teams of up to 6 resources responsible for technology management and support operations, showing expert-level proficiency."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Administered and supported large-scale network environments, including Windows NT, Windows 2000, and IP telephony, indicating strong proficiency."
+            },
+            {
+                "name": "System Administration",
+                "level": 4,
+                "explanation": "Administered and supported various systems, including Windows NT, Windows 2000, and SQL databases, showing strong proficiency."
+            },
+            {
+                "name": "Disaster Recovery",
+                "level": 3,
+                "explanation": "Managed disaster recovery operations, indicating a solid working proficiency."
+            },
+            {
+                "name": "Security Risk Management",
+                "level": 3,
+                "explanation": "Established and instituted policies and procedures to mitigate corporate security risk, showing a solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Identified process improvement opportunities and recommended solutions, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Directed teams and managed relationships with technology vendors and service providers, showing strong proficiency in leadership."
+            },
+            {
+                "name": "SQL",
+                "level": 2,
+                "explanation": "Uploaded data to SQL databases, indicating some practical experience."
+            },
+            {
+                "name": "Windows NT",
+                "level": 3,
+                "explanation": "Administered and supported Windows NT environments, indicating a solid working proficiency."
+            },
+            {
+                "name": "Windows 2000",
+                "level": 3,
+                "explanation": "Planned, configured, and administered the upgrade of Windows NT to Windows 2000, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

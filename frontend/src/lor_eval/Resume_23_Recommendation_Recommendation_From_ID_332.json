@@ -1,0 +1,23 @@
+{
+    "resume_file": "23.json",
+    "recommendation_file": "Recommendation_From_ID_332.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Risk Management",
+            "Financial Analysis",
+            "Compliance",
+            "Communication",
+            "Financial Products",
+            "Regulatory Knowledge",
+            "Team Management",
+            "Business Process Improvement"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and compliance expertise. The recommender's experience working on projects funded by USAID and the US Army Corps of Engineers adds credibility to their assessment of the candidate's skills."
+    }
+}

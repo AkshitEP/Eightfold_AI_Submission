@@ -1,0 +1,65 @@
+{
+    "target_id": "920",
+    "recommendations": [
+        {
+            "recommender_id": "145",
+            "recommendation": {
+                "resume_file": "920.json",
+                "recommendation_file": "Recommendation_From_ID_145.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Problem-Solving",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and managerial abilities. The source of the recommendation appears to be a peer, as they mention working alongside the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "953",
+            "recommendation": {
+                "resume_file": "920.json",
+                "recommendation_file": "Recommendation_From_ID_953.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Problem-Solving",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their data analysis, problem-solving, and communication skills. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "608",
+            "recommendation": {
+                "resume_file": "920.json",
+                "recommendation_file": "Recommendation_From_ID_608.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their data analysis and leadership abilities."
+                }
+            }
+        }
+    ]
+}

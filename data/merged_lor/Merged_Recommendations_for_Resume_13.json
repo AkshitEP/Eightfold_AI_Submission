@@ -1,0 +1,47 @@
+{
+    "target_id": "13",
+    "recommendations": [
+        {
+            "recommender_id": "987",
+            "recommendation": {
+                "resume_file": "13.json",
+                "recommendation_file": "Recommendation_From_ID_987.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Staffing Management",
+                        "Marketing Strategy",
+                        "HR Support",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment services, staffing partnerships, and marketing strategies. The recommender's position as a director in clinical research operations adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "786",
+            "recommendation": {
+                "resume_file": "13.json",
+                "recommendation_file": "Recommendation_From_ID_786.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation appears to be written for a different professional, and some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Staffing Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to be partially genuine, but some claims seem exaggerated or unsupported."
+                }
+            }
+        }
+    ]
+}

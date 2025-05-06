@@ -1,0 +1,116 @@
+{
+    "target_id": "56",
+    "recommendations": [
+        {
+            "recommender_id": "69",
+            "recommendation": {
+                "resume_id": 56,
+                "recommendation_file": "Recommendation_From_ID_69.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Management",
+                        "Desktop Support",
+                        "Leadership",
+                        "Data Migration",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical leadership and analytical abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "792",
+            "recommendation": {
+                "resume_id": 56,
+                "recommendation_file": "Recommendation_From_ID_792.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Management",
+                        "Desktop Support",
+                        "Leadership",
+                        "Data Migration",
+                        "Network Attached Storage (NAS)",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership skills. However, the recommendation source is an HR Assistant Intern, which may not be directly familiar with the candidate's technical work."
+                }
+            }
+        },
+        {
+            "recommender_id": "741",
+            "recommendation": {
+                "resume_id": 56,
+                "recommendation_file": "Recommendation_From_ID_741.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Management",
+                        "Desktop Support",
+                        "Leadership",
+                        "Data Migration",
+                        "Network Attached Storage (NAS)",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "901",
+            "recommendation": {
+                "resume_id": 56,
+                "recommendation_file": "Recommendation_From_ID_901.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Management",
+                        "Desktop Support",
+                        "Leadership",
+                        "Data Migration",
+                        "Network Attached Storage (NAS)",
+                        "IT Project Management",
+                        "Remote Desktop Connection",
+                        "Robocopy"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership, and problem-solving skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "872",
+            "recommendation": {
+                "resume_id": 56,
+                "recommendation_file": "Recommendation_From_ID_872.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Management",
+                        "Desktop Support",
+                        "Leadership",
+                        "Data Migration",
+                        "Network Attached Storage (NAS)",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership skills."
+                }
+            }
+        }
+    ]
+}

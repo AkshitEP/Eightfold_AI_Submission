@@ -1,0 +1,69 @@
+{
+    "target_id": "788",
+    "recommendations": [
+        {
+            "recommender_id": "861",
+            "recommendation": {
+                "resume_file": "788.json",
+                "recommendation_file": "Recommendation_From_ID_861.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Administrative Support",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and communication skills. The recommendation also highlights the candidate's military background and its positive impact on their work ethic and problem-solving skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "622",
+            "recommendation": {
+                "resume_file": "788.json",
+                "recommendation_file": "Recommendation_From_ID_622.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the writer's claim of being a Customer Service Agent for over a decade, which is not directly supported by the resume. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Administrative Support",
+                        "Attention to Detail",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills and work ethic. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "644",
+            "recommendation": {
+                "resume_file": "788.json",
+                "recommendation_file": "Recommendation_From_ID_644.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and some claims may be slightly exaggerated.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Administrative Support",
+                        "Attention to Detail",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service and communication skills, which align well with their experience as a Concierge/Doorman. However, the recommender's relationship to the candidate is unclear, and some claims may be slightly exaggerated."
+                }
+            }
+        }
+    ]
+}

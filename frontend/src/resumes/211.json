@@ -1,0 +1,104 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "VzW Customer Tech Advocate",
+                "work_description": "Provided technical consultations for VzW HQ team, and interfaced into the ALU Development communities, advocating VzW requirements and new feature requests. Facilitated ALU team issues, projects, and communications with customer Verizon Wireless as it relates to the LTE program.",
+                "company_level": "Large Corporation",
+                "start_date": "02/1964",
+                "end_date": "02/1964"
+            },
+            {
+                "role_name": "Cell First Office Application Engineer FOA Engineer",
+                "work_description": "Team led for FOA cell software release for CDMA and EVDO for R16.11, R17.12, R19.0, R21.0, R23.0, R25.0, R26.01, R27.0, R27.05, R28.04, 31.0 and 31.10.",
+                "company_level": "Large Corporation",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            },
+            {
+                "role_name": "RF Optimization Engineer",
+                "work_description": "Led project planning to attain exit criteria goals for CAT/TAC (Communications Authority of Thailand/ Total Access Communications) in Bangkok; Phil Tel, Philippines; TelCel, Caracas, Valencia & Maracay, Seven Cities, Nine Cities and Second Carrier Project in Venezuela customers for newly deployed mobile base stations.",
+                "company_level": "Large Corporation",
+                "start_date": "09/1997",
+                "end_date": "05/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Milwaukee School of Engineering",
+                "start_date": "Unknown",
+                "end_date": "11/1997",
+                "domain": "Electrical Engineering",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Wireless Networking",
+                "description": "Participated in various projects, including CDMA, 3G 1x-EVDO Rev-0 and Rev-A, WiMax (802.16) Multi-media Class, and LTE bootcamp.",
+                "skills": [
+                    "CDMA",
+                    "3G",
+                    "WiMax",
+                    "LTE",
+                    "UNIX"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Wireless Networking",
+                "level": 5,
+                "explanation": "Extensive experience in various wireless technologies, including CDMA, 3G, WiMax, and LTE, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Led multiple projects, including project planning and execution for RF optimization, showing strong proficiency."
+            },
+            {
+                "name": "Team Leadership",
+                "level": 4,
+                "explanation": "Led teams for FOA cell software release and RF optimization projects, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with customers, including VzW HQ team and ALU Development communities, showing strong proficiency."
+            },
+            {
+                "name": "UNIX",
+                "level": 3,
+                "explanation": "Participated in projects involving UNIX, indicating a solid working proficiency."
+            },
+            {
+                "name": "CDMA",
+                "level": 4,
+                "explanation": "Worked on multiple CDMA projects, including FOA cell software release, showing strong proficiency."
+            },
+            {
+                "name": "3G",
+                "level": 3,
+                "explanation": "Participated in projects involving 3G, indicating a solid working proficiency."
+            },
+            {
+                "name": "WiMax",
+                "level": 3,
+                "explanation": "Participated in projects involving WiMax, indicating a solid working proficiency."
+            },
+            {
+                "name": "LTE",
+                "level": 4,
+                "explanation": "Worked on multiple LTE projects, including bootcamp, showing strong proficiency."
+            },
+            {
+                "name": "Electrical Engineering",
+                "level": 4,
+                "explanation": "Graduated with a Bachelor of Science in Electrical Engineering, indicating strong proficiency in the field."
+            }
+        ]
+    }
+}

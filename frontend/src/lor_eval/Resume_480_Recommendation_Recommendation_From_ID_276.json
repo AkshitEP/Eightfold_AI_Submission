@@ -1,0 +1,21 @@
+{
+    "resume_file": "480.json",
+    "recommendation_file": "Recommendation_From_ID_276.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reporting",
+            "Financial Compliance",
+            "Investment Analysis",
+            "Microsoft Excel",
+            "Leadership",
+            "Financial Planning",
+            "Accounting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and strategic planning expertise. The source of the recommendation is a fellow finance professional in a senior leadership role, adding credibility to the endorsement."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "656.json",
+    "recommendation_file": "Recommendation_From_ID_525.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. The claim of the candidate being the 'founder and CEO' is not supported by the resume.",
+        "verified_skills": [
+            "Nursing Care",
+            "Leadership",
+            "Staff Management",
+            "Education and Training",
+            "Electronic Medical Records",
+            "Workflow Analysis",
+            "Quality Assurance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing care and leadership abilities. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

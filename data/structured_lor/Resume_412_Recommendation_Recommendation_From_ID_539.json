@@ -1,0 +1,12 @@
+{
+    "resume_file": "412.json",
+    "recommendation_file": "Recommendation_From_ID_539.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Exaggerated and unrealistic claims, informal language, and statistically improbable claims detected.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems exaggerated and unrealistic, with claims that the candidate's expertise in mortgage banking has directly enhanced the operational efficiencies of a healthcare practice. The language used is overly flattering, and the recommendation seems to be stretching the candidate's skills and experiences to fit a different field."
+    }
+}

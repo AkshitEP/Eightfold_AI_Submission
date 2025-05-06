@@ -1,0 +1,47 @@
+{
+    "target_id": "357",
+    "recommendations": [
+        {
+            "recommender_id": "275",
+            "recommendation": {
+                "resume_file": "357.json",
+                "recommendation_file": "Recommendation_From_ID_275.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Cash Handling",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, sales, and leadership abilities. The recommendation source is the owner and operator of the business, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "806",
+            "recommendation": {
+                "resume_file": "357.json",
+                "recommendation_file": "Recommendation_From_ID_806.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions the candidate's experience as a Sales Associate and Cashier, but the recommender's own roles as a Quality Analyst and Senior Record Keeping Specialist seem unrelated to the candidate's job history. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Communication",
+                        "Time Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service skills, ability to work under pressure, and leadership abilities, which align with their job history and skills. However, the recommender's own roles and experience seem unrelated to the candidate's job history, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

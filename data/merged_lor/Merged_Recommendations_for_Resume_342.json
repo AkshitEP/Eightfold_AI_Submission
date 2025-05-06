@@ -1,0 +1,49 @@
+{
+    "target_id": "342",
+    "recommendations": [
+        {
+            "recommender_id": "710",
+            "recommendation": {
+                "resume_file": "342.json",
+                "recommendation_file": "Recommendation_From_ID_710.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting",
+                        "Financial Analysis",
+                        "Tax Preparation",
+                        "Auditing",
+                        "Financial Planning",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting abilities, financial report generation, and customer account management. The source of the recommendation appears to be a peer or colleague, given the context and tone of the letter."
+                }
+            }
+        },
+        {
+            "recommender_id": "479",
+            "recommendation": {
+                "resume_file": "342.json",
+                "recommendation_file": "Recommendation_From_ID_479.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims, unclear relationship between recommender and candidate",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Customer Relationship Management",
+                        "Communication",
+                        "Conflict Resolution"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but raises some concerns about its authenticity and objectivity."
+                }
+            }
+        }
+    ]
+}

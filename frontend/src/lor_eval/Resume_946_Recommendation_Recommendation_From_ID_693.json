@@ -1,0 +1,17 @@
+{
+    "resume_id": 946,
+    "recommendation_file": "Recommendation_From_ID_693.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Staff Accountant seems unrelated to the candidate's experience. However, the recommendation provides specific examples of the candidate's skills and performance.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem-Solving",
+            "Time Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, problem-solving, and leadership abilities. However, the recommender's role and relationship to the candidate are unclear."
+    }
+}

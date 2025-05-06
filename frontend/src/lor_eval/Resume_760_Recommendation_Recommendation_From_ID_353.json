@@ -1,0 +1,17 @@
+{
+    "resume_file": "760.json",
+    "recommendation_file": "Recommendation_From_ID_353.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's work experience. The language is formal, but the recommendation is written by the Director of Information Technology, which may not be directly familiar with the candidate's work in aircraft maintenance.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Quality Control",
+            "Troubleshooting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and technical expertise, but the source is not directly related to the candidate's work experience. The recommendation is well-written and provides specific examples of the candidate's skills, but the lack of direct familiarity with the candidate's work may raise some concerns."
+    }
+}

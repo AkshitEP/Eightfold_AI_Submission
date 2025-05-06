@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Branch Banker",
+                "work_description": "Provide exceptional customer service to all business and retail customers. Understand financial needs of customers while building and deepening relationships. Open and service customer accounts in an efficient and professional manner. Actively participate in outbound sales efforts to expand customer base. Prepare and participate in weekly team sales meetings and daily huddles. Loan Officer-Applications, Submissions, Customer documentation, Close, Book.",
+                "company_level": "Mid-level",
+                "start_date": "07/2004",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Branch Supervisor",
+                "work_description": "Managed and coach team while maintaining workforce stability by insuring knowledge of bank products, procedures, and polices. Managed daily branch operations including but not limited to cash standards, regulations, compliance and weekly, monthly, quarterly, and annual audits. Understand financial needs of customers while building and deepening relationships by cross-selling bank products and services. Develop and expand new and existing consumer and commercial accounts.",
+                "company_level": "Mid-level",
+                "start_date": "06/2003",
+                "end_date": "07/2004"
+            },
+            {
+                "role_name": "Retail Banking Officer",
+                "work_description": "Oversee Branch operations and manage teller staff to ensure following bank's policies and procedures. Open and service customer accounts in an efficient and professional manner. Provide exceptional customer service to consumer and commercial customers. Identify and refer prospects to business partners. Loan Officer-Applications, Submissions, Customer documentation, Close, Book.",
+                "company_level": "Mid-level",
+                "start_date": "10/1986",
+                "end_date": "09/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "Hammonton High School",
+                "start_date": "01/1980",
+                "end_date": "12/1986",
+                "domain": "",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Provided exceptional customer service to all business and retail customers across multiple roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales and Marketing",
+                "level": 4,
+                "explanation": "Actively participated in outbound sales efforts to expand customer base and cross-sold bank products and services, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed and coached teams, maintained workforce stability, and ensured knowledge of bank products, procedures, and policies, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Banking Operations",
+                "level": 5,
+                "explanation": "Overseen branch operations, managed teller staff, and ensured compliance with bank's policies and procedures, indicating expert-level mastery."
+            },
+            {
+                "name": "Loan Management",
+                "level": 4,
+                "explanation": "Handled loan applications, submissions, customer documentation, close, and book, suggesting strong proficiency in loan management."
+            },
+            {
+                "name": "Account Management",
+                "level": 4,
+                "explanation": "Opened and serviced customer accounts in an efficient and professional manner, indicating strong proficiency in account management."
+            },
+            {
+                "name": "Compliance and Risk Management",
+                "level": 3,
+                "explanation": "Ensured compliance with bank's policies and procedures, and managed daily branch operations, including cash standards, regulations, and audits, showing a solid working proficiency."
+            }
+        ]
+    }
+}

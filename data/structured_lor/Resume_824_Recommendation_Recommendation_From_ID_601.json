@@ -1,0 +1,17 @@
+{
+    "resume_file": "824.json",
+    "recommendation_file": "Recommendation_From_ID_601.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies between the recommendation and the resume, but no major red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Recruitment",
+            "Employee Relations",
+            "HR Functions",
+            "Employee Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but some minor inconsistencies raise concerns about accuracy. The recommendation verifies several skills mentioned in the resume, but the source of the recommendation is unknown."
+    }
+}

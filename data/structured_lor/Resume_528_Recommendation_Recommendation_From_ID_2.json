@@ -1,0 +1,16 @@
+{
+    "resume_file": "528.json",
+    "recommendation_file": "Recommendation_From_ID_2.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of 22 years of experience as a personal trainer seems inconsistent with the provided job history, which only spans around 19 years.",
+        "verified_skills": [
+            "Leadership",
+            "Management",
+            "Personal Training"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "768.json",
+    "recommendation_file": "Recommendation_From_ID_515.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Teaching",
+            "Event Planning",
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Music Performance",
+            "Vocal Performance",
+            "Piano Performance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and organizational abilities. The recommender's background as a Client Relations Advocate adds credibility to their assessment of the candidate's communication and teamwork skills."
+    }
+}

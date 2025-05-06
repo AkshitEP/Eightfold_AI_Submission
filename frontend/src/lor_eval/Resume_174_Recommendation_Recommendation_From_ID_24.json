@@ -1,0 +1,21 @@
+{
+    "resume_file": "174.json",
+    "recommendation_file": "Recommendation_From_ID_24.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Payroll Management",
+            "Payroll Accounting",
+            "General Accounting",
+            "Financial Reporting",
+            "Time and Labor Management",
+            "ADP Systems",
+            "Paychex Systems",
+            "Leadership"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their payroll management, accounting, and leadership abilities. The source of the recommendation is the Director of Finance, indicating a direct supervisory relationship."
+    }
+}

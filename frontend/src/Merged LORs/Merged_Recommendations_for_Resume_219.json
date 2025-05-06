@@ -1,0 +1,45 @@
+{
+    "target_id": "219",
+    "recommendations": [
+        {
+            "recommender_id": "193",
+            "recommendation": {
+                "resume_file": "219.json",
+                "recommendation_file": "Recommendation_From_ID_193.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected, including unrelated roles and industries.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Organizational Skills",
+                        "Payroll Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some skills and experiences from the resume, but also contains inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "309",
+            "recommendation": {
+                "resume_file": "219.json",
+                "recommendation_file": "Recommendation_From_ID_309.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Employee Relations",
+                        "Leadership",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, employee relations, and leadership abilities. The recommender's experience as an HR Director adds credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

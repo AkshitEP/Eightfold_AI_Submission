@@ -1,0 +1,19 @@
+{
+    "resume_file": "905.json",
+    "recommendation_file": "Recommendation_From_ID_38.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is slightly exaggerated. No statistically improbable claims detected.",
+        "verified_skills": [
+            "Microsoft Excel",
+            "Computer Networking",
+            "Data Entry",
+            "Database Management",
+            "Software Installation",
+            "Hardware Troubleshooting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and interpersonal skills. However, the source of the recommendation is unclear, and the language is slightly exaggerated, which raises some concerns about the credibility of the recommendation."
+    }
+}

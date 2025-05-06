@@ -1,0 +1,69 @@
+{
+    "target_id": "462",
+    "recommendations": [
+        {
+            "recommender_id": "289",
+            "recommendation": {
+                "resume_file": "462.json",
+                "recommendation_file": "Recommendation_From_ID_289.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Staff Management",
+                        "Business Development",
+                        "Financial Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, staff management, and customer service abilities. The recommender's relationship with the candidate is clear, and their endorsement is based on direct observation and experience working together."
+                }
+            }
+        },
+        {
+            "recommender_id": "853",
+            "recommendation": {
+                "resume_file": "462.json",
+                "recommendation_file": "Recommendation_From_ID_853.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Staff Management",
+                        "Customer Service",
+                        "Strategic planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and customer service abilities. However, the recommender's relationship to the candidate is unclear, and some claims seem exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "448",
+            "recommendation": {
+                "resume_file": "462.json",
+                "recommendation_file": "Recommendation_From_ID_448.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Staff Management",
+                        "Business Development",
+                        "Strategic planning",
+                        "Financial Management",
+                        "Customer Service",
+                        "Organization and Time management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, strategic planning, and employee development. However, the recommendation mentions the candidate being 'creative' which is not supported by the resume."
+                }
+            }
+        }
+    ]
+}

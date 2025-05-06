@@ -1,0 +1,27 @@
+{
+    "resume_id": 96,
+    "recommendation_file": "Recommendation_From_ID_74.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Network Administration",
+            "Windows Server Administration",
+            "Microsoft Active Directory Administration",
+            "Database Administration",
+            "Microsoft Exchange Server Administration",
+            "Technical Support",
+            "Leadership",
+            "Software Development",
+            "Hardware Installation and Configuration",
+            "Operating System Administration",
+            "Backup and Recovery",
+            "Security",
+            "Project Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The source of the recommendation is a peer, indicating a credible and informed assessment of the candidate's qualifications."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "302.json",
+    "recommendation_file": "Recommendation_From_ID_270.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender mentions the candidate's skills in data research, but the candidate's resume only mentions data analysis with a level of 2, indicating some practical experience but not extensive expertise.",
+        "verified_skills": [
+            "Human Resources",
+            "Employee Relations",
+            "Training and Development",
+            "Compliance",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in HR, but some claims seem exaggerated or unsupported. The recommender's relationship with the candidate is unclear, but their role as an HR Manager suggests a peer-level recommendation."
+    }
+}

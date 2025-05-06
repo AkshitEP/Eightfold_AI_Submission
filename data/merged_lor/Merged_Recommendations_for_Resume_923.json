@@ -1,0 +1,105 @@
+{
+    "target_id": "923",
+    "recommendations": [
+        {
+            "recommender_id": "638",
+            "recommendation": {
+                "resume_id": 923,
+                "recommendation_file": "Recommendation_From_ID_638.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Communication",
+                        "Social Work"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in social work, case management, and counseling, providing specific examples of their abilities and commitment to advocacy and support."
+                }
+            }
+        },
+        {
+            "recommender_id": "700",
+            "recommendation": {
+                "resume_file": "923.json",
+                "recommendation_file": "Recommendation_From_ID_700.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Social Work",
+                        "Case Management",
+                        "Counseling",
+                        "Communication",
+                        "Advocacy"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Family Advocate and their commitment to social work."
+                }
+            }
+        },
+        {
+            "recommender_id": "957",
+            "recommendation": {
+                "resume_file": "923.json",
+                "recommendation_file": "Recommendation_From_ID_957.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Social Work",
+                        "Case Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Family Advocate and highlighting their strengths in social work and communication."
+                }
+            }
+        },
+        {
+            "recommender_id": "719",
+            "recommendation": {
+                "resume_file": "923.json",
+                "recommendation_file": "Recommendation_From_ID_719.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Communication",
+                        "Social Work"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Family Advocate."
+                }
+            }
+        },
+        {
+            "recommender_id": "534",
+            "recommendation": {
+                "resume_file": "923.json",
+                "recommendation_file": "Recommendation_From_ID_534.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but overall seems genuine.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Social Work",
+                        "Communication",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but lacks specific examples or anecdotes to support the claims made. Minor inconsistencies in the recommendation, but overall seems genuine."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "target_id": "963",
+    "recommendations": [
+        {
+            "recommender_id": "623",
+            "recommendation": {
+                "resume_id": 963,
+                "recommendation_file": "Recommendation_From_ID_623.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Leadership",
+                        "Financial Planning",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning, leadership, and customer service skills. The source of the recommendation appears to be a Director of Finance, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "215",
+            "recommendation": {
+                "resume_file": "963.json",
+                "recommendation_file": "Recommendation_From_ID_215.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Leadership",
+                        "Sales Management",
+                        "Financial Planning",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and customer service skills. The source of the recommendation is a senior accountant, indicating a peer-level endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "577",
+            "recommendation": {
+                "resume_file": "963.json",
+                "recommendation_file": "Recommendation_From_ID_577.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Leadership",
+                        "Financial Planning",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, leadership, and financial planning abilities. The source of the recommendation is a Finance and Sales Consultant, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

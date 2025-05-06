@@ -1,0 +1,131 @@
+{
+    "target_id": "735",
+    "recommendations": [
+        {
+            "recommender_id": "69",
+            "recommendation": {
+                "resume_file": "735.json",
+                "recommendation_file": "Recommendation_From_ID_69.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims, lack of specific technical skill verification",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant, but contains some inconsistencies and exaggerated claims. It does not specifically verify any technical skills mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "388",
+            "recommendation": {
+                "resume_file": "735.json",
+                "recommendation_file": "Recommendation_From_ID_388.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be more focused on the candidate's leadership and collaboration skills rather than their technical skills.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "ITIL",
+                        "Healthcare IT"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's leadership and collaboration skills, but lacks specific examples of their technical skills. The recommendation seems to be more focused on the candidate's ability to work with others and lead teams rather than their technical expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "279",
+            "recommendation": {
+                "resume_file": "735.json",
+                "recommendation_file": "Recommendation_From_ID_279.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "ITIL",
+                        "Active Directory",
+                        "Office 365",
+                        "Leadership",
+                        "Business Analysis",
+                        "Architecture",
+                        "Healthcare IT"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and project management abilities in the healthcare IT domain."
+                }
+            }
+        },
+        {
+            "recommender_id": "121",
+            "recommendation": {
+                "resume_file": "735.json",
+                "recommendation_file": "Recommendation_From_ID_121.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "ITIL",
+                        "Leadership",
+                        "Healthcare IT"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and leadership abilities. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "76",
+            "recommendation": {
+                "resume_file": "735.json",
+                "recommendation_file": "Recommendation_From_ID_76.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's experience and qualifications are not clearly stated, and the language is somewhat generic.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "ITIL",
+                        "Healthcare IT"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in managing large-scale projects, leading teams, and delivering complex systems. However, the recommender's relationship to the candidate is unclear, and the language is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "775",
+            "recommendation": {
+                "resume_file": "735.json",
+                "recommendation_file": "Recommendation_From_ID_775.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "ITIL",
+                        "Active Directory",
+                        "Office 365",
+                        "Leadership",
+                        "Business Analysis",
+                        "Architecture",
+                        "Healthcare IT"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and leadership abilities. The source of the recommendation is a former Director of Information Technology and Chief Technology Officer, indicating a direct supervisory relationship."
+                }
+            }
+        }
+    ]
+}

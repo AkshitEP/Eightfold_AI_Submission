@@ -1,0 +1,137 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Manager",
+                "work_description": "Developed and managed web-based tools, including Statement of Work (SOW) Tracker and Service Level Agreement (SLA) Tracker. Maintained source control using Visual SourceSafe and hosted applications in IIS 7.0.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Software Engineer",
+                "work_description": "Designed and developed web-based tools in ASP .NET 3.5, using C# and PL/SQL programming languages. Enhanced E-Business applications and managed technological issues by analyzing codes and providing customizable solutions using SQL and Business Objects XI 3.1 tools.",
+                "company_level": "Mid-level",
+                "start_date": "07/2010",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Software Engineer",
+                "work_description": "Involved in technical support, resolving application issues, and fixing minor backend code issues using SQL. Assisted in data analysis, extraction, and archival in Oracle database according to customers' needs.",
+                "company_level": "Mid-level",
+                "start_date": "07/2010",
+                "end_date": "12/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Easwari Engineering College",
+                "start_date": "01/2006",
+                "end_date": "12/2010",
+                "domain": "Electronics/Communication",
+                "level": "Bachelor of Engineering"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "E-Business",
+                "description": "Developed web-based tools, including Statement of Work (SOW) Tracker and Service Level Agreement (SLA) Tracker.",
+                "skills": [
+                    "C#",
+                    "PL/SQL",
+                    "HTML",
+                    "AJAX",
+                    "CSS",
+                    "ASP.NET 3.5"
+                ]
+            },
+            {
+                "domain": "E-Business",
+                "description": "Developed web application in the E-Business platform used to diarize appointment details between LBG IT personnel and customers.",
+                "skills": [
+                    "ASP.NET 2.0",
+                    "PL/SQL",
+                    "HTML"
+                ]
+            },
+            {
+                "domain": "E-Business",
+                "description": "Developed Business Eye, an online E-Business application used in collecting, consolidating, and reporting LBG sales data.",
+                "skills": [
+                    "ASP.NET 2.0",
+                    "PL/SQL",
+                    "HTML"
+                ]
+            },
+            {
+                "domain": "E-Business",
+                "description": "Developed TRACX, an online E-Business application used by LBG employees for recording training and competency information undertaken by their colleagues.",
+                "skills": [
+                    "ASP.NET 2.0",
+                    "PL/SQL",
+                    "HTML"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "ASP .NET",
+                "level": 5,
+                "explanation": "Extensive experience with ASP .NET 2.0 and 3.5, having developed multiple web-based applications and tools, indicating expert-level mastery."
+            },
+            {
+                "name": "C#",
+                "level": 4,
+                "explanation": "Used C# programming language to design and develop web-based tools, showing strong proficiency."
+            },
+            {
+                "name": "PL/SQL",
+                "level": 4,
+                "explanation": "Used PL/SQL programming language to develop and enhance E-Business applications, showing strong proficiency."
+            },
+            {
+                "name": "SQL",
+                "level": 4,
+                "explanation": "Used SQL to analyze codes, provide customizable solutions, and manage technological issues, showing strong proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Involved in data analysis, extraction, and archival in Oracle database, showing a solid working proficiency."
+            },
+            {
+                "name": "Web Development",
+                "level": 5,
+                "explanation": "Developed multiple web-based tools and applications, including Statement of Work (SOW) Tracker and Service Level Agreement (SLA) Tracker, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed web-based tools and applications, showing a solid working proficiency."
+            },
+            {
+                "name": "Technical Support",
+                "level": 3,
+                "explanation": "Involved in technical support, resolving application issues, and fixing minor backend code issues, showing a solid working proficiency."
+            },
+            {
+                "name": "HTML",
+                "level": 4,
+                "explanation": "Used HTML to develop web-based applications, showing strong proficiency."
+            },
+            {
+                "name": "AJAX",
+                "level": 3,
+                "explanation": "Used AJAX to develop web-based tools, showing a solid working proficiency."
+            },
+            {
+                "name": "CSS",
+                "level": 3,
+                "explanation": "Used CSS to develop web-based tools, showing a solid working proficiency."
+            }
+        ]
+    }
+}

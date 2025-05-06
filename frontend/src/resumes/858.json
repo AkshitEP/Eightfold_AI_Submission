@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Corporate Accountant",
+                "work_description": "Implemented fixed assets internal controls, created depreciation schedules, files, and monitored capital expenditures. Accountable for fixed assets capitalization, depreciation, and amortization. Implemented payroll-HRO module, set up conferences calls, prepared implementation presentation, and trained staff. Analyzed general ledger accounts to ensure financial statements were accurate and reliable.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Senior Accountant/Analyst",
+                "work_description": "Prepared several reports such as operating expense reports, sales reports, revenue, and COGS analysis reports. Managed capital and non-capital projects, prepared fixed asset capitalization, fixed asset cycle count, reviewed for impairment, and retired assets as needed.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Performed general accounting duties, prepared journal entries, balanced month-end closing transactions, monitored inter-company transactions, and confirmed balances at month-end. Participated in the new ERP implementation and prepared monthly headcount reports.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Accounting Clerk",
+                "work_description": "Managed to downsize account reconciliation balance from 83 to 0.75 million dollars on open balances. Processed non-sufficient funds checks, ACH, and wires. Reconciled over 15 bank accounts, including FED account.",
+                "company_level": "Financial Institution",
+                "start_date": "01/2000",
+                "end_date": "01/2003"
+            },
+            {
+                "role_name": "Accounting Clerk",
+                "work_description": "Reconciled bank accounts cleared more than 0.75 million in open items. Monitored FED account discrepancies. Processed non-sufficient fund checks, ACH, and monitored Puerto Rico and Orlando transactions.",
+                "company_level": "Financial Institution",
+                "start_date": "01/1998",
+                "end_date": "01/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Universidad",
+                "start_date": "01/2007",
+                "end_date": "12/2009",
+                "domain": "Business Administration",
+                "level": "Graduate Diploma"
+            },
+            {
+                "university": "Universidad del Turabo",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Accounting",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 5,
+                "explanation": "Has extensive experience reconciling bank accounts, including FED accounts, and has successfully downsized account reconciliation balances, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over 15 years of experience in general accounting duties, including journal entries, month-end closing transactions, and inter-company transactions, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Implemented payroll-HRO module and trained staff, showing a solid working proficiency in payroll management."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Analyzed general ledger accounts to ensure financial statements were accurate and reliable, and prepared various reports, including operating expense reports and COGS analysis reports, indicating strong proficiency."
+            },
+            {
+                "name": "Fixed Asset Management",
+                "level": 4,
+                "explanation": "Implemented fixed assets internal controls, created depreciation schedules, and monitored capital expenditures, indicating strong proficiency in fixed asset management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Trained staff on payroll-HRO module implementation, showing some practical experience in leadership."
+            },
+            {
+                "name": "ERP Implementation",
+                "level": 3,
+                "explanation": "Participated in the new ERP implementation, showing a solid working proficiency in ERP implementation."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No direct mention of Microsoft Excel usage, but likely used for financial analysis and reporting, however, without direct evidence, the level is set to 0."
+            }
+        ]
+    }
+}

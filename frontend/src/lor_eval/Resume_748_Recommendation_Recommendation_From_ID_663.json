@@ -1,0 +1,22 @@
+{
+    "resume_file": "748.json",
+    "recommendation_file": "Recommendation_From_ID_663.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Financial Analysis",
+            "Auditing",
+            "Financial Planning",
+            "Accounting",
+            "Leadership",
+            "Risk Management",
+            "Compliance",
+            "Financial Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, analysis, and leadership abilities. The source of the recommendation is the AVP of Finance, indicating a supervisory relationship."
+    }
+}

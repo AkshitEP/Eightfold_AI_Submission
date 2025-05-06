@@ -1,0 +1,117 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Bank Teller",
+                "work_description": "Provide a positive customer experience that leads to improved satisfaction and sales. Process transactions accurately and efficiently in a fast-paced environment while simultaneously introducing products and services that meet the customer's needs and encouraging customers to expand their relationship with Bank of America.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Retail Sales Consultant",
+                "work_description": "Interacting among clients with a primary focus on business retention and new business roll outs; provided superior support services aligned to the client's priorities in order to drive loyalty and maximize the business value of their investment.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "05/2015"
+            },
+            {
+                "role_name": "Aviation Resource Manager",
+                "work_description": "Review, plan, and implement aircraft and crew schedules from day of scheduled events to 6 months in advance to ensure optimum crew and aircraft usage relative to clients requests while accounting for crew rest requirements, crew schedules, aircraft maintenance, and unexpected developments.",
+                "company_level": "Mid-level",
+                "start_date": "12/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Administrative Executive",
+                "work_description": "Provided high-level administrative support to 5 leading military officials by conducting research, preparing statistical reports, handling information requests, and performing clerical functions such as preparing correspondence, emailing, receiving visitors, arranging conference calls, and scheduling meetings.",
+                "company_level": "Mid-level",
+                "start_date": "07/2011",
+                "end_date": "12/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Jefferson County High School",
+                "start_date": "01/2008",
+                "end_date": "12/2012",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Community College of the Air Force",
+                "start_date": "01/2012",
+                "end_date": "12/2015",
+                "domain": "Aviation Management",
+                "level": "Certificate"
+            },
+            {
+                "university": "Georgia Southern University",
+                "start_date": "01/2015",
+                "end_date": "12/2016",
+                "domain": "Pre Nursing",
+                "level": "Associate's"
+            },
+            {
+                "university": "East Georgia State College",
+                "start_date": "01/2016",
+                "end_date": "12/2017",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Georgia Southern University",
+                "start_date": "01/2017",
+                "end_date": "12/2018",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided positive customer experience in a fast-paced environment as a Bank Teller, indicating strong proficiency."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Introduced products and services to customers as a Bank Teller, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Effectively managed multiple tasks and responsibilities in various roles, including Retail Sales Consultant and Aviation Resource Manager, indicating strong proficiency."
+            },
+            {
+                "name": "Scheduling",
+                "level": 4,
+                "explanation": "Planned and implemented aircraft and crew schedules as an Aviation Resource Manager, showing strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Provided high-level administrative support, conducted research, and prepared statistical reports in various roles, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Limited leadership experience, but has managed teams in some roles, indicating some practical experience."
+            },
+            {
+                "name": "Aviation Management",
+                "level": 3,
+                "explanation": "Worked as an Aviation Resource Manager, showing a solid working proficiency in aviation management."
+            },
+            {
+                "name": "Nursing",
+                "level": 0,
+                "explanation": "Although has a degree in Nursing, there is no direct work experience mentioned, indicating no practical experience."
+            }
+        ]
+    }
+}

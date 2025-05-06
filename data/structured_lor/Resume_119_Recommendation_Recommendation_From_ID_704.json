@@ -1,0 +1,19 @@
+{
+    "resume_file": "119.json",
+    "recommendation_file": "Recommendation_From_ID_704.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Human Resources",
+            "Communication",
+            "Performance Management",
+            "Compliance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, HR management, and communication abilities. The source of the recommendation is a Director of Information Technology, indicating a peer-level endorsement."
+    }
+}

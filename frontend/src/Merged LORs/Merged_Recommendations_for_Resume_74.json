@@ -1,0 +1,132 @@
+{
+    "target_id": "74",
+    "recommendations": [
+        {
+            "recommender_id": "918",
+            "recommendation": {
+                "resume_id": 74,
+                "recommendation_file": "Recommendation_From_ID_918.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "IT Management",
+                        "Technical Support",
+                        "Network Administration",
+                        "Hardware Maintenance",
+                        "Software Management",
+                        "Leadership",
+                        "Microsoft Windows",
+                        "Mac OS X",
+                        "Linux",
+                        "Cisco Infrastructure"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management, technical support, and problem-solving abilities. The recommender's role as an Adjunct Instructor and Project Manager suggests a level of familiarity with the candidate's work, but the exact nature of their relationship is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "236",
+            "recommendation": {
+                "resume_file": "74.json",
+                "recommendation_file": "Recommendation_From_ID_236.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "IT Management",
+                        "Technical Support",
+                        "Network Administration",
+                        "Software Management",
+                        "Microsoft Windows",
+                        "Mac OS X",
+                        "Linux",
+                        "Cisco Infrastructure"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management and technical support abilities. However, the recommender's background as an English Language Arts teacher may not provide direct insight into the candidate's technical expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "928",
+            "recommendation": {
+                "resume_id": 74,
+                "recommendation_file": "Recommendation_From_ID_928.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "IT Management",
+                        "Technical Support",
+                        "Network Administration",
+                        "Hardware Maintenance",
+                        "Software Management",
+                        "Leadership",
+                        "Microsoft Windows",
+                        "Mac OS X",
+                        "Linux",
+                        "Cisco Infrastructure"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "552",
+            "recommendation": {
+                "resume_id": 74,
+                "recommendation_file": "Recommendation_From_ID_552.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "IT Management",
+                        "Technical Support",
+                        "Network Administration",
+                        "Hardware Maintenance",
+                        "Software Management",
+                        "Leadership",
+                        "Microsoft Windows",
+                        "Mac OS X",
+                        "Linux",
+                        "Cisco Infrastructure"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical skills and leadership qualities. The source of the recommendation appears to be a peer, as they mention working closely with the candidate in a similar role."
+                }
+            }
+        },
+        {
+            "recommender_id": "886",
+            "recommendation": {
+                "resume_id": 74,
+                "recommendation_file": "Recommendation_From_ID_886.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's background as a Finance Director seems unrelated to the candidate's IT experience, raising some concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "IT Management",
+                        "Technical Support",
+                        "Network Administration",
+                        "Software Management",
+                        "Leadership",
+                        "Microsoft Windows",
+                        "Mac OS X",
+                        "Linux",
+                        "Cisco Infrastructure"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills and experience in IT management, but the recommender's background and lack of direct experience in IT raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

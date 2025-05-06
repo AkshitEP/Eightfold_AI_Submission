@@ -1,0 +1,67 @@
+{
+    "target_id": "779",
+    "recommendations": [
+        {
+            "recommender_id": "230",
+            "recommendation": {
+                "resume_file": "779.json",
+                "recommendation_file": "Recommendation_From_ID_230.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Staff Management",
+                        "Time Management",
+                        "Communication",
+                        "Data Entry",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and data management abilities. The source of the recommendation appears to be a peer or colleague, possibly a pharmacist or another supervisor, given their familiarity with the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "320",
+            "recommendation": {
+                "resume_file": "779.json",
+                "recommendation_file": "Recommendation_From_ID_320.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's claim of being an RN and Assistant Head Nurse Practice Leader is not supported by the resume. However, the recommender's description of the candidate's skills and experience aligns well with the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Staff Management",
+                        "Communication",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills, staff management abilities, and communication skills, which are all supported by the resume. However, the recommender's claim of being an RN and Assistant Head Nurse Practice Leader is not supported by the resume, which raises some concerns about the recommender's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "399",
+            "recommendation": {
+                "resume_file": "779.json",
+                "recommendation_file": "Recommendation_From_ID_399.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source's relationship to the candidate is unclear and the language is somewhat generic. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Staff Management",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and management skills, which align with their experience as a Lead Pharmacy Technician Advocate Supervisor. However, the source's relationship to the candidate is unclear, and the language is somewhat generic."
+                }
+            }
+        }
+    ]
+}

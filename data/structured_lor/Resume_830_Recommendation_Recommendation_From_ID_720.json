@@ -1,0 +1,21 @@
+{
+    "resume_file": "830.json",
+    "recommendation_file": "Recommendation_From_ID_720.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Office Administration",
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Organization",
+            "Medical Assistance",
+            "Patient Care",
+            "Medical Records Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative tasks, customer service, and medical assistance. The source of the recommendation is a Patient Health Advocate, indicating a peer-level relationship."
+    }
+}

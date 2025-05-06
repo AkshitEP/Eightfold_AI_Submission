@@ -1,0 +1,90 @@
+{
+    "target_id": "986",
+    "recommendations": [
+        {
+            "recommender_id": "115",
+            "recommendation": {
+                "resume_id": 986,
+                "recommendation_file": "Recommendation_From_ID_115.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "715",
+            "recommendation": {
+                "resume_file": "986.json",
+                "recommendation_file": "Recommendation_From_ID_715.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat exaggerated. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales",
+                        "Time Management",
+                        "Communication",
+                        "Team Management",
+                        "Security",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, the source of the recommendation is unclear, and the language is somewhat exaggerated, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "613",
+            "recommendation": {
+                "resume_file": "986.json",
+                "recommendation_file": "Recommendation_From_ID_613.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales",
+                        "Time Management",
+                        "Communication",
+                        "Team Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and sales abilities. However, it does not mention some of the candidate's other skills, such as Aviation or Inventory Management."
+                }
+            }
+        },
+        {
+            "recommender_id": "916",
+            "recommendation": {
+                "resume_file": "986.json",
+                "recommendation_file": "Recommendation_From_ID_916.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's experience as a Fitness Director, but lacks specific examples or metrics to support the claims. The tone is overly positive, and some statements seem unrealistic."
+                }
+            }
+        }
+    ]
+}

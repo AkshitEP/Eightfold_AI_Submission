@@ -1,0 +1,117 @@
+{
+    "target_id": "118",
+    "recommendations": [
+        {
+            "recommender_id": "814",
+            "recommendation": {
+                "resume_file": "118.json",
+                "recommendation_file": "Recommendation_From_ID_814.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Collaboration",
+                        "Event Planning",
+                        "Artistic Direction",
+                        "Salesforce"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and organizational abilities. The source of the recommendation is a peer, indicating a strong working relationship and firsthand knowledge of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "44",
+            "recommendation": {
+                "resume_file": "118.json",
+                "recommendation_file": "Recommendation_From_ID_44.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Statistically improbable claims and lack of specific examples or evidence from the resume. Recommendation appears to be more focused on the sales and customer service representative rather than the lead administrator.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks specific examples or evidence from the resume and appears to be more focused on the sales and customer service representative rather than the lead administrator. The claim of a 100% customer satisfaction rate is statistically improbable and raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "395",
+            "recommendation": {
+                "resume_file": "118.json",
+                "recommendation_file": "Recommendation_From_ID_395.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Collaboration",
+                        "Event Planning",
+                        "Artistic Direction",
+                        "Salesforce"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative abilities, interpersonal skills, and attention to detail. However, it does not cover all key skills and experiences mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "599",
+            "recommendation": {
+                "resume_file": "118.json",
+                "recommendation_file": "Recommendation_From_ID_599.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Collaboration",
+                        "Event Planning",
+                        "Salesforce"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative abilities and commitment to enhancing operational effectiveness."
+                }
+            }
+        },
+        {
+            "recommender_id": "144",
+            "recommendation": {
+                "resume_file": "118.json",
+                "recommendation_file": "Recommendation_From_ID_144.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Collaboration",
+                        "Event Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative capabilities, communication skills, and problem-solving abilities. The source of the recommendation is a Creative Director who has worked alongside the candidate, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

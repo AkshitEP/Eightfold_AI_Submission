@@ -1,0 +1,19 @@
+{
+    "resume_file": "10.json",
+    "recommendation_file": "Recommendation_From_ID_962.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Client Service",
+            "Process Improvement",
+            "Risk Management",
+            "Team Management",
+            "AML/KYC Policy"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, client service, and process improvement abilities. The source of the recommendation is a Senior Compliance Officer, indicating a peer-level relationship."
+    }
+}

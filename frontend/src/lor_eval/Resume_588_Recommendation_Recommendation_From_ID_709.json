@@ -1,0 +1,17 @@
+{
+    "resume_file": "588.json",
+    "recommendation_file": "Recommendation_From_ID_709.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but there are inconsistencies and exaggerated claims. The recommender's background in nursing and quality improvement does not align with the candidate's experience, and the recommendation seems overly flattering.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Leadership",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in customer service and problem-solving, but it lacks specific examples and details from the candidate's work experience. The recommender's background and expertise do not align with the candidate's experience, which raises concerns about the authenticity of the recommendation."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "target_id": "861",
+    "recommendations": [
+        {
+            "recommender_id": "732",
+            "recommendation": {
+                "resume_file": "861.json",
+                "recommendation_file": "Recommendation_From_ID_732.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems overly flattering and lacks specific examples or concrete evidence to support the claims made. The source of the recommendation is unclear.",
+                    "verified_skills": [
+                        "Communication",
+                        "Process Improvement",
+                        "Problem-Solving",
+                        "Leadership",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in communication, organizational skills, process improvement, and problem-solving, but lacks specific examples or concrete evidence to support the claims made."
+                }
+            }
+        },
+        {
+            "recommender_id": "168",
+            "recommendation": {
+                "resume_file": "861.json",
+                "recommendation_file": "Recommendation_From_ID_168.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Project Management",
+                        "Leadership",
+                        "Collaboration",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and project management capabilities. The recommendation highlights the candidate's ability to manage communication, develop comprehensive training programs, and handle complex audits, which are all relevant to their current role as an HR Specialist."
+                }
+            }
+        },
+        {
+            "recommender_id": "647",
+            "recommendation": {
+                "resume_file": "861.json",
+                "recommendation_file": "Recommendation_From_ID_647.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and lack of concrete examples, but no obvious red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Training",
+                        "Communication",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's experience as an HR Specialist, but does not specifically mention many of the skills listed in the resume."
+                }
+            }
+        }
+    ]
+}

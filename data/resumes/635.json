@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Production Excellence Specialist",
+                "work_description": "Knowledge and use of Operational Equipment Efficiency (OEE) in PCB manufacturing environment. Expertise and proficiency in LEAN Manufacturing and Six Sigma Methodologies to identify direct and analyze machine group cells for Printed Circuit Board (PCB) and electromechanical components.",
+                "company_level": "Mid-level",
+                "start_date": "10/2015",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Procurement and Operations Manager",
+                "work_description": "Developed, updated and maintained SOPs, Client Guidelines, HR and Technical Manuals and Protocols for Insight Company Managed professionally 14 employees for Insight Quality Services Asian operations and accountable for implementation of strategic objectives, developing operations strategy, planning production services and client communication",
+                "company_level": "Mid-level",
+                "start_date": "02/2014",
+                "end_date": "09/2015"
+            },
+            {
+                "role_name": "Internal Production Auditor",
+                "work_description": "Actively suggested operational improvements to enhance quality, improve production times and reduce costs. Helped achieve company goals by supporting production workers.",
+                "company_level": "Mid-level",
+                "start_date": "09/2013",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Aviation Boatswains Fuels Technician",
+                "work_description": "Successfully trained 54 personnel in QA protocols, equipment maintenance, MSDS and SOPs for Fuels evolutions. Effective decision-maker in high-pressure environments.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2006",
+                "end_date": "12/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Maryland University College",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Information Systems Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "LEAN Manufacturing",
+                "level": 4,
+                "explanation": "Demonstrated expertise and proficiency in LEAN Manufacturing methodologies, indicating strong proficiency."
+            },
+            {
+                "name": "Six Sigma Methodologies",
+                "level": 4,
+                "explanation": "Utilized Six Sigma Methodologies to analyze machine group cells, suggesting strong proficiency."
+            },
+            {
+                "name": "Operational Efficiency",
+                "level": 4,
+                "explanation": "Applied knowledge of Operational Equipment Efficiency (OEE) in PCB manufacturing environment, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed 14 employees and implemented strategic objectives, demonstrating strong leadership skills."
+            },
+            {
+                "name": "Quality Assurance",
+                "level": 4,
+                "explanation": "Trained personnel in QA protocols and helped achieve company goals, suggesting strong proficiency in quality assurance."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Developed and maintained SOPs, Client Guidelines, HR and Technical Manuals and Protocols, indicating solid working proficiency in project management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively communicated with production workers and clients, demonstrating solid working proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Suggested operational improvements and made effective decisions in high-pressure environments, indicating solid working proficiency in problem-solving."
+            }
+        ]
+    }
+}

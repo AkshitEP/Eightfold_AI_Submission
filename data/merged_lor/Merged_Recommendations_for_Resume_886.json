@@ -1,0 +1,69 @@
+{
+    "target_id": "886",
+    "recommendations": [
+        {
+            "recommender_id": "798",
+            "recommendation": {
+                "resume_file": "886.json",
+                "recommendation_file": "Recommendation_From_ID_798.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Payroll Management",
+                        "Microsoft Excel",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Quickbooks"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their expertise in finance, leadership, and teamwork. The source of the recommendation is a peer, indicating a strong working relationship and firsthand knowledge of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "34",
+            "recommendation": {
+                "resume_file": "886.json",
+                "recommendation_file": "Recommendation_From_ID_34.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the recommender's attempt to draw parallels between unrelated fields.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Microsoft Excel",
+                        "Financial Analysis",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's experience and skills, but there are some minor inconsistencies that raise concerns about the recommender's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "894",
+            "recommendation": {
+                "resume_file": "886.json",
+                "recommendation_file": "Recommendation_From_ID_894.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Payroll Management",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Data Entry",
+                        "Quickbooks"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and analytical skills. The source of the recommendation is a peer, indicating a collaborative working relationship."
+                }
+            }
+        }
+    ]
+}

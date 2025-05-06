@@ -1,0 +1,18 @@
+{
+    "resume_file": "715.json",
+    "recommendation_file": "Recommendation_From_ID_936.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and the recommender's role as a concierge is not directly related to the candidate's experience.",
+        "verified_skills": [
+            "Care Coordination",
+            "Medication Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional organizational skills, attention to detail, and commitment to patient education and self-management. However, the recommender's relationship to the candidate and their role as a concierge are unclear, which may impact the credibility of the recommendation."
+    }
+}

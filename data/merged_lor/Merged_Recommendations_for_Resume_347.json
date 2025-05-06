@@ -1,0 +1,80 @@
+{
+    "target_id": "347",
+    "recommendations": [
+        {
+            "recommender_id": "760",
+            "recommendation": {
+                "resume_file": "347.json",
+                "recommendation_file": "Recommendation_From_ID_760.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems to be fraudulent, with obvious signs of exaggeration or misrepresentation. The details provided do not match the candidate's experience or skills.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not genuine and is trying to misrepresent the candidate's qualifications."
+                }
+            }
+        },
+        {
+            "recommender_id": "468",
+            "recommendation": {
+                "resume_file": "347.json",
+                "recommendation_file": "Recommendation_From_ID_468.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Problem-Solving",
+                        "Business Analysis",
+                        "Communication",
+                        "Digital Marketing"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, work ethic, and multilingual capabilities. However, it does not cover all key skills and experiences mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "552",
+            "recommendation": {
+                "resume_file": "347.json",
+                "recommendation_file": "Recommendation_From_ID_552.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation. The recommender's title is mentioned as Information Technology Manager, but the candidate's experience in IT is limited to an internship. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Problem-Solving",
+                        "Business Analysis",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's analytical skills, adaptability, and commitment to enhancing user experience through technology. However, it does not fully align with the candidate's extensive experience in business management and marketing."
+                }
+            }
+        },
+        {
+            "recommender_id": "918",
+            "recommendation": {
+                "resume_file": "347.json",
+                "recommendation_file": "Recommendation_From_ID_918.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Problem-Solving",
+                        "Team Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, communication, and team management abilities. However, it does not directly reference the candidate's experience as a CEO or Business Analyst, which are key roles in their job history."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "target_id": "25",
+    "recommendations": [
+        {
+            "recommender_id": "165",
+            "recommendation": {
+                "resume_file": "25.json",
+                "recommendation_file": "Recommendation_From_ID_165.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'significant growth in participant numbers for their fitness classes' which is not directly related to the candidate's healthcare experience. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Network Development",
+                        "Contract Negotiation",
+                        "Provider Relations",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in healthcare, highlighting their strategic acumen, leadership skills, and ability to build relationships. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        }
+    ]
+}

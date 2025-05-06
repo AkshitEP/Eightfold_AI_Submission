@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Account Service Representative II/Tech",
+                "work_description": "Responsible for achieving sales goals and customer satisfaction standards at designated retail locations. Developed and maintained in-store promotions, and coordinated with appropriate personnel. Implemented and managed wireless sales events. Provided positive reinforcement and adult learning techniques to promote learning and skill improvement.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Project Design & Development Lead",
+                "work_description": "Discover, design and build new user experiences to drive the next generation of portals, applications and Web properties, including mobile. Design visually stunning, cutting-edge graphics, animations and interactions for Web sites, portals and applications.",
+                "company_level": "Mid-level",
+                "start_date": "05/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Manager",
+                "work_description": "Supervise and assist staff to ensure they are well informed on their position responsibilities and are performing at or above expectations. Train new staff as well as provide on-going training and feedback on performance.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "12/2012"
+            },
+            {
+                "role_name": "Martial Arts Instructor/Client",
+                "work_description": "Instruct students in varied martial arts techniques. Prepare and distribute detailed monthly, quarterly and yearly reports to clients. Provide required information and documents to clients.",
+                "company_level": "Small",
+                "start_date": "01/2008",
+                "end_date": "05/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Auburn University",
+                "start_date": "01/2010",
+                "end_date": "12/2014",
+                "domain": "Business (Entrepreneurship)",
+                "level": "Bachelor of Science"
+            },
+            {
+                "university": "Alabama School of Math & Science",
+                "start_date": "01/2005",
+                "end_date": "12/2009",
+                "domain": "Math & Science",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Martial Arts"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience in supervising and assisting staff, training new staff, and providing ongoing training and feedback, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience in designing and building new user experiences, managing wireless sales events, and coordinating with personnel, suggesting strong proficiency in project management."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Has experience in achieving sales goals and customer satisfaction standards, showing a solid working proficiency in sales."
+            },
+            {
+                "name": "Graphic Design",
+                "level": 3,
+                "explanation": "Has experience in designing visually stunning graphics, animations, and interactions for Web sites, portals, and applications, indicating a solid working proficiency in graphic design."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Has experience in training new staff and providing ongoing training and feedback, showing a solid working proficiency in training and development."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in preparing and distributing reports to clients, and providing required information and documents, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Martial Arts Instruction",
+                "level": 3,
+                "explanation": "Has experience in instructing students in martial arts techniques, showing a solid working proficiency in martial arts instruction."
+            },
+            {
+                "name": "Entrepreneurship",
+                "level": 2,
+                "explanation": "Has a degree in Entrepreneurship, but no direct work experience, indicating some practical experience in entrepreneurship."
+            }
+        ]
+    }
+}

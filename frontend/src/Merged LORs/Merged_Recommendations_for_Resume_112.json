@@ -1,0 +1,62 @@
+{
+    "target_id": "112",
+    "recommendations": [
+        {
+            "recommender_id": "242",
+            "recommendation": {
+                "resume_file": "112.json",
+                "recommendation_file": "Recommendation_From_ID_242.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation focuses on the candidate's experience as a College Assistant, but the resume highlights their experience as a Program Manager and Coding Compliance Auditor.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience as a College Assistant, but does not fully capture their broader experience and skills. The recommendation highlights the candidate's exceptional leadership, communication skills, and commitment to fostering positive relationships within educational settings."
+                }
+            }
+        },
+        {
+            "recommender_id": "459",
+            "recommendation": {
+                "resume_file": "112.json",
+                "recommendation_file": "Recommendation_From_ID_459.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's work experience as a Program Manager or Coding Compliance Auditor.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's leadership, communication, and project management skills, which are relevant to their experience as a College Assistant. However, it lacks specific examples from their work experience as a Program Manager or Coding Compliance Auditor, and the language is overly flattering."
+                }
+            }
+        },
+        {
+            "recommender_id": "343",
+            "recommendation": {
+                "resume_file": "112.json",
+                "recommendation_file": "Recommendation_From_ID_343.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and project management abilities. The recommendation source is a peer, indicating a collaborative work relationship."
+                }
+            }
+        }
+    ]
+}

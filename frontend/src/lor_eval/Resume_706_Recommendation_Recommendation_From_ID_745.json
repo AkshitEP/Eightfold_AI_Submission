@@ -1,0 +1,20 @@
+{
+    "resume_file": "706.json",
+    "recommendation_file": "Recommendation_From_ID_745.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Team Management",
+            "Quality Assurance",
+            "Business Administration"
+        ],
+        "recommendation_source": "Manager",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in customer service, complaint resolution, and quality control. The recommendation highlights the candidate's strengths in leadership, communication, and problem-solving, which are all relevant to their current role as a Mortgage Banking Research Specialist."
+    }
+}

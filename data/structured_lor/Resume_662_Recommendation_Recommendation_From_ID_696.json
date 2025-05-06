@@ -1,0 +1,16 @@
+{
+    "resume_file": "662.json",
+    "recommendation_file": "Recommendation_From_ID_696.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation highlights the candidate's skills in leadership, communication, and nutrition, but the source of the recommendation is unclear and the language is somewhat informal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Nutrition Counseling"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and communication abilities. However, the source of the recommendation is unclear, and the language is somewhat informal, which raises some concerns about the credibility of the recommendation."
+    }
+}

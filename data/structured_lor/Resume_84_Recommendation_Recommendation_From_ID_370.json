@@ -1,0 +1,17 @@
+{
+    "resume_id": 84,
+    "recommendation_file": "Recommendation_From_ID_370.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions unrelated experience in the hospitality sector and securing grant funding, which is not directly supported by the resume.",
+        "verified_skills": [
+            "Communication",
+            "Curriculum Development",
+            "Leadership",
+            "Interpersonal Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in communication, curriculum design, and leadership, but also mentions unrelated experience and skills not directly supported by the resume."
+    }
+}

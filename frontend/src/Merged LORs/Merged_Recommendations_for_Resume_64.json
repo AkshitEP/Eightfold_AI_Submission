@@ -1,0 +1,50 @@
+{
+    "target_id": "64",
+    "recommendations": [
+        {
+            "recommender_id": "463",
+            "recommendation": {
+                "resume_id": 64,
+                "recommendation_file": "Recommendation_From_ID_463.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Advocacy",
+                        "Communication",
+                        "Time Management",
+                        "Project Coordination"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their case management, advocacy, and interpersonal skills. The source of the recommendation appears to be a peer, as they mention collaborating with the candidate in a professional setting."
+                }
+            }
+        },
+        {
+            "recommender_id": "700",
+            "recommendation": {
+                "resume_id": 64,
+                "recommendation_file": "Recommendation_From_ID_700.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Advocacy",
+                        "Counseling",
+                        "Project Coordination",
+                        "Data Management",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in supporting vulnerable populations and their expertise in case management and advocacy."
+                }
+            }
+        }
+    ]
+}

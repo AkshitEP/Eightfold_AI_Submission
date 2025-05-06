@@ -1,0 +1,116 @@
+{
+    "target_id": "168",
+    "recommendations": [
+        {
+            "recommender_id": "813",
+            "recommendation": {
+                "resume_file": "168.json",
+                "recommendation_file": "Recommendation_From_ID_813.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written for a different person, as it mentions an aircraft mechanic, but the resume is for an aviation electronics technician. However, the skills and experiences mentioned in the recommendation are somewhat relevant to the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some relevant skills and experiences, but it seems to be written for a different person. The language is formal, but there are some inconsistencies."
+                }
+            }
+        },
+        {
+            "recommender_id": "398",
+            "recommendation": {
+                "resume_file": "168.json",
+                "recommendation_file": "Recommendation_From_ID_398.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Financial Analysis",
+                        "Financial Planning",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and financial management skills. The recommendation also highlights the candidate's commitment to teamwork and talent development."
+                }
+            }
+        },
+        {
+            "recommender_id": "785",
+            "recommendation": {
+                "resume_file": "168.json",
+                "recommendation_file": "Recommendation_From_ID_785.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Planning",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their technical and leadership abilities, as well as their achievements in process improvements and staff development."
+                }
+            }
+        },
+        {
+            "recommender_id": "154",
+            "recommendation": {
+                "resume_file": "168.json",
+                "recommendation_file": "Recommendation_From_ID_154.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's job history and education. However, the language is formal and no statistically improbable claims are detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Planning",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in accounting, human resources, and leadership, which aligns with their job history and education. However, some minor inconsistencies and lack of specific examples reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "831",
+            "recommendation": {
+                "resume_file": "168.json",
+                "recommendation_file": "Recommendation_From_ID_831.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Planning",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and financial analysis skills. The source of the recommendation is a supervisor, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

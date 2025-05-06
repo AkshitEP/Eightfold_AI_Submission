@@ -1,0 +1,16 @@
+{
+    "resume_file": "924.json",
+    "recommendation_file": "Recommendation_From_ID_855.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's background in electrical engineering and the oil and gas industry seems unrelated to the candidate's bakery experience, which raises some concerns.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Entrepreneurship"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's entrepreneurial spirit, leadership skills, and ability to manage complex tasks. However, the recommender's background and expertise seem unrelated to the candidate's bakery experience, which may indicate a lack of direct knowledge about the candidate's work in this field."
+    }
+}

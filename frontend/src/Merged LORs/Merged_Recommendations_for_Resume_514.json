@@ -1,0 +1,24 @@
+{
+    "target_id": "514",
+    "recommendations": [
+        {
+            "recommender_id": "394",
+            "recommendation": {
+                "resume_file": "514.json",
+                "recommendation_file": "Recommendation_From_ID_394.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with the first part mentioning Cisco Systems, which is not mentioned in the resume. The language is formal, but the content seems to be inconsistent with the resume.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Classification",
+                        "Employee Onboarding"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be describing two different individuals, with the first part not aligning with the resume. The second part mentions skills and experiences that are present in the resume, but the overall recommendation seems to be inconsistent."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "664.json",
+    "recommendation_file": "Recommendation_From_ID_699.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Health Information Management",
+            "HIPAA Compliance",
+            "Medical Records Management",
+            "Billing and Reimbursement",
+            "Quality Assurance",
+            "Compliance and Regulatory Affairs"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in health information management and regulatory compliance."
+    }
+}

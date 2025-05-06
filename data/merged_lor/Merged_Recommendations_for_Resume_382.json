@@ -1,0 +1,24 @@
+{
+    "target_id": "382",
+    "recommendations": [
+        {
+            "recommender_id": "230",
+            "recommendation": {
+                "resume_file": "382.json",
+                "recommendation_file": "Recommendation_From_ID_230.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in customer service and operational management, but does not provide specific examples from their work history.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but lacks specific examples from their work history. The recommendation also mentions the candidate's experience as a business banker, which is not mentioned in their work history."
+                }
+            }
+        }
+    ]
+}

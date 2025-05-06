@@ -1,0 +1,87 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Service Associate/Cashier",
+                "work_description": "Greeted and assisted customers in a friendly courteous manner. Processed customers' transactions accurately and efficiently along with bagging customer purchases. Maintained the proper funds in register and called for change or cash pick-ups as needed.",
+                "company_level": "Mid-level",
+                "start_date": "10/2008",
+                "end_date": "04/2009"
+            },
+            {
+                "role_name": "Chiropractor Assistant",
+                "work_description": "Receptionist, Greet and register arriving patients, Confirm insurance status, Record medical histories and any other relevant medical information, Abided by HIPAA laws regarding sharing of personal medical information, Room patients, Assist Chiropractors with certain procedures, Responsible for administering some physical therapy techniques, Educate patients, Patient scheduling, Checking out departing patients, Call and confirm appointments, Managing patients files, Managerial tasks, Bookkeeping, billing, employee payroll, bank deposits, Maintain and kept track of office supplies, Checking in and out chiropractic equipment and supplies, Keep waiting rooms and examination rooms clean, Microsoft Office proficiency and Excel spreadsheets",
+                "company_level": "Mid-level",
+                "start_date": "10/2007",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "House Cleaner",
+                "work_description": "Commercial and Private party house cleaning. Maintain lists of vacant apartment's that require housekeeping attention before the arrival of their next occupants. Responsible for cleaning commercial buildings, offices, restrooms and common areas. Restocking all toiletries, vacuum room carpets, and sweep, scrub, wax and polish floors using brooms, mops and powered scrubbing and waxing machines. Preparing surfaces with primer, apply layers of paint and hang wallpaper. Tidy up after finishing a job",
+                "company_level": "Small",
+                "start_date": "01/2005",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "Marshfield High School",
+                "start_date": "01/1983",
+                "end_date": "12/1987",
+                "domain": "General",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Greeted and assisted customers in a friendly and courteous manner, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 3,
+                "explanation": "Processed customers' transactions accurately and efficiently, maintaining proper funds in the register, indicating a solid working proficiency in cash handling."
+            },
+            {
+                "name": "Medical Administration",
+                "level": 4,
+                "explanation": "Handled various administrative tasks in a chiropractic office, including reception, patient scheduling, and medical record-keeping, showing strong proficiency in medical administration."
+            },
+            {
+                "name": "HIPAA Compliance",
+                "level": 3,
+                "explanation": "Abided by HIPAA laws regarding the sharing of personal medical information, indicating a solid working proficiency in HIPAA compliance."
+            },
+            {
+                "name": "Physical Therapy Assistance",
+                "level": 2,
+                "explanation": "Assisted with certain physical therapy techniques, but the extent of this experience is unclear, suggesting some practical experience."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 3,
+                "explanation": "Handled bookkeeping tasks, including billing and employee payroll, showing a solid working proficiency in bookkeeping."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Demonstrated proficiency in Microsoft Office, including Excel spreadsheets, indicating a solid working proficiency."
+            },
+            {
+                "name": "Housekeeping",
+                "level": 4,
+                "explanation": "Maintained commercial and private properties, including cleaning, restocking, and preparing surfaces, showing strong proficiency in housekeeping."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple tasks and responsibilities across various roles, indicating a solid working proficiency in time management."
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "625.json",
+    "recommendation_file": "Recommendation_From_ID_593.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions two individuals, but only one is relevant to the resume.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Leadership",
+            "Change Management",
+            "Staff Management",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities. However, the mention of two individuals and some exaggerated claims reduce the relevance score and increase the fraud chance level."
+    }
+}

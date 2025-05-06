@@ -1,0 +1,18 @@
+{
+    "resume_file": "575.json",
+    "recommendation_file": "Recommendation_From_ID_128.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The language is formal, but the recommender's experience in the banking industry is not directly related to the candidate's role.",
+        "verified_skills": [
+            "Investment Banking Operations",
+            "Data Analysis",
+            "Compliance Management",
+            "Communication",
+            "System Enhancements"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and work ethic, but the recommender's relationship with the candidate and their experience in the banking industry are unclear. The recommendation seems genuine, but the lack of specific examples and details reduces its relevance score."
+    }
+}

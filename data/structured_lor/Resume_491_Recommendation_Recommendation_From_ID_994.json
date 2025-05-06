@@ -1,0 +1,19 @@
+{
+    "resume_file": "491.json",
+    "recommendation_file": "Recommendation_From_ID_994.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Occupational Health",
+            "Nursing",
+            "Patient Assessment",
+            "Medication Administration",
+            "Emergency Response",
+            "Health Education"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing abilities and healthcare expertise. The recommender's background in operational transformations at leading healthcare organizations adds credibility to the recommendation."
+    }
+}

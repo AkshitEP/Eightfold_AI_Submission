@@ -1,0 +1,16 @@
+{
+    "resume_file": "537.json",
+    "recommendation_file": "Recommendation_From_ID_923.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be more focused on a Family Advocate rather than the Customer Advocate, and there are some inconsistencies in the skills and roles mentioned.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some skills and experiences from the resume, but it seems to be more focused on a different role (Family Advocate) and lacks substantial detail or alignment with the key areas of expertise of the Customer Advocate."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "target_id": "447",
+    "recommendations": [
+        {
+            "recommender_id": "883",
+            "recommendation": {
+                "resume_file": "447.json",
+                "recommendation_file": "Recommendation_From_ID_883.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and generic statements, but overall the recommendation seems genuine.",
+                    "verified_skills": [
+                        "Security",
+                        "Leadership",
+                        "Teamwork",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in security roles and leadership, but does not specifically mention some of the candidate's skills."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Administrator",
+                "work_description": "I oversee the purchasing, management, and maintenance of all infrastructure-related hardware and software, while simultaneously overseeing end-user hardware and software support for a law school with roughly 85 FTE faculty/staff, and 275 students with a roughly 1:1 PC:Mac user ratio.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Associate Director of Computer Services",
+                "work_description": "Primary responsibilities included the day-to-day support of end-user hardware, software, and peripherals in a mixed Microsoft Windows, Mac OS X, linux, and Novell environment, while also assisting with the everyday demands of maintaining a rather complex campus-wide network that was driven by a predominately Cisco infrastructure.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2000",
+                "end_date": "09/2014"
+            },
+            {
+                "role_name": "District Computer Technician",
+                "work_description": "I supported all end-user related hardware and software demands for the entire school district.",
+                "company_level": "Mid-level",
+                "start_date": "08/1999",
+                "end_date": "07/2000"
+            },
+            {
+                "role_name": "Electrician's Apprentice",
+                "work_description": "Predominately industrial electrical work, mostly in a manufacturing setting, with some residential work mixed in.",
+                "company_level": "Mid-level",
+                "start_date": "06/1990",
+                "end_date": "07/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "Colby-Sawyer College",
+                "start_date": "01/1995",
+                "end_date": "12/1999",
+                "domain": "Exercise and Sports Sciences",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "IT Management",
+                "level": 5,
+                "explanation": "Oversees the purchasing, management, and maintenance of all infrastructure-related hardware and software, indicating expert-level mastery."
+            },
+            {
+                "name": "Technical Support",
+                "level": 5,
+                "explanation": "Has extensive experience providing end-user hardware and software support in various environments, showing expert-level proficiency."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Assisted with maintaining a complex campus-wide network with a predominately Cisco infrastructure, suggesting strong proficiency."
+            },
+            {
+                "name": "Hardware Maintenance",
+                "level": 4,
+                "explanation": "Supported all end-user related hardware demands for an entire school district, indicating strong proficiency."
+            },
+            {
+                "name": "Software Management",
+                "level": 4,
+                "explanation": "Oversees the management of software in a mixed environment, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience in administrative roles, but not as a primary focus, indicating a solid working proficiency."
+            },
+            {
+                "name": "Electrical Work",
+                "level": 2,
+                "explanation": "Predominately industrial electrical work experience, but not directly related to current role, suggesting some practical experience."
+            },
+            {
+                "name": "Microsoft Windows",
+                "level": 4,
+                "explanation": "Supported end-user hardware and software in a mixed environment, including Microsoft Windows, suggesting strong proficiency."
+            },
+            {
+                "name": "Mac OS X",
+                "level": 4,
+                "explanation": "Supported end-user hardware and software in a mixed environment, including Mac OS X, suggesting strong proficiency."
+            },
+            {
+                "name": "Linux",
+                "level": 3,
+                "explanation": "Assisted with maintaining a complex campus-wide network with a predominately Cisco infrastructure, including Linux, suggesting solid working proficiency."
+            },
+            {
+                "name": "Cisco Infrastructure",
+                "level": 4,
+                "explanation": "Assisted with maintaining a complex campus-wide network with a predominately Cisco infrastructure, suggesting strong proficiency."
+            }
+        ]
+    }
+}

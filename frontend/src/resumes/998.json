@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Dealership Finance Manager",
+                "work_description": "Oversaw credit department staff. Maintained ongoing communications with clients. Worked to resolve credit and financing issues. Identified new business prospects. Developed strategies with sales managers. Established credit and financing policies and procedures. Reviewed and approved loan applications in a timely manner.",
+                "company_level": "Mid-level",
+                "start_date": "03/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Dealership Finance Manager",
+                "work_description": "Processed credit and loan applications. Prepared and analyzed credit reports. Evaluated contracts and loan agreements. Maintained customer database.",
+                "company_level": "Mid-level",
+                "start_date": "11/2006",
+                "end_date": "03/2011"
+            },
+            {
+                "role_name": "Dealership Finance Manager",
+                "work_description": "Reviewed credit and loan applications. Prepared monthly and quarterly financial reports. Negotiated financing and credit terms with customers. Ensured compliance with all applicable financial regulations.",
+                "company_level": "Mid-level",
+                "start_date": "02/2003",
+                "end_date": "11/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of California",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Accounting",
+                "level": "Associate's Degree"
+            },
+            {
+                "university": "University of California",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Finance",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience analyzing credit reports, preparing financial reports, and evaluating loan agreements, indicating expert-level mastery."
+            },
+            {
+                "name": "Credit Management",
+                "level": 5,
+                "explanation": "Has over 15 years of experience in credit management, including reviewing credit applications, negotiating credit terms, and ensuring compliance with financial regulations, indicating expert-level mastery."
+            },
+            {
+                "name": "Loan Processing",
+                "level": 4,
+                "explanation": "Has extensive experience processing credit and loan applications, evaluating contracts, and maintaining customer databases, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience overseeing credit department staff and developing strategies with sales managers, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Has experience preparing monthly and quarterly financial reports, suggesting strong proficiency in financial reporting."
+            },
+            {
+                "name": "Compliance",
+                "level": 3,
+                "explanation": "Has experience ensuring compliance with financial regulations, indicating a solid working proficiency in compliance."
+            },
+            {
+                "name": "Accounting",
+                "level": 3,
+                "explanation": "Has an associate's degree in accounting and experience in financial analysis and reporting, indicating a solid working proficiency in accounting."
+            },
+            {
+                "name": "Finance",
+                "level": 3,
+                "explanation": "Has a bachelor's degree in finance and experience in financial analysis and credit management, indicating a solid working proficiency in finance."
+            }
+        ]
+    }
+}

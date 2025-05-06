@@ -1,0 +1,18 @@
+{
+    "resume_file": "752.json",
+    "recommendation_file": "Recommendation_From_ID_331.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Communication",
+            "Project Management",
+            "Time Management",
+            "Microsoft Office",
+            "Adobe InDesign"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, professionalism, and bilingual capabilities. However, it does not directly reference some of the candidate's other skills, such as Event Planning, Graphic Design, or Leadership."
+    }
+}

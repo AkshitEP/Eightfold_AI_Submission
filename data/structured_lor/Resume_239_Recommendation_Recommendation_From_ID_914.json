@@ -1,0 +1,16 @@
+{
+    "resume_file": "239.json",
+    "recommendation_file": "Recommendation_From_ID_914.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as a health coach seems unrelated to the candidate's experience and skills. However, the recommendation highlights the candidate's strengths in mentoring and communication, which are relevant to their experience as an AVID tutor.",
+        "verified_skills": [
+            "Teaching",
+            "Mentoring",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience as an AVID tutor, highlighting their strengths in mentoring and communication. However, the recommender's background and expertise seem unrelated to the candidate's experience, which raises some concerns about the recommendation's credibility."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_id": 1,
+    "recommendation_file": "Recommendation_From_ID_289.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Mortgage Banking",
+            "Customer Service",
+            "Leadership",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, communication, and process improvement. The source of the recommendation appears to be a peer or colleague, possibly a Branch Banking Coordinator, who has worked with the candidate in a similar capacity."
+    }
+}

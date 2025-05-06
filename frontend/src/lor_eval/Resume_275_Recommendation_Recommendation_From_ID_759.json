@@ -1,0 +1,17 @@
+{
+    "resume_file": "275.json",
+    "recommendation_file": "Recommendation_From_ID_759.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Leadership",
+            "Sales Management",
+            "Business Development",
+            "Customer Service"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business development and leadership abilities. However, some claims seem exaggerated, such as the 'remarkable results' and 'impressive margins' achieved by the candidate."
+    }
+}

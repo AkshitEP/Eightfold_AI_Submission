@@ -1,0 +1,16 @@
+{
+    "resume_file": "742.json",
+    "recommendation_file": "Recommendation_From_ID_574.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Child Development",
+            "Behavioral Therapy",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience as an ABA Therapist, highlighting their ability to build relationships, implement treatment plans, and document progress. However, the recommender's role as a Digital Marketing Specialist is unclear in relation to the candidate's work."
+    }
+}

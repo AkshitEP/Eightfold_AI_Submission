@@ -1,0 +1,17 @@
+{
+    "resume_file": "986.json",
+    "recommendation_file": "Recommendation_From_ID_916.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's experience as a Fitness Director, but lacks specific examples or metrics to support the claims. The tone is overly positive, and some statements seem unrealistic."
+    }
+}

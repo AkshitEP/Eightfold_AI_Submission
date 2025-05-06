@@ -1,0 +1,19 @@
+{
+    "resume_file": "880.json",
+    "recommendation_file": "Recommendation_From_ID_913.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Vendor Management",
+            "Contract Negotiation",
+            "Project Management",
+            "Business Systems",
+            "Team Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their leadership, vendor management, and project management expertise. The recommendation also highlights the candidate's ability to optimize vendor contracts and negotiate substantial cost savings, which is consistent with their experience in contract negotiation."
+    }
+}

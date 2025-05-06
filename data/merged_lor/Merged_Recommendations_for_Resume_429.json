@@ -1,0 +1,40 @@
+{
+    "target_id": "429",
+    "recommendations": [
+        {
+            "recommender_id": "566",
+            "recommendation": {
+                "resume_file": "429.json",
+                "recommendation_file": "Recommendation_From_ID_566.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of surpassing recruiting goals by 300% seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Recruitment",
+                        "Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, project management, and recruitment skills, but also mentions unrelated achievements in sales and strategic planning. While the recommendation is largely credible, some claims require further verification."
+                }
+            }
+        },
+        {
+            "recommender_id": "801",
+            "recommendation": {
+                "resume_file": "429.json",
+                "recommendation_file": "Recommendation_From_ID_801.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be for a different person, with no mention of the candidate's skills or experience in the provided resume. The language is formal, but the content is unrelated to the candidate's background.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience, and appears to be for a different person. The source of the recommendation is unclear, and the content is unrelated to the candidate's background."
+                }
+            }
+        }
+    ]
+}

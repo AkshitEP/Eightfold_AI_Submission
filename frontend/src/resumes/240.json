@@ -1,0 +1,72 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Services Representative",
+                "work_description": "Dealing with all of the recruitment needs & employment issues of the company. Ensuring the timely recruitment of new employees into the business from the initial job offer being made through to their induction into the company including offer letters and contracts etc.",
+                "company_level": "Mid-level",
+                "start_date": "10/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Teller/Customer Service Representative (HEART Trainee)",
+                "work_description": "Providing assistance as needed to the branch which equals to getting the operation of the branch up to date.",
+                "company_level": "Mid-level",
+                "start_date": "05/2010",
+                "end_date": "07/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University College of the Caribbean",
+                "start_date": "01/2019",
+                "end_date": "Present",
+                "domain": "Human Resource Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "St. Jago High School",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "General",
+                "level": "High School"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Has extensive experience handling recruitment needs, including job offers, contracts, and inductions, showing strong proficiency."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 3,
+                "explanation": "Dealt with employment issues, indicating a solid working proficiency in employee relations."
+            },
+            {
+                "name": "Human Resource Management",
+                "level": 3,
+                "explanation": "Currently pursuing a degree in Human Resource Management and has experience in HR services, showing a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Provided assistance to the branch as a Customer Service Representative, indicating some practical experience in customer service."
+            },
+            {
+                "name": "Operations Management",
+                "level": 2,
+                "explanation": "Helped with the operation of the branch, suggesting some practical experience in operations management."
+            },
+            {
+                "name": "Communication",
+                "level": 2,
+                "explanation": "Interacted with customers and employees, indicating some practical experience in communication."
+            }
+        ]
+    }
+}

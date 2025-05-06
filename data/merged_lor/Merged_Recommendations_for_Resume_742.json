@@ -1,0 +1,120 @@
+{
+    "target_id": "742",
+    "recommendations": [
+        {
+            "recommender_id": "347",
+            "recommendation": {
+                "resume_file": "742.json",
+                "recommendation_file": "Recommendation_From_ID_347.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic given the recommender's background as an IT intern with no direct experience in the ABA Therapist's field. The language is overly flattering and lacks specific examples from the ABA Therapist's work experience.",
+                    "verified_skills": [
+                        "Child Development",
+                        "Behavioral Therapy",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the ABA Therapist's skills in child development, behavioral therapy, and communication, but the recommender's background and lack of direct experience in the field raise concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "999",
+            "recommendation": {
+                "resume_file": "742.json",
+                "recommendation_file": "Recommendation_From_ID_999.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions the candidate's experience as an ABA Therapist, but also references unrelated roles and activities, such as IT and AWS Admin Intern, and university leadership roles, which are not mentioned in the resume. However, the language is formal and no statistically improbable claims are detected.",
+                    "verified_skills": [
+                        "Child Development",
+                        "Behavioral Therapy",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's experience as an ABA Therapist, highlighting their dedication, empathy, and interpersonal skills. However, some inconsistencies and unrelated information are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "880",
+            "recommendation": {
+                "resume_file": "742.json",
+                "recommendation_file": "Recommendation_From_ID_880.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommender's background in Information Technology seems unrelated to the candidate's experience as an ABA therapist. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Child Development",
+                        "Behavioral Therapy",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience as an ABA therapist, but the recommender's background in Information Technology raises some concerns about their familiarity with the candidate's field."
+                }
+            }
+        },
+        {
+            "recommender_id": "744",
+            "recommendation": {
+                "resume_file": "742.json",
+                "recommendation_file": "Recommendation_From_ID_744.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in IT and lack of direct experience in the field of ABA Therapy or Psychology raises some concerns about their ability to accurately assess the candidate's skills.",
+                    "verified_skills": [
+                        "Child Development",
+                        "Behavioral Therapy",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience as an ABA Therapist, but the recommender's background and lack of direct experience in the field may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "728",
+            "recommendation": {
+                "resume_file": "742.json",
+                "recommendation_file": "Recommendation_From_ID_728.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source's relationship to the candidate is unclear and the source's profession (Information Assurance Professional) seems unrelated to the candidate's field.",
+                    "verified_skills": [
+                        "Child Development",
+                        "Behavioral Therapy",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their therapeutic work and relationships with families. However, the source's profession and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "574",
+            "recommendation": {
+                "resume_file": "742.json",
+                "recommendation_file": "Recommendation_From_ID_574.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Child Development",
+                        "Behavioral Therapy",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience as an ABA Therapist, highlighting their ability to build relationships, implement treatment plans, and document progress. However, the recommender's role as a Digital Marketing Specialist is unclear in relation to the candidate's work."
+                }
+            }
+        }
+    ]
+}

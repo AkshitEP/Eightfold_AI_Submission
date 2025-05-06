@@ -1,0 +1,16 @@
+{
+    "resume_file": "146.json",
+    "recommendation_file": "Recommendation_From_ID_264.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Some unrealistic and overly positive language, informal language, and lack of specific examples or evidence from the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Operational Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation partially aligns with the candidate's skills and experience, but lacks specific examples and contains some unrealistic language."
+    }
+}

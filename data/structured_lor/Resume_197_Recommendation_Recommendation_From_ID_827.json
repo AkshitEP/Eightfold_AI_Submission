@@ -1,0 +1,18 @@
+{
+    "resume_file": "197.json",
+    "recommendation_file": "Recommendation_From_ID_827.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. Some minor inconsistencies in the recommender's role and expertise.",
+        "verified_skills": [
+            "Leadership",
+            "Business Development",
+            "Sales Management",
+            "Change Management",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership qualities, business development skills, and ability to drive growth in a competitive environment. However, the recommender's background and relationship with the candidate are unclear, and some minor inconsistencies are present in the recommender's role and expertise."
+    }
+}

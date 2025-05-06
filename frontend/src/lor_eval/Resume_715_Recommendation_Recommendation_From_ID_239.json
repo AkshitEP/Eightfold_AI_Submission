@@ -1,0 +1,16 @@
+{
+    "resume_file": "715.json",
+    "recommendation_file": "Recommendation_From_ID_239.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's job history and skills. Some minor inconsistencies are present, such as the mention of AVID tutor experience, which is not mentioned in the resume.",
+        "verified_skills": [
+            "Counseling",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's ability to engage with students and conduct group instruction, which aligns with their experience in counseling and leadership. However, it does not provide specific examples from their job history or skills, and the mention of AVID tutor experience is not supported by the resume."
+    }
+}

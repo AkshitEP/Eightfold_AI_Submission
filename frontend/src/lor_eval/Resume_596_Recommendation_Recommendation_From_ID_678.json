@@ -1,0 +1,16 @@
+{
+    "resume_file": "596.json",
+    "recommendation_file": "Recommendation_From_ID_678.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with little connection to the provided resume. The language is formal, but the content appears to be inconsistent with the resume details.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be describing two different individuals, with little connection to the provided resume. The skills mentioned in the recommendation, such as leadership, communication, and teamwork, are present in the resume, but the context and details do not align."
+    }
+}

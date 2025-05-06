@@ -1,0 +1,17 @@
+{
+    "resume_file": "641.json",
+    "recommendation_file": "Recommendation_From_ID_50.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions the candidate's skills and experience, but the recommender's title and relationship to the candidate are unclear. Additionally, the recommender's background in Revenue Cycle Management seems unrelated to the candidate's experience in HR and recruitment.",
+        "verified_skills": [
+            "Recruitment",
+            "HR Administration",
+            "Training and Development",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in recruitment, HR administration, and communication, but the recommender's credibility and relationship to the candidate are unclear. The recommendation also mentions the candidate's ability to optimize recruitment workflows and implement training programs, which aligns with their experience in HR operations analysis and training and development."
+    }
+}

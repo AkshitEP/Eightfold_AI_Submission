@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Parts Salesman",
+                "work_description": "Responsible for sales and customer service, providing information on pricing, availability, condition, trace, and other information to customers by phone and email through the use of Quantum and AMICS inventory software.",
+                "company_level": "Mid-level",
+                "start_date": "05/2013",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Package/Front Counter Attendant",
+                "work_description": "Performed standing, walking, bending, stooping, pulling, and lifting movements during restocking of milk crates and roller carts over an extended amount of time in harsh conditions, such as in walk-in freezers.",
+                "company_level": "Startup",
+                "start_date": "10/2012",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Lead Autonomous Ground Vehicle Installer",
+                "work_description": "Lifted and moved heavy boxes containing Pronto 4 autonomous vehicle kits into 50 brand-new Chevy Colorado vehicles for the U.S. Navy's MLT (Mobile Land Target) Program.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2011",
+                "end_date": "12/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Embry Riddle Aeronautical University",
+                "start_date": "01/2009",
+                "end_date": "12/2014",
+                "domain": "Professional Aeronautics Management and Aviation Safety",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Embry Riddle Aeronautical University",
+                "start_date": "01/2009",
+                "end_date": "12/2012",
+                "domain": "Professional Aeronautics Management, Safety, Aeronautical Science, and Information Systems",
+                "level": "Associate's"
+            },
+            {
+                "university": "Silver Valley High School",
+                "start_date": "01/2005",
+                "end_date": "12/2009",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "R/C aircraft",
+            "Gaming",
+            "Windows computers"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Sales",
+                "level": 2,
+                "explanation": "Had some practical experience with sales as an Aviation Parts Salesman, but the duration was relatively short."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Provided customer service as an Aviation Parts Salesman, but the duration was relatively short."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 2,
+                "explanation": "Used inventory software (Quantum and AMICS) as an Aviation Parts Salesman, but the duration was relatively short."
+            },
+            {
+                "name": "Physical Labor",
+                "level": 2,
+                "explanation": "Performed physical labor tasks as a Package/Front Counter Attendant, but the duration was relatively short."
+            },
+            {
+                "name": "Installation",
+                "level": 2,
+                "explanation": "Installed autonomous vehicle kits as a Lead Autonomous Ground Vehicle Installer, but the duration was relatively short."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Had a lead role as a Lead Autonomous Ground Vehicle Installer, but the duration was relatively short."
+            },
+            {
+                "name": "Aeronautics",
+                "level": 3,
+                "explanation": "Studied Professional Aeronautics Management and Aviation Safety in college, indicating a solid working proficiency."
+            },
+            {
+                "name": "Aviation Safety",
+                "level": 3,
+                "explanation": "Studied Professional Aeronautics Management and Aviation Safety in college, indicating a solid working proficiency."
+            },
+            {
+                "name": "Information Systems",
+                "level": 2,
+                "explanation": "Studied Information Systems in college, but the extent of practical experience is unclear."
+            },
+            {
+                "name": "Windows Computers",
+                "level": 1,
+                "explanation": "Mentioned as an interest, but no direct experience or education is mentioned."
+            }
+        ]
+    }
+}

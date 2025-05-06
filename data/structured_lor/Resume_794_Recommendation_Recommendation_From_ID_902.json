@@ -1,0 +1,17 @@
+{
+    "resume_file": "794.json",
+    "recommendation_file": "Recommendation_From_ID_902.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Institutions Examination",
+            "Leadership",
+            "Training and Development",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and relationship management. However, the recommender's role as a Case Manager in youth and family programs seems unrelated to the candidate's work as a Financial Institutions Examiner, which might reduce the relevance score."
+    }
+}

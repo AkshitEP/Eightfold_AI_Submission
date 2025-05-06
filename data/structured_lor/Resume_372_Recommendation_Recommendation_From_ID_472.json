@@ -1,0 +1,21 @@
+{
+    "resume_file": "372.json",
+    "recommendation_file": "Recommendation_From_ID_472.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Talent Management",
+            "Change Management",
+            "Workforce Planning",
+            "Organizational Development",
+            "Leadership",
+            "Communication",
+            "Employee Benefits Administration",
+            "Vendor Relations"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and business partnership. The source of the recommendation is likely a peer or colleague, given the level of detail and familiarity with the candidate's work."
+    }
+}

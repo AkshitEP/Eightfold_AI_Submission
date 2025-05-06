@@ -1,0 +1,16 @@
+{
+    "resume_file": "263.json",
+    "recommendation_file": "Recommendation_From_ID_540.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's work experience or skills. The language used is formal, but the examples provided are not specific to the candidate's accounting experience.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Financial Analysis",
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be written by someone who is not familiar with the candidate's work experience or skills. While the recommendation mentions some relevant skills, it also mentions unrelated skills and experiences, which raises concerns about the authenticity of the recommendation."
+    }
+}

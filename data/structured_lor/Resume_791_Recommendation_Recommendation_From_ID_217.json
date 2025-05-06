@@ -1,0 +1,19 @@
+{
+    "resume_file": "791.json",
+    "recommendation_file": "Recommendation_From_ID_217.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as an Accountant may not provide direct insight into the candidate's nursing skills. However, the recommendation highlights the candidate's leadership, communication, and patient care skills, which are relevant to their nursing experience.",
+        "verified_skills": [
+            "Nursing",
+            "Leadership",
+            "Patient Assessment",
+            "Care Planning",
+            "Communication",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and patient care skills. However, the recommender's background may not provide direct insight into the candidate's nursing skills."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Air Freight Agent",
+                "work_description": "Accepting, booking, inspecting and tracking outbound and inbound cargoes. Checking import/export documentation to determine cargo contents, and classifying goods into different fee or tariff groups, using a tariff coding system. Contacting vendors to resolve problems with shipments; Determining method of shipment, and preparing bills of lading, invoices, and other shipping documents.",
+                "company_level": "Mid-level",
+                "start_date": "08/2014",
+                "end_date": "03/2016"
+            },
+            {
+                "role_name": "Cargo Agent",
+                "work_description": "Tendering, accepting, booking, inspecting and tracking outbound and inbound cargoes. Checking import/export documentation to determine cargo contents, and classifying goods into different fee or tariff groups, using a tariff coding system. Contacting vendors to resolve problems with shipments; Determining method of shipment, and preparing bills of lading, invoices, and other shipping documents.",
+                "company_level": "Mid-level",
+                "start_date": "04/2005",
+                "end_date": "07/2010"
+            },
+            {
+                "role_name": "Cargo Agent",
+                "work_description": "Tendering, Accepting, booking, inspecting and tracking outbound and inbound cargoes. Checking import/export documentation to determine cargo contents, and classifying goods into different fee or tariff groups, using a tariff coding system. Contacting vendors to resolve problems with shipments; Determining method of shipment, and preparing bills of lading, invoices, and other shipping documents.",
+                "company_level": "Mid-level",
+                "start_date": "08/2003",
+                "end_date": "04/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "College of Micronesia",
+                "start_date": "01/1987",
+                "end_date": "12/1987",
+                "domain": "Liberal Arts & Business",
+                "level": "AS"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Logistics Management",
+                "level": 5,
+                "explanation": "Over 13 years of experience in managing cargo shipments, including booking, inspecting, and tracking, indicating expert-level mastery."
+            },
+            {
+                "name": "Tariff Coding",
+                "level": 4,
+                "explanation": "Extensive experience in using a tariff coding system to classify goods into different fee or tariff groups, suggesting strong proficiency."
+            },
+            {
+                "name": "Shipping Documentation",
+                "level": 4,
+                "explanation": "Consistently prepared bills of lading, invoices, and other shipping documents, indicating strong proficiency in shipping documentation."
+            },
+            {
+                "name": "Problem Resolution",
+                "level": 3,
+                "explanation": "Contacted vendors to resolve problems with shipments, showing a solid working proficiency in problem resolution."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively communicated with vendors to resolve problems with shipments, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple shipments and tasks simultaneously, showing a solid working proficiency in time management."
+            }
+        ]
+    }
+}

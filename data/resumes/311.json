@@ -1,0 +1,118 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Supply Specialist",
+                "work_description": "Tracked inventory, conducted cycle counts and audits and resolved issues to maintain accurate records. Rotated goods in inventory by following 'first in, first out' approach to keep shelves organized and well-stocked. Managed vendor relationships to support supply chain and maintain product quality.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2015",
+                "end_date": "05/2019"
+            },
+            {
+                "role_name": "Aviation Supply Clerk",
+                "work_description": "Improved customer satisfaction by finding creative solutions to problems. Performed site evaluations, customer surveys and team audits. Supported Customer Care department by compiling paperwork and taking detailed meeting minutes.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2011",
+                "end_date": "05/2015"
+            },
+            {
+                "role_name": "Care Aide",
+                "work_description": "Created safe environment, preventing falls and accidents. Reminded clients to take medications and keep appointments. Observed and reported changes in clients' physical condition and behavior.",
+                "company_level": "Mid-level",
+                "start_date": "12/2010",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Shift Supervisor",
+                "work_description": "Monitored employee performance and safety, conducting retraining to correct problems and optimize productivity. Motivated team members to complete assigned tasks and perform at exceptional levels.",
+                "company_level": "Mid-level",
+                "start_date": "09/2009",
+                "end_date": "12/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Orange County Community College",
+                "start_date": "09/2019",
+                "end_date": "Present",
+                "domain": "Mathematics and Science",
+                "level": "Associate of Arts"
+            },
+            {
+                "university": "Broward College",
+                "start_date": "12/2020",
+                "end_date": "Present",
+                "domain": "Social Work",
+                "level": "Certificate"
+            },
+            {
+                "university": "Coral Springs High School",
+                "start_date": "06/2004",
+                "end_date": "06/2004",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Inventory Management",
+                "level": 4,
+                "explanation": "Has extensive experience tracking inventory, conducting cycle counts and audits, and resolving issues to maintain accurate records, showing strong proficiency."
+            },
+            {
+                "name": "Supply Chain Management",
+                "level": 3,
+                "explanation": "Managed vendor relationships to support supply chain and maintain product quality, indicating a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Improved customer satisfaction by finding creative solutions to problems and supported Customer Care department, showing a solid level of proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Monitored employee performance and safety, conducted retraining, and motivated team members, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Rotated goods in inventory, managed paperwork, and took detailed meeting minutes, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Found creative solutions to problems and resolved issues to maintain accurate records, indicating a solid level of proficiency in problem-solving."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Compiled paperwork, took detailed meeting minutes, and observed and reported changes in clients' physical condition and behavior, showing a solid level of proficiency in communication."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Motivated team members to complete assigned tasks and perform at exceptional levels, indicating a solid level of proficiency in team management."
+            },
+            {
+                "name": "Healthcare",
+                "level": 2,
+                "explanation": "Created safe environment, reminded clients to take medications, and observed and reported changes in clients' physical condition and behavior, showing some practical experience in healthcare."
+            },
+            {
+                "name": "Mathematics",
+                "level": 1,
+                "explanation": "Currently pursuing an Associate of Arts degree in Mathematics and Science, indicating basic familiarity with mathematics."
+            },
+            {
+                "name": "Social Work",
+                "level": 1,
+                "explanation": "Currently pursuing a Certificate in Social Work, indicating basic familiarity with social work."
+            }
+        ]
+    }
+}

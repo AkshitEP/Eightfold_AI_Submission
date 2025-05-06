@@ -1,0 +1,19 @@
+{
+    "resume_file": "856.json",
+    "recommendation_file": "Recommendation_From_ID_272.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources",
+            "Conflict Resolution",
+            "Policy Development",
+            "Recruitment",
+            "Compensation and Benefits",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR functions, conflict resolution, and leadership skills. The source of the recommendation is a peer, an HR Business Partner II, who has closely collaborated with the candidate."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "resume_id": 82,
+    "recommendation_file": "Recommendation_From_ID_798.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Database Management",
+            "Network Administration",
+            "Leadership",
+            "Customer Relationship Management",
+            "Disaster Recovery",
+            "Microsoft Windows",
+            "SQL",
+            "Network Security"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns perfectly with the candidate's skills and experience, providing specific examples of their technical proficiency and leadership abilities."
+    }
+}

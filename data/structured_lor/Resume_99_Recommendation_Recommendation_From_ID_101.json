@@ -1,0 +1,19 @@
+{
+    "resume_id": 99,
+    "recommendation_file": "Recommendation_From_ID_101.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the CEO's claim of working alongside the finance professional, which is not explicitly supported by the resume. However, the recommendation remains largely credible.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Financial Analysis",
+            "Leadership",
+            "Process Improvement",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the finance professional's expertise in financial management, budget forecasting, and financial reporting, which aligns with their skills and experience. However, some minor inconsistencies and exaggerated claims are present, such as the CEO's claim of working alongside the finance professional."
+    }
+}

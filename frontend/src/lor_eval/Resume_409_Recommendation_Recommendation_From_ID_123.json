@@ -1,0 +1,17 @@
+{
+    "resume_file": "409.json",
+    "recommendation_file": "Recommendation_From_ID_123.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions banking expertise, but the candidate's resume does not explicitly mention banking experience.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional customer relationship management, leadership, and communication skills, which align with their resume. However, the recommendation mentions banking expertise, which is not explicitly mentioned in the resume."
+    }
+}

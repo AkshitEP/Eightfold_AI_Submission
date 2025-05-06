@@ -1,0 +1,18 @@
+{
+    "resume_file": "943.json",
+    "recommendation_file": "Recommendation_From_ID_136.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+        "verified_skills": [
+            "Payroll Management",
+            "Benefits Administration",
+            "Performance Management",
+            "Leadership",
+            "Process Improvement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's HR experience, but may contain some minor exaggerations."
+    }
+}

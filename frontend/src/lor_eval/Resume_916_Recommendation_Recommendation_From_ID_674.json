@@ -1,0 +1,15 @@
+{
+    "resume_file": "916.json",
+    "recommendation_file": "Recommendation_From_ID_674.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be based on an unrelated experience as a mover, and the connection to the candidate's skills and experience is unclear. The language is formal, but the recommendation lacks specific examples and details from the candidate's job history.",
+        "verified_skills": [
+            "Teaching",
+            "Yoga Instruction"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's teaching skills and commitment to well-being, but it lacks concrete examples and details from the candidate's job history. The source of the recommendation is unclear, and the connection to the candidate's experience is not well-established."
+    }
+}

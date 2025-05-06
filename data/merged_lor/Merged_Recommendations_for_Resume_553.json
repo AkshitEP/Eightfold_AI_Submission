@@ -1,0 +1,71 @@
+{
+    "target_id": "553",
+    "recommendations": [
+        {
+            "recommender_id": "611",
+            "recommendation": {
+                "resume_file": "553.json",
+                "recommendation_file": "Recommendation_From_ID_611.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims detected. Language is formal, but some phrases seem overly flattering.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with key areas of expertise. Some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "128",
+            "recommendation": {
+                "resume_file": "553.json",
+                "recommendation_file": "Recommendation_From_ID_128.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales",
+                        "Customer Service",
+                        "Team Management",
+                        "Financial Products",
+                        "Communication",
+                        "Problem-Solving",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, sales, and customer service abilities. The recommender's background in account receivable and client service excellence adds credibility to their endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "442",
+            "recommendation": {
+                "resume_file": "553.json",
+                "recommendation_file": "Recommendation_From_ID_442.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales",
+                        "Customer Service",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, sales, and customer service abilities. The source of the recommendation is an Assistant Operations Manager, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

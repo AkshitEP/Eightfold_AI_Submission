@@ -1,0 +1,16 @@
+{
+    "resume_file": "157.json",
+    "recommendation_file": "Recommendation_From_ID_781.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Teaching",
+            "Problem Solving",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in teaching and arts education. The recommender's perspective as a video director highlights the candidate's strong organizational skills and ability to foster meaningful relationships with students."
+    }
+}

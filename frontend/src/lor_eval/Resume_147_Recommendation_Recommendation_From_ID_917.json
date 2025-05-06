@@ -1,0 +1,16 @@
+{
+    "resume_file": "147.json",
+    "recommendation_file": "Recommendation_From_ID_917.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly flattering tone, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Accounting Operations",
+            "Leadership",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies and bias are present."
+    }
+}

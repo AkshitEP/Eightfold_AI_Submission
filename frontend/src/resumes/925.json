@@ -1,0 +1,88 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Staffing Coordinator",
+                "work_description": "Partner with US Staffing Representatives by scheduling interviews for candidates located in the US and abroad. Coordinated travel arrangements for domestic candidates while maintaining HR data through Taleo (BaxTalent) Systems. Responsible for processing reports on a weekly basis within Taleo. Also responsible for Source of Hire and Candidate Slate reporting.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Staffing Coordinator",
+                "work_description": "Partner with US Medical Products and BioScience Staffing Representatives by scheduling interviews for candidates located in the US and abroad. Coordinated travel arrangements for domestic candidates while maintaining HR data through BrassRing and Taleo (BaxTalent) Systems. Formed relationships with hiring managers, administrative assistants, and staffing agencies to ensure a smooth and consistent scheduling outcome.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2013",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Staffing Coordinator Contractor on Assignment",
+                "work_description": "Partner with US Medical Products and BioScience recruiters by scheduling interviews for candidates located in the US and abroad and travel arrangements for domestic candidates while maintaining HR data through BrassRing. Formed relationships with hiring managers and administrative assistants to ensure a smooth and consistent scheduling outcome.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2012",
+                "end_date": "03/2013"
+            },
+            {
+                "role_name": "Department Supervisor",
+                "work_description": "Supervisor of the Women's Accessories department. Responsible for the merchandising and sales of the department. Also responsible for overseeing the on-boarding, training, and performance of the new and current associates that work in the department.",
+                "company_level": "Mid-level",
+                "start_date": "08/2007",
+                "end_date": "04/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "John Brown University",
+                "start_date": "01/2003",
+                "end_date": "05/2007",
+                "domain": "International Business",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Kayaking",
+            "Swimming",
+            "Singing in Choirs at Church and in the Community"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Has extensive experience in scheduling interviews, coordinating travel arrangements, and maintaining HR data through various systems, showing strong proficiency in recruitment."
+            },
+            {
+                "name": "HR Data Management",
+                "level": 4,
+                "explanation": "Has consistently maintained HR data through systems like Taleo and BrassRing, indicating strong proficiency in HR data management."
+            },
+            {
+                "name": "Scheduling",
+                "level": 4,
+                "explanation": "Has extensive experience in scheduling interviews and coordinating travel arrangements, showing strong proficiency in scheduling."
+            },
+            {
+                "name": "Relationship Building",
+                "level": 3,
+                "explanation": "Has formed relationships with hiring managers, administrative assistants, and staffing agencies, indicating a solid working proficiency in relationship building."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience as a department supervisor, overseeing the on-boarding, training, and performance of associates, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Merchandising",
+                "level": 2,
+                "explanation": "Has experience in merchandising and sales, but it's limited to a specific department, indicating some practical experience."
+            },
+            {
+                "name": "Training and Development",
+                "level": 2,
+                "explanation": "Has experience in training and performance management, but it's limited to a specific department, indicating some practical experience."
+            }
+        ]
+    }
+}

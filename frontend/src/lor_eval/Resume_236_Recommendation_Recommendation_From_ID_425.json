@@ -1,0 +1,17 @@
+{
+    "resume_file": "236.json",
+    "recommendation_file": "Recommendation_From_ID_425.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Teaching",
+            "Instructional Design",
+            "Leadership",
+            "Behavioral Intervention"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and collaborative approach. The recommender's background in IT management adds credibility to their assessment of the candidate's skills."
+    }
+}

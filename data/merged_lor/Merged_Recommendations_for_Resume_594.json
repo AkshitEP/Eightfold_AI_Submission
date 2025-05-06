@@ -1,0 +1,134 @@
+{
+    "target_id": "594",
+    "recommendations": [
+        {
+            "recommender_id": "388",
+            "recommendation": {
+                "resume_file": "594.json",
+                "recommendation_file": "Recommendation_From_ID_388.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of a role not mentioned in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Problem-solving",
+                        "Instructional design"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but there are some minor inconsistencies that raise concerns about the accuracy of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "520",
+            "recommendation": {
+                "resume_file": "594.json",
+                "recommendation_file": "Recommendation_From_ID_520.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Risk Management",
+                        "Change Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, risk assessment, and change management abilities. The source of the recommendation is a peer who has witnessed the candidate's skills firsthand."
+                }
+            }
+        },
+        {
+            "recommender_id": "74",
+            "recommendation": {
+                "resume_file": "594.json",
+                "recommendation_file": "Recommendation_From_ID_74.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Risk Management",
+                        "ITIL Governance",
+                        "Communication",
+                        "Change Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT leadership and project management abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "854",
+            "recommendation": {
+                "resume_file": "594.json",
+                "recommendation_file": "Recommendation_From_ID_854.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the Director of Information Technology, but the provided resume does not explicitly mention this role. However, the skills and experience mentioned in the recommendation align with the resume.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Risk Management",
+                        "ITIL Governance",
+                        "Communication",
+                        "Change Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT leadership and management capabilities. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "590",
+            "recommendation": {
+                "resume_file": "594.json",
+                "recommendation_file": "Recommendation_From_ID_590.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Risk Management",
+                        "Change Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and project management abilities. The source of the recommendation is a peer, indicating a close working relationship with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "369",
+            "recommendation": {
+                "resume_file": "594.json",
+                "recommendation_file": "Recommendation_From_ID_369.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Risk Management",
+                        "ITIL Governance",
+                        "Change Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT leadership and technical expertise. The source of the recommendation appears to be a peer, as they mention leading the information technology needs for the City of Greensboro and working with the candidate."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "624.json",
+    "recommendation_file": "Recommendation_From_ID_313.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'over 15 years of expertise' which may not be entirely accurate based on the provided resume. However, the language is formal and the recommendation seems genuine.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Teamwork",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's skills and experience in customer service, fitness management, and teamwork, which aligns with their resume. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

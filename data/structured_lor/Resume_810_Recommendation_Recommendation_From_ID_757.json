@@ -1,0 +1,16 @@
+{
+    "resume_file": "810.json",
+    "recommendation_file": "Recommendation_From_ID_757.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. The recommender's background in warehouse operations and pest control is not directly related to the candidate's experience.",
+        "verified_skills": [
+            "General Labor",
+            "Livestock Handling",
+            "Aircraft Maintenance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's work ethic, adaptability, and communication skills, but does not provide concrete examples from their work experience. The recommender's background is not directly related to the candidate's experience, which may reduce the credibility of the recommendation."
+    }
+}

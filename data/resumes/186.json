@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of HR",
+                "work_description": "Directly report to the CEO and VP of a 65-year old real estate property management company. Accountable for the day-to-day operations functions of: HR, administration and technology with direct supervision of two staff members.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Vice President and Director of Human Resources and Administration",
+                "work_description": "Reported directly to the Founder/CEO of this fast-growing, start-up Healthcare/IT Company established in 2000. As a proven strategic business partner, was instrumental in growing the company from 45 employees located in eight (8) states to 215 employees located in 32 states and Puerto Rico.",
+                "company_level": "Startup",
+                "start_date": "01/2006",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Business Manager",
+                "work_description": "A management level role with overall responsibility of office operations for a 21-person law firm. Day-to- day responsibilities included all aspects of Human Resources, Finance, Administration and IT.",
+                "company_level": "Small",
+                "start_date": "01/2001",
+                "end_date": "01/2006"
+            },
+            {
+                "role_name": "Vice President/Business Manager",
+                "work_description": "Worked daily side-by-side and reported to the Director of the DC office. Effectively administered and grew office talent from 18 to over 120 employees as well as, annual income growth from $1.3M to $37M and an annual payroll and benefits budget of over $12M.",
+                "company_level": "Large",
+                "start_date": "01/1988",
+                "end_date": "01/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Human Resources Management Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resources Management",
+                "level": 5,
+                "explanation": "Has extensive experience in HR management, having supervised staff members and been accountable for day-to-day operations of HR functions across multiple companies, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has held various leadership roles, including Director of HR, Vice President and Director of Human Resources and Administration, and Business Manager, demonstrating expert-level leadership skills."
+            },
+            {
+                "name": "Administration",
+                "level": 4,
+                "explanation": "Has managed administrative responsibilities in multiple companies, including office operations, finance, and IT, showing strong proficiency."
+            },
+            {
+                "name": "Business Management",
+                "level": 4,
+                "explanation": "Has experience in managing business operations, including finance, HR, and administration, indicating strong proficiency."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Has been instrumental in growing companies, including a start-up, from a small number of employees to a large team, suggesting strong proficiency in strategic planning."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has supervised and managed teams of varying sizes, including a team of 215 employees, indicating strong proficiency in team management."
+            },
+            {
+                "name": "Financial Management",
+                "level": 3,
+                "explanation": "Has managed financial responsibilities, including payroll and benefits budgets, but the extent of experience is not as clear as other skills, showing a solid working proficiency."
+            },
+            {
+                "name": "IT Management",
+                "level": 2,
+                "explanation": "Has managed IT responsibilities, but the extent of experience is not as clear as other skills, suggesting some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "9.json",
+    "recommendation_file": "Recommendation_From_ID_123.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role and relationship to the candidate are unclear, and the language used is overly flattering.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional customer service skills, relationship building, and leadership potential. However, the recommender's role and relationship to the candidate are unclear, and the language used is overly flattering, which raises some concerns about the credibility of the recommendation."
+    }
+}

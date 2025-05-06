@@ -1,0 +1,23 @@
+{
+    "resume_file": "617.json",
+    "recommendation_file": "Recommendation_From_ID_709.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Patient Care",
+            "Medical Record Keeping",
+            "Medication Management",
+            "Wound Care",
+            "Leadership",
+            "Communication",
+            "Critical Thinking",
+            "Time Management",
+            "Patient Education",
+            "Teamwork"
+        ],
+        "recommendation_source": "Supervisor/Director",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing capabilities and leadership qualities. The source of the recommendation is a Director of Quality Improvement Network Facilitation, indicating a supervisory or leadership role."
+    }
+}

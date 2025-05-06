@@ -1,0 +1,20 @@
+{
+    "resume_file": "281.json",
+    "recommendation_file": "Recommendation_From_ID_928.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Team Leadership",
+            "Web Development",
+            "Intranet Development",
+            "Solution Implementation",
+            "Data Analysis",
+            "Budgeting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management, strategic planning, and project execution abilities. However, it does not explicitly mention the candidate's experience in managing multiple websites, collecting and reporting data, or working with external teams."
+    }
+}

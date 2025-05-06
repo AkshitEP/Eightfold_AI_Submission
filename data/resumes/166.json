@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Medical Billing Specialist",
+                "work_description": "Run daily report of charges ready to post for claims. Able to understand CPT, HCPCS II, ICD-9, and ICD-10 diagnosis codes. Re-code CPT codes for specialized billing (i.e., charges for Medicare patients). Add appropriate modifiers as needed and/or requested by contacts at facility site. Submit charges in correct RVU order while following NCCI guidelines. Work with contacts at the site to ensure charges and claims are submitted cleanly via internal/external emails and weekly conference calls. Inform site contacts of any charges nearing timely filing limits. Use PrimeSUITE software for charge entry. Work with Insurance AR reps to resolve any denials/issues with submitted claims. Some knowledge of billing per insurance type (i.e. commercial, state/federal, or private insurances).",
+                "company_level": "Mid-level",
+                "start_date": "07/2014",
+                "end_date": "12/2015"
+            },
+            {
+                "role_name": "Imaging Specialist I",
+                "work_description": "Processed payments for medical offices, collections agencies, and utility companies. Sorted and counted how much mail each client received, both live payments and correspondences. Prepared live check payments for processing by ensuring information was legible. Scanned checks into system and ensured quality of batches before submitting to payment processing. Scanned correspondences for each client, ensuring all documents were legible. Prepared and mailed out rejected payments or return mail for each client every afternoon. Maintained logs with totals for client mail (incoming and outgoing) for monthly billing purposes.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "03/2013"
+            },
+            {
+                "role_name": "Cashier",
+                "work_description": "Handled customer transactions such as sales. Responsible for handling and counting large amounts of cash. Offered product insurance to customers when applicable. Ask for and/or offered customer rewards card to all customers.",
+                "company_level": "Startup",
+                "start_date": "05/2010",
+                "end_date": "11/2010"
+            },
+            {
+                "role_name": "Cashier",
+                "work_description": "Handled customer transactions such as sales and returns. Answered telephones and routed calls to their correct department. Responsible for handling and counting large amounts of cash. Offered product insurance to customers when applicable. Asked for and/or offered customer rewards card to all customers. Directed customers to correct department. Refilled ink cartridges for customers. Called customers when their orders arrived in store. Maintained cleanliness and organization of the store's front end.",
+                "company_level": "Startup",
+                "start_date": "04/2006",
+                "end_date": "08/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northgate High School",
+                "start_date": "01/2006",
+                "end_date": "05/2006",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Columbus State University",
+                "start_date": "Present",
+                "end_date": "Present",
+                "domain": "Healthcare Information Technology Management",
+                "level": "Associates"
+            },
+            {
+                "university": "West Georgia Technical",
+                "start_date": "Present",
+                "end_date": "Present",
+                "domain": "Computer Networking",
+                "level": "Associates"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Medical Billing",
+                "level": 4,
+                "explanation": "Has extensive experience with medical billing, including understanding of CPT, HCPCS II, ICD-9, and ICD-10 diagnosis codes, and working with PrimeSUITE software for charge entry."
+            },
+            {
+                "name": "Healthcare Information Management",
+                "level": 3,
+                "explanation": "Has knowledge of healthcare information management, including billing per insurance type and working with Insurance AR reps to resolve denials/issues with submitted claims."
+            },
+            {
+                "name": "Data Entry",
+                "level": 4,
+                "explanation": "Has extensive experience with data entry, including charge entry using PrimeSUITE software and scanning checks and correspondences for processing."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience with customer service, including handling customer transactions, answering telephones, and directing customers to correct department."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 3,
+                "explanation": "Has experience with handling and counting large amounts of cash, including maintaining logs with totals for client mail."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience with communication, including working with contacts at facility sites, Insurance AR reps, and customers via internal/external emails and weekly conference calls."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience with time management, including ensuring charges and claims are submitted cleanly and within timely filing limits."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Has experience with problem-solving, including resolving denials/issues with submitted claims and working with Insurance AR reps to resolve issues."
+            }
+        ]
+    }
+}

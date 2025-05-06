@@ -1,0 +1,16 @@
+{
+    "resume_file": "367.json",
+    "recommendation_file": "Recommendation_From_ID_654.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. The recommender's background in marine biology seems unrelated to the candidate's HR experience, raising some concerns about the recommender's credibility.",
+        "verified_skills": [
+            "Employee Relations",
+            "Conflict Resolution",
+            "Communication and Interpersonal Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's interpersonal and conflict resolution skills, which align with their HR experience. However, the recommender's background and lack of specific examples from the candidate's work experience raise some concerns about the recommendation's credibility."
+    }
+}

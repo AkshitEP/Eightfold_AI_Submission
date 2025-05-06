@@ -1,0 +1,514 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Provide leadership, vision and management to the IT department. Develop Capitol Budget, monitor and approve department expenditures. Manage, monitor and maintain network infrastructure. Manage Phone System, including call center and office phones. Manage all hardware and software configuration, installation and maintenance. Manage IT Staff, scheduling, performance review, training, hiring, termination and disciplinary action. Maintain (PCI DSS) Payment Card Industry Data Security Standards of information systems. Research new technologies and calculate future needs to achieve capacity planning. Perform technical analysis to improve business processes to save cost and time. Manage technology documents, maintenance agreements & service contracts.",
+                "company_level": "Mid-level",
+                "start_date": "07/2000",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Computer Manufacturing Supervisor",
+                "work_description": "Supervised a team of 25 computer assemblers, 3 testers and 6 technicians. Organized computer assembly and testing for daily production. Implemented procedures for safety, performance and policies. Ensured all employees were trained in the process of manufacturing. Monitor software and hardware evaluation to ensure compatibility. Managed Documentation Control for all hardware and software. Provided resolutions to engineering, Logistics and Management. Coordinated daily resolutions of issues through team-effort and effective communication.",
+                "company_level": "Mid-level",
+                "start_date": "09/1998",
+                "end_date": "09/1999"
+            },
+            {
+                "role_name": "Quality Assurance Supervisor",
+                "work_description": "Supervised a team of 15 Computer quality inspectors and 8 software evaluators. Hired, Interviewed and promoted candidates for new positions. Coordinated quality assurance of new product development and proto-types. Monitored software and hardware compatibility and reliability. Managed Documentation Control for all hardware and software. Monitor schedules, training, expenditure and documentation. Interview vendors for devices, parts and components evaluation. Counseled employees to improve morale, productivity and teamwork. Interpreted instructions for the ISO 9000 compliance. Implemented procedures for safety, performance and policies. Maintain effective communication channels for quality improvement. Assessed product viability and planned improvement and modifications.",
+                "company_level": "Mid-level",
+                "start_date": "04/1995",
+                "end_date": "03/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2000",
+                "end_date": "12/2000",
+                "domain": "Information System",
+                "level": "Bachelor of Science"
+            },
+            {
+                "university": "American River College",
+                "start_date": "01/1993",
+                "end_date": "06/1993",
+                "domain": "Computer Technology",
+                "level": "Associate of Science"
+            }
+        ],
+        "projects": [],
+        "interests": [],
+        "skills": [
+            "Active Directory",
+            "Adobe",
+            "Antivirus",
+            "Backup Exec",
+            "Backup",
+            "Budget",
+            "business processes",
+            "call center",
+            "capacity planning",
+            "Cisco",
+            "computer assembly",
+            "Hardware",
+            "contracts",
+            "Direct Attached Storage",
+            "DAS",
+            "Database",
+            "Dell",
+            "Dell Servers",
+            "Designing",
+            "Desktops",
+            "Documentation",
+            "Firewall",
+            "HP",
+            "hiring",
+            "information systems",
+            "ISO 9000",
+            "Leadership",
+            "Linux",
+            "Logistics",
+            "Mac",
+            "MAC OS",
+            "Managing",
+            "Access",
+            "Microsoft Certified Professional",
+            "Microsoft Exchange",
+            "Microsoft Office Professional",
+            "office",
+            "Microsoft Project",
+            "Microsoft SQL",
+            "Microsoft Visio Professional",
+            "Windows 7",
+            "Windows 8",
+            "Windows",
+            "Enterprise",
+            "NAS",
+            "Network Attached Storage",
+            "Network Printers",
+            "Network",
+            "Networking",
+            "new product development",
+            "Operating Systems",
+            "PBX",
+            "PCI",
+            "Phone System",
+            "policies",
+            "Project Management",
+            "quality",
+            "quality assurance",
+            "quality improvement",
+            "QuickBooks Pro",
+            "Research",
+            "Robotic",
+            "safety",
+            "Storage Area Network",
+            "SAN",
+            "scheduling",
+            "Servers",
+            "Microsoft SQL Server",
+            "Symantec",
+            "teamwork",
+            "technical analysis",
+            "phones",
+            "Troubleshooting",
+            "upgrade",
+            "Visio Professional",
+            "vision",
+            "Web Portal",
+            "WAN"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including IT Manager, Computer Manufacturing Supervisor, and Quality Assurance Supervisor, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience in managing projects, including IT projects, and has managed teams, indicating strong proficiency."
+            },
+            {
+                "name": "Network Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing network infrastructure, including network printers, servers, and storage, indicating expert-level mastery."
+            },
+            {
+                "name": "Database Management",
+                "level": 4,
+                "explanation": "Has experience in managing databases, including Microsoft SQL Server, indicating strong proficiency."
+            },
+            {
+                "name": "Operating Systems",
+                "level": 5,
+                "explanation": "Has extensive experience in managing operating systems, including Windows, Linux, and MAC OS, indicating expert-level mastery."
+            },
+            {
+                "name": "Hardware Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing hardware, including servers, desktops, and printers, indicating expert-level mastery."
+            },
+            {
+                "name": "Software Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing software, including Microsoft Office, Adobe, and Symantec, indicating expert-level mastery."
+            },
+            {
+                "name": "Quality Assurance",
+                "level": 5,
+                "explanation": "Has extensive experience in quality assurance, including ISO 9000 compliance, indicating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Has experience in managing budgets, including IT budgets, indicating strong proficiency."
+            },
+            {
+                "name": "Capacity Planning",
+                "level": 4,
+                "explanation": "Has experience in capacity planning, including researching new technologies, indicating strong proficiency."
+            },
+            {
+                "name": "Technical Analysis",
+                "level": 4,
+                "explanation": "Has experience in technical analysis, including improving business processes, indicating strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Has experience in troubleshooting, including resolving technical issues, indicating strong proficiency."
+            },
+            {
+                "name": "Active Directory",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Adobe",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Antivirus",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Backup Exec",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Backup",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Cisco",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Dell",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Dell Servers",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Designing",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Direct Attached Storage",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "DAS",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Documentation",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Firewall",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "HP",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "hiring",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "information systems",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "ISO 9000",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Linux",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Logistics",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "MAC OS",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Managing",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Access",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Microsoft Certified Professional",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Microsoft Exchange",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Microsoft Office Professional",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Microsoft Project",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Microsoft SQL",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Microsoft Visio Professional",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Windows 7",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Windows 8",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Windows",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Enterprise",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "NAS",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Network Attached Storage",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Network Printers",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Network",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Networking",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "new product development",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Operating Systems",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "PBX",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "PCI",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Phone System",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "policies",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "quality",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "quality assurance",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "quality improvement",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "QuickBooks Pro",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Research",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Robotic",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "safety",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Storage Area Network",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "SAN",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "scheduling",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Servers",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Symantec",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "teamwork",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "technical analysis",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "phones",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "upgrade",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Visio Professional",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "vision",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "Web Portal",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            },
+            {
+                "name": "WAN",
+                "level": 0,
+                "explanation": "Mentioned in skills section, but no backing in job history or education."
+            }
+        ]
+    }
+}

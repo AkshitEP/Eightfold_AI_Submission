@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Manager",
+                "work_description": "Corporate HR Manager for project management & consultancy firm - offering advisory services to the life science, biotechnology & medical device industries. I provide strategic direction and design in all areas affecting talent acquisition, onboarding, performance management & instructional training design.",
+                "company_level": "Mid-level",
+                "start_date": "03/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Manager - HR Corporate Recruiter and HR consultant",
+                "work_description": "Coordinated full-cycle recruiting and retention strategies for management positions at corporate headquarters and nationwide facilities. Partnered with hiring managers to provide insight and direction regarding interview and selection processes.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "03/2013"
+            },
+            {
+                "role_name": "Sr. HR Generalist/Lead Recruiting Manager",
+                "work_description": "Provided human resources and recruitment & HR Generalist support for growing placement firm consisting of approximately 38 (FT) and 514 (PT/Temporary) employees. Oversaw marketing of HR opportunities and recruitment of qualified candidates.",
+                "company_level": "Mid-level",
+                "start_date": "01/1998",
+                "end_date": "01/2006"
+            },
+            {
+                "role_name": "Employee Relations Generalist",
+                "work_description": "Managed HR operations and generalist duties across the nation for institute consisting of 1,700 employees and 30 facilities. Oversaw employee relations, FMLAs, EEOC, ADA, FSLA, benefits, and payroll.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1992",
+                "end_date": "01/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "Marquette University",
+                "start_date": "01/1990",
+                "end_date": "12/1992",
+                "domain": "Human Resources",
+                "level": "Master's"
+            },
+            {
+                "university": "The John Marshall Law School",
+                "start_date": "01/1995",
+                "end_date": "12/1997",
+                "domain": "Law",
+                "level": "Juris Doctor"
+            },
+            {
+                "university": "Marquette University",
+                "start_date": "01/1985",
+                "end_date": "12/1989",
+                "domain": "Arts",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Talent Acquisition",
+                "level": 5,
+                "explanation": "Over 20 years of experience in talent acquisition, including full-cycle recruiting, onboarding, and strategic direction, indicating expert-level mastery."
+            },
+            {
+                "name": "Performance Management",
+                "level": 4,
+                "explanation": "Provided strategic direction and design in performance management, showing strong proficiency in this area."
+            },
+            {
+                "name": "Instructional Training Design",
+                "level": 4,
+                "explanation": "Designed instructional training, suggesting a strong proficiency in this area."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 5,
+                "explanation": "Managed employee relations, including FMLAs, EEOC, ADA, FSLA, benefits, and payroll, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment Strategy",
+                "level": 5,
+                "explanation": "Coordinated full-cycle recruiting and retention strategies, showing expert-level proficiency in recruitment strategy."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Led teams and provided strategic direction, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "HR Operations",
+                "level": 5,
+                "explanation": "Managed HR operations, including benefits, payroll, and employee relations, indicating expert-level mastery."
+            },
+            {
+                "name": "Compliance",
+                "level": 4,
+                "explanation": "Handled EEOC, ADA, FSLA, and other compliance-related tasks, showing strong proficiency in compliance."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Oversaw payroll, showing a solid working proficiency in payroll management."
+            }
+        ]
+    }
+}

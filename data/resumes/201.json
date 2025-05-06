@@ -1,0 +1,58 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Safety Assistant",
+                "work_description": "Perform administrative tasks such as preparing travel arrangements and assisting with investigations by gathering information and drafting correspondence and reports for enforcements, accidents, incidents and complaint investigations. Maintain and coordinate the calendars, and schedules for my unit, and maintaining confidential files, the Facility Emergency Security Plan and the telephone availability list to insure daily office coverage.",
+                "company_level": "Government",
+                "start_date": "01/1998",
+                "end_date": "10/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Computer Learning Center Business School",
+                "start_date": "01/1998",
+                "end_date": "12/1998",
+                "domain": "Business",
+                "level": "Graduate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Administrative Assistance",
+                "level": 4,
+                "explanation": "Handled various administrative tasks such as preparing travel arrangements, maintaining calendars and schedules, and drafting correspondence and reports, indicating strong proficiency."
+            },
+            {
+                "name": "Investigation Support",
+                "level": 3,
+                "explanation": "Assisted with investigations by gathering information and drafting reports, showing a solid working proficiency."
+            },
+            {
+                "name": "Record Keeping",
+                "level": 3,
+                "explanation": "Maintained confidential files, the Facility Emergency Security Plan, and the telephone availability list, indicating a solid level of proficiency in record keeping."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Coordinated calendars and schedules for the unit, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Drafted correspondence and reports, indicating a solid level of proficiency in written communication."
+            },
+            {
+                "name": "Business Administration",
+                "level": 2,
+                "explanation": "Graduated with a degree in Business, but work experience does not show extensive application of business administration skills."
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "target_id": "745",
+    "recommendations": [
+        {
+            "recommender_id": "706",
+            "recommendation": {
+                "resume_file": "745.json",
+                "recommendation_file": "Recommendation_From_ID_706.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written for two different individuals, which raises some concerns about its authenticity. However, the language is formal and there are no statistically improbable claims.",
+                    "verified_skills": [
+                        "Marketing",
+                        "Event Management",
+                        "Sales",
+                        "Leadership",
+                        "Negotiation",
+                        "Presentation",
+                        "Business Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation partially aligns with the candidate's skills and experience, but it seems to be written for two different individuals. The part relevant to the candidate highlights their exceptional ability to drive business growth through innovative marketing strategies and operational efficiency."
+                }
+            }
+        },
+        {
+            "recommender_id": "164",
+            "recommendation": {
+                "resume_file": "745.json",
+                "recommendation_file": "Recommendation_From_ID_164.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Marketing",
+                        "Event Management",
+                        "Sales",
+                        "Leadership",
+                        "Negotiation",
+                        "Presentation",
+                        "Business Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in business operations and marketing. The recommender's background in the Retail Banking sector adds credibility to their assessment of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "128",
+            "recommendation": {
+                "resume_file": "745.json",
+                "recommendation_file": "Recommendation_From_ID_128.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions the skills and experience of another individual, which may indicate that the recommender is trying to enhance the candidate's credentials by association.",
+                    "verified_skills": [
+                        "Marketing",
+                        "Event Management",
+                        "Sales",
+                        "Leadership",
+                        "Negotiation",
+                        "Presentation",
+                        "Business Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "335",
+            "recommendation": {
+                "resume_file": "745.json",
+                "recommendation_file": "Recommendation_From_ID_335.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not a direct supervisor or peer, and the language is overly flattering. However, the skills and experiences mentioned align well with the resume.",
+                    "verified_skills": [
+                        "Marketing",
+                        "Leadership",
+                        "Event Management",
+                        "Sales"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, marketing, and event management skills, which are well-supported by their resume. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

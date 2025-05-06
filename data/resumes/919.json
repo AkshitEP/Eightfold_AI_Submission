@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Supply Chain Manager",
+                "work_description": "Achieved corporate goals through the development and execution of strategy, policy, and leadership. Primarily, but not limited to activities relating to master planning, tactical purchasing, receiving, warehousing, and shipping, and general materials Management. Created and implemented Supply Chain Operational Excellence plan and Business Process Improvement plan to increase inventory turns (from 4 average turns per year to 7 average annual turns per year) within a high mix, low volume global business environment.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2013",
+                "end_date": "07/2014"
+            },
+            {
+                "role_name": "Materials Manager",
+                "work_description": "Responsible for sourcing and procuring all material required for repair and overhaul of jet engine and components as well as all contracts for outside services and long term agreements with suppliers. Controlled $1.5 million in component parts inventory while maintaining 12 inventory turns annually.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2010",
+                "end_date": "10/2013"
+            },
+            {
+                "role_name": "Contracts Supervisor",
+                "work_description": "Interacted with Department heads to ensure the highest quality proposal was provided by meeting the customers' requirements for Value Added Services Programs, valued at $1.5 Billion. Reviewed terms and conditions to ensure requirements are in line with B/E policies as well as regulations such as DFAR, ITAR, and Proprietary parts licensing.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2006",
+                "end_date": "11/2010"
+            },
+            {
+                "role_name": "Purchasing and Procurement",
+                "work_description": "Purchasing and Procurement of military and civilian equipment. Reviewed the accuracy of purchase orders to ensure appropriate use of government funds. Maintained inventory control through quarterly cycle counts.",
+                "company_level": "Government",
+                "start_date": "09/1996",
+                "end_date": "12/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Business Administration",
+                "level": "Graduate"
+            },
+            {
+                "university": "University of Maryland",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Supply Chain Management",
+                "level": 5,
+                "explanation": "Has extensive experience in supply chain management, having held roles such as Supply Chain Manager and Materials Manager, and achieved significant improvements in inventory turns, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has demonstrated leadership skills through the development and execution of strategy, policy, and leadership in various roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Procurement",
+                "level": 5,
+                "explanation": "Has extensive experience in procurement, having sourced and procured materials for various organizations, including military and civilian equipment, indicating expert-level mastery."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 4,
+                "explanation": "Has maintained inventory control through quarterly cycle counts and controlled $1.5 million in component parts inventory, suggesting strong proficiency."
+            },
+            {
+                "name": "Contract Management",
+                "level": 4,
+                "explanation": "Has reviewed terms and conditions of contracts to ensure requirements are in line with policies and regulations, suggesting strong proficiency."
+            },
+            {
+                "name": "Business Process Improvement",
+                "level": 4,
+                "explanation": "Has created and implemented Business Process Improvement plans to increase inventory turns, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has managed various projects, including the development and execution of strategy, policy, and leadership, suggesting solid working proficiency."
+            }
+        ]
+    }
+}

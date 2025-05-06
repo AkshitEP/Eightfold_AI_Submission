@@ -1,0 +1,17 @@
+{
+    "resume_file": "864.json",
+    "recommendation_file": "Recommendation_From_ID_957.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall seems genuine.",
+        "verified_skills": [
+            "Patient Care Coordination",
+            "Communication",
+            "Problem-Solving",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in patient advocacy and client relations, but may be seen as exaggerated in some areas."
+    }
+}

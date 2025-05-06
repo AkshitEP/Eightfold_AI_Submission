@@ -1,0 +1,127 @@
+{
+    "target_id": "160",
+    "recommendations": [
+        {
+            "recommender_id": "413",
+            "recommendation": {
+                "resume_file": "160.json",
+                "recommendation_file": "Recommendation_From_ID_413.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Banking Operations",
+                        "Customer Service",
+                        "Account Management",
+                        "Cash Management",
+                        "Data Analysis",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Boss/Supervisor or Industry Expert",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking operations and customer service skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "517",
+            "recommendation": {
+                "resume_file": "160.json",
+                "recommendation_file": "Recommendation_From_ID_517.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Some inconsistencies and exaggerated claims are present, but the language is formal and there are no obvious signs of exaggeration or improper language.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks substantial detail or alignment with the key areas of expertise mentioned in the resume, and contains some inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "123",
+            "recommendation": {
+                "resume_file": "160.json",
+                "recommendation_file": "Recommendation_From_ID_123.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Cash Management",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking operations and customer service abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "23",
+            "recommendation": {
+                "resume_file": "160.json",
+                "recommendation_file": "Recommendation_From_ID_23.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Banking Operations",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but some minor inconsistencies and exaggerated claims are present. The recommendation verifies key skills and experiences from the resume, but some claims seem unrealistic."
+                }
+            }
+        },
+        {
+            "recommender_id": "374",
+            "recommendation": {
+                "resume_file": "160.json",
+                "recommendation_file": "Recommendation_From_ID_374.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Banking Operations",
+                        "Customer Service",
+                        "Account Management",
+                        "Cash Management",
+                        "Analytical Skills"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking operations and customer service skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "888",
+            "recommendation": {
+                "resume_file": "160.json",
+                "recommendation_file": "Recommendation_From_ID_888.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Account Management",
+                        "Cash Management",
+                        "Banking Operations"
+                    ],
+                    "recommendation_source": "Peer/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking roles and academic background."
+                }
+            }
+        }
+    ]
+}

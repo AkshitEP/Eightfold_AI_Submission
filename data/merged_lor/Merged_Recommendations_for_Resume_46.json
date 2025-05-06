@@ -1,0 +1,50 @@
+{
+    "target_id": "46",
+    "recommendations": [
+        {
+            "recommender_id": "315",
+            "recommendation": {
+                "resume_id": 46,
+                "recommendation_file": "Recommendation_From_ID_315.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Account Reconciliation",
+                        "Customer Service",
+                        "Time Management",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and customer service skills. The recommendation highlights the candidate's expertise in financial management, customer service, and time management, which are all relevant to their work experience and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "497",
+            "recommendation": {
+                "resume_id": 46,
+                "recommendation_file": "Recommendation_From_ID_497.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Account Reconciliation",
+                        "Customer Service",
+                        "Time Management",
+                        "Data Entry",
+                        "Banking Systems"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting abilities and customer service skills."
+                }
+            }
+        }
+    ]
+}

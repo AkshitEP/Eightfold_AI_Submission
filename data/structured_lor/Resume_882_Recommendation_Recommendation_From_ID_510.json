@@ -1,0 +1,19 @@
+{
+    "resume_file": "882.json",
+    "recommendation_file": "Recommendation_From_ID_510.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with the second individual matching the resume details. However, the first individual is described as a tax accountant, which is not mentioned in the resume. This inconsistency raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Contract Negotiation",
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be describing two different individuals, with the second individual matching the resume details. However, the first individual is described as a tax accountant, which is not mentioned in the resume. This inconsistency raises concerns about the authenticity of the recommendation."
+    }
+}

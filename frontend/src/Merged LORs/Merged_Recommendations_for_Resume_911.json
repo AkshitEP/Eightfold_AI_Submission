@@ -1,0 +1,71 @@
+{
+    "target_id": "911",
+    "recommendations": [
+        {
+            "recommender_id": "649",
+            "recommendation": {
+                "resume_file": "911.json",
+                "recommendation_file": "Recommendation_From_ID_649.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but there are some minor inconsistencies. The recommender mentions the candidate's experience in healthcare administration, which is not mentioned in the resume. Additionally, the recommender describes the candidate as a 'dedicated financial professional,' which is not supported by the resume.",
+                    "verified_skills": [
+                        "Communication",
+                        "Problem-Solving",
+                        "Event Planning",
+                        "Leadership",
+                        "Time Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and interpersonal skills. However, there are some minor inconsistencies that raise concerns about the recommender's familiarity with the candidate's background."
+                }
+            }
+        },
+        {
+            "recommender_id": "22",
+            "recommendation": {
+                "resume_file": "911.json",
+                "recommendation_file": "Recommendation_From_ID_22.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Communication",
+                        "Problem-Solving",
+                        "Event Planning",
+                        "Leadership",
+                        "Time Management",
+                        "Data Analysis",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and collaboration with families and services. The source of the recommendation is a peer, a Domestic Violence Counselor Advocate, who has witnessed the candidate's dedication and capabilities firsthand."
+                }
+            }
+        },
+        {
+            "recommender_id": "94",
+            "recommendation": {
+                "resume_file": "911.json",
+                "recommendation_file": "Recommendation_From_ID_94.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession (Nurse Practitioner) does not directly align with the candidate's experience or skills. However, the recommendation provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Communication",
+                        "Problem-Solving",
+                        "Leadership",
+                        "Time Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience as a Court Appointed Special Advocate, but the recommender's profession and relationship to the candidate are unclear. The recommendation provides specific examples of the candidate's skills and experience, but the lack of direct alignment between the recommender's profession and the candidate's experience raises some concerns."
+                }
+            }
+        }
+    ]
+}

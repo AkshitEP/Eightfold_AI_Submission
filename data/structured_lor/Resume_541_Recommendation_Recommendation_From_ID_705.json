@@ -1,0 +1,20 @@
+{
+    "resume_file": "541.json",
+    "recommendation_file": "Recommendation_From_ID_705.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Some inconsistencies and exaggerated claims detected. The recommendation mentions roles and skills not explicitly mentioned in the resume, such as Senior Vice-President and Chief Information Officer, and micro-lending initiatives. However, the language is formal and no statistically improbable claims are present.",
+        "verified_skills": [
+            "Financial Management",
+            "Operational Finance",
+            "Leadership",
+            "Financial Analysis",
+            "Budgeting",
+            "Project Management",
+            "Contract Negotiation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in financial management, operational finance, and leadership. However, some claims seem exaggerated or unsupported, and the recommendation mentions roles and skills not explicitly mentioned in the resume."
+    }
+}

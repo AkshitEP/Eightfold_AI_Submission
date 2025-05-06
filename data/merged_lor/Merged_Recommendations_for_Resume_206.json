@@ -1,0 +1,95 @@
+{
+    "target_id": "206",
+    "recommendations": [
+        {
+            "recommender_id": "754",
+            "recommendation": {
+                "resume_file": "206.json",
+                "recommendation_file": "Recommendation_From_ID_754.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. The source of the recommendation is unclear, and the title 'EPIC Information Technology Specialist' does not match the candidate's job history.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Mergers and Acquisitions",
+                        "Investment Banking",
+                        "Financial Modeling",
+                        "Data Analysis",
+                        "Valuation",
+                        "Database Management",
+                        "Market Research",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but the language is overly flattering and lacks specific examples from the candidate's resume. The source of the recommendation is unclear, and the title 'EPIC Information Technology Specialist' does not match the candidate's job history."
+                }
+            }
+        },
+        {
+            "recommender_id": "467",
+            "recommendation": {
+                "resume_file": "206.json",
+                "recommendation_file": "Recommendation_From_ID_467.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Mergers and Acquisitions",
+                        "Financial Modeling",
+                        "Data Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their strategic planning, analytical prowess, and exceptional communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "620",
+            "recommendation": {
+                "resume_file": "206.json",
+                "recommendation_file": "Recommendation_From_ID_620.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including mention of experience not present in the resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Mergers and Acquisitions",
+                        "Data Analysis",
+                        "Financial Modeling",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies that raise concerns about accuracy."
+                }
+            }
+        },
+        {
+            "recommender_id": "162",
+            "recommendation": {
+                "resume_file": "206.json",
+                "recommendation_file": "Recommendation_From_ID_162.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Mergers and Acquisitions",
+                        "Investment Banking",
+                        "Financial Modeling",
+                        "Data Analysis",
+                        "Valuation",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's analytical skills, ability to distill complex financial metrics, and cross-departmental collaboration. However, the language is overly flattering and lacks specific examples from the candidate's resume, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

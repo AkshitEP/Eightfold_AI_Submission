@@ -1,0 +1,21 @@
+{
+    "resume_file": "468.json",
+    "recommendation_file": "Recommendation_From_ID_880.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "IT Service Management",
+            "Network Administration",
+            "Database Administration",
+            "Computer Systems",
+            "Teaching",
+            "Consulting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and IT service management expertise. The recommendation highlights the candidate's ability to manage large-scale IT operations, optimize IT costs, and enhance performance metrics, which are all relevant to their current role as Information Technology Bureau Deputy Director."
+    }
+}

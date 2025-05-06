@@ -1,0 +1,17 @@
+{
+    "resume_file": "15.json",
+    "recommendation_file": "Recommendation_From_ID_445.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic given the candidate's domain and experience level. The recommender's background and relationship with the candidate are unclear, and the language used is overly flattering and lacks specific examples.",
+        "verified_skills": [
+            "Leadership",
+            "Financial Analysis",
+            "Budgeting",
+            "Process Improvement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and analytical skills, but lacks concrete examples and seems overly flattering. The recommender's background and relationship with the candidate are unclear, which raises concerns about the recommendation's credibility."
+    }
+}

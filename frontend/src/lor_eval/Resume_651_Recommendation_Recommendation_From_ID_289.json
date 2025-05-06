@@ -1,0 +1,17 @@
+{
+    "resume_file": "651.json",
+    "recommendation_file": "Recommendation_From_ID_289.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Account Management",
+            "Sales and Marketing",
+            "Banking Operations"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their client service and management abilities. However, the recommendation does not explicitly mention the candidate's technical skills, such as web development or technical writing."
+    }
+}

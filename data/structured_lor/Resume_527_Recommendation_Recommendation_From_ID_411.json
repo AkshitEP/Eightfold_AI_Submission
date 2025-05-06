@@ -1,0 +1,22 @@
+{
+    "resume_file": "527.json",
+    "recommendation_file": "Recommendation_From_ID_411.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Sales Training",
+            "Leadership",
+            "Customer Service",
+            "Marketing",
+            "Project Management",
+            "Conflict Management",
+            "Employee Training",
+            "Team Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales success and employee training. However, some minor inconsistencies and exaggerated claims are present, such as the claim of 'significant advancements within the organization' without providing concrete evidence."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "897.json",
+    "recommendation_file": "Recommendation_From_ID_827.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Marketing",
+            "Sales",
+            "Communication",
+            "Project Management",
+            "Time Management",
+            "Team Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing and sales achievements, leadership skills, and ability to build lasting relationships with clinical representatives."
+    }
+}

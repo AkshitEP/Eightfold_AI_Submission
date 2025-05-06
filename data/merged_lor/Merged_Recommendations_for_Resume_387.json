@@ -1,0 +1,92 @@
+{
+    "target_id": "387",
+    "recommendations": [
+        {
+            "recommender_id": "30",
+            "recommendation": {
+                "resume_file": "387.json",
+                "recommendation_file": "Recommendation_From_ID_30.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies detected. The recommendation mentions the candidate's experience in the construction industry, but the resume does not mention this. However, the skills and experience mentioned in the recommendation align well with the candidate's resume.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Accounting Standards"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in accounting and financial management, but some minor inconsistencies are present. The recommendation seems genuine, but the mention of the construction industry is not supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "820",
+            "recommendation": {
+                "resume_file": "387.json",
+                "recommendation_file": "Recommendation_From_ID_820.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, analysis, and leadership abilities. The supervisor's endorsement carries significant weight, given their own experience in overseeing comprehensive financial reporting and project accounting."
+                }
+            }
+        },
+        {
+            "recommender_id": "763",
+            "recommendation": {
+                "resume_file": "387.json",
+                "recommendation_file": "Recommendation_From_ID_763.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "256",
+            "recommendation": {
+                "resume_file": "387.json",
+                "recommendation_file": "Recommendation_From_ID_256.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership qualities. The source of the recommendation is a Financial Accountant who has worked closely with the candidate, lending credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

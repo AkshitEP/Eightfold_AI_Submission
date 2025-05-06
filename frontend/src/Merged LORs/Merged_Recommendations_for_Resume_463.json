@@ -1,0 +1,62 @@
+{
+    "target_id": "463",
+    "recommendations": [
+        {
+            "recommender_id": "159",
+            "recommendation": {
+                "resume_file": "463.json",
+                "recommendation_file": "Recommendation_From_ID_159.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with little connection to the provided resume. Some skills mentioned in the resume are validated, but the recommendation lacks substantial detail or alignment with the key areas of expertise.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be describing two different individuals, with little connection to the provided resume. While some skills mentioned in the resume are validated, the recommendation lacks substantial detail or alignment with the key areas of expertise. The recommendation also seems to be exaggerated, with overly positive language and a lack of concrete examples or evidence from the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "87",
+            "recommendation": {
+                "resume_file": "463.json",
+                "recommendation_file": "Recommendation_From_ID_87.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Attention to Detail",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy and customer service skills. However, it does not directly reference the candidate's tax preparation or financial analysis skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "104",
+            "recommendation": {
+                "resume_file": "463.json",
+                "recommendation_file": "Recommendation_From_ID_104.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unclear recommender relationship",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but there are some minor inconsistencies and unclear relationships. The recommender verifies some of the candidate's skills, but the recommendation could be more specific and detailed."
+                }
+            }
+        }
+    ]
+}

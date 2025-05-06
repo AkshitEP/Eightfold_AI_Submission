@@ -1,0 +1,129 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "System Administrator",
+                "work_description": "Maintained server operation, security, and analyzed and diagnosed system hardware and software components. Created documents in Word and Power Point referencing problems encountered during trouble shooting for other group members. Conducted short training sessions for the group via OSC conference calls.",
+                "company_level": "Federal Government",
+                "start_date": "07/2005",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Computer System Administrator",
+                "work_description": "Assisted public electronic filing programmers by analyzing, diagnosing, and making proposals on errors in software to get their software to pass IRS standards for electronic filing. Maintained network and desktop computers, installed updates to workstations, and used network sniffer to troubleshoot connection issues.",
+                "company_level": "Federal Government",
+                "start_date": "01/1989",
+                "end_date": "04/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Weber State University",
+                "start_date": "01/1983",
+                "end_date": "12/1983",
+                "domain": "Sociology and Social Work Psychology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Riding Motorcycles",
+            "Walks",
+            "Hiking",
+            "Riding bicycles",
+            "Camping",
+            "Spending quality time with family and friends",
+            "Tracking the Stock Market"
+        ],
+        "skills": [
+            "Computers trouble shooting",
+            "Microsoft Access",
+            "Microsoft Excel",
+            "Microsoft PowerPoint",
+            "Microsoft Word",
+            "Computer Security",
+            "Anti Hacking",
+            "HIDS",
+            "Microsoft Event logging",
+            "Adobe"
+        ],
+        "awards": [
+            "Performance Award August 2013",
+            "Performance Award August 2012",
+            "Performance Award August 2011",
+            "Performance Award August 2010",
+            "Performance Award August 2009",
+            "Performance Award August 2008",
+            "Special Act award April 2008"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "System Administration",
+                "level": 5,
+                "explanation": "Over 30 years of experience in system administration, including server operation, security, and hardware and software troubleshooting, indicating expert-level mastery."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 5,
+                "explanation": "Extensive experience in analyzing and diagnosing system hardware and software components, as well as network connection issues, demonstrating expert-level proficiency."
+            },
+            {
+                "name": "Computer Security",
+                "level": 4,
+                "explanation": "Maintained server security and used network sniffer to troubleshoot connection issues, showing strong proficiency in computer security."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Used Microsoft Word and Power Point to create documents and conducted training sessions, suggesting strong proficiency in Microsoft Office."
+            },
+            {
+                "name": "Microsoft Word",
+                "level": 4,
+                "explanation": "Used Microsoft Word to create documents, suggesting strong proficiency."
+            },
+            {
+                "name": "Microsoft PowerPoint",
+                "level": 4,
+                "explanation": "Used Microsoft PowerPoint to create documents and conducted training sessions, suggesting strong proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 3,
+                "explanation": "Listed as a skill, but no direct experience mentioned in the work description, showing a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Access",
+                "level": 3,
+                "explanation": "Listed as a skill, but no direct experience mentioned in the work description, showing a solid working proficiency."
+            },
+            {
+                "name": "Anti Hacking",
+                "level": 3,
+                "explanation": "Listed as a skill, but no direct experience mentioned in the work description, showing a solid working proficiency."
+            },
+            {
+                "name": "HIDS",
+                "level": 3,
+                "explanation": "Listed as a skill, but no direct experience mentioned in the work description, showing a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Event logging",
+                "level": 3,
+                "explanation": "Listed as a skill, but no direct experience mentioned in the work description, showing a solid working proficiency."
+            },
+            {
+                "name": "Adobe",
+                "level": 3,
+                "explanation": "Listed as a skill, but no direct experience mentioned in the work description, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Conducted short training sessions for the group, but no extensive leadership experience mentioned, showing some practical experience."
+            }
+        ]
+    }
+}

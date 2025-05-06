@@ -1,0 +1,88 @@
+{
+    "target_id": "694",
+    "recommendations": [
+        {
+            "recommender_id": "441",
+            "recommendation": {
+                "resume_file": "694.json",
+                "recommendation_file": "Recommendation_From_ID_441.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Technical Support",
+                        "System Administration",
+                        "Troubleshooting",
+                        "Aviation Maintenance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, technical foundation, and communication abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "562",
+            "recommendation": {
+                "resume_file": "694.json",
+                "recommendation_file": "Recommendation_From_ID_562.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Technical Support",
+                        "System Administration",
+                        "Troubleshooting",
+                        "Aviation Maintenance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and technical proficiency. The source of the recommendation is unclear, but the language is formal and the claims are supported by the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "268",
+            "recommendation": {
+                "resume_file": "694.json",
+                "recommendation_file": "Recommendation_From_ID_268.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions international governmental liaison and aircraft certification, which is not directly mentioned in the resume. However, the recommendation does align with the candidate's skills and experience in aviation and aerospace.",
+                    "verified_skills": [
+                        "Aviation Maintenance",
+                        "Data Analysis",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in aviation and aerospace, but also mentions skills and experiences not directly mentioned in the resume. The recommendation seems to be written for two individuals, which may indicate a lack of personalization."
+                }
+            }
+        },
+        {
+            "recommender_id": "711",
+            "recommendation": {
+                "resume_file": "694.json",
+                "recommendation_file": "Recommendation_From_ID_711.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Technical Support",
+                        "System Administration",
+                        "Troubleshooting",
+                        "Aviation Maintenance"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and technical knowledge in the aviation industry."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Benefit Advocate",
+                "work_description": "Provide excellent customer service by responding to customer interactions via the telephone, email, or internet, in a professional, courteous, accurate manner while recording a brief overview of communication. Resolves customer inquiries and concerns with first call resolution; assist with the members needs regarding benefits, eligibility, claims, financial spending accounts and correspondence.",
+                "company_level": "Mid-level",
+                "start_date": "03/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Online Customer Service Representative",
+                "work_description": "Provide excellent customer service by responding to customer interactions via the telephone, email, or internet, in a professional, courteous, accurate manner while recording a brief overview of communication. Contracted/temporary assignment assisting customers with enrolling for online banking, resetting user names and passwords.",
+                "company_level": "Mid-level",
+                "start_date": "12/2014",
+                "end_date": "02/2015"
+            },
+            {
+                "role_name": "Senior Customer Service Representative",
+                "work_description": "Provide excellent customer service by responding to customer interactions via the telephone, email, or internet, in a professional, courteous, accurate manner while recording a brief overview of communication. Provided Services for Wellpoint Insurance. Handled the needs of medical professionals providing excellent customer service.",
+                "company_level": "Mid-level",
+                "start_date": "09/2013",
+                "end_date": "04/2014"
+            },
+            {
+                "role_name": "Sales Representative/Holistic Health Coach",
+                "work_description": "Provide excellent customer service by responding to customer interactions via the telephone, email, internet, or in person in a professional, courteous, accurate manner while recording a brief overview of communication. CEO/COO of Health and Wellness/Weight Management Company. Successfully sold over thirty thousand dollars in first six months of business.",
+                "company_level": "Startup",
+                "start_date": "03/2011",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Mortgage Insurance Customer Service Representative",
+                "work_description": "Provide excellent customer service by responding to customer interactions via the telephone, email, or internet, in a professional, courteous, accurate manner while recording a brief overview of communication. Inbound customer service representative for hazard insurance clients. Assisted borrowers and external customers.",
+                "company_level": "Mid-level",
+                "start_date": "06/2008",
+                "end_date": "06/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Colorado Technical University",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Paralegal Studies",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Over a decade of experience providing excellent customer service in various roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 5,
+                "explanation": "Consistently demonstrated excellent communication skills in responding to customer interactions via telephone, email, or internet, showing expert-level proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Resolved customer inquiries and concerns with first call resolution, suggesting strong proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Managed to handle a high volume of customer interactions while maintaining a professional and courteous manner, indicating strong proficiency in time management."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Successfully sold over thirty thousand dollars in the first six months of business, showing a solid working proficiency in sales."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Held a leadership role as CEO/COO of a health and wellness company, but the extent of leadership experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Insurance",
+                "level": 3,
+                "explanation": "Worked with insurance clients and handled their needs, showing a solid working proficiency in insurance."
+            },
+            {
+                "name": "Health and Wellness",
+                "level": 2,
+                "explanation": "Worked as a holistic health coach, but the extent of experience in this area is limited, indicating some practical experience."
+            }
+        ]
+    }
+}

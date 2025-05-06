@@ -1,0 +1,12 @@
+{
+    "resume_file": "114.json",
+    "recommendation_file": "Recommendation_From_ID_731.txt",
+    "output": {
+        "relevance_score": 1,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation is for a Customer Service Advocate, while the resume is for an IT professional. Statistically improbable claims and contradictory data are present.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be for a different individual, with no connection to the candidate's skills and experience in IT. This raises significant concerns about the authenticity of the recommendation."
+    }
+}

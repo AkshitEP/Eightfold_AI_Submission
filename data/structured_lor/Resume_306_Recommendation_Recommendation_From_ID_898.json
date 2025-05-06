@@ -1,0 +1,20 @@
+{
+    "resume_file": "306.json",
+    "recommendation_file": "Recommendation_From_ID_898.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Database Management",
+            "Technical Support",
+            "Leadership",
+            "Problem-Solving",
+            "Communication",
+            "Data Analysis",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership abilities, and communication skills."
+    }
+}

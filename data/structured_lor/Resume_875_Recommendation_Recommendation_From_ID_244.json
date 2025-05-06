@@ -1,0 +1,17 @@
+{
+    "resume_file": "875.json",
+    "recommendation_file": "Recommendation_From_ID_244.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a direct supervisor or peer. The language is formal, but some claims seem slightly exaggerated.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities and team management skills. However, the source of the recommendation is unclear, and some claims seem slightly exaggerated."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "261.json",
+    "recommendation_file": "Recommendation_From_ID_416.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. The language is formal, but the recommender's experience working with the candidate is not clearly stated.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Cash Flow Management",
+            "Financial Reporting",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in finance management, but the recommender's role and relationship with the candidate are unclear. The recommendation highlights the candidate's exceptional skills in managing financial operations and reporting, as well as their ability to lead teams and communicate effectively."
+    }
+}

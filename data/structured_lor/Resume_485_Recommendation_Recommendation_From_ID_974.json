@@ -1,0 +1,18 @@
+{
+    "resume_file": "485.json",
+    "recommendation_file": "Recommendation_From_ID_974.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions unrelated experience as a Program Manager in detoxification and rehabilitation, which is not present in the resume. However, it does validate some skills like leadership, investigation, and communication.",
+        "verified_skills": [
+            "Leadership",
+            "Investigation",
+            "Communication",
+            "Training and Development",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's diverse experience and skills, but some claims seem exaggerated or unrelated to the resume. The source of the recommendation is unclear."
+    }
+}

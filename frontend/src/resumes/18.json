@@ -1,0 +1,94 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Support & Network Services Intern",
+                "work_description": "Customized and implemented Microsoft SCSM from SCCM in order to automate departmental organizational needs. Facilitated proper asset management and user onboarding processes tailored to the Student Affairs department. Worked with Network & Support Services team to learn more about the general campus and supported users.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Information Technology Lead Intern",
+                "work_description": "Worked with director on minimizing Windows XP machines and migrated to Windows 7 based on Spiceworks solution. Contacted Central IT when appropriate with regards to diagnosing distance education connections and supporting equipment. Deployed re-imaged hard drives or newly acquired assets for classrooms or professors based on priority scheduling.",
+                "company_level": "Mid-level",
+                "start_date": "06/2012",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "Information Technology Student Center Intern",
+                "work_description": "Resolved student center questions and arranged peer-to-peer tutoring/assistance with specific students in CSS program. Prepared and delivered a Microsoft Office training session, training videos for the general public in a workforce environment.",
+                "company_level": "Mid-level",
+                "start_date": "09/2011",
+                "end_date": "12/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Wisconsin",
+                "start_date": "01/2011",
+                "end_date": "12/2014",
+                "domain": "Information Science & Technology",
+                "level": "Bachelor of Science"
+            },
+            {
+                "university": "Waukesha County Technical College",
+                "start_date": "01/2009",
+                "end_date": "12/2011",
+                "domain": "IT-Computer Support Specialist",
+                "level": "AAS"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Prepared and delivered a Microsoft Office training session, indicating strong proficiency in the software suite."
+            },
+            {
+                "name": "Microsoft SCSM",
+                "level": 3,
+                "explanation": "Customized and implemented Microsoft SCSM from SCCM, showing a solid working proficiency in the software."
+            },
+            {
+                "name": "Asset Management",
+                "level": 3,
+                "explanation": "Facilitated proper asset management processes, indicating a solid working proficiency in asset management."
+            },
+            {
+                "name": "User Onboarding",
+                "level": 2,
+                "explanation": "Worked on user onboarding processes, but the extent of experience is not clearly stated, indicating some practical experience."
+            },
+            {
+                "name": "Windows XP/7 Migration",
+                "level": 3,
+                "explanation": "Worked on migrating Windows XP machines to Windows 7, showing a solid working proficiency in operating system migration."
+            },
+            {
+                "name": "Spiceworks",
+                "level": 2,
+                "explanation": "Used Spiceworks solution for migrating Windows XP machines, but the extent of experience is not clearly stated, indicating some practical experience."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 3,
+                "explanation": "Resolved student center questions and diagnosed distance education connections, indicating a solid working proficiency in troubleshooting."
+            },
+            {
+                "name": "Leadership",
+                "level": 1,
+                "explanation": "No clear evidence of leadership experience, but worked with directors and teams, indicating basic familiarity with leadership concepts."
+            },
+            {
+                "name": "IT Support",
+                "level": 4,
+                "explanation": "Worked in various IT support roles, including resolving student center questions and supporting equipment, indicating strong proficiency in IT support."
+            }
+        ]
+    }
+}

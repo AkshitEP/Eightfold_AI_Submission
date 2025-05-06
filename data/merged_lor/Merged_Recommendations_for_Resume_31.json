@@ -1,0 +1,111 @@
+{
+    "target_id": "31",
+    "recommendations": [
+        {
+            "recommender_id": "364",
+            "recommendation": {
+                "resume_file": "31.json",
+                "recommendation_file": "Recommendation_From_ID_364.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Informal language, statistically improbable claims, and lack of connection to the candidate's skills and experience.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's skills and experience, and the language used is informal and not suitable for a formal recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "86",
+            "recommendation": {
+                "resume_file": "31.json",
+                "recommendation_file": "Recommendation_From_ID_86.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is an administrative assistant, which may not be directly familiar with the candidate's technical skills. However, the recommendation provides specific examples of the candidate's work and its impact on the organization.",
+                    "verified_skills": [
+                        "Software Architecture",
+                        "Software Development",
+                        "Leadership",
+                        "API Design",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's technical skills, leadership abilities, and experience in designing and developing innovative web-based applications, particularly in the healthcare sector. However, the source of the recommendation is an administrative assistant, which may not be directly familiar with the candidate's technical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "401",
+            "recommendation": {
+                "resume_file": "31.json",
+                "recommendation_file": "Recommendation_From_ID_401.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation letter seems to be discussing two different individuals, and the content does not align with the candidate's resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation letter raises concerns about its authenticity and does not provide any specific details about the candidate's skills or experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "641",
+            "recommendation": {
+                "resume_file": "31.json",
+                "recommendation_file": "Recommendation_From_ID_641.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation makes claims about the candidate's expertise as a healthcare recruiter, which is not supported by the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's skills and experience, and makes statistically improbable claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "251",
+            "recommendation": {
+                "resume_file": "31.json",
+                "recommendation_file": "Recommendation_From_ID_251.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies detected, but overall the recommendation seems genuine.",
+                    "verified_skills": [
+                        "API Design",
+                        "Software Development",
+                        "Leadership",
+                        "Web Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies."
+                }
+            }
+        },
+        {
+            "recommender_id": "40",
+            "recommendation": {
+                "resume_file": "31.json",
+                "recommendation_file": "Recommendation_From_ID_40.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Software Architecture",
+                        "Software Development",
+                        "Leadership",
+                        "API Design"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities in a fast-paced, innovative environment."
+                }
+            }
+        }
+    ]
+}

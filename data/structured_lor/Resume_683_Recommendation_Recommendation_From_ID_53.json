@@ -1,0 +1,17 @@
+{
+    "resume_file": "683.json",
+    "recommendation_file": "Recommendation_From_ID_53.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Equipment Operation",
+            "Training and Development",
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and attention to detail. However, the recommendation does not directly mention the candidate's experience in nursing, which is a significant part of their education and career goals."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "490.json",
+    "recommendation_file": "Recommendation_From_ID_89.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Disability Advocate' and 'public health' which are not explicitly mentioned in the resume. However, the recommendation still seems largely credible.",
+        "verified_skills": [
+            "Customer Service",
+            "Coaching",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional customer service skills, analytical abilities, and leadership qualities, which are all relevant to their experience and skills listed in the resume. However, some minor inconsistencies and lack of specific examples from the resume prevent a higher relevance score."
+    }
+}

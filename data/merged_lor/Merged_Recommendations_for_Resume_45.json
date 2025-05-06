@@ -1,0 +1,24 @@
+{
+    "target_id": "45",
+    "recommendations": [
+        {
+            "recommender_id": "623",
+            "recommendation": {
+                "resume_id": 45,
+                "recommendation_file": "Recommendation_From_ID_623.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Customer Service",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experiences, highlighting their customer care and work ethic. However, it does not directly mention some of the candidate's specific skills."
+                }
+            }
+        }
+    ]
+}

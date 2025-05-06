@@ -1,0 +1,137 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Set up and maintained the network infrastructure both wired and wireless configuration. Setup and maintained all user's computers including hardware and software. Set up and assisted users with their e-mail accounts. I maintained security on our networks in which only company users could access the network. Setup and configured users android phones so they could access the company's resources. I maintained security on all companies' machines.",
+                "company_level": "Mid-level",
+                "start_date": "04/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Computer Technical Specialist",
+                "work_description": "Set up and maintain all software on Faculty and Staff computers in a Windows and McIntosh environment. Troubleshoot all software and hardware problems on user's machines. Check network connectivity issues on the client side. Set up and maintain all printers' scanners and fax machines for staff and faculty and students. Configure and setup all PDA s for all faculty and staff. Help maintain lab computers on the windows and McIntosh environment including hardware software and printing issues. Assist network Administrators with setting up and maintaining the network and assisting with network issues including routers switches and servers.",
+                "company_level": "Mid-level",
+                "start_date": "09/2007",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Senior Computer Network Support Technician",
+                "work_description": "Provide statewide data telecommunications and on the-site problem analysis and resolution; consultation; hardware and software installations; technical guidance and support for personal computing equipment. Provide local and wide area networking support, which included router switch and server and router configurations, and installations and problem resolutions. Troubleshoot all network components including routers switches servers and patch panels. Analyzing and diagnosing the network for the correct topology protocols and configurations. Install and maintain video conferencing systems which included Meeting Point. Diagnosed and fixed any problems computers may be experiencing including network software, and hardware issues.",
+                "company_level": "Mid-level",
+                "start_date": "11/2001",
+                "end_date": "09/2007"
+            },
+            {
+                "role_name": "Junior Network Administrator",
+                "work_description": "Performed the installation and removal of all programs on a network in a teaching and testing facility. Assigned rights and permissions to users and servicing them on the network. Troubleshoot all hardware as well as software problems on the network. Also configured IP addresses dynamically and statically for new machines on the network using a DHCP server. Maintaining compatibility of new hardware and software on our network which included routers, switches, and servers as well as workstations. Reorganized LANs to insure speed and performance. Installed and maintained all wiring on the network.",
+                "company_level": "Mid-level",
+                "start_date": "09/1999",
+                "end_date": "11/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northern Virginia Community College",
+                "start_date": "01/1988",
+                "end_date": "12/1988",
+                "domain": "General Science",
+                "level": "Certificate"
+            },
+            {
+                "university": "Virginia Commonwealth University",
+                "start_date": "01/1982",
+                "end_date": "12/1982",
+                "domain": "Education Biology and General Science",
+                "level": "M.A"
+            },
+            {
+                "university": "George Mason University",
+                "start_date": "01/1982",
+                "end_date": "12/1982",
+                "domain": "Biology",
+                "level": "B.S"
+            },
+            {
+                "university": "NVCC",
+                "start_date": "01/2001",
+                "end_date": "06/2001",
+                "domain": "Networking",
+                "level": "A.A.S"
+            },
+            {
+                "university": "NVCC",
+                "start_date": "01/2001",
+                "end_date": "06/2001",
+                "domain": "Microcomputer Specialization",
+                "level": "A.A.S"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Over 15 years of experience in network administration, including setup, maintenance, and troubleshooting of network infrastructure, indicating expert-level mastery."
+            },
+            {
+                "name": "Computer Hardware",
+                "level": 5,
+                "explanation": "Extensive experience in setting up and maintaining computer hardware, including installation and troubleshooting of hardware components, indicating expert-level mastery."
+            },
+            {
+                "name": "Computer Software",
+                "level": 5,
+                "explanation": "Extensive experience in setting up and maintaining computer software, including installation and troubleshooting of software applications, indicating expert-level mastery."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 5,
+                "explanation": "Over 15 years of experience in troubleshooting hardware and software issues, including network connectivity problems and computer malfunctions, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Security",
+                "level": 4,
+                "explanation": "Experience in maintaining security on networks and company machines, including setup and configuration of security protocols, indicating strong proficiency."
+            },
+            {
+                "name": "Router Configuration",
+                "level": 4,
+                "explanation": "Experience in configuring and maintaining routers, including setup and troubleshooting of router configurations, indicating strong proficiency."
+            },
+            {
+                "name": "Switch Configuration",
+                "level": 4,
+                "explanation": "Experience in configuring and maintaining switches, including setup and troubleshooting of switch configurations, indicating strong proficiency."
+            },
+            {
+                "name": "Server Administration",
+                "level": 4,
+                "explanation": "Experience in setting up and maintaining servers, including installation and configuration of server software, indicating strong proficiency."
+            },
+            {
+                "name": "Video Conferencing",
+                "level": 3,
+                "explanation": "Experience in installing and maintaining video conferencing systems, including setup and troubleshooting of video conferencing equipment, indicating solid working proficiency."
+            },
+            {
+                "name": "IP Address Management",
+                "level": 3,
+                "explanation": "Experience in configuring IP addresses dynamically and statically for new machines on the network, indicating solid working proficiency."
+            },
+            {
+                "name": "DHCP Server Management",
+                "level": 3,
+                "explanation": "Experience in configuring and maintaining DHCP servers, including setup and troubleshooting of DHCP server configurations, indicating solid working proficiency."
+            },
+            {
+                "name": "LAN Administration",
+                "level": 3,
+                "explanation": "Experience in setting up and maintaining LANs, including installation and configuration of LAN hardware and software, indicating solid working proficiency."
+            }
+        ]
+    }
+}

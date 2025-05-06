@@ -1,0 +1,18 @@
+{
+    "resume_file": "797.json",
+    "recommendation_file": "Recommendation_From_ID_782.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Lack of specific details about the candidate's job history and skills, and some exaggerated claims.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Financial Reporting",
+            "Financial Planning",
+            "Auditing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's relevant skills and experience, but lacks specific details and contains some exaggerated claims."
+    }
+}

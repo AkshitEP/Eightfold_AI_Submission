@@ -1,0 +1,19 @@
+{
+    "resume_file": "482.json",
+    "recommendation_file": "Recommendation_From_ID_660.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims detected, including unrealistic job responsibilities and unsupported skills.",
+        "verified_skills": [
+            "Financial Management",
+            "Leadership",
+            "Time Management",
+            "Negotiation",
+            "Customer Relationship Management",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but contains some inconsistencies and exaggerated claims. The source of the recommendation is unknown."
+    }
+}

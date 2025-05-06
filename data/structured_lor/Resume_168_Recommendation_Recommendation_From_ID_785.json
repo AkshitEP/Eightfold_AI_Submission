@@ -1,0 +1,21 @@
+{
+    "resume_file": "168.json",
+    "recommendation_file": "Recommendation_From_ID_785.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Financial Analysis",
+            "Accounting",
+            "Financial Planning",
+            "Communication",
+            "Problem-Solving",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their technical and leadership abilities, as well as their achievements in process improvements and staff development."
+    }
+}

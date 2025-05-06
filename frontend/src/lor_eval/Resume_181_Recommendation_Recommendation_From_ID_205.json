@@ -1,0 +1,19 @@
+{
+    "resume_file": "181.json",
+    "recommendation_file": "Recommendation_From_ID_205.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Payroll Management",
+            "Tax Preparation",
+            "Leadership",
+            "Financial Statement Preparation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and leadership abilities. The recommendation highlights the candidate's technical proficiency in financial management and their ability to train and supervise junior staff."
+    }
+}

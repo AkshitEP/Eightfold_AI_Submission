@@ -1,0 +1,17 @@
+{
+    "resume_file": "298.json",
+    "recommendation_file": "Recommendation_From_ID_751.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation is written by a Pet Psychologist, which may not be directly relevant to the candidate's field of expertise. Informal language and analogies are used, which may not be suitable for a formal recommendation.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Project Management",
+            "Budgeting",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but the source and language used raise some concerns about its credibility."
+    }
+}

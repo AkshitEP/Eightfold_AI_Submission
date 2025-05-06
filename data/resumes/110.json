@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Project Manager",
+                "work_description": "Built and maintained successful relationships with service providers, dealers and consumers. Provided base level IT support to company personnel. Defined project deliverables and monitored status of tasks. Delivered status reports to stakeholders for budgeting and planning purposes. Collaborated with cross-functional teams to draft project schedules and plans. Monitored costs, timescales and resources used to achieve [Goal]. Monitored team progress and enforced deadlines. Partnered with [Department Name] and [Department name] to address [Issue description]. Planned, implemented and managed all project contracts, performed scheduling, risk analysis, quality control and trained staff.",
+                "company_level": "Mid-level",
+                "start_date": "07/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Trained new employees and explained protocols clearly and efficiently. Researched issues on various computer systems and databases to resolve complaints and answer inquiries. Analyzed system problems, performed troubleshooting, ensured connectivity and trained staff. Managed and supported workstations on TCP/IP, VPN, and Wi-Fi networks, managed Active Directory, SCCM, VOIP, Avaya PBX systems.",
+                "company_level": "Mid-level",
+                "start_date": "03/2004",
+                "end_date": "07/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Colorado Technical University",
+                "start_date": "01/2012",
+                "end_date": "06/2012",
+                "domain": "Management, Project Management",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2009",
+                "end_date": "10/2009",
+                "domain": "Information Technology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Over a decade of experience in managing projects, including defining deliverables, monitoring status, and collaborating with cross-functional teams, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Extensive experience in managing teams, including training staff, enforcing deadlines, and partnering with departments to address issues, suggesting strong proficiency."
+            },
+            {
+                "name": "IT Support",
+                "level": 4,
+                "explanation": "Provided base-level IT support to company personnel and performed troubleshooting, ensuring connectivity and training staff, indicating strong proficiency."
+            },
+            {
+                "name": "Network Management",
+                "level": 4,
+                "explanation": "Managed and supported workstations on TCP/IP, VPN, and Wi-Fi networks, and managed Active Directory, SCCM, VOIP, Avaya PBX systems, suggesting strong proficiency."
+            },
+            {
+                "name": "Risk Analysis",
+                "level": 3,
+                "explanation": "Performed risk analysis as part of project management responsibilities, showing a solid working proficiency."
+            },
+            {
+                "name": "Quality Control",
+                "level": 3,
+                "explanation": "Performed quality control as part of project management responsibilities, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Built and maintained successful relationships with service providers, dealers, and consumers, and delivered status reports to stakeholders, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Budgeting",
+                "level": 2,
+                "explanation": "Delivered status reports to stakeholders for budgeting and planning purposes, but no extensive experience in budgeting is mentioned, suggesting some practical experience."
+            }
+        ]
+    }
+}

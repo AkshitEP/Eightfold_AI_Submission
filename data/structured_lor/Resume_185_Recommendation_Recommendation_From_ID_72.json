@@ -1,0 +1,17 @@
+{
+    "resume_file": "185.json",
+    "recommendation_file": "Recommendation_From_ID_72.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's role as a food server with customer service experience seems unrelated to the candidate's teaching profession, raising some concerns about the recommender's credibility.",
+        "verified_skills": [
+            "Teaching",
+            "Lesson Planning",
+            "Classroom Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's teaching skills, lesson planning, and classroom management abilities, but the recommender's background and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+    }
+}

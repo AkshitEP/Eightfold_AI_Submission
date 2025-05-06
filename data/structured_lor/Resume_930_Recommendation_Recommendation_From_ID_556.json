@@ -1,0 +1,15 @@
+{
+    "resume_file": "930.json",
+    "recommendation_file": "Recommendation_From_ID_556.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems exaggerated and lacks concrete examples or evidence from the resume. The language used is overly flattering and lacks specificity.",
+        "verified_skills": [
+            "Coaching",
+            "Corporate training and wellness program development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks specificity and seems to be unrelated to the candidate's experience in some areas. The language used is overly flattering and raises concerns about the authenticity of the recommendation."
+    }
+}

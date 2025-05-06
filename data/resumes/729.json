@@ -1,0 +1,115 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Staff LPN",
+                "work_description": "Provide Patient care, Manage a team of CNA's, Injections, Diabetic management, CVA cases, Wound Care, GT management, Psych Care, Med Surg, Assited Living Care, IV care Management, etc",
+                "company_level": "Mid-level",
+                "start_date": "10/2013",
+                "end_date": "04/2015",
+                "company_name": "Smith Village",
+                "company_location": "Chicago, IL"
+            },
+            {
+                "role_name": "Staff LPN",
+                "work_description": "Provided nursing care for up to 30 residents simultaneously. Supervised up to 4 nursing assistant throughout the shift. Rendered care/medication administration to geriatric population on a daily basis.",
+                "company_level": "Mid-level",
+                "start_date": "02/2012",
+                "end_date": "09/2014",
+                "company_name": "Prairie Manor Nursing & Rehab",
+                "company_location": "Chicago Heights, IL"
+            },
+            {
+                "role_name": "Staff LPN",
+                "work_description": "Provided nursing care for up to 30 residents simultaneously. Supervised up to 4 nursing assistant throughout the shift. Rendered care/medication administration to geriatric population on a daily basis.",
+                "company_level": "Mid-level",
+                "start_date": "12/2009",
+                "end_date": "02/2012",
+                "company_name": "HCR Manor Care",
+                "company_location": "Oak Lawn, IL"
+            },
+            {
+                "role_name": "MDS Coordinator",
+                "work_description": "Assist and Open schedules for the nurses and other IDT to complete the MDS. Ensure that all data entered is accurate and acceptable for maximum amount of reimbursement from eHealth data.",
+                "company_level": "Mid-level",
+                "start_date": "08/2015",
+                "end_date": "Present",
+                "company_name": "Company Name",
+                "company_location": "City, State"
+            },
+            {
+                "role_name": "Phlebotomist",
+                "work_description": "Obtain venous blood samples from a variety of patients aging from infants to geriatrics.",
+                "company_level": "Mid-level",
+                "start_date": "01/2006",
+                "end_date": "Present",
+                "company_name": "Company Name",
+                "company_location": "City, State"
+            }
+        ],
+        "education": [
+            {
+                "university": "Brown Mackie College",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Nursing",
+                "level": "LPN"
+            },
+            {
+                "university": "Prairie State College",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Phlebotomy Technician",
+                "level": "Certificate"
+            },
+            {
+                "university": "Prairie State College",
+                "start_date": "01/2020",
+                "end_date": "12/2020",
+                "domain": "NURSING",
+                "level": "Associate of Applied Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Nursing Care",
+                "level": 5,
+                "explanation": "Over a decade of experience providing nursing care to geriatric populations, managing teams, and administering medications, indicating expert-level mastery."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Consistently supervised teams of nursing assistants across multiple roles, suggesting strong proficiency in team management."
+            },
+            {
+                "name": "Medication Administration",
+                "level": 4,
+                "explanation": "Rendered care and medication administration to geriatric populations on a daily basis, indicating strong proficiency."
+            },
+            {
+                "name": "Patient Care",
+                "level": 5,
+                "explanation": "Provided patient care for up to 30 residents simultaneously, demonstrating expert-level mastery in patient care."
+            },
+            {
+                "name": "Phlebotomy",
+                "level": 4,
+                "explanation": "Obtained venous blood samples from a variety of patients, suggesting strong proficiency in phlebotomy."
+            },
+            {
+                "name": "Data Management",
+                "level": 3,
+                "explanation": "Assisted with MDS coordination, ensuring accurate data entry for reimbursement purposes, showing a solid working proficiency in data management."
+            },
+            {
+                "name": "Geriatric Care",
+                "level": 4,
+                "explanation": "Provided care to geriatric populations across multiple roles, indicating strong proficiency in geriatric care."
+            }
+        ]
+    }
+}

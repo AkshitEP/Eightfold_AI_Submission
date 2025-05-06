@@ -1,0 +1,138 @@
+{
+    "target_id": "793",
+    "recommendations": [
+        {
+            "recommender_id": "443",
+            "recommendation": {
+                "resume_file": "793.json",
+                "recommendation_file": "Recommendation_From_ID_443.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but no obvious red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Leadership",
+                        "Investment Banking",
+                        "Risk Management",
+                        "Regulatory Compliance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but contains some minor inconsistencies and exaggerated claims. The recommendation verifies several key skills mentioned in the resume, but does not provide specific examples or details to support these claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "902",
+            "recommendation": {
+                "resume_file": "793.json",
+                "recommendation_file": "Recommendation_From_ID_902.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Financial Analysis",
+                        "Investment Banking",
+                        "Project Management",
+                        "Leadership",
+                        "Data Analysis",
+                        "Research"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and expertise in investment banking and regulatory compliance."
+                }
+            }
+        },
+        {
+            "recommender_id": "374",
+            "recommendation": {
+                "resume_file": "793.json",
+                "recommendation_file": "Recommendation_From_ID_374.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Financial Analysis",
+                        "Investment Banking",
+                        "Data Analysis",
+                        "Research"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in investment banking regulations and compliance. The source of the recommendation is a Senior Commercial Business Banking Relationship Manager, indicating a peer-level endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "55",
+            "recommendation": {
+                "resume_file": "793.json",
+                "recommendation_file": "Recommendation_From_ID_55.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Investment Banking",
+                        "Financial Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Data Analysis",
+                        "Research"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in regulatory compliance, risk management, and leadership. The source of the recommendation is a Mortgage Group Operations Manager, indicating a peer-level recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "860",
+            "recommendation": {
+                "resume_file": "793.json",
+                "recommendation_file": "Recommendation_From_ID_860.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's credentials are not provided.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Financial Analysis",
+                        "Investment Banking",
+                        "Project Management",
+                        "Leadership",
+                        "Research"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in compliance, financial analysis, and investment banking, which aligns with their resume. However, the recommender's relationship with the candidate and their credentials are not provided, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "1",
+            "recommendation": {
+                "resume_file": "793.json",
+                "recommendation_file": "Recommendation_From_ID_1.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Financial Analysis",
+                        "Investment Banking",
+                        "Project Management",
+                        "Leadership",
+                        "Data Analysis",
+                        "Research"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in compliance, risk management, and team leadership. The recommender's perspective as a colleague in the financial industry adds credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

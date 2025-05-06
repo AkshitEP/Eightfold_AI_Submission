@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Chief Executive Officer",
+                "work_description": "Expand five new business sites, two located at the large-scale department stores in the country. Planned for cultural events, including Simple Life Festival in Taipei and Shanghai China. Launched limited edition custom dress with bloggers, created record sales. 100 customer dresses were sold out within 4 hours. Increased sales by 25% in two quarters.",
+                "company_level": "Mid-level",
+                "start_date": "05/2012",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Business Analyst",
+                "work_description": "Worked with Tourism Bureau to publish 'Taiwan Hot Spring Voucher' in order to promote Taiwan. Generated 3K followers in Facebook Fan page within 3 months. Built and designed official website.",
+                "company_level": "Mid-level",
+                "start_date": "09/2013",
+                "end_date": "12/2015"
+            },
+            {
+                "role_name": "Information Technology (Internship)",
+                "work_description": "Examined problems between users and systems. Worked at different stations of hospital, including: ER, Registration, Pharmacy, Central Sterile Supplies Department (CSSD), and Medical Supplies store room.",
+                "company_level": "Startup",
+                "start_date": "07/2014",
+                "end_date": "09/2014"
+            },
+            {
+                "role_name": "Campus Youth E- Service Volunteer",
+                "work_description": "Planned summer and winter camps for kids who lack educational resources. Team lead and Recorder",
+                "company_level": "Startup",
+                "start_date": "09/2011",
+                "end_date": "06/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Metropolitan State University",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Business Administration and Management",
+                "level": "Master's"
+            },
+            {
+                "university": "National Taipei University of Nursing and Health Science",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Information Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Global Language Institute",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "English",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held a high-level leadership role as Chief Executive Officer, leading to significant business growth and expansion, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully managed multiple projects, including business site expansions, cultural events, and marketing campaigns, showing strong proficiency."
+            },
+            {
+                "name": "Marketing",
+                "level": 4,
+                "explanation": "Developed and executed successful marketing strategies, resulting in record sales and increased followers, suggesting strong proficiency."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 3,
+                "explanation": "Worked as a Business Analyst, generating followers and building a website, showing a solid working proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Led teams in various roles, including as a CEO and team lead, indicating a solid level of proficiency in team management."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 2,
+                "explanation": "Examined problems between users and systems during an internship, showing some practical experience in problem-solving."
+            },
+            {
+                "name": "Event Planning",
+                "level": 3,
+                "explanation": "Planned cultural events and summer/winter camps, showing a solid working proficiency in event planning."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively communicated with teams and stakeholders in various roles, indicating a solid level of proficiency in communication."
+            },
+            {
+                "name": "Digital Marketing",
+                "level": 3,
+                "explanation": "Generated followers on Facebook and built a website, showing a solid working proficiency in digital marketing."
+            }
+        ]
+    }
+}

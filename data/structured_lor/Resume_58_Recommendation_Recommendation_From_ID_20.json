@@ -1,0 +1,19 @@
+{
+    "resume_id": 58,
+    "recommendation_file": "Recommendation_From_ID_20.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "HR Management",
+            "Employee Relations",
+            "Leadership and Management",
+            "Compliance and Risk Management",
+            "Benefits Administration",
+            "Communication and Interpersonal Skills"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, conflict resolution, and leadership abilities."
+    }
+}

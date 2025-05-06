@@ -1,0 +1,19 @@
+{
+    "resume_file": "779.json",
+    "recommendation_file": "Recommendation_From_ID_230.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Staff Management",
+            "Time Management",
+            "Communication",
+            "Data Entry",
+            "Customer Service"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and data management abilities. The source of the recommendation appears to be a peer or colleague, possibly a pharmacist or another supervisor, given their familiarity with the candidate's work."
+    }
+}

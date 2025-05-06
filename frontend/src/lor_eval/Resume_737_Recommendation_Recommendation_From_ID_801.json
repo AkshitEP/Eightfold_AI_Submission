@@ -1,0 +1,15 @@
+{
+    "resume_file": "737.json",
+    "recommendation_file": "Recommendation_From_ID_801.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation also seems to be referencing a different person's experience in non-profit operations, which is not relevant to the candidate's resume.",
+        "verified_skills": [
+            "Aircraft Operations",
+            "Aviation Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be referencing a different person's experience in non-profit operations, which is not relevant to the candidate's resume. However, it does mention the candidate's background in aviation and their pursuit of an MBA in Aviation International Business, which aligns with their resume."
+    }
+}

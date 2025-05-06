@@ -1,0 +1,18 @@
+{
+    "resume_file": "134.json",
+    "recommendation_file": "Recommendation_From_ID_293.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the writer's relationship to the candidate is unclear and the writer's experience with the candidate is not explicitly stated. However, the recommendation does not contain any obvious red flags or statistically improbable claims.",
+        "verified_skills": [
+            "Counseling",
+            "Project Management",
+            "Community Outreach",
+            "Leadership",
+            "Problem Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and community outreach. However, the writer's relationship to the candidate is unclear, and the writer's experience with the candidate is not explicitly stated."
+    }
+}

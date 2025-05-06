@@ -1,0 +1,22 @@
+{
+    "resume_id": 41,
+    "recommendation_file": "Recommendation_From_ID_917.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with the first paragraph mentioning an Administrative Assistant and the second paragraph describing the Co-Founder and Therapist. This inconsistency raises some concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Therapy",
+            "Counseling",
+            "Psychiatric Evaluation",
+            "Medication Management",
+            "Treatment Planning",
+            "Case Management",
+            "Crisis Intervention",
+            "Teaching",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the Co-Founder and Therapist's expertise in mental health, specifically in art and play therapies, and their ability to manage large caseloads while providing individualized treatment solutions. However, the mention of an Administrative Assistant in the first paragraph seems out of place and raises some concerns about the authenticity of the recommendation."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "686.json",
+    "recommendation_file": "Recommendation_From_ID_635.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. Some minor inconsistencies are present, such as the recommender's title and the candidate's role not matching.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in project management, leadership, communication, and time management, which are relevant to their work experience. However, the recommender's role and relationship with the candidate are unclear, and some minor inconsistencies are present."
+    }
+}

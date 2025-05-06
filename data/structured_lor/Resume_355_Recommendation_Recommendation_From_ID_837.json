@@ -1,0 +1,12 @@
+{
+    "resume_file": "355.json",
+    "recommendation_file": "Recommendation_From_ID_837.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "Overly formal and exaggerated language, unrelated areas mentioned, and unrealistic claims made.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's skills and experience, and contains several red flags indicating potential fraud."
+    }
+}

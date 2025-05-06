@@ -1,0 +1,24 @@
+{
+    "target_id": "693",
+    "recommendations": [
+        {
+            "recommender_id": "83",
+            "recommendation": {
+                "resume_file": "693.json",
+                "recommendation_file": "Recommendation_From_ID_83.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no significant red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reconciliation",
+                        "General Accounting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience in financial management, but there are some minor inconsistencies and a somewhat generic tone."
+                }
+            }
+        }
+    ]
+}

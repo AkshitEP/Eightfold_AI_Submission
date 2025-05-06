@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Manager",
+                "work_description": "Manage the Human Resource function for e-Cycle's corporate office as well as their fulfillment and data center, consisting of benefits and compensation administration, payroll, employee relations, policy compliance, and recruitment.",
+                "company_level": "Mid-level",
+                "start_date": "01/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Sr. HR Manager",
+                "work_description": "As a leader within the HR and Operations team, I was instrumental in partnering with local leadership and Corporate HR to develop and implement HR policies, processes, technology and services that are aligned to support our company's strategic initiatives in order to have a successful start-up.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "HR Director",
+                "work_description": "As a member of the executive team, I was directly and solely responsible for providing situation appropriate and policy compliant human resource support for 2 separate business units for a community based, non-profit, health care organization with approximately 184 employees.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2008",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "HR Representative",
+                "work_description": "Fulfilled a broad range of HR Generalist functions, including recruiting, administering benefits, overseeing disciplinary action and managing HR support staff.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2001",
+                "end_date": "01/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "MOUNT VERNON NAZARENE UNIVERSITY",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resource Management",
+                "level": 5,
+                "explanation": "Over 15 years of experience in HR roles, including leadership positions, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Consistently involved in recruitment processes throughout HR career, suggesting strong proficiency."
+            },
+            {
+                "name": "Benefits Administration",
+                "level": 4,
+                "explanation": "Handled benefits administration in multiple HR roles, indicating strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Managed payroll in various HR positions, suggesting strong proficiency."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Handled employee relations in multiple HR roles, indicating strong proficiency."
+            },
+            {
+                "name": "Policy Compliance",
+                "level": 4,
+                "explanation": "Ensured policy compliance in various HR positions, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held leadership positions in HR, including executive team membership, indicating expert-level mastery."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Managed HR support staff and led teams in various HR roles, suggesting strong proficiency."
+            }
+        ]
+    }
+}

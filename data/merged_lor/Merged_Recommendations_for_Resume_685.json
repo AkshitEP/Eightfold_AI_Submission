@@ -1,0 +1,121 @@
+{
+    "target_id": "685",
+    "recommendations": [
+        {
+            "recommender_id": "480",
+            "recommendation": {
+                "resume_file": "685.json",
+                "recommendation_file": "Recommendation_From_ID_480.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Procurement",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and organizational capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "879",
+            "recommendation": {
+                "resume_file": "685.json",
+                "recommendation_file": "Recommendation_From_ID_879.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Contract procedures",
+                        "Interpersonal skills",
+                        "Attention to detail",
+                        "Administrative proficiency"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experiences, but some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "828",
+            "recommendation": {
+                "resume_file": "685.json",
+                "recommendation_file": "Recommendation_From_ID_828.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Procurement",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, procurement, and financial reporting skills. The source of the recommendation is a peer who has collaborated with the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "714",
+            "recommendation": {
+                "resume_file": "685.json",
+                "recommendation_file": "Recommendation_From_ID_714.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Exaggerated claims and unrealistic expertise in areas not mentioned in the resume.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Procurement"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be exaggerated, and the claims made seem unrealistic given the candidate's domain and experience level."
+                }
+            }
+        },
+        {
+            "recommender_id": "991",
+            "recommendation": {
+                "resume_file": "685.json",
+                "recommendation_file": "Recommendation_From_ID_991.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Procurement",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, procurement, and financial reporting skills. The source of the recommendation is a Senior Manager in National Sales Finance, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "379",
+            "recommendation": {
+                "resume_file": "685.json",
+                "recommendation_file": "Recommendation_From_ID_379.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Procurement",
+                        "Inventory Control",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, procurement, and organizational skills. The source of the recommendation appears to be a peer, likely a colleague or team member, who has had the opportunity to observe the candidate's work ethic and skills firsthand."
+                }
+            }
+        }
+    ]
+}

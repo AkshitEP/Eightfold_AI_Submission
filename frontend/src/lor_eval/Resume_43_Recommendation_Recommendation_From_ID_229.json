@@ -1,0 +1,18 @@
+{
+    "resume_id": 43,
+    "recommendation_file": "Recommendation_From_ID_229.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources",
+            "Leadership",
+            "Employee Relations",
+            "Policy Development",
+            "Training and Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The source of the recommendation is a peer with a background in HR recruitment and advisory services, adding credibility to the endorsement."
+    }
+}

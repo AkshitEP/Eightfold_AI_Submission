@@ -1,0 +1,18 @@
+{
+    "resume_id": 44,
+    "recommendation_file": "Recommendation_From_ID_213.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales",
+            "Human Resources",
+            "Communication",
+            "Organization"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and customer service abilities, as well as their human resource management background. The source of the recommendation is the Assistant Director overseeing plant operations, indicating a supervisory relationship."
+    }
+}

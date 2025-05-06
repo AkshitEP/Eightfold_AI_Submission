@@ -1,0 +1,19 @@
+{
+    "resume_file": "911.json",
+    "recommendation_file": "Recommendation_From_ID_649.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but there are some minor inconsistencies. The recommender mentions the candidate's experience in healthcare administration, which is not mentioned in the resume. Additionally, the recommender describes the candidate as a 'dedicated financial professional,' which is not supported by the resume.",
+        "verified_skills": [
+            "Communication",
+            "Problem-Solving",
+            "Event Planning",
+            "Leadership",
+            "Time Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and interpersonal skills. However, there are some minor inconsistencies that raise concerns about the recommender's familiarity with the candidate's background."
+    }
+}

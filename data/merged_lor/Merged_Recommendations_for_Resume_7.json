@@ -1,0 +1,74 @@
+{
+    "target_id": "7",
+    "recommendations": [
+        {
+            "recommender_id": "149",
+            "recommendation": {
+                "resume_file": "7.json",
+                "recommendation_file": "Recommendation_From_ID_149.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Training and Development",
+                        "Problem-Solving",
+                        "Policy Development",
+                        "Leadership",
+                        "Employee Relations",
+                        "Human Resources Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and policy development abilities. The recommender's firsthand experience working with the candidate adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "376",
+            "recommendation": {
+                "resume_file": "7.json",
+                "recommendation_file": "Recommendation_From_ID_376.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Training and Development",
+                        "Problem-Solving",
+                        "Policy Development",
+                        "Leadership",
+                        "Employee Relations",
+                        "Human Resources Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise, leadership, and problem-solving abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "366",
+            "recommendation": {
+                "resume_file": "7.json",
+                "recommendation_file": "Recommendation_From_ID_366.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Training and Development",
+                        "Problem-Solving",
+                        "Policy Development",
+                        "Leadership",
+                        "Employee Relations",
+                        "Human Resources Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise, leadership, and analytical skills."
+                }
+            }
+        }
+    ]
+}

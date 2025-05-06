@@ -1,0 +1,18 @@
+{
+    "resume_file": "633.json",
+    "recommendation_file": "Recommendation_From_ID_35.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales",
+            "Customer Service",
+            "Inventory Management",
+            "Aeronautics",
+            "Aviation Safety"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and operational efficiency. However, the recommender's role as a Personnel Security Specialist seems unrelated to the candidate's job history, which might raise some questions about the nature of their working relationship."
+    }
+}

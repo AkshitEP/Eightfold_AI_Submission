@@ -1,0 +1,27 @@
+{
+    "resume_file": "522.json",
+    "recommendation_file": "Recommendation_From_ID_495.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Software Development",
+            "Project Management",
+            "Change Management",
+            "Database Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Testing and Quality Assurance",
+            "Algorithm Development",
+            "Statistical Analysis",
+            "Survey Methodology",
+            "PL/SQL",
+            "SQL",
+            "LINUX"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The recommendation source is the Head of Information Technology and Information Center, indicating a direct supervisory relationship."
+    }
+}

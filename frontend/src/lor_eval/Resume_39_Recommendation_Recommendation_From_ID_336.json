@@ -1,0 +1,15 @@
+{
+    "resume_file": "39.json",
+    "recommendation_file": "Recommendation_From_ID_336.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent due to the lack of relevance to the resume, unclear language, and statistically improbable claims.",
+        "verified_skills": [
+            "Leadership",
+            "Employee development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is overly positive and flattering, and the recommender's relationship with Caitlin is unclear. The recommendation may be exaggerated or fabricated."
+    }
+}

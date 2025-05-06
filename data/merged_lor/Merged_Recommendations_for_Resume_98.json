@@ -1,0 +1,48 @@
+{
+    "target_id": "98",
+    "recommendations": [
+        {
+            "recommender_id": "511",
+            "recommendation": {
+                "resume_id": 98,
+                "recommendation_file": "Recommendation_From_ID_511.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, project management, and communication abilities. The source of the recommendation is likely a supervisor or someone in a higher management level, given their title and familiarity with the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "389",
+            "recommendation": {
+                "resume_id": 98,
+                "recommendation_file": "Recommendation_From_ID_389.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Payroll Management",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and project management abilities."
+                }
+            }
+        }
+    ]
+}

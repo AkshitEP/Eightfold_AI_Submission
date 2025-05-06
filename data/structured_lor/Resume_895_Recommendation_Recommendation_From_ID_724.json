@@ -1,0 +1,18 @@
+{
+    "resume_file": "895.json",
+    "recommendation_file": "Recommendation_From_ID_724.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Policy Development",
+            "Customer Service",
+            "Leadership",
+            "Communication",
+            "Human Resources"
+        ],
+        "recommendation_source": "Supervisor/Boss",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their policy development, customer service, leadership, communication, and human resources skills. The source of the recommendation is a Business Office Manager, indicating a supervisory relationship."
+    }
+}

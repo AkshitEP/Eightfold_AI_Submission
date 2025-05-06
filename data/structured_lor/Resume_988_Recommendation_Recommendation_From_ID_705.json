@@ -1,0 +1,22 @@
+{
+    "resume_file": "988.json",
+    "recommendation_file": "Recommendation_From_ID_705.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions international partnerships and substantial advancements, but lacks concrete examples or evidence from the resume.",
+        "verified_skills": [
+            "IT Project Management",
+            "Strategic Planning",
+            "Leadership",
+            "Network Administration",
+            "VMware vSphere",
+            "Citrix Infrastructure",
+            "Cloud Computing",
+            "Business Application Support",
+            "Desktop Support"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing examples of their IT management and leadership abilities. However, some claims seem exaggerated or unsupported, and the recommendation lacks concrete examples or evidence from the resume."
+    }
+}

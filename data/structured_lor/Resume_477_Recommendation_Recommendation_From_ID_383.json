@@ -1,0 +1,21 @@
+{
+    "resume_file": "477.json",
+    "recommendation_file": "Recommendation_From_ID_383.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. Additionally, the recommender's job title (Senior Network Security Engineer) does not directly relate to the candidate's job history or skills.",
+        "verified_skills": [
+            "Budgeting",
+            "Financial Management",
+            "Contract Management",
+            "Human Resources",
+            "Leadership",
+            "Project Management",
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's financial management skills, budgeting expertise, and ability to work collaboratively with various departments. However, the recommender's job title and relationship with the candidate are unclear, which may raise some concerns about the recommendation's credibility."
+    }
+}

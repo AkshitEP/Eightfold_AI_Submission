@@ -1,0 +1,70 @@
+{
+    "target_id": "142",
+    "recommendations": [
+        {
+            "recommender_id": "832",
+            "recommendation": {
+                "resume_file": "142.json",
+                "recommendation_file": "Recommendation_From_ID_832.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Talent Acquisition",
+                        "Onboarding & Orientation",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, interpersonal skills, and contributions to the organization."
+                }
+            }
+        },
+        {
+            "recommender_id": "240",
+            "recommendation": {
+                "resume_file": "142.json",
+                "recommendation_file": "Recommendation_From_ID_240.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Talent Acquisition",
+                        "Onboarding & Orientation",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in HR, providing specific examples of their expertise in employee relations, talent acquisition, and onboarding. The source of the recommendation appears to be a peer, having worked together in the HR field."
+                }
+            }
+        },
+        {
+            "recommender_id": "470",
+            "recommendation": {
+                "resume_file": "142.json",
+                "recommendation_file": "Recommendation_From_ID_470.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Talent Acquisition",
+                        "Onboarding & Orientation",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, talent acquisition, and employee relations skills. The source of the recommendation appears to be a peer who has worked alongside the candidate, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

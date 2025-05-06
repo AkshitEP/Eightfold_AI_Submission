@@ -1,0 +1,111 @@
+{
+    "target_id": "606",
+    "recommendations": [
+        {
+            "recommender_id": "47",
+            "recommendation": {
+                "resume_file": "606.json",
+                "recommendation_file": "Recommendation_From_ID_47.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Record Keeping",
+                        "Accounting",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the finance department. However, it does not mention some of the candidate's other skills and experiences, such as customer service and data entry."
+                }
+            }
+        },
+        {
+            "recommender_id": "710",
+            "recommendation": {
+                "resume_file": "606.json",
+                "recommendation_file": "Recommendation_From_ID_710.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Record Keeping",
+                        "Customer Service",
+                        "Data Entry",
+                        "Communication",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, reporting, and administrative support. However, the recommendation does not explicitly mention the candidate's proficiency in Microsoft Office, Time Management, or their experience as a Security Officer."
+                }
+            }
+        },
+        {
+            "recommender_id": "428",
+            "recommendation": {
+                "resume_file": "606.json",
+                "recommendation_file": "Recommendation_From_ID_428.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions 'extensive experience in disability services and human resources', which is not directly mentioned in the resume. However, the overall tone and language are formal and professional.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Record Keeping",
+                        "Customer Service",
+                        "Data Entry",
+                        "Time Management",
+                        "Communication",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative support, financial report analysis, and customer service skills. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "648",
+            "recommendation": {
+                "resume_file": "606.json",
+                "recommendation_file": "Recommendation_From_ID_648.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Record Keeping",
+                        "Customer Service",
+                        "Data Entry",
+                        "Communication",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational and analytical skills, attention to detail, and ability to navigate complex accounting systems."
+                }
+            }
+        },
+        {
+            "recommender_id": "581",
+            "recommendation": {
+                "resume_file": "606.json",
+                "recommendation_file": "Recommendation_From_ID_581.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation contains statistically improbable claims, such as the candidate having 'over 15 years of expertise in financial analysis, budgeting, and auditing' when their resume only shows experience as an Accountant I since 2010. Additionally, the recommendation mentions skills and experiences not present in the resume, such as 'financial analysis, budgeting, and auditing' and 'implementing systems that streamlined complex financial operations'.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Record Keeping",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation is partially aligned with the candidate's skills and experience, but contains some exaggerated claims and mentions skills not present in the resume."
+                }
+            }
+        }
+    ]
+}

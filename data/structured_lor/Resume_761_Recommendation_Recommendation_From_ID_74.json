@@ -1,0 +1,17 @@
+{
+    "resume_file": "761.json",
+    "recommendation_file": "Recommendation_From_ID_74.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Leadership",
+            "Information Technology",
+            "Team Management",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and IT management skills. However, some claims seem exaggerated, such as the ability to 'significantly advance their organization's technological capabilities' without providing concrete evidence."
+    }
+}

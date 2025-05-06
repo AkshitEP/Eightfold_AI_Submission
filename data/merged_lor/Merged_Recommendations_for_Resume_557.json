@@ -1,0 +1,40 @@
+{
+    "target_id": "557",
+    "recommendations": [
+        {
+            "recommender_id": "628",
+            "recommendation": {
+                "resume_file": "557.json",
+                "recommendation_file": "Recommendation_From_ID_628.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is for a Recruiter, but the resume is for a Finance Officer. The recommendation does not align with the candidate's skills and experience. Statistically improbable claims are present, such as the Recruiter's ability to devise a strategic recruiting plan that led to the addition of 122 engineers in just six months.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's skills and experience. The recommendation appears to be for a different person, and the claims made are statistically improbable."
+                }
+            }
+        },
+        {
+            "recommender_id": "576",
+            "recommendation": {
+                "resume_file": "557.json",
+                "recommendation_file": "Recommendation_From_ID_576.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and operational excellence. However, the source of the recommendation is unclear, as the recommender's relationship to the candidate is not explicitly stated."
+                }
+            }
+        }
+    ]
+}

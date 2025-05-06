@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Home Healthcare Technician",
+                "work_description": "Provided quality patient care, handled confidential paperwork, administered medication, and assisted with daily living activities.",
+                "company_level": "Unknown",
+                "start_date": "09/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Certified Nursing Assistant",
+                "work_description": "Cared for residents of all ages, helped with daily activities, and provided emotional support.",
+                "company_level": "Unknown",
+                "start_date": "02/1989",
+                "end_date": "03/1993"
+            },
+            {
+                "role_name": "Admitting Clerk I Emergency Room Clerk",
+                "work_description": "Interacted with patients, families, nurses, and doctors, and provided emotional support during difficult times.",
+                "company_level": "Unknown",
+                "start_date": "03/1998",
+                "end_date": "07/2002"
+            }
+        ],
+        "education": [
+            {
+                "university": "Jeremiah's Hope Academy",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Patient Care Technician, EKG Tech., Phlebotomy Tech.",
+                "level": "Certificate"
+            },
+            {
+                "university": "Wallace State Community College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Paralegalism",
+                "level": "Incomplete"
+            },
+            {
+                "university": "Dora High School/Wallace Community College",
+                "start_date": "01/1978",
+                "end_date": "12/1993",
+                "domain": "General Studies",
+                "level": "GED"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Patient Care",
+                "level": 5,
+                "explanation": "Has extensive experience providing quality patient care in various roles, including Home Healthcare Technician and Certified Nursing Assistant, indicating expert-level mastery."
+            },
+            {
+                "name": "Emotional Support",
+                "level": 4,
+                "explanation": "Provided emotional support to patients and families in multiple roles, showing strong proficiency in this area."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Interacted with patients, families, nurses, and doctors in various roles, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed daily activities and provided care to patients in multiple roles, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Confidentiality",
+                "level": 3,
+                "explanation": "Handled confidential paperwork as a Home Healthcare Technician, indicating a solid level of proficiency in maintaining confidentiality."
+            },
+            {
+                "name": "Phlebotomy",
+                "level": 2,
+                "explanation": "Received training in phlebotomy as part of the Patient Care Technician program, but there is no evidence of extensive practical experience."
+            },
+            {
+                "name": "EKG Technology",
+                "level": 2,
+                "explanation": "Received training in EKG technology as part of the Patient Care Technician program, but there is no evidence of extensive practical experience."
+            },
+            {
+                "name": "Paralegalism",
+                "level": 1,
+                "explanation": "Started but did not complete a paralegalism program, indicating basic familiarity but no practical experience."
+            }
+        ]
+    }
+}

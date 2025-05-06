@@ -1,0 +1,53 @@
+{
+    "target_id": "350",
+    "recommendations": [
+        {
+            "recommender_id": "614",
+            "recommendation": {
+                "resume_file": "350.json",
+                "recommendation_file": "Recommendation_From_ID_614.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Planning",
+                        "Customer Service",
+                        "Research",
+                        "Financial Controls"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "445",
+            "recommendation": {
+                "resume_file": "350.json",
+                "recommendation_file": "Recommendation_From_ID_445.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Planning",
+                        "Customer Service",
+                        "Research",
+                        "Financial Controls"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and customer service abilities. The source of the recommendation is a Clinical Service Advocate, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

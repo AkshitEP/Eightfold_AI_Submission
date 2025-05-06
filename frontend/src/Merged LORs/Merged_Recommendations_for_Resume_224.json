@@ -1,0 +1,71 @@
+{
+    "target_id": "224",
+    "recommendations": [
+        {
+            "recommender_id": "679",
+            "recommendation": {
+                "resume_file": "224.json",
+                "recommendation_file": "Recommendation_From_ID_679.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a sales associate and lack of direct teaching experience raises some concerns about their ability to assess the teacher's skills.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Language Arts",
+                        "Classroom Management",
+                        "Leadership",
+                        "Communication",
+                        "Diversity and Inclusion"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the teacher's exceptional communication skills, dedication to understanding individual student needs, and leadership qualities. However, the recommender's background in sales and lack of direct teaching experience may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "216",
+            "recommendation": {
+                "resume_file": "224.json",
+                "recommendation_file": "Recommendation_From_ID_216.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's profession and expertise seem unrelated to the candidate's field, which raises some concerns about the credibility of the recommendation.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Language Arts",
+                        "Classroom Management",
+                        "Communication",
+                        "Diversity and Inclusion"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's teaching abilities, commitment to diversity and inclusion, and communication skills, which aligns well with their resume. However, the recommender's profession and expertise seem unrelated to the candidate's field, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "115",
+            "recommendation": {
+                "resume_file": "224.json",
+                "recommendation_file": "Recommendation_From_ID_115.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's teaching experience. The language is formal, but some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Language Arts",
+                        "Classroom Management",
+                        "Leadership",
+                        "Communication",
+                        "Assessment and Evaluation",
+                        "Diversity and Inclusion"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's teaching skills, patience, creativity, and organizational abilities. However, the source is not directly related to the candidate's teaching experience, and some claims seem slightly exaggerated. The recommendation still provides valuable insights into the candidate's skills and qualities."
+                }
+            }
+        }
+    ]
+}

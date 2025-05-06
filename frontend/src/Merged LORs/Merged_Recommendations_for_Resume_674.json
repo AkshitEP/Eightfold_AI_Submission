@@ -1,0 +1,26 @@
+{
+    "target_id": "674",
+    "recommendations": [
+        {
+            "recommender_id": "57",
+            "recommendation": {
+                "resume_file": "674.json",
+                "recommendation_file": "Recommendation_From_ID_57.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Physical Labor",
+                        "Logistics and Transportation",
+                        "Warehouse Management",
+                        "Time Management",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their physical labor, logistics, and teamwork abilities. The manager's endorsement of the candidate's work ethic and commitment to excellence adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

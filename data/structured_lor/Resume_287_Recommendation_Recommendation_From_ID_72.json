@@ -1,0 +1,16 @@
+{
+    "resume_file": "287.json",
+    "recommendation_file": "Recommendation_From_ID_72.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The recommendation also lacks specific examples from the candidate's resume.",
+        "verified_skills": [
+            "Leadership",
+            "Teaching",
+            "Community Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and vision, but it does not provide concrete examples from their resume. The source of the recommendation is also unclear, which raises some concerns about its credibility."
+    }
+}

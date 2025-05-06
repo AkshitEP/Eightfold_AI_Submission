@@ -1,0 +1,26 @@
+{
+    "target_id": "171",
+    "recommendations": [
+        {
+            "recommender_id": "316",
+            "recommendation": {
+                "resume_file": "171.json",
+                "recommendation_file": "Recommendation_From_ID_316.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as a culinary arts consultant seems unrelated to the candidate's experience, and the claim of a perfect attendance record is statistically improbable.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operational Management",
+                        "Time Management",
+                        "Negotiation",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and operational management abilities. However, the recommender's role and some claims seem unrelated or exaggerated."
+                }
+            }
+        }
+    ]
+}

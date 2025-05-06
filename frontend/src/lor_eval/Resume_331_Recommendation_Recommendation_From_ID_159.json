@@ -1,0 +1,16 @@
+{
+    "resume_file": "331.json",
+    "recommendation_file": "Recommendation_From_ID_159.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a visual arts teacher seems unrelated to the candidate's experience in the music industry. However, the recommendation highlights the candidate's transferable skills, such as project management, communication, and organizational capabilities.",
+        "verified_skills": [
+            "Project Management",
+            "Communication",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and communication skills. However, the recommender's profession seems unrelated to the candidate's experience, which raises some concerns about the relevance of the recommendation."
+    }
+}

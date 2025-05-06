@@ -1,0 +1,18 @@
+{
+    "resume_file": "541.json",
+    "recommendation_file": "Recommendation_From_ID_775.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the claim of saving $1.3 million in expenses seems statistically improbable and requires further verification.",
+        "verified_skills": [
+            "Financial Management",
+            "Financial Analysis",
+            "Budgeting",
+            "Leadership",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's financial acumen, strategic thinking, and operational efficiency. However, the claim of saving $1.3 million in expenses requires further verification to confirm its accuracy."
+    }
+}

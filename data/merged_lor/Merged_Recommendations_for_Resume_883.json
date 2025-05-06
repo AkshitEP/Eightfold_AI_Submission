@@ -1,0 +1,64 @@
+{
+    "target_id": "883",
+    "recommendations": [
+        {
+            "recommender_id": "337",
+            "recommendation": {
+                "resume_file": "883.json",
+                "recommendation_file": "Recommendation_From_ID_337.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and sales abilities. However, it does not mention the candidate's experience in aviation management, scheduling, or leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "616",
+            "recommendation": {
+                "resume_file": "883.json",
+                "recommendation_file": "Recommendation_From_ID_616.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and sales abilities. However, it does not mention some of the candidate's other skills, such as Aviation Management or Scheduling."
+                }
+            }
+        },
+        {
+            "recommender_id": "670",
+            "recommendation": {
+                "resume_file": "883.json",
+                "recommendation_file": "Recommendation_From_ID_670.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Geek Squad Agent seems unrelated to the candidate's work experience. However, the recommendation provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, communication, and time management, which aligns with their work experience as a Bank Teller and other roles. However, the recommender's role and relationship to the candidate are not clearly established."
+                }
+            }
+        }
+    ]
+}

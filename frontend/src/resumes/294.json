@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Administrative Manager",
+                "work_description": "Answer multiple phone lines, Bookkeeping, Sending and receiving emails, faxes, copying, Managed office inventory and placed new supply orders, Sorting & distributing mail, IT & Telecoms Troubleshooting, Collections Account Reconciliation, Developed and administered department budgets, Liaised directly with customers to meet needs and maintain satisfaction.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Answer multiple phone lines, Handle daily reports, Sending emails, faxing, copying, Making outbound calls to customers, Ordering office supplies, Data entry, Scheduled appointments and maintained master calendar, Updated employee paperwork and records.",
+                "company_level": "Mid-level",
+                "start_date": "03/2012",
+                "end_date": "09/2012"
+            },
+            {
+                "role_name": "Front Desk/ Customer Service Rep",
+                "work_description": "Arranges for customer travel, hotel reservations, and auto rental, Tracks aircraft arrival and assures prompt line service, Arranges for prompt customer de-briefing by appropriate technical personnel, Dispatch information to line service and pilots.",
+                "company_level": "Mid-level",
+                "start_date": "03/2011",
+                "end_date": "07/2011"
+            },
+            {
+                "role_name": "Registrar / Receptionist",
+                "work_description": "Answering telephones, Register patients, Verifying insurances, Enter patients information into computer, Follow up on unpaid claims within standard billing cycle timeframe, File patients document.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Sanford Brown Institute",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Medical Assistant",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Bookkeeping",
+                "level": 4,
+                "explanation": "Handled bookkeeping tasks as an Administrative Manager, showing strong proficiency."
+            },
+            {
+                "name": "Account Reconciliation",
+                "level": 4,
+                "explanation": "Performed collections account reconciliation as an Administrative Manager, indicating strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Developed and administered department budgets as an Administrative Manager, showing strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Handled customer-facing tasks in multiple roles, including answering phone lines, making outbound calls, and meeting customer needs, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Handled data entry tasks as an Administrative Assistant, showing a solid working proficiency."
+            },
+            {
+                "name": "IT & Telecoms Troubleshooting",
+                "level": 3,
+                "explanation": "Handled IT and telecoms troubleshooting tasks as an Administrative Manager, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Managed office inventory and placed new supply orders as an Administrative Manager, but no direct leadership experience mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Likely used extensively for tasks such as email, faxing, and copying, suggesting strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Handled multiple tasks and responsibilities in various roles, including scheduling appointments and maintaining master calendars, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 5,
+                "explanation": "Effectively communicated with customers, colleagues, and management in multiple roles, indicating expert-level mastery."
+            }
+        ]
+    }
+}

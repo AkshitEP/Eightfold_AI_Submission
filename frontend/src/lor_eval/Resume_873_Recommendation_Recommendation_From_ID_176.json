@@ -1,0 +1,17 @@
+{
+    "resume_file": "873.json",
+    "recommendation_file": "Recommendation_From_ID_176.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and experience are not directly related to the candidate's field, which raises some concerns about the depth of their understanding of the candidate's skills and expertise.",
+        "verified_skills": [
+            "Patient Care",
+            "Leadership",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional skills in patient care coordination, case management, and leadership, which aligns with their experience as a Charge Nurse. However, the recommender's background in the insurance sector and lack of direct experience in healthcare may limit their ability to provide a comprehensive assessment of the candidate's skills and expertise."
+    }
+}

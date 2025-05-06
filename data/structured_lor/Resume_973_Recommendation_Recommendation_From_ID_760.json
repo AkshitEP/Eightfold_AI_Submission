@@ -1,0 +1,12 @@
+{
+    "resume_file": "973.json",
+    "recommendation_file": "Recommendation_From_ID_760.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is attempting to misrepresent the candidate's qualifications by mentioning experience and skills that are not present in the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not genuine and is attempting to misrepresent the candidate's qualifications."
+    }
+}

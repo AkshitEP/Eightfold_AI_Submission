@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Performed general office duties, including answering multi-line phones, routing telephone calls or messages to appropriate staff and greeting visitors. Reviewed and corrected claim errors to facilitate smooth processing. Identify issues and took appropriate action to deliver speedy resolution. Post payments to accounts and maintained records. Verify client information by analyzing existing evidence on file. Assure timely verification of insurance benefits prior to patient procedures or appointments. Maintain strong knowledge of basic medical terminology to better understand services and procedures.",
+                "company_level": "Mid-level",
+                "start_date": "06/2019",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Home Healthcare Aide",
+                "work_description": "Dressed, groomed and fed patients with limited physical abilities to efficiently handle basic needs. Developed strong and trusting rapport with each patient to facilitate best possible care and assistance. Ran errands for clients and transported to appointments to maintain wellness and support daily living needs. Organized and administered medications on clear schedules to help alleviate symptoms and optimize quality of life. Completed data entries in charts and log books to document client progress.",
+                "company_level": "Mid-level",
+                "start_date": "12/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Office Assistant",
+                "work_description": "Greeted persons entering establishment, determined nature and purpose of visit, and directed or escorted them to specific destinations. Dispersed incoming mail to correct recipients throughout office. Organized files, developed spreadsheets, faxed reports and scanned documents. Scheduled appointments on behalf of staff members to keep office operations smooth and efficient. Tracked office stock and maintained inventory in neat and organized fashion.",
+                "company_level": "Mid-level",
+                "start_date": "09/2017",
+                "end_date": "09/2019"
+            },
+            {
+                "role_name": "Unit Clerk",
+                "work_description": "Cleaned and sterilized instruments and disposed of contaminated supplies. Processed monthly reports for department performance. Scheduled and confirmed patient appointments with patients and healthcare professionals. Answered patient questions and fielded complaints. Coordinated between patients and healthcare professionals to meet patient needs. Coordinated supply replenishment to meet expected unit demands.",
+                "company_level": "Mid-level",
+                "start_date": "06/2018",
+                "end_date": "11/2018"
+            },
+            {
+                "role_name": "Daycare Teaching Assistant",
+                "work_description": "Escorted children on outings and trips to local parks and zoos. Disciplined children and recommended other measures to correct behavior. Communicated with children's parents or guardians about daily activities, behaviors, and problems. Provided students with personalized educational, behavioral and emotional support. Cleaned and organized classrooms, materials, and supplies for maximum efficiency.",
+                "company_level": "Mid-level",
+                "start_date": "03/2016",
+                "end_date": "08/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "Eastern Michigan University",
+                "start_date": "01/2016",
+                "end_date": "12/2020",
+                "domain": "Health Administration",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Mifflin High School",
+                "start_date": "01/2012",
+                "end_date": "12/2016",
+                "domain": "",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Fort Hayes Career Center",
+                "start_date": "01/2012",
+                "end_date": "12/2016",
+                "domain": "",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Administrative Support",
+                "level": 4,
+                "explanation": "Has extensive experience in performing general office duties, including answering phones, maintaining records, and verifying client information, showing strong proficiency."
+            },
+            {
+                "name": "Patient Care",
+                "level": 4,
+                "explanation": "Has experience in providing care to patients, including dressing, grooming, and feeding, as well as administering medications, indicating strong proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Has experience in completing data entries in charts and log books, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in scheduling appointments, maintaining office operations, and coordinating between patients and healthcare professionals, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in communicating with patients, parents, and healthcare professionals, showing a solid working proficiency."
+            },
+            {
+                "name": "Organizational Skills",
+                "level": 3,
+                "explanation": "Has experience in organizing files, developing spreadsheets, and maintaining inventory, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience in disciplining children and recommending measures to correct behavior, but lacks extensive experience in leadership roles."
+            },
+            {
+                "name": "Health Administration",
+                "level": 2,
+                "explanation": "Has a degree in Health Administration, but lacks extensive experience in health administration roles."
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "648.json",
+    "recommendation_file": "Recommendation_From_ID_299.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is slightly exaggerated. The claim of working as an Assistant Accountant in the Government of the Republic of Zambia for over a decade is not supported by the resume.",
+        "verified_skills": [
+            "Trade Finance",
+            "Customer Service",
+            "Fund Transfer"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in trade finance and customer service. However, the source of the recommendation is unclear, and some claims seem exaggerated or unsupported by the resume."
+    }
+}

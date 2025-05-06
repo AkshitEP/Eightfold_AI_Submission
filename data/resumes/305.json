@@ -1,0 +1,112 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Recruited to help open new company sales team in TX and NC, guiding senior management on pay and compensation for contract positions. Worked with senior leadership to create HR policies and procedures; recruit employees; updated HRIS system for tracking time and attendance, PTO benefits, and employee applicant log; created training manual; conducted job evaluations and analysis for created pay ranges and competencies.",
+                "company_level": "Mid-level",
+                "start_date": "08/2017",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Partnered with employees and management to communicate various HR policies, procedures, standards and regulations. Reviewed applications and paperwork/collected all necessary documents Answered multiple phone lines, greeted candidates Conducted employment verification, reference checks, credit checks Screened resumes, scheduled and conducted interviews, composed Congratulatory Letters.",
+                "company_level": "Mid-level",
+                "start_date": "06/2015",
+                "end_date": "05/2017"
+            },
+            {
+                "role_name": "Owner / Chef",
+                "work_description": "Oversee daily operations of quaint catering company specialized in Mexican and Italian cuisine, unique beverages, and chocolate confectionaries. Manage all details related to the safe preparation, delivery, and setup of diverse food orders serving up to 100 guests.",
+                "company_level": "Startup",
+                "start_date": "10/2013",
+                "end_date": "05/2015"
+            },
+            {
+                "role_name": "Kitchen Manager",
+                "work_description": "Oversaw daily kitchen operations, leading team of 10 in the safe preparation of guest food orders. Operated pizza ovens, grills, and industrial cleaners. Kept kitchen area in pristine condition in line with safety regulations.",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Assistant Restaurant Manager",
+                "work_description": "Assisted general manager and chef in overseeing daily operations, planning menus and daily specials, hiring and training employees, and preparing and serving lunch orders.",
+                "company_level": "Mid-level",
+                "start_date": "01/1999",
+                "end_date": "01/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "ASHFORD UNIVERSITY",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "HR Management",
+                "level": "Master's"
+            },
+            {
+                "university": "ASHFORD UNIVERSITY",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Business",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "HR Management",
+                "description": "Reviewed and analyzed more than 30 years of business research to compare the two primary approaches for filling open positions: hiring externally or promoting from within.",
+                "skills": [
+                    "Business Research",
+                    "HR Management"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "HR Management",
+                "level": 5,
+                "explanation": "Master's degree in HR Management and extensive experience in HR roles, including creating HR policies, recruiting employees, and conducting job evaluations, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Handled recruitment tasks such as reviewing applications, conducting interviews, and creating job descriptions, showing strong proficiency."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Worked with employees and management to communicate HR policies and procedures, indicating strong proficiency in employee relations."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led teams in various roles, including as an HR Generalist and Owner/Chef, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed daily operations in various roles, including as a Kitchen Manager and Owner/Chef, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Business Research",
+                "level": 2,
+                "explanation": "Conducted research for a project, showing some practical experience in business research."
+            },
+            {
+                "name": "Food Safety",
+                "level": 2,
+                "explanation": "Ensured kitchen area was in pristine condition in line with safety regulations, showing some practical experience in food safety."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Greeted candidates and answered phone lines, showing some practical experience in customer service."
+            }
+        ]
+    }
+}

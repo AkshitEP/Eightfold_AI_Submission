@@ -1,0 +1,133 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Mechanical Design Engineer Intern",
+                "work_description": "Subsea Pipeline 'S lay' installation analysis using DNV OS F101 Drilling Riser Design for High current environment. Experience in Recoil, Hang off and Drift off analysis Steady State Multiphase Flow Simulation of pipelines using Pipesim considering Flow Assurance Strategies Designed 3D models of Subsea Systems using SolidWorks package Analyzed the mechanical systems including FEA for Structural and Fatigue Delivered a Drilling Riser design document in 3 days that usually takes 1-2 weeks Standardized MS Excel template to expedite the design calculation process in few hours that would take days Recommended efficient design to reduce cost while manufacturing Gained an overall knowledge pertaining to 3D Modelling, Product Design, OCTG, Project Management, Project Engineering, Stress Analysis, Wall thickness evaluation and Tension force calculations Gained experience in applying various industry codes for offshore oil and gas projects.",
+                "company_level": "Unknown",
+                "start_date": "09/2014",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Fitness Zone Attendant",
+                "work_description": "Enforced safety policies and assisted customers during workout sessions. Acknowledged for communication skills while interacting with people from different nationalities. Emerged as a strong professional balancing rigorous work schedules and academics.",
+                "company_level": "Unknown",
+                "start_date": "01/2014",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Maintenance Engineer Intern",
+                "work_description": "Investigated operations and maintenance problems of Heat Exchangers and Refrigerators Monitored, Analyzed and Initiated actions for increasing efficiency of operation Studied P&ID's, Wiring Diagrams and Manuals and recommended economic maintenance solutions Developed prototype of a heat exchanger with an integrated hydrophobic coating that costed $10 per foot Succeeded in increasing the condensation rate by 27%, making it more environment friendly Proposed a model that was 21% compact and 22% ($18k) less expensive, that performs equally well in comparison with present heat exchangers Submitted a report with scope for improvement in innovative design and reduced cost.",
+                "company_level": "Unknown",
+                "start_date": "06/2011",
+                "end_date": "08/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Houston Main Campus - Texas",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Mechanical Engineering",
+                "level": "Master of Science"
+            },
+            {
+                "university": "Anna University",
+                "start_date": "01/2013",
+                "end_date": "05/2013",
+                "domain": "Mechanical Engineering",
+                "level": "Bachelor of Engineering"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Heat Exchanger Design",
+                "description": "Designed and Fabricated a Shell & Tube Heat Exchanger - ProEngineer Pipeline Simulation, Design and Optimization of field production using Flow Assurance strategies - Pipesim* FEED and Stress Analysis of Subsea pipeline system- WG Kenny Project * CFD Analysis of flow inside and over pipelines to improve offshore drilling mechanisms - Ansys Fluent Design, CFD Analysis and Optimization of a Computer Heat Sink to maximize Heat Transfer Rate - COMSOL * Design and Analysis of a Press Tool Prototype - ProEngineer and Ansys Mechanical Chassis and Exterior Designer of National Go Kart Championship 2013, India - Catia V5, Pro/E and Ansys",
+                "skills": [
+                    "ProEngineer",
+                    "Pipesim",
+                    "Ansys Fluent",
+                    "COMSOL",
+                    "Catia V5",
+                    "Pro/E",
+                    "Ansys Mechanical"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Mechanical Design",
+                "level": 5,
+                "explanation": "Extensive experience in designing and analyzing mechanical systems, including subsea pipelines, heat exchangers, and drilling risers, demonstrating expert-level mastery."
+            },
+            {
+                "name": "3D Modeling",
+                "level": 4,
+                "explanation": "Proficient in creating 3D models using SolidWorks, ProEngineer, and Catia V5, with experience in designing complex systems and components."
+            },
+            {
+                "name": "Finite Element Analysis (FEA)",
+                "level": 4,
+                "explanation": "Skilled in performing FEA for structural and fatigue analysis, with experience in applying various industry codes for offshore oil and gas projects."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Demonstrated project management skills through successful completion of projects, including a drilling riser design document and a heat exchanger prototype."
+            },
+            {
+                "name": "Stress Analysis",
+                "level": 4,
+                "explanation": "Experienced in performing stress analysis for mechanical systems, including pipelines and heat exchangers, with a strong understanding of industry codes and standards."
+            },
+            {
+                "name": "Flow Assurance",
+                "level": 4,
+                "explanation": "Knowledgeable in flow assurance strategies, with experience in simulating multiphase flow using Pipesim and designing systems to optimize flow rates and reduce pressure drops."
+            },
+            {
+                "name": "CFD Analysis",
+                "level": 4,
+                "explanation": "Skilled in performing computational fluid dynamics (CFD) analysis using Ansys Fluent, with experience in analyzing flow behavior and optimizing system performance."
+            },
+            {
+                "name": "ProEngineer",
+                "level": 4,
+                "explanation": "Proficient in using ProEngineer for 3D modeling and design, with experience in creating complex models and assemblies."
+            },
+            {
+                "name": "Pipesim",
+                "level": 4,
+                "explanation": "Experienced in using Pipesim for pipeline simulation and design, with a strong understanding of flow assurance strategies and multiphase flow behavior."
+            },
+            {
+                "name": "Ansys Fluent",
+                "level": 4,
+                "explanation": "Skilled in using Ansys Fluent for CFD analysis, with experience in analyzing flow behavior and optimizing system performance."
+            },
+            {
+                "name": "COMSOL",
+                "level": 3,
+                "explanation": "Familiar with COMSOL for multiphysics simulation, with experience in designing and optimizing systems using this software."
+            },
+            {
+                "name": "Catia V5",
+                "level": 3,
+                "explanation": "Knowledgeable in using Catia V5 for 3D modeling and design, with experience in creating complex models and assemblies."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Some experience in leading teams, including a role as a fitness zone attendant, but limited evidence of leadership skills in technical projects."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Demonstrated strong communication skills, with experience in interacting with people from different nationalities and cultures."
+            }
+        ]
+    }
+}

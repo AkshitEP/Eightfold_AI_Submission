@@ -1,0 +1,16 @@
+{
+    "resume_file": "127.json",
+    "recommendation_file": "Recommendation_From_ID_259.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Reporting",
+            "System Implementation"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and job cost reporting. However, the recommendation mentions the candidate's experience as a Senior Accountant, which is not explicitly stated in the resume."
+    }
+}

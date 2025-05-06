@@ -1,0 +1,86 @@
+{
+    "target_id": "631",
+    "recommendations": [
+        {
+            "recommender_id": "985",
+            "recommendation": {
+                "resume_file": "631.json",
+                "recommendation_file": "Recommendation_From_ID_985.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected, including unrealistic experience claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Talent Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but raises concerns about credibility due to inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "628",
+            "recommendation": {
+                "resume_file": "631.json",
+                "recommendation_file": "Recommendation_From_ID_628.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall genuine tone.",
+                    "verified_skills": [
+                        "Recruitment Strategy",
+                        "Talent Management",
+                        "HRIS Systems",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "632",
+            "recommendation": {
+                "resume_file": "631.json",
+                "recommendation_file": "Recommendation_From_ID_632.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommender's background and experience seem unrelated to the candidate's experience, and the recommendation is overly flattering and lacks specific examples or concrete evidence.",
+                    "verified_skills": [
+                        "Recruitment Strategy",
+                        "Talent Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but the recommender's background and experience seem suspicious and unrelated to the candidate's experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "682",
+            "recommendation": {
+                "resume_file": "631.json",
+                "recommendation_file": "Recommendation_From_ID_682.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment Strategy",
+                        "Talent Management",
+                        "Communication",
+                        "Project Management",
+                        "Employee Relations"
+                    ],
+                    "recommendation_source": "Peer/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in talent acquisition, project management, and employee relations. The source of the recommendation appears to be a peer or supervisor, given their familiarity with the candidate's work and expertise."
+                }
+            }
+        }
+    ]
+}

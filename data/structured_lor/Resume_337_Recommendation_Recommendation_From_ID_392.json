@@ -1,0 +1,12 @@
+{
+    "resume_file": "337.json",
+    "recommendation_file": "Recommendation_From_ID_392.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation mentions a different industry (energy sector) and role (Managed Pressure Drilling Field Supervisor) that is not present in the resume. The language used is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide any specific examples of the candidate's skills or experience. The recommendation seems to be for a different person, and the claims made are not supported by the resume."
+    }
+}

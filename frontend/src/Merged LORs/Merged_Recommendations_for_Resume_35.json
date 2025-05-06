@@ -1,0 +1,147 @@
+{
+    "target_id": "35",
+    "recommendations": [
+        {
+            "recommender_id": "686",
+            "recommendation": {
+                "resume_file": "35.json",
+                "recommendation_file": "Recommendation_From_ID_686.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation lacks substantial detail or alignment with key areas of expertise.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Data Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks detail and alignment with key areas of expertise. The recommendation seems to be partially genuine, but there are some inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "268",
+            "recommendation": {
+                "resume_file": "35.json",
+                "recommendation_file": "Recommendation_From_ID_268.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Security Clearance Management",
+                        "Personnel Security",
+                        "Information Security",
+                        "Physical Security",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their security expertise and leadership abilities. The recommender's experience in managing international aircraft certification programs adds credibility to their endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "788",
+            "recommendation": {
+                "resume_file": "35.json",
+                "recommendation_file": "Recommendation_From_ID_788.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Exaggerated language, lack of concrete examples, and unclear relevance to security-related roles.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks specificity and alignment with the key areas of expertise mentioned in the resume, and raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "678",
+            "recommendation": {
+                "resume_file": "35.json",
+                "recommendation_file": "Recommendation_From_ID_678.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'recognized certifications' which are not explicitly mentioned in the resume. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Security Clearance Management",
+                        "Personnel Security",
+                        "Information Security",
+                        "Physical Security",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in security management, but there are some minor inconsistencies and exaggerated claims. The recommendation highlights the candidate's leadership and interpersonal skills, but these are not extensively demonstrated in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "708",
+            "recommendation": {
+                "resume_file": "35.json",
+                "recommendation_file": "Recommendation_From_ID_708.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background as an aviation mechanic may not be directly relevant to the candidate's security expertise. However, the recommender's experience in a military environment and emphasis on safety and regulatory standards provide some credibility.",
+                    "verified_skills": [
+                        "Security Clearance Management",
+                        "Personnel Security",
+                        "Information Security",
+                        "Physical Security",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's expertise in personnel security, leadership, and communication. However, the recommender's background and experience may not be directly relevant to the candidate's security expertise, which slightly reduces the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "919",
+            "recommendation": {
+                "resume_file": "35.json",
+                "recommendation_file": "Recommendation_From_ID_919.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a former Supply Chain Manager is unclear in relation to the candidate's work experience. The language is formal, but some claims seem exaggerated.",
+                    "verified_skills": [
+                        "Security Clearance Management",
+                        "Personnel Security",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their security management expertise and leadership abilities. However, the recommender's role and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "295",
+            "recommendation": {
+                "resume_file": "35.json",
+                "recommendation_file": "Recommendation_From_ID_295.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Security Clearance Management",
+                        "Personnel Security",
+                        "Information Security",
+                        "Physical Security",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their security management expertise and leadership abilities. The recommender's role as a Production Supervisor and Value Stream Leader suggests a peer-level relationship with the candidate."
+                }
+            }
+        }
+    ]
+}

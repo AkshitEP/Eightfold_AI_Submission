@@ -1,0 +1,28 @@
+{
+    "target_id": "560",
+    "recommendations": [
+        {
+            "recommender_id": "314",
+            "recommendation": {
+                "resume_file": "560.json",
+                "recommendation_file": "Recommendation_From_ID_314.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Cloud Computing",
+                        "Project Management",
+                        "IT Management",
+                        "Server Management",
+                        "Storage Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience. It provides specific examples of their accomplishments and leadership abilities, showcasing their expertise in IT management."
+                }
+            }
+        }
+    ]
+}

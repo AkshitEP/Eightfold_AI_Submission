@@ -1,0 +1,121 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Account Executive",
+                "work_description": "Maintaining and growing the Real Estate category. Helping clients understand and utilize Pa Media Group's digital marketing platforms to secure leads and boost brand awareness.",
+                "company_level": "Mid-level",
+                "start_date": "04/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Healthcare Account Executive",
+                "work_description": "Growing and retaining new and old healthcare related businesses. Finding new business opportunities and maintaining current book of business.",
+                "company_level": "Mid-level",
+                "start_date": "03/2014",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Real Estate/ Executive Marketing Media Consultant",
+                "work_description": "Learning, understanding, and selling all products of the media kit. Maintaining own book of business and creating new relationships.",
+                "company_level": "Mid-level",
+                "start_date": "07/2012",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Marketing Intern",
+                "work_description": "Working with customers, creating documents, coordinating events, and designing a brochure.",
+                "company_level": "Startup",
+                "start_date": "05/2011",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Greeting customers, assisting with choices, problems, and getting products, selling credit card, running cash register, and creating displays.",
+                "company_level": "Mid-level",
+                "start_date": "05/2011",
+                "end_date": "02/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Shippensburg University John L Grove College of Business",
+                "start_date": "01/2008",
+                "end_date": "12/2012",
+                "domain": "Marketing and General Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Event Planning",
+                "description": "Coordinated and planned a networking event for 600 guests.",
+                "skills": [
+                    "Event Planning",
+                    "Networking"
+                ]
+            },
+            {
+                "domain": "Marketing",
+                "description": "Created and developed effective marketing solution packages for customers.",
+                "skills": [
+                    "Marketing Strategy",
+                    "Marketing Plans"
+                ]
+            },
+            {
+                "domain": "Digital Marketing",
+                "description": "Utilized Google Analytics to optimize campaigns.",
+                "skills": [
+                    "Google Analytics",
+                    "Digital Marketing"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Marketing Strategy",
+                "level": 4,
+                "explanation": "Has extensive experience in creating and developing effective marketing solution packages for customers, and has utilized Google Analytics to optimize campaigns, showing strong proficiency."
+            },
+            {
+                "name": "Digital Marketing",
+                "level": 4,
+                "explanation": "Has experience in utilizing digital marketing platforms to secure leads and boost brand awareness, and has utilized Google Analytics to optimize campaigns, showing strong proficiency."
+            },
+            {
+                "name": "Event Planning",
+                "level": 3,
+                "explanation": "Has experience in coordinating and planning a networking event for 600 guests, showing a solid working proficiency."
+            },
+            {
+                "name": "Networking",
+                "level": 3,
+                "explanation": "Has experience in coordinating and planning a networking event for 600 guests, showing a solid working proficiency."
+            },
+            {
+                "name": "Google Analytics",
+                "level": 3,
+                "explanation": "Has utilized Google Analytics to optimize campaigns, showing a solid working proficiency."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Has experience in sales as a Sales Associate and Account Executive, showing a solid working proficiency."
+            },
+            {
+                "name": "Account Management",
+                "level": 4,
+                "explanation": "Has experience in maintaining and growing existing client relationships, and has helped clients understand and utilize digital marketing platforms, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience in leadership as an Account Executive, but lacks extensive experience, showing some practical experience."
+            }
+        ]
+    }
+}

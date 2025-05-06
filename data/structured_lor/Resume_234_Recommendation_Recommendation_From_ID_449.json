@@ -1,0 +1,16 @@
+{
+    "resume_file": "234.json",
+    "recommendation_file": "Recommendation_From_ID_449.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Storekeeper II seems unrelated to the candidate's experience and skills. However, the recommendation provides specific examples of the candidate's leadership and technical abilities.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional leadership and technical abilities, but the recommender's role and experience seem unrelated to the candidate's background. The recommendation provides specific examples of the candidate's skills and experience, but the lack of direct connection between the recommender and the candidate raises some concerns."
+    }
+}

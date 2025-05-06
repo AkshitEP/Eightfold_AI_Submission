@@ -1,0 +1,94 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "General Accountant",
+                "work_description": "Manage accounting operations including AP, AR, and Payroll/Benefits. Assist with monthly/year-end close and annual audit. Cash Management-produce cash forecast and manage cash flow. Assist the CFO with the production of monthly financials, management reports, and board packages. Maintain confidential information. Prepare monthly and annual expense forecasts. Analyze costs and revenues to project future trends. Prepare and maintain Cap Table.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "11/2016"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "AR-Prepared Client Invoices and researched and resolved collections and billing disputes. AP-Processed Invoices and researched and resolved billing and invoice issues. Reconciled all bank and credit card accounts. Processed payroll, electronic deposits and employee pay adjustments. Reduced time and costs and increased efficiency by introducing new accounting procedures and software. Conducted month-end balance sheet reviews and reconciled any variances.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "11/2016"
+            },
+            {
+                "role_name": "Director of Finance",
+                "work_description": "",
+                "company_level": "Non-profit",
+                "start_date": "01/2015",
+                "end_date": "12/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "Upper Iowa University",
+                "start_date": "01/2015",
+                "end_date": "12/2016",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Illinois",
+                "start_date": "01/2015",
+                "end_date": "12/2016",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience with all aspects of accounting including AP, AR, and Payroll/Benefits, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Handled bank and credit card reconciliations, showing strong proficiency in financial reconciliation."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Processed payroll, electronic deposits and employee pay adjustments, suggesting strong proficiency in payroll management."
+            },
+            {
+                "name": "Cash Management",
+                "level": 4,
+                "explanation": "Produced cash forecast and managed cash flow, indicating strong proficiency in cash management."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Analyzed costs and revenues to project future trends, showing strong proficiency in financial analysis."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Held a director-level role, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Accounting Software",
+                "level": 3,
+                "explanation": "Introduced new accounting procedures and software, showing a solid working proficiency in accounting software."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Prepared monthly and annual expense forecasts, showing a solid working proficiency in budgeting."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 3,
+                "explanation": "Assisted with the production of monthly financials, management reports, and board packages, showing a solid working proficiency in financial reporting."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "361.json",
+    "recommendation_file": "Recommendation_From_ID_141.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions a role (Gunnery Sergeant) not present in the resume. However, the skills and experiences mentioned align well with the candidate's background.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Safety Management",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership, resource management, and project execution skills, which are relevant to their experience as a Superintendent II and Aviation Ordnanceman. However, the mention of a Gunnery Sergeant role not present in the resume raises some concerns."
+    }
+}

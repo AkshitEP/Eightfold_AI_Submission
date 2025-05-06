@@ -1,0 +1,80 @@
+{
+    "target_id": "246",
+    "recommendations": [
+        {
+            "recommender_id": "28",
+            "recommendation": {
+                "resume_file": "246.json",
+                "recommendation_file": "Recommendation_From_ID_28.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and relationship to the candidate, but overall the recommendation seems credible.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Financial Reporting",
+                        "Cash Flow Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in financial reporting, account reconciliations, and analytical abilities, which align with their experience and skills listed in the resume. However, the recommender's role and relationship to the candidate are unclear, and some of the language used seems overly flattering."
+                }
+            }
+        },
+        {
+            "recommender_id": "583",
+            "recommendation": {
+                "resume_file": "246.json",
+                "recommendation_file": "Recommendation_From_ID_583.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration and unrelated claims. The writer's tone and language suggest that they may not be familiar with the candidate's actual work experience.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's resume and seems to be written by someone who is not familiar with the candidate's actual work experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "591",
+            "recommendation": {
+                "resume_file": "246.json",
+                "recommendation_file": "Recommendation_From_ID_591.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's background and the candidate's field of expertise.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "Financial Reporting",
+                        "Cash Flow Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but the recommender's background may not be directly related to the candidate's field of expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "636",
+            "recommendation": {
+                "resume_file": "246.json",
+                "recommendation_file": "Recommendation_From_ID_636.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's accounting experience. The language is formal, but the recommender's background is in sales, which might not be directly relevant to accounting.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Financial Reporting",
+                        "Cash Flow Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's analytical skills, financial reporting capabilities, and cash flow management expertise, which aligns with their accounting experience. However, the recommender's background in sales might not be directly relevant to accounting, and the recommendation could be more specific about the candidate's skills and accomplishments."
+                }
+            }
+        }
+    ]
+}

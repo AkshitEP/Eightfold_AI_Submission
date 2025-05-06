@@ -1,0 +1,69 @@
+{
+    "target_id": "999",
+    "recommendations": [
+        {
+            "recommender_id": "483",
+            "recommendation": {
+                "resume_file": "999.json",
+                "recommendation_file": "Recommendation_From_ID_483.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "AWS",
+                        "Cloud Infrastructure",
+                        "Network Security",
+                        "TCP/IP",
+                        "Networking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements and dedication to data integrity and security."
+                }
+            }
+        },
+        {
+            "recommender_id": "705",
+            "recommendation": {
+                "resume_file": "999.json",
+                "recommendation_file": "Recommendation_From_ID_705.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "AWS",
+                        "Cloud Infrastructure",
+                        "Network Security",
+                        "TCP/IP",
+                        "Networking"
+                    ],
+                    "recommendation_source": "Senior Vice President and Chief Information Officer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency and achievements."
+                }
+            }
+        },
+        {
+            "recommender_id": "767",
+            "recommendation": {
+                "resume_id": 999,
+                "recommendation_file": "Recommendation_From_ID_767.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "AWS",
+                        "Cloud Infrastructure",
+                        "Network Security",
+                        "TCP/IP",
+                        "Networking",
+                        "Problem-solving abilities"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency and problem-solving abilities."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "target_id": "730",
+    "recommendations": [
+        {
+            "recommender_id": "76",
+            "recommendation": {
+                "resume_file": "730.json",
+                "recommendation_file": "Recommendation_From_ID_76.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Change Management",
+                        "Leadership",
+                        "Business Development",
+                        "IT Infrastructure Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and change management abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "898",
+            "recommendation": {
+                "resume_file": "730.json",
+                "recommendation_file": "Recommendation_From_ID_898.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical expertise",
+                        "Strategic insight",
+                        "Leadership",
+                        "Change Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "579",
+            "recommendation": {
+                "resume_file": "730.json",
+                "recommendation_file": "Recommendation_From_ID_579.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Change Management",
+                        "Business Development",
+                        "IT Infrastructure Management",
+                        "Training and Development",
+                        "Budgeting",
+                        "Financial Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and financial management abilities. The recommendation also highlights the candidate's ability to balance resources, timelines, and budgets, and their innovative approach to process design and training."
+                }
+            }
+        },
+        {
+            "recommender_id": "369",
+            "recommendation": {
+                "resume_file": "730.json",
+                "recommendation_file": "Recommendation_From_ID_369.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Change Management",
+                        "Training and Development",
+                        "IT Infrastructure Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and IT infrastructure management abilities. The source of the recommendation is a former Director of Information Technology, indicating a direct supervisory relationship."
+                }
+            }
+        }
+    ]
+}

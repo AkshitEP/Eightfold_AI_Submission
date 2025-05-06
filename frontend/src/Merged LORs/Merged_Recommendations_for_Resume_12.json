@@ -1,0 +1,46 @@
+{
+    "target_id": "12",
+    "recommendations": [
+        {
+            "recommender_id": "202",
+            "recommendation": {
+                "resume_file": "12.json",
+                "recommendation_file": "Recommendation_From_ID_202.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Account Management",
+                        "Data Analysis",
+                        "Customer Relationship Management",
+                        "Oracle SQL"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their account management, data analysis, and customer relationship management skills. The recommendation also highlights the candidate's technical skills, such as Oracle SQL, and their ability to drive sales and revenue growth."
+                }
+            }
+        },
+        {
+            "recommender_id": "10",
+            "recommendation": {
+                "resume_file": "12.json",
+                "recommendation_file": "Recommendation_From_ID_10.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Account Management",
+                        "Leadership",
+                        "Customer Relationship Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and client relationship skills. However, it does not directly reference some of the candidate's technical skills, such as Oracle SQL, Jira, or SaaS."
+                }
+            }
+        }
+    ]
+}

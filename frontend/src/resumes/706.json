@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Mortgage Banking Research Specialist",
+                "work_description": "I currently provide feedback, guidance, and direction to 30+ agents in Texas and Arizona offices on a daily basis. I review and research Executive Office complaint responses for compliance and regulatory checks. I identify and work with internal and external LOB partners to obtain thorough resolutions to Executive Office complaints and inquiries.",
+                "company_level": "Mid-level",
+                "start_date": "02/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Sr. Loss Prevention Lead",
+                "work_description": "Advanced to increasingly responsible positions, culminating in a management assistance role with oversight for a 12+ member team. Trained/assisted employees with daily responsibilities and monthly production goals. Handled supervisor talk offs and monitor calls for quality assurance.",
+                "company_level": "Mid-level",
+                "start_date": "06/2005",
+                "end_date": "12/2009"
+            },
+            {
+                "role_name": "Loss Prevention Supervisor - Floater",
+                "work_description": "Led a team of 12+ Loss Prevention Representatives with a portfolio of 100 to 160 accounts each and days of delinquency ranging from 60- 150 days. I analyzed team and department reports to develop ideas for production and quality enhancement.",
+                "company_level": "Mid-level",
+                "start_date": "01/2001",
+                "end_date": "06/2005"
+            },
+            {
+                "role_name": "Assistant Facilities Manager",
+                "work_description": "I managed and organized maintenance employees and contractors on the premises daily to meet the goals of the business. I implemented employee schedules and organized shifts according to business needs.",
+                "company_level": "Mid-level",
+                "start_date": "05/1998",
+                "end_date": "12/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Ashworth College",
+                "start_date": "Current",
+                "end_date": "Current",
+                "domain": "Business Administration Finance",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including managing teams of 12+ members, providing guidance and direction to agents, and overseeing daily operations, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in providing feedback, guidance, and direction to teams and agents, and has handled supervisor talk offs and monitor calls for quality assurance, suggesting strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Has experience in identifying and resolving complex issues, including Executive Office complaints and inquiries, and has developed ideas for production and quality enhancement, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience in managing and organizing maintenance employees and contractors, and has implemented employee schedules and organized shifts according to business needs, suggesting strong proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has experience in managing teams of 12+ members, including training and assisting employees with daily responsibilities and monthly production goals, indicating strong proficiency."
+            },
+            {
+                "name": "Quality Assurance",
+                "level": 3,
+                "explanation": "Has experience in monitoring calls for quality assurance, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Business Administration",
+                "level": 3,
+                "explanation": "Has a Bachelor's degree in Business Administration Finance, and has experience in managing daily operations, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Finance",
+                "level": 2,
+                "explanation": "Has a degree in Business Administration Finance, but limited experience in finance-related roles, suggesting some practical experience."
+            }
+        ]
+    }
+}

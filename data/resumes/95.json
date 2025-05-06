@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Line Service Technician",
+                "work_description": "Fuel Aircraft from Cessna to Gulfstream as well as helicopters. Marshaling in Aircraft. Pilot and Passenger communication. Towing and Pushing aircraft. Aircraft Cleaning. Aircraft Management.",
+                "company_level": "Unknown",
+                "start_date": "03/2017",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Ramp Agent",
+                "work_description": "Fueling of F-18, T-38, Boeing 737, E-2. Marshaling of inbound and outbound aircraft. Baggage for Allegiant Airlines. Pushback Operator for Allegiant Airlines. Use of Unicom and Deicing Military and Commercial Aircraft. Lavatory Service Use and Ground Power Unit. Pilot Communications.",
+                "company_level": "Unknown",
+                "start_date": "07/2016",
+                "end_date": "03/2017"
+            },
+            {
+                "role_name": "Team Member",
+                "work_description": "Running the computer system which entailed cash register and returns. Helping customers with problems and showing them where certain things were in the store. Solving customer problems using self-thinking. Loading multiple bags of 50 pounds of animal feed into the store.",
+                "company_level": "Unknown",
+                "start_date": "04/2015",
+                "end_date": "05/2016"
+            },
+            {
+                "role_name": "Event Staff",
+                "work_description": "Setting up for weddings, birthday parties, bridal showers, baby showers, etc. Driving customers in six-seater and four-seater gas-powered golf carts. Setting up chairs and tables which required heavy lifting. Working long days and long nights. Landscaping jobs around the property.",
+                "company_level": "Unknown",
+                "start_date": "04/2015",
+                "end_date": "06/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "Southwestern Illinois College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Aviation Pilot Training",
+                "level": "Associate of Applied Science"
+            },
+            {
+                "university": "FREEBURG COMMUNITY HIGH SCHOOL",
+                "start_date": "Unknown",
+                "end_date": "05/2016",
+                "domain": "Unknown",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Aviation"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Aircraft Handling",
+                "level": 4,
+                "explanation": "Has extensive experience handling various types of aircraft, including fueling, marshaling, towing, and cleaning, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience with pilot and passenger communication, as well as using Unicom, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Has experience working as part of a team in various roles, including as a Line Service Technician and Ramp Agent, indicating a solid working proficiency in teamwork."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience helping customers with problems and providing assistance in a retail setting, indicating a solid working proficiency in customer service."
+            },
+            {
+                "name": "Physical Labor",
+                "level": 3,
+                "explanation": "Has experience with heavy lifting and physical labor in various roles, including loading animal feed and setting up chairs and tables, indicating a solid working proficiency in physical labor."
+            },
+            {
+                "name": "Aviation",
+                "level": 4,
+                "explanation": "Has an Associate of Applied Science degree in Aviation Pilot Training and experience working in the aviation industry, indicating strong proficiency in aviation."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience with leadership, including driving customers in golf carts and working independently, but lacks extensive experience, indicating some practical experience."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience working long days and nights, indicating a solid working proficiency in time management."
+            }
+        ]
+    }
+}

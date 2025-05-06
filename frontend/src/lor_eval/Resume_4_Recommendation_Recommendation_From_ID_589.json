@@ -1,0 +1,21 @@
+{
+    "resume_id": 4,
+    "recommendation_file": "Recommendation_From_ID_589.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Payroll Management",
+            "Budgeting",
+            "Leadership",
+            "Microsoft Excel",
+            "Accounting Supervision",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership skills, and ability to work under pressure."
+    }
+}

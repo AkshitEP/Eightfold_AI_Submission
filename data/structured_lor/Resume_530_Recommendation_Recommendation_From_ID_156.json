@@ -1,0 +1,23 @@
+{
+    "resume_file": "530.json",
+    "recommendation_file": "Recommendation_From_ID_156.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Account Reconciliation",
+            "Cash Management",
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Problem-Solving",
+            "Microsoft Excel",
+            "Leadership",
+            "Accounting"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, organizational skills, and attention to detail. The recommender's position as a Finance Director adds credibility to the recommendation."
+    }
+}

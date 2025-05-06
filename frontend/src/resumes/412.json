@@ -1,0 +1,105 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Registered Nurse Clinical Care Coordinator- First Aid",
+                "work_description": "Provided leadership to staff through coaching, mentoring and remodeling in order to achieve high quality patient care in a safe and customer focused environment. Provided clinical expertise and a resource to clinical staff. Worked closely with management, physician leadership, and staff to optimize patient flow and improve patient care.",
+                "company_level": "Mid-level",
+                "start_date": "05/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Clinical Supervisor / Registered Nurse",
+                "work_description": "Managed Day-to-Day operations, Device-related adverse events training, Medical equipment maintenance and certification, Vaccine inventory and reports, Clinical staff scheduling, Performance reviews, Chart audits, Clinical evaluations.",
+                "company_level": "Mid-level",
+                "start_date": "06/2008",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Nursing/Manager's assistant",
+                "work_description": "Provided first aid, Monitored health and sanitation procedures throughout the camp, administered, Presided at all health checks and followed up on any problems seen in the Health Center.",
+                "company_level": "Unknown",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Illinois- Chicago College of Nursing",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Midwifery",
+                "level": "Master's"
+            },
+            {
+                "university": "Illinois State University- Mennonite College of Nursing",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Hawaii",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Hawaii",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "General Education",
+                "level": "Unknown"
+            },
+            {
+                "university": "Resurrection High School",
+                "start_date": "Unknown",
+                "end_date": "08/2007",
+                "domain": "Unknown",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including providing coaching, mentoring, and guidance to staff, and working closely with management and physician leadership to optimize patient flow and improve patient care, indicating expert-level mastery."
+            },
+            {
+                "name": "Clinical Management",
+                "level": 5,
+                "explanation": "Has managed day-to-day operations, device-related adverse events training, medical equipment maintenance and certification, vaccine inventory and reports, clinical staff scheduling, performance reviews, chart audits, and clinical evaluations, indicating expert-level mastery."
+            },
+            {
+                "name": "Patient Care",
+                "level": 5,
+                "explanation": "Has provided high-quality patient care in a safe and customer-focused environment, and worked to optimize patient flow and improve patient care, indicating expert-level mastery."
+            },
+            {
+                "name": "Nursing",
+                "level": 5,
+                "explanation": "Has a Master's degree in Midwifery and two Bachelor's degrees in Nursing, and has worked as a Registered Nurse in various roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Health and Sanitation",
+                "level": 3,
+                "explanation": "Has monitored health and sanitation procedures throughout a camp, and administered first aid, indicating a solid working proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Has provided training on device-related adverse events, and has mentored and coached staff, indicating a solid working proficiency."
+            },
+            {
+                "name": "Quality Assurance",
+                "level": 3,
+                "explanation": "Has performed chart audits and clinical evaluations, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

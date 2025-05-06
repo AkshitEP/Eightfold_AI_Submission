@@ -1,0 +1,110 @@
+{
+    "target_id": "134",
+    "recommendations": [
+        {
+            "recommender_id": "779",
+            "recommendation": {
+                "resume_file": "134.json",
+                "recommendation_file": "Recommendation_From_ID_779.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Group Facilitation",
+                        "Community Outreach",
+                        "Leadership",
+                        "Communication",
+                        "Problem Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and leadership abilities. The recommender's experience as a Lead Pharmacy Technician Advocate and Supervisor adds credibility to their endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "293",
+            "recommendation": {
+                "resume_file": "134.json",
+                "recommendation_file": "Recommendation_From_ID_293.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the writer's relationship to the candidate is unclear and the writer's experience with the candidate is not explicitly stated. However, the recommendation does not contain any obvious red flags or statistically improbable claims.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Project Management",
+                        "Community Outreach",
+                        "Leadership",
+                        "Problem Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and community outreach. However, the writer's relationship to the candidate is unclear, and the writer's experience with the candidate is not explicitly stated."
+                }
+            }
+        },
+        {
+            "recommender_id": "320",
+            "recommendation": {
+                "resume_file": "134.json",
+                "recommendation_file": "Recommendation_From_ID_320.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession (RN and Assistant Head Nurse Practice Leader) does not directly align with the candidate's experience and skills. However, the recommendation provides specific examples of the candidate's skills and accomplishments.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Project Management",
+                        "Community Outreach",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional skills in counseling and program development, as well as their ability to establish key partnerships within the community. However, the recommender's profession does not directly align with the candidate's experience and skills, which raises some concerns about the recommender's familiarity with the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "829",
+            "recommendation": {
+                "resume_file": "134.json",
+                "recommendation_file": "Recommendation_From_ID_829.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Project Management",
+                        "Community Outreach",
+                        "Leadership",
+                        "Problem Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and community outreach programs. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "110",
+            "recommendation": {
+                "resume_file": "134.json",
+                "recommendation_file": "Recommendation_From_ID_110.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the resume. Some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Community Outreach",
+                        "Counseling",
+                        "Problem Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in leadership, project management, community outreach, counseling, and problem solving. However, it lacks specific examples from the resume and some claims seem exaggerated or unsupported."
+                }
+            }
+        }
+    ]
+}

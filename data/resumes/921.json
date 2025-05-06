@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Project Manager",
+                "work_description": "Leads and supports complex projects or programs including the planning, management, and implementation of assigned projects and/or programs within the Consumer Private Wealth Management portfolio of the Enterprise Execution Services organization.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Healthcare Product Manager",
+                "work_description": "Evaluated the systems needs of the Healthcare business and led a team of Business Analysts through the product lifecycle of new and existing systems.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2009",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Managing Consultant",
+                "work_description": "Designed and implemented supply chain transformation solutions for clients in the industrial sector to improve overall operational efficiencies and effectiveness.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2000",
+                "end_date": "04/2009"
+            },
+            {
+                "role_name": "Technical Analyst",
+                "work_description": "Implemented package integration solutions for the healthcare industry.",
+                "company_level": "Mid-level",
+                "start_date": "06/1998",
+                "end_date": "08/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Georgia",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Finance",
+                "level": "MBA"
+            },
+            {
+                "university": "Spelman College",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Computer Science",
+                "level": "BS"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has led complex projects and programs across multiple organizations, including the planning, management, and implementation of assigned projects, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has led teams in multiple roles, including as a Project Manager and Healthcare Product Manager, showing a strong ability to manage and lead teams, indicating expert-level mastery."
+            },
+            {
+                "name": "Supply Chain Management",
+                "level": 4,
+                "explanation": "Designed and implemented supply chain transformation solutions for clients in the industrial sector, suggesting strong proficiency in supply chain management."
+            },
+            {
+                "name": "Product Management",
+                "level": 4,
+                "explanation": "Led a team of Business Analysts through the product lifecycle of new and existing systems, indicating strong proficiency in product management."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 3,
+                "explanation": "Worked with Business Analysts in multiple roles, suggesting a solid working proficiency in business analysis."
+            },
+            {
+                "name": "System Integration",
+                "level": 3,
+                "explanation": "Implemented package integration solutions for the healthcare industry, showing a solid working proficiency in system integration."
+            },
+            {
+                "name": "Finance",
+                "level": 2,
+                "explanation": "Has an MBA in Finance, but there is limited evidence of practical experience in finance, suggesting some practical experience."
+            },
+            {
+                "name": "Computer Science",
+                "level": 2,
+                "explanation": "Has a degree in Computer Science, but there is limited evidence of practical experience in computer science, suggesting some practical experience."
+            }
+        ]
+    }
+}

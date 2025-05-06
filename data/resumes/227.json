@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Technical Support Technician",
+                "work_description": "Desktop support, software/hardware installations and configurations for Manhattan area.",
+                "company_level": "Mid-level",
+                "start_date": "01/2006",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Information Technology Certified Technician",
+                "work_description": "Desktop support, software/hardware installations and configurations for Manhattan area.",
+                "company_level": "Mid-level",
+                "start_date": "03/2010",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "Computer Career College",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "Information Technology",
+                "level": "MCSE,CNA, A+,CNA"
+            },
+            {
+                "university": "City University of New York",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "Computer and Information Systems Security / Information Assurance",
+                "level": "CIS"
+            },
+            {
+                "university": "Rollins College",
+                "start_date": "01/1987",
+                "end_date": "12/1987",
+                "domain": "Finance",
+                "level": "Finance"
+            },
+            {
+                "university": "Hofstra College",
+                "start_date": "01/1962",
+                "end_date": "12/1962",
+                "domain": "Business Administration",
+                "level": "Business Administration"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Desktop Support",
+                "level": 5,
+                "explanation": "Over 15 years of experience in desktop support, software/hardware installations, and configurations, indicating expert-level mastery."
+            },
+            {
+                "name": "Hardware Installation",
+                "level": 4,
+                "explanation": "Extensive experience with hardware installations and configurations, suggesting strong proficiency."
+            },
+            {
+                "name": "Software Installation",
+                "level": 4,
+                "explanation": "Extensive experience with software installations and configurations, suggesting strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Likely handled numerous troubleshooting tasks as a technical support technician, indicating strong proficiency."
+            },
+            {
+                "name": "IT Support",
+                "level": 5,
+                "explanation": "Over 15 years of experience in IT support, indicating expert-level mastery."
+            },
+            {
+                "name": "Computer Systems",
+                "level": 4,
+                "explanation": "Extensive experience with computer systems, including hardware and software, suggesting strong proficiency."
+            },
+            {
+                "name": "Network Administration",
+                "level": 3,
+                "explanation": "Some experience with network administration, as indicated by the MCSE certification, showing a solid working proficiency."
+            },
+            {
+                "name": "Information Security",
+                "level": 3,
+                "explanation": "Some experience with information security, as indicated by the education in Computer and Information Systems Security, showing a solid working proficiency."
+            }
+        ]
+    }
+}

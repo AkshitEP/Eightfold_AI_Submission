@@ -1,0 +1,24 @@
+{
+    "target_id": "954",
+    "recommendations": [
+        {
+            "recommender_id": "439",
+            "recommendation": {
+                "resume_id": 954,
+                "recommendation_file": "Recommendation_From_ID_439.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims detected.",
+                    "verified_skills": [
+                        "Administrative skills",
+                        "Attention to detail",
+                        "Organizational skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with key areas of expertise. Minor inconsistencies and exaggerated claims are present, but the recommendation seems largely credible."
+                }
+            }
+        }
+    ]
+}

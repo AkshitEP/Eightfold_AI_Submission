@@ -1,0 +1,17 @@
+{
+    "resume_id": 77,
+    "recommendation_file": "Recommendation_From_ID_87.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience as a Consumer Advocate, but the resume does not explicitly mention this role. However, the skills and experiences mentioned in the recommendation align with the candidate's job history and skills.",
+        "verified_skills": [
+            "Communication",
+            "Leadership",
+            "Training and Development",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in client advocacy, customer service, and communication. While some minor inconsistencies are present, the recommendation provides a positive assessment of the candidate's skills and experiences."
+    }
+}

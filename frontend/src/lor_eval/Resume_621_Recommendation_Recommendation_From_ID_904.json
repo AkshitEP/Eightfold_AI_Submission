@@ -1,0 +1,16 @@
+{
+    "resume_file": "621.json",
+    "recommendation_file": "Recommendation_From_ID_904.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Overly flattering language, exaggerated comparisons, and unclear relationship between the recommender and the candidate.",
+        "verified_skills": [
+            "Patient Preparation and Education",
+            "Data Analysis",
+            "Attention to detail"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation raises concerns about its authenticity due to its overly flattering language and exaggerated comparisons. The recommender's relationship to the candidate is also unclear."
+    }
+}

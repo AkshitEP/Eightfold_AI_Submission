@@ -1,0 +1,20 @@
+{
+    "resume_file": "512.json",
+    "recommendation_file": "Recommendation_From_ID_658.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Data Entry",
+            "Microsoft Office Suite",
+            "Time Management",
+            "Problem-Solving",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare management, customer service, and communication. The recommendation highlights the candidate's exceptional communication and organizational skills, which are vital in their current role."
+    }
+}

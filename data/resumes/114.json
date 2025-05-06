@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior VP - Information Technology",
+                "work_description": "Experienced technology leader with expertise in managing all aspects of front and back office systems in the Financial Services Industry. A solid leader who can utilize his diverse background of information technology and business management skills to create winning teams to support mission-critical infrastructure.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2014",
+                "end_date": "09/2015"
+            },
+            {
+                "role_name": "Chief Information Officer",
+                "work_description": "Managed technology for an institutional trading firm, specializing in Fixed Income and Equities products. Responsible for strategy, support and technology initiatives in a dynamic trading environment resulting in maximum system availability and responsive customer support.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "IT Support Manager",
+                "work_description": "Worked directly with vendors to implement/upgrade market data software and hardware Coordinated a successful PC hardware and operating system upgrade for all branch offices.",
+                "company_level": "Mid-level",
+                "start_date": "02/2001",
+                "end_date": "06/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Montclair State University",
+                "start_date": "01/1995",
+                "end_date": "12/1999",
+                "domain": "Computer Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held senior leadership positions, including Senior VP and Chief Information Officer, indicating expert-level mastery in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed technology initiatives and upgrades in a dynamic trading environment, suggesting strong proficiency in project management."
+            },
+            {
+                "name": "IT Management",
+                "level": 5,
+                "explanation": "Over a decade of experience in managing all aspects of front and back office systems, indicating expert-level mastery in IT management."
+            },
+            {
+                "name": "System Administration",
+                "level": 4,
+                "explanation": "Coordinated a successful PC hardware and operating system upgrade for all branch offices, suggesting strong proficiency in system administration."
+            },
+            {
+                "name": "Vendor Management",
+                "level": 3,
+                "explanation": "Worked directly with vendors to implement/upgrade market data software and hardware, showing a solid working proficiency in vendor management."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Responsible for ensuring maximum system availability and responsive customer support, suggesting strong proficiency in problem-solving."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Coordinated with teams and vendors, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Computer Science",
+                "level": 3,
+                "explanation": "Bachelor's degree in Computer Science, showing a solid working proficiency in computer science concepts."
+            }
+        ]
+    }
+}

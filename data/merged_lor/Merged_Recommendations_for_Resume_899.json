@@ -1,0 +1,102 @@
+{
+    "target_id": "899",
+    "recommendations": [
+        {
+            "recommender_id": "608",
+            "recommendation": {
+                "resume_file": "899.json",
+                "recommendation_file": "Recommendation_From_ID_608.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is for a different individual and lacks specific examples or evidence from the candidate's resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's skills and experience, and seems fraudulent."
+                }
+            }
+        },
+        {
+            "recommender_id": "978",
+            "recommendation": {
+                "resume_file": "899.json",
+                "recommendation_file": "Recommendation_From_ID_978.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Customer Service",
+                        "Quality Assurance",
+                        "Training and Development",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and customer service skills. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "364",
+            "recommendation": {
+                "resume_file": "899.json",
+                "recommendation_file": "Recommendation_From_ID_364.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's skills and experience, but also includes some unrelated information about the recommender's own experience as a Claims Service Specialist.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Training and Development",
+                        "Customer Service",
+                        "Quality Assurance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, the recommendation also includes some unrelated information and exaggerated claims, which reduces its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "518",
+            "recommendation": {
+                "resume_file": "899.json",
+                "recommendation_file": "Recommendation_From_ID_518.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but there are some minor inconsistencies. The recommender mentions the candidate's experience in client advocacy and crisis resolution, but this is not explicitly mentioned in the resume. However, the recommender's own experience in a similar role provides some credibility to the recommendation.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional skills and experience, particularly in client advocacy and crisis resolution. However, there are some minor inconsistencies and a lack of concrete examples from the candidate's resume. The recommender's own experience in a similar role provides some credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "509",
+            "recommendation": {
+                "resume_file": "899.json",
+                "recommendation_file": "Recommendation_From_ID_509.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Customer Service",
+                        "Quality Assurance",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and customer service skills. The hiring manager's endorsement of the candidate's abilities and achievements is credible and well-supported by the resume."
+                }
+            }
+        }
+    ]
+}

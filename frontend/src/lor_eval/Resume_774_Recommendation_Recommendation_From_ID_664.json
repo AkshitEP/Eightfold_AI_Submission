@@ -1,0 +1,20 @@
+{
+    "resume_file": "774.json",
+    "recommendation_file": "Recommendation_From_ID_664.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written by someone who is not directly familiar with the candidate's work, and the language used is overly flattering. Additionally, the recommendation highlights skills and expertise that are not explicitly mentioned in the resume.",
+        "verified_skills": [
+            "Data Management",
+            "Customer Service",
+            "Bookkeeping",
+            "Data Entry",
+            "Time Management",
+            "Communication",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation provides some general praise for the candidate's skills and work ethic, but it does not provide specific examples or details that are directly related to the candidate's resume. The recommendation also seems to be written in an overly flattering tone, which raises some concerns about its authenticity."
+    }
+}

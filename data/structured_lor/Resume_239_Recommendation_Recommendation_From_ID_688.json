@@ -1,0 +1,18 @@
+{
+    "resume_file": "239.json",
+    "recommendation_file": "Recommendation_From_ID_688.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions proficiency in administrative and technical roles, but the resume does not explicitly mention these roles. However, the recommendation does align with the candidate's experience in teaching, mentoring, and leadership.",
+        "verified_skills": [
+            "Teaching",
+            "Mentoring",
+            "Leadership",
+            "Communication",
+            "Organization"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's commitment to excellence and their ability to inspire and assist others. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+    }
+}

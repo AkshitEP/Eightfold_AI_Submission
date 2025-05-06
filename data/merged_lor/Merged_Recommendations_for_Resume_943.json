@@ -1,0 +1,117 @@
+{
+    "target_id": "943",
+    "recommendations": [
+        {
+            "recommender_id": "59",
+            "recommendation": {
+                "resume_file": "943.json",
+                "recommendation_file": "Recommendation_From_ID_59.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Compliance",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise, payroll administration, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "136",
+            "recommendation": {
+                "resume_file": "943.json",
+                "recommendation_file": "Recommendation_From_ID_136.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Benefits Administration",
+                        "Performance Management",
+                        "Leadership",
+                        "Process Improvement"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's HR experience, but may contain some minor exaggerations."
+                }
+            }
+        },
+        {
+            "recommender_id": "90",
+            "recommendation": {
+                "resume_file": "943.json",
+                "recommendation_file": "Recommendation_From_ID_90.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Compliance",
+                        "Data Analysis",
+                        "Document Management",
+                        "Leadership",
+                        "Accounts Payable",
+                        "Process Improvement",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise. The source of the recommendation appears to be a peer, as they mention working closely with the candidate in HR operations."
+                }
+            }
+        },
+        {
+            "recommender_id": "526",
+            "recommendation": {
+                "resume_file": "943.json",
+                "recommendation_file": "Recommendation_From_ID_526.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Compliance",
+                        "Data Analysis",
+                        "Document Management",
+                        "Leadership",
+                        "Accounts Payable",
+                        "Process Improvement",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise, attention to detail, and effective communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "71",
+            "recommendation": {
+                "resume_id": 943,
+                "recommendation_file": "Recommendation_From_ID_71.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Compliance",
+                        "Data Analysis",
+                        "Document Management",
+                        "Leadership",
+                        "Process Improvement",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR operations, payroll management, and compliance expertise. The recommendation also highlights the candidate's innovative approach to developing new employee evaluation processes and their ability to foster positive workplace environments."
+                }
+            }
+        }
+    ]
+}

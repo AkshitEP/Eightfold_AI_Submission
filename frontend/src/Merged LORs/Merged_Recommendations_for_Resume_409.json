@@ -1,0 +1,126 @@
+{
+    "target_id": "409",
+    "recommendations": [
+        {
+            "recommender_id": "642",
+            "recommendation": {
+                "resume_file": "409.json",
+                "recommendation_file": "Recommendation_From_ID_642.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's own experience and credentials are not mentioned.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Operations Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, leadership, and relationship management, but lacks specific examples from the candidate's work history. The recommender's own experience and credentials are not mentioned, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "544",
+            "recommendation": {
+                "resume_file": "409.json",
+                "recommendation_file": "Recommendation_From_ID_544.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Sales",
+                        "Operations Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and sales abilities. The source of the recommendation is a supervisor, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "123",
+            "recommendation": {
+                "resume_file": "409.json",
+                "recommendation_file": "Recommendation_From_ID_123.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions banking expertise, but the candidate's resume does not explicitly mention banking experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional customer relationship management, leadership, and communication skills, which align with their resume. However, the recommendation mentions banking expertise, which is not explicitly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "764",
+            "recommendation": {
+                "resume_file": "409.json",
+                "recommendation_file": "Recommendation_From_ID_764.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Sales",
+                        "Operations Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and sales abilities. The recommender's role as an Assistant Banking Center Manager adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "539",
+            "recommendation": {
+                "resume_file": "409.json",
+                "recommendation_file": "Recommendation_From_ID_539.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Operations Management",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and operational management abilities. However, the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "888",
+            "recommendation": {
+                "resume_file": "409.json",
+                "recommendation_file": "Recommendation_From_ID_888.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's recognition as a 'Pillar of Success' by the Board of Directors, which seems like an exaggerated claim.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        }
+    ]
+}

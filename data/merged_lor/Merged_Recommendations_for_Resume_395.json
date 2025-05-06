@@ -1,0 +1,45 @@
+{
+    "target_id": "395",
+    "recommendations": [
+        {
+            "recommender_id": "288",
+            "recommendation": {
+                "resume_file": "395.json",
+                "recommendation_file": "Recommendation_From_ID_288.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Financial Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, communication, and financial management abilities. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "432",
+            "recommendation": {
+                "resume_file": "395.json",
+                "recommendation_file": "Recommendation_From_ID_432.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Data Analysis",
+                        "Marketing"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, communication, and data analysis skills. The source of the recommendation is an Executive Director, indicating a supervisory relationship."
+                }
+            }
+        }
+    ]
+}

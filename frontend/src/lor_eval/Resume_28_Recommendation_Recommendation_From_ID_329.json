@@ -1,0 +1,12 @@
+{
+    "resume_file": "28.json",
+    "recommendation_file": "Recommendation_From_ID_329.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration and contradictory data. The recommendation mentions the candidate's experience as an arts instructor, which is not present in the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's skills and experience, and seems to be fraudulent."
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Engineer",
+                "work_description": "Assisted customers with complaints. Performed routine maintenance. Troubleshot electronic parts of the building. Recorded guest comments or complaints, referring customers to managers as necessary. Assisted guests with any special requests during their visits. Contacted housekeeping or maintenance staff when guests reported problems. Issued room keys and escort instructions to bellhops. Prepared sheetrock, metal and wood surfaces for painting. Refinished household furniture such as desks, chairs, tables and bookcases. Coordinated and completed ongoing routine painting of the exterior and interior of the properties. Collaborated with electricians, carpenters and mechanics to complete construction projects. Completed basic plumbing, electrical, carpentry and HVAC duties. Operated compressors, striping machines, sandblasters and spray equipment. Completed and updated all work orders, records of service calls and work logs. Covered floors before prepping, priming and painting all surfaces.",
+                "company_level": "Unknown",
+                "start_date": "03/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Handyman",
+                "work_description": "Transfer tools, parts, equipment, and supplies to and from work stations and other areas. Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete. Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools. Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning. Hold or supply tools, parts, equipment, and supplies for other workers. Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment. Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools. Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment. Assemble and maintain physical structures, using hand or power tools. Tend and observe equipment and machinery to verify efficient and safe operation. Apply protective materials to equipment, components, and parts to prevent defects and corrosion. Order new parts to maintain inventory. Diagnose electrical problems and install and rewire electrical components. Prepare work stations for use by mechanics and repairers.",
+                "company_level": "Unknown",
+                "start_date": "01/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Healthcare Provider",
+                "work_description": "Provided Healthcare for at Home Patient.",
+                "company_level": "Unknown",
+                "start_date": "01/2004",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Arcade Repairman / Technician",
+                "work_description": "Fill machines with products, ingredients, money, and other supplies. Keep records of merchandise distributed and money collected. Collect coins and bills from machines, prepare invoices, and settle accounts with concessionaires. Make service calls to maintain and repair machines. Inspect machines and meters to determine causes of malfunctions and fix minor problems such as jammed bills or stuck products. Test machines to determine proper functioning. Contact other repair personnel or make arrangements for the removal of machines in cases where major repairs are required. Clean and oil machine parts. Record transaction information on forms or logs, and notify designated personnel of discrepancies. Adjust machine pressure gauges and thermostats. Maintain records of machine maintenance and repair. Replace malfunctioning parts, such as worn magnetic heads on automatic teller machine (ATM) card readers. Adjust and repair coin, vending, or amusement machines and meters and replace defective mechanical and electrical parts, using hand tools, soldering irons, and diagrams. Order parts needed for machine repairs. Disassemble and assemble machines, according to specifications and using hand and power tools. Install machines, making the necessary water and electrical connections in compliance with codes. Refer to manuals and wiring diagrams to gather information needed to repair machines. Transport machines to installation sites. Prepare repair cost estimates.",
+                "company_level": "Unknown",
+                "start_date": "01/2000",
+                "end_date": "01/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Traverse City West High School",
+                "start_date": "08/2000",
+                "end_date": "Unknown",
+                "domain": "Unknown",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Valencia College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Graphic Art and Design",
+                "level": "Associate of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Maintenance and Repair",
+                "level": 5,
+                "explanation": "Extensive experience in performing routine maintenance, troubleshooting, and repairing various equipment and machinery across multiple roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Hand Tool Operation",
+                "level": 4,
+                "explanation": "Frequent use of hand tools in various roles, including handyman and engineer positions, demonstrating strong proficiency."
+            },
+            {
+                "name": "Power Tool Operation",
+                "level": 4,
+                "explanation": "Regular use of power tools in handyman and engineer roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Electrical Work",
+                "level": 3,
+                "explanation": "Experience with electrical components, wiring, and troubleshooting in various roles, indicating solid working proficiency."
+            },
+            {
+                "name": "Plumbing",
+                "level": 2,
+                "explanation": "Basic experience with plumbing duties in the engineer role, suggesting some practical experience."
+            },
+            {
+                "name": "Carpentry",
+                "level": 2,
+                "explanation": "Basic experience with carpentry duties in the engineer role, suggesting some practical experience."
+            },
+            {
+                "name": "HVAC",
+                "level": 2,
+                "explanation": "Basic experience with HVAC duties in the engineer role, suggesting some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 0,
+                "explanation": "No direct evidence of leadership experience, despite various roles."
+            },
+            {
+                "name": "Graphic Art and Design",
+                "level": 0,
+                "explanation": "Education in Graphic Art and Design, but no direct evidence of practical experience."
+            },
+            {
+                "name": "Healthcare",
+                "level": 2,
+                "explanation": "Basic experience as a healthcare provider, suggesting some practical experience."
+            }
+        ]
+    }
+}

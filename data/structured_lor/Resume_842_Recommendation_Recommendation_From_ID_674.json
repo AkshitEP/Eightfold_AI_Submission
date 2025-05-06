@@ -1,0 +1,17 @@
+{
+    "resume_file": "842.json",
+    "recommendation_file": "Recommendation_From_ID_674.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, such as comparing the procurement analyst's negotiation skills to 'intergalactic diplomacy' and describing them as an 'unparalleled talent in the business cosmos'. The source of the recommendation is also unclear and seems unrelated to the candidate's work experience.",
+        "verified_skills": [
+            "Procurement",
+            "Supply Chain Management",
+            "Negotiation",
+            "Operations Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in procurement, supply chain management, and negotiation, but the language used is overly dramatic and lacks concrete examples from the candidate's work experience. The source of the recommendation is also unclear and seems unrelated to the candidate's work experience."
+    }
+}

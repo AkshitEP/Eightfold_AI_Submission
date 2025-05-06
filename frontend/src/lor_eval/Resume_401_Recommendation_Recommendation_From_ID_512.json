@@ -1,0 +1,16 @@
+{
+    "resume_file": "401.json",
+    "recommendation_file": "Recommendation_From_ID_512.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims detected. Language is formal, but lacks specific examples or evidence.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with key areas of expertise. Some claims seem exaggerated, and the language is overly flattering."
+    }
+}

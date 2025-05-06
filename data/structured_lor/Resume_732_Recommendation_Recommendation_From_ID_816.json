@@ -1,0 +1,16 @@
+{
+    "resume_file": "732.json",
+    "recommendation_file": "Recommendation_From_ID_816.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in the aerospace industry, but the resume does not explicitly mention this. Additionally, the recommendation highlights the candidate's quality management skills, which are not explicitly mentioned in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Mechanical Maintenance",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in maintenance and leadership, but some claims seem exaggerated or unsupported. The recommendation also mentions the candidate's experience in the aerospace industry, which is not explicitly mentioned in the resume."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "984.json",
+    "recommendation_file": "Recommendation_From_ID_415.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems exaggerated and lacks concrete examples from the candidate's experience. The recommender's expertise lies in architectural design, which is unrelated to the candidate's field. The comparison to the gaming industry seems unrealistic and lacks a clear connection to the candidate's skills.",
+        "verified_skills": [
+            "Leadership",
+            "Healthcare Management",
+            "Budgeting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and management skills, but lacks specific examples from their experience. The comparison to the gaming industry seems unrealistic and the recommender's expertise is unrelated to the candidate's field."
+    }
+}

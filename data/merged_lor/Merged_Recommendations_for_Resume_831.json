@@ -1,0 +1,112 @@
+{
+    "target_id": "831",
+    "recommendations": [
+        {
+            "recommender_id": "708",
+            "recommendation": {
+                "resume_file": "831.json",
+                "recommendation_file": "Recommendation_From_ID_708.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's background is not provided. Additionally, the recommender's claim that the candidate is an 'Aviation Mechanic' is inconsistent with the candidate's resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Logistics Management",
+                        "Quality Assurance",
+                        "Project Management",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and logistics management abilities. However, the recommender's relationship with the candidate and their background are unclear, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "295",
+            "recommendation": {
+                "resume_file": "831.json",
+                "recommendation_file": "Recommendation_From_ID_295.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Logistics Management",
+                        "Quality Assurance",
+                        "Project Management",
+                        "Communication",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistics management, leadership, and data analysis skills. The source of the recommendation is a peer, indicating a credible assessment of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "447",
+            "recommendation": {
+                "resume_file": "831.json",
+                "recommendation_file": "Recommendation_From_ID_447.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Logistics Management",
+                        "Data Analysis",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, logistics management, and training abilities. The source of the recommendation appears to be a peer, possibly a colleague or someone who has worked with the candidate in a similar capacity."
+                }
+            }
+        },
+        {
+            "recommender_id": "595",
+            "recommendation": {
+                "resume_file": "831.json",
+                "recommendation_file": "Recommendation_From_ID_595.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and relationship to the candidate, are unclear. However, the language is formal and the claims are generally supported by the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Logistics Management",
+                        "Quality Assurance",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and organizational skills, which align with their experience as a Supervisory Logistics Management Specialist. However, the recommender's role and relationship to the candidate are unclear, which may raise some minor concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "438",
+            "recommendation": {
+                "resume_file": "831.json",
+                "recommendation_file": "Recommendation_From_ID_438.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Logistics Management",
+                        "Quality Assurance",
+                        "Project Management",
+                        "Communication",
+                        "Training and Development",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, logistics management, and commitment to training and development. The source of the recommendation appears to be a peer, having worked in a similar environment."
+                }
+            }
+        }
+    ]
+}

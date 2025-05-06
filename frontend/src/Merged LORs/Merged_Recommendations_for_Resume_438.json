@@ -1,0 +1,62 @@
+{
+    "target_id": "438",
+    "recommendations": [
+        {
+            "recommender_id": "861",
+            "recommendation": {
+                "resume_file": "438.json",
+                "recommendation_file": "Recommendation_From_ID_861.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Logistics Management",
+                        "Shipping Documentation",
+                        "Problem Resolution",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistics management, problem-solving, and communication skills. The source of the recommendation is a peer, specifically an HR Specialist, who has worked with the candidate in a professional capacity."
+                }
+            }
+        },
+        {
+            "recommender_id": "805",
+            "recommendation": {
+                "resume_file": "438.json",
+                "recommendation_file": "Recommendation_From_ID_805.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of a 17% increase in sales and managing a diverse staff of over 30 employees seems unrelated to the air freight agent's role and skills.",
+                    "verified_skills": [
+                        "Logistics Management",
+                        "Shipping Documentation",
+                        "Problem Resolution",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the air freight agent's exceptional customer service skills, attention to detail, and commitment to safety, which aligns well with their skills and experience. However, some claims seem exaggerated or unrelated to the agent's role, reducing the relevance score and increasing the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "486",
+            "recommendation": {
+                "resume_file": "438.json",
+                "recommendation_file": "Recommendation_From_ID_486.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be more focused on promoting Owen B. Headman's skills rather than the candidate's, and there are some inconsistencies and exaggerated claims.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the candidate's skills and experience, but it seems to be more of a character reference rather than a professional recommendation."
+                }
+            }
+        }
+    ]
+}

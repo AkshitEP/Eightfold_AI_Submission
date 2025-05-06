@@ -1,0 +1,18 @@
+{
+    "resume_file": "460.json",
+    "recommendation_file": "Recommendation_From_ID_922.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Healthcare Management",
+            "Patient Care",
+            "Medical Records Management",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional leadership, problem-solving abilities, and technical knowledge in healthcare management. The peer's endorsement is credible, given their shared experience in operational efficiency and maintenance."
+    }
+}

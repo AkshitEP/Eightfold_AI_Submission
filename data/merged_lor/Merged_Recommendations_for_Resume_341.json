@@ -1,0 +1,88 @@
+{
+    "target_id": "341",
+    "recommendations": [
+        {
+            "recommender_id": "621",
+            "recommendation": {
+                "resume_file": "341.json",
+                "recommendation_file": "Recommendation_From_ID_621.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Team Management",
+                        "Compliance",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and management practices. The recommender's experience in the healthcare industry adds credibility to their assessment of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "836",
+            "recommendation": {
+                "resume_file": "341.json",
+                "recommendation_file": "Recommendation_From_ID_836.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Team Management",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and problem-solving abilities. However, the source of the recommendation is unclear, and the recommender's background as a Facility Manager seems unrelated to the candidate's experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "36",
+            "recommendation": {
+                "resume_file": "341.json",
+                "recommendation_file": "Recommendation_From_ID_36.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Team Management",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and problem-solving abilities. The source of the recommendation is a peer, indicating a credible and informed perspective."
+                }
+            }
+        },
+        {
+            "recommender_id": "920",
+            "recommendation": {
+                "resume_file": "341.json",
+                "recommendation_file": "Recommendation_From_ID_920.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Some claims seem slightly exaggerated, but overall, the recommendation is credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service and operational efficiency skills, which align with their experience as an Advisor and other roles. However, the recommender's role and relationship to the candidate are unclear, and some claims seem slightly exaggerated."
+                }
+            }
+        }
+    ]
+}

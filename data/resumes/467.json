@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Automated repeatable tasks where possible to increase efficiency. Consistently received a 100% rate of customer satisfaction. Performed root cause analysis to identify system errors and improve accuracy by 15%. Awarded with the Tech of the quarter for contributions to mission.",
+                "company_level": "Mid-level",
+                "start_date": "09/2013",
+                "end_date": "12/2015"
+            },
+            {
+                "role_name": "Systems Engineer",
+                "work_description": "Obtained all mission related certification required for the application services provider, within the 24x7 technical support tier. Trained current and new team members on existing and new application services procedure and Commercial off the Shelf (COTS) software.",
+                "company_level": "Mid-level",
+                "start_date": "05/2010",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Systems Engineer Associate",
+                "work_description": "Coordinated all NEAS weekly brown-bag seminar for the VA-95 Technical Resource Center. Formatted and delivered training specific to the intended party and purpose for company standards.",
+                "company_level": "Mid-level",
+                "start_date": "02/2009",
+                "end_date": "05/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Prairie View A&M University",
+                "start_date": "01/2004",
+                "end_date": "05/2008",
+                "domain": "Computer Engineering Technology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Automation",
+                "level": 4,
+                "explanation": "Automated repeatable tasks to increase efficiency, indicating strong proficiency in automation."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Performed root cause analysis to identify system errors and improve accuracy, showing strong proficiency in troubleshooting."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Consistently received a 100% rate of customer satisfaction, indicating strong proficiency in customer service."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Trained current and new team members on existing and new application services procedure, showing a solid working proficiency in leadership."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Trained team members on existing and new application services procedure, and delivered training specific to the intended party and purpose, indicating strong proficiency in training and development."
+            },
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Worked in the 24x7 technical support tier, suggesting strong proficiency in technical support."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Improved accuracy by 15% through root cause analysis, indicating strong proficiency in problem-solving."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Formatted and delivered training specific to the intended party and purpose, showing a solid working proficiency in communication."
+            }
+        ]
+    }
+}

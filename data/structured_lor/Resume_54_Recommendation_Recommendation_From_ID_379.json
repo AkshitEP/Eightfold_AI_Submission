@@ -1,0 +1,17 @@
+{
+    "resume_id": 54,
+    "recommendation_file": "Recommendation_From_ID_379.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "General Accounting",
+            "Inventory Management",
+            "Leadership",
+            "Financial Reconciliation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their accounting expertise and ability to build interdepartmental relationships."
+    }
+}

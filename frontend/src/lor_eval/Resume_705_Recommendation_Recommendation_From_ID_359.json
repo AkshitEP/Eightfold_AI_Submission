@@ -1,0 +1,21 @@
+{
+    "resume_file": "705.json",
+    "recommendation_file": "Recommendation_From_ID_359.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Network Security",
+            "IT Operational Management",
+            "Enterprise Resource Planning",
+            "Portal Technology",
+            "Business Process Improvement",
+            "Leadership",
+            "Network Administration",
+            "Wide Area Network (WAN) Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation is highly relevant, aligning well with the candidate's skills and experience. It provides specific examples of their leadership, technical expertise, and strategic approach to solving complex challenges."
+    }
+}

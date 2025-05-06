@@ -1,0 +1,106 @@
+{
+    "target_id": "662",
+    "recommendations": [
+        {
+            "recommender_id": "169",
+            "recommendation": {
+                "resume_file": "662.json",
+                "recommendation_file": "Recommendation_From_ID_169.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone with an IT background, which is unrelated to the candidate's field of expertise. The language used is formal, but the comparison between the candidate's skills and the IT manager's skills seems forced and unrealistic.",
+                    "verified_skills": [
+                        "Nutrition Counseling",
+                        "Patient Assessment",
+                        "Dietary Planning",
+                        "Leadership",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in nutrition counseling, patient assessment, and leadership, but the connection to the IT manager's experience seems artificial and raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "876",
+            "recommendation": {
+                "resume_file": "662.json",
+                "recommendation_file": "Recommendation_From_ID_876.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation highlights the candidate's skills and experience in a fitness setting, but lacks substantial detail or alignment with the key areas of expertise in nutrition and dietetics. Some claims seem exaggerated, such as the significant improvement in evaluation scores."
+                }
+            }
+        },
+        {
+            "recommender_id": "568",
+            "recommendation": {
+                "resume_file": "662.json",
+                "recommendation_file": "Recommendation_From_ID_568.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nutrition Counseling",
+                        "Communication",
+                        "Leadership",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nutritional counseling, communication, leadership, and teamwork abilities. The source of the recommendation is a peer, indicating a credible and informed perspective."
+                }
+            }
+        },
+        {
+            "recommender_id": "727",
+            "recommendation": {
+                "resume_file": "662.json",
+                "recommendation_file": "Recommendation_From_ID_727.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of counseling nearly 5,000 patients seems high, but it is not entirely implausible given the candidate's experience.",
+                    "verified_skills": [
+                        "Nutrition Counseling",
+                        "Patient Assessment",
+                        "Dietary Planning",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in nutrition counseling, patient assessment, and dietary planning, which aligns well with their skills and experience. However, the recommendation also mentions 'nutritional genomics' and 'public speaking' as areas of expertise, which are not explicitly mentioned in the candidate's skills or experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "696",
+            "recommendation": {
+                "resume_file": "662.json",
+                "recommendation_file": "Recommendation_From_ID_696.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation highlights the candidate's skills in leadership, communication, and nutrition, but the source of the recommendation is unclear and the language is somewhat informal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Nutrition Counseling"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and communication abilities. However, the source of the recommendation is unclear, and the language is somewhat informal, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

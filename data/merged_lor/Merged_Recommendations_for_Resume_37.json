@@ -1,0 +1,71 @@
+{
+    "target_id": "37",
+    "recommendations": [
+        {
+            "recommender_id": "405",
+            "recommendation": {
+                "resume_file": "37.json",
+                "recommendation_file": "Recommendation_From_ID_405.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written for a different role (Inside Sales Representative) and does not fully align with the candidate's skills and experience as a Senior Student Accounts Officer. However, it does mention some relevant skills such as financial aid systems and counseling students.",
+                    "verified_skills": [
+                        "Financial Aid Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not fully align with the candidate's skills and experience, but it does mention some relevant skills. However, the recommendation seems to be written for a different role, which raises some concerns about its authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "413",
+            "recommendation": {
+                "resume_file": "37.json",
+                "recommendation_file": "Recommendation_From_ID_413.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Financial Aid Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial aid management and counseling skills. The recommender's background in mortgage banking and regulatory compliance adds credibility to their assessment of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "466",
+            "recommendation": {
+                "resume_file": "37.json",
+                "recommendation_file": "Recommendation_From_ID_466.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Financial Aid Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning, compliance, and leadership abilities."
+                }
+            }
+        }
+    ]
+}

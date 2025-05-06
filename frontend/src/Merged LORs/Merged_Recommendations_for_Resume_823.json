@@ -1,0 +1,64 @@
+{
+    "target_id": "823",
+    "recommendations": [
+        {
+            "recommender_id": "601",
+            "recommendation": {
+                "resume_file": "823.json",
+                "recommendation_file": "Recommendation_From_ID_601.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples and details about Kevin's skills and experience. The language is formal, but the recommendation is brief and does not provide concrete evidence to support the claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights Kevin's technical expertise and leadership qualities, but it does not provide specific examples or details about his skills and experience. The recommendation seems to be more of a general endorsement rather than a detailed assessment of Kevin's qualifications."
+                }
+            }
+        },
+        {
+            "recommender_id": "366",
+            "recommendation": {
+                "resume_file": "823.json",
+                "recommendation_file": "Recommendation_From_ID_366.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Management",
+                        "System Design",
+                        "Troubleshooting",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and dedication to their role. The recommender highlights the candidate's strengths in managing complex IT systems, system design, and troubleshooting, which are all relevant to their job history and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "90",
+            "recommendation": {
+                "resume_file": "823.json",
+                "recommendation_file": "Recommendation_From_ID_90.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the author's background as an HR Assistant and Payroll Coordinator raises some questions about their technical expertise to evaluate the IT Specialist's skills.",
+                    "verified_skills": [
+                        "Network Management",
+                        "Troubleshooting",
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical expertise, project management skills, and customer service abilities, but the author's background and lack of technical expertise to evaluate the candidate's skills raise some concerns."
+                }
+            }
+        }
+    ]
+}

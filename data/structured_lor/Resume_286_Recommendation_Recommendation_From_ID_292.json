@@ -1,0 +1,19 @@
+{
+    "resume_file": "286.json",
+    "recommendation_file": "Recommendation_From_ID_292.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the finance director's experience and skills, but the description of the finance specialist's skills seems unrelated to the candidate's resume.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Financial Reporting",
+            "Leadership",
+            "Bookkeeping",
+            "Accounting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. However, the description of the finance specialist's skills seems unrelated to the candidate's resume, which may indicate some exaggeration or misrepresentation."
+    }
+}

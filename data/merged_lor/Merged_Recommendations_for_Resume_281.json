@@ -1,0 +1,90 @@
+{
+    "target_id": "281",
+    "recommendations": [
+        {
+            "recommender_id": "928",
+            "recommendation": {
+                "resume_file": "281.json",
+                "recommendation_file": "Recommendation_From_ID_928.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Team Leadership",
+                        "Web Development",
+                        "Intranet Development",
+                        "Solution Implementation",
+                        "Data Analysis",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management, strategic planning, and project execution abilities. However, it does not explicitly mention the candidate's experience in managing multiple websites, collecting and reporting data, or working with external teams."
+                }
+            }
+        },
+        {
+            "recommender_id": "677",
+            "recommendation": {
+                "resume_file": "281.json",
+                "recommendation_file": "Recommendation_From_ID_677.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Team Leadership",
+                        "Web Development",
+                        "Intranet Development",
+                        "Solution Implementation",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, team leadership, and technical abilities. The source of the recommendation is the Director of Information Technology, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "730",
+            "recommendation": {
+                "resume_file": "281.json",
+                "recommendation_file": "Recommendation_From_ID_730.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Team Leadership",
+                        "Solution Implementation",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and strategic vision. The source of the recommendation appears to be a peer, possibly a colleague or fellow manager."
+                }
+            }
+        },
+        {
+            "recommender_id": "248",
+            "recommendation": {
+                "resume_file": "281.json",
+                "recommendation_file": "Recommendation_From_ID_248.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the IT Manager/Analyst's skills in team development and strategic planning, but does not provide concrete examples from the resume.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Team Leadership",
+                        "Intranet Development",
+                        "Solution Implementation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities and project management skills. However, some minor inconsistencies or exaggerated claims are present, such as the mention of the Software Development Lifecycle Methodology, which is not mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "433.json",
+    "recommendation_file": "Recommendation_From_ID_246.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Technical Support",
+            "Troubleshooting",
+            "Communication",
+            "Customer Service"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's technical skills and experience, providing specific examples of their problem-solving and communication abilities. However, the recommender's role as an accountant seems unrelated to the candidate's field, which might slightly reduce the relevance score."
+    }
+}

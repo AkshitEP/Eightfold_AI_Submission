@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Vice President",
+                "work_description": "Leads a new management team charged with turning around and expanding the foreign operations of this LED products manufacturing company operating in several countries throughout Europe, Latin America, Asia, the Middle East and North America. Holds full accountability for leading 5 manufacturing operations and several distribution facilities with a $30 million R&D budget. Works with foreign government officials; negotiates/manages capital projects to $55million.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2008",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Senior Director of Customer Service",
+                "work_description": "Directed all activity for the Customer Service Support department. Implemented Oracle CRM as leading project manager. Held full P&L responsibility for a $30 million service business. Exceeded revenue and profit targets on a quarterly basis. Managed Field Service, Call Center, Technical Support, and Training departments.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2004",
+                "end_date": "04/2008"
+            },
+            {
+                "role_name": "Senior Director of Customer Care",
+                "work_description": "Accountable for all aspects of Order Management which had a monthly throughput of $25 million. Responsible for efficient delivery and installation of all products in North America. Facilitated creation of a seamless quote to cash process with full implementation of Oracle 11i.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2001",
+                "end_date": "04/2004"
+            },
+            {
+                "role_name": "Director of Customer Service",
+                "work_description": "Responsible for overall growth, profitability and quality of International service operations, including 6 subsidiaries and a network of about two hundred dealers. Developed all standard reporting measurements to quantify service business and traveled internationally to audit all locations.",
+                "company_level": "Large Corporation",
+                "start_date": "04/1998",
+                "end_date": "11/2001"
+            },
+            {
+                "role_name": "International Service Director",
+                "work_description": "Directed all activities of 22 field engineers in providing service and support for all ARJO, Century and vendor products sold through 55 nationwide sales centers; reported directly to the Vice President of service and technical support.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1995",
+                "end_date": "04/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Virginia",
+                "start_date": "01/1981",
+                "end_date": "12/1981",
+                "domain": "Leadership",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "DeVry Institute of Technology",
+                "start_date": "01/1981",
+                "end_date": "12/1981",
+                "domain": "Digital Electronics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leading teams and managing large-scale operations, including multiple manufacturing facilities and distribution centers, with a strong track record of success and accountability for multi-million dollar budgets."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully led multiple projects, including the implementation of Oracle CRM and Oracle 11i, demonstrating strong proficiency in project management."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Developed and implemented strategies to turn around and expand foreign operations, and managed multi-million dollar budgets, indicating strong proficiency in strategic planning."
+            },
+            {
+                "name": "Operations Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing large-scale operations, including manufacturing facilities, distribution centers, and service departments, with a strong track record of success and accountability for multi-million dollar budgets."
+            },
+            {
+                "name": "Customer Service Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing customer service operations, including call centers, field service, and technical support, with a strong track record of success and accountability for multi-million dollar budgets."
+            },
+            {
+                "name": "Financial Management",
+                "level": 4,
+                "explanation": "Has experience in managing multi-million dollar budgets and exceeding revenue and profit targets, indicating strong proficiency in financial management."
+            },
+            {
+                "name": "International Business",
+                "level": 4,
+                "explanation": "Has experience in managing international operations, including working with foreign government officials and managing capital projects, indicating strong proficiency in international business."
+            },
+            {
+                "name": "Digital Electronics",
+                "level": 2,
+                "explanation": "Has a degree in Digital Electronics, but no direct experience mentioned, indicating some familiarity with the subject."
+            }
+        ]
+    }
+}

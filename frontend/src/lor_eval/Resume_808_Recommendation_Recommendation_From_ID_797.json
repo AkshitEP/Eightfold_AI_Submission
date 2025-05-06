@@ -1,0 +1,20 @@
+{
+    "resume_file": "808.json",
+    "recommendation_file": "Recommendation_From_ID_797.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Statement Preparation",
+            "Financial Reconciliation",
+            "Audit and Compliance",
+            "Budgeting and Financial Management",
+            "Leadership and Management",
+            "Financial Analysis and Modeling",
+            "Accounting and Financial Reporting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. The source of the recommendation appears to be a peer who has worked alongside the candidate, adding credibility to the endorsement."
+    }
+}

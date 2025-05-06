@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance and Sales Consultant",
+                "work_description": "Direct contact for customers Looking to Finance their Newly purchased vehicles. Having a strong ability to discuss Finance decisions and making tailored recommendations for the best offer that fits their situation. In direct contact, when needed, with our different lenders to assist in closing. Planned and executed a class of four New Hires Training them in the art of Sales and Finance and later Training and mentoring another while maintaining my average Sales and finance records.",
+                "company_level": "Mid-level",
+                "start_date": "01/2015",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Identifying each vehicle to tailor to the Customers needs and wants. Monitored prep of vehicles and their timely delivery. Working Directly with Management to ensure vehicle is sold. Answering email leads and answering the phone to assist in developing Car Sales.",
+                "company_level": "Mid-level",
+                "start_date": "10/2013",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Real Estate Agent",
+                "work_description": "Sellers Agent - Advertising and Marketing Own Real Estate Business under a Broker Name Creating a large Client base From Networking and constant Calls and Mailings Listing homes on The M.L.S and other Real Estate based advertisements.",
+                "company_level": "Startup",
+                "start_date": "09/2013",
+                "end_date": "12/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Prince George's Community College",
+                "start_date": "01/2010",
+                "end_date": "12/2012",
+                "domain": "Business Management",
+                "level": "Associate of Science"
+            },
+            {
+                "university": "Long and Foster Continuing Education",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Real Estate Sales",
+                "level": "Real Estate Agent Licensure"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Has extensive experience in sales roles, including training and mentoring others, indicating strong proficiency."
+            },
+            {
+                "name": "Finance",
+                "level": 3,
+                "explanation": "Has experience in finance, including discussing finance decisions and making recommendations, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience in training and mentoring others, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Has experience in advertising and marketing, including creating a client base through networking, showing a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience in customer-facing roles, including direct contact with customers and lenders, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in managing multiple responsibilities, including sales, finance, and training, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has extensive experience in communicating with customers, lenders, and management, indicating strong proficiency."
+            },
+            {
+                "name": "Real Estate",
+                "level": 3,
+                "explanation": "Has experience as a real estate agent, including listing homes and creating a client base, showing a solid working proficiency."
+            }
+        ]
+    }
+}

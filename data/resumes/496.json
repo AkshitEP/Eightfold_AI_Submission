@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Contract Accountant",
+                "work_description": "Contracted as accountant for client during a maternity leave. Bookkeeping for clients and personal taxes. Assessed and advised client on internal controls, audit follow up to ensured policy and procedure compliance and effectiveness.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Quality Manager",
+                "work_description": "Lead a team of direct report quality assurance specialists and inspectors. Build Effective relationships with customers, vendors and plant employees. Manage product inspections to identify and isolate quality issues.",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Senior Staff Accountant",
+                "work_description": "Responsible for month end closing process for three plants. Cash management. Management of all AP and AR functions. Supervision of AP/AR clerks.",
+                "company_level": "Mid-level",
+                "start_date": "03/2008",
+                "end_date": "04/2013"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "General ledger: BS accounts, fixed assets, inter-company accounts. Sales and use tax for multiple states. Prepared/implemented procurement card policy and procedure.",
+                "company_level": "Mid-level",
+                "start_date": "01/2004",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Payroll and cash management.",
+                "company_level": "Mid-level",
+                "start_date": "01/2004",
+                "end_date": "01/2004"
+            },
+            {
+                "role_name": "Accounts Receivable",
+                "work_description": "Accounts receivable and accounts payable.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "01/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of North Alabama",
+                "start_date": "01/2001",
+                "end_date": "12/2004",
+                "domain": "Accounting and Finance",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Columbia State Community College",
+                "start_date": "01/2001",
+                "end_date": "12/2001",
+                "domain": "Unknown",
+                "level": "Unknown"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience in various accounting roles, including staff accountant, senior staff accountant, and contract accountant, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Management",
+                "level": 4,
+                "explanation": "Handled cash management, AP, and AR functions in multiple roles, suggesting strong proficiency in financial management."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Handled payroll in a staff accountant role, showing a solid working proficiency in payroll management."
+            },
+            {
+                "name": "Internal Controls",
+                "level": 3,
+                "explanation": "Assessed and advised on internal controls as a contract accountant, indicating a solid working proficiency in internal controls."
+            },
+            {
+                "name": "Audit and Compliance",
+                "level": 3,
+                "explanation": "Followed up on audit findings and ensured policy and procedure compliance as a contract accountant, showing a solid working proficiency in audit and compliance."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led a team of quality assurance specialists and inspectors as a quality manager, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Quality Management",
+                "level": 3,
+                "explanation": "Managed product inspections and identified quality issues as a quality manager, showing a solid working proficiency in quality management."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No direct mention of Microsoft Excel in the work descriptions, but likely used in various accounting roles."
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "target_id": "638",
+    "recommendations": [
+        {
+            "recommender_id": "338",
+            "recommendation": {
+                "resume_file": "638.json",
+                "recommendation_file": "Recommendation_From_ID_338.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, some claims, such as 'exceeding daily targets' and 'streamlining service processes,' seem exaggerated and lack concrete evidence."
+                }
+            }
+        },
+        {
+            "recommender_id": "604",
+            "recommendation": {
+                "resume_file": "638.json",
+                "recommendation_file": "Recommendation_From_ID_604.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills and professional conduct. However, it does not explicitly mention other skills such as Cash Handling, Time Management, or Basic Computer Skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "957",
+            "recommendation": {
+                "resume_file": "638.json",
+                "recommendation_file": "Recommendation_From_ID_957.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of 'exceptional leadership' and 'initiative skills' seems exaggerated given the candidate's job history and skills.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and communication skills. However, some claims seem exaggerated, and the source of the recommendation is not explicitly stated as a supervisor, but the language suggests a managerial relationship."
+                }
+            }
+        }
+    ]
+}

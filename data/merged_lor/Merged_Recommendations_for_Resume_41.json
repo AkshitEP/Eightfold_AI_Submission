@@ -1,0 +1,137 @@
+{
+    "target_id": "41",
+    "recommendations": [
+        {
+            "recommender_id": "246",
+            "recommendation": {
+                "resume_file": "41.json",
+                "recommendation_file": "Recommendation_From_ID_246.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in accounting and financial management seems unrelated to the candidate's field of expertise. However, the recommender's observations and praise for the candidate's work are specific and credible.",
+                    "verified_skills": [
+                        "Therapy",
+                        "Counseling",
+                        "Treatment Planning",
+                        "Case Management",
+                        "Crisis Intervention",
+                        "Teaching"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in therapy, counseling, and treatment planning, and praises their ability to manage significant caseloads and effectively communicate with clients. However, the recommender's background and expertise are not directly related to the candidate's field, which may raise some questions about their ability to provide a fully informed recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "329",
+            "recommendation": {
+                "resume_id": 41,
+                "recommendation_file": "Recommendation_From_ID_329.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the resume. Some minor inconsistencies in the description of the candidate's background and expertise.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Therapy",
+                        "Counseling",
+                        "Treatment Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's background in arts education and its connection to their work as a therapist and teaching artist. However, it does not provide specific examples from the resume to support the claims made about the candidate's expertise and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "961",
+            "recommendation": {
+                "resume_id": 41,
+                "recommendation_file": "Recommendation_From_ID_961.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Therapy",
+                        "Counseling",
+                        "Psychiatric Evaluation",
+                        "Medication Management",
+                        "Treatment Planning",
+                        "Case Management",
+                        "Crisis Intervention",
+                        "Teaching",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their therapeutic techniques and client care. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "917",
+            "recommendation": {
+                "resume_id": 41,
+                "recommendation_file": "Recommendation_From_ID_917.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with the first paragraph mentioning an Administrative Assistant and the second paragraph describing the Co-Founder and Therapist. This inconsistency raises some concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Therapy",
+                        "Counseling",
+                        "Psychiatric Evaluation",
+                        "Medication Management",
+                        "Treatment Planning",
+                        "Case Management",
+                        "Crisis Intervention",
+                        "Teaching",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the Co-Founder and Therapist's expertise in mental health, specifically in art and play therapies, and their ability to manage large caseloads while providing individualized treatment solutions. However, the mention of an Administrative Assistant in the first paragraph seems out of place and raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "414",
+            "recommendation": {
+                "resume_id": 41,
+                "recommendation_file": "Recommendation_From_ID_414.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession (Certified Nurse Assistant) and relationship to the candidate (co-founder of a therapeutic practice) are unclear. The recommender's praise for the candidate's skills and dedication is strong, but some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Therapy",
+                        "Counseling",
+                        "Treatment Planning",
+                        "Case Management",
+                        "Crisis Intervention"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their therapeutic techniques and dedication to client care. However, the recommender's profession and relationship to the candidate are unclear, and some claims seem exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "273",
+            "recommendation": {
+                "resume_file": "41.json",
+                "recommendation_file": "Recommendation_From_ID_273.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone from a different field (Marketing Manager) and does not accurately reflect the candidate's skills and experience. The language used is also overly promotional and lacks specific examples from the candidate's work history.",
+                    "verified_skills": [
+                        "Therapy",
+                        "Counseling",
+                        "Treatment Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not accurately reflect the candidate's skills and experience, and the language used is overly promotional. However, it does mention some relevant skills such as therapy and counseling."
+                }
+            }
+        }
+    ]
+}

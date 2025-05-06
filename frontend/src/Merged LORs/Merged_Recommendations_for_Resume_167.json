@@ -1,0 +1,65 @@
+{
+    "target_id": "167",
+    "recommendations": [
+        {
+            "recommender_id": "383",
+            "recommendation": {
+                "resume_file": "167.json",
+                "recommendation_file": "Recommendation_From_ID_383.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's background and role, but the recommendation provides specific examples of the candidate's abilities and strengths.",
+                    "verified_skills": [
+                        "Instructional Coaching",
+                        "Curriculum Development",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience and skills in instructional coaching, curriculum development, and leadership, but does not specifically mention some of the candidate's other skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "890",
+            "recommendation": {
+                "resume_file": "167.json",
+                "recommendation_file": "Recommendation_From_ID_890.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Exaggerated claims and unrealistic statements, informal language, and lack of specific examples from the resume.",
+                    "verified_skills": [
+                        "Instructional Coaching",
+                        "Curriculum Development",
+                        "Professional Development",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but contains exaggerated claims and informal language. The recommender's relationship to the candidate is unknown."
+                }
+            }
+        },
+        {
+            "recommender_id": "578",
+            "recommendation": {
+                "resume_file": "167.json",
+                "recommendation_file": "Recommendation_From_ID_578.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Instructional Coaching",
+                        "Curriculum Development",
+                        "Professional Development",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their instructional coaching, curriculum development, and professional development expertise. The source of the recommendation appears to be a peer, as they mention their own experience in facilitating learning technologies and staff development."
+                }
+            }
+        }
+    ]
+}

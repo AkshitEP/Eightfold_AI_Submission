@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Fitness Consultant",
+                "work_description": "Conducted tours, and gave wellness advice to help every person change their lives. Also, did outside marketing to help drive in business and conducted calls to prospective members.",
+                "company_level": "Mid-level",
+                "start_date": "09/2013",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "DAEP/Special Education/Coach",
+                "work_description": "Taught in the DAEP (Disciplinary Alternative Educational Program) Also worked in the Special Education wings in the Middle and Elementary schools with Autism and Down Syndrome children, also coached Football, Basketball, and conducted the Strength and Conditioning programs for Middle school and high school athletes.",
+                "company_level": "Mid-level",
+                "start_date": "08/2012",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "PE/Special Education/Coach",
+                "work_description": "Taught three PE classes in the Middle School and also taught in the Content Mastery programs to help children with disabilities. Also worked with the Special Educational settings in the Elementary and high school levels and also coached Football, Basketball, Baseball, and Track & Field throughout various teams and levels in the Athletic Department.",
+                "company_level": "Mid-level",
+                "start_date": "08/2009",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Sales",
+                "work_description": "Helped grow the business from the inside out. Maintained detailed records of jobs and potential clients. Maintained client relations and work.",
+                "company_level": "Mid-level",
+                "start_date": "07/2014",
+                "end_date": "Current"
+            }
+        ],
+        "education": [
+            {
+                "university": "Southwestern Oklahoma State University",
+                "start_date": "01/2009",
+                "end_date": "05/2009",
+                "domain": "Parks and Recreation Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Blinn College",
+                "start_date": "01/2007",
+                "end_date": "05/2009",
+                "domain": "Criminal Justice",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Texas A&M University-Commerce",
+                "start_date": "01/2009",
+                "end_date": "05/2012",
+                "domain": "Criminal Justice",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Coaching",
+                "level": 4,
+                "explanation": "Has extensive experience coaching various sports teams, including Football, Basketball, Baseball, and Track & Field, across different levels and teams, indicating strong proficiency."
+            },
+            {
+                "name": "Teaching",
+                "level": 4,
+                "explanation": "Taught in various educational settings, including DAEP, Special Education, and PE classes, demonstrating strong proficiency in teaching and working with students with disabilities."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led teams and worked with students, athletes, and clients, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Sales",
+                "level": 2,
+                "explanation": "Helped grow the business and maintained client relations, but the extent of sales experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Marketing",
+                "level": 2,
+                "explanation": "Conducted outside marketing to drive in business, but the extent of marketing experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Conducted calls to prospective members, gave wellness advice, and maintained client relations, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Record-Keeping",
+                "level": 2,
+                "explanation": "Maintained detailed records of jobs and potential clients, indicating some practical experience in record-keeping."
+            }
+        ]
+    }
+}

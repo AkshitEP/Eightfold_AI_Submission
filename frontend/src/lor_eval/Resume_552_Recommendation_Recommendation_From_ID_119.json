@@ -1,0 +1,18 @@
+{
+    "resume_file": "552.json",
+    "recommendation_file": "Recommendation_From_ID_119.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "IT Governance",
+            "Data Security",
+            "Database Development/Maintenance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, technical acumen, and project management abilities."
+    }
+}

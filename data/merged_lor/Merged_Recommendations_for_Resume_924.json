@@ -1,0 +1,65 @@
+{
+    "target_id": "924",
+    "recommendations": [
+        {
+            "recommender_id": "429",
+            "recommendation": {
+                "resume_file": "924.json",
+                "recommendation_file": "Recommendation_From_ID_429.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's relationship to the candidate is unclear, and the tone is overly positive.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Problem-Solving",
+                        "Team Management",
+                        "Entrepreneurship"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in leadership, project management, and entrepreneurship, but lacks specific examples from their engineering background. The recommender's tone is overly positive, which may indicate some bias."
+                }
+            }
+        },
+        {
+            "recommender_id": "311",
+            "recommendation": {
+                "resume_file": "924.json",
+                "recommendation_file": "Recommendation_From_ID_311.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. The recommender's relationship to the candidate is unclear, and their own experience is not directly related to the candidate's skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Quality Control",
+                        "Entrepreneurship"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's entrepreneurial spirit, leadership skills, and commitment to quality, but does not provide specific examples from their resume. The recommender's own experience in the aviation supply chain is not directly related to the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "855",
+            "recommendation": {
+                "resume_file": "924.json",
+                "recommendation_file": "Recommendation_From_ID_855.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's background in electrical engineering and the oil and gas industry seems unrelated to the candidate's bakery experience, which raises some concerns.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Entrepreneurship"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's entrepreneurial spirit, leadership skills, and ability to manage complex tasks. However, the recommender's background and expertise seem unrelated to the candidate's bakery experience, which may indicate a lack of direct knowledge about the candidate's work in this field."
+                }
+            }
+        }
+    ]
+}

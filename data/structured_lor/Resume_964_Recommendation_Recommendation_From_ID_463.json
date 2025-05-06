@@ -1,0 +1,16 @@
+{
+    "resume_file": "964.json",
+    "recommendation_file": "Recommendation_From_ID_463.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions experience in 'community-based organizations' and 'tax preparation services' which is not explicitly mentioned in the resume.",
+        "verified_skills": [
+            "Attention to Detail",
+            "Communication",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in patient advocacy, but lacks specific examples from the candidate's work history. The recommendation also mentions experience in 'community-based organizations' and 'tax preparation services' which is not explicitly mentioned in the resume."
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Maintenance Mechanic",
+                "work_description": "Preventative maintenance, maintenance, inspections, and repairs, troubleshooting",
+                "company_level": "Mid-level",
+                "start_date": "12/2017",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "A&P Mechanic",
+                "work_description": "Aircraft Maintenance, preventative maintenance, inspection and repair, troubleshooting.",
+                "company_level": "Mid-level",
+                "start_date": "06/2017",
+                "end_date": "12/2017"
+            },
+            {
+                "role_name": "Carpenter",
+                "work_description": "Construct and repair wooden objects and structures.",
+                "company_level": "Mid-level",
+                "start_date": "11/2016",
+                "end_date": "06/2017"
+            },
+            {
+                "role_name": "OSR/ Cart Attendant",
+                "work_description": "Provided excellent customer service to over hundreds patrons daily to ensure return customer base remained solid.",
+                "company_level": "Mid-level",
+                "start_date": "04/2015",
+                "end_date": "08/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Hallmark University",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Airframe & Power-plant Technology",
+                "level": "Associate of Applied Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Aircraft Maintenance",
+                "level": 4,
+                "explanation": "Has extensive experience with aircraft maintenance, including preventative maintenance, inspection, and repair, indicating strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Consistently applied troubleshooting skills in maintenance roles, suggesting a strong proficiency."
+            },
+            {
+                "name": "Mechanical Repair",
+                "level": 4,
+                "explanation": "Has experience with maintenance and repair of mechanical systems, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided excellent customer service in a previous role, showing a solid working proficiency."
+            },
+            {
+                "name": "Carpentry",
+                "level": 2,
+                "explanation": "Has some experience with carpentry, but the duration was limited, indicating some practical experience."
+            },
+            {
+                "name": "Time Management",
+                "level": 2,
+                "explanation": "Managed time effectively in multiple roles, but the extent of this skill is not explicitly stated, indicating some practical experience."
+            }
+        ]
+    }
+}

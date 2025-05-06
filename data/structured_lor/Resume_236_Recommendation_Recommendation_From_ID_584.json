@@ -1,0 +1,16 @@
+{
+    "resume_file": "236.json",
+    "recommendation_file": "Recommendation_From_ID_584.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's profession (Database Programmer/Analyst) does not directly relate to the candidate's field of expertise.",
+        "verified_skills": [
+            "Teaching",
+            "Data Analysis",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's teaching methods, data analysis skills, and leadership qualities, but the recommender's profession and relationship with the candidate raise some concerns about the recommendation's credibility."
+    }
+}

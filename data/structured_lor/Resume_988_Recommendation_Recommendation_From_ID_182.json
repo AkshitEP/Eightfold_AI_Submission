@@ -1,0 +1,22 @@
+{
+    "resume_file": "988.json",
+    "recommendation_file": "Recommendation_From_ID_182.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "IT Project Management",
+            "Strategic Planning",
+            "Leadership",
+            "Network Administration",
+            "VMware vSphere",
+            "Citrix Infrastructure",
+            "Cloud Computing",
+            "Business Application Support",
+            "Desktop Support"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management, strategic planning, and leadership abilities."
+    }
+}

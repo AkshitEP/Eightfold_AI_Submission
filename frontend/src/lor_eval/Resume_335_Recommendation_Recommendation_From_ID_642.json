@@ -1,0 +1,17 @@
+{
+    "resume_file": "335.json",
+    "recommendation_file": "Recommendation_From_ID_642.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's experience and relationship with the candidate are unclear. The recommender mentions working in the Global Financial Markets for over 12 years, but their role and company are not specified.",
+        "verified_skills": [
+            "Bank Operations",
+            "Leadership",
+            "Customer Service",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in bank operations, but the recommender's credibility and relationship with the candidate are unclear. The recommendation highlights the candidate's analytical skills, commitment to excellence, and ability to foster teamwork."
+    }
+}

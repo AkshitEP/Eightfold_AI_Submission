@@ -1,0 +1,109 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Help Desk Specialist",
+                "work_description": "Diagnose and resolve technical hardware and software issues for incoming phone calls and emails while ensuring detailed documentation on all activity and communication with customers regarding their issue. Display the ability to understand and communicate complex and technical information clearly and concisely. Demonstrate proficiency in product knowledge and call handling skills. Maintain accurate customer records & process changes. Display the ability to work in a fast paced environment, providing efficient productivity while simultaneously providing superior quality service.",
+                "company_level": "Mid-level",
+                "start_date": "08/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Quality Assurance IT Analyst",
+                "work_description": "Display working ability to organize and follow complex and detailed technical procedures. Responsible for establishing and implementing quality assurance and compliance processes for the IT organization by defining, documenting, measuring, analyzing, and improving processes. Serve as process owner for document/record control, corrective/preventive action, internal auditing and KPI tracking. Display consistent project management and team leadership skills. Display advanced Microsoft Excel utilization skills to create extensive graphs and charts, pivot tables, v-look ups and extensive complex formula familiarity.",
+                "company_level": "Mid-level",
+                "start_date": "09/2011",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Business Operations Analyst /Metrics Analyst /Department Administrative Support/ Supply Chain Assistant",
+                "work_description": "Responsible for providing accurate and detailed reporting to executive management daily monthly and quarterly metrics and reporting as well as any other requests from the team or other organizations. Importing and exporting data from SAP and Sharepoint and manipulating and compiling data to create weekly Power Point presentation for executive management team.",
+                "company_level": "Mid-level",
+                "start_date": "09/2008",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Customer Service Professional",
+                "work_description": "Answers incoming customer telephone calls in a courteous and professional manner. Responds to and investigates customer inquiries, concerns, orders and issues received via phone, fax, email, Shell Source, and EDI in a timely and courteous manner.",
+                "company_level": "Mid-level",
+                "start_date": "03/2007",
+                "end_date": "08/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Sam Houston State University",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Has extensive experience in diagnosing and resolving technical hardware and software issues as an IT Help Desk Specialist, showing strong proficiency."
+            },
+            {
+                "name": "Quality Assurance",
+                "level": 4,
+                "explanation": "Established and implemented quality assurance and compliance processes as a Quality Assurance IT Analyst, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Demonstrated project management skills as a Quality Assurance IT Analyst, showing a solid working proficiency."
+            },
+            {
+                "name": "Team Leadership",
+                "level": 3,
+                "explanation": "Displayed team leadership skills as a Quality Assurance IT Analyst, indicating a solid level of proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 5,
+                "explanation": "Utilized advanced Microsoft Excel skills to create extensive graphs and charts, pivot tables, v-look ups, and complex formulas, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Provided accurate and detailed reporting to executive management as a Business Operations Analyst, showing strong proficiency in data analysis."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated complex and technical information clearly and concisely as an IT Help Desk Specialist, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Responded to customer inquiries and concerns in a timely and courteous manner as a Customer Service Professional, showing a solid working proficiency."
+            },
+            {
+                "name": "Process Improvement",
+                "level": 3,
+                "explanation": "Improved processes as a Quality Assurance IT Analyst, indicating a solid level of proficiency."
+            },
+            {
+                "name": "SAP",
+                "level": 2,
+                "explanation": "Imported and exported data from SAP as a Business Operations Analyst, showing some practical experience."
+            },
+            {
+                "name": "SharePoint",
+                "level": 2,
+                "explanation": "Imported and exported data from SharePoint as a Business Operations Analyst, showing some practical experience."
+            },
+            {
+                "name": "PowerPoint",
+                "level": 2,
+                "explanation": "Created weekly PowerPoint presentations as a Business Operations Analyst, showing some practical experience."
+            }
+        ]
+    }
+}

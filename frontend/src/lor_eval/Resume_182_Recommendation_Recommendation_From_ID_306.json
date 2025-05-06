@@ -1,0 +1,24 @@
+{
+    "resume_file": "182.json",
+    "recommendation_file": "Recommendation_From_ID_306.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Lead Information Technology Support Specialist' which is not present in the resume. However, the overall tone and content seem genuine.",
+        "verified_skills": [
+            "IT Infrastructure",
+            "Project Management",
+            "Leadership",
+            "Network Communications",
+            "Local Area Networks",
+            "Visual Information Systems",
+            "Systems Integration",
+            "IT Engineering",
+            "Command and Control",
+            "Communications",
+            "Networks"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience in managing IT infrastructure projects, leadership, and technical skills. However, some minor inconsistencies and lack of specific examples from the resume reduce the relevance score."
+    }
+}

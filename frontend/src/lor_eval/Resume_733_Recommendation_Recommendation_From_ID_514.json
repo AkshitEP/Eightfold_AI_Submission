@@ -1,0 +1,19 @@
+{
+    "resume_file": "733.json",
+    "recommendation_file": "Recommendation_From_ID_514.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Recruitment",
+            "Employee Relations",
+            "Human Resources Management",
+            "Leadership",
+            "Communication",
+            "Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment and employee relations expertise. The recommendation also highlights the candidate's ability to work in educational institutions and their dedication to integrity and excellence in human resources practices."
+    }
+}

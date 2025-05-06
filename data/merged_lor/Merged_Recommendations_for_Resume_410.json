@@ -1,0 +1,71 @@
+{
+    "target_id": "410",
+    "recommendations": [
+        {
+            "recommender_id": "568",
+            "recommendation": {
+                "resume_file": "410.json",
+                "recommendation_file": "Recommendation_From_ID_568.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Time Management",
+                        "Leadership",
+                        "Communication",
+                        "Budgeting",
+                        "Data Analysis",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational and communication skills, proactive approach to reducing costs, and ability to manage complex tasks."
+                }
+            }
+        },
+        {
+            "recommender_id": "795",
+            "recommendation": {
+                "resume_file": "410.json",
+                "recommendation_file": "Recommendation_From_ID_795.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Time Management",
+                        "Leadership",
+                        "Communication",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational and communication skills. The source of the recommendation is a General Manager, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "274",
+            "recommendation": {
+                "resume_file": "410.json",
+                "recommendation_file": "Recommendation_From_ID_274.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Time Management",
+                        "Communication",
+                        "Leadership",
+                        "Budgeting",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, time management, and communication skills. However, the source of the recommendation is unclear, and the language used is somewhat generic."
+                }
+            }
+        }
+    ]
+}

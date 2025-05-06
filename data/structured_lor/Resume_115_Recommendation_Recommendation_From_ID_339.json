@@ -1,0 +1,12 @@
+{
+    "resume_file": "115.json",
+    "recommendation_file": "Recommendation_From_ID_339.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration and improper language. The recommendation mentions a nursing executive's experience and skills, which is not related to the candidate's experience or skills.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's experience or skills, and appears to be fabricated or not genuine."
+    }
+}

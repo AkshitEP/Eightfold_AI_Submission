@@ -1,0 +1,19 @@
+{
+    "resume_file": "378.json",
+    "recommendation_file": "Recommendation_From_ID_733.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but there is a minor inconsistency in the job roles mentioned. The recommendation mentions 'HR Coordinator' and 'teaching vacancies', which is not directly related to the candidate's experience.",
+        "verified_skills": [
+            "Human Resources",
+            "Employee Relations",
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR experience and project management skills. However, there is a minor inconsistency in the job roles mentioned."
+    }
+}

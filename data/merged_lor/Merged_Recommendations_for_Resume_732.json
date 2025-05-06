@@ -1,0 +1,103 @@
+{
+    "target_id": "732",
+    "recommendations": [
+        {
+            "recommender_id": "141",
+            "recommendation": {
+                "resume_file": "732.json",
+                "recommendation_file": "Recommendation_From_ID_141.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mechanical Maintenance",
+                        "Troubleshooting",
+                        "Electrical Systems",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, technical expertise, and problem-solving abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "398",
+            "recommendation": {
+                "resume_file": "732.json",
+                "recommendation_file": "Recommendation_From_ID_398.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in the military and their skills in leadership, logistics, and resource management, but it does not provide concrete examples or evidence from the resume to support these claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mechanical Maintenance",
+                        "Troubleshooting",
+                        "Electrical Systems",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but it lacks concrete examples and evidence to support the claims. The recommendation also mentions the candidate's experience in the military and their skills in logistics and resource management, which are not explicitly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "757",
+            "recommendation": {
+                "resume_file": "732.json",
+                "recommendation_file": "Recommendation_From_ID_757.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be describing a different person's experience and skills, with little to no connection to the candidate's actual job history and skills. The language is formal, but the content is suspicious.",
+                    "verified_skills": [
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align well with the candidate's skills and experience. It appears to be describing a pest control technician's experience, which is unrelated to the candidate's background as a wheeled vehicle mechanic. The recommendation highlights skills and experiences that are not present in the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "449",
+            "recommendation": {
+                "resume_file": "732.json",
+                "recommendation_file": "Recommendation_From_ID_449.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written in a way that is overly flattering and lacks specific examples from the candidate's resume. However, the language is formal and there are no obvious red flags.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mechanical Maintenance",
+                        "Troubleshooting",
+                        "Electrical Systems"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and mechanical skills, but it seems to be more focused on the synergy between the candidate and another individual. The recommendation could be more effective if it provided specific examples from the candidate's experience and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "816",
+            "recommendation": {
+                "resume_file": "732.json",
+                "recommendation_file": "Recommendation_From_ID_816.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in the aerospace industry, but the resume does not explicitly mention this. Additionally, the recommendation highlights the candidate's quality management skills, which are not explicitly mentioned in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Mechanical Maintenance",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in maintenance and leadership, but some claims seem exaggerated or unsupported. The recommendation also mentions the candidate's experience in the aerospace industry, which is not explicitly mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

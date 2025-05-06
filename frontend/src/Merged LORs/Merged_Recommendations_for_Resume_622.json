@@ -1,0 +1,65 @@
+{
+    "target_id": "622",
+    "recommendations": [
+        {
+            "recommender_id": "81",
+            "recommendation": {
+                "resume_file": "622.json",
+                "recommendation_file": "Recommendation_From_ID_81.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills and ability to handle complex inquiries. However, the recommender's claim of working in the aviation sector for over two decades as a Global IT Project Manager seems inconsistent with the candidate's role as a Customer Service Agent."
+                }
+            }
+        },
+        {
+            "recommender_id": "375",
+            "recommendation": {
+                "resume_file": "622.json",
+                "recommendation_file": "Recommendation_From_ID_375.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's experience and role, but no obvious red flags or statistically improbable claims.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service skills and problem-solving abilities, but does not explicitly mention their experience in other roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "865",
+            "recommendation": {
+                "resume_file": "622.json",
+                "recommendation_file": "Recommendation_From_ID_865.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills and problem-solving abilities. The source of the recommendation is a Senior Manager of Customer Support, indicating a direct supervisory relationship."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "target_id": "565",
+    "recommendations": [
+        {
+            "recommender_id": "170",
+            "recommendation": {
+                "resume_file": "565.json",
+                "recommendation_file": "Recommendation_From_ID_170.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's claim of 25 years of experience in the customer service industry seems inconsistent with the candidate's job history, which only spans around 8 years. Additionally, the recommender's tone is overly flattering, which may indicate some bias.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their problem-solving and communication skills. However, the recommender's tone and some claims may indicate some bias or exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "390",
+            "recommendation": {
+                "resume_file": "565.json",
+                "recommendation_file": "Recommendation_From_ID_390.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's experience. The language is formal, but the connection to the candidate's skills and experience is moderate.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service and interpersonal skills, which align with their experience as a Retail Sales Consultant. However, the recommendation could be more specific and detailed in its examples."
+                }
+            }
+        },
+        {
+            "recommender_id": "368",
+            "recommendation": {
+                "resume_file": "565.json",
+                "recommendation_file": "Recommendation_From_ID_368.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Communication",
+                        "Time Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, sales, and leadership abilities. The source of the recommendation is a manager, which adds credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

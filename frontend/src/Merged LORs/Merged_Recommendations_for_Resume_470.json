@@ -1,0 +1,114 @@
+{
+    "target_id": "470",
+    "recommendations": [
+        {
+            "recommender_id": "514",
+            "recommendation": {
+                "resume_file": "470.json",
+                "recommendation_file": "Recommendation_From_ID_514.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Payroll Management",
+                        "Recruitment",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Customer Service",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and accomplishments. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "235",
+            "recommendation": {
+                "resume_file": "470.json",
+                "recommendation_file": "Recommendation_From_ID_235.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Human Resources Management",
+                        "Recruitment",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience in Human Resources. The recommender highlights the candidate's strengths in various HR functions, including payroll administration, recruitment, and employee relations, and praises their exceptional interpersonal skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "71",
+            "recommendation": {
+                "resume_file": "470.json",
+                "recommendation_file": "Recommendation_From_ID_71.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Payroll Management",
+                        "Recruitment",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, recruitment skills, and ability to build trusting relationships."
+                }
+            }
+        },
+        {
+            "recommender_id": "655",
+            "recommendation": {
+                "resume_file": "470.json",
+                "recommendation_file": "Recommendation_From_ID_655.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Recruitment"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in human resources, particularly in employee relations and benefits administration. However, it does not directly reference the candidate's experience in payroll management, which is a key skill listed on the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "272",
+            "recommendation": {
+                "resume_file": "470.json",
+                "recommendation_file": "Recommendation_From_ID_272.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Payroll Management",
+                        "Recruitment",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, payroll management, recruitment, employee relations, benefits administration, and customer service skills."
+                }
+            }
+        }
+    ]
+}

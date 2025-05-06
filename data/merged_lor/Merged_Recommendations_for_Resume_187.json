@@ -1,0 +1,66 @@
+{
+    "target_id": "187",
+    "recommendations": [
+        {
+            "recommender_id": "764",
+            "recommendation": {
+                "resume_file": "187.json",
+                "recommendation_file": "Recommendation_From_ID_764.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Commercial Lending",
+                        "Leadership",
+                        "Business Development",
+                        "Accounting",
+                        "Auditing",
+                        "Cash Management",
+                        "Credit Analysis",
+                        "Risk Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, business development, and commercial lending expertise. The source of the recommendation is a peer, specifically the Assistant Banking Center Manager, who has witnessed the candidate's impact on the bank's lending initiatives."
+                }
+            }
+        },
+        {
+            "recommender_id": "372",
+            "recommendation": {
+                "resume_file": "187.json",
+                "recommendation_file": "Recommendation_From_ID_372.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and lack of specific examples or metrics to support claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Business Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and business development skills, but does not provide specific examples or metrics to support these claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "202",
+            "recommendation": {
+                "resume_file": "187.json",
+                "recommendation_file": "Recommendation_From_ID_202.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and lack of explicit mention of some skills in the resume.",
+                    "verified_skills": [
+                        "Commercial Lending",
+                        "Leadership",
+                        "Business Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's experience and skills in banking and lending, but lacks specific mention of some skills and has minor inconsistencies."
+                }
+            }
+        }
+    ]
+}

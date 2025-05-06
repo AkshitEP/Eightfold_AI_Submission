@@ -1,0 +1,120 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "DIRECTOR OF FINANCE",
+                "work_description": "Trusted Financial Executive with CFO- and CIO-level responsibilities; adds transparency to IT and financial operations while adapting financial strategy to organizational goals.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "VP",
+                "work_description": "Top-performing Program Manager consistently sought out to reengineer troubled projects.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2010",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Manager of Planning and Analysis",
+                "work_description": "Led multi-functional technology teams and key contributor and mentor for a PMO office with up to 80 resources; managed development of innovative software systems and applications.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2007",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "MANAGER, PROGRAM MANAGEMENT",
+                "work_description": "Managed all IT planning, forecasting, and business case management for the largest division at Light Technologies--a $5-billion department; directed multibillion-dollar budgets, reporting, investment analysis, metrics development, and software implementation.",
+                "company_level": "Large Corporation",
+                "start_date": "1995",
+                "end_date": "2003"
+            },
+            {
+                "role_name": "FINANCIAL MANAGEMENT ROLES",
+                "work_description": "Directed global planning and analysis for a real estate and IT portfolio of $550-million that included capital investments and post-spending analysis.",
+                "company_level": "Large Corporation",
+                "start_date": "2004",
+                "end_date": "2005"
+            },
+            {
+                "role_name": "SENIOR FINANCIAL ANALYST / IT PROJECT / PROGRAM CONSULTANT",
+                "work_description": "Directed IT financial planning and analysis for a $120-million department--developed business cases, mitigated risks, and managed forecasting, operations, and budgets.",
+                "company_level": "Large Corporation",
+                "start_date": "Not specified",
+                "end_date": "Not specified"
+            }
+        ],
+        "education": [
+            {
+                "university": "State University",
+                "start_date": "Not specified",
+                "end_date": "Not specified",
+                "domain": "Business Economics/Finance",
+                "level": "Master of Business Administration"
+            },
+            {
+                "university": "Hoboken State University",
+                "start_date": "Not specified",
+                "end_date": "Not specified",
+                "domain": "Finance/Accounting",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Held various senior financial roles, including Director of Finance and Financial Management roles, demonstrating expert-level mastery in financial management."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 5,
+                "explanation": "Developed and implemented financial strategies aligned with organizational goals, indicating expert-level proficiency in strategic planning."
+            },
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Managed large-scale projects, including multibillion-dollar budgets and IT implementations, showing expert-level mastery in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Led multi-functional teams, including a PMO office with up to 80 resources, demonstrating expert-level leadership skills."
+            },
+            {
+                "name": "Budgeting",
+                "level": 5,
+                "explanation": "Directed multibillion-dollar budgets and managed forecasting, indicating expert-level proficiency in budgeting."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Conducted financial planning, analysis, and forecasting, demonstrating expert-level mastery in financial analysis."
+            },
+            {
+                "name": "Risk Management",
+                "level": 4,
+                "explanation": "Mitigated risks in IT projects, showing strong proficiency in risk management."
+            },
+            {
+                "name": "Business Case Development",
+                "level": 4,
+                "explanation": "Developed business cases for IT projects, indicating strong proficiency in business case development."
+            },
+            {
+                "name": "IT Project Management",
+                "level": 4,
+                "explanation": "Managed IT projects, including software implementation and development, showing strong proficiency in IT project management."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 4,
+                "explanation": "Directed global planning and analysis for a real estate and IT portfolio, indicating strong proficiency in financial planning."
+            }
+        ]
+    }
+}

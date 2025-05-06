@@ -1,0 +1,79 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Provides voice and data communications systems for small and midsized companies. Managed major office relocation with only one day of downtime. Improved department efficiency 80% through implementation of strategic workflow and process improvements.",
+                "company_level": "Mid-level",
+                "start_date": "12/2004",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "HR Representative",
+                "work_description": "Leading home healthcare company employing 4,500 professionals. Trained 25-member management team on interviewing techniques and best practices, conducting workshops and one-on-one coaching sessions that contributed to sound hiring decisions.",
+                "company_level": "Large Corporation",
+                "start_date": "Not specified",
+                "end_date": "Not specified"
+            },
+            {
+                "role_name": "HR Assistant",
+                "work_description": "Promoted to fulfill a broad range of HR functions, including recruiting and training employees, administering benefits, overseeing disciplinary action and managing HR records.",
+                "company_level": "Not specified",
+                "start_date": "Not specified",
+                "end_date": "Not specified"
+            },
+            {
+                "role_name": "Supervisor",
+                "work_description": "Not specified",
+                "company_level": "Not specified",
+                "start_date": "Not specified",
+                "end_date": "Not specified"
+            }
+        ],
+        "education": [
+            {
+                "university": "Ecotect Institute",
+                "start_date": "Not specified",
+                "end_date": "2016",
+                "domain": "Business Administration",
+                "level": "Associate of Applied Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resources",
+                "level": 5,
+                "explanation": "Has extensive experience in HR functions, including recruiting, training, benefits administration, and record management, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience leading teams and training management teams, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Process Improvement",
+                "level": 4,
+                "explanation": "Successfully implemented strategic workflow and process improvements, resulting in an 80% increase in department efficiency, indicating strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Conducted workshops and one-on-one coaching sessions, contributing to sound hiring decisions, suggesting strong proficiency in training and development."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Provided voice and data communications systems, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed a major office relocation with minimal downtime, indicating a solid level of proficiency in project management."
+            }
+        ]
+    }
+}

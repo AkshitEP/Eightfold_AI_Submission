@@ -1,0 +1,23 @@
+{
+    "resume_file": "381.json",
+    "recommendation_file": "Recommendation_From_ID_301.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but no significant red flags.",
+        "verified_skills": [
+            "Financial Statement Preparation",
+            "Financial Reconciliation",
+            "Payroll Management",
+            "Budgeting",
+            "Leadership",
+            "Microsoft Excel",
+            "Account Analysis",
+            "Variance Analysis",
+            "Cost Containment",
+            "Cash Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies. The recommendation verifies many of the skills mentioned in the resume, but does not specifically mention some of the skills, such as Great Plains Dynamics, BI360, and Keane Care."
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "target_id": "116",
+    "recommendations": [
+        {
+            "recommender_id": "172",
+            "recommendation": {
+                "resume_file": "116.json",
+                "recommendation_file": "Recommendation_From_ID_172.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Administration",
+                        "Employee Onboarding",
+                        "Data Entry",
+                        "Communication",
+                        "Payroll Processing",
+                        "Accounts Payable/Receivable"
+                    ],
+                    "recommendation_source": "Former Supervisor/Colleague",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and highlighting their strengths in recruitment, onboarding, and training programs."
+                }
+            }
+        },
+        {
+            "recommender_id": "149",
+            "recommendation": {
+                "resume_file": "116.json",
+                "recommendation_file": "Recommendation_From_ID_149.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Administration",
+                        "Employee Onboarding",
+                        "Data Entry",
+                        "Communication",
+                        "Payroll Processing",
+                        "Accounts Payable/Receivable"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR capabilities and strengths."
+                }
+            }
+        },
+        {
+            "recommender_id": "319",
+            "recommendation": {
+                "resume_file": "116.json",
+                "recommendation_file": "Recommendation_From_ID_319.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Administration",
+                        "Employee Onboarding",
+                        "Time Management",
+                        "Data Entry",
+                        "Communication",
+                        "Payroll Processing",
+                        "Accounts Payable/Receivable",
+                        "Vendor Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and highlighting their strengths in recruitment, employee relations, and organizational management."
+                }
+            }
+        },
+        {
+            "recommender_id": "557",
+            "recommendation": {
+                "resume_file": "116.json",
+                "recommendation_file": "Recommendation_From_ID_557.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written for a different person, with the majority of the content referencing a Finance Officer's experience and skills. The language is formal, but the recommendation lacks specific examples and details about the HR Assistant's skills and experience.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align well with the candidate's skills and experience. It appears to be written for a different person, and the content does not provide specific examples or details about the HR Assistant's skills and experience."
+                }
+            }
+        }
+    ]
+}

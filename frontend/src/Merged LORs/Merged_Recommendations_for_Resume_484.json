@@ -1,0 +1,25 @@
+{
+    "target_id": "484",
+    "recommendations": [
+        {
+            "recommender_id": "241",
+            "recommendation": {
+                "resume_file": "484.json",
+                "recommendation_file": "Recommendation_From_ID_241.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Instructor/Training",
+                        "Marksmanship",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, instructional, and problem-solving abilities. The recommender's relationship with the candidate is established as a peer, adding credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

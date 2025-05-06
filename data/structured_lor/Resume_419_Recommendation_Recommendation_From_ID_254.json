@@ -1,0 +1,16 @@
+{
+    "resume_file": "419.json",
+    "recommendation_file": "Recommendation_From_ID_254.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The language used is formal, but the recommendation seems to focus more on the candidate's character and interpersonal skills rather than their professional experience and skills.",
+        "verified_skills": [
+            "Communication",
+            "Teamwork",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation provides some insight into the candidate's character and interpersonal skills, but it does not strongly align with the candidate's professional experience and skills. The recommendation seems to be more focused on the candidate's volunteer work and personal qualities rather than their professional qualifications."
+    }
+}

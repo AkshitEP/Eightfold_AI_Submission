@@ -1,0 +1,114 @@
+{
+    "target_id": "307",
+    "recommendations": [
+        {
+            "recommender_id": "428",
+            "recommendation": {
+                "resume_file": "307.json",
+                "recommendation_file": "Recommendation_From_ID_428.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Management",
+                        "Financial Analysis",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities, financial management, and analytical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "676",
+            "recommendation": {
+                "resume_file": "307.json",
+                "recommendation_file": "Recommendation_From_ID_676.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Change Management",
+                        "Strategic Planning",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial acumen, strategic vision, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "650",
+            "recommendation": {
+                "resume_file": "307.json",
+                "recommendation_file": "Recommendation_From_ID_650.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Management",
+                        "Change Management",
+                        "Governance",
+                        "Strategic Planning",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial management, and change management abilities. The source of the recommendation appears to be a peer or colleague, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "426",
+            "recommendation": {
+                "resume_file": "307.json",
+                "recommendation_file": "Recommendation_From_ID_426.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in financial management, but the specific role mentioned (Lead Accountant) does not match the roles listed in the resume.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Project Management",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in financial management, but some minor inconsistencies and exaggerated claims are present. The recommendation seems to be written in a formal tone, but the language is somewhat generic and lacks specific examples from the candidate's work experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "52",
+            "recommendation": {
+                "resume_file": "307.json",
+                "recommendation_file": "Recommendation_From_ID_52.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Management",
+                        "Change Management",
+                        "Governance",
+                        "Strategic Planning",
+                        "Communication",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial management, and project management abilities. However, the source of the recommendation is unclear."
+                }
+            }
+        }
+    ]
+}

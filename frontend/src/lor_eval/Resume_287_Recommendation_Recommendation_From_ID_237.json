@@ -1,0 +1,16 @@
+{
+    "resume_file": "287.json",
+    "recommendation_file": "Recommendation_From_ID_237.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Teaching",
+            "Leadership",
+            "Community Development"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and community engagement. The source of the recommendation is the Executive Director and fine arts department chair at Head-Royce School, indicating a supervisory relationship."
+    }
+}

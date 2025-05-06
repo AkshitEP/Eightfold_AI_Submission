@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Mechanic",
+                "work_description": "Performing line maintenance functions, troubleshooting functions on electrical, hydraulic, engine and airframe systems and components, performing heavy maintenance, and maintaining records of maintenance and repair.",
+                "company_level": "Unknown",
+                "start_date": "06/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Assistant Phase Coordinator",
+                "work_description": "Troubleshooting malfunctions, maintaining, inspecting, and repairing aircraft structures and hydraulic systems and components, and collaborating with supervisors or higher-level technicians on complex aircraft relevant tasks.",
+                "company_level": "Unknown",
+                "start_date": "01/2015",
+                "end_date": "12/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "Hagerty High School",
+                "start_date": "Unknown",
+                "end_date": "12/2011",
+                "domain": "Unknown",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Center Naval Aviation Technical Training",
+                "start_date": "Unknown",
+                "end_date": "12/2011",
+                "domain": "Powertrain",
+                "level": "H-1 Powertrain"
+            },
+            {
+                "university": "Bakers School of Aeronautics",
+                "start_date": "Unknown",
+                "end_date": "12/2016",
+                "domain": "Aeronautics",
+                "level": "A&P License"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Aircraft Maintenance",
+                "level": 5,
+                "explanation": "Over a decade of experience in performing line maintenance, troubleshooting, and heavy maintenance functions, indicating expert-level mastery."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Consistently applied troubleshooting skills on various aircraft systems and components, suggesting strong proficiency."
+            },
+            {
+                "name": "Hydraulic Systems",
+                "level": 4,
+                "explanation": "Maintained, inspected, and repaired hydraulic systems and components, indicating strong proficiency."
+            },
+            {
+                "name": "Electrical Systems",
+                "level": 3,
+                "explanation": "Performed line maintenance functions on electrical systems, showing a solid working proficiency."
+            },
+            {
+                "name": "Airframe Systems",
+                "level": 3,
+                "explanation": "Maintained, inspected, and repaired airframe systems and components, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Collaborated with supervisors or higher-level technicians on complex tasks, suggesting some practical experience in leadership."
+            },
+            {
+                "name": "Record Keeping",
+                "level": 3,
+                "explanation": "Maintained records of maintenance and repair, showing a solid working proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "156.json",
+    "recommendation_file": "Recommendation_From_ID_333.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the Finance Specialist, but the resume is for a Finance Director. However, the skills and experiences mentioned in the recommendation are largely aligned with the resume.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Financial Reporting",
+            "Leadership",
+            "Financial Modeling",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in finance management, leadership, and strategic insight, which are well-aligned with the skills and experiences mentioned in the resume. However, the recommendation seems to be written for a different role (Finance Specialist) and mentions some skills that are not explicitly mentioned in the resume (full charge bookkeeping, accounts reconciliation, and regulatory compliance)."
+    }
+}

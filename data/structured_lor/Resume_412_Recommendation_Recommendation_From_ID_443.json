@@ -1,0 +1,12 @@
+{
+    "resume_file": "412.json",
+    "recommendation_file": "Recommendation_From_ID_443.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and misrepresents the candidate's skills and experience. The language used is formal, but the content is misleading and unrelated to the candidate's actual profession.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly misleading and does not align with the candidate's skills and experience. It appears to be an attempt to deceive the reader into believing the candidate has expertise in areas unrelated to their actual profession."
+    }
+}

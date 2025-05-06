@@ -1,0 +1,19 @@
+{
+    "resume_file": "421.json",
+    "recommendation_file": "Recommendation_From_ID_483.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of 'zero losses' in inventory management seems unrealistic and may be an exaggeration.",
+        "verified_skills": [
+            "Leadership",
+            "IT Project Management",
+            "Network Administration",
+            "Troubleshooting",
+            "Communication",
+            "Cisco Routing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management and leadership abilities. However, some claims may be exaggerated, and the source of the recommendation is unclear."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "138.json",
+    "recommendation_file": "Recommendation_From_ID_784.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's work experience. The language is formal, but the tone is overly positive.",
+        "verified_skills": [
+            "Data Analysis",
+            "R Programming",
+            "Customer Service",
+            "Linear Model",
+            "Regression Model",
+            "GARCH Model",
+            "ARIMA Model"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills and technical abilities. However, the source of the recommendation is unclear, and the tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+    }
+}

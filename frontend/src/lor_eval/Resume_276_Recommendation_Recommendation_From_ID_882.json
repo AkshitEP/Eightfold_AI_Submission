@@ -1,0 +1,16 @@
+{
+    "resume_file": "276.json",
+    "recommendation_file": "Recommendation_From_ID_882.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Some claims seem exaggerated or unsupported, and the recommendation lacks substantial detail and alignment with the key areas of expertise.",
+        "verified_skills": [
+            "Financial Planning",
+            "Budgeting",
+            "Financial Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but some claims seem exaggerated or unsupported. The recommendation verifies some skills mentioned in the resume, but lacks substantial detail and alignment with the key areas of expertise."
+    }
+}

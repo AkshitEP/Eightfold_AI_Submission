@@ -1,0 +1,135 @@
+{
+    "target_id": "439",
+    "recommendations": [
+        {
+            "recommender_id": "423",
+            "recommendation": {
+                "resume_file": "439.json",
+                "recommendation_file": "Recommendation_From_ID_423.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Leadership",
+                        "Business Development",
+                        "Sales",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and leadership abilities in the healthcare sector."
+                }
+            }
+        },
+        {
+            "recommender_id": "364",
+            "recommendation": {
+                "resume_file": "439.json",
+                "recommendation_file": "Recommendation_From_ID_364.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Leadership",
+                        "Business Development",
+                        "Sales",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their abilities in healthcare management, sales, and communication. The source of the recommendation is a Claims Service Specialist, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "165",
+            "recommendation": {
+                "resume_file": "439.json",
+                "recommendation_file": "Recommendation_From_ID_165.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Leadership",
+                        "Business Development",
+                        "Sales",
+                        "Staff Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business development, leadership, and communication skills. The source of the recommendation is a Key Account Manager with over 25 years of experience in pharmaceutical and medical device sales, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "877",
+            "recommendation": {
+                "resume_file": "439.json",
+                "recommendation_file": "Recommendation_From_ID_877.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Leadership",
+                        "Business Development",
+                        "Sales",
+                        "Staff Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their healthcare management, leadership, and sales abilities. The source of the recommendation is a peer who has worked alongside the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "210",
+            "recommendation": {
+                "resume_file": "439.json",
+                "recommendation_file": "Recommendation_From_ID_210.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Leadership",
+                        "Business Development",
+                        "Sales",
+                        "Project Management",
+                        "Staff Management",
+                        "Budgeting",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in healthcare management and sales. The source of the recommendation is a peer, a software engineer who collaborated with the candidate on several projects."
+                }
+            }
+        },
+        {
+            "recommender_id": "460",
+            "recommendation": {
+                "resume_file": "439.json",
+                "recommendation_file": "Recommendation_From_ID_460.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Leadership",
+                        "Business Development",
+                        "Sales",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and relationship-building skills in the healthcare sector."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Develop loan packages for lenders and maintain accuracy in all paperwork. Analyze credit reports, verify customer employment, financial data and fiscal statements. Offer vehicle financing and insurance to customers and providing them with a thorough explanation of aftermarket products, extended warranties, complete explanation of manufacturer and dealership service procedures and policies.",
+                "company_level": "Mid-level",
+                "start_date": "08/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Finance Director/Sales Manager",
+                "work_description": "Established and maintained monthly forecasted income, penetration levels, and customer satisfaction index (CSI) scores. Oversaw dealership's customer loan origination and approval process while maintaining strong relationships with prime and subprime lenders.",
+                "company_level": "Mid-level",
+                "start_date": "09/2006",
+                "end_date": "07/2012"
+            },
+            {
+                "role_name": "Sales Manager",
+                "work_description": "Managed a team of 6-8 salesman, motivated, trained, and set goals. Forecasted goals and objectives for the department and strived to meet them.",
+                "company_level": "Mid-level",
+                "start_date": "05/2001",
+                "end_date": "09/2006"
+            },
+            {
+                "role_name": "Owner/CEO",
+                "work_description": "Founded and successfully developed a mid-level nutritional internet business. Marketing and Advertising. Performed accounting functions; accounts payable, accounts receivable, invoicing, monthly account reconciliation, and bank deposits.",
+                "company_level": "Startup",
+                "start_date": "07/1995",
+                "end_date": "05/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "Coeur d'Alene High School",
+                "start_date": "01/1985",
+                "end_date": "12/1985",
+                "domain": "Business/Marketing",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "North Idaho College",
+                "start_date": "01/1987",
+                "end_date": "12/1987",
+                "domain": "Business Administration",
+                "level": "Associate's"
+            },
+            {
+                "university": "Trend Business College",
+                "start_date": "01/1987",
+                "end_date": "12/1987",
+                "domain": "Business/Accounting",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Analyzed credit reports, verified customer financial data, and maintained accuracy in paperwork, showing strong proficiency in financial analysis."
+            },
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Performed various accounting functions including accounts payable, accounts receivable, invoicing, and monthly account reconciliation, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held multiple leadership roles including Finance Manager, Finance Director/Sales Manager, Sales Manager, and Owner/CEO, demonstrating expert-level mastery in leadership."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Handled marketing and advertising responsibilities as the Owner/CEO of a nutritional internet business, showing a solid working proficiency in marketing."
+            },
+            {
+                "name": "Sales Management",
+                "level": 4,
+                "explanation": "Managed a team of salesmen, set goals, and forecasted objectives, indicating strong proficiency in sales management."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 4,
+                "explanation": "Developed loan packages for lenders, maintained monthly forecasted income, and penetration levels, showing strong proficiency in financial planning."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided customers with explanations of aftermarket products and dealership service procedures, indicating a solid working proficiency in customer service."
+            },
+            {
+                "name": "Bank Reconciliation",
+                "level": 3,
+                "explanation": "Performed monthly account reconciliation and bank deposits, showing a solid working proficiency in bank reconciliation."
+            }
+        ]
+    }
+}

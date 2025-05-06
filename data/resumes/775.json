@@ -1,0 +1,180 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Information Technology / Chief Technology Officer",
+                "work_description": "Provide expertise, vision and leadership for developing, implementing and executing strategic and tactical information technology initiatives that align with the mission.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2007",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Manager/Director",
+                "work_description": "Ensure full delivery of all IT initiatives for an international spa manufacture including retail markets.",
+                "company_level": "Mid-level",
+                "start_date": "01/2000",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Western Oregon University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Information Technology",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Belford University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Technology",
+                "level": "Unknown"
+            },
+            {
+                "university": "Portland Community College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Limited Energy Journeyman",
+                "level": "Certification"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "IT Infrastructure Development",
+                "description": "Infrastructure Development. Systems and infrastructure required complete reconstruction without interruption to daily business.",
+                "skills": [
+                    "Nortel PBX System",
+                    "VoIP Switching",
+                    "MAS200-500 accounting",
+                    "ERP",
+                    "Data Security",
+                    "ISO guidelines",
+                    "Supply Chain Security Management Systems"
+                ]
+            },
+            {
+                "domain": "E-commerce",
+                "description": "Implemented desktop internet faxing providing efficient time usage to end-users, reduced printer support, paper &copper analog lines",
+                "skills": [
+                    "B2B",
+                    "B2C",
+                    "EDI",
+                    "Desktop Internet Faxing"
+                ]
+            },
+            {
+                "domain": "Lean Manufacturing and Lean Office",
+                "description": "Provided efficient time management which resulted in higher produced units, reduced inventory waste, and increased the bottom line.",
+                "skills": [
+                    "Lean Manufacturing",
+                    "Lean Office"
+                ]
+            },
+            {
+                "domain": "ECM Program",
+                "description": "The application covered cradle to grave information that included inventory, budget, timelines, developments and sign-off.",
+                "skills": [
+                    "ECM Program"
+                ]
+            },
+            {
+                "domain": "VPN Network",
+                "description": "Provided consolidation of information, data backups and application software to be hosted at Corp. thus reducing redundant systems, manpower and providing improved service.",
+                "skills": [
+                    "VPN Network"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held director-level positions in large corporations, indicating expert-level mastery in leadership."
+            },
+            {
+                "name": "IT Strategy",
+                "level": 5,
+                "explanation": "Provided expertise and vision for developing and implementing IT initiatives, showing expert-level proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Managed full delivery of IT initiatives for international companies, indicating expert-level mastery."
+            },
+            {
+                "name": "IT Infrastructure Development",
+                "level": 5,
+                "explanation": "Reconstructed systems and infrastructure without interruption to daily business, showing expert-level proficiency."
+            },
+            {
+                "name": "Data Security",
+                "level": 4,
+                "explanation": "Implemented data security measures and followed ISO guidelines, suggesting strong proficiency."
+            },
+            {
+                "name": "ERP",
+                "level": 4,
+                "explanation": "Implemented ERP systems, indicating strong proficiency."
+            },
+            {
+                "name": "ECM Program",
+                "level": 4,
+                "explanation": "Developed and implemented ECM programs, suggesting strong proficiency."
+            },
+            {
+                "name": "VPN Network",
+                "level": 4,
+                "explanation": "Provided consolidation of information and data backups through VPN networks, indicating strong proficiency."
+            },
+            {
+                "name": "E-commerce",
+                "level": 3,
+                "explanation": "Implemented desktop internet faxing and other e-commerce solutions, showing solid working proficiency."
+            },
+            {
+                "name": "Lean Manufacturing",
+                "level": 3,
+                "explanation": "Provided efficient time management and reduced inventory waste, indicating solid working proficiency."
+            },
+            {
+                "name": "Nortel PBX System",
+                "level": 3,
+                "explanation": "Implemented Nortel PBX systems, showing solid working proficiency."
+            },
+            {
+                "name": "VoIP Switching",
+                "level": 3,
+                "explanation": "Implemented VoIP switching solutions, indicating solid working proficiency."
+            },
+            {
+                "name": "MAS200-500 accounting",
+                "level": 3,
+                "explanation": "Implemented MAS200-500 accounting systems, showing solid working proficiency."
+            },
+            {
+                "name": "B2B",
+                "level": 2,
+                "explanation": "Implemented B2B solutions, indicating some practical experience."
+            },
+            {
+                "name": "B2C",
+                "level": 2,
+                "explanation": "Implemented B2C solutions, indicating some practical experience."
+            },
+            {
+                "name": "EDI",
+                "level": 2,
+                "explanation": "Implemented EDI solutions, showing some practical experience."
+            },
+            {
+                "name": "Desktop Internet Faxing",
+                "level": 2,
+                "explanation": "Implemented desktop internet faxing solutions, indicating some practical experience."
+            }
+        ]
+    }
+}

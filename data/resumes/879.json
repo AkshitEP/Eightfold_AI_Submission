@@ -1,0 +1,137 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance And Accounting Specialist",
+                "work_description": "Collaborated extensively with auditors during preliminary and year-end audit processes. Reconciled financial accounts using Innoprise software. Assisted in the implementation of Innoprise and Water software. Managed all payments processing, invoicing and collections tasks. Processed invoice payments and recorded information in account database. Increased customer satisfaction by greeting visitors promptly and professionally. Improved communication efficiency as primary liaison between departments, clients and vendors. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.",
+                "company_level": "Mid-level",
+                "start_date": "11/2005",
+                "end_date": "11/2017"
+            },
+            {
+                "role_name": "Buyer",
+                "work_description": "Worked closely with managers to plan buys. Directed transportation initiatives to maximize efficiency. Performed detailed reviewed of high and low performing products. Recommended optimal suppliers after qualifying vendors and evaluating proposals. Negotiated favorable contracts and determined lowest possible cost, factoring in quality and reliability, by analyzing data.",
+                "company_level": "Mid-level",
+                "start_date": "07/1996",
+                "end_date": "02/2005"
+            },
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Planned travel arrangements, meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Wrote reports and correspondence from dictation and handwritten notes. Dispersed incoming mail to correct recipients throughout the office. Made copies, sent faxes and handled all incoming and outgoing correspondence. Organized files, developed spreadsheets, faxed reports. Created weekly and monthly reports and presentations. Managed the day-to-day calendar for the company's senior director. Properly routed agreements, contracts and invoices through the signature process.",
+                "company_level": "Mid-level",
+                "start_date": "03/1990",
+                "end_date": "05/1995"
+            },
+            {
+                "role_name": "Executive Administrative Assistant",
+                "work_description": "Scheduled Board of Directors meetings and assisted with meeting materials and agendas. Maintained and coordinated executive and senior management vacation, day-to-day meeting and travel schedules. Collaborated with other administrative team members, human resources and the finance department on special projects and events. Wrote and distributed meeting minutes to appropriate individuals.",
+                "company_level": "Mid-level",
+                "start_date": "11/1979",
+                "end_date": "06/1985"
+            },
+            {
+                "role_name": "Software Tester",
+                "work_description": "Prepared and presented technical proposals for clients. Troubleshooter and resolved web application issues escalated from customer support and other departments with a 100% success rate. Assisted in the monitoring and reporting on websites traffic and performance. Developed application framework that served as the cornerstone for a highly successful thin-client web applications strategy. Designed, documented and executed maintenance procedures, including system upgrades, patch management and system backups. Designed complex interfaces to support third party systems.",
+                "company_level": "Mid-level",
+                "start_date": "06/1985",
+                "end_date": "11/1989"
+            },
+            {
+                "role_name": "Booking Clerk",
+                "work_description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.",
+                "company_level": "Mid-level",
+                "start_date": "07/1972",
+                "end_date": "10/1979"
+            }
+        ],
+        "education": [
+            {
+                "university": "Lake Michigan College",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Accounting Business",
+                "level": "Associate of Science"
+            },
+            {
+                "university": "Milwaukee Area Technical College",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Computer Science Accounting",
+                "level": "Associate of Applied Science"
+            },
+            {
+                "university": "Houston Community College",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Material Management",
+                "level": "Associate of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Reconciled financial accounts using Innoprise software, indicating strong proficiency."
+            },
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Managed all payments processing, invoicing, and collections tasks, suggesting strong proficiency."
+            },
+            {
+                "name": "Procurement",
+                "level": 4,
+                "explanation": "Recommended optimal suppliers after qualifying vendors and evaluating proposals, indicating strong proficiency."
+            },
+            {
+                "name": "Contract Negotiation",
+                "level": 4,
+                "explanation": "Negotiated favorable contracts, determining the lowest possible cost, factoring in quality and reliability, by analyzing data."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Analyzed data to determine the lowest possible cost, factoring in quality and reliability, showing a solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed the day-to-day calendar for the company's senior director and coordinated executive and senior management vacation, day-to-day meeting, and travel schedules."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Collaborated with other administrative team members, human resources, and the finance department on special projects and events, indicating a solid level of proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Improved communication efficiency as primary liaison between departments, clients, and vendors, suggesting strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Managed multiple tasks and responsibilities, including scheduling meetings, preparing reports, and coordinating events, indicating strong proficiency."
+            },
+            {
+                "name": "Software Development",
+                "level": 4,
+                "explanation": "Developed application framework that served as the cornerstone for a highly successful thin-client web applications strategy, suggesting strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Troubleshooter and resolved web application issues escalated from customer support and other departments with a 100% success rate, indicating strong proficiency."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Used Microsoft Office applications, such as Excel, Word, and Outlook, to prepare reports, presentations, and correspondence, showing a solid working proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "415.json",
+    "recommendation_file": "Recommendation_From_ID_53.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Teamwork",
+            "Childcare",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and teamwork abilities. However, the source of the recommendation is unclear, and the recommendation does not mention all of the candidate's skills and experiences."
+    }
+}

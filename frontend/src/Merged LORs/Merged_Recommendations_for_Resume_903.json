@@ -1,0 +1,49 @@
+{
+    "target_id": "903",
+    "recommendations": [
+        {
+            "recommender_id": "757",
+            "recommendation": {
+                "resume_file": "903.json",
+                "recommendation_file": "Recommendation_From_ID_757.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Electrical Systems Maintenance",
+                        "Power Systems Repair",
+                        "Avionics Systems Repair",
+                        "Leadership",
+                        "Troubleshooting",
+                        "Project Management",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership qualities, and project management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "97",
+            "recommendation": {
+                "resume_file": "903.json",
+                "recommendation_file": "Recommendation_From_ID_97.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Electrical Systems Maintenance",
+                        "Avionics Systems Repair",
+                        "Troubleshooting",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in avionics and electrical technologies, leadership, and project management. The recommendation is from a high-level professional in the aviation industry, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Regional HR Manager",
+                "work_description": "Managed entire HR function for Andhra Pradesh/Telangana states for Assets & Liability vertical. Led team of two HR Executives. Handled end to end recruitment cycle right from sourcing, taking interviews, negotiating offers till on boarding. Ensuring every month all new joiners are included in payroll. Maintaining new joinee tracker, induction tracker, offered applicants tracker for same.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2015",
+                "end_date": "12/2016"
+            },
+            {
+                "role_name": "Employee Relationship Manager",
+                "work_description": "Conducting regular branch visits for ground sensing. Handling employee queries regarding organization policies, transfer requests, salary and leaves etc. Maintaining and updating HRIS for the region. Taking Induction Session of new joiners. Handling employee grievances by analyzing case and preparing preliminary investigation report.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2013",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Recruitment Manager",
+                "work_description": "Handling Recruitment for entire Rajasthan RBG (Retail Banking Group) & RIBG (Rural Inclusive Banking Group) and GOG (Global Operations Group). Managing entire recruitment life cycle right from sourcing, interviewing and negotiating/releasing offers till on boarding. Ensuring all new joiners are included in Payroll.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2011",
+                "end_date": "04/2013"
+            },
+            {
+                "role_name": "Intern",
+                "work_description": "Taking and understanding requirements from clients, sourcing applicants using Mass Mailing, Job Posting, doing screening and lining them up for interviews with clients. Coordinated & followed-up with respective HR departments for salary negotiation, joining.",
+                "company_level": "Mid-level",
+                "start_date": "03/2010",
+                "end_date": "06/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "ICFAI Business School",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Human Resource",
+                "level": "MBA"
+            },
+            {
+                "university": "Bharati Vidyapeeth College Of Engineering",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Electrical Engineering",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Vocal classical music",
+            "Volleyball",
+            "Social work"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment Management",
+                "level": 5,
+                "explanation": "Handled end-to-end recruitment cycles for multiple regions and departments, including sourcing, interviewing, and onboarding, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Ensured new joiners were included in payroll, demonstrating strong proficiency in payroll management."
+            },
+            {
+                "name": "Employee Relationship Management",
+                "level": 4,
+                "explanation": "Handled employee queries, grievances, and maintained HRIS, showing strong proficiency in employee relationship management."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led a team of two HR Executives, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Conducted regular branch visits, handled employee queries, and maintained HRIS, demonstrating a solid working proficiency in communication."
+            },
+            {
+                "name": "HRIS Management",
+                "level": 3,
+                "explanation": "Maintained and updated HRIS for the region, showing a solid working proficiency in HRIS management."
+            },
+            {
+                "name": "Negotiation",
+                "level": 2,
+                "explanation": "Handled salary negotiations and offer releases, demonstrating some practical experience in negotiation."
+            },
+            {
+                "name": "Time Management",
+                "level": 2,
+                "explanation": "Coordinated and followed up with HR departments, indicating some practical experience in time management."
+            }
+        ]
+    }
+}

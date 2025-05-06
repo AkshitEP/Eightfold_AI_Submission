@@ -1,0 +1,17 @@
+{
+    "resume_file": "304.json",
+    "recommendation_file": "Recommendation_From_ID_696.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Suspicious recommender, unrelated profession, and overly flattering language.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Financial Reporting",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems suspicious due to the recommender's unrelated profession and overly flattering language. However, it does highlight the candidate's financial management skills and commitment to community service."
+    }
+}

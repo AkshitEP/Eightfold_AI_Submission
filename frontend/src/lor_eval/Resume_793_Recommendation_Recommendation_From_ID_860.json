@@ -1,0 +1,19 @@
+{
+    "resume_file": "793.json",
+    "recommendation_file": "Recommendation_From_ID_860.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's credentials are not provided.",
+        "verified_skills": [
+            "Compliance",
+            "Financial Analysis",
+            "Investment Banking",
+            "Project Management",
+            "Leadership",
+            "Research"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in compliance, financial analysis, and investment banking, which aligns with their resume. However, the recommender's relationship with the candidate and their credentials are not provided, which raises some concerns about the credibility of the recommendation."
+    }
+}

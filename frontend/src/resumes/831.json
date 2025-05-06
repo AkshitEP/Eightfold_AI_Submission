@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Supervisory Logistics Management Specialist",
+                "work_description": "Managing a team of 30 employees in a busy work environment. Establish and implement departmental policies, goals, objectives, and procedures. Creating, managing and analyzing performance data and other information. Ensuring that all appropriate documentation is kept on file and available for inspection at all times.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2009",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Quality Assurance Chief",
+                "work_description": "Reviewed and edited correspondence prior to release and submission for signature. Performed a variety of assignments directed toward ensuring acceptability of products, or acceptable levels of quality in the operations involved. Ensure compliance of all local, state, and federal laws regarding the ordering, use, and disposal of hazardous material.",
+                "company_level": "Mid-level",
+                "start_date": "08/2005",
+                "end_date": "08/2008"
+            },
+            {
+                "role_name": "Advanced Communication/ Navigation Supervisor",
+                "work_description": "Coordinated work schedules for 14 electronics technicians creating balanced shifts in the work center and better meeting the needs of customers. Monitored equipment usage and adjusted work priorities resulting in a more flexible and productive work center. Calculated costs of equipment and repairs vice replacement costs reducing the repair costs and hours worked by technicians.",
+                "company_level": "Mid-level",
+                "start_date": "11/2002",
+                "end_date": "07/2005"
+            },
+            {
+                "role_name": "Aviation Maintenance Management Instructor",
+                "work_description": "Aviation Maintenance Administration Management Training Instructor. Course Coordinator for NALCOMIS IMA Power Plants Documentation Procedures, NALCOMIS IMA Work Center Management Documentation Procedures, NALCOMIS IMA Production. Successfully graduated over 400 Department of the Navy students in the proper documentation of aviation maintenance management in accordance of COMNAVINST 4790.2",
+                "company_level": "Mid-level",
+                "start_date": "01/1997",
+                "end_date": "07/2002"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2011",
+                "end_date": "12/2013",
+                "domain": "Business",
+                "level": "MBA"
+            },
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2009",
+                "end_date": "12/2011",
+                "domain": "Business",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in supervisory roles, managing teams of up to 30 employees, and has demonstrated a strong ability to lead and manage teams effectively."
+            },
+            {
+                "name": "Logistics Management",
+                "level": 5,
+                "explanation": "Has over a decade of experience in logistics management, including managing teams, implementing policies, and analyzing performance data, indicating expert-level mastery."
+            },
+            {
+                "name": "Quality Assurance",
+                "level": 4,
+                "explanation": "Has experience in ensuring compliance with laws and regulations, reviewing and editing correspondence, and performing quality assurance tasks, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience in coordinating work schedules, monitoring equipment usage, and adjusting work priorities, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in coordinating with teams, creating balanced shifts, and adjusting work priorities, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Has experience as an instructor, successfully graduating over 400 students, indicating strong proficiency in training and development."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Has experience in analyzing performance data, but the extent of this experience is not clearly defined, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in coordinating work schedules and adjusting work priorities, indicating a solid working proficiency in time management."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "973.json",
+    "recommendation_file": "Recommendation_From_ID_886.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, such as comparing the candidate's skills to those required in managing a fleet of ocean-going vessels. The Finance Director's role and the maritime logistics context seem unrelated to the candidate's experience and skills.",
+        "verified_skills": [
+            "Administrative Support",
+            "Communication",
+            "Time Management",
+            "Microsoft Office"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's administrative skills, attention to detail, and organizational capabilities, but the language and examples used are overly dramatic and unrelated to the candidate's actual experience."
+    }
+}

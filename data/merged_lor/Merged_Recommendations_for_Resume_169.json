@@ -1,0 +1,63 @@
+{
+    "target_id": "169",
+    "recommendations": [
+        {
+            "recommender_id": "355",
+            "recommendation": {
+                "resume_file": "169.json",
+                "recommendation_file": "Recommendation_From_ID_355.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's work in the IT field. The language used is more suitable for a fitness instructor or a community health program.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks substantial detail or alignment with the key areas of expertise mentioned in the resume. The language used is informal and not suitable for a formal recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "837",
+            "recommendation": {
+                "resume_file": "169.json",
+                "recommendation_file": "Recommendation_From_ID_837.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but no obvious signs of exaggeration or improper language.",
+                    "verified_skills": [
+                        "IT Management",
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but lacks specific technical details and mentions some subjective claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "916",
+            "recommendation": {
+                "resume_file": "169.json",
+                "recommendation_file": "Recommendation_From_ID_916.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's role and credibility.",
+                    "verified_skills": [
+                        "IT Management",
+                        "Leadership",
+                        "Project Management",
+                        "Problem-Solving",
+                        "Virtualization",
+                        "Disaster Recovery"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical expertise and leadership skills, but raises some concerns about the recommender's credibility."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Security & Compliance Manager",
+                "work_description": "Responsible for Enterprise Information Security and Architecture, Risk Management and Compliance, understanding business Information Security & Compliance issues and concerns, determining business and security requirements, designing architecture and applying Security Technologies to mitigate risk and ensure compliance with SolarCity policies and standards.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Information Technology Provisioning Technician",
+                "work_description": "Worked with multiple departments and executive teams to ensure a timely and complete roll-out of product. Served as a technical lead and a tier 2 escalation resource for multiple applications and operating systems.",
+                "company_level": "Mid-level",
+                "start_date": "08/2013",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Information Technology Provisioning Technician",
+                "work_description": "Provided remote and local support to an employee base of over 7000 employees, contractors, and consultants. Resolved complex hardware and software issues, and served as tier 2 and 3 support when needed.",
+                "company_level": "Mid-level",
+                "start_date": "10/2012",
+                "end_date": "08/2013"
+            },
+            {
+                "role_name": "Information Technology Consultant",
+                "work_description": "Utilization of N-Central monitoring and patch management platform to audit and report on customer compliance and software usage statistics to prepare and present recommendations to increase security and productivity of the business.",
+                "company_level": "Mid-level",
+                "start_date": "12/2011",
+                "end_date": "02/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Heald College",
+                "start_date": "01/2009",
+                "end_date": "12/2011",
+                "domain": "Information Technology",
+                "level": "Associate of Arts (AA)"
+            },
+            {
+                "university": "Heald College",
+                "start_date": "01/2011",
+                "end_date": "12/2012",
+                "domain": "Network Security",
+                "level": "Associate of Applied Sciences (AAS)"
+            },
+            {
+                "university": "Business Administration Software Technology",
+                "start_date": "01/2009",
+                "end_date": "12/2011",
+                "domain": "Business Administration",
+                "level": "Associate of Arts and Sciences (AAS)"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Information Security",
+                "level": 5,
+                "explanation": "Has extensive experience in Enterprise Information Security and Architecture, Risk Management and Compliance, and has been responsible for designing architecture and applying Security Technologies to mitigate risk and ensure compliance, indicating expert-level mastery."
+            },
+            {
+                "name": "Risk Management",
+                "level": 4,
+                "explanation": "Has experience in understanding business Information Security & Compliance issues and concerns, determining business and security requirements, and applying Security Technologies to mitigate risk, suggesting strong proficiency."
+            },
+            {
+                "name": "Compliance",
+                "level": 4,
+                "explanation": "Has experience in ensuring compliance with SolarCity policies and standards, and has worked on compliance-related projects, indicating strong proficiency."
+            },
+            {
+                "name": "Network Security",
+                "level": 4,
+                "explanation": "Has education and experience in Network Security, and has worked on projects related to network security, suggesting strong proficiency."
+            },
+            {
+                "name": "Technical Support",
+                "level": 3,
+                "explanation": "Has experience in providing remote and local support to a large employee base, resolving complex hardware and software issues, and serving as tier 2 and 3 support, indicating solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Has experience in working with multiple departments and executive teams to ensure a timely and complete roll-out of product, but the extent of project management experience is limited, suggesting some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has experience in serving as a technical lead and a tier 2 escalation resource, but the extent of leadership experience is limited, suggesting some practical experience."
+            },
+            {
+                "name": "Business Administration",
+                "level": 2,
+                "explanation": "Has education in Business Administration, but there is limited evidence of practical experience in this area, suggesting some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "17.json",
+    "recommendation_file": "Recommendation_From_ID_506.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'aerospace industry' which is not explicitly mentioned in the resume. However, the recommendation is largely credible and well-supported by the resume.",
+        "verified_skills": [
+            "Financial Management",
+            "Auditing",
+            "Accounting",
+            "Budgeting",
+            "Contract Management",
+            "Financial Analysis",
+            "Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and leadership abilities. However, some minor inconsistencies and lack of concrete examples from the resume reduce the relevance score and increase the fraud chance level."
+    }
+}

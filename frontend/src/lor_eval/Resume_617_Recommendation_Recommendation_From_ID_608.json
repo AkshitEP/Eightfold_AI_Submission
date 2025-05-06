@@ -1,0 +1,23 @@
+{
+    "resume_file": "617.json",
+    "recommendation_file": "Recommendation_From_ID_608.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation raise concerns about its authenticity.",
+        "verified_skills": [
+            "Patient Care",
+            "Leadership",
+            "Medical Record Keeping",
+            "Medication Management",
+            "Wound Care",
+            "Communication",
+            "Critical Thinking",
+            "Time Management",
+            "Patient Education",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in patient care, leadership, and medical expertise, but raises some concerns about its authenticity."
+    }
+}

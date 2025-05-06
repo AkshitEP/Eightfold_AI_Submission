@@ -1,0 +1,18 @@
+{
+    "resume_file": "859.json",
+    "recommendation_file": "Recommendation_From_ID_19.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims present, but overall the recommendation seems genuine and well-supported by the resume.",
+        "verified_skills": [
+            "Account Management",
+            "Client Relations",
+            "Sales",
+            "Problem-Solving",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience in banking and financial services, as well as their skills in client relations, sales, and problem-solving. However, there are some minor inconsistencies and exaggerated claims present."
+    }
+}

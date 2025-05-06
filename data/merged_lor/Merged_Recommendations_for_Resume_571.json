@@ -1,0 +1,110 @@
+{
+    "target_id": "571",
+    "recommendations": [
+        {
+            "recommender_id": "935",
+            "recommendation": {
+                "resume_file": "571.json",
+                "recommendation_file": "Recommendation_From_ID_935.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "HR Management",
+                        "Employee Relations",
+                        "Recruitment",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, payroll processing, and employee relations skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "661",
+            "recommendation": {
+                "resume_file": "571.json",
+                "recommendation_file": "Recommendation_From_ID_661.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Payroll Management",
+                        "Employee Relations",
+                        "Recruitment",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and payroll processing abilities. The recommender's experience working with the candidate in an HR capacity lends credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "532",
+            "recommendation": {
+                "resume_file": "571.json",
+                "recommendation_file": "Recommendation_From_ID_532.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Employee Relations",
+                        "Payroll Management",
+                        "Recruitment",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR-related tasks, employee relations, and payroll management. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "823",
+            "recommendation": {
+                "resume_file": "571.json",
+                "recommendation_file": "Recommendation_From_ID_823.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "HR Management",
+                        "Employee Relations",
+                        "Recruitment",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR-related tasks, payroll processing, and recruitment strategies. The source of the recommendation is a peer, an Information Technology Specialist, who has worked with the candidate and can attest to their skills and abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "272",
+            "recommendation": {
+                "resume_file": "571.json",
+                "recommendation_file": "Recommendation_From_ID_272.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "HR Management",
+                        "Employee Relations",
+                        "Recruitment",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Peer/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, payroll processing, and employee relations skills. The source of the recommendation is an HR Business Partner II, indicating a peer or supervisory relationship."
+                }
+            }
+        }
+    ]
+}

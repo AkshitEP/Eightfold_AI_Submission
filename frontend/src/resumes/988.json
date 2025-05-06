@@ -1,0 +1,127 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "IT Director",
+                "work_description": "Formulate and deploy long-term strategic plans for acquiring and enabling efficient and cost effective information processing and communication technologies. Manage IT department operational and strategic planning, including business requirements, project planning, and organizing and negotiating the allocation of resources.",
+                "company_level": "Mid-level",
+                "start_date": "08/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Business Application Specialist",
+                "work_description": "Support major components of distributed business applications: Pivotal CRM, Sage MAS100/200, MoveTrack, EMC, Crystal Reporting, Scribe, Salesforce PaaS.",
+                "company_level": "Mid-level",
+                "start_date": "08/2013",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Completive experience of VMware vSphere environment: Install, Configure, Manage. Provide expertise and support for Citrix Infrastructure, XenApp, Access Gateway and NetScaler.",
+                "company_level": "Mid-level",
+                "start_date": "02/2011",
+                "end_date": "08/2013"
+            },
+            {
+                "role_name": "Information Technology Specialist I",
+                "work_description": "Experience in imaging machines using Norton Ghost, Macrium Reflect, Acronis, FOG, Clonezilla. Hands-on resolution at the desktop level, including installing, configuring and upgrading software, systems and applications.",
+                "company_level": "Mid-level",
+                "start_date": "10/2010",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Network Assistant",
+                "work_description": "Assess network performance. Set up and observe network system recommends, upgrades, or improvements. Support development of technical standards and application uses.",
+                "company_level": "Mid-level",
+                "start_date": "02/2010",
+                "end_date": "07/2010"
+            },
+            {
+                "role_name": "General Manager",
+                "work_description": "Trained and coordinated 25 office personnel. Provided supervision; supported and motivated employees. Organized maintenance features, inventory control and ordered necessary materials.",
+                "company_level": "Mid-level",
+                "start_date": "07/2004",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Hennepin Technical College",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Network Administration",
+                "level": "Associate of Applied Science"
+            },
+            {
+                "university": "Buchach University of Business and Management",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Business Management",
+                "level": "Certificate"
+            },
+            {
+                "university": "Zaporizhzhya Pedagogical College",
+                "start_date": "01/1999",
+                "end_date": "12/1999",
+                "domain": "Elementary Teacher",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "IT Project Management",
+                "level": 4,
+                "explanation": "Has extensive experience in managing IT department operational and strategic planning, including business requirements, project planning, and resource allocation."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Formulated and deployed long-term strategic plans for acquiring and enabling efficient and cost-effective information processing and communication technologies."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Trained and coordinated 25 office personnel, provided supervision, supported and motivated employees, and organized maintenance features."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Has experience in assessing network performance, setting up and observing network system recommendations, upgrades, or improvements, and supporting development of technical standards and application uses."
+            },
+            {
+                "name": "VMware vSphere",
+                "level": 4,
+                "explanation": "Has comprehensive experience in VMware vSphere environment, including installation, configuration, and management."
+            },
+            {
+                "name": "Citrix Infrastructure",
+                "level": 4,
+                "explanation": "Provided expertise and support for Citrix Infrastructure, XenApp, Access Gateway, and NetScaler."
+            },
+            {
+                "name": "Cloud Computing",
+                "level": 3,
+                "explanation": "Has experience in supporting major components of distributed business applications, including Salesforce PaaS."
+            },
+            {
+                "name": "Business Application Support",
+                "level": 3,
+                "explanation": "Supported major components of distributed business applications, including Pivotal CRM, Sage MAS100/200, MoveTrack, EMC, Crystal Reporting, and Scribe."
+            },
+            {
+                "name": "Desktop Support",
+                "level": 3,
+                "explanation": "Provided hands-on resolution at the desktop level, including installing, configuring, and upgrading software, systems, and applications."
+            },
+            {
+                "name": "Imaging and Deployment",
+                "level": 3,
+                "explanation": "Has experience in imaging machines using Norton Ghost, Macrium Reflect, Acronis, FOG, and Clonezilla."
+            }
+        ]
+    }
+}

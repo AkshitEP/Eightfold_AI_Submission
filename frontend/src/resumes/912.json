@@ -1,0 +1,115 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Night Warehouse Selector",
+                "work_description": "Selects customer orders from pick slots using pick lists of assorted items to build orders according to driver stops at customer locations. Delivers merchandise to correct dock area, stacks items on pallets according to driver stops at customer locations for next day delivery and shrink wraps palletized orders.",
+                "company_level": "Mid-level",
+                "start_date": "12/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Personal Fitness Trainer",
+                "work_description": "Carefully evaluated member needs and assisted them in achieving personal fitness goals. Possessing the knowledge, skills and abilities for safe and effective exercise and fitness program design, instruction and assistance for the purpose of reaching personal health and fitness goals.",
+                "company_level": "Small",
+                "start_date": "01/2016",
+                "end_date": "12/2016"
+            },
+            {
+                "role_name": "Assistant Manager",
+                "work_description": "Assists Store Manager in all aspects of daily shift management, including customer relations, inventory control, procedural tasks and paperwork, as well as visual merchandising.",
+                "company_level": "Mid-level",
+                "start_date": "07/2014",
+                "end_date": "05/2015"
+            },
+            {
+                "role_name": "Process Technician - Welder",
+                "work_description": "Performs a variety of welding and grinding procedures on a variety materials and parts using manual and semi-automatic machines.",
+                "company_level": "Mid-level",
+                "start_date": "04/2015",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Ladies Fitness",
+                "work_description": "Taught clients how to modify exercises appropriately to avoid injury. Arrived on time, prepared and attentive for every training appointment.",
+                "company_level": "Small",
+                "start_date": "01/2014",
+                "end_date": "12/2015"
+            },
+            {
+                "role_name": "Personal Training Director",
+                "work_description": "Skills Coaching, oral communication, Excellent communication, credit, client, clients, customer relations, delivery, focus, instruction, Maintains inventory, inventory, inventory control, Logistics, loss prevention, materials, Monitors, next, organizational skills, pallet jack, pick, POS, program design, recording, repairs, safety, Sales, Store Manager, supervision, visual merchandising, weld, welding",
+                "company_level": "Small",
+                "start_date": "02/2013",
+                "end_date": "12/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Hale High School",
+                "start_date": "01/2007",
+                "end_date": "12/2010",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Murray State College",
+                "start_date": "01/2010",
+                "end_date": "12/2012",
+                "domain": "General Education",
+                "level": "2 Years Completed"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Has experience with inventory control and management in various roles, including Assistant Manager and Process Technician - Welder, showing a solid working proficiency."
+            },
+            {
+                "name": "Customer Relations",
+                "level": 3,
+                "explanation": "Has experience with customer relations in various roles, including Assistant Manager and Personal Fitness Trainer, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience with leadership in various roles, including Assistant Manager and Personal Training Director, showing a solid working proficiency."
+            },
+            {
+                "name": "Welding",
+                "level": 2,
+                "explanation": "Has experience with welding procedures in the role of Process Technician - Welder, but the duration is limited, suggesting some practical experience."
+            },
+            {
+                "name": "Fitness Training",
+                "level": 3,
+                "explanation": "Has experience with fitness training in various roles, including Personal Fitness Trainer and Ladies Fitness, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience with managing time effectively in various roles, including Assistant Manager and Personal Fitness Trainer, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience with effective communication in various roles, including Assistant Manager and Personal Fitness Trainer, showing a solid working proficiency."
+            },
+            {
+                "name": "Logistics",
+                "level": 2,
+                "explanation": "Has experience with logistics in the role of Night Warehouse Selector, but the duration is limited, suggesting some practical experience."
+            },
+            {
+                "name": "Visual Merchandising",
+                "level": 2,
+                "explanation": "Has experience with visual merchandising in the role of Assistant Manager, but the duration is limited, suggesting some practical experience."
+            }
+        ]
+    }
+}

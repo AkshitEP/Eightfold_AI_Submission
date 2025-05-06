@@ -1,0 +1,18 @@
+{
+    "resume_file": "880.json",
+    "recommendation_file": "Recommendation_From_ID_82.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the specific dollar amount ($300,000) and the mention of a specific ERP system (Navision) might be slightly exaggerated or not entirely accurate. However, the language is formal, and the recommendation aligns well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Vendor Management",
+            "Business Systems",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical expertise, problem-solving skills, and ability to communicate effectively with both technical teams and end users. It also mentions their experience in managing projects, enhancing business processes, and leading teams, which aligns well with the candidate's skills and experience."
+    }
+}

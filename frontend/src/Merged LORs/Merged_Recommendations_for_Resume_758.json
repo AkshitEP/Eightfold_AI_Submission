@@ -1,0 +1,50 @@
+{
+    "target_id": "758",
+    "recommendations": [
+        {
+            "recommender_id": "600",
+            "recommendation": {
+                "resume_file": "758.json",
+                "recommendation_file": "Recommendation_From_ID_600.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Control",
+                        "Cost Analysis",
+                        "Customer Service",
+                        "Supply Chain Management",
+                        "Financial Analysis",
+                        "Project Management",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in finance, supply chain processes, and customer relations. The source of the recommendation is a Finance Director, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "158",
+            "recommendation": {
+                "resume_file": "758.json",
+                "recommendation_file": "Recommendation_From_ID_158.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's claim of working in the utility sector, which is not mentioned in the candidate's resume. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Inventory Control",
+                        "Customer Service",
+                        "Supply Chain Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in customer relationships, analytical capabilities, and communication skills, which align with their experience in fulfillment and customer service roles. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        }
+    ]
+}

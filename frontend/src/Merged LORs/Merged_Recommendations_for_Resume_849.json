@@ -1,0 +1,30 @@
+{
+    "target_id": "849",
+    "recommendations": [
+        {
+            "recommender_id": "536",
+            "recommendation": {
+                "resume_file": "849.json",
+                "recommendation_file": "Recommendation_From_ID_536.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "Training and Development",
+                        "Labor Relations",
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Time Management",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and highlighting their unique approach to HR management."
+                }
+            }
+        }
+    ]
+}

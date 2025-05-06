@@ -1,0 +1,20 @@
+{
+    "resume_file": "843.json",
+    "recommendation_file": "Recommendation_From_ID_669.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with the second part being relevant to the resume. However, the first part is unrelated to the resume, and the language used is overly formal and generic, raising concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Program Development",
+            "Leadership",
+            "Mentorship",
+            "Teaching",
+            "Community Support",
+            "Project Evaluation",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a generic template with two separate descriptions. The second part aligns with the candidate's skills and experience, but the first part is unrelated and raises concerns about the authenticity of the recommendation."
+    }
+}

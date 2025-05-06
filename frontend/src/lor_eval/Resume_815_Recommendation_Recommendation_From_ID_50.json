@@ -1,0 +1,19 @@
+{
+    "resume_file": "815.json",
+    "recommendation_file": "Recommendation_From_ID_50.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving",
+            "Patient Care",
+            "Staff Management",
+            "Quality Assurance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and patient care abilities. The recommendation highlights the candidate's ability to drive quality assurance initiatives, manage office staff, and foster a patient-centered environment."
+    }
+}

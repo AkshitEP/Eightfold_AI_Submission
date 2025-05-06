@@ -1,0 +1,19 @@
+{
+    "resume_file": "235.json",
+    "recommendation_file": "Recommendation_From_ID_654.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly positive tone, but no obvious signs of fraud.",
+        "verified_skills": [
+            "Payroll Management",
+            "Benefits Administration",
+            "Recruitment and Hiring",
+            "Employee Relations",
+            "Leadership and Management",
+            "Communication and Interpersonal Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but mentions an irrelevant role (Executive Assistant). The tone is overly positive, which may indicate some exaggeration."
+    }
+}

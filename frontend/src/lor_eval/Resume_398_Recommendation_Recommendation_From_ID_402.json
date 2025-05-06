@@ -1,0 +1,21 @@
+{
+    "resume_file": "398.json",
+    "recommendation_file": "Recommendation_From_ID_402.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Inventory Management",
+            "Leadership",
+            "Supply Chain Management",
+            "Logistics",
+            "Quality Control",
+            "Safety Management",
+            "Equipment Operation",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, inventory management, and supply chain logistics expertise. The recommender's experience as a maintenance mechanic and their ability to speak to the candidate's skills in a dynamic environment adds credibility to the recommendation."
+    }
+}

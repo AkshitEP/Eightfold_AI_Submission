@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Desktop Support Engineer",
+                "work_description": "Develop, manage and maintain North Highland PC images, building, testing, manage inventory, PCs platform specifications through the utilization of System Center Configuration Manager 2012 R2 (SCCM 2012). Critical and Required Software and patch management for Windows 7 and some Windows Server 2008 utilizing SCCM2012 R2.",
+                "company_level": "Mid-level",
+                "start_date": "08/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Information Technology Technician",
+                "work_description": "Disassembled, troubleshot, and repaired the following PC hardware: Motherboards, processor, hard drive, floppy drive, CD drive, power supply, IDE Cables, SATA Cables, fans, NICs, Video cards, sound cards, memory, keyboards, mouse, monitors, speakers. Upgraded more than 100 computers with new Operating Systems (Windows 7).",
+                "company_level": "Unknown",
+                "start_date": "01/2011",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Aviation Ordinance Supervisor",
+                "work_description": "Supervised over 130 Navy personnel in the buildup, storage, and movement of Navy ammunitions Inspected, maintained and repaired aircraft mechanical and electrical armament/ordnance systems Supervised operation of aviation ordnance shops, armories and stowage facilities Managed accounting systems, rework of airborne weapons/systems/equipment, and conventional weapons qualification/certification programs, afloat and ashore.",
+                "company_level": "Unknown",
+                "start_date": "01/1997",
+                "end_date": "01/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "ECPI University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Network Security",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "System Administration",
+                "level": 4,
+                "explanation": "Has extensive experience managing PC images, building, testing, and managing inventory using System Center Configuration Manager 2012 R2 (SCCM 2012), showing strong proficiency."
+            },
+            {
+                "name": "Software Management",
+                "level": 4,
+                "explanation": "Handled critical and required software and patch management for Windows 7 and some Windows Server 2008 utilizing SCCM2012 R2, indicating strong proficiency."
+            },
+            {
+                "name": "Hardware Troubleshooting",
+                "level": 4,
+                "explanation": "Troubleshot and repaired various PC hardware components, including motherboards, processors, hard drives, and more, showing strong proficiency."
+            },
+            {
+                "name": "Operating System Installation",
+                "level": 4,
+                "explanation": "Upgraded over 100 computers with new Operating Systems (Windows 7), indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised over 130 Navy personnel and managed various operations, including accounting systems, rework of airborne weapons/systems/equipment, and conventional weapons qualification/certification programs, showing strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed various projects, including the buildup, storage, and movement of Navy ammunitions, and the operation of aviation ordnance shops, armories, and stowage facilities, showing solid working proficiency."
+            },
+            {
+                "name": "Network Security",
+                "level": 2,
+                "explanation": "Has a degree in Network Security, but there is no direct evidence of practical experience in this field, indicating some familiarity."
+            }
+        ]
+    }
+}

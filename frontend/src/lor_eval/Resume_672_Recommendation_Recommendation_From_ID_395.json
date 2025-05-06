@@ -1,0 +1,16 @@
+{
+    "resume_file": "672.json",
+    "recommendation_file": "Recommendation_From_ID_395.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Project Management",
+            "Communication",
+            "Research"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns somewhat with the candidate's skills and experience, but there are some minor inconsistencies."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "325.json",
+    "recommendation_file": "Recommendation_From_ID_104.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as a Bilingual Domestic Violence Advocate seems unrelated to the candidate's experience in the fitness community. However, the skills mentioned align well with the candidate's resume.",
+        "verified_skills": [
+            "Event Management",
+            "Leadership",
+            "Teamwork",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's organizational abilities, problem-solving skills, and experience in coordinating large community events. However, the recommender's background seems unrelated to the candidate's experience, which raises some concerns about the authenticity of the recommendation."
+    }
+}

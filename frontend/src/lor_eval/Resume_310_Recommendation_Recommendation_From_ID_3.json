@@ -1,0 +1,18 @@
+{
+    "resume_file": "310.json",
+    "recommendation_file": "Recommendation_From_ID_3.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Payroll Management",
+            "Leadership",
+            "Accounting Software"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and management expertise. The recommender highlights the candidate's exceptional soft skills, strategic mindset, and ability to interface with professionals at all levels."
+    }
+}

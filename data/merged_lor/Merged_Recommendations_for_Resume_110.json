@@ -1,0 +1,39 @@
+{
+    "target_id": "110",
+    "recommendations": [
+        {
+            "recommender_id": "21",
+            "recommendation": {
+                "resume_file": "110.json",
+                "recommendation_file": "Recommendation_From_ID_21.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation mentions HR and recruitment skills, which are not present in the candidate's resume. The language used is overly positive and lacks specific examples from the candidate's work experience.",
+                    "verified_skills": [],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation seems to be for a different person, as it mentions HR and recruitment skills that are not present in the candidate's resume. The language used is overly positive and lacks specific examples from the candidate's work experience, raising concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "503",
+            "recommendation": {
+                "resume_file": "110.json",
+                "recommendation_file": "Recommendation_From_ID_503.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions skills and experiences not directly related to the candidate's resume, such as employee recruitment, onboarding, and engagement. The language is formal, but some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "IT Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some skills and experiences from the candidate's resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to focus more on the candidate's HR skills, which are not explicitly mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Hired by their CPA firm to handle all accounting and job cost Reporting.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Hired by their CPA firm to handle all accounting functions.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2009"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Installed new Peachtree Accounting System. Installed new computer system using a local area network and Added a Web site.",
+                "company_level": "Mid-level",
+                "start_date": "01/1997",
+                "end_date": "01/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Cincinnati",
+                "start_date": "01/1974",
+                "end_date": "12/1974",
+                "domain": "Business Administration Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Annapolis Amblers Walking Club",
+            "Maryland Volkssport Assn",
+            "Chesapeake Civil War Roundtable"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Over 25 years of experience handling all aspects of accounting, including job cost reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Handled job cost reporting and other accounting functions for multiple CPA firms, suggesting strong proficiency."
+            },
+            {
+                "name": "System Implementation",
+                "level": 3,
+                "explanation": "Installed new accounting systems and computer networks, showing a solid working proficiency in system implementation."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Handled multiple projects, including the installation of a new accounting system and a computer network, but the extent of project management experience is unclear."
+            },
+            {
+                "name": "Leadership",
+                "level": 0,
+                "explanation": "No direct evidence of leadership experience, despite extensive accounting experience."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No direct evidence of Microsoft Excel experience, despite extensive accounting experience."
+            }
+        ]
+    }
+}

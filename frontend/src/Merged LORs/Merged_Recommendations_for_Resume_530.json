@@ -1,0 +1,83 @@
+{
+    "target_id": "530",
+    "recommendations": [
+        {
+            "recommender_id": "99",
+            "recommendation": {
+                "resume_file": "530.json",
+                "recommendation_file": "Recommendation_From_ID_99.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Account Reconciliation",
+                        "Cash Management",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Microsoft Excel",
+                        "Leadership",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the finance department and their proficiency in various areas."
+                }
+            }
+        },
+        {
+            "recommender_id": "156",
+            "recommendation": {
+                "resume_file": "530.json",
+                "recommendation_file": "Recommendation_From_ID_156.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Account Reconciliation",
+                        "Cash Management",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Microsoft Excel",
+                        "Leadership",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, organizational skills, and attention to detail. The recommender's position as a Finance Director adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "333",
+            "recommendation": {
+                "resume_file": "530.json",
+                "recommendation_file": "Recommendation_From_ID_333.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's expertise in financial software, but the resume does not explicitly mention QuickBooks. Additionally, the recommendation mentions the candidate's experience managing diverse accounting responsibilities for over 20 years, but the resume only shows experience from 2015.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Account Reconciliation",
+                        "Cash Management",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Microsoft Excel",
+                        "Leadership",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical skills and leadership abilities. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        }
+    ]
+}

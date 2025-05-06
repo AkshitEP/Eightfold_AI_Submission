@@ -1,0 +1,85 @@
+{
+    "target_id": "253",
+    "recommendations": [
+        {
+            "recommender_id": "863",
+            "recommendation": {
+                "resume_file": "253.json",
+                "recommendation_file": "Recommendation_From_ID_863.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Six Sigma",
+                        "Aviation Maintenance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and technical expertise in the aviation industry."
+                }
+            }
+        },
+        {
+            "recommender_id": "831",
+            "recommendation": {
+                "resume_file": "253.json",
+                "recommendation_file": "Recommendation_From_ID_831.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Six Sigma",
+                        "Lean",
+                        "Aviation Maintenance",
+                        "Team Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, technical expertise, and problem-solving abilities. The source of the recommendation is a Supervisory Logistics Management Specialist, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "616",
+            "recommendation": {
+                "resume_file": "253.json",
+                "recommendation_file": "Recommendation_From_ID_616.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication",
+                        "Time Management",
+                        "Six Sigma",
+                        "Lean"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and analytical abilities. However, it does not directly reference some of the candidate's other skills, such as Project Management, Team Management, and Aviation Maintenance."
+                }
+            }
+        },
+        {
+            "recommender_id": "95",
+            "recommendation": {
+                "resume_file": "253.json",
+                "recommendation_file": "Recommendation_From_ID_95.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unclear relationship between recommender and candidate.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the candidate's resume, but it does not specifically verify any of their skills. The recommender's relationship to the candidate is unclear, and the tone of the recommendation is somewhat generic."
+                }
+            }
+        }
+    ]
+}

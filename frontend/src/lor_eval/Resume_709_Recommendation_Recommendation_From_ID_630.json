@@ -1,0 +1,12 @@
+{
+    "resume_file": "709.json",
+    "recommendation_file": "Recommendation_From_ID_630.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is not relevant to the candidate's skills and experience. The recommendation is for an aviation technician, not the candidate. Statistically improbable claims and informal language are not present, but the recommendation is completely unrelated to the candidate's background.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experience. It appears to be a recommendation for a different individual. The candidate's skills and experience in healthcare administration, quality improvement, and leadership are not mentioned in the recommendation."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "197.json",
+    "recommendation_file": "Recommendation_From_ID_605.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Business Development",
+            "Change Management",
+            "Strategic Planning",
+            "Real Estate",
+            "Commercial Lending",
+            "Deposit Services"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, business development, and strategic planning abilities. However, the source of the recommendation is unclear."
+    }
+}

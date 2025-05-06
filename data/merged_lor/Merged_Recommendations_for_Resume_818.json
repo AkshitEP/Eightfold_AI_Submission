@@ -1,0 +1,110 @@
+{
+    "target_id": "818",
+    "recommendations": [
+        {
+            "recommender_id": "405",
+            "recommendation": {
+                "resume_file": "818.json",
+                "recommendation_file": "Recommendation_From_ID_405.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Planning",
+                        "Mortgage Banking",
+                        "Client Relationship Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, business acumen, and commitment to client satisfaction."
+                }
+            }
+        },
+        {
+            "recommender_id": "442",
+            "recommendation": {
+                "resume_file": "818.json",
+                "recommendation_file": "Recommendation_From_ID_442.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Planning",
+                        "Mortgage Banking",
+                        "Client Relationship Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial planning, and client relationship management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "948",
+            "recommendation": {
+                "resume_file": "818.json",
+                "recommendation_file": "Recommendation_From_ID_948.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Planning",
+                        "Mortgage Banking",
+                        "Client Relationship Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business growth, client relations, and leadership abilities. However, the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "553",
+            "recommendation": {
+                "resume_file": "818.json",
+                "recommendation_file": "Recommendation_From_ID_553.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Client Relationship Management",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in the banking sector, but does not specifically mention some of the key skills and experiences mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "466",
+            "recommendation": {
+                "resume_file": "818.json",
+                "recommendation_file": "Recommendation_From_ID_466.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Planning",
+                        "Mortgage Banking",
+                        "Investment Management",
+                        "Client Relationship Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial planning, and mortgage banking expertise. The source of the recommendation is a Project Analyst, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

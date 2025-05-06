@@ -1,0 +1,25 @@
+{
+    "target_id": "442",
+    "recommendations": [
+        {
+            "recommender_id": "544",
+            "recommendation": {
+                "resume_file": "442.json",
+                "recommendation_file": "Recommendation_From_ID_544.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Customer Service",
+                        "Treasury Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operations management, and customer service skills. However, it does not directly reference the candidate's experience in Risk Management, Financial Analysis, or Project Management."
+                }
+            }
+        }
+    ]
+}

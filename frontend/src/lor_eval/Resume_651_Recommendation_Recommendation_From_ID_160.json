@@ -1,0 +1,17 @@
+{
+    "resume_file": "651.json",
+    "recommendation_file": "Recommendation_From_ID_160.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions leadership capabilities, but the resume does not provide clear evidence of leadership experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Account Management",
+            "Sales and Marketing",
+            "Banking Operations"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in banking, providing specific examples of their client relationship management and operational support. However, the recommendation exaggerates the candidate's leadership capabilities, which are not clearly supported by the resume."
+    }
+}

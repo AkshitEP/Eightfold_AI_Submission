@@ -1,0 +1,18 @@
+{
+    "resume_file": "393.json",
+    "recommendation_file": "Recommendation_From_ID_642.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of a 95% proficiency rate in goal attainment, which seems like an exaggerated claim. However, the language is formal and the recommendation is well-supported by the resume.",
+        "verified_skills": [
+            "Project Management",
+            "Communication",
+            "Marketing",
+            "Leadership",
+            "Team Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and communication abilities. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

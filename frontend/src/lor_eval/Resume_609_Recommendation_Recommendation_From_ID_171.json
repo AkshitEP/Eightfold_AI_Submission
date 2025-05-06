@@ -1,0 +1,17 @@
+{
+    "resume_file": "609.json",
+    "recommendation_file": "Recommendation_From_ID_171.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's experience as a Warehouse Lead may not be directly relevant to the candidate's technical skills. However, the recommender highlights the candidate's communication and problem-solving skills, which are relevant to their experience.",
+        "verified_skills": [
+            "Technical Support",
+            "Problem Solving",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation emphasizes the candidate's soft skills, such as communication, problem-solving, and leadership, which are relevant to their experience. However, the recommender's background in warehouse management may not be directly relevant to the candidate's technical skills."
+    }
+}

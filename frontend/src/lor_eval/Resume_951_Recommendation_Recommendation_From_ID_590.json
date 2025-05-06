@@ -1,0 +1,24 @@
+{
+    "resume_id": 951,
+    "recommendation_file": "Recommendation_From_ID_590.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "IT Infrastructure Management",
+            "Network Administration",
+            "Database Administration",
+            "Cloud Computing",
+            "Cybersecurity",
+            "Microsoft Windows",
+            "Microsoft Office",
+            "VMware",
+            "SQL"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management and project tracking abilities. The source of the recommendation is an Information Technology Consultant, indicating a peer-level relationship."
+    }
+}

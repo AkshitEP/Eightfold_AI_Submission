@@ -1,0 +1,92 @@
+{
+    "target_id": "130",
+    "recommendations": [
+        {
+            "recommender_id": "83",
+            "recommendation": {
+                "resume_file": "130.json",
+                "recommendation_file": "Recommendation_From_ID_83.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions a different role (Medical Record Technician) that is not present in the resume. However, the second part of the recommendation aligns well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Sales Performance",
+                        "Customer Relationship Management",
+                        "Presentation Skills",
+                        "Leadership",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is divided into two parts, one of which does not align with the candidate's resume. However, the second part provides specific examples of the candidate's skills and experience in pharmaceutical sales, making it a strong recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "967",
+            "recommendation": {
+                "resume_file": "130.json",
+                "recommendation_file": "Recommendation_From_ID_967.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Performance",
+                        "Customer Relationship Management",
+                        "Presentation Skills",
+                        "Industry Knowledge",
+                        "Leadership",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales expertise, leadership, and collaboration in the healthcare field."
+                }
+            }
+        },
+        {
+            "recommender_id": "987",
+            "recommendation": {
+                "resume_file": "130.json",
+                "recommendation_file": "Recommendation_From_ID_987.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Performance",
+                        "Customer Relationship Management",
+                        "Presentation Skills",
+                        "Industry Knowledge",
+                        "Leadership",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales acumen, presentation skills, and leadership abilities. The recommender's role as a Director in Clinical Research Operations adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "251",
+            "recommendation": {
+                "resume_file": "130.json",
+                "recommendation_file": "Recommendation_From_ID_251.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Performance",
+                        "Customer Relationship Management",
+                        "Presentation Skills",
+                        "Industry Knowledge",
+                        "Leadership",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical knowledge, interpersonal skills, and achievements in the pharmaceutical sales role."
+                }
+            }
+        }
+    ]
+}

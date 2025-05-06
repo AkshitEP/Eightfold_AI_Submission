@@ -1,0 +1,20 @@
+{
+    "resume_file": "224.json",
+    "recommendation_file": "Recommendation_From_ID_115.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's teaching experience. The language is formal, but some claims seem slightly exaggerated.",
+        "verified_skills": [
+            "Teaching",
+            "Language Arts",
+            "Classroom Management",
+            "Leadership",
+            "Communication",
+            "Assessment and Evaluation",
+            "Diversity and Inclusion"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's teaching skills, patience, creativity, and organizational abilities. However, the source is not directly related to the candidate's teaching experience, and some claims seem slightly exaggerated. The recommendation still provides valuable insights into the candidate's skills and qualities."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_id": 81,
+    "recommendation_file": "Recommendation_From_ID_402.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's claim to have worked with the candidate as a Maintenance Mechanic is not supported by the resume. Additionally, the recommender's tone is overly positive, which may indicate some exaggeration.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "IT Infrastructure Management",
+            "Customer Support"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies. The recommender provides specific examples of the candidate's skills and experiences, which suggests that it is not entirely fraudulent."
+    }
+}

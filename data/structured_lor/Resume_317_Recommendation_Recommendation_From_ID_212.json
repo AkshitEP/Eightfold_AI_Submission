@@ -1,0 +1,14 @@
+{
+    "resume_file": "317.json",
+    "recommendation_file": "Recommendation_From_ID_212.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but overall it seems credible.",
+        "verified_skills": [
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership skills and ability to foster a collaborative environment, but does not specifically mention their accounting or financial management skills."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "249.json",
+    "recommendation_file": "Recommendation_From_ID_774.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and recommendation is well-supported by the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Time Management",
+            "Teamwork",
+            "Problem-Solving",
+            "Healthcare"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, communication, and problem-solving abilities. The source of the recommendation is an Administrative Assistant who has worked closely with the candidate, indicating a peer-level recommendation."
+    }
+}

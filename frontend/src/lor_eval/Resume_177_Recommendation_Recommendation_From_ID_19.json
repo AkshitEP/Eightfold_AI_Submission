@@ -1,0 +1,19 @@
+{
+    "resume_file": "177.json",
+    "recommendation_file": "Recommendation_From_ID_19.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Banking Operations",
+            "Financial Analysis",
+            "Accounting",
+            "Sales and Marketing",
+            "Bank Reconciliation",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking operations, financial analysis, and client relationship management skills."
+    }
+}

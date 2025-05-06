@@ -1,0 +1,19 @@
+{
+    "resume_file": "659.json",
+    "recommendation_file": "Recommendation_From_ID_47.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Management",
+            "Training and Development",
+            "Communication",
+            "Time Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and member engagement abilities. However, the source of the recommendation is unclear, and the recommender's background as an accountant may not be directly relevant to the candidate's role."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "287.json",
+    "recommendation_file": "Recommendation_From_ID_687.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Community Development",
+            "Teaching"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and community development initiatives. The Assistant Principal's endorsement highlights the candidate's commitment to arts education and community engagement."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "target_id": "461",
+    "recommendations": [
+        {
+            "recommender_id": "870",
+            "recommendation": {
+                "resume_file": "461.json",
+                "recommendation_file": "Recommendation_From_ID_870.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Recruitment"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and recruitment abilities."
+                }
+            }
+        }
+    ]
+}

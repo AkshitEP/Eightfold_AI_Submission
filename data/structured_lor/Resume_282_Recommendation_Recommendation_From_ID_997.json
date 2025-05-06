@@ -1,0 +1,19 @@
+{
+    "resume_file": "282.json",
+    "recommendation_file": "Recommendation_From_ID_997.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Accounts Payable/Accounts Receivable",
+            "Financial Analysis",
+            "Microsoft Excel",
+            "Dynamics AX"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and technical acumen. However, the source of the recommendation is not directly related to the candidate's accounting experience, but rather from an IT professional who has worked with the candidate."
+    }
+}

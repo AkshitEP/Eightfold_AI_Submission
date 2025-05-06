@@ -1,0 +1,85 @@
+{
+    "target_id": "558",
+    "recommendations": [
+        {
+            "recommender_id": "566",
+            "recommendation": {
+                "resume_file": "558.json",
+                "recommendation_file": "Recommendation_From_ID_566.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities, operational management, and communication skills. The source of the recommendation is an HR Specialist, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "711",
+            "recommendation": {
+                "resume_file": "558.json",
+                "recommendation_file": "Recommendation_From_ID_711.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and their experience in a corrosion control facility may not be directly relevant to the candidate's role as Passenger Service Concourse Manager.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operations Management",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills, operational efficiency, and commitment to customer satisfaction, which aligns with their experience as Passenger Service Concourse Manager. However, the recommender's background in a corrosion control facility may not be directly relevant to the candidate's role."
+                }
+            }
+        },
+        {
+            "recommender_id": "95",
+            "recommendation": {
+                "resume_file": "558.json",
+                "recommendation_file": "Recommendation_From_ID_95.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including unclear relationship between the recommender and candidate, and lack of specific validation of skills.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown (likely supervisor or manager)",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks specific validation of skills and has some minor inconsistencies."
+                }
+            }
+        },
+        {
+            "recommender_id": "35",
+            "recommendation": {
+                "resume_file": "558.json",
+                "recommendation_file": "Recommendation_From_ID_35.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be exaggerated and not entirely aligned with the candidate's skills and experience. The mention of 'Personnel Security Specialist' and 'Department of Defense regulations' seems out of place given the candidate's background in aviation and customer service.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Safety Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and operational skills, but seems to overstate their experience in security and compliance. The language used is formal, but the claims made seem unrealistic given the candidate's background."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "19.json",
+    "recommendation_file": "Recommendation_From_ID_278.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the writer's relationship with the candidate is unclear, and some claims seem exaggerated (e.g., 'remarkable ability to drive financial analysis' and 'significantly contributing to a $1.2 billion sell-side deal').",
+        "verified_skills": [
+            "Financial Analysis",
+            "Leadership",
+            "Financial Planning",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's analytical skills, client relationship skills, and technical prowess, which align with their experience as a Banking Officer. However, the writer's relationship with the candidate is unclear, and some claims seem exaggerated."
+    }
+}

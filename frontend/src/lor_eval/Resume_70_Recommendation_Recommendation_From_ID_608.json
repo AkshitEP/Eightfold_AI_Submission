@@ -1,0 +1,17 @@
+{
+    "resume_id": 70,
+    "recommendation_file": "Recommendation_From_ID_608.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a Home Healthcare Technician seems unrelated to the candidate's experience and skills. However, the recommender's experience in patient care and interaction with nurses and families provides some credibility.",
+        "verified_skills": [
+            "Nursing",
+            "Patient Education",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in nursing, patient education, and communication, which aligns with their skills and experience. However, the recommender's profession and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

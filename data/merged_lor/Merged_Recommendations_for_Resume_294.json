@@ -1,0 +1,40 @@
+{
+    "target_id": "294",
+    "recommendations": [
+        {
+            "recommender_id": "737",
+            "recommendation": {
+                "resume_file": "294.json",
+                "recommendation_file": "Recommendation_From_ID_737.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Bookkeeping",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and customer-facing abilities. However, it does not directly reference some of the candidate's other skills, such as IT & Telecoms Troubleshooting or Leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "595",
+            "recommendation": {
+                "resume_file": "294.json",
+                "recommendation_file": "Recommendation_From_ID_595.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation makes claims that are not supported by the resume, and the language used is overly positive.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is barely relevant to the resume, and the claims made are not supported by the resume. The language used is overly positive, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

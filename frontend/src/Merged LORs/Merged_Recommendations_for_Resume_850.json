@@ -1,0 +1,116 @@
+{
+    "target_id": "850",
+    "recommendations": [
+        {
+            "recommender_id": "46",
+            "recommendation": {
+                "resume_file": "850.json",
+                "recommendation_file": "Recommendation_From_ID_46.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of QuickBooks, which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Planning",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies that may indicate a moderate level of exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "676",
+            "recommendation": {
+                "resume_file": "850.json",
+                "recommendation_file": "Recommendation_From_ID_676.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, analytical skills, and proficiency in Microsoft Excel."
+                }
+            }
+        },
+        {
+            "recommender_id": "75",
+            "recommendation": {
+                "resume_file": "850.json",
+                "recommendation_file": "Recommendation_From_ID_75.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Planning",
+                        "Tax Preparation",
+                        "Payroll Management",
+                        "Auditing",
+                        "Financial Modeling",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and financial expertise. However, the recommendation does not explicitly mention the candidate's experience in leadership or their work in specific industries."
+                }
+            }
+        },
+        {
+            "recommender_id": "282",
+            "recommendation": {
+                "resume_file": "850.json",
+                "recommendation_file": "Recommendation_From_ID_282.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Planning",
+                        "Tax Preparation",
+                        "Payroll Management",
+                        "Auditing",
+                        "Financial Modeling",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and process improvement skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "797",
+            "recommendation": {
+                "resume_id": 850,
+                "recommendation_file": "Recommendation_From_ID_797.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Planning",
+                        "Tax Preparation",
+                        "Payroll Management",
+                        "Auditing",
+                        "Financial Modeling",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning, reporting, and analysis expertise. The recommendation highlights the candidate's attention to detail, ability to work under pressure, and collaborative spirit, which are all valuable assets in a financial professional."
+                }
+            }
+        }
+    ]
+}

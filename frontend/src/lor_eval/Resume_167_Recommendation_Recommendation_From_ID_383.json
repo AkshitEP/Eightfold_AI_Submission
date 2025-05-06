@@ -1,0 +1,16 @@
+{
+    "resume_file": "167.json",
+    "recommendation_file": "Recommendation_From_ID_383.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's background and role, but the recommendation provides specific examples of the candidate's abilities and strengths.",
+        "verified_skills": [
+            "Instructional Coaching",
+            "Curriculum Development",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience and skills in instructional coaching, curriculum development, and leadership, but does not specifically mention some of the candidate's other skills."
+    }
+}

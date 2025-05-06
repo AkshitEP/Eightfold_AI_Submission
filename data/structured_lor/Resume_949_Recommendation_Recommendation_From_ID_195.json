@@ -1,0 +1,25 @@
+{
+    "resume_id": 949,
+    "recommendation_file": "Recommendation_From_ID_195.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Network Administration",
+            "Computer Hardware",
+            "Computer Software",
+            "Troubleshooting",
+            "Network Security",
+            "Router Configuration",
+            "Switch Configuration",
+            "Server Administration",
+            "Video Conferencing",
+            "IP Address Management",
+            "DHCP Server Management",
+            "LAN Administration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and professional growth. The recommender's tone is formal and objective, indicating a genuine endorsement of the candidate's qualifications."
+    }
+}

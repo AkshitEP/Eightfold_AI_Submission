@@ -1,0 +1,20 @@
+{
+    "resume_file": "653.json",
+    "recommendation_file": "Recommendation_From_ID_633.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Data Analysis",
+            "Risk Management",
+            "Time Management",
+            "Problem-Solving",
+            "Security"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and analytical abilities. The source of the recommendation is a colleague, which adds credibility to the endorsement."
+    }
+}

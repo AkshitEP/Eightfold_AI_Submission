@@ -1,0 +1,71 @@
+{
+    "target_id": "220",
+    "recommendations": [
+        {
+            "recommender_id": "898",
+            "recommendation": {
+                "resume_file": "220.json",
+                "recommendation_file": "Recommendation_From_ID_898.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation highlights the candidate's skills and experience, but the language used is overly flattering and lacks specific examples.",
+                    "verified_skills": [
+                        "IT Strategy",
+                        "IT Management",
+                        "Network Administration",
+                        "System Administration",
+                        "Disaster Recovery",
+                        "Security Risk Management",
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but the language used is overly flattering and lacks specific examples. The recommendation highlights the candidate's ability to manage complex technology projects, align technological initiatives with core business objectives, and champion a culture of security awareness."
+                }
+            }
+        },
+        {
+            "recommender_id": "162",
+            "recommendation": {
+                "resume_file": "220.json",
+                "recommendation_file": "Recommendation_From_ID_162.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and industry not aligning with the candidate's experience. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "IT Strategy",
+                        "IT Management",
+                        "Network Administration",
+                        "System Administration",
+                        "Security Risk Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills, IT expertise, and ability to communicate effectively. However, the recommender's role and industry do not align with the candidate's experience, which raises some minor concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "754",
+            "recommendation": {
+                "resume_file": "220.json",
+                "recommendation_file": "Recommendation_From_ID_754.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "IT Management",
+                        "Leadership",
+                        "Security Risk Management",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but it lacks specific examples and metrics to support some of the claims. The language is formal, but overly flattering and promotional."
+                }
+            }
+        }
+    ]
+}

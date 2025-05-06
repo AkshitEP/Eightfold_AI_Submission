@@ -1,0 +1,44 @@
+{
+    "target_id": "39",
+    "recommendations": [
+        {
+            "recommender_id": "925",
+            "recommendation": {
+                "resume_file": "39.json",
+                "recommendation_file": "Recommendation_From_ID_925.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Human Resource Management",
+                        "Sales and Business Development",
+                        "Customer Service",
+                        "Public Speaking and Presentation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership qualities, employee development, and sales results. The recommender's experience in talent acquisition and employee onboarding adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "336",
+            "recommendation": {
+                "resume_file": "39.json",
+                "recommendation_file": "Recommendation_From_ID_336.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems fraudulent due to the lack of relevance to the resume, unclear language, and statistically improbable claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Employee development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is overly positive and flattering, and the recommender's relationship with Caitlin is unclear. The recommendation may be exaggerated or fabricated."
+                }
+            }
+        }
+    ]
+}

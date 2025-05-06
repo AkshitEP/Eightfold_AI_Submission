@@ -1,0 +1,21 @@
+{
+    "resume_file": "673.json",
+    "recommendation_file": "Recommendation_From_ID_436.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Management",
+            "Leadership",
+            "Budgeting",
+            "Marketing",
+            "Account Management",
+            "Data Analysis",
+            "Project Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial management, and marketing abilities. The recommendation highlights the candidate's achievements in the automotive finance sector and their ability to lead and direct dealership operations."
+    }
+}

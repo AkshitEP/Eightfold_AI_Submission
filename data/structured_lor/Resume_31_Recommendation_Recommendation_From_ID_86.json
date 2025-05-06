@@ -1,0 +1,18 @@
+{
+    "resume_file": "31.json",
+    "recommendation_file": "Recommendation_From_ID_86.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is an administrative assistant, which may not be directly familiar with the candidate's technical skills. However, the recommendation provides specific examples of the candidate's work and its impact on the organization.",
+        "verified_skills": [
+            "Software Architecture",
+            "Software Development",
+            "Leadership",
+            "API Design",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's technical skills, leadership abilities, and experience in designing and developing innovative web-based applications, particularly in the healthcare sector. However, the source of the recommendation is an administrative assistant, which may not be directly familiar with the candidate's technical skills."
+    }
+}

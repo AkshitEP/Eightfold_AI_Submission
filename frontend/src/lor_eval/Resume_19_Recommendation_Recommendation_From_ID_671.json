@@ -1,0 +1,12 @@
+{
+    "resume_file": "19.json",
+    "recommendation_file": "Recommendation_From_ID_671.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The recommendation focuses on Clyde Muse, who is not the candidate, and only briefly mentions the candidate's expertise.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's skills and experience, and raises concerns about its authenticity."
+    }
+}

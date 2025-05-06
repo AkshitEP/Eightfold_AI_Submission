@@ -1,0 +1,20 @@
+{
+    "resume_file": "454.json",
+    "recommendation_file": "Recommendation_From_ID_179.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is an equipment operator from a different industry, which may raise some questions about their familiarity with the Office Manager's work in a healthcare setting.",
+        "verified_skills": [
+            "Leadership",
+            "Time Management",
+            "Data Entry",
+            "Financial Analysis",
+            "Project Management",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the Office Manager's exceptional organizational skills, initiative, and adaptability, which aligns well with their skills and experience. However, the source of the recommendation is from a different industry, which may affect its credibility."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "389.json",
+    "recommendation_file": "Recommendation_From_ID_506.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Planning",
+            "Leadership",
+            "Risk Management",
+            "Investment Management",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their expertise in corporate finance and leadership."
+    }
+}

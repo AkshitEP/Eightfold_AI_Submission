@@ -1,0 +1,79 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Accountant",
+                "work_description": "Reconcile various balance sheet accounts, perform primary liaison function for audits, review and analyze journal entries, and prepare month-end accrual journal entries.",
+                "company_level": "Mid-level",
+                "start_date": "03/2006",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Maintain financial records, analyze and reconcile G/L accounts, prepare financial statements, and coordinate with warehouse manager.",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "03/2006"
+            },
+            {
+                "role_name": "Financial Analyst",
+                "work_description": "Manage and forecast funds, reconcile and settle, prepare monthly Profit and Loss reports, and analyze processing costs and network fees.",
+                "company_level": "Mid-level",
+                "start_date": "08/2002",
+                "end_date": "01/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "TEMPLE UNIVERSITY",
+                "start_date": "08/2002",
+                "end_date": "08/2002",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "World travel",
+            "Photography",
+            "Golf",
+            "Soccer",
+            "Movie",
+            "Fashion"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 5,
+                "explanation": "Has extensive experience handling balance sheet account reconciliations, G/L account reconciliations, and settling, showing expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience with all aspects of accounting including financial record maintenance, journal entry analysis, and financial statement preparation, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Handled financial analysis tasks such as processing cost analysis, network fee analysis, and profit and loss reporting, suggesting strong proficiency."
+            },
+            {
+                "name": "Auditing",
+                "level": 3,
+                "explanation": "Acted as primary liaison for audits, showing a solid working proficiency in auditing."
+            },
+            {
+                "name": "Financial Forecasting",
+                "level": 3,
+                "explanation": "Managed and forecasted funds, indicating a solid working proficiency in financial forecasting."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for managing financial records, preparing financial statements, and analyzing data, suggesting strong proficiency."
+            }
+        ]
+    }
+}

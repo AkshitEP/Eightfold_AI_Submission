@@ -1,0 +1,92 @@
+{
+    "target_id": "675",
+    "recommendations": [
+        {
+            "recommender_id": "302",
+            "recommendation": {
+                "resume_file": "675.json",
+                "recommendation_file": "Recommendation_From_ID_302.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Leadership",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and communication skills. However, the recommendation also mentions sales competencies, which are not explicitly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "193",
+            "recommendation": {
+                "resume_file": "675.json",
+                "recommendation_file": "Recommendation_From_ID_193.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Payroll Management",
+                        "Leadership",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise, leadership, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "947",
+            "recommendation": {
+                "resume_file": "675.json",
+                "recommendation_file": "Recommendation_From_ID_947.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Payroll Management",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, payroll processes, and leadership abilities. The recommendation also highlights the candidate's ability to enhance operational efficiency and their commitment to employee development."
+                }
+            }
+        },
+        {
+            "recommender_id": "422",
+            "recommendation": {
+                "resume_file": "675.json",
+                "recommendation_file": "Recommendation_From_ID_422.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Management",
+                        "Payroll Management",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Training and Development",
+                        "Event Planning",
+                        "French Language"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments in HR management, payroll management, and leadership. The source of the recommendation appears to be a peer or colleague, possibly an HR Consultant, who has worked with the candidate and can attest to their skills and abilities."
+                }
+            }
+        }
+    ]
+}

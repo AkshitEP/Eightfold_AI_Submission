@@ -1,0 +1,17 @@
+{
+    "resume_file": "355.json",
+    "recommendation_file": "Recommendation_From_ID_38.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's field of expertise is not directly related to fitness, and their language is overly flattering.",
+        "verified_skills": [
+            "Group Fitness Instruction",
+            "Yoga Instruction",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and leadership abilities."
+    }
+}

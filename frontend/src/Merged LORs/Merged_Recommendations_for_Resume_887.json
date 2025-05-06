@@ -1,0 +1,138 @@
+{
+    "target_id": "887",
+    "recommendations": [
+        {
+            "recommender_id": "980",
+            "recommendation": {
+                "resume_file": "887.json",
+                "recommendation_file": "Recommendation_From_ID_980.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Financial Record-Keeping",
+                        "Accounting Software",
+                        "Project Management",
+                        "Leadership",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and analytical skills. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "379",
+            "recommendation": {
+                "resume_file": "887.json",
+                "recommendation_file": "Recommendation_From_ID_379.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Financial Record-Keeping",
+                        "Accounting Software",
+                        "Leadership",
+                        "Project Management",
+                        "Microsoft Excel",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, financial record-keeping, and compliance expertise. The recommendation highlights the candidate's attention to detail, organizational skills, and ability to train colleagues, which are all relevant to their skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "510",
+            "recommendation": {
+                "resume_file": "887.json",
+                "recommendation_file": "Recommendation_From_ID_510.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions skills and experiences not directly mentioned in the resume, such as tax accounting and bookkeeping.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Financial Record-Keeping",
+                        "Accounting Software",
+                        "Microsoft Excel",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's organizational and multitasking abilities, attention to detail, and commitment to accuracy and client service. However, some claims seem exaggerated or unsupported, and the recommendation mentions skills and experiences not directly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "998",
+            "recommendation": {
+                "resume_file": "887.json",
+                "recommendation_file": "Recommendation_From_ID_998.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Record-Keeping",
+                        "Accounting Software",
+                        "Microsoft Excel",
+                        "Compliance",
+                        "Data Entry",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis and regulatory reporting skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "445",
+            "recommendation": {
+                "resume_file": "887.json",
+                "recommendation_file": "Recommendation_From_ID_445.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Compliance",
+                        "Leadership",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and compliance expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "106",
+            "recommendation": {
+                "resume_file": "887.json",
+                "recommendation_file": "Recommendation_From_ID_106.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Compliance",
+                        "Data Entry",
+                        "Financial Record-Keeping",
+                        "Accounting Software",
+                        "Leadership",
+                        "Project Management",
+                        "Microsoft Excel",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and project management abilities. The source of the recommendation is a Finance Director and Treasurer, indicating a supervisory relationship."
+                }
+            }
+        }
+    ]
+}

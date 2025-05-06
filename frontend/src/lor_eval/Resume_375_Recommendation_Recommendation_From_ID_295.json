@@ -1,0 +1,17 @@
+{
+    "resume_file": "375.json",
+    "recommendation_file": "Recommendation_From_ID_295.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and unrelated experiences mentioned in the recommendation.",
+        "verified_skills": [
+            "Logistics Management",
+            "Supply Chain Management",
+            "Leadership",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but mentions unrelated experiences. The source of the recommendation is unknown."
+    }
+}

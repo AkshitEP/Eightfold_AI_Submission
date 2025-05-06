@@ -1,0 +1,20 @@
+{
+    "resume_file": "498.json",
+    "recommendation_file": "Recommendation_From_ID_538.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales Management",
+            "Business Development",
+            "Leadership",
+            "Strategy Development",
+            "Customer Service",
+            "Budgeting",
+            "Contract Negotiation"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales management, business development, and leadership abilities. The source of the recommendation is a Business Process Analyst, indicating a peer-level relationship."
+    }
+}

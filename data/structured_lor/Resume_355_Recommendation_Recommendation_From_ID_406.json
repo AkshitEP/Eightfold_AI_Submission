@@ -1,0 +1,17 @@
+{
+    "resume_file": "355.json",
+    "recommendation_file": "Recommendation_From_ID_406.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and lack of direct connection to the fitness industry.",
+        "verified_skills": [
+            "Group Fitness Instruction",
+            "Leadership",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but the source's lack of experience in the fitness industry may reduce its credibility."
+    }
+}

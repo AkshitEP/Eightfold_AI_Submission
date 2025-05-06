@@ -1,0 +1,18 @@
+{
+    "resume_file": "633.json",
+    "recommendation_file": "Recommendation_From_ID_903.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales",
+            "Customer Service",
+            "Inventory Management",
+            "Aeronautics",
+            "Aviation Safety"
+        ],
+        "recommendation_source": "Peer/Colleague (Aviation Electrician with U.S. Navy experience)",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and customer service abilities, as well as their knowledge of aviation systems. The recommender's experience in the U.S. Navy adds credibility to their assessment."
+    }
+}

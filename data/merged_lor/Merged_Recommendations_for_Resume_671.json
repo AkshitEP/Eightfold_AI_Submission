@@ -1,0 +1,26 @@
+{
+    "target_id": "671",
+    "recommendations": [
+        {
+            "recommender_id": "372",
+            "recommendation": {
+                "resume_file": "671.json",
+                "recommendation_file": "Recommendation_From_ID_372.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Coaching",
+                        "Team Management",
+                        "Teaching",
+                        "Sports Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their coaching methods and leadership philosophy. The recommendation highlights the candidate's ability to integrate their faith with their coaching philosophy, which may be relevant to certain organizations or teams."
+                }
+            }
+        }
+    ]
+}

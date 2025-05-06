@@ -1,0 +1,19 @@
+{
+    "resume_file": "646.json",
+    "recommendation_file": "Recommendation_From_ID_368.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's background in technology and software development seems unrelated to the candidate's field, which may raise some concerns.",
+        "verified_skills": [
+            "Food Service Management",
+            "Leadership",
+            "Team Management",
+            "Communication",
+            "Problem-Solving",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management and leadership abilities. However, the recommender's background and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+    }
+}

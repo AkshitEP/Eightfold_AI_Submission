@@ -1,0 +1,20 @@
+{
+    "resume_file": "15.json",
+    "recommendation_file": "Recommendation_From_ID_751.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the claim of boosting annual sales from $4M to $6.7M seems statistically improbable without further context or evidence from the resume.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reporting",
+            "Budgeting",
+            "Leadership",
+            "Process Improvement",
+            "Cash Flow Management",
+            "Financial Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and analytical abilities. However, the claim of boosting annual sales from $4M to $6.7M seems exaggerated and requires further verification."
+    }
+}

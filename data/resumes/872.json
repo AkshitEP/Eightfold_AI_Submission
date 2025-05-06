@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "INFORMATION TECHNOLOGY PROJECT MANAGER",
+                "work_description": "Support Design-Build Supervisory Control and Data Acquisition (SCADA) Upgrade Project using project management expertise. Identify and implement technology tools to facilitate resource planning for multiple projects, identify interdivisional dependencies, encourage real-time team collaboration, and develop streamlined workflows to expedite project submittal reviews. Introduced the concept of SAFe to lead planning event to prioritize fiscal year acquisition and procurement needs based on project criticality and available internal resources. Developed annual planning process to support capital improvement planning activities such as project identification and prioritization.",
+                "company_level": "Mid-level",
+                "start_date": "03/2019",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "AGILE PROJECT MANAGER",
+                "work_description": "Led transition of risk-assessment tools from downloadable software to web-based platform, including EPA's Vulnerability Self Assessment Tool, Climate Resilience Evaluation and Awareness Tool (CREAT), and the Workshop Planner for Climate Change and Extreme Events Adaptation tool. Developed project plans and cost estimates with well-defined milestones in collaboration with project team and subcontractors for each contract period of performance. Tracked project level-of-effort and budget expenditures to enable the team to deliver work products while managing changes to scope, schedule, and budget.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "03/2019"
+            },
+            {
+                "role_name": "RELEASE MANAGER",
+                "work_description": "Negotiated, planned, and managed all release activities identifying risks and corresponding solutions to maintain the release schedule. Established deployment needs and ensured compatible architecture and configuration of final deliverable. Facilitated production readiness reviews and release retrospective meetings with the project team.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "03/2019"
+            },
+            {
+                "role_name": "BUSINESS ANALYST / SCRUM MASTER",
+                "work_description": "Facilitated requirements meetings and grooming sessions with the development team and the client to identify desired features and functionality. Facilitated daily scrums, sprint reviews, sprint retrospectives, and sprint planning with the project team. Captured and translated requirements to the development team via Jira, Confluence, and during daily scrums.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "03/2019"
+            }
+        ],
+        "education": [
+            {
+                "university": "American University",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "International Affairs",
+                "level": "Master's"
+            },
+            {
+                "university": "American University",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Natural Resources",
+                "level": "Master's"
+            },
+            {
+                "university": "Clemson University",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Biological Sciences",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing multiple projects, including SCADA upgrades, and has developed streamlined workflows to expedite project submittal reviews, indicating expert-level mastery."
+            },
+            {
+                "name": "Agile Methodologies",
+                "level": 5,
+                "explanation": "Has led the transition of risk-assessment tools to a web-based platform, developed project plans and cost estimates, and tracked project level-of-effort and budget expenditures, showing expert-level proficiency in Agile methodologies."
+            },
+            {
+                "name": "Release Management",
+                "level": 4,
+                "explanation": "Has negotiated, planned, and managed all release activities, identifying risks and corresponding solutions to maintain the release schedule, indicating strong proficiency in release management."
+            },
+            {
+                "name": "Scrum Master",
+                "level": 4,
+                "explanation": "Has facilitated daily scrums, sprint reviews, sprint retrospectives, and sprint planning with the project team, showing strong proficiency in Scrum Master role."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 4,
+                "explanation": "Has facilitated requirements meetings and grooming sessions with the development team and the client, and captured and translated requirements to the development team, indicating strong proficiency in business analysis."
+            },
+            {
+                "name": "Risk Management",
+                "level": 3,
+                "explanation": "Has identified and implemented technology tools to facilitate resource planning for multiple projects, and has developed streamlined workflows to expedite project submittal reviews, showing solid working proficiency in risk management."
+            },
+            {
+                "name": "Collaboration and Team Management",
+                "level": 4,
+                "explanation": "Has led planning events to prioritize fiscal year acquisition and procurement needs, and has developed annual planning processes to support capital improvement planning activities, indicating strong proficiency in collaboration and team management."
+            },
+            {
+                "name": "SAFe",
+                "level": 4,
+                "explanation": "Has introduced the concept of SAFe to lead planning events to prioritize fiscal year acquisition and procurement needs, showing strong proficiency in SAFe."
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "resume_file": "814.json",
+    "recommendation_file": "Recommendation_From_ID_72.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation does not match the individual's resume, and the language used is overly generic and does not provide specific examples or details that align with the Director of Community's experience.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be for a different individual and does not align with the Director of Community's experience or skills. It is likely that the recommendation is fraudulent or was mistakenly attached to the wrong resume."
+    }
+}

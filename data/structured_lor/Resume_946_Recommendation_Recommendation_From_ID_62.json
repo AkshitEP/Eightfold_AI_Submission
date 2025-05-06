@@ -1,0 +1,17 @@
+{
+    "resume_id": 946,
+    "recommendation_file": "Recommendation_From_ID_62.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender mentions their experience as an Aircraft Hydraulics Journeyman, which is not mentioned in the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Attention to Detail",
+            "Teamwork",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and operational efficiency. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "target_id": "272",
+    "recommendations": [
+        {
+            "recommender_id": "90",
+            "recommendation": {
+                "resume_file": "272.json",
+                "recommendation_file": "Recommendation_From_ID_90.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Engagement",
+                        "Talent Management",
+                        "Leadership",
+                        "Communication",
+                        "Analytical Skills",
+                        "Organizational Skills",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR capabilities and leadership. The source of the recommendation is an HR Assistant and Payroll Specialist, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "59",
+            "recommendation": {
+                "resume_file": "272.json",
+                "recommendation_file": "Recommendation_From_ID_59.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and lacks concrete examples from the candidate's resume. The mention of a 'Fitness Director' role is not present in the resume, raising concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Employee Engagement",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some relevant skills and experiences from the resume, but it lacks substantial detail and alignment with the key areas of expertise. The mention of a 'Fitness Director' role is not present in the resume, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "654",
+            "recommendation": {
+                "resume_file": "272.json",
+                "recommendation_file": "Recommendation_From_ID_654.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Engagement",
+                        "Talent Management",
+                        "Organizational Design",
+                        "Performance Management",
+                        "Leadership",
+                        "Communication",
+                        "Analytical Skills",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The source of the recommendation is an Executive Assistant in HR, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "21",
+            "recommendation": {
+                "resume_file": "272.json",
+                "recommendation_file": "Recommendation_From_ID_21.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Engagement",
+                        "Talent Management",
+                        "Performance Management",
+                        "Leadership",
+                        "Communication",
+                        "Analytical Skills",
+                        "Organizational Skills",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "367",
+            "recommendation": {
+                "resume_file": "272.json",
+                "recommendation_file": "Recommendation_From_ID_367.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Engagement",
+                        "Talent Management",
+                        "Organizational Design",
+                        "Performance Management",
+                        "Leadership",
+                        "Communication",
+                        "Analytical Skills",
+                        "Organizational Skills",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "219",
+            "recommendation": {
+                "resume_file": "272.json",
+                "recommendation_file": "Recommendation_From_ID_219.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Engagement",
+                        "Talent Management",
+                        "Organizational Design",
+                        "Performance Management",
+                        "Leadership",
+                        "Communication",
+                        "Analytical Skills",
+                        "Organizational Skills",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The recommender's role as an HR Associate Mobilization Coordinator adds credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Facilitated monthly financial reporting and prepared monthly GAAP financial statements for two physician enterprises. Led the modeling, planning and execution of all financial processes. Analyzed complex regulation and policy documents that directly impacted budgetary and financial matters.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2012",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Supervising Auditor",
+                "work_description": "Delivered quality service to top tier clients within the PWC Assurance and Business Advisory Services (ABAS) practice; this included supervising annual and financial risk assessment, planning, and analytical procedures.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2003",
+                "end_date": "01/2004"
+            },
+            {
+                "role_name": "Supervising Senior Auditor",
+                "work_description": "Prepare consolidated financial statements and corresponding footnotes for Nonprofit Healthcare industries. Supervised preparation of financial statement for: GAS (yellow-book), pension, OMB Circular A-133 compliance, and cost report.",
+                "company_level": "Mid-level",
+                "start_date": "01/1999",
+                "end_date": "01/2003"
+            },
+            {
+                "role_name": "Internal Auditor",
+                "work_description": "Planned and executed operational audits of various business units using risk-based audit methodology. Assist with the system development education and roll out Business Associate Agreement Policy.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Financial Controller",
+                "work_description": "Facilitated financial reporting and stewardship over this entertainment/real-estate organization's assets ($50,000,000). Managed accounting operations, accounting close, account reporting and reconciliations.",
+                "company_level": "Mid-level",
+                "start_date": "01/2006",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Internal Auditor",
+                "work_description": "Evaluated and contributed to the plan for improved risk management, control, and governance processes within Columbia University. Performed complex operational and financial audits to ensure compliance with legal requirements and consistency with strategic plans.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2004",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Keller Graduate School of Management",
+                "start_date": "01/0000",
+                "end_date": "01/0000",
+                "domain": "Business Administration",
+                "level": "MBA"
+            },
+            {
+                "university": "Queens College, City University of New York",
+                "start_date": "01/0000",
+                "end_date": "01/0000",
+                "domain": "Accounting",
+                "level": "B.A"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Has extensive experience in preparing and facilitating financial reports, including GAAP financial statements and consolidated financial statements, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Analyzed complex regulation and policy documents, planned and executed financial processes, and evaluated risk management, control, and governance processes, showing expert-level proficiency."
+            },
+            {
+                "name": "Auditing",
+                "level": 5,
+                "explanation": "Held various auditing roles, including Supervising Auditor and Internal Auditor, and performed complex operational and financial audits, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 4,
+                "explanation": "Led the modeling, planning, and execution of financial processes, and evaluated and contributed to the plan for improved risk management, control, and governance processes, showing strong proficiency."
+            },
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Managed accounting operations, accounting close, account reporting, and reconciliations, and prepared consolidated financial statements and corresponding footnotes, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Held supervisory roles, including Supervising Auditor and Financial Controller, and led teams, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Risk Management",
+                "level": 4,
+                "explanation": "Evaluated and contributed to the plan for improved risk management, control, and governance processes, and performed complex operational and financial audits, showing strong proficiency."
+            },
+            {
+                "name": "Compliance",
+                "level": 4,
+                "explanation": "Ensured compliance with legal requirements and consistency with strategic plans, and performed audits to ensure compliance, showing strong proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Facilitated financial reporting and stewardship over assets, managed accounting operations, and led financial planning and execution, indicating expert-level mastery."
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "216.json",
+    "recommendation_file": "Recommendation_From_ID_679.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but no significant red flags.",
+        "verified_skills": [
+            "Business Development",
+            "Sales",
+            "Leadership",
+            "Operations Management",
+            "Strategic Planning",
+            "Account Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies."
+    }
+}

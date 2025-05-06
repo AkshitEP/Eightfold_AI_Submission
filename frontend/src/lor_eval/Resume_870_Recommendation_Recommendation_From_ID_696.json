@@ -1,0 +1,18 @@
+{
+    "resume_file": "870.json",
+    "recommendation_file": "Recommendation_From_ID_696.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's experience and unclear relationship to the candidate.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's experience as a Senior Implementation Manager, but raises some concerns due to minor inconsistencies and unclear relationship to the candidate."
+    }
+}

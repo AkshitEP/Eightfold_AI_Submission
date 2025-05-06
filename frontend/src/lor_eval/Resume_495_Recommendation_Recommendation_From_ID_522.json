@@ -1,0 +1,19 @@
+{
+    "resume_file": "495.json",
+    "recommendation_file": "Recommendation_From_ID_522.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Supply Chain Management",
+            "IT Management",
+            "SAP",
+            "Budgeting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and IT management abilities. The recommender's tone is professional and objective, suggesting a genuine endorsement."
+    }
+}

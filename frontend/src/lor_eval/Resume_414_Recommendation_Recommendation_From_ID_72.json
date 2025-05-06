@@ -1,0 +1,18 @@
+{
+    "resume_file": "414.json",
+    "recommendation_file": "Recommendation_From_ID_72.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions customer service experience as a food server, which is not mentioned in the resume. However, the recommendation also highlights relevant skills and experiences from the resume, such as patient care and communication.",
+        "verified_skills": [
+            "Patient Care",
+            "Communication",
+            "Vital Signs Monitoring",
+            "Medical Record Keeping",
+            "CPR/AED"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with some aspects of the candidate's skills and experience, particularly in the medical field. However, it also mentions unrelated experience as a food server, which is not present in the resume. The recommendation highlights the candidate's strong communication skills, attention to detail, and organizational skills, which are relevant to the medical field."
+    }
+}

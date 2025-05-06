@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Retail Sales Consultant",
+                "work_description": "Exercises sound judgment in issuing credits and making exceptions to customer policies to maintain high levels of customer satisfaction. Fielded an average of [number] customer service calls per day. Managed wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Retail Sales Consultant",
+                "work_description": "Created strategies to develop and expand existing customer sales, which resulted in a 20% increase in monthly sales. Initiated daily store counts, orders and acquired proper products. Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices.",
+                "company_level": "Mid-level",
+                "start_date": "01/2015",
+                "end_date": "09/2015"
+            },
+            {
+                "role_name": "Retail Sales Consultant",
+                "work_description": "Operated a cash register to process cash, check and credit card transactions. Computed sales prices, total purchases and processed payments. Described merchandise and explain operation of merchandise to customers. Replenished floor stock and processed shipments to ensure product availability for customers.",
+                "company_level": "Mid-level",
+                "start_date": "11/2013",
+                "end_date": "01/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Camden County High School",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Business/Computers",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience handling customer service calls, resolving customer issues, and maintaining high levels of customer satisfaction, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Created strategies to develop and expand existing customer sales, resulting in a 20% increase in monthly sales, showing strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed a wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with customers to resolve issues, explain merchandise, and process payments, suggesting strong proficiency."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 3,
+                "explanation": "Operated a cash register to process cash, check and credit card transactions, showing a solid working proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 2,
+                "explanation": "Replenished floor stock and processed shipments to ensure product availability for customers, indicating some practical experience."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Resolved customer issues quickly and efficiently, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

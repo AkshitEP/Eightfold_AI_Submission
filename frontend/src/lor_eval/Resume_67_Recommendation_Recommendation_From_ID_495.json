@@ -1,0 +1,22 @@
+{
+    "resume_id": 67,
+    "recommendation_file": "Recommendation_From_ID_495.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Troubleshooting",
+            "Network Administration",
+            "Computer Hardware Support",
+            "Software Support",
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Desktop Support",
+            "Network Security"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical abilities and soft skills. The recommender's position as the Head of Information Technology and Information Center adds credibility to the endorsement."
+    }
+}

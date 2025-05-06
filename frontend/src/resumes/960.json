@@ -1,0 +1,79 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Radiological Control Technician",
+                "work_description": "Provide radiological controls oversight of the deconstruction and remediation activities. Perform daily monitoring of radiological work, radiological surveying, environment sampling and evaluation, and aiding in the preparation of documents that support the transfer of materials and equipment for disposal or release. Provide radiological oversight and leadership for all crew personnel to ensure the highest radiological standards are kept.",
+                "company_level": "Large corporation",
+                "start_date": "01/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Radiological Control Technician",
+                "work_description": "Provided work coverage and oversight for maintenance, operational and routine work that involved radioactive material. Provided monitoring for radiation, contamination and airborne radioactivity in the work place Position responsibilities included: Performing required radiological surveys for free release of material per Article 701 of NAVSEA 389-0288",
+                "company_level": "Large corporation",
+                "start_date": "04/2012",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Aviation Ordnancemen",
+                "work_description": "Professionally and thoroughly trained in the areas of explosive, ordnance handling, and blasters maintained troubleshooting and repair on all weapons elevators onboard. Specialized in servicing, inspecting and handling of all types of weapons and ammunition carried on Navy aircraft",
+                "company_level": "Large corporation",
+                "start_date": "",
+                "end_date": ""
+            }
+        ],
+        "education": [
+            {
+                "university": "Thomas Edison State University",
+                "start_date": "01/2016",
+                "end_date": "",
+                "domain": "Nuclear Engineering Technology",
+                "level": ""
+            },
+            {
+                "university": "Thomas Edison State University",
+                "start_date": "01/2017",
+                "end_date": "",
+                "domain": "Nuclear Energy Engineering Technology",
+                "level": ""
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Radiological Control",
+                "level": 5,
+                "explanation": "Has extensive experience in radiological control oversight, monitoring, and surveying, with over 10 years of experience in the field, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Provided radiological oversight and leadership for crew personnel, demonstrating strong proficiency in leadership and team management."
+            },
+            {
+                "name": "Environmental Sampling",
+                "level": 4,
+                "explanation": "Conducted daily monitoring of radiological work, environment sampling, and evaluation, suggesting strong proficiency in environmental sampling and evaluation."
+            },
+            {
+                "name": "Document Preparation",
+                "level": 3,
+                "explanation": "Aided in the preparation of documents that support the transfer of materials and equipment for disposal or release, showing a solid working proficiency in document preparation."
+            },
+            {
+                "name": "Explosive Ordnance Handling",
+                "level": 4,
+                "explanation": "Received professional training in explosive ordnance handling and maintained troubleshooting and repair on all weapons elevators onboard, indicating strong proficiency in explosive ordnance handling."
+            },
+            {
+                "name": "Nuclear Energy",
+                "level": 4,
+                "explanation": "Pursued education in Nuclear Engineering Technology and Nuclear Energy Engineering Technology, and has experience in radiological control, suggesting strong proficiency in nuclear energy."
+            }
+        ]
+    }
+}

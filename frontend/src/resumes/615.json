@@ -1,0 +1,93 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Reconcile bank accounts daily Process accounts payable Maintain general ledgers Create and modify existing Excel documents Maintain and process payroll Maintain accounting system Perform month-end procedures and account reconciliations Create and modify existing journal entries Perform accounting data reconciliations and verifications Prepare and file 1099s, 941s, 940s, W-2s, and C-3s Pay payroll taxes every pay period using the Electronic Federal Tax Payment System (EFTPS) Roll over tax and fiscal years at year-end and perform all closing procedures Organize and prepare files for yearly audit.",
+                "company_level": "Mid-level",
+                "start_date": "03/2016",
+                "end_date": "03/2018"
+            },
+            {
+                "role_name": "Office Assistant",
+                "work_description": "Answer phone. Deliver mail. Help professors maintain Excel documents. Organize papers for professors.",
+                "company_level": "Mid-level",
+                "start_date": "06/2015",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Assistant",
+                "work_description": "Maintain Excel spreadsheets.",
+                "company_level": "Mid-level",
+                "start_date": "05/2014",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Golf Cart Maintenance",
+                "work_description": "Maintain golf carts and driving range",
+                "company_level": "Startup",
+                "start_date": "05/2012",
+                "end_date": "08/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Texas A&M Commerce",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "Accounting",
+                "level": "Master's"
+            },
+            {
+                "university": "Baylor University",
+                "start_date": "01/2015",
+                "end_date": "08/2015",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Buffalo Creek Golf Club, Rockwall, TX"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Has a Master's degree in Accounting and extensive experience in accounting roles, including reconciliations, payroll, and journal entries, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Has experience with daily bank account reconciliations and month-end procedures, showing strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Handled payroll processing, payroll taxes, and related tasks, suggesting a strong proficiency in payroll management."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Used extensively for creating and modifying Excel documents, maintaining general ledgers, and other accounting tasks, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 1,
+                "explanation": "No direct leadership experience mentioned, but has worked in various roles, indicating basic familiarity with leadership concepts."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Has experience with accounting data reconciliations and verifications, but no extensive data analysis experience mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Project Management",
+                "level": 0,
+                "explanation": "No project management experience mentioned."
+            }
+        ]
+    }
+}

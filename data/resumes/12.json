@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Partner Account Manager",
+                "work_description": "Partner portfolio and revenue management. Managed project with regard to the Customers product deployment in SaaS Platform. Responsible to create partner Quotations, license renewals and Service Addendums. Resolving In-service request through Jira and registering nodes and adding servers on SaaS Plaza platform. Monitoring the Invoice and Billing on product renewals. Setting up the Product demo environment for the Partners and their customers. Assisted Partners with online training and educate them about the product usage in the cloud platform.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2014",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Client Account Manager",
+                "work_description": "Drive sales through Partners and Distributors. Managed existing partners and generate revenues from them Conducting promotional activities and events for partners and Distributors and also encourage new channel partners through the events organized to understand the Program benefits Planning and implementing marketing and partner relations programs to increase partnership growth and retention Analyzing and identifying the ways to maximize the revenue through lead generation and Promotional events.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2011",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Relationship Manager",
+                "work_description": "Customers' acquisition in order to increase transaction book size. Establishing alliances which would ensure steady stream of business referrals. Increase Customer Profitability. Used Oracle SQL to analyses the financial data related to the customer borrowings of funds. Continue Professional development. Lead Management System. Managed Trade and Asset services of the customers Worked closely with a treasury department related to the hedging of funds.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2010",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Health Advisory Manager",
+                "work_description": "Receive Service Request(SR) from the HealthCare clients (Customers). Analyze and study the SR thoroughly to ensure Compliance as per HIPAA and HCPC Provide customer support and assist internally to process Claims and Requests by inter-departmental collaboration. Analyzing customers' financial accounts and provide statistical reports to optimize their revenue generation and management.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2006",
+                "end_date": "12/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Coleman University",
+                "start_date": "01/2004",
+                "end_date": "12/2006",
+                "domain": "Information System Management",
+                "level": "Master's"
+            },
+            {
+                "university": "Symbiosis International University",
+                "start_date": "01/2007",
+                "end_date": "12/2009",
+                "domain": "Business Administration (Marketing)",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed multiple projects across various roles, including partner portfolio and revenue management, customer acquisition, and service request analysis, indicating strong proficiency."
+            },
+            {
+                "name": "Account Management",
+                "level": 5,
+                "explanation": "Extensive experience in managing client and partner accounts, including sales, revenue growth, and relationship management, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Analyzed financial data using Oracle SQL, customer financial accounts, and statistical reports to optimize revenue generation and management, suggesting strong proficiency."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Conducted promotional activities and events for partners and distributors, planned marketing programs, and analyzed lead generation, showing a solid working proficiency."
+            },
+            {
+                "name": "Customer Relationship Management",
+                "level": 4,
+                "explanation": "Managed customer relationships, provided customer support, and assisted in processing claims and requests, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led professional development, managed trade and asset services, and worked closely with treasury departments, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Oracle SQL",
+                "level": 3,
+                "explanation": "Used Oracle SQL to analyze financial data, indicating a solid working proficiency."
+            },
+            {
+                "name": "Jira",
+                "level": 2,
+                "explanation": "Used Jira to resolve in-service requests, suggesting some practical experience."
+            },
+            {
+                "name": "SaaS",
+                "level": 2,
+                "explanation": "Worked with SaaS platforms, including partner quotations, license renewals, and service addendums, suggesting some practical experience."
+            }
+        ]
+    }
+}

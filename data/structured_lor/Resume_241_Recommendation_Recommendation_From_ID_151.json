@@ -1,0 +1,17 @@
+{
+    "resume_file": "241.json",
+    "recommendation_file": "Recommendation_From_ID_151.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation mentions a managerial role at Michael's Arts and Crafts Store, which is not mentioned in the resume. Additionally, the mention of a Tank Platoon Sergeant role is not present in the resume. This discrepancy raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Training and Development",
+            "Leadership",
+            "Communication",
+            "Mentoring"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and training skills, which align with their experience as an Instructor/Writer AOBC. However, the mention of a managerial role at Michael's Arts and Crafts Store and a Tank Platoon Sergeant role raises concerns about the authenticity of the recommendation."
+    }
+}

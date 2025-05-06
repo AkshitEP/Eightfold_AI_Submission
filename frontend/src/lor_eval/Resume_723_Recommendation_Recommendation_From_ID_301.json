@@ -1,0 +1,18 @@
+{
+    "resume_file": "723.json",
+    "recommendation_file": "Recommendation_From_ID_301.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the writer's background in finance and accounting seems unrelated to the candidate's healthcare experience. However, the writer's observations of the candidate's skills and work ethic are specific and credible.",
+        "verified_skills": [
+            "Patient Admission",
+            "Customer Service",
+            "Communication",
+            "Case Management",
+            "Social Work"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in patient admission, customer service, and social work. However, the writer's background and relationship to the candidate are unclear, which may affect the credibility of the recommendation."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "781.json",
+    "recommendation_file": "Recommendation_From_ID_241.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems exaggerated, with claims that are not entirely supported by the resume. The recommender's relationship to the candidate is unknown.",
+        "verified_skills": [
+            "Communication",
+            "Leadership",
+            "Adaptability"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks specific examples to support the claims and seems overly flattering. The recommender's relationship to the candidate is unknown."
+    }
+}

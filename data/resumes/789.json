@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Vice President",
+                "work_description": "Creates a team vision that supports the organizational vision. Skilled at turning teams into industry leading teams and developing team members into outstanding performers. Develops innovative approaches to providing high quality, cost-effective service that exceed customer expectations.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2003",
+                "end_date": "07/2014"
+            },
+            {
+                "role_name": "Corporate Director",
+                "work_description": "Coordinated multiple medical equipment service departments into single system department. Led effort to implement medical equipment management database that combined six separate databases.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2008",
+                "end_date": "07/2008"
+            },
+            {
+                "role_name": "Operations Manager",
+                "work_description": "Participated in implementation of Clinical Engineering program that maintained a high level of quality and customer satisfaction while beating budget targets by $1.6 million, and estimated cost of previous outsourced program by approximately $7.5 million during its first three years of existence.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1998",
+                "end_date": "01/2003"
+            },
+            {
+                "role_name": "Team Manager and Regional Manager",
+                "work_description": "",
+                "company_level": "Large Corporation",
+                "start_date": "01/1987",
+                "end_date": "01/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "Missouri Institute of Technology",
+                "start_date": "01/1980",
+                "end_date": "12/1985",
+                "domain": "Electronic Engineering Technology",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held multiple leadership roles, including Vice President and Corporate Director, with a proven track record of developing high-performing teams and exceeding customer expectations, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully led efforts to implement a medical equipment management database and coordinated multiple departments into a single system, demonstrating strong proficiency in project management."
+            },
+            {
+                "name": "Innovation",
+                "level": 4,
+                "explanation": "Developed innovative approaches to providing high-quality, cost-effective service, suggesting a strong ability to think creatively and drive innovation."
+            },
+            {
+                "name": "Team Management",
+                "level": 5,
+                "explanation": "Skilled at turning teams into industry-leading teams and developing team members into outstanding performers, indicating expert-level mastery in team management."
+            },
+            {
+                "name": "Cost Management",
+                "level": 4,
+                "explanation": "Successfully beat budget targets by $1.6 million and estimated cost savings of $7.5 million over three years, demonstrating strong proficiency in cost management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Consistently exceeded customer expectations, suggesting a strong ability to provide high-quality service and drive customer satisfaction."
+            },
+            {
+                "name": "Database Management",
+                "level": 3,
+                "explanation": "Implemented a medical equipment management database, demonstrating a solid working proficiency in database management."
+            },
+            {
+                "name": "Clinical Engineering",
+                "level": 3,
+                "explanation": "Participated in the implementation of a Clinical Engineering program, suggesting a solid working proficiency in clinical engineering."
+            }
+        ]
+    }
+}

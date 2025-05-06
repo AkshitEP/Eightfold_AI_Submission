@@ -1,0 +1,22 @@
+{
+    "resume_file": "331.json",
+    "recommendation_file": "Recommendation_From_ID_144.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a supervisor or peer. The language is formal, but the recommendation is written from the perspective of a Creative Director, which may not be directly related to the candidate's role as a Creative Assistant.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Event Planning",
+            "Public Relations",
+            "Time Management",
+            "Teamwork",
+            "Problem-Solving",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities, communication skills, and project management experience. However, the source of the recommendation is not explicitly stated, which may raise some concerns about its credibility."
+    }
+}

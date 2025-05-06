@@ -1,0 +1,67 @@
+{
+    "target_id": "556",
+    "recommendations": [
+        {
+            "recommender_id": "77",
+            "recommendation": {
+                "resume_file": "556.json",
+                "recommendation_file": "Recommendation_From_ID_77.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Teamwork",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, teamwork, and communication, which aligns well with their skills and experience. However, it does not specifically mention their experience in fitness instruction or personal training."
+                }
+            }
+        },
+        {
+            "recommender_id": "368",
+            "recommendation": {
+                "resume_file": "556.json",
+                "recommendation_file": "Recommendation_From_ID_368.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in Digital Marketing and Communications seems unrelated to the candidate's experience in sales and fitness. However, the recommender's praise for the candidate's interpersonal skills and team player mentality aligns well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Time Management",
+                        "Communication",
+                        "Leadership",
+                        "Teamwork",
+                        "Customer Service",
+                        "Fitness Instruction",
+                        "Personal Training"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strong interpersonal skills, team player mentality, and passion for helping others, which aligns well with their experience in sales and fitness. However, the recommender's background seems unrelated to the candidate's experience, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "280",
+            "recommendation": {
+                "resume_file": "556.json",
+                "recommendation_file": "Recommendation_From_ID_280.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Fitness Instruction",
+                        "Personal Training",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in fitness instruction and personal training, but does not mention other relevant skills."
+                }
+            }
+        }
+    ]
+}

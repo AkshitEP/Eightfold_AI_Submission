@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "President/Chief Executive Officer",
+                "work_description": "The Chief Executive Officer is responsible for the administration of all programs of St. Vincent Family Centers in accordance with the stated purposes of St. Vincent Family Centers and the general policies formulated by the Board of Directors.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Executive Director (Ohio)",
+                "work_description": "Under the general oversight of the President/CEO, the Executive Director was responsible for the administration and supervision of the National Youth Advocate Program/Ohio.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "10/2010"
+            },
+            {
+                "role_name": "Assistant Director",
+                "work_description": "Managed and directed day-to-day program service delivery within Franklin County.",
+                "company_level": "Mid-level",
+                "start_date": "06/2002",
+                "end_date": "01/2009"
+            },
+            {
+                "role_name": "Child Welfare Caseworker",
+                "work_description": "Supervised staff, including advising staff on policies and procedures for child welfare casework program.",
+                "company_level": "Mid-level",
+                "start_date": "07/1998",
+                "end_date": "05/2002"
+            },
+            {
+                "role_name": "Program Worker",
+                "work_description": "Under the direction of the Unit Supervisor, trained patients to reach maximum independent functioning in daily living skills.",
+                "company_level": "Mid-level",
+                "start_date": "04/1996",
+                "end_date": "08/1998"
+            },
+            {
+                "role_name": "Youth Leader",
+                "work_description": "Provided one-on-one and group supervision to children with severe behavioral problems.",
+                "company_level": "Mid-level",
+                "start_date": "06/1995",
+                "end_date": "04/1996"
+            }
+        ],
+        "education": [
+            {
+                "university": "Bethany College",
+                "start_date": "01/1991",
+                "end_date": "12/1995",
+                "domain": "Psychology",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Franklin University",
+                "start_date": "01/1999",
+                "end_date": "12/2001",
+                "domain": "Human Services Management",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including President/CEO, Executive Director, and Assistant Director, indicating expert-level mastery."
+            },
+            {
+                "name": "Program Management",
+                "level": 5,
+                "explanation": "Has managed and directed day-to-day program service delivery in various roles, showing expert-level proficiency."
+            },
+            {
+                "name": "Child Welfare",
+                "level": 4,
+                "explanation": "Has experience as a Child Welfare Caseworker and supervised staff in this area, indicating strong proficiency."
+            },
+            {
+                "name": "Staff Supervision",
+                "level": 4,
+                "explanation": "Has supervised staff in various roles, including advising staff on policies and procedures, showing strong proficiency."
+            },
+            {
+                "name": "Policy Development",
+                "level": 3,
+                "explanation": "Has experience with policy development and implementation in various roles, indicating solid working proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has experience managing teams in various roles, including as President/CEO and Executive Director, showing strong proficiency."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 3,
+                "explanation": "Has experience with strategic planning in various roles, including as President/CEO, indicating solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience communicating with staff, stakeholders, and the public in various roles, showing strong proficiency."
+            }
+        ]
+    }
+}

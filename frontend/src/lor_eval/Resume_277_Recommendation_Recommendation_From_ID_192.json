@@ -1,0 +1,18 @@
+{
+    "resume_file": "277.json",
+    "recommendation_file": "Recommendation_From_ID_192.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with the second individual's description aligning more closely with the resume. However, the recommendation lacks specific examples and details from the resume, and the language used is somewhat generic.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Leadership",
+            "Recruitment and Selection",
+            "Staff Management",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be describing two different individuals, which raises some concerns about its relevance and authenticity. However, the second individual's description does align with some of the skills and experiences listed on the resume."
+    }
+}

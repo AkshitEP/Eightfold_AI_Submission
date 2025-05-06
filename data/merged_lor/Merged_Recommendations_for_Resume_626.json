@@ -1,0 +1,69 @@
+{
+    "target_id": "626",
+    "recommendations": [
+        {
+            "recommender_id": "839",
+            "recommendation": {
+                "resume_file": "626.json",
+                "recommendation_file": "Recommendation_From_ID_839.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the recommender's claim to have worked alongside the candidate as a Property Manager.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Financial Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but there are some minor inconsistencies that may indicate a minor exaggeration or inaccuracy."
+                }
+            }
+        },
+        {
+            "recommender_id": "692",
+            "recommendation": {
+                "resume_file": "626.json",
+                "recommendation_file": "Recommendation_From_ID_692.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Financial Planning",
+                        "Leadership",
+                        "Financial Management",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their finance management capabilities, leadership skills, and analytical prowess."
+                }
+            }
+        },
+        {
+            "recommender_id": "667",
+            "recommendation": {
+                "resume_file": "626.json",
+                "recommendation_file": "Recommendation_From_ID_667.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Financial Planning",
+                        "Leadership",
+                        "Financial Management",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and analytical skills. The recommender's role as a Finance Supervisor adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

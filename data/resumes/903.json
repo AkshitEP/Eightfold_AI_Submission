@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Electrician",
+                "work_description": "Responsible for inspection, testing and maintenance of electrical, electronic and HVAC systems on rolling stock equipment in accordance with FRA and Amtrak standards and guidelines.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2017",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Service Technician",
+                "work_description": "Repair, recondition, service, and maintain Uninteruptable Power Supply systems and other power systems related components. Troubleshoot and diagnose malfunctions of the complete power systems.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2016",
+                "end_date": "02/2017"
+            },
+            {
+                "role_name": "Electrical Work Center Supervisor/1st Lieutenant Supervisor",
+                "work_description": "Supervises 13 personnel performing scheduled and unscheduled maintenance on flight control, instrumentation, navigation and electrical systems on 17 F/A-18C/D/E/F and 3 EA-18G aircraft. Supervises 9 Sailors responsible for the daily upkeep of squadron facilities and the stocking, inventory and sales of squadron store merchandise.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2014",
+                "end_date": "02/2016"
+            },
+            {
+                "role_name": "Avionics Division Supervisor/Indoctrination Supervisor",
+                "work_description": "Managed the administrative and production efforts of 59 avionics technicians. Performing intermediate level repair of H-60, H-53, AV-8, UH-1, and AH-1 aircraft systems and components. Responsible for the check in and training of all newly assigned Sailors, receiving all their initial shipboard qualifications.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2011",
+                "end_date": "07/2014"
+            },
+            {
+                "role_name": "Avionics Work Center Supervisor",
+                "work_description": "Responsible for the administrative and production efforts of 34 avionics technicians. Performing intermediate level repair on P-3 and H-60 aircraft, electrical and power generation systems and components.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2008",
+                "end_date": "07/2011"
+            },
+            {
+                "role_name": "Aviation Electrician Shift Supervisor/Avionics Technician Shift Supervisor",
+                "work_description": "Supervised 3 Sailors performing scheduled/unscheduled maintenance and corrosion prevention and treatment on 7 SH-60F/HH-60H helicopters. Responsible for troubleshooting and repair of Electrical/Instrument and Automatic Flight Control Systems.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2001",
+                "end_date": "07/2008"
+            },
+            {
+                "role_name": "Aviation Electrician/Avionics Technician",
+                "work_description": "Performed scheduled/unscheduled maintenance and corrosion prevention and treatment on 7 SH-60F/HH-60H helicopters. Performed intermediate level component and system repair on electrical and power generation systems for P-3, S-3, and H-60 aircraft.",
+                "company_level": "Large Corporation",
+                "start_date": "07/1996",
+                "end_date": "07/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "Embry-Riddle Aeronautical University",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Professional Aeronautics",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Electrical Systems Maintenance",
+                "level": 5,
+                "explanation": "Extensive experience in inspection, testing, and maintenance of electrical systems on rolling stock equipment, aircraft, and helicopters, indicating expert-level mastery."
+            },
+            {
+                "name": "HVAC Systems Maintenance",
+                "level": 4,
+                "explanation": "Experience in maintenance of HVAC systems on rolling stock equipment, suggesting strong proficiency."
+            },
+            {
+                "name": "Power Systems Repair",
+                "level": 4,
+                "explanation": "Experience in repair and maintenance of power systems, including Uninterruptable Power Supply systems, indicating strong proficiency."
+            },
+            {
+                "name": "Avionics Systems Repair",
+                "level": 5,
+                "explanation": "Extensive experience in intermediate-level repair of avionics systems and components on various aircraft, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Extensive experience in supervising personnel, including teams of up to 59 avionics technicians, indicating expert-level leadership skills."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 5,
+                "explanation": "Experience in troubleshooting and diagnosing malfunctions of complex systems, including electrical and power generation systems, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Experience in managing administrative and production efforts of teams, suggesting strong proficiency in project management."
+            },
+            {
+                "name": "Quality Control",
+                "level": 4,
+                "explanation": "Experience in ensuring compliance with standards and guidelines, including FRA and Amtrak standards, suggesting strong proficiency in quality control."
+            }
+        ]
+    }
+}

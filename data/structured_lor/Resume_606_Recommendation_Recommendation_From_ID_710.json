@@ -1,0 +1,19 @@
+{
+    "resume_file": "606.json",
+    "recommendation_file": "Recommendation_From_ID_710.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Administrative Support",
+            "Record Keeping",
+            "Customer Service",
+            "Data Entry",
+            "Communication",
+            "Accounting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, reporting, and administrative support. However, the recommendation does not explicitly mention the candidate's proficiency in Microsoft Office, Time Management, or their experience as a Security Officer."
+    }
+}

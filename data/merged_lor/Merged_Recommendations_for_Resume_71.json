@@ -1,0 +1,29 @@
+{
+    "target_id": "71",
+    "recommendations": [
+        {
+            "recommender_id": "219",
+            "recommendation": {
+                "resume_id": 71,
+                "recommendation_file": "Recommendation_From_ID_219.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "HR Administration",
+                        "Compliance",
+                        "Employee Relations",
+                        "Microsoft Office",
+                        "SAP Administration",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR administration, recruitment, and employee onboarding expertise. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        }
+    ]
+}

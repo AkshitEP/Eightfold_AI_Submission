@@ -1,0 +1,45 @@
+{
+    "target_id": "759",
+    "recommendations": [
+        {
+            "recommender_id": "334",
+            "recommendation": {
+                "resume_file": "759.json",
+                "recommendation_file": "Recommendation_From_ID_334.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role as a Professional Fitness Trainer and Group Instructor, which seems unrelated to the candidate's sales experience. However, the recommendation still provides specific examples of the candidate's skills and accomplishments.",
+                    "verified_skills": [
+                        "Sales",
+                        "Leadership",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's sales acumen, relationship-building skills, and ability to develop new markets. However, the recommender's role and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "304",
+            "recommendation": {
+                "resume_file": "759.json",
+                "recommendation_file": "Recommendation_From_ID_304.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's role and relationship to the candidate.",
+                    "verified_skills": [
+                        "Sales",
+                        "Leadership",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional sales skills and leadership abilities, but does not specifically mention other key skills listed on the resume."
+                }
+            }
+        }
+    ]
+}

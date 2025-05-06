@@ -1,0 +1,17 @@
+{
+    "resume_file": "147.json",
+    "recommendation_file": "Recommendation_From_ID_28.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and unclear source of recommendation.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Budgeting",
+            "Leadership",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and unclear language. The source of the recommendation is unknown."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "resume_file": "516.json",
+    "recommendation_file": "Recommendation_From_ID_209.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Accounting",
+            "Budgeting",
+            "Financial Reporting",
+            "Leadership",
+            "Project Management",
+            "Data Analysis",
+            "Microsoft Excel",
+            "Hyperion"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, leadership, and project management skills. The VP of Finance's endorsement is credible, given their position and the candidate's role in the organization."
+    }
+}

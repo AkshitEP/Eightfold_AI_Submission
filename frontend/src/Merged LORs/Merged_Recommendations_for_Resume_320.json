@@ -1,0 +1,150 @@
+{
+    "target_id": "320",
+    "recommendations": [
+        {
+            "recommender_id": "263",
+            "recommendation": {
+                "resume_file": "320.json",
+                "recommendation_file": "Recommendation_From_ID_263.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Staff Management",
+                        "Patient Care",
+                        "Nursing"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, the recommender's role as a General Accountant may not be directly related to the candidate's nursing expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "192",
+            "recommendation": {
+                "resume_file": "320.json",
+                "recommendation_file": "Recommendation_From_ID_192.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Leadership",
+                        "Staff Management",
+                        "Patient Care",
+                        "Computer Proficiency",
+                        "Scheduling",
+                        "Payroll Management",
+                        "Documentation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, staff development, and patient care management. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "604",
+            "recommendation": {
+                "resume_file": "320.json",
+                "recommendation_file": "Recommendation_From_ID_604.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Leadership",
+                        "Staff Management",
+                        "Patient Care"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing expertise, leadership abilities, and patient care skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "731",
+            "recommendation": {
+                "resume_file": "320.json",
+                "recommendation_file": "Recommendation_From_ID_731.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly positive tone, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Leadership",
+                        "Staff Management",
+                        "Patient Care"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies and an overly positive tone raise some concerns."
+                }
+            }
+        },
+        {
+            "recommender_id": "340",
+            "recommendation": {
+                "resume_file": "320.json",
+                "recommendation_file": "Recommendation_From_ID_340.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Leadership",
+                        "Staff Management",
+                        "Patient Care"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their leadership skills and extensive nursing background."
+                }
+            }
+        },
+        {
+            "recommender_id": "840",
+            "recommendation": {
+                "resume_file": "320.json",
+                "recommendation_file": "Recommendation_From_ID_840.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Leadership",
+                        "Staff Management",
+                        "Patient Care"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing career and leadership roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "211",
+            "recommendation": {
+                "resume_file": "320.json",
+                "recommendation_file": "Recommendation_From_ID_211.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Patient Care",
+                        "Staff Management",
+                        "Quality Assurance",
+                        "Compliance with healthcare standards"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and patient care abilities."
+                }
+            }
+        }
+    ]
+}

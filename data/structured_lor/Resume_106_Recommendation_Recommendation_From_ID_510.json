@@ -1,0 +1,20 @@
+{
+    "resume_file": "106.json",
+    "recommendation_file": "Recommendation_From_ID_510.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions the tax accountant's experience and skills, which are not present in the provided resume. This inconsistency raises some concerns.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Accounting",
+            "Leadership",
+            "Investment Management",
+            "Auditing",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation highlights the finance director's exceptional leadership and financial acumen, which aligns well with the skills and experience mentioned in the resume. However, the recommendation also mentions the tax accountant's skills and experience, which are not present in the provided resume."
+    }
+}

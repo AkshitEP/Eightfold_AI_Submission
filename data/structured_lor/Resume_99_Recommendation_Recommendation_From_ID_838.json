@@ -1,0 +1,18 @@
+{
+    "resume_id": 99,
+    "recommendation_file": "Recommendation_From_ID_838.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Financial Analysis",
+            "Process Improvement",
+            "Time Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, financial analysis, and process improvement skills. The source of the recommendation is a Director of Finance, indicating a supervisory relationship."
+    }
+}

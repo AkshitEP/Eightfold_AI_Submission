@@ -1,0 +1,20 @@
+{
+    "target_id": "453",
+    "recommendations": [
+        {
+            "recommender_id": "855",
+            "recommendation": {
+                "resume_file": "453.json",
+                "recommendation_file": "Recommendation_From_ID_855.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be for a different individual, with no direct connection to the candidate's skills or experience. The language is formal, but the content does not align with the candidate's resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be for an Electrical Engineer, not the candidate. The recommendation highlights skills and experiences unrelated to the candidate's resume, making it seem like a misaligned or potentially fraudulent recommendation."
+                }
+            }
+        }
+    ]
+}

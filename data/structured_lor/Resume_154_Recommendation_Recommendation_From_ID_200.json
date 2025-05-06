@@ -1,0 +1,16 @@
+{
+    "resume_file": "154.json",
+    "recommendation_file": "Recommendation_From_ID_200.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, such as the candidate's background in Human Resources not being mentioned in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems largely credible, but lacks substantial detail or alignment with the key areas of expertise."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Unmanned Aviation Technician Supervisor",
+                "work_description": "Direct team activities, establishing task priorities, scheduling and tracking work assignments, providing guidance, and ensuring the availability of resources. Report project plans, progress, and results. Direct and support the compilation and analysis of technical source data necessary for product development.",
+                "company_level": "Mid-level",
+                "start_date": "02/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Production, Planning, and Expediting Clerk",
+                "work_description": "Directly supervise 15+ military personnel. Evaluate employees' work performance. Promote team approach. Share information and search for input from internal and external sources. Maintain accurate documentation of all employees. Mentor personnel.",
+                "company_level": "Mid-level",
+                "start_date": "03/2008",
+                "end_date": "03/2010"
+            },
+            {
+                "role_name": "Production, Planning, and Expediting Clerk Supervisor",
+                "work_description": "Train and instruct staff on company procedures, updates, and regulations. Present briefings, training and information sessions to large and small groups.",
+                "company_level": "Mid-level",
+                "start_date": "03/2006",
+                "end_date": "03/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "National University",
+                "start_date": "06/2004",
+                "end_date": "06/2004",
+                "domain": "",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in supervising teams, mentoring personnel, and providing guidance, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience in establishing task priorities, scheduling and tracking work assignments, and reporting project plans, progress, and results, showing strong proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has experience in directing team activities, ensuring the availability of resources, and promoting a team approach, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in presenting briefings, training, and information sessions to large and small groups, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Has experience in training and instructing staff on company procedures, updates, and regulations, showing a solid working proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 2,
+                "explanation": "Has some experience in evaluating employees' work performance and searching for input from internal and external sources, indicating some practical experience in problem-solving."
+            }
+        ]
+    }
+}

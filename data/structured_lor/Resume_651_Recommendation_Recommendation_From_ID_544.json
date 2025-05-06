@@ -1,0 +1,17 @@
+{
+    "resume_file": "651.json",
+    "recommendation_file": "Recommendation_From_ID_544.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions leadership skills, but the resume does not provide clear evidence of leadership experience. Additionally, the recommendation mentions 'sales representative of the year' awards, but the resume does not mention such awards.",
+        "verified_skills": [
+            "Customer Service",
+            "Account Management",
+            "Sales and Marketing",
+            "Banking Operations"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in customer service, account management, sales and marketing, and banking operations. However, some minor inconsistencies and exaggerated claims are present, which raises the fraud chance level to 2."
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant III",
+                "work_description": "Responsible for grant management including preparing corrections, cost transfers, budget transfers, invoices and final reports. Request cash drawdowns and complete monthly reconciliations for grants and contracts. Correspond with outside granting agencies and University Grants and Contracts department to verify billing details. Monitor accounts receivable balances.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Assistant Accountant",
+                "work_description": "Full charge processing of all functions related to accounts receivable, accounts payable & purchasing, assists in year-end close out. Independently research records and prepare journal entries as necessary. Reconcile records and documents; record general ledger entries. Analyze accounting records for compliance with DCCCD procedures.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Accounting Clerk B",
+                "work_description": "Examined, coded, verified, balanced, and reconciled various kinds of transactions, invoices and reports. Reconciled specific general ledger accounts and prepared adjusting journal entries as needed. Maintained spreadsheets and other related files and documents to record accounting transactions. Cash handling.",
+                "company_level": "Mid-level",
+                "start_date": "01/2006",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Accounting Instructor",
+                "work_description": "Plan course instruction based on the approved syllabus/course outline provided to assure course content and learning objectives are met. Design, administer, and grade examinations to assess achievement of course objectives as identified in the syllabus and as approved by the Academic Dean. Schedule and post office hours to provide academic support to students, tutor if necessary, and provide other assistance as needed.",
+                "company_level": "Mid-level",
+                "start_date": "06/2003",
+                "end_date": "01/2004"
+            },
+            {
+                "role_name": "Student Accounts Representative/Bookkeeper",
+                "work_description": "Tracked and maintained student accounts throughout the collection process to ensure prompt payment of outstanding balances. Advised students regarding their payment options and financial policies. Provided customer service and answer student inquiries regarding their financial status. Reviewed student payment plans for completeness and accuracy. Posted student tuition and fees. Issued system generated receipts.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "01/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Prairie View A & M University",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "Accounting",
+                "level": "BBA"
+            },
+            {
+                "university": "University of North Texas",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Finance",
+                "level": "BBA"
+            },
+            {
+                "university": "University of North Texas",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Strategic Management",
+                "level": "MBA"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Grant Management",
+                "level": 4,
+                "explanation": "Has extensive experience with grant management, including preparing corrections, cost transfers, budget transfers, invoices, and final reports, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Has experience with monthly reconciliations for grants and contracts, as well as reconciling general ledger accounts, showing strong proficiency."
+            },
+            {
+                "name": "Accounts Receivable",
+                "level": 4,
+                "explanation": "Has experience with monitoring accounts receivable balances and tracking student accounts, indicating strong proficiency."
+            },
+            {
+                "name": "Accounts Payable",
+                "level": 3,
+                "explanation": "Has experience with processing accounts payable, but the extent of the experience is not as clear as other areas, showing a solid working proficiency."
+            },
+            {
+                "name": "General Ledger",
+                "level": 4,
+                "explanation": "Has experience with recording general ledger entries and reconciling general ledger accounts, indicating strong proficiency."
+            },
+            {
+                "name": "Journal Entries",
+                "level": 4,
+                "explanation": "Has experience with preparing and recording journal entries, showing strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Has experience with budget transfers and preparing budget reports, but the extent of the experience is not as clear as other areas, showing a solid working proficiency."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 3,
+                "explanation": "Has experience with cash handling, but the extent of the experience is not as clear as other areas, showing a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience with providing customer service to students, showing a solid working proficiency."
+            },
+            {
+                "name": "Teaching/Instruction",
+                "level": 3,
+                "explanation": "Has experience as an accounting instructor, showing a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for managing financial records and reconciliations, suggesting strong proficiency."
+            }
+        ]
+    }
+}

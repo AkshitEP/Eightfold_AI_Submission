@@ -1,0 +1,17 @@
+{
+    "resume_file": "215.json",
+    "recommendation_file": "Recommendation_From_ID_388.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation mentions skills and experiences not directly related to the candidate's resume, such as curriculum design and student success. The language is formal, but the connection to the candidate's accounting experience is not strong.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Financial Analysis",
+            "Auditing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's analytical skills and attention to detail, but the connection to the candidate's accounting experience is not strong. The recommendation seems to be written from the perspective of an IT instructor, which may not be directly relevant to the candidate's accounting background."
+    }
+}

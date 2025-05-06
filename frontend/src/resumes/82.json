@@ -1,0 +1,85 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Coordinator",
+                "work_description": "Continually evaluating and implanting new technology to save cost, maintain and improve business process. Sole point of contact for 150 people including remote staff. Led $300,000 implantation of Navision ERP System. Continual in-house refinements and improvements to Navision. Upgraded from Navision's proprietary C/side database to SQL 2000 database. Continual in-house refinements and improvements to Navision. Created and implemented custom databases for leading National and Regional financial institutions that increase revenue. Initiated use of remote control programs to train and help trouble shoot customer issues in a more timely manner. Final point of resolution for customer software and hardware issues. Responsible for onsite installation of industry specific hardware and software. Implemented ACT 2006 Customer relation management database. Led redesign of corporate website to including online shopping cart, site costumer extranet, and employee intranet. Led the development and implemented of electronic work order ticket which greatly improved cash flow. Led the revision of service call dispatch process to an automated delivery system via cell phones. Developed numerous in house databases and reports to suite customers specific billing and reporting needs. Negotiate contracts and interface with vendors. Designed, lunched and maintain company wide disaster recovery plan. Design network infrastructure and lead relocation team of corporate headquarters and regional warehouses. Responsible for maintaining and securing a Microsoft Windows 2003 environment. Employee systems configuration and training employees on a variety of network systems. Organizing and Supporting Communicating between Management & Employees. Design network infrastructure and lead relocation team of corporate headquarters and regional warehouses. Upgraded to all servers to windows 2003 from Windows NT 4 0. Maintain and make sure all software is up to date and compliant. Responsible for onsite installation of industry specific hardware and software. Coordinate computer related training for service staff.",
+                "company_level": "Mid-level",
+                "start_date": "05/2000",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Information Systems Manager",
+                "work_description": "Designed in house proprietary costumer relation database. Designed and implemented Microsoft 2003 SBS. Led design of corporate web site and internet marketing campaigns. Responsible for corporate network security and customer WI-FI network.",
+                "company_level": "Mid-level",
+                "start_date": "01/1996",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "Curry College",
+                "start_date": "01/1988",
+                "end_date": "12/1992",
+                "domain": "Business Management",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Led multiple large-scale projects, including the $300,000 implementation of the Navision ERP System, redesign of the corporate website, and development of electronic work order tickets, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Database Management",
+                "level": 5,
+                "explanation": "Designed and implemented multiple custom databases for leading financial institutions, and upgraded the company's database from Navision's proprietary C/side database to SQL 2000, showing expert-level proficiency."
+            },
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Designed and maintained the company's network infrastructure, led the relocation team for corporate headquarters and regional warehouses, and upgraded all servers from Windows NT 4.0 to Windows 2003, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Sole point of contact for 150 people, including remote staff, and led multiple teams, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Customer Relationship Management",
+                "level": 4,
+                "explanation": "Implemented ACT 2006 Customer relation management database and designed in-house proprietary customer relation database, indicating strong proficiency."
+            },
+            {
+                "name": "Disaster Recovery",
+                "level": 4,
+                "explanation": "Designed, launched, and maintained a company-wide disaster recovery plan, showing strong proficiency."
+            },
+            {
+                "name": "Microsoft Windows",
+                "level": 4,
+                "explanation": "Maintained and secured a Microsoft Windows 2003 environment, and upgraded all servers from Windows NT 4.0 to Windows 2003, indicating strong proficiency."
+            },
+            {
+                "name": "SQL",
+                "level": 4,
+                "explanation": "Upgraded the company's database from Navision's proprietary C/side database to SQL 2000, showing strong proficiency."
+            },
+            {
+                "name": "Network Security",
+                "level": 4,
+                "explanation": "Responsible for corporate network security and customer WI-FI network, indicating strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Coordinated computer-related training for service staff, showing a solid working proficiency."
+            }
+        ]
+    }
+}

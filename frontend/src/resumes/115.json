@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Branch Logistics Manager",
+                "work_description": "Managed team of 7 professionals. Ensure timely and accurate delivery of products. Compliance control with all applicable regulatory requirements including, but not limited to, providing documents for the driver qualification file and abiding by hours of service, daily log, hazardous materials (placarding, training and shipping papers), daily vehicle inspections and reports, and maintenance regulations.",
+                "company_level": "Mid-level",
+                "start_date": "04/2016",
+                "end_date": "07/2016"
+            },
+            {
+                "role_name": "General Manager",
+                "work_description": "Managed club to meet or exceed monthly sales quotas of 60% or higher sales average. Hired, developed, and promoted new employees. Headed daily staff sales training and developing. Boosted motivation and energy levels within team.",
+                "company_level": "Mid-level",
+                "start_date": "02/2012",
+                "end_date": "02/2015"
+            },
+            {
+                "role_name": "Sales Manager/Assistant Manager",
+                "work_description": "Managed sales consultants to assure weekly and monthly quotas were exceeded. Attended walk ins and appointments who inquired on memberships. Acquired and established memberships for new members.",
+                "company_level": "Mid-level",
+                "start_date": "02/2011",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Personal Trainer/Aerobics Instructor",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Suspense Specialist",
+                "work_description": "Researched and resolved, simple to complex suspense items rejected to the Suspense Database. Performed maintenance, completed deposit adjustments, inputted required journalization and other V - system transactions, as appropriate.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Contribution Specialist",
+                "work_description": "Processed contributions that were received through e-Remit website. Reviewed bill history to determine correct bills to be pulled to process contributions with correct bill.",
+                "company_level": "Mid-level",
+                "start_date": "01/2000",
+                "end_date": "01/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "G.C. Scarborough High School",
+                "start_date": "01/1996",
+                "end_date": "12/1996",
+                "domain": "",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Art Institute of Houston",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Computer Animation",
+                "level": ""
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed teams of professionals in various roles, including Branch Logistics Manager and General Manager, demonstrating strong proficiency in leadership."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Successfully managed teams to meet or exceed sales quotas and ensured timely and accurate delivery of products, indicating strong proficiency."
+            },
+            {
+                "name": "Sales Management",
+                "level": 4,
+                "explanation": "Managed sales consultants to exceed weekly and monthly quotas, and acquired and established memberships for new members, showing strong proficiency."
+            },
+            {
+                "name": "Compliance Management",
+                "level": 3,
+                "explanation": "Ensured compliance with regulatory requirements, including providing documents for driver qualification files and abiding by hours of service, indicating solid working proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Researched and resolved suspense items, and performed maintenance and deposit adjustments, showing solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Data Entry",
+                "level": 2,
+                "explanation": "Processed contributions and inputted required journalization and other transactions, indicating some practical experience with data entry."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Attended walk-ins and appointments, and acquired and established memberships for new members, showing some practical experience with customer service."
+            },
+            {
+                "name": "Training and Development",
+                "level": 2,
+                "explanation": "Headed daily staff sales training and development, indicating some practical experience with training and development."
+            }
+        ]
+    }
+}

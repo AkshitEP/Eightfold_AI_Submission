@@ -1,0 +1,70 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Outside Machinist",
+                "work_description": "Skilled in the installation of propulsion machinery, sea valves, steering gear, anchor handling equipment, elevators, pumps, ventilation fans, and weapons systems. Experience gained in the use of math, blueprints, precision tooling, and portable machine tools. Familiar with procedures for precision line boring, precision alignment of machinery, bearing fitting, machinery assembly, surface machining, precision reaming, and machinery and weapons testing.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Aviation Ordnanceman",
+                "work_description": "Coordinated efforts between 300 shipyard workers and 25 Navy Officers and Chiefs for over 40 Navy ship zones. Maintained an 85% on-time delivery rate. Prepared, controlled, documented, planned, and accounted for over 250 work candidates required for reentry work onboard the carrier in the shipyard. Coordinated work activities between the Navy, shipyard, and other subcontractors for multiple systems and equipment.",
+                "company_level": "Government",
+                "start_date": "11/1996",
+                "end_date": "01/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Tidewater Tech School of Welding",
+                "start_date": "09/2012",
+                "end_date": "09/2012",
+                "domain": "Welding",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Machinery Installation",
+                "level": 5,
+                "explanation": "Extensive experience in installing propulsion machinery, sea valves, steering gear, anchor handling equipment, elevators, pumps, ventilation fans, and weapons systems, indicating expert-level mastery."
+            },
+            {
+                "name": "Precision Tooling",
+                "level": 4,
+                "explanation": "Skilled in the use of precision tooling, including portable machine tools, and precision line boring, precision alignment of machinery, bearing fitting, machinery assembly, surface machining, and precision reaming, showing strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Coordinated efforts between 300 shipyard workers and 25 Navy Officers and Chiefs, maintained an 85% on-time delivery rate, and prepared, controlled, documented, planned, and accounted for over 250 work candidates, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Coordinated work activities between the Navy, shipyard, and other subcontractors for multiple systems and equipment, and led a team of 300 shipyard workers, showing strong leadership skills."
+            },
+            {
+                "name": "Welding",
+                "level": 2,
+                "explanation": "Completed a certificate program in welding, but no direct work experience is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Mathematics",
+                "level": 3,
+                "explanation": "Experience gained in the use of math for machinery installation and precision tooling, showing a solid working proficiency."
+            },
+            {
+                "name": "Blueprint Reading",
+                "level": 3,
+                "explanation": "Familiar with procedures for reading blueprints for machinery installation and precision tooling, showing a solid working proficiency."
+            }
+        ]
+    }
+}

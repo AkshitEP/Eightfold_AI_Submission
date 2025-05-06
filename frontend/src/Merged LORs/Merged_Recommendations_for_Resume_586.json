@@ -1,0 +1,98 @@
+{
+    "target_id": "586",
+    "recommendations": [
+        {
+            "recommender_id": "202",
+            "recommendation": {
+                "resume_file": "586.json",
+                "recommendation_file": "Recommendation_From_ID_202.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Business Analysis",
+                        "Software Development Life Cycle (SDLC)",
+                        "Application Implementation",
+                        "Requirements Gathering",
+                        "J2EE",
+                        "Web Development",
+                        "Sales Force Automation",
+                        "Customer Relationship Management",
+                        "Workflow Applications"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and project management abilities. The recommender's background in software testing complements the candidate's experience, making their endorsement credible."
+                }
+            }
+        },
+        {
+            "recommender_id": "888",
+            "recommendation": {
+                "resume_file": "586.json",
+                "recommendation_file": "Recommendation_From_ID_888.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Business Analysis",
+                        "Cloud Computing",
+                        "Software Development Life Cycle (SDLC)",
+                        "Application Implementation",
+                        "Requirements Gathering",
+                        "J2EE",
+                        "Web Development",
+                        "Sales Force Automation",
+                        "Customer Relationship Management",
+                        "Workflow Applications"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and problem-solving skills, project management, and technical expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "257",
+            "recommendation": {
+                "resume_file": "586.json",
+                "recommendation_file": "Recommendation_From_ID_257.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and expertise not being clearly stated. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Business Analysis",
+                        "Software Development Life Cycle (SDLC)",
+                        "Requirements Gathering",
+                        "J2EE",
+                        "Web Development",
+                        "Sales Force Automation",
+                        "Customer Relationship Management",
+                        "Workflow Applications"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in software development, business analysis, and project management. However, the recommender's role and expertise are not clearly stated, which raises some minor concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "138",
+            "recommendation": {
+                "resume_file": "586.json",
+                "recommendation_file": "Recommendation_From_ID_138.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Exaggerated claims and lack of concrete examples or evidence from the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned."
+                }
+            }
+        }
+    ]
+}

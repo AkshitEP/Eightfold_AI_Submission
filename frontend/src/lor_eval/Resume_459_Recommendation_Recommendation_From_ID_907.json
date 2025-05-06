@@ -1,0 +1,18 @@
+{
+    "resume_file": "459.json",
+    "recommendation_file": "Recommendation_From_ID_907.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of the Criminal Justice and Mental Health sectors, which are not directly related to the candidate's work experience. However, the recommendation still seems largely credible.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Recruitment and Hiring",
+            "Employee Relations",
+            "Training and Development",
+            "Leadership and Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR strategies and employee development initiatives. However, some minor inconsistencies and lack of direct experience in certain areas mentioned in the recommendation raise some concerns."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "339.json",
+    "recommendation_file": "Recommendation_From_ID_408.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be addressing two different individuals, and the claims made about the candidate's expertise in fitness and wellness seem unrealistic. Informal language and statistically improbable claims are present.",
+        "verified_skills": [
+            "Leadership",
+            "Nursing",
+            "Risk Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be exaggerated and contains unrelated skills and experiences. The language used is formal, but the claims made about the candidate's expertise seem unrealistic."
+    }
+}

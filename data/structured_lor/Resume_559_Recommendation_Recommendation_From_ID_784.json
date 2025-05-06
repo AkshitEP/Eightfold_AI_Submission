@@ -1,0 +1,19 @@
+{
+    "resume_file": "559.json",
+    "recommendation_file": "Recommendation_From_ID_784.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's claim of being a seasoned Finance Manager with over three years of experience in the automotive industry seems unrelated to the candidate's experience and education. However, the recommendation does provide specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Time Management",
+            "Teamwork",
+            "Basic Office Skills",
+            "Banking"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's relevant skills and experience, but the recommender's background and expertise seem unrelated to the candidate's education and experience."
+    }
+}

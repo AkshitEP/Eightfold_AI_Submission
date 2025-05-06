@@ -1,0 +1,18 @@
+{
+    "resume_file": "915.json",
+    "recommendation_file": "Recommendation_From_ID_81.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a supervisor or peer. The language is formal, but the recommendation is overly positive and lacks specific examples from the candidate's job history.",
+        "verified_skills": [
+            "System Administration",
+            "Software Management",
+            "Hardware Troubleshooting",
+            "Operating System Installation",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but the source is unclear. The recommendation highlights the candidate's technical skills and ability to deliver effective solutions, but lacks specific examples from their job history."
+    }
+}

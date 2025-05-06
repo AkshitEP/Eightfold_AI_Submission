@@ -1,0 +1,70 @@
+{
+    "target_id": "513",
+    "recommendations": [
+        {
+            "recommender_id": "538",
+            "recommendation": {
+                "resume_file": "513.json",
+                "recommendation_file": "Recommendation_From_ID_538.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Event Planning",
+                        "Customer Service",
+                        "Project Management",
+                        "Communication",
+                        "Time Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, event planning, and customer service abilities. The source of the recommendation is a Business Process Analyst who has collaborated with the candidate, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "163",
+            "recommendation": {
+                "resume_file": "513.json",
+                "recommendation_file": "Recommendation_From_ID_163.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly flattering language, but no obvious signs of fraud or statistically improbable claims.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Event Planning",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but may contain some minor exaggerations. The recommender's experience as a Certified Custom Framer is not directly related to the candidate's experience or skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "316",
+            "recommendation": {
+                "resume_file": "513.json",
+                "recommendation_file": "Recommendation_From_ID_316.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Event Planning",
+                        "Customer Service",
+                        "Project Management",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and customer service abilities. The source of the recommendation is a peer, with a complementary background in supply chain management and logistics."
+                }
+            }
+        }
+    ]
+}

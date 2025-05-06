@@ -1,0 +1,15 @@
+{
+    "resume_file": "168.json",
+    "recommendation_file": "Recommendation_From_ID_813.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written for a different person, as it mentions an aircraft mechanic, but the resume is for an aviation electronics technician. However, the skills and experiences mentioned in the recommendation are somewhat relevant to the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some relevant skills and experiences, but it seems to be written for a different person. The language is formal, but there are some inconsistencies."
+    }
+}

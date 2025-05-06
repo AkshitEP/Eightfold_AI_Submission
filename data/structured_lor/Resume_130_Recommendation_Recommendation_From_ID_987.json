@@ -1,0 +1,19 @@
+{
+    "resume_file": "130.json",
+    "recommendation_file": "Recommendation_From_ID_987.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales Performance",
+            "Customer Relationship Management",
+            "Presentation Skills",
+            "Industry Knowledge",
+            "Leadership",
+            "Communication Skills"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales acumen, presentation skills, and leadership abilities. The recommender's role as a Director in Clinical Research Operations adds credibility to the recommendation."
+    }
+}

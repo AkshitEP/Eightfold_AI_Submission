@@ -1,0 +1,15 @@
+{
+    "resume_file": "392.json",
+    "recommendation_file": "Recommendation_From_ID_398.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems exaggerated and lacks concrete examples from the candidate's work experience. The recommender's background as an Urban Birdwatching Director seems unrelated to the candidate's field, raising concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Project Management",
+            "Inventory Control"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's adaptability, strategic planning, and client relations skills, but lacks specific examples from their work experience in the energy sector. The recommender's background and the tone of the recommendation raise concerns about its authenticity."
+    }
+}

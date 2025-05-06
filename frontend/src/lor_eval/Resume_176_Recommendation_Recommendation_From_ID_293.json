@@ -1,0 +1,16 @@
+{
+    "resume_file": "176.json",
+    "recommendation_file": "Recommendation_From_ID_293.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic and exaggerated, with the recommender drawing an unlikely parallel between their experience as a dance instructor and the candidate's role as a Benefit Advocate Supervisor. The language used is overly flattering and lacks concrete examples or evidence from the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Coaching and Mentoring",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks specific examples and details from the candidate's work experience, and the comparison to the recommender's experience as a dance instructor seems forced and unconvincing. While the recommendation mentions some relevant skills, it does not provide a clear or credible assessment of the candidate's abilities."
+    }
+}

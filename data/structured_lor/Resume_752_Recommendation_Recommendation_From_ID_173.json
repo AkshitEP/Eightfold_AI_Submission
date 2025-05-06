@@ -1,0 +1,18 @@
+{
+    "resume_file": "752.json",
+    "recommendation_file": "Recommendation_From_ID_173.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as an English Language Arts teacher and Head of the English Department seems unrelated to the candidate's work experience. However, the recommendation provides specific examples of the candidate's skills and work ethic.",
+        "verified_skills": [
+            "Communication",
+            "Project Management",
+            "Time Management",
+            "Microsoft Office",
+            "Adobe InDesign"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in administrative support, bilingual capabilities, and software proficiency. However, the recommender's role and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+    }
+}

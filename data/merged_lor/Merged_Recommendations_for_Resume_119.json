@@ -1,0 +1,133 @@
+{
+    "target_id": "119",
+    "recommendations": [
+        {
+            "recommender_id": "704",
+            "recommendation": {
+                "resume_file": "119.json",
+                "recommendation_file": "Recommendation_From_ID_704.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Human Resources",
+                        "Communication",
+                        "Performance Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, HR management, and communication abilities. The source of the recommendation is a Director of Information Technology, indicating a peer-level endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "949",
+            "recommendation": {
+                "resume_file": "119.json",
+                "recommendation_file": "Recommendation_From_ID_949.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as an IT Specialist seems unrelated to the candidate's HR experience. However, the recommendation provides specific examples of the candidate's leadership and HR skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Performance Management",
+                        "Compliance",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional leadership skills, ability to navigate complex employee relations issues, and strategic approach to workforce planning and performance analysis. However, the recommender's role as an IT Specialist seems unrelated to the candidate's HR experience, which raises some concerns about the recommender's objectivity."
+                }
+            }
+        },
+        {
+            "recommender_id": "425",
+            "recommendation": {
+                "resume_file": "119.json",
+                "recommendation_file": "Recommendation_From_ID_425.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Performance Management",
+                        "Compliance",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and HR management abilities. The source of the recommendation is a peer, an Information Technology Manager, who has worked alongside the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "730",
+            "recommendation": {
+                "resume_file": "119.json",
+                "recommendation_file": "Recommendation_From_ID_730.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Human Resources",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and human resources skills. The source of the recommendation is a Corporate Project Manager, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "183",
+            "recommendation": {
+                "resume_file": "119.json",
+                "recommendation_file": "Recommendation_From_ID_183.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Human Resources",
+                        "Communication",
+                        "Performance Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management capabilities and leadership skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "199",
+            "recommendation": {
+                "resume_file": "119.json",
+                "recommendation_file": "Recommendation_From_ID_199.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be genuine, but there are some minor inconsistencies. The Operations Research Analyst is mentioned in the beginning, which seems unrelated to the Territory HR Manager's skills and experience. However, the recommendation does align well with the candidate's skills and experience in the latter part.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Performance Management",
+                        "Compliance",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional leadership and communication skills, as well as their ability to navigate human resources functions across a vast territory. However, the mention of the Operations Research Analyst seems out of place and may indicate a minor inconsistency."
+                }
+            }
+        }
+    ]
+}

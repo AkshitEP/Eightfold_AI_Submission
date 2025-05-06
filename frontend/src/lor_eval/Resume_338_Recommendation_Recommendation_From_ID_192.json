@@ -1,0 +1,18 @@
+{
+    "resume_file": "338.json",
+    "recommendation_file": "Recommendation_From_ID_192.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in job titles and roles, but overall the recommendation seems genuine and well-supported by the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Negotiation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional customer service skills, leadership abilities, and commitment to training and personnel development. However, the job title mentioned in the recommendation (Customer Service Advocate) does not match the job titles listed in the resume (Sales Manager, Data Entry operator, Loan Servicing Representative). Additionally, the recommendation mentions managing a team of 20, which is not explicitly stated in the resume."
+    }
+}

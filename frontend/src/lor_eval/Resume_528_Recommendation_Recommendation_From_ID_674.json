@@ -1,0 +1,12 @@
+{
+    "resume_file": "528.json",
+    "recommendation_file": "Recommendation_From_ID_674.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems to be describing a completely different person, with no mention of the candidate's skills or experience in leadership, management, personal training, or business development. The language used is also inconsistent with the candidate's background.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experience, and appears to be describing a different person. This raises significant concerns about the authenticity of the recommendation."
+    }
+}

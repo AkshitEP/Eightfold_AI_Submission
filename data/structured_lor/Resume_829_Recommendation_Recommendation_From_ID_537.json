@@ -1,0 +1,16 @@
+{
+    "resume_file": "829.json",
+    "recommendation_file": "Recommendation_From_ID_537.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales and Marketing",
+            "Customer Service",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and sales abilities. However, it does not directly reference all of the candidate's skills, such as project management and team management."
+    }
+}

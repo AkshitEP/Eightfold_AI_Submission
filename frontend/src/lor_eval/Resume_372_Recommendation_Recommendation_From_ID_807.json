@@ -1,0 +1,19 @@
+{
+    "resume_file": "372.json",
+    "recommendation_file": "Recommendation_From_ID_807.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Talent Management",
+            "Change Management",
+            "Workforce Planning",
+            "Organizational Development",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and business acumen. The source of the recommendation is a Management Consultant who has worked with the candidate, indicating a peer-level relationship."
+    }
+}

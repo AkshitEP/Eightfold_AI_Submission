@@ -1,0 +1,19 @@
+{
+    "resume_file": "137.json",
+    "recommendation_file": "Recommendation_From_ID_205.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Budgeting",
+            "Accounts Payable",
+            "Accounts Receivable",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial data management, cash flow projections, and training staff on accounting software. The source of the recommendation is a peer, an accountant with extensive experience, which adds credibility to the recommendation."
+    }
+}

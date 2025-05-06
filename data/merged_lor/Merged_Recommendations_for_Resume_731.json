@@ -1,0 +1,145 @@
+{
+    "target_id": "731",
+    "recommendations": [
+        {
+            "recommender_id": "374",
+            "recommendation": {
+                "resume_file": "731.json",
+                "recommendation_file": "Recommendation_From_ID_374.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and sales management abilities. However, the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "399",
+            "recommendation": {
+                "resume_file": "731.json",
+                "recommendation_file": "Recommendation_From_ID_399.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "474",
+            "recommendation": {
+                "resume_file": "731.json",
+                "recommendation_file": "Recommendation_From_ID_474.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's profession as a landscaper seems unrelated to the candidate's experience, and some claims may be exaggerated. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, communication, and leadership, but the recommender's profession and lack of direct supervision raise some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "64",
+            "recommendation": {
+                "resume_file": "731.json",
+                "recommendation_file": "Recommendation_From_ID_64.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be for two different individuals, and the language is overly flattering. However, the skills mentioned are somewhat relevant to the candidate's experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be for two different individuals, which makes it difficult to assess its relevance to the candidate's skills and experience. However, the skills mentioned are somewhat relevant to the candidate's experience, particularly in customer service and communication."
+                }
+            }
+        },
+        {
+            "recommender_id": "971",
+            "recommendation": {
+                "resume_file": "731.json",
+                "recommendation_file": "Recommendation_From_ID_971.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and problem-solving abilities. The source of the recommendation is a Personal Banker and Business Advocate, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "263",
+            "recommendation": {
+                "resume_file": "731.json",
+                "recommendation_file": "Recommendation_From_ID_263.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Additionally, the recommender's background as a General Accountant seems unrelated to the candidate's customer service experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, communication, leadership, and problem-solving. However, the recommender's background and relationship to the candidate are unclear, which may raise some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "39",
+            "recommendation": {
+                "resume_file": "731.json",
+                "recommendation_file": "Recommendation_From_ID_39.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service management, sales background, and leadership abilities. The recommender's position as a Banking Center Manager and Assistant Vice President adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

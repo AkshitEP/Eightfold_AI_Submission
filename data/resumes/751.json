@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Student Finance Consultant",
+                "work_description": "Provided information, advice and assistance regarding the various types of financial aid available to students. Analyzed student applications and determined eligibility for financial aid. Performed duties in the areas of compliance, reconciliation, professional judgment and satisfactory academic progress.",
+                "company_level": "Mid-level",
+                "start_date": "07/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Financial Aid Reporting Analyst",
+                "work_description": "Conduct research and analysis of student financial data refunding both title IV and non- title IV overpayments and ineligible funds. Accurately forecast and assess financial need(s) of students to ensure financial assistance meets their education goals.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Financial Aid Officer/Student Accounts",
+                "work_description": "Provided information, advice and assistance regarding the various types of financial aid available to students. Analyzed student applications and determined eligibility for financial aid. Managed large paperwork caseloads, complete, manage, and maintain completed accurate student files without error.",
+                "company_level": "Mid-level",
+                "start_date": "09/2009",
+                "end_date": "11/2012"
+            },
+            {
+                "role_name": "Assistant Store Manager",
+                "work_description": "Assisted the store manager in daily operation of the store (occasionally assuming store responsibility in his absence) Managed and maintained a full staff of sales floor, stock room, and overnight associates.",
+                "company_level": "Mid-level",
+                "start_date": "08/2007",
+                "end_date": "09/2009"
+            },
+            {
+                "role_name": "Front Desk Receptionist",
+                "work_description": "Greet guests and patrons as they arrive Handle guest check-ins and check-outs appropriately Operate hotel switchboard, take calls and provide information and transfer calls.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "08/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Atlanta Metropolitan College",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Microsoft Office Suite",
+                "level": "Course Completion Certificate"
+            },
+            {
+                "university": "Clark Atlanta University",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Communications",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Aid Analysis",
+                "level": 4,
+                "explanation": "Has extensive experience analyzing student applications and determining eligibility for financial aid, showing strong proficiency."
+            },
+            {
+                "name": "Compliance and Reconciliation",
+                "level": 4,
+                "explanation": "Performed duties in the areas of compliance, reconciliation, professional judgment and satisfactory academic progress, indicating strong proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Conducted research and analysis of student financial data, accurately forecasting and assessing financial need(s) of students, showing strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided information, advice and assistance regarding the various types of financial aid available to students, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Assisted the store manager in daily operation of the store and managed a full staff of sales floor, stock room, and overnight associates, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed large paperwork caseloads, complete, manage, and maintain completed accurate student files without error, showing a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Office Suite",
+                "level": 2,
+                "explanation": "Completed a course in Microsoft Office Suite, but no extensive experience is mentioned, indicating some practical experience."
+            }
+        ]
+    }
+}

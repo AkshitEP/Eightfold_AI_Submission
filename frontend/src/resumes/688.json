@@ -1,0 +1,116 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Receptionist and Veterinary Technician",
+                "work_description": "Scheduled surgeries and routine appointments, drew blood samples, developed X-rays, managed inventory and documentation, ordered medical supplies and animal food, administered vaccines, medication and performed lab tests, assisted in surgeries and euthanasias.",
+                "company_level": "Unknown",
+                "start_date": "06/2007",
+                "end_date": "09/2014"
+            },
+            {
+                "role_name": "Administrative Specialist and Personal Assistant",
+                "work_description": "General administrative responsibilities included coordination of calendars, processed expense reports, and regular communications for cross-functional departments, provided systems support, established appropriate documentation and tracking of business processes, demonstrated excellent knowledge of skills with specific and commonly used office software.",
+                "company_level": "Unknown",
+                "start_date": "05/2013",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Administrative Executive and Accountant",
+                "work_description": "Provided excellent customer service to clients, prepared invoices, billed clients, and initiated payment plans if necessary, managed the office, presented quotes to customers for communication services, accountable for cash transactions, and balance incoming revenue on a daily basis.",
+                "company_level": "Unknown",
+                "start_date": "02/2013",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Fitness Executive and Corporate Sales Representative",
+                "work_description": "Engage members and prospective members in product sales and promotions, schedule preventative maintenance and vendor management, maintain corporate partnerships and drive lifetime membership sales, responsible for daily currency handling, greet and assist all members and staff in any needs or issues that arose within the club on a daily basis.",
+                "company_level": "Unknown",
+                "start_date": "11/2011",
+                "end_date": "12/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Harford Community College",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Business Management",
+                "level": "Associate's Degree"
+            },
+            {
+                "university": "Maryland Fire and Rescue Institute",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Fire Science",
+                "level": "Diploma"
+            },
+            {
+                "university": "North Harford High School",
+                "start_date": "01/2004",
+                "end_date": "12/2004",
+                "domain": "Unknown",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            {
+                "interest": "Chiari and Syringomylia Foundation"
+            },
+            {
+                "interest": "Bel Air Volunteer Fire Company"
+            },
+            {
+                "interest": "Habitat for Humanity"
+            },
+            {
+                "interest": "March of Dimes"
+            }
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided excellent customer service to clients in multiple roles, including as an Administrative Executive and Accountant, and as a Fitness Executive and Corporate Sales Representative, indicating strong proficiency."
+            },
+            {
+                "name": "Administrative Support",
+                "level": 4,
+                "explanation": "Handled general administrative responsibilities in multiple roles, including as a Receptionist and Veterinary Technician, an Administrative Specialist and Personal Assistant, and an Administrative Executive and Accountant, showing strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Coordinated calendars, managed schedules, and handled multiple tasks in various roles, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Demonstrated excellent knowledge of skills with specific and commonly used office software, and provided regular communications for cross-functional departments, showing a solid level of proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Assisted in surgeries and euthanasias, and managed the office as an Administrative Executive and Accountant, but leadership experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Accounting",
+                "level": 2,
+                "explanation": "Managed cash transactions, balanced incoming revenue, and prepared invoices, but accounting experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Sales",
+                "level": 2,
+                "explanation": "Engaged members and prospective members in product sales and promotions as a Fitness Executive and Corporate Sales Representative, but sales experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Demonstrated excellent knowledge of skills with specific and commonly used office software, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

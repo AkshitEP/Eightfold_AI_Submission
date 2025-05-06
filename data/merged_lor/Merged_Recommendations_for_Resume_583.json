@@ -1,0 +1,65 @@
+{
+    "target_id": "583",
+    "recommendations": [
+        {
+            "recommender_id": "28",
+            "recommendation": {
+                "resume_file": "583.json",
+                "recommendation_file": "Recommendation_From_ID_28.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, such as selling over 31 phones in a single day, which seems statistically improbable.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Inventory Management",
+                        "Team Training"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales strategies and customer service skills. However, some claims seem exaggerated, and the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "185",
+            "recommendation": {
+                "resume_file": "583.json",
+                "recommendation_file": "Recommendation_From_ID_185.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession and experience do not directly align with the candidate's skills and experience. However, the recommendation still provides specific examples of the candidate's skills and qualities.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Team Training",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's growth, adaptability, and teamwork skills in a high-pressure retail environment. Although the recommender's profession is not directly related to the candidate's experience, the recommendation still provides valuable insights into the candidate's qualities and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "173",
+            "recommendation": {
+                "resume_file": "583.json",
+                "recommendation_file": "Recommendation_From_ID_173.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and some claims seem exaggerated (e.g., 'record-breaking sales figures').",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales",
+                        "Inventory Management",
+                        "Team Training"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's sales expertise, customer service skills, and ability to connect with customers. However, the recommender's relationship to the candidate is unclear, and some claims seem exaggerated."
+                }
+            }
+        }
+    ]
+}

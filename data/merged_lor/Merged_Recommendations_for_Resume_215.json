@@ -1,0 +1,106 @@
+{
+    "target_id": "215",
+    "recommendations": [
+        {
+            "recommender_id": "735",
+            "recommendation": {
+                "resume_file": "215.json",
+                "recommendation_file": "Recommendation_From_ID_735.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Auditing",
+                        "Financial Forecasting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and professionalism. However, the source of the recommendation is unclear, as the recommender's role is not explicitly stated as a supervisor or peer."
+                }
+            }
+        },
+        {
+            "recommender_id": "898",
+            "recommendation": {
+                "resume_file": "215.json",
+                "recommendation_file": "Recommendation_From_ID_898.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions an Information Technology Specialist, which is not relevant to the candidate's skills and experience. The language is formal, but the recommendation focuses on a collaboration rather than solely on the candidate's skills and experience.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Auditing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in general accounting, financial reconciliation, and auditing, but it also mentions a collaboration with an Information Technology Specialist, which is not relevant to the candidate's skills and experience. The recommendation is well-written and formal, but it could be more focused on the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "880",
+            "recommendation": {
+                "resume_file": "215.json",
+                "recommendation_file": "Recommendation_From_ID_880.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Auditing",
+                        "Financial Forecasting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and contributions to the organization."
+                }
+            }
+        },
+        {
+            "recommender_id": "183",
+            "recommendation": {
+                "resume_file": "215.json",
+                "recommendation_file": "Recommendation_From_ID_183.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Auditing",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and analytical skills. However, the recommender's role is unclear, and some skills mentioned in the recommendation (e.g., international payroll management) are not explicitly listed in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "388",
+            "recommendation": {
+                "resume_file": "215.json",
+                "recommendation_file": "Recommendation_From_ID_388.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation mentions skills and experiences not directly related to the candidate's resume, such as curriculum design and student success. The language is formal, but the connection to the candidate's accounting experience is not strong.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Auditing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's analytical skills and attention to detail, but the connection to the candidate's accounting experience is not strong. The recommendation seems to be written from the perspective of an IT instructor, which may not be directly relevant to the candidate's accounting background."
+                }
+            }
+        }
+    ]
+}

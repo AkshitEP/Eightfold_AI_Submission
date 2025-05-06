@@ -1,0 +1,18 @@
+{
+    "resume_file": "686.json",
+    "recommendation_file": "Recommendation_From_ID_810.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. Some claims seem exaggerated or unsupported, but no statistically improbable data is present.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Business Administration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and leadership abilities. However, the recommender's background and relationship with the candidate are unclear, and some claims seem exaggerated or unsupported."
+    }
+}

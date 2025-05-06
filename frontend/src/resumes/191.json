@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Managed and oversees the Finance Department of a charter airline which generated up to $4.2 million in gross revenues. Responsible for accounts payable, ADP payroll processing, multiple bank reconciliations, maintain general ledger, financial reporting and analysis, ad-hoc reporting, budget, cash management, handle monthly and year end accounting process; ensure accuracy and integrity of accounts.",
+                "company_level": "Mid-level",
+                "start_date": "07/2015",
+                "end_date": "05/2017"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Provided professional tax services to ensure accurate financial statements and tax compliance. Prepared and compiled financial information by preparing entries to general ledger accounts detailing assets, liabilities, and capital.",
+                "company_level": "Mid-level",
+                "start_date": "04/2012",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Managed overall operations and provided accounting and tax services to small/medium-sized businesses. Provided business management consulting. Handled accounting system setup and training, bookkeeping, account reconciliations and general ledger processing.",
+                "company_level": "Small",
+                "start_date": "05/2000",
+                "end_date": "12/2015"
+            },
+            {
+                "role_name": "Auditor / Manager",
+                "work_description": "In Charge of accounting accounts from diverse industries such as retail, property management, and real estate, and specializing in construction industry",
+                "company_level": "Mid-level",
+                "start_date": "08/1993",
+                "end_date": "05/2000"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Performed general accounting functions, including the preparation and review of financial analysis and reports.",
+                "company_level": "Mid-level",
+                "start_date": "09/1991",
+                "end_date": "02/1993"
+            }
+        ],
+        "education": [
+            {
+                "university": "Pontifical Catholic University of Puerto Rico",
+                "start_date": "01/1990",
+                "end_date": "12/1992",
+                "domain": "Business Administration, Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Has extensive experience in financial reporting and analysis across various roles, including preparing financial statements and ad-hoc reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Has over 25 years of experience in general accounting functions, including preparing entries to general ledger accounts, account reconciliations, and general ledger processing, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Handled ADP payroll processing and payroll-related tasks in multiple roles, suggesting strong proficiency in payroll management."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Managed budgeting responsibilities in multiple roles, including preparing financial information and handling cash management, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Held leadership roles, including managing the Finance Department and overseeing accounting operations, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience in financial analysis, including preparing financial reports and performing ad-hoc reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "Auditing",
+                "level": 5,
+                "explanation": "Has experience as an auditor, handling accounting accounts from diverse industries, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounting System Setup",
+                "level": 4,
+                "explanation": "Handled accounting system setup and training, suggesting strong proficiency in accounting system setup."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 4,
+                "explanation": "Handled bookkeeping tasks, including preparing entries to general ledger accounts, suggesting strong proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 3,
+                "explanation": "Likely used extensively for managing financial records and payroll, but no direct mention, suggesting solid working proficiency."
+            }
+        ]
+    }
+}

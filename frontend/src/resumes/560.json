@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Information Technology Manager",
+                "work_description": "Program Manager that drove and finalized a major project initiative consisting of migrating 13,000 Exchange On-Premise mail users/accounts to cloud based services (Office 365). Program Manager responsible for implementation and management of systems that allow Asset/Lease Reporting, Enterprise Backup, Patch Management and Application Distribution to over 10,000 PC's globally utilizing cloud based solutions.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2000",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Senior Information Systems Professional",
+                "work_description": "Developed long and short-term technology Server and Storage plans, formulated policies and procedures, and provided technology presentations to diverse groups of internal customers.",
+                "company_level": "Mid-level",
+                "start_date": "01/1996",
+                "end_date": "01/1999"
+            },
+            {
+                "role_name": "Network Support Engineer",
+                "work_description": "Provided support for NT, Netware, Macintosh, Cisco, 3Com, and Bay networks.",
+                "company_level": "Mid-level",
+                "start_date": "01/1995",
+                "end_date": "01/1996"
+            },
+            {
+                "role_name": "Senior Technician",
+                "work_description": "Responsible for troubleshooting, identifying, and resolving end user hardware and application issues.",
+                "company_level": "Mid-level",
+                "start_date": "01/1993",
+                "end_date": "01/1995"
+            }
+        ],
+        "education": [
+            {
+                "university": "East Carolina University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Industrial Technology",
+                "level": "Bachelor of Science"
+            },
+            {
+                "university": "University of Phoenix/WIU",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Business",
+                "level": "Associate of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Cloud Computing",
+                "level": 5,
+                "explanation": "Successfully managed a major project initiative to migrate 13,000 Exchange On-Premise mail users/accounts to cloud-based services (Office 365), demonstrating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Program Manager for multiple projects, including a major initiative to migrate to cloud-based services, showing expert-level proficiency in project management."
+            },
+            {
+                "name": "IT Management",
+                "level": 5,
+                "explanation": "Senior Information Technology Manager with over 15 years of experience, indicating expert-level mastery of IT management."
+            },
+            {
+                "name": "Server Management",
+                "level": 4,
+                "explanation": "Developed long and short-term technology Server plans, showing strong proficiency in server management."
+            },
+            {
+                "name": "Storage Management",
+                "level": 4,
+                "explanation": "Developed long and short-term technology Storage plans, showing strong proficiency in storage management."
+            },
+            {
+                "name": "Network Support",
+                "level": 3,
+                "explanation": "Provided support for multiple network systems, including NT, Netware, Macintosh, Cisco, 3Com, and Bay networks, showing solid working proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 3,
+                "explanation": "Responsible for troubleshooting, identifying, and resolving end user hardware and application issues, showing solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Senior-level positions with over 15 years of experience, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Provided technology presentations to diverse groups of internal customers, showing solid working proficiency in communication."
+            }
+        ]
+    }
+}

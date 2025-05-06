@@ -1,0 +1,17 @@
+{
+    "resume_file": "511.json",
+    "recommendation_file": "Recommendation_From_ID_437.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The language is formal, but the tone is overly positive and lacks specific examples from the candidate's experience.",
+        "verified_skills": [
+            "Financial Planning and Analysis (FP&A)",
+            "Leadership",
+            "Risk Management",
+            "Governance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in finance, but lacks specific examples from their project management and SAP ERP implementation experience. The tone is overly positive, which raises some concerns about the credibility of the recommendation."
+    }
+}

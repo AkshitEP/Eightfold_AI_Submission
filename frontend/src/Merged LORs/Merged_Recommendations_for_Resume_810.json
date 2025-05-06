@@ -1,0 +1,81 @@
+{
+    "target_id": "810",
+    "recommendations": [
+        {
+            "recommender_id": "757",
+            "recommendation": {
+                "resume_file": "810.json",
+                "recommendation_file": "Recommendation_From_ID_757.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. The recommender's background in warehouse operations and pest control is not directly related to the candidate's experience.",
+                    "verified_skills": [
+                        "General Labor",
+                        "Livestock Handling",
+                        "Aircraft Maintenance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's work ethic, adaptability, and communication skills, but does not provide concrete examples from their work experience. The recommender's background is not directly related to the candidate's experience, which may reduce the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "861",
+            "recommendation": {
+                "resume_file": "810.json",
+                "recommendation_file": "Recommendation_From_ID_861.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume but lacks substantial detail or alignment with the key areas of expertise. Some minor inconsistencies or exaggerated claims are present.",
+                    "verified_skills": [
+                        "General Labor",
+                        "Inventory Management",
+                        "Aircraft Maintenance",
+                        "Livestock Handling"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights Nolan's leadership skills, teamwork, and work ethic, but does not provide specific examples of his skills and experiences mentioned in the resume. The recommendation seems to focus more on Nolan's personal qualities rather than his professional skills and experiences."
+                }
+            }
+        },
+        {
+            "recommender_id": "596",
+            "recommendation": {
+                "resume_file": "810.json",
+                "recommendation_file": "Recommendation_From_ID_596.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's experience and qualifications seem unrelated to Nolan's skills and experience.",
+                    "verified_skills": [
+                        "General Labor",
+                        "Aircraft Maintenance",
+                        "Livestock Handling"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights Nolan's work ethic, communication skills, and adaptability, but lacks specific examples of his skills and experience. The recommender's own experience and qualifications seem unrelated to Nolan's skills and experience, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "903",
+            "recommendation": {
+                "resume_file": "810.json",
+                "recommendation_file": "Recommendation_From_ID_903.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommender's background and relationship to the candidate are unclear, and some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Aircraft Maintenance",
+                        "General Labor"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's dependability, strong communication skills, and ability to learn quickly. However, it does not provide concrete examples or evidence from the resume to support these claims. Additionally, the recommender's background as an Aviation Electrician seems unrelated to the candidate's experience as a laborer."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "resume_file": "322.json",
+    "recommendation_file": "Recommendation_From_ID_431.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Payroll Management",
+            "Financial Reconciliation",
+            "General Accounting",
+            "ADP (Human Resources and Payroll process functions)",
+            "Leadership",
+            "Time Management",
+            "Communication",
+            "Organizational Skills",
+            "GAAP Compliance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their payroll management, financial reconciliation, and analytical skills. The recommender's capacity as an Accountant adds credibility to the recommendation."
+    }
+}

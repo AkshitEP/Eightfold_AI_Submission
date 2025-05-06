@@ -1,0 +1,16 @@
+{
+    "resume_file": "237.json",
+    "recommendation_file": "Recommendation_From_ID_72.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and unrelated information. The first part of the recommendation mentions customer service experience, which is not present in the resume. The second part of the recommendation seems to be more relevant but still lacks concrete examples and evidence from the resume.",
+        "verified_skills": [
+            "Teaching",
+            "Art Education",
+            "Lesson Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a mix of two different individuals' experiences. The first part is completely unrelated to the resume, while the second part seems to be more relevant but still lacks concrete examples and evidence from the resume."
+    }
+}

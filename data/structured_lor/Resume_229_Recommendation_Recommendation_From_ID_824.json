@@ -1,0 +1,20 @@
+{
+    "resume_file": "229.json",
+    "recommendation_file": "Recommendation_From_ID_824.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Recruitment and Staffing",
+            "Leadership Development",
+            "Project Management",
+            "HR Policy Advisement",
+            "Communication",
+            "Marketing and Branding"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR advisory services, recruitment, staffing, and policy advisement. The recommendation also highlights the candidate's leadership development, project management, and communication skills."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "443.json",
+    "recommendation_file": "Recommendation_From_ID_37.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The language is formal, but the recommender's role and experience are not directly related to the candidate's field.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Sales and Growth",
+            "Community Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership capabilities, customer service skills, and commitment to community development. However, the recommender's background and relationship with the candidate are unclear, which may impact the credibility of the recommendation."
+    }
+}

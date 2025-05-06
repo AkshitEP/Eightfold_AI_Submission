@@ -1,0 +1,16 @@
+{
+    "resume_file": "409.json",
+    "recommendation_file": "Recommendation_From_ID_888.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's recognition as a 'Pillar of Success' by the Board of Directors, which seems like an exaggerated claim.",
+        "verified_skills": [
+            "Customer Service",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

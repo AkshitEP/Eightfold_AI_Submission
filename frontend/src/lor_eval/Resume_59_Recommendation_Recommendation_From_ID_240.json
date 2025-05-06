@@ -1,0 +1,18 @@
+{
+    "resume_id": 59,
+    "recommendation_file": "Recommendation_From_ID_240.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Program Management",
+            "Time Management",
+            "Fitness Training"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and program management abilities. The source of the recommendation appears to be a peer, possibly an HR representative, who has worked closely with the candidate."
+    }
+}

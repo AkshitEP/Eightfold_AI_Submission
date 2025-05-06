@@ -1,0 +1,113 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Specialist",
+                "work_description": "Coordinated regular and temporary interviews for line management. Conducted reference check vetting on potential candidates. Interacted with potential employees, notifying them on application status and necessary information to complete application process. Assisted various departmental functions with payroll, employee relations and compensation files, filing confidential documents.",
+                "company_level": "Mid-level",
+                "start_date": "06/2014",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Leasing Agent",
+                "work_description": "Greeting future residents, answering all questions regarding leasing, presenting models, taking applications, following up with guests' walk-in, filing, taking work-orders, payments (rent and fees).",
+                "company_level": "Mid-level",
+                "start_date": "10/2012",
+                "end_date": "04/2014"
+            },
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Supported multiple level management team members (Initiated, coordinated, and executed administrative support to Branch Managers). Assisted Engineers and Project Managers with proposals, technical reports, invoicing clients, and collections. Compiled information and created spreadsheets for supervisor review, development and implementation of department systems and procedures as needed.",
+                "company_level": "Mid-level",
+                "start_date": "09/2006",
+                "end_date": "10/2012"
+            },
+            {
+                "role_name": "French Speaking Executive Assistant",
+                "work_description": "Updated CEO calendar, coordinated meetings with French clients. Bookkeeping duties. Ability to maintain and process clients files.",
+                "company_level": "Mid-level",
+                "start_date": "08/2005",
+                "end_date": "09/2006"
+            },
+            {
+                "role_name": "Exhibitor Services Representative",
+                "work_description": "Assisted Exhibitors with orders (office and show sites), freight billing, coordinated with foreman for the set up and striking of exhibitor booths.",
+                "company_level": "Mid-level",
+                "start_date": "08/2004",
+                "end_date": "08/2005"
+            },
+            {
+                "role_name": "Payroll Clerk",
+                "work_description": "Processed payroll weekly for 1500 employees (full time, part time, unions) using AS 400 payroll system. Demonstrated accuracy and fast pace to meet deadlines for payroll transmittals to Corporate. Audited hours and PTO information, processed new hiring, terminations, and all data changes to employee reports.",
+                "company_level": "Mid-level",
+                "start_date": "03/1999",
+                "end_date": "08/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Grenoble",
+                "start_date": "01/1982",
+                "end_date": "12/1982",
+                "domain": "Administration Commercial Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Payroll Management",
+                "level": 5,
+                "explanation": "Processed payroll for a large number of employees (1500) on a weekly basis, demonstrating expert-level proficiency in payroll management."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 3,
+                "explanation": "Handled bookkeeping duties as a French Speaking Executive Assistant, showing a solid working proficiency."
+            },
+            {
+                "name": "Administrative Support",
+                "level": 4,
+                "explanation": "Provided administrative support to various teams and management levels, including coordinating meetings, preparing reports, and managing files, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Demonstrated ability to meet deadlines and work efficiently in fast-paced environments, such as processing payroll for a large number of employees."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Interacted with various stakeholders, including employees, management, and clients, showing strong proficiency in communication."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Compiled information and created spreadsheets for supervisor review, demonstrating a solid working proficiency in data entry."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided customer service as a Leasing Agent, greeting future residents and answering questions, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Assisted in coordinating and executing administrative support, but did not lead teams, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Assisted in coordinating events and projects, but did not lead them, indicating some practical experience in project management."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Likely used Microsoft Office for administrative tasks, such as creating spreadsheets and reports, showing a solid working proficiency."
+            }
+        ]
+    }
+}

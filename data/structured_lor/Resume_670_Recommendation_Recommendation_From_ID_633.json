@@ -1,0 +1,20 @@
+{
+    "resume_file": "670.json",
+    "recommendation_file": "Recommendation_From_ID_633.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be based on a different individual, with some skills and experiences not matching the resume. However, the language is formal and there are no statistically improbable claims.",
+        "verified_skills": [
+            "Technical Support",
+            "Inventory Management",
+            "Troubleshooting",
+            "Maintenance and Repair",
+            "Quality Control",
+            "Computer Hardware",
+            "Computer Software"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation seems to be based on a different individual, with some skills and experiences not matching the resume. However, the recommendation does mention some relevant skills and experiences, such as technical knowledge, customer service, and inventory management."
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "target_id": "443",
+    "recommendations": [
+        {
+            "recommender_id": "37",
+            "recommendation": {
+                "resume_file": "443.json",
+                "recommendation_file": "Recommendation_From_ID_37.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The language is formal, but the recommender's role and experience are not directly related to the candidate's field.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Sales and Growth",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership capabilities, customer service skills, and commitment to community development. However, the recommender's background and relationship with the candidate are unclear, which may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "349",
+            "recommendation": {
+                "resume_file": "443.json",
+                "recommendation_file": "Recommendation_From_ID_349.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales and Growth",
+                        "Customer Service",
+                        "Financial Transactions",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, the recommender's relationship with the candidate is unclear, and some claims seem slightly exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "902",
+            "recommendation": {
+                "resume_file": "443.json",
+                "recommendation_file": "Recommendation_From_ID_902.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and the recommender's background is not directly related to the candidate's field.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Sales and Growth",
+                        "Financial Transactions"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and customer service skills, which align with their experience as a Branch Manager. However, the recommender's background in supporting families and individuals is not directly related to the candidate's field, which raises some concerns about the relevance of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "611",
+            "recommendation": {
+                "resume_file": "443.json",
+                "recommendation_file": "Recommendation_From_ID_611.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Sales and Growth",
+                        "Risk Management",
+                        "Financial Transactions",
+                        "Account Management",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and sales growth. The recommender's entrepreneurial background adds credibility to their assessment of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "456",
+            "recommendation": {
+                "resume_file": "443.json",
+                "recommendation_file": "Recommendation_From_ID_456.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Sales and Growth",
+                        "Risk Management",
+                        "Financial Transactions",
+                        "Account Management",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and sales abilities. However, the source of the recommendation is unclear, as the recommender's relationship to the candidate is not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "553",
+            "recommendation": {
+                "resume_file": "443.json",
+                "recommendation_file": "Recommendation_From_ID_553.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Sales and Growth",
+                        "Financial Transactions",
+                        "Risk Management",
+                        "Account Management",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and banking expertise. The source of the recommendation appears to be a peer, possibly a fellow banking professional or manager."
+                }
+            }
+        },
+        {
+            "recommender_id": "586",
+            "recommendation": {
+                "resume_file": "443.json",
+                "recommendation_file": "Recommendation_From_ID_586.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Sales and Growth",
+                        "Risk Management",
+                        "Financial Transactions",
+                        "Account Management",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and sales growth. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not specified."
+                }
+            }
+        }
+    ]
+}

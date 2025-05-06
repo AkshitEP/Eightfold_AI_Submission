@@ -1,0 +1,18 @@
+{
+    "resume_file": "5.json",
+    "recommendation_file": "Recommendation_From_ID_932.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Problem-Solving",
+            "Communication",
+            "Performance Management",
+            "Talent Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and communication abilities. The source of the recommendation is a Patient Experience Manager, indicating a peer-level relationship."
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Electrical Engineer",
+                "work_description": "Practical application of Electrical Engineering. Critical thinking that involves the use of logic and reasoning to identify the strengths and weaknesses of alternative solutions to problems. Prepared and studied technical schematics and P&ID drawings and specifications of electrical/electromechanical systems to ensure that installations and operations conform to standards and customer requirements.",
+                "company_level": "Mid-level",
+                "start_date": "04/2014",
+                "end_date": "02/2016"
+            },
+            {
+                "role_name": "Manufacturing Engineer",
+                "work_description": "Implemented pump test design changes that eliminated downtown by 80% and increase test output efficiency by 86%. Implemented pump testing set up and break-down procedures that effectively resulted in a 20% decrease in LTI's (Lost Time Incident). Designed MCC for control of 7500 hp WEG motor and vfd that resulted in a 50% output increase of tested pumps.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "04/2014"
+            },
+            {
+                "role_name": "Maintenance Mechanic MPE-9",
+                "work_description": "Troubleshot and repaired mail processing equipment that consisted of vfd's, SLC500 PLC's, Baldor motors, Eaton gearboxes and MCC panels by aid of multi-meter and/or RS Logix software. Performed periodic maintenance tasks on all mail processing equipment. Operated SCADA systems that controlled mail processing equipment.",
+                "company_level": "Mid-level",
+                "start_date": "08/2005",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Aviation Electrician Petty Officer 3rd Class",
+                "work_description": "Aircraft handler duties consisting of taxing, securing and preparing aircraft for launch from aircraft carrier(USS Nimitz CVN-68). Troubleshot and repaired electrical circuit boards, gyros, joysticks, control panel instrumentation for all onboard aircraft consisting of F-18 Hornet, F-16 Tomcat, EA6B Prowler and H60 Helicopter to ensure operational readiness for ship and crew.",
+                "company_level": "Government",
+                "start_date": "06/1996",
+                "end_date": "08/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Texas at Arlington",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Electrical Engineering",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Officer Candidate School (BOOST)",
+                "start_date": "01/1999",
+                "end_date": "12/1999",
+                "domain": "Officer Training/College Prep",
+                "level": "Certificate of Completion"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Electrical Engineering",
+                "level": 5,
+                "explanation": "Has extensive experience in practical application of electrical engineering, including designing and implementing electrical systems, and troubleshooting electrical circuit boards, indicating expert-level mastery."
+            },
+            {
+                "name": "Critical Thinking",
+                "level": 4,
+                "explanation": "Demonstrated critical thinking skills in identifying strengths and weaknesses of alternative solutions to problems, and in troubleshooting and repairing complex electrical systems, suggesting strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Effectively solved problems in various roles, including implementing design changes that improved efficiency and reduced downtime, and troubleshooting and repairing electrical systems, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed projects such as implementing pump test design changes and designing MCC for control of 7500 hp WEG motor and vfd, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Held leadership roles such as Aviation Electrician Petty Officer 3rd Class, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "SCADA Systems",
+                "level": 3,
+                "explanation": "Operated SCADA systems that controlled mail processing equipment, showing a solid working proficiency."
+            },
+            {
+                "name": "PLC Programming",
+                "level": 3,
+                "explanation": "Used RS Logix software to troubleshoot and repair mail processing equipment, indicating a solid working proficiency."
+            },
+            {
+                "name": "Maintenance and Repair",
+                "level": 4,
+                "explanation": "Performed periodic maintenance tasks on mail processing equipment and troubleshot and repaired electrical circuit boards, gyros, joysticks, and control panel instrumentation, suggesting strong proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "target_id": "610",
+    "recommendations": [
+        {
+            "recommender_id": "345",
+            "recommendation": {
+                "resume_file": "610.json",
+                "recommendation_file": "Recommendation_From_ID_345.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Yield Management",
+                        "Internal Controls",
+                        "IT Management",
+                        "Contract Negotiation",
+                        "Financial Forecasting",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and leadership qualities. The source of the recommendation is a Placement Agent at Dorado Beach Resort, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "793",
+            "recommendation": {
+                "resume_file": "610.json",
+                "recommendation_file": "Recommendation_From_ID_793.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems to be for a different individual, and the skills and experiences mentioned do not align with the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the resume, and it appears to be for a different individual."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "320.json",
+    "recommendation_file": "Recommendation_From_ID_192.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Nursing",
+            "Leadership",
+            "Staff Management",
+            "Patient Care",
+            "Computer Proficiency",
+            "Scheduling",
+            "Payroll Management",
+            "Documentation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, staff development, and patient care management. The language used is formal and professional, indicating a genuine recommendation."
+    }
+}

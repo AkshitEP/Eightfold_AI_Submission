@@ -1,0 +1,17 @@
+{
+    "resume_file": "936.json",
+    "recommendation_file": "Recommendation_From_ID_397.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be written for two individuals, but only one resume is provided.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Patient Care",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and patient care abilities. However, the recommendation seems to be written for two individuals, which raises some concerns about its credibility."
+    }
+}

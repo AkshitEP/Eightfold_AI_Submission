@@ -1,0 +1,96 @@
+{
+    "target_id": "287",
+    "recommendations": [
+        {
+            "recommender_id": "84",
+            "recommendation": {
+                "resume_file": "287.json",
+                "recommendation_file": "Recommendation_From_ID_84.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Teaching",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, teaching, and community development work."
+                }
+            }
+        },
+        {
+            "recommender_id": "687",
+            "recommendation": {
+                "resume_file": "287.json",
+                "recommendation_file": "Recommendation_From_ID_687.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Community Development",
+                        "Teaching"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and community development initiatives. The Assistant Principal's endorsement highlights the candidate's commitment to arts education and community engagement."
+                }
+            }
+        },
+        {
+            "recommender_id": "822",
+            "recommendation": {
+                "resume_file": "287.json",
+                "recommendation_file": "Recommendation_From_ID_822.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be exaggerated and lacks concrete examples or evidence from the resume. The claims made seem unrealistic given the candidate's domain and experience level.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is barely relevant to the resume and seems to be exaggerated. The claims made seem unrealistic given the candidate's domain and experience level."
+                }
+            }
+        },
+        {
+            "recommender_id": "237",
+            "recommendation": {
+                "resume_file": "287.json",
+                "recommendation_file": "Recommendation_From_ID_237.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Leadership",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and community engagement. The source of the recommendation is the Executive Director and fine arts department chair at Head-Royce School, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "72",
+            "recommendation": {
+                "resume_file": "287.json",
+                "recommendation_file": "Recommendation_From_ID_72.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The recommendation also lacks specific examples from the candidate's resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Teaching",
+                        "Community Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and vision, but it does not provide concrete examples from their resume. The source of the recommendation is also unclear, which raises some concerns about its credibility."
+                }
+            }
+        }
+    ]
+}

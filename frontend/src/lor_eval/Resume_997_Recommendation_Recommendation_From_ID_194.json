@@ -1,0 +1,16 @@
+{
+    "resume_id": 997,
+    "recommendation_file": "Recommendation_From_ID_194.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be from an accountant, not someone who has worked closely with the candidate in an IT capacity. The language used is formal, but the recommendation lacks specific examples of the candidate's technical skills and experience.",
+        "verified_skills": [
+            "Cloud Computing",
+            "Disaster Recovery",
+            "Troubleshooting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical capability, systematic approach to problem-solving, and ability to interface with various departments. However, it lacks specific examples of the candidate's technical skills and experience, and the source of the recommendation is unclear."
+    }
+}

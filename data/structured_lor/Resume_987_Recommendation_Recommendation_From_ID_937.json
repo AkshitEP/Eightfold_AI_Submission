@@ -1,0 +1,12 @@
+{
+    "resume_id": 987,
+    "recommendation_file": "Recommendation_From_ID_937.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is for an 'audit and recovery specialist' which is not mentioned in the resume, and the skills and experience mentioned in the recommendation do not align with the candidate's actual experience.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems fraudulent, with obvious signs of exaggeration or misrepresentation. The recommendation does not align with the candidate's actual experience and skills."
+    }
+}

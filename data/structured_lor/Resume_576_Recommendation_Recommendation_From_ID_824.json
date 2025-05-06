@@ -1,0 +1,17 @@
+{
+    "resume_file": "576.json",
+    "recommendation_file": "Recommendation_From_ID_824.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'recruiting, onboarding, and managing employee training and development' which is not explicitly mentioned in the resume. However, the overall tone and language are formal and credible.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Leadership",
+            "Strategic Planning",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in HR management, leadership, and strategic planning, which aligns well with their work experience and skills. However, some minor inconsistencies and lack of specific examples from the resume reduce the relevance score."
+    }
+}

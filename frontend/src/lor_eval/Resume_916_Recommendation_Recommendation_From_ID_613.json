@@ -1,0 +1,17 @@
+{
+    "resume_file": "916.json",
+    "recommendation_file": "Recommendation_From_ID_613.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's claims, but no obvious signs of fraud.",
+        "verified_skills": [
+            "Yoga Instruction",
+            "Fitness Instruction",
+            "Leadership",
+            "Program Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience in yoga instruction and fitness, but may be slightly exaggerated."
+    }
+}

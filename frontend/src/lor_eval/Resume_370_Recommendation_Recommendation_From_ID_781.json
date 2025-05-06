@@ -1,0 +1,18 @@
+{
+    "resume_file": "370.json",
+    "recommendation_file": "Recommendation_From_ID_781.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source's relationship to the candidate is unclear and lacks specific examples from the candidate's resume.",
+        "verified_skills": [
+            "Leadership",
+            "Strategic Planning",
+            "Project Management",
+            "Grant Writing",
+            "Program Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional leadership abilities, commitment to community engagement, and vision for creating sustainable strategies. However, the source's relationship to the candidate is unclear, and the recommendation lacks specific examples from the candidate's resume."
+    }
+}

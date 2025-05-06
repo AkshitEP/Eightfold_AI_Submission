@@ -1,0 +1,117 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Operations Research Analyst",
+                "work_description": "Initiated and managed program to test incoming radiation detection equipment into New York, New Jersey and Connecticut. Activities included process and procedure development, instrumenting and maintaining test facilities and managing and scheduling testing team. Coordination of activities with the New York Police Department (NYPD) Counter Terrorism Bureau, other state and local first responder organizations in the New York City Metropolitan Area and the Brookhaven National Laboratory.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Data Collection and Test Manager for the Department of Homeland Security and NYPD collaborative acquisition program for a roadway deployed radiation detector prototype. Planned and executed initial data collection effort in support of the acquisition project. Effort involved coordination with NYPD, regional toll authorities, and National Laboratories.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2003",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Designed data structures and developed systems for science related database applications. Assistant to the Protecting Human Subject Program Manager. This assignment included coordination of the Department's Human Subjects Working Group including organization/planning of meetings and on site reviews as well as reviewing and editing applications and published materials.",
+                "company_level": "Large Corporation",
+                "start_date": "08/1999",
+                "end_date": "03/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "New York University",
+                "start_date": "01/2001",
+                "end_date": "05/2005",
+                "domain": "Management Information Systems",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Radiation Detection",
+                "description": "Initiation and design of equipment testing program leading to Memorandum of Understanding between the Department of Homeland Security National Urban Security Technology Laboratory and the New York Police Department.",
+                "skills": [
+                    "Project Management",
+                    "Information Design",
+                    "Relationship Building",
+                    "Information Technology",
+                    "Procedure Development",
+                    "Scheduling",
+                    "Website Design"
+                ]
+            },
+            {
+                "domain": "Data Collection",
+                "description": "Planned and executed initial data collection effort in support of the acquisition project. Effort involved coordination with NYPD, regional toll authorities, and National Laboratories.",
+                "skills": [
+                    "Data Collection",
+                    "Test Management",
+                    "Project Planning",
+                    "Budgeting",
+                    "Scheduling"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has led multiple projects, including the initiation and management of a program to test incoming radiation detection equipment, indicating expert-level mastery."
+            },
+            {
+                "name": "Information Technology",
+                "level": 5,
+                "explanation": "Has extensive experience in IT, including designing data structures and developing systems for science-related database applications, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Collection",
+                "level": 4,
+                "explanation": "Has planned and executed initial data collection efforts in support of acquisition projects, suggesting strong proficiency."
+            },
+            {
+                "name": "Test Management",
+                "level": 4,
+                "explanation": "Has managed testing teams and coordinated activities with various organizations, indicating strong proficiency."
+            },
+            {
+                "name": "Procedure Development",
+                "level": 4,
+                "explanation": "Has developed processes and procedures for testing facilities and equipment, suggesting strong proficiency."
+            },
+            {
+                "name": "Relationship Building",
+                "level": 4,
+                "explanation": "Has coordinated activities with various organizations, including the NYPD and National Laboratories, indicating strong proficiency."
+            },
+            {
+                "name": "Scheduling",
+                "level": 3,
+                "explanation": "Has managed and scheduled testing teams, indicating solid working proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Has been involved in budgeting for projects, but the extent of this involvement is unclear, indicating solid working proficiency."
+            },
+            {
+                "name": "Information Design",
+                "level": 3,
+                "explanation": "Has designed data structures and developed systems for science-related database applications, indicating solid working proficiency."
+            },
+            {
+                "name": "Website Design",
+                "level": 2,
+                "explanation": "Has been mentioned as a skill, but there is limited information about the extent of this skill, indicating some practical experience."
+            }
+        ]
+    }
+}

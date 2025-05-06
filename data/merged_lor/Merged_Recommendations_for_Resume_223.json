@@ -1,0 +1,46 @@
+{
+    "target_id": "223",
+    "recommendations": [
+        {
+            "recommender_id": "674",
+            "recommendation": {
+                "resume_file": "223.json",
+                "recommendation_file": "Recommendation_From_ID_674.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The claims made are generally supported by the resume, but some exaggeration is possible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Community Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills and commitment to community service, which are supported by their experience as a Group Exercise Fitness Instructor and their involvement in various community service activities. However, the source of the recommendation is unclear, and the language used is somewhat informal."
+                }
+            }
+        },
+        {
+            "recommender_id": "593",
+            "recommendation": {
+                "resume_file": "223.json",
+                "recommendation_file": "Recommendation_From_ID_593.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Time Management",
+                        "Team Management",
+                        "Community Service",
+                        "Event Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their program development, leadership, and community service. However, the recommendation does not directly reference the candidate's experience as a Group Exercise Fitness Instructor or Data Entry Operator."
+                }
+            }
+        }
+    ]
+}

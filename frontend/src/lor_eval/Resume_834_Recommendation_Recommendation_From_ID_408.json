@@ -1,0 +1,17 @@
+{
+    "resume_file": "834.json",
+    "recommendation_file": "Recommendation_From_ID_408.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and recommendation is well-supported by the candidate's skills and experience.",
+        "verified_skills": [
+            "Leadership",
+            "Exercise Science",
+            "Customer Service",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in the fitness and wellness field, providing specific examples of their abilities and qualities. However, it does not cover all key skills and experiences from the resume, hence the relevance score is 8."
+    }
+}

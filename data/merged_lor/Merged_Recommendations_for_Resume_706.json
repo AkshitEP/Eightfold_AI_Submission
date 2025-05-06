@@ -1,0 +1,109 @@
+{
+    "target_id": "706",
+    "recommendations": [
+        {
+            "recommender_id": "27",
+            "recommendation": {
+                "resume_file": "706.json",
+                "recommendation_file": "Recommendation_From_ID_27.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and problem-solving abilities. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "466",
+            "recommendation": {
+                "resume_file": "706.json",
+                "recommendation_file": "Recommendation_From_ID_466.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Quality Assurance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, analytical skills, and commitment to excellence."
+                }
+            }
+        },
+        {
+            "recommender_id": "372",
+            "recommendation": {
+                "resume_file": "706.json",
+                "recommendation_file": "Recommendation_From_ID_372.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Quality Assurance",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and problem-solving abilities. The source of the recommendation is an HR Manager and Business Partner, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "745",
+            "recommendation": {
+                "resume_file": "706.json",
+                "recommendation_file": "Recommendation_From_ID_745.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Team Management",
+                        "Quality Assurance",
+                        "Business Administration"
+                    ],
+                    "recommendation_source": "Manager",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in customer service, complaint resolution, and quality control. The recommendation highlights the candidate's strengths in leadership, communication, and problem-solving, which are all relevant to their current role as a Mortgage Banking Research Specialist."
+                }
+            }
+        },
+        {
+            "recommender_id": "793",
+            "recommendation": {
+                "resume_file": "706.json",
+                "recommendation_file": "Recommendation_From_ID_793.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication",
+                        "Quality Assurance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and communication skills. The recommender's role as a Legal Specialist III in Investment Banking Subpoena Compliance adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

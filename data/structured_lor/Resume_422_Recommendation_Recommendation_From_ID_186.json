@@ -1,0 +1,18 @@
+{
+    "resume_file": "422.json",
+    "recommendation_file": "Recommendation_From_ID_186.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Process Improvement",
+            "Project Management",
+            "Business Analysis",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their process improvement and project management abilities. The source of the recommendation is the Director of HR, indicating a supervisory relationship."
+    }
+}

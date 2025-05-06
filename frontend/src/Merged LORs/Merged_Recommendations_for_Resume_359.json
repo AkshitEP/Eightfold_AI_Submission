@@ -1,0 +1,110 @@
+{
+    "target_id": "359",
+    "recommendations": [
+        {
+            "recommender_id": "314",
+            "recommendation": {
+                "resume_file": "359.json",
+                "recommendation_file": "Recommendation_From_ID_314.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Application Support",
+                        "Database Management",
+                        "Software Development",
+                        "Leadership",
+                        "Business Process Development",
+                        "Data Analysis",
+                        "IT Consulting",
+                        "System Administration",
+                        "SQL",
+                        "Oracle"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, technical expertise, and leadership abilities. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "494",
+            "recommendation": {
+                "resume_file": "359.json",
+                "recommendation_file": "Recommendation_From_ID_494.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Application Support",
+                        "Database Management",
+                        "Software Development",
+                        "Leadership",
+                        "Business Process Development",
+                        "Data Analysis",
+                        "IT Consulting",
+                        "System Administration",
+                        "SQL",
+                        "Oracle",
+                        "Uniface",
+                        "Crystal Reports"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and technical expertise. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "866",
+            "recommendation": {
+                "resume_file": "359.json",
+                "recommendation_file": "Recommendation_From_ID_866.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Application Support",
+                        "Database Management",
+                        "SQL",
+                        "Oracle",
+                        "System Administration",
+                        "IT Consulting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, application support, and IT consulting expertise. The recommender's background in IT management adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "522",
+            "recommendation": {
+                "resume_file": "359.json",
+                "recommendation_file": "Recommendation_From_ID_522.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Application Support",
+                        "Database Management",
+                        "Leadership",
+                        "Business Process Development",
+                        "Data Analysis",
+                        "IT Consulting",
+                        "System Administration",
+                        "SQL",
+                        "Oracle"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, application support, and leadership abilities."
+                }
+            }
+        }
+    ]
+}

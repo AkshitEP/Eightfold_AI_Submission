@@ -1,0 +1,118 @@
+{
+    "target_id": "454",
+    "recommendations": [
+        {
+            "recommender_id": "476",
+            "recommendation": {
+                "resume_file": "454.json",
+                "recommendation_file": "Recommendation_From_ID_476.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, particularly regarding the candidate's expertise in advanced coding languages and event planning/design. The tone is also informal and sarcastic, raising concerns about the authenticity of the recommendation.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be a satirical or fictional piece, rather than a genuine endorsement of the candidate's skills and experience. It highlights the importance of verifying the authenticity and credibility of recommendations."
+                }
+            }
+        },
+        {
+            "recommender_id": "285",
+            "recommendation": {
+                "resume_file": "454.json",
+                "recommendation_file": "Recommendation_From_ID_285.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Time Management",
+                        "Customer Service",
+                        "Data Entry",
+                        "Financial Analysis",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Supervisor/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their office management abilities, financial operations, and community relations. The recommendation source is likely a supervisor or boss, given their close collaboration and familiarity with the candidate's work."
+                }
+            }
+        },
+        {
+            "recommender_id": "179",
+            "recommendation": {
+                "resume_file": "454.json",
+                "recommendation_file": "Recommendation_From_ID_179.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is an equipment operator from a different industry, which may raise some questions about their familiarity with the Office Manager's work in a healthcare setting.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Time Management",
+                        "Data Entry",
+                        "Financial Analysis",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the Office Manager's exceptional organizational skills, initiative, and adaptability, which aligns well with their skills and experience. However, the source of the recommendation is from a different industry, which may affect its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "410",
+            "recommendation": {
+                "resume_file": "454.json",
+                "recommendation_file": "Recommendation_From_ID_410.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unknown and the language is somewhat informal. The claims made are mostly supported by the resume, but some exaggeration is possible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Analysis",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional organizational skills, resource management, and leadership abilities, which are supported by their experience as an Office Manager. However, the source of the recommendation is unclear, and the language used is somewhat informal."
+                }
+            }
+        },
+        {
+            "recommender_id": "450",
+            "recommendation": {
+                "resume_file": "454.json",
+                "recommendation_file": "Recommendation_From_ID_450.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Time Management",
+                        "Customer Service",
+                        "Data Entry",
+                        "Financial Analysis",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and leadership abilities. The recommender's perspective as a peer provides valuable insight into the candidate's work ethic and collaborative nature."
+                }
+            }
+        }
+    ]
+}

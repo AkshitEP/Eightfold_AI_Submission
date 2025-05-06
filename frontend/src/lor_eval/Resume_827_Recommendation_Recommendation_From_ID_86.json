@@ -1,0 +1,16 @@
+{
+    "resume_file": "827.json",
+    "recommendation_file": "Recommendation_From_ID_86.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples and details from the candidate's resume. Some minor inconsistencies are present, such as the recommendation focusing on office administration and healthcare support, while the resume highlights more complex roles and skills.",
+        "verified_skills": [
+            "Leadership",
+            "Operations Management",
+            "Payroll Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation provides a general endorsement of the candidate's skills and dedication, but it does not specifically align with the candidate's resume. The recommendation focuses on office administration and healthcare support, while the resume highlights more complex roles and skills, such as project management, data analysis, and database management."
+    }
+}

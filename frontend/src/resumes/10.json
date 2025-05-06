@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Operations Manager",
+                "work_description": "Managed a team of four client service officers responsible for day-to-day operations and onboarding process. Directed and supervised the daily activities of the teams with primary focus in enhancing the client's experience, mitigating risk, and identifying areas of improvement. Performed Quality Assurance reviews and approved due diligence reviews completed by the staff. Collaborated and managed assigned projects with cross-functional teams and departments including data and document collection and review, technology, sales and other client services groups across the firm.",
+                "company_level": "Mid-level",
+                "start_date": "02/2010",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Client Service Manager",
+                "work_description": "Within three months, increased efficiency by 20% by identifying and mitigating outdated manual processes and leveraging technology. Increased staff performance accuracy levels to 99%. Managed a team of eight client service officers responsible for servicing our base of Commercial Real Estate clients, Mortgage Servicers, and Regulated Cash. Serviced a portfolio of 300 clients with deposits in excess of 80 billion.",
+                "company_level": "Mid-level",
+                "start_date": "09/2007",
+                "end_date": "02/2010"
+            },
+            {
+                "role_name": "Client Service Manager",
+                "work_description": "Built and fostered a proactive workplace environment resulting in a higher level of employee participation and performance. Supervised a team of seven client service professionals with a primary focus in delivering excellent client service, improving processes, and leveraging technology. Partnered with Bankers to collect, analyze, and validate all appropriate due diligence and on-boarding documentation provided by client; utilized knowledge of AML/KYC policy to independently identify missing or insufficient client due diligence information.",
+                "company_level": "Mid-level",
+                "start_date": "02/2002",
+                "end_date": "09/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "DeVry Institute of Technology",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "Computer Information Systems",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Kingsborough Community College",
+                "start_date": "01/1989",
+                "end_date": "12/1989",
+                "domain": "Business Management and administration",
+                "level": "Associate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience managing teams of various sizes, with a proven track record of improving efficiency, performance, and employee participation, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully managed assigned projects with cross-functional teams and departments, demonstrating strong proficiency in project management."
+            },
+            {
+                "name": "Risk Management",
+                "level": 4,
+                "explanation": "Focused on mitigating risk and identifying areas of improvement, suggesting a strong proficiency in risk management."
+            },
+            {
+                "name": "Quality Assurance",
+                "level": 4,
+                "explanation": "Performed Quality Assurance reviews and approved due diligence reviews completed by the staff, indicating a strong proficiency in quality assurance."
+            },
+            {
+                "name": "Process Improvement",
+                "level": 4,
+                "explanation": "Identified and mitigated outdated manual processes, leveraging technology to increase efficiency, demonstrating a strong proficiency in process improvement."
+            },
+            {
+                "name": "Client Service",
+                "level": 5,
+                "explanation": "Has extensive experience delivering excellent client service, with a primary focus on enhancing the client's experience, indicating expert-level mastery."
+            },
+            {
+                "name": "Team Management",
+                "level": 5,
+                "explanation": "Successfully managed teams of various sizes, with a proven track record of improving performance and employee participation, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Collected, analyzed, and validated due diligence and on-boarding documentation, suggesting a solid working proficiency in data analysis."
+            },
+            {
+                "name": "AML/KYC Policy",
+                "level": 3,
+                "explanation": "Utilized knowledge of AML/KYC policy to independently identify missing or insufficient client due diligence information, indicating a solid working proficiency."
+            },
+            {
+                "name": "Technology",
+                "level": 3,
+                "explanation": "Leveraged technology to increase efficiency and improve processes, suggesting a solid working proficiency in technology."
+            }
+        ]
+    }
+}

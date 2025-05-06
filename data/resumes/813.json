@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Assembly Mechanic",
+                "work_description": "Sheet metal mechanic Boeing 737 fuselage assembly line. Crew leader of a 3 man team, installing aft fuselage belly skins with minimal quality defects and under the required bar line, at a move rate of (2) units a day.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2014",
+                "end_date": "08/2016"
+            },
+            {
+                "role_name": "Flight Inspector",
+                "work_description": "Performed audits on numerous functional test procedures to include: line clearance inspections, final inspections of component installation. Trained new Inspectors in procedures and aircraft systems. Tracked and maintained aircraft serialization logs. Assembly mechanic for V-22 final assembly.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2010",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "Aviation Machinist Mate",
+                "work_description": "Supervised 60 maintainers. Performed scheduled and unscheduled flight line maintenance of 16 Sikorsky MH-53E's. Full system QAR. Aircraft vibration analysis and rotor tracking systems certified. Performed work center audits on tool control, maintenance publications, FOD program and safety.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2000",
+                "end_date": "10/2010"
+            },
+            {
+                "role_name": "Entry Level Mechanic",
+                "work_description": "Performed scheduled maintenance. Introduced to aircraft systems and functions.",
+                "company_level": "Large Corporation",
+                "start_date": "05/1999",
+                "end_date": "09/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "High School",
+                "start_date": "01/1995",
+                "end_date": "12/1999",
+                "domain": "General Education",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Aircraft Assembly",
+                "level": 4,
+                "explanation": "Extensive experience as an assembly mechanic on Boeing 737 fuselage assembly line and V-22 final assembly, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised teams of up to 60 maintainers and led a 3-man team as a crew leader, indicating strong leadership skills."
+            },
+            {
+                "name": "Quality Control",
+                "level": 4,
+                "explanation": "Conducted audits on test procedures, performed line clearance inspections, and maintained quality control logs, showing strong proficiency in quality control."
+            },
+            {
+                "name": "Aircraft Maintenance",
+                "level": 5,
+                "explanation": "Over a decade of experience in scheduled and unscheduled flight line maintenance, vibration analysis, and rotor tracking systems, indicating expert-level mastery."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Managed teams of varying sizes, including training new inspectors and maintainers, showing strong proficiency in team management."
+            },
+            {
+                "name": "Auditing",
+                "level": 3,
+                "explanation": "Conducted work center audits on tool control, maintenance publications, FOD program, and safety, showing solid working proficiency in auditing."
+            },
+            {
+                "name": "Mechanical Systems",
+                "level": 4,
+                "explanation": "Extensive experience with aircraft systems and functions, including vibration analysis and rotor tracking systems, showing strong proficiency."
+            }
+        ]
+    }
+}

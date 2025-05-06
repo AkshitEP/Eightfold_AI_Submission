@@ -1,0 +1,87 @@
+{
+    "target_id": "624",
+    "recommendations": [
+        {
+            "recommender_id": "679",
+            "recommendation": {
+                "resume_file": "624.json",
+                "recommendation_file": "Recommendation_From_ID_679.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Sales Associate' which is not present in the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strong communication skills, customer service experience, and ability to manage cash accurately. It also mentions their unique perspective and problem-solving abilities, which are valuable assets to any team."
+                }
+            }
+        },
+        {
+            "recommender_id": "357",
+            "recommendation": {
+                "resume_file": "624.json",
+                "recommendation_file": "Recommendation_From_ID_357.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions skills and experiences from the resume, but the language is overly flattering and lacks concrete examples.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Inventory Management",
+                        "Communication",
+                        "Time Management",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in customer service and communication. However, the language is overly flattering and lacks concrete examples, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "313",
+            "recommendation": {
+                "resume_file": "624.json",
+                "recommendation_file": "Recommendation_From_ID_313.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'over 15 years of expertise' which may not be entirely accurate based on the provided resume. However, the language is formal and the recommendation seems genuine.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills and experience in customer service, fitness management, and teamwork, which aligns with their resume. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "476",
+            "recommendation": {
+                "resume_file": "624.json",
+                "recommendation_file": "Recommendation_From_ID_476.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's job history, but overall the language is formal and the claims seem credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's customer service and relationship-building skills, which are relevant to their job history and skills. However, the recommendation could benefit from more specific examples and details to support the claims."
+                }
+            }
+        }
+    ]
+}

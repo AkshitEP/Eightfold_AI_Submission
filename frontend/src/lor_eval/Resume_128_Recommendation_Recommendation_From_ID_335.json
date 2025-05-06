@@ -1,0 +1,19 @@
+{
+    "resume_file": "128.json",
+    "recommendation_file": "Recommendation_From_ID_335.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Account Reconciliation",
+            "Cash Management",
+            "Customer Service",
+            "Leadership",
+            "Financial Analysis",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer/Boss",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, customer service, and leadership abilities."
+    }
+}

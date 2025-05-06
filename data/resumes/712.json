@@ -1,0 +1,88 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Founder and Project Manager",
+                "work_description": "Directed and coordinated activities to build an online platform for Vietnam's SMEs and companies. Fostered communication internationally with team members on project targets, achievements, and improvements. Researched Vietnamese market to assess risk and opportunity to help develop and implement objectives.",
+                "company_level": "Startup",
+                "start_date": "10/2012",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Client Service Officer, Associate",
+                "work_description": "Served as a primary contact for clients; and liaised with manager, trading desk, operations, custodians, and other related third-parties on a daily basis. Produced daily report for collateral portfolios totaling over $1.7B utilizing Bloomberg and other in-house systems; and reported them timely and consistently to top-tier clients and upper management.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2007",
+                "end_date": "10/2012"
+            },
+            {
+                "role_name": "Financial Analyst",
+                "work_description": "Managed more than 100 corporate trust portfolios with a combined market value in excess of $15B and consisted of an eclectic variety of financial instruments. Effectively administered and reported daily large trust funds for Morgan Stanley, Exxon Mobil Corporation, and Harvard and consistently received high satisfaction from clients and upper management.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2004",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Rutgers University, Rutgers Business School",
+                "start_date": "01/2000",
+                "end_date": "12/2004",
+                "domain": "Finance",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Women On Wall Street",
+            "Princeton in Asia",
+            "Local charities in Vietnam",
+            "Business English for Professionals and Entrepreneurs",
+            "Vietnam Entrepreneurs of Today and Tomorrow Network"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully managed the development of an online platform for Vietnam's SMEs and companies, demonstrating strong proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Directed and coordinated activities as a Founder and Project Manager, and served as a primary contact for clients, showing strong leadership skills."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Fostered communication internationally with team members and liaised with various stakeholders, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Risk Assessment",
+                "level": 3,
+                "explanation": "Researched the Vietnamese market to assess risk and opportunity, showing a solid working proficiency in risk assessment."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Effectively administered and reported daily large trust funds for prominent clients, demonstrating strong proficiency in financial analysis."
+            },
+            {
+                "name": "Portfolio Management",
+                "level": 4,
+                "explanation": "Managed over 100 corporate trust portfolios with a combined market value in excess of $15B, showing strong proficiency in portfolio management."
+            },
+            {
+                "name": "Client Relationship Management",
+                "level": 4,
+                "explanation": "Served as a primary contact for clients and consistently received high satisfaction from clients and upper management, indicating strong proficiency in client relationship management."
+            },
+            {
+                "name": "Bloomberg",
+                "level": 3,
+                "explanation": "Utilized Bloomberg to produce daily reports for collateral portfolios, showing a solid working proficiency in the tool."
+            }
+        ]
+    }
+}

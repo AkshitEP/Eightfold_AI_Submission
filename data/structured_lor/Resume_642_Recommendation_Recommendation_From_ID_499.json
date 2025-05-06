@@ -1,0 +1,16 @@
+{
+    "resume_file": "642.json",
+    "recommendation_file": "Recommendation_From_ID_499.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written for a different person, with the first part describing a Vice President of Membership, which does not match the resume. However, the second part of the recommendation does align with the resume, but it lacks specific examples and details.",
+        "verified_skills": [
+            "Financial Risk Management",
+            "Foreign Exchange Trading",
+            "Risk Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a mix of two different individuals, with the first part not matching the resume. However, the second part does align with the resume, but it lacks specific examples and details. The recommendation does not provide concrete evidence of the candidate's skills and experience."
+    }
+}

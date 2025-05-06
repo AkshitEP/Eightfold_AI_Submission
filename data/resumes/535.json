@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Regional Director of Banking and Wealth",
+                "work_description": "Responsible for overall growth performance of strategic marketplace. Encouraged work environment conducive to development of high performing distinct teams by inspiring innovation and excellence in all CRM/Customer Engagement deliverables.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2018",
+                "end_date": "12/2020"
+            },
+            {
+                "role_name": "Northern CA Operations Executive",
+                "work_description": "Responsible for profitability of the most elite marketplace in the Bank of America franchise; 350 Financial Centers with close to 3000 Associates.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2016",
+                "end_date": "03/2018"
+            },
+            {
+                "role_name": "Sales and Service Executive-West Coast",
+                "work_description": "Responsible for the revenue growth of 40% of the consumer franchise.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2011",
+                "end_date": "11/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of San Francisco",
+                "start_date": "01/2020",
+                "end_date": "05/2023",
+                "domain": "Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Washington",
+                "start_date": "01/1990",
+                "end_date": "12/1994",
+                "domain": "Finance",
+                "level": "Certificate"
+            },
+            {
+                "university": "Toulouse Lautrec School of Art",
+                "start_date": "01/1985",
+                "end_date": "12/1989",
+                "domain": "Art History",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held multiple executive roles, including Regional Director of Banking and Wealth, and Operations Executive, indicating expert-level mastery in leadership."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 5,
+                "explanation": "Responsible for overall growth performance of strategic marketplace and profitability of elite marketplace, showing expert-level proficiency in strategic planning."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Encouraged work environment conducive to development of high performing distinct teams, suggesting strong proficiency in team management."
+            },
+            {
+                "name": "Customer Engagement",
+                "level": 4,
+                "explanation": "Inspired innovation and excellence in all CRM/Customer Engagement deliverables, indicating strong proficiency in customer engagement."
+            },
+            {
+                "name": "Revenue Growth",
+                "level": 4,
+                "explanation": "Responsible for revenue growth of 40% of the consumer franchise, showing strong proficiency in revenue growth."
+            },
+            {
+                "name": "Financial Management",
+                "level": 3,
+                "explanation": "Managed profitability of large marketplaces, but no specific details on financial management tasks, indicating solid working proficiency."
+            },
+            {
+                "name": "Business Administration",
+                "level": 3,
+                "explanation": "Earned Master's degree in Business Administration, showing solid understanding of business administration concepts."
+            },
+            {
+                "name": "Finance",
+                "level": 2,
+                "explanation": "Earned certificate in Finance, but no recent work experience in finance, indicating some practical experience."
+            },
+            {
+                "name": "Art History",
+                "level": 1,
+                "explanation": "Earned Bachelor's degree in Art History, but no recent work experience in art history, indicating basic familiarity."
+            }
+        ]
+    }
+}

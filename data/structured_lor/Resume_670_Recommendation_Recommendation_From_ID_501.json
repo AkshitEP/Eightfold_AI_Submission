@@ -1,0 +1,19 @@
+{
+    "resume_file": "670.json",
+    "recommendation_file": "Recommendation_From_ID_501.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and some claims seem slightly exaggerated.",
+        "verified_skills": [
+            "Technical Support",
+            "Hardware Installation and Repair",
+            "Software Installation and Repair",
+            "Troubleshooting",
+            "Computer Hardware",
+            "Computer Software"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience as a Geek Squad Agent, but the recommender's role and relationship to the candidate are unclear. The recommendation highlights the candidate's technical prowess and customer service skills, but some claims seem slightly exaggerated."
+    }
+}

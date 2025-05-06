@@ -1,0 +1,25 @@
+{
+    "target_id": "363",
+    "recommendations": [
+        {
+            "recommender_id": "461",
+            "recommendation": {
+                "resume_file": "363.json",
+                "recommendation_file": "Recommendation_From_ID_461.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Fitness Instruction",
+                        "Community Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in group fitness instruction and community service. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

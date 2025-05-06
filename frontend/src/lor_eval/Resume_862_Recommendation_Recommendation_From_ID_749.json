@@ -1,0 +1,21 @@
+{
+    "resume_file": "862.json",
+    "recommendation_file": "Recommendation_From_ID_749.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Accounting Standards",
+            "Financial Analysis",
+            "Cash Flow Management",
+            "Payroll Management",
+            "Accounts Payable/Receivable",
+            "Leadership",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting, analysis, and management abilities. The recommendation highlights the candidate's attention to detail, analytical skills, and ability to work with diverse teams, making them a strong candidate for advanced financial reporting and management roles."
+    }
+}

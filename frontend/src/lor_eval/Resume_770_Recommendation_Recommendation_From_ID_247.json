@@ -1,0 +1,15 @@
+{
+    "resume_file": "770.json",
+    "recommendation_file": "Recommendation_From_ID_247.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be written for a different person, with skills and experiences not matching the resume. The language is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+        "verified_skills": [
+            "Leadership",
+            "Mentoring"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align well with the candidate's skills and experience, with a focus on marketing and client management, which is not present in the resume. However, it does mention leadership and mentoring abilities, which are present in the resume."
+    }
+}

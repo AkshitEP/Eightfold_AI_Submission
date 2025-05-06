@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Regional HR Deputy Manager",
+                "work_description": "Provided full range of generalist services, employee retention, employee engagement, performance management and corporate social responsibility including talent acquisition in the geography within the HR operational framework of the organization.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2010",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Regional HR Assistant Manager",
+                "work_description": "Responsible for delivering the end to end Recruitment and Generalist services to the North Zone.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2008",
+                "end_date": "05/2010"
+            },
+            {
+                "role_name": "Branch Operations Officer",
+                "work_description": "Responsible for overseeing all activities in regards to opening new corporate accounts.",
+                "company_level": "Mid-level",
+                "start_date": "05/2007",
+                "end_date": "02/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "GHS-IMR Business School",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Human Resources",
+                "level": "MBA"
+            },
+            {
+                "university": "CSJMU, Uttar Pradesh University",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Human Resources",
+                "level": "B.Com"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resources",
+                "level": 5,
+                "explanation": "Held multiple HR roles with increasing responsibilities, including Regional HR Deputy Manager, and has an MBA in Human Resources, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Delivered end-to-end recruitment services and was responsible for talent acquisition, showing strong proficiency in recruitment."
+            },
+            {
+                "name": "Employee Engagement",
+                "level": 3,
+                "explanation": "Provided employee engagement services as part of generalist HR services, indicating a solid working proficiency."
+            },
+            {
+                "name": "Performance Management",
+                "level": 3,
+                "explanation": "Handled performance management as part of generalist HR services, showing a solid working proficiency."
+            },
+            {
+                "name": "Employee Retention",
+                "level": 3,
+                "explanation": "Provided employee retention services as part of generalist HR services, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Held managerial roles in HR, including Regional HR Deputy Manager, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Operations Management",
+                "level": 2,
+                "explanation": "Overseen activities related to opening new corporate accounts as a Branch Operations Officer, indicating some practical experience in operations management."
+            }
+        ]
+    }
+}

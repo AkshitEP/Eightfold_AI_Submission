@@ -1,0 +1,17 @@
+{
+    "resume_file": "827.json",
+    "recommendation_file": "Recommendation_From_ID_709.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be referring to two individuals, but the resume only belongs to one person.",
+        "verified_skills": [
+            "Leadership",
+            "Operations Management",
+            "Data Analysis",
+            "Cost Efficiency"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in healthcare administration, but some claims seem exaggerated or unsupported. The recommendation also seems to be referring to two individuals, which is inconsistent with the provided resume."
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sleep Technologist, RPSGT",
+                "work_description": "Polysomnogram preparation and set up, diagnostic testing, PAP and oxygen titration studies, monitoring and scoring complete patient studies using AASM standards, data transfers, Windows OS, work diligently with minimal supervision in a 1:2 technologist to patient ratio.",
+                "company_level": "Mid-level",
+                "start_date": "12/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Neurophysiology Technician, RPSGT",
+                "work_description": "Performing EEG and LTM, measuring in 10-20, patient preparation and education, monitor and note abnormalities, sleep study preparation & set up, prepare & calibrate equipment prior to testing, following AASM protocol for MSLT, MWT, PAP and oxygen studies, assist with scoring sleep studies.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "11/2015"
+            },
+            {
+                "role_name": "Healthcare Specialist, CRT",
+                "work_description": "Clinical patient evaluation in home setting, implement disease management programs, respiratory & sleep equipment set up and education, billing patients in outpatient sleep center.",
+                "company_level": "Mid-level",
+                "start_date": "09/2005",
+                "end_date": "12/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Hannibal La-Grange University",
+                "start_date": "01/1999",
+                "end_date": "05/2000",
+                "domain": "Respiratory Therapy",
+                "level": "Applied Associates Degree of Science"
+            },
+            {
+                "university": "University of Wisconsin",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "Healthcare Information Management & Technology",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Polysomnogram Preparation and Setup",
+                "level": 4,
+                "explanation": "Has extensive experience in preparing and setting up polysomnogram tests, indicating strong proficiency."
+            },
+            {
+                "name": "Diagnostic Testing",
+                "level": 4,
+                "explanation": "Has performed various diagnostic tests, including PAP and oxygen titration studies, showing strong proficiency."
+            },
+            {
+                "name": "Patient Monitoring and Scoring",
+                "level": 4,
+                "explanation": "Has monitored and scored complete patient studies using AASM standards, indicating strong proficiency."
+            },
+            {
+                "name": "Data Transfers",
+                "level": 3,
+                "explanation": "Has experience with data transfers, showing a solid working proficiency."
+            },
+            {
+                "name": "Windows OS",
+                "level": 3,
+                "explanation": "Has used Windows OS in a professional setting, indicating a solid working proficiency."
+            },
+            {
+                "name": "EEG and LTM",
+                "level": 4,
+                "explanation": "Has performed EEG and LTM, measuring in 10-20, showing strong proficiency."
+            },
+            {
+                "name": "Patient Preparation and Education",
+                "level": 3,
+                "explanation": "Has prepared and educated patients for sleep studies, indicating a solid working proficiency."
+            },
+            {
+                "name": "Equipment Calibration",
+                "level": 3,
+                "explanation": "Has prepared and calibrated equipment prior to testing, showing a solid working proficiency."
+            },
+            {
+                "name": "Clinical Patient Evaluation",
+                "level": 3,
+                "explanation": "Has evaluated patients in a clinical setting, indicating a solid working proficiency."
+            },
+            {
+                "name": "Disease Management Programs",
+                "level": 3,
+                "explanation": "Has implemented disease management programs, showing a solid working proficiency."
+            },
+            {
+                "name": "Respiratory and Sleep Equipment Setup",
+                "level": 3,
+                "explanation": "Has set up respiratory and sleep equipment, indicating a solid working proficiency."
+            },
+            {
+                "name": "Healthcare Information Management",
+                "level": 2,
+                "explanation": "Has some knowledge of healthcare information management, but lacks extensive experience."
+            },
+            {
+                "name": "Healthcare Technology",
+                "level": 2,
+                "explanation": "Has some knowledge of healthcare technology, but lacks extensive experience."
+            }
+        ]
+    }
+}

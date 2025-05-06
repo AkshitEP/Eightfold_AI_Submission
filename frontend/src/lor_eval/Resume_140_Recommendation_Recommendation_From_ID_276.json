@@ -1,0 +1,17 @@
+{
+    "resume_file": "140.json",
+    "recommendation_file": "Recommendation_From_ID_276.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Administrative Management",
+            "Communication",
+            "Project Management",
+            "Time Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative expertise and finance-oriented responsibilities."
+    }
+}

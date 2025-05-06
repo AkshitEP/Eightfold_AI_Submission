@@ -1,0 +1,25 @@
+{
+    "resume_file": "697.json",
+    "recommendation_file": "Recommendation_From_ID_475.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Leadership",
+            "Accounting Operations Management",
+            "Financial Reporting",
+            "Financial Planning and Analysis",
+            "Risk Management",
+            "Bank Reconciliation",
+            "Payroll Management",
+            "General Ledger Management",
+            "Inventory Reconciliation",
+            "Leadership",
+            "Sarbanes-Oxley Compliance",
+            "Financial Auditing"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial leadership, accounting operations management, and financial reporting expertise. The recommendation also highlights the candidate's attention to detail, organizational prowess, and ability to foster a collaborative environment."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_id": 86,
+    "recommendation_file": "Recommendation_From_ID_815.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Administrative Support",
+            "Patient Care",
+            "Data Entry",
+            "Time Management",
+            "Communication",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and patient care abilities. The source of the recommendation is a supervisor, adding credibility to the endorsement."
+    }
+}

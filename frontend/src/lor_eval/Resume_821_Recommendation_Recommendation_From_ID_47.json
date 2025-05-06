@@ -1,0 +1,20 @@
+{
+    "resume_file": "821.json",
+    "recommendation_file": "Recommendation_From_ID_47.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Statement Preparation",
+            "Bank Reconciliation",
+            "Accounts Payable",
+            "Payroll Management",
+            "Journal Entries",
+            "Financial Analysis",
+            "Accounting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and highlighting their attention to detail, collaborative spirit, and ability to manage complex financial data."
+    }
+}

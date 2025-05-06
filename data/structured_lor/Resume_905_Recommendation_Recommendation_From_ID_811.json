@@ -1,0 +1,16 @@
+{
+    "resume_file": "905.json",
+    "recommendation_file": "Recommendation_From_ID_811.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Unrealistic claims and lack of alignment with the candidate's resume. The recommendation mentions a degree in Healthcare Administration, which is not present in the candidate's resume.",
+        "verified_skills": [
+            "Computer Networking",
+            "Microsoft Excel",
+            "Client Relationship Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks substantial detail or alignment with the key areas of expertise. The claims seem exaggerated or unsupported, and the language used is formal but not entirely credible."
+    }
+}

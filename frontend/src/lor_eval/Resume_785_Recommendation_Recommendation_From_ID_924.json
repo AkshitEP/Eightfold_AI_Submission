@@ -1,0 +1,17 @@
+{
+    "resume_file": "785.json",
+    "recommendation_file": "Recommendation_From_ID_924.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommender's background in bakery entrepreneurship and project engineering seems unrelated to the candidate's aerospace experience. However, the recommendation does mention relevant skills and experiences.",
+        "verified_skills": [
+            "Quality Control",
+            "Aircraft Maintenance",
+            "Aviation Structural Mechanics",
+            "Technical Inspection"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in quality control and aerospace maintenance, but the recommender's background seems unrelated to the candidate's field. The recommendation is generally positive, but some claims seem exaggerated or unsupported."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_id": 57,
+    "recommendation_file": "Recommendation_From_ID_461.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Training and Development",
+            "Sales",
+            "Customer Service",
+            "Fitness Instruction"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and sales abilities. However, the source of the recommendation is unclear, and the recommendation does not explicitly mention the candidate's experience in digital media, quality assurance, or problem-solving."
+    }
+}

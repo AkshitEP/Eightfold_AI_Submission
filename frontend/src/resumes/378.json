@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Analyst",
+                "work_description": "Provide Human Resources and Employee Relations transactional service assistance to managers and employees throughout Kraft Foods. Work to ensure process integration is supported within HR function during Kraft Merger by adapting to, and executing revised HR methods. Serve as lead for Workforce Solutions Intake group, providing guidance on HR task questions, overseeing Intake scheduling, defining current processes and implementing new processes to increase productivity.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2012",
+                "end_date": "07/2015"
+            },
+            {
+                "role_name": "HR Coordinator",
+                "work_description": "Support Workforce Solutions group with collection and distribution of company-wide organization announcements and other administrative tasks. Consult with managers/employees to determine the type of HR transaction(s) needed, including but not limited to policy questions, employee relation issues, terminations, new hire process, and compensation changes.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2012",
+                "end_date": "10/2012"
+            },
+            {
+                "role_name": "Senior HR Coordinator Sales",
+                "work_description": "Manage schedules, travel, and meeting preparation or Area VP Sales. Created Sales Newsletter, summarizing relevant updates and current information, promoting steady communication within sales group. Analyze yearly goal progress for employees utilizing Gallup Survey Systems.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2008",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Administrative Assistant",
+                "work_description": "Maintain and update Team Sites for Central Area retail accounts, Outlook distribution lists, and sales samples manifest. Run allocation reports and Incentive Contest update reports, distributing to sales teams weekly.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2007",
+                "end_date": "02/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Psychology",
+                "level": "Bachelor"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resources",
+                "level": 5,
+                "explanation": "Over 8 years of experience in HR roles, including HR Analyst, HR Coordinator, and Senior HR Coordinator, indicating expert-level mastery."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Provided transactional service assistance to managers and employees, and consulted with managers/employees to determine the type of HR transactions needed, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Served as lead for Workforce Solutions Intake group, providing guidance on HR task questions, and managed schedules, travel, and meeting preparation for Area VP Sales, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Created Sales Newsletter, summarizing relevant updates and current information, promoting steady communication within sales group, and provided guidance on HR task questions, showing strong proficiency in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed Intake scheduling, defined current processes, and implemented new processes to increase productivity, indicating a solid working proficiency in project management."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Analyzed yearly goal progress for employees utilizing Gallup Survey Systems, showing some practical experience in data analysis."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed schedules, travel, and meeting preparation for Area VP Sales, indicating a solid working proficiency in time management."
+            }
+        ]
+    }
+}

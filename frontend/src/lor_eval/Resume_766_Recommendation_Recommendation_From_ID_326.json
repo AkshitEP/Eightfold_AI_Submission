@@ -1,0 +1,16 @@
+{
+    "resume_file": "766.json",
+    "recommendation_file": "Recommendation_From_ID_326.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Audio/Video Installation",
+            "Audio/Video Signal Flow",
+            "Event Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical expertise and professionalism in the audio/visual field, aligning well with their skills and experience. However, the source of the recommendation is unclear, and some skills mentioned in the resume are not directly referenced."
+    }
+}

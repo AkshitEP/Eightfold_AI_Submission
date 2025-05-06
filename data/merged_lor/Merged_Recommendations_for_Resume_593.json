@@ -1,0 +1,113 @@
+{
+    "target_id": "593",
+    "recommendations": [
+        {
+            "recommender_id": "834",
+            "recommendation": {
+                "resume_file": "593.json",
+                "recommendation_file": "Recommendation_From_ID_834.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The recommender's role as a fitness trainer and coach seems unrelated to the candidate's HR experience.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "Employment Law",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's HR skills and experience, but the source's relationship to the candidate is unclear. The language is somewhat informal, but the recommendation provides specific examples of the candidate's skills and attributes."
+                }
+            }
+        },
+        {
+            "recommender_id": "223",
+            "recommendation": {
+                "resume_file": "593.json",
+                "recommendation_file": "Recommendation_From_ID_223.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "Employment Law",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and communication skills. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "313",
+            "recommendation": {
+                "resume_file": "593.json",
+                "recommendation_file": "Recommendation_From_ID_313.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims present, but no significant red flags detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Event Planning",
+                        "Human Resources Management",
+                        "Communication",
+                        "Team leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "837",
+            "recommendation": {
+                "resume_file": "593.json",
+                "recommendation_file": "Recommendation_From_ID_837.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Leadership",
+                        "Communication",
+                        "Employee Onboarding",
+                        "Employment Law"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and communication skills. The source of the recommendation appears to be a peer or colleague, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "53",
+            "recommendation": {
+                "resume_file": "593.json",
+                "recommendation_file": "Recommendation_From_ID_53.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "Employment Law",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and communication skills. The source of the recommendation is a peer, who has worked with the candidate and can attest to their abilities."
+                }
+            }
+        }
+    ]
+}

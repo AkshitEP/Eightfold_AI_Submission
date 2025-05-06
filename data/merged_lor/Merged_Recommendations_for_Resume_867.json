@@ -1,0 +1,153 @@
+{
+    "target_id": "867",
+    "recommendations": [
+        {
+            "recommender_id": "254",
+            "recommendation": {
+                "resume_file": "867.json",
+                "recommendation_file": "Recommendation_From_ID_254.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Communication",
+                        "Relationship Building"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's teaching abilities, communication skills, and relationship-building capabilities, aligning well with their resume. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "612",
+            "recommendation": {
+                "resume_file": "867.json",
+                "recommendation_file": "Recommendation_From_ID_612.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Academic Advising",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Building",
+                        "Education Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, curriculum development, and commitment to student growth. The source of the recommendation is a former colleague, indicating a peer-level endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "687",
+            "recommendation": {
+                "resume_file": "867.json",
+                "recommendation_file": "Recommendation_From_ID_687.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Building",
+                        "Education Administration"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and relationship building. The recommender's position as an Assistant Principal adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "166",
+            "recommendation": {
+                "resume_file": "867.json",
+                "recommendation_file": "Recommendation_From_ID_166.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source's profession as a Medical Billing Specialist seems unrelated to the candidate's field of education. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Academic Advising",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Building"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and communication skills. However, the source's profession seems unrelated to the candidate's field, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "432",
+            "recommendation": {
+                "resume_file": "867.json",
+                "recommendation_file": "Recommendation_From_ID_432.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. The recommender's background in military and law enforcement is unrelated to education, which raises some concerns about their expertise in evaluating the candidate's teaching abilities.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Building"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's teaching abilities, leadership skills, and communication skills, which align with their job history and skills. However, the recommender's background and the overly flattering language raise some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "961",
+            "recommendation": {
+                "resume_file": "867.json",
+                "recommendation_file": "Recommendation_From_ID_961.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Academic Advising",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Building",
+                        "Education Administration",
+                        "Student Progress Monitoring"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and relationship building. The source of the recommendation is a peer, indicating a firsthand account of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "878",
+            "recommendation": {
+                "resume_file": "867.json",
+                "recommendation_file": "Recommendation_From_ID_878.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Academic Advising",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Building",
+                        "Education Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and communication skills. The recommender's tone is professional and supportive, indicating a genuine endorsement of the candidate's abilities."
+                }
+            }
+        }
+    ]
+}

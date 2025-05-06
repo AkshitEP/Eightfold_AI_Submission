@@ -1,0 +1,44 @@
+{
+    "target_id": "978",
+    "recommendations": [
+        {
+            "recommender_id": "508",
+            "recommendation": {
+                "resume_file": "978.json",
+                "recommendation_file": "Recommendation_From_ID_508.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommender's background and experience seem unrelated to the candidate's field, and some claims appear exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Problem-Solving",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's analytical and problem-solving skills, attention to detail, and teamwork capabilities. However, the recommender's background as a Pharmaceutical Sales Representative seems unrelated to the candidate's field, and some claims appear exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "252",
+            "recommendation": {
+                "resume_file": "978.json",
+                "recommendation_file": "Recommendation_From_ID_252.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Financial Aid Management",
+                        "General Ledger Management",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in data analysis, financial aid management, and general ledger management, but the source of the recommendation is unclear. The language is formal, but overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

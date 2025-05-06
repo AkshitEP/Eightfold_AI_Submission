@@ -1,0 +1,25 @@
+{
+    "target_id": "104",
+    "recommendations": [
+        {
+            "recommender_id": "5",
+            "recommendation": {
+                "resume_file": "104.json",
+                "recommendation_file": "Recommendation_From_ID_5.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's background in geology seems unrelated to the candidate's field, which raises some concerns.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Case Management",
+                        "Mental Health Assessment",
+                        "Community Outreach"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in crisis management, emotional intelligence, and supportive counseling, which aligns with their experience as a Bilingual Domestic Violence Advocate. However, the recommender's background in geology and some exaggerated claims, such as comparing the advocate's skills to geological surveys, raise some concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

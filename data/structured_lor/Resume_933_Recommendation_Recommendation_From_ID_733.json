@@ -1,0 +1,12 @@
+{
+    "resume_file": "933.json",
+    "recommendation_file": "Recommendation_From_ID_733.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and informal language. The recommender claims to be a Marine Biologist, but the candidate's experience and skills are in HR. The comparison between HR management and marine research is unrealistic and exaggerated.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align well with the candidate's skills and experience. The recommender's background and expertise are unclear, and the comparison between HR management and marine research is unrealistic. The language used is also informal and exaggerated."
+    }
+}

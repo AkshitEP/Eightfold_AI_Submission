@@ -1,0 +1,18 @@
+{
+    "resume_file": "37.json",
+    "recommendation_file": "Recommendation_From_ID_405.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written for a different role (Inside Sales Representative) and does not fully align with the candidate's skills and experience as a Senior Student Accounts Officer. However, it does mention some relevant skills such as financial aid systems and counseling students.",
+        "verified_skills": [
+            "Financial Aid Management",
+            "Customer Service",
+            "Leadership",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not fully align with the candidate's skills and experience, but it does mention some relevant skills. However, the recommendation seems to be written for a different role, which raises some concerns about its authenticity."
+    }
+}

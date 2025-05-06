@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Executed accounts receivable reporting enhancements and reconciliation procedures. Evaluated accounting requirements during discovery meetings with potential clients. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions.",
+                "company_level": "Mid-level",
+                "start_date": "03/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Customer Service Rep",
+                "work_description": "Excelled in exceeding daily credit card application goals. Worked as a team member performing cashier duties, product assistance and cleaning. Guaranteed positive customer experiences and resolved all customer complaints. Processed and issued money orders for customers.",
+                "company_level": "Mid-level",
+                "start_date": "05/2007",
+                "end_date": "03/2010"
+            },
+            {
+                "role_name": "Store Manager",
+                "work_description": "Created training manuals targeted at resolving even the most difficult customer issues. Successfully managed the activities of [number] team members in multiple locations. Monitored the daily activities of [number] customer support teams. Interviewed, hired and trained new quality customer service representatives.",
+                "company_level": "Mid-level",
+                "start_date": "06/2005",
+                "end_date": "04/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Kaplan University",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Has extensive experience in accounting, including accounts receivable reporting enhancements, reconciliation procedures, and evaluating accounting requirements, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Executed reconciliation procedures and reconciled records of bank transactions, showing strong proficiency in financial reconciliation."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Excelled in customer service roles, including resolving customer complaints and ensuring positive customer experiences, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Successfully managed team members in multiple locations, monitored daily activities of customer support teams, and trained new customer service representatives, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 3,
+                "explanation": "Received, recorded, and banked cash, checks, and vouchers, indicating a solid working proficiency in cash handling."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No direct mention of using Microsoft Excel, but likely used in accounting and financial reconciliation tasks."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Created training manuals and trained new customer service representatives, showing a solid working proficiency in training and development."
+            }
+        ]
+    }
+}

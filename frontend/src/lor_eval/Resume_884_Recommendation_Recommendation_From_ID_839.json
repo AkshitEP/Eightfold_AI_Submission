@@ -1,0 +1,17 @@
+{
+    "resume_id": 884,
+    "recommendation_file": "Recommendation_From_ID_839.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unknown and has a background in marine biology, which may not be directly relevant to finance. However, the recommendation provides specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Financial Analysis",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis abilities. However, the source's background in marine biology may not be directly relevant to finance."
+    }
+}

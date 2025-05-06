@@ -1,0 +1,139 @@
+{
+    "target_id": "958",
+    "recommendations": [
+        {
+            "recommender_id": "876",
+            "recommendation": {
+                "resume_id": 958,
+                "recommendation_file": "Recommendation_From_ID_876.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Personal Training",
+                        "Fitness Program Development",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their personal training methods, leadership, and client management. The recommendation highlights the candidate's ability to create personalized training programs and their commitment to client success."
+                }
+            }
+        },
+        {
+            "recommender_id": "179",
+            "recommendation": {
+                "resume_file": "958.json",
+                "recommendation_file": "Recommendation_From_ID_179.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Personal Training",
+                        "Fitness Program Development",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their fitness expertise, leadership qualities, and community involvement."
+                }
+            }
+        },
+        {
+            "recommender_id": "115",
+            "recommendation": {
+                "resume_id": 958,
+                "recommendation_file": "Recommendation_From_ID_115.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Personal Training",
+                        "Fitness Program Development",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their personal training methods, leadership abilities, and community engagement. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "870",
+            "recommendation": {
+                "resume_file": "958.json",
+                "recommendation_file": "Recommendation_From_ID_870.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Personal Training",
+                        "Fitness Program Development",
+                        "Sales and Marketing",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the health and fitness industry. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "847",
+            "recommendation": {
+                "resume_file": "958.json",
+                "recommendation_file": "Recommendation_From_ID_847.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation is unrealistic, with improper language and statistically improbable claims. The recommendation mentions a customer service representative, which is not relevant to the personal trainer's resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience, and seems to be fabricated or exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "356",
+            "recommendation": {
+                "resume_file": "958.json",
+                "recommendation_file": "Recommendation_From_ID_356.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear and the recommender's background is not mentioned. Additionally, the recommender's expertise in yoga and wellness program development does not directly align with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Personal Training",
+                        "Fitness Program Development",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in personal training, fitness program development, and leadership, but lacks specific examples and details. The recommender's enthusiasm and praise for the candidate's skills and dedication to client success are evident, but the recommendation could be more effective with more concrete examples and a clearer understanding of the recommender's relationship with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "863",
+            "recommendation": {
+                "resume_file": "958.json",
+                "recommendation_file": "Recommendation_From_ID_863.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of experience in military aviation operations not present in the resume.",
+                    "verified_skills": [
+                        "Personal Training",
+                        "Fitness Program Development",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but contains some minor inconsistencies. The source of the recommendation is unclear."
+                }
+            }
+        }
+    ]
+}

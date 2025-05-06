@@ -1,0 +1,18 @@
+{
+    "resume_file": "612.json",
+    "recommendation_file": "Recommendation_From_ID_287.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Curriculum Development",
+            "Classroom Management",
+            "Assessment and Evaluation",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, classroom environment, and community involvement. However, the source of the recommendation is unclear, and the mention of extracurricular activities not mentioned in the resume raises some questions."
+    }
+}

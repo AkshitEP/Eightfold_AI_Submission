@@ -1,0 +1,19 @@
+{
+    "resume_file": "190.json",
+    "recommendation_file": "Recommendation_From_ID_532.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the writer claims to have worked as a General HR Assistant and Call Center Manager, which is not mentioned in the resume. However, the recommendation is well-supported by the resume and provides specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Human Resources",
+            "Recruitment",
+            "Employee Engagement",
+            "Performance Management",
+            "Employee Retention",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR operations, recruitment, and talent acquisition strategies. However, the writer's claim to have worked as a General HR Assistant and Call Center Manager is not mentioned in the resume, which raises some concerns about the authenticity of the recommendation."
+    }
+}

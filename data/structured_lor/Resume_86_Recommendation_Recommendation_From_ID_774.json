@@ -1,0 +1,19 @@
+{
+    "resume_id": 86,
+    "recommendation_file": "Recommendation_From_ID_774.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be comparing two individuals, but only one is relevant to the provided resume. Some minor inconsistencies and exaggerated claims are present.",
+        "verified_skills": [
+            "Administrative Support",
+            "Patient Care",
+            "Data Entry",
+            "Time Management",
+            "Communication",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and patient care abilities. However, the comparison to another individual and some minor inconsistencies reduce the relevance score."
+    }
+}

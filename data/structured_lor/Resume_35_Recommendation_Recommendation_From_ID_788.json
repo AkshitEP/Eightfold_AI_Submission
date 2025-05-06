@@ -1,0 +1,12 @@
+{
+    "resume_file": "35.json",
+    "recommendation_file": "Recommendation_From_ID_788.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Exaggerated language, lack of concrete examples, and unclear relevance to security-related roles.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks specificity and alignment with the key areas of expertise mentioned in the resume, and raises concerns about the authenticity of the recommendation."
+    }
+}

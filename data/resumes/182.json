@@ -1,0 +1,157 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology (IT) Specialist",
+                "work_description": "Developed, managed and coordinated the implementation of network communications, local area networks (LANs), visual information systems (VIS), and information technology (IT) infrastructure projects. Directed and managed the efforts of a five person Integrated Product Team (IPT) to implement the $25 million IT infrastructure for the the new Command, Control, Communications and Computers (C4) facility for the Joint Special Operations Command (JSOC) at Ft Bragg, NC.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Systems Integration Analyst",
+                "work_description": "Developed the Facility Design Criteria (FDC), System Design Plans (SDPs), Engineering Installation Packages (EIPs), List of Materials (LOMs) and other acquisition documentation for complex IT projects according to user requirements.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2009",
+                "end_date": "12/2009"
+            },
+            {
+                "role_name": "Functional Area Expert (Command and Control)",
+                "work_description": "Provided IT engineering services in the form of quick reaction engineering to Engineer, Furnish, Install, and Test (EFIT) total communications functionality at multiple Command and Control (C2) facilities.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2001",
+                "end_date": "09/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Information Technology",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Cochise College",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "Electronic Technology",
+                "level": "Associate's"
+            },
+            {
+                "university": "AGS Cochise College",
+                "start_date": "01/2001",
+                "end_date": "12/2001",
+                "domain": "General Studies",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Information Technology",
+                "description": "Implemented the $25 million IT infrastructure for the the new Command, Control, Communications and Computers (C4) facility for the Joint Special Operations Command (JSOC) at Ft Bragg, NC.",
+                "skills": [
+                    "Network Communications",
+                    "Local Area Networks",
+                    "Visual Information Systems",
+                    "IT Infrastructure"
+                ]
+            },
+            {
+                "domain": "Systems Integration",
+                "description": "Developed the Facility Design Criteria (FDC), System Design Plans (SDPs), Engineering Installation Packages (EIPs), List of Materials (LOMs) and other acquisition documentation for complex IT projects according to user requirements.",
+                "skills": [
+                    "Systems Integration",
+                    "Facility Design",
+                    "System Design",
+                    "Engineering Installation"
+                ]
+            },
+            {
+                "domain": "Command and Control",
+                "description": "Provided IT engineering services in the form of quick reaction engineering to Engineer, Furnish, Install, and Test (EFIT) total communications functionality at multiple Command and Control (C2) facilities.",
+                "skills": [
+                    "IT Engineering",
+                    "Command and Control",
+                    "Communications",
+                    "Networks"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Communications",
+                "level": 5,
+                "explanation": "Extensive experience in developing, managing, and coordinating network communications projects, including a $25 million IT infrastructure project, indicating expert-level mastery."
+            },
+            {
+                "name": "Local Area Networks",
+                "level": 5,
+                "explanation": "Developed and implemented local area networks (LANs) for various projects, including the $25 million IT infrastructure project, showing expert-level proficiency."
+            },
+            {
+                "name": "Visual Information Systems",
+                "level": 4,
+                "explanation": "Managed and coordinated the implementation of visual information systems (VIS) projects, indicating strong proficiency."
+            },
+            {
+                "name": "IT Infrastructure",
+                "level": 5,
+                "explanation": "Led the implementation of a $25 million IT infrastructure project, demonstrating expert-level mastery of IT infrastructure development and management."
+            },
+            {
+                "name": "Systems Integration",
+                "level": 4,
+                "explanation": "Developed acquisition documentation for complex IT projects, including Facility Design Criteria (FDC) and System Design Plans (SDPs), showing strong proficiency in systems integration."
+            },
+            {
+                "name": "Facility Design",
+                "level": 3,
+                "explanation": "Developed Facility Design Criteria (FDC) for complex IT projects, indicating solid working proficiency in facility design."
+            },
+            {
+                "name": "System Design",
+                "level": 3,
+                "explanation": "Developed System Design Plans (SDPs) for complex IT projects, showing solid working proficiency in system design."
+            },
+            {
+                "name": "Engineering Installation",
+                "level": 3,
+                "explanation": "Developed Engineering Installation Packages (EIPs) for complex IT projects, indicating solid working proficiency in engineering installation."
+            },
+            {
+                "name": "IT Engineering",
+                "level": 4,
+                "explanation": "Provided IT engineering services, including quick reaction engineering, for multiple Command and Control (C2) facilities, showing strong proficiency in IT engineering."
+            },
+            {
+                "name": "Command and Control",
+                "level": 3,
+                "explanation": "Provided IT engineering services for multiple Command and Control (C2) facilities, indicating solid working proficiency in command and control systems."
+            },
+            {
+                "name": "Communications",
+                "level": 3,
+                "explanation": "Provided IT engineering services to Engineer, Furnish, Install, and Test (EFIT) total communications functionality at multiple Command and Control (C2) facilities, showing solid working proficiency in communications."
+            },
+            {
+                "name": "Networks",
+                "level": 3,
+                "explanation": "Provided IT engineering services to Engineer, Furnish, Install, and Test (EFIT) total communications functionality at multiple Command and Control (C2) facilities, indicating solid working proficiency in networks."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed and coordinated the implementation of multiple IT projects, including a $25 million IT infrastructure project, showing strong proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Directed and managed the efforts of a five-person Integrated Product Team (IPT) to implement the $25 million IT infrastructure project, indicating strong proficiency in leadership."
+            }
+        ]
+    }
+}

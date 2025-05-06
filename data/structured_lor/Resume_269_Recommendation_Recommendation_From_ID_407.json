@@ -1,0 +1,18 @@
+{
+    "resume_file": "269.json",
+    "recommendation_file": "Recommendation_From_ID_407.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's title and the candidate's role not matching, but overall the language is formal and the claims are supported by the resume.",
+        "verified_skills": [
+            "Sales",
+            "Customer Service",
+            "Leadership",
+            "Inventory Management",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and customer service abilities, as well as their leadership and inventory management skills. However, the recommender's title and the candidate's role do not match, which raises some minor concerns about the accuracy of the recommendation."
+    }
+}

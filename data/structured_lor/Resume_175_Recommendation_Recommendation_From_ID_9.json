@@ -1,0 +1,16 @@
+{
+    "resume_file": "175.json",
+    "recommendation_file": "Recommendation_From_ID_9.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation does not directly reference the candidate's skills and experience as a Store Manager, and the language used seems overly flattering. However, the recommendation does not contain any statistically improbable claims or informal language.",
+        "verified_skills": [
+            "Customer Service",
+            "Leadership",
+            "Team Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation highlights the candidate's customer service skills and leadership abilities, but it does not directly reference their experience as a Store Manager. The recommendation seems to be more focused on the candidate's role as a Member Services Representative, which is not mentioned in the resume."
+    }
+}

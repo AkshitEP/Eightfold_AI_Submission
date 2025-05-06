@@ -1,0 +1,111 @@
+{
+    "target_id": "570",
+    "recommendations": [
+        {
+            "recommender_id": "424",
+            "recommendation": {
+                "resume_file": "570.json",
+                "recommendation_file": "Recommendation_From_ID_424.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Medical Billing",
+                        "Data Entry",
+                        "Patient Confidentiality",
+                        "Time Management",
+                        "Communication",
+                        "Medical Records Management"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, medical billing, and administrative abilities. The source of the recommendation is a Senior Application Specialist, indicating a supervisory or managerial relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "931",
+            "recommendation": {
+                "resume_file": "570.json",
+                "recommendation_file": "Recommendation_From_ID_931.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no obvious signs of exaggeration or statistically improbable claims.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-solving",
+                        "Attention to detail",
+                        "Medical terminology"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's experience in customer service and medical terminology, but does not specifically mention their skills in medical billing or data entry."
+                }
+            }
+        },
+        {
+            "recommender_id": "16",
+            "recommendation": {
+                "resume_file": "570.json",
+                "recommendation_file": "Recommendation_From_ID_16.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Generic language used, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Medical Billing",
+                        "Patient Confidentiality",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but could benefit from more specific examples and details."
+                }
+            }
+        },
+        {
+            "recommender_id": "293",
+            "recommendation": {
+                "resume_file": "570.json",
+                "recommendation_file": "Recommendation_From_ID_293.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommender is unrelated to the candidate's field of expertise, and the recommendation lacks specific examples and details. The language used is overly flattering and lacks objectivity.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Medical Billing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems suspicious due to the recommender's unrelated field of expertise and the lack of specific examples and details."
+                }
+            }
+        },
+        {
+            "recommender_id": "368",
+            "recommendation": {
+                "resume_file": "570.json",
+                "recommendation_file": "Recommendation_From_ID_368.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Medical Billing",
+                        "Data Entry",
+                        "Patient Confidentiality",
+                        "Time Management",
+                        "Communication",
+                        "Medical Records Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, medical billing, and administrative abilities. The source of the recommendation is a Manager of Digital Marketing and Communications, indicating a supervisory role."
+                }
+            }
+        }
+    ]
+}

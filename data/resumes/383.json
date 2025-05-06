@@ -1,0 +1,111 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Network Security Engineer",
+                "work_description": "Worked with layer2 switching, VLANs trunking technologies and spanning tree protocols. Worked on Cisco switches and routers including physical cabling, IP addressing and Wide Area Network configurations. Performed troubleshooting in TCP/IP related problems and connectivity issues. Performed troubleshooting and resolved Layer2 and Layer3 issues. Established the network specifications by conferring with users through analysing work flow, access information, designing router administration, interface configuration and routing protocols. Established redundancy in the network by evaluating network performance issues including availability, utilization, throughput and latency. Created network diagrams and documentation for design using documentation tools like MS VISIO. Maintained network performance by network monitoring analysis, performance tuning and escalating support to the vendors.",
+                "company_level": "Unknown",
+                "start_date": "01/2017",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Network Security Engineer",
+                "work_description": "",
+                "company_level": "Unknown",
+                "start_date": "09/2015",
+                "end_date": "12/2016"
+            },
+            {
+                "role_name": "Network Engineer",
+                "work_description": "",
+                "company_level": "Unknown",
+                "start_date": "12/2012",
+                "end_date": "07/2015"
+            },
+            {
+                "role_name": "Junior Network Engineer",
+                "work_description": "",
+                "company_level": "Unknown",
+                "start_date": "01/2011",
+                "end_date": "11/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Wright State University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Computer Science",
+                "level": "Master's"
+            },
+            {
+                "university": "JNTU",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Electronics and Communications",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [],
+        "certifications": [
+            "CCNA",
+            "CCNP",
+            "Palo Alto ACE"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Security",
+                "level": 5,
+                "explanation": "Over 10 years of experience in network security roles, including senior positions, with a strong focus on troubleshooting and resolving network issues, indicating expert-level mastery."
+            },
+            {
+                "name": "Cisco Networking",
+                "level": 5,
+                "explanation": "Extensive experience working with Cisco switches and routers, including configuration, troubleshooting, and performance tuning, indicating expert-level mastery."
+            },
+            {
+                "name": "TCP/IP",
+                "level": 5,
+                "explanation": "Strong understanding of TCP/IP protocols, with experience troubleshooting and resolving related issues, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Design",
+                "level": 5,
+                "explanation": "Experience designing and implementing network specifications, including router administration, interface configuration, and routing protocols, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Monitoring",
+                "level": 4,
+                "explanation": "Experience monitoring network performance, analyzing issues, and escalating support to vendors, indicating strong proficiency."
+            },
+            {
+                "name": "Documentation",
+                "level": 3,
+                "explanation": "Experience creating network diagrams and documentation using tools like MS VISIO, indicating solid working proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 5,
+                "explanation": "Extensive experience troubleshooting and resolving network issues, including Layer2 and Layer3 problems, indicating expert-level mastery."
+            },
+            {
+                "name": "CCNA",
+                "level": 4,
+                "explanation": "Certified in CCNA, indicating strong proficiency in Cisco networking fundamentals."
+            },
+            {
+                "name": "CCNP",
+                "level": 4,
+                "explanation": "Certified in CCNP, indicating strong proficiency in advanced Cisco networking topics."
+            },
+            {
+                "name": "Palo Alto ACE",
+                "level": 4,
+                "explanation": "Certified in Palo Alto ACE, indicating strong proficiency in Palo Alto firewall administration."
+            }
+        ]
+    }
+}

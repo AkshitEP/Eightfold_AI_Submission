@@ -1,0 +1,72 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Director",
+                "work_description": "Leader of change for the largest law firm in the Central Pennsylvania area. Responsible for providing professional staff with efficient, up-to-date, secure and stable voice and data communications on a daily basis within budget. Managed a staff of seven information technical professionals and implemented various technical projects and initiatives.",
+                "company_level": "Large Corporation",
+                "start_date": "04/1999",
+                "end_date": "01/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "HARRISBURG AREA COMMUNITY COLLEGE",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Computer Information Systems",
+                "level": "Associate's Degree"
+            },
+            {
+                "university": "HARRISBURG AREA COMMUNITY COLLEGE",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Business Administration",
+                "level": "Associate's Degree"
+            },
+            {
+                "university": "ELIZABETHTOWN COLLEGE",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Leadership Program",
+                "level": "MBA"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Managed a staff of seven information technical professionals and implemented various technical projects and initiatives, indicating expert-level mastery in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Implemented various technical projects and initiatives, suggesting strong proficiency in project management."
+            },
+            {
+                "name": "Information Technology",
+                "level": 4,
+                "explanation": "Provided professional staff with efficient, up-to-date, secure and stable voice and data communications, indicating strong proficiency in IT."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Managed to provide services within budget, showing a solid working proficiency in budgeting."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Provided voice and data communications, indicating a solid level of proficiency in communication."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Managed a staff of seven, suggesting strong proficiency in team management."
+            }
+        ]
+    }
+}

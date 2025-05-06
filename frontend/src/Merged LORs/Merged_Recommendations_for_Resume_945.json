@@ -1,0 +1,69 @@
+{
+    "target_id": "945",
+    "recommendations": [
+        {
+            "recommender_id": "933",
+            "recommendation": {
+                "resume_file": "945.json",
+                "recommendation_file": "Recommendation_From_ID_933.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Data Management",
+                        "Problem-Solving",
+                        "Time Management",
+                        "HR Policies"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, customer service skills, and organizational abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "824",
+            "recommendation": {
+                "resume_file": "945.json",
+                "recommendation_file": "Recommendation_From_ID_824.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall seems genuine.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "HR Policies"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and exaggerated claims. The recommendation provides some specific examples of the candidate's skills and experiences, but also mentions some skills and experiences that are not explicitly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "655",
+            "recommendation": {
+                "resume_file": "945.json",
+                "recommendation_file": "Recommendation_From_ID_655.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Data Management",
+                        "HR Policies"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, communication, and problem-solving abilities. The recommender's role as a Communicable Disease Specialist and their experience working with the candidate on joint projects adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "resume_file": "291.json",
+    "recommendation_file": "Recommendation_From_ID_593.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Teamwork",
+            "Problem-Solving",
+            "Attention to Detail",
+            "Health and Wellness",
+            "Entrepreneurship"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership abilities, and entrepreneurial spirit. The source of the recommendation is a Human Resources Manager, indicating a supervisory or managerial relationship with the candidate."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "resume_file": "415.json",
+    "recommendation_file": "Recommendation_From_ID_344.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommender's role and relationship to the candidate are unclear, and the recommendation focuses on a role (Group Fitness Instructor) not mentioned in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and customer service skills, but does not provide specific examples or details from their work experience. The recommender's own experience as a Kids Club Attendant is mentioned, but the connection to the candidate's skills and qualifications is unclear."
+    }
+}

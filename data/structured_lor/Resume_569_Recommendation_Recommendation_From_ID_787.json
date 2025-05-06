@@ -1,0 +1,16 @@
+{
+    "resume_file": "569.json",
+    "recommendation_file": "Recommendation_From_ID_787.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's resume and the use of overly positive language.",
+        "verified_skills": [
+            "Leadership",
+            "Operational Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's leadership and operational management skills, which align with their experience as AFSCME Union President. However, the recommendation lacks specific examples from the candidate's resume and uses overly positive language, which raises some concerns about its credibility."
+    }
+}

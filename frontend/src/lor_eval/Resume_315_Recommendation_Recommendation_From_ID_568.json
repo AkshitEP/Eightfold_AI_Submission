@@ -1,0 +1,18 @@
+{
+    "resume_file": "315.json",
+    "recommendation_file": "Recommendation_From_ID_568.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Clinical Study Coordinator II may not be directly related to the accountant's work, and some claims seem slightly exaggerated.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reconciliation",
+            "General Accounting",
+            "Asset Management",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the accountant's exceptional skills and commitment to detail, but the recommender's role and experience may not be directly relevant to the accountant's work. The recommendation still provides valuable insights into the accountant's abilities and work ethic."
+    }
+}

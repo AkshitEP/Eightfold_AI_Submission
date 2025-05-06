@@ -1,0 +1,126 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Manager, Digital Marketing and Communications",
+                "work_description": "Project manager of Advocate's new physician profiles. Implemented a benchmark assessment that reviewed and evaluated integrated healthcare systems nationwide. Developed data-driven strategies that transform consumer intent into action and drive conversions.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Senior Web Specialist",
+                "work_description": "Implement and manage continuous improvements based on digital dashboards and market research to increase the effectiveness of AMGdoctors.com and online marketing initiatives. Research and implement effective online strategies to optimize Search Engine Optimization (SEO).",
+                "company_level": "Large Corporation",
+                "start_date": "06/2007",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Senior Planning Analyst",
+                "work_description": "Conducted online competitive analysis to identify competitor strategies on specific site and system growth initiatives. Created and presented market assessments and recommendations to executive management based on analytic results.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "06/2007"
+            },
+            {
+                "role_name": "Interim Director of CRM Data Warehouse",
+                "work_description": "Managed CRM Data Warehouse budget for system and hospital initiatives. Developed CRM projects to determine return on investment for the Marketing department and other departments within Strategic Planning and Growth.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "08/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "DePaul University",
+                "start_date": "01/2004",
+                "end_date": "06/2004",
+                "domain": "Healthcare Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Illinois",
+                "start_date": "01/1996",
+                "end_date": "05/1996",
+                "domain": "Biological Sciences",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Digital Marketing",
+                "description": "Developed and managed website for Advocate Physician Partners regarding their Managed Care and Clinical Integration for Population Health Management programs.",
+                "skills": [
+                    "HTML",
+                    "Google Analytics",
+                    "Google Adwords",
+                    "Microsoft Office"
+                ]
+            },
+            {
+                "domain": "Digital Marketing",
+                "description": "Implemented innovative solutions to manage and improve patient health. Strategies include incorporating wearable apps in patient portal, telehealth appointments, and online scheduling for immediate care.",
+                "skills": [
+                    "Content Management Systems",
+                    "Microsoft Office",
+                    "Google Analytics"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing projects, including developing and implementing data-driven strategies, and managing budgets, indicating expert-level mastery."
+            },
+            {
+                "name": "Digital Marketing",
+                "level": 5,
+                "explanation": "Has over a decade of experience in digital marketing, including developing and implementing online strategies, managing digital dashboards, and optimizing SEO, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has experience in conducting online competitive analysis, creating market assessments, and developing data-driven strategies, suggesting strong proficiency in data analysis."
+            },
+            {
+                "name": "Search Engine Optimization (SEO)",
+                "level": 4,
+                "explanation": "Has experience in optimizing SEO for online marketing initiatives, suggesting strong proficiency in SEO."
+            },
+            {
+                "name": "Content Management Systems",
+                "level": 3,
+                "explanation": "Has experience in implementing content management systems, showing a solid working proficiency."
+            },
+            {
+                "name": "Google Analytics",
+                "level": 3,
+                "explanation": "Has experience in using Google Analytics for digital marketing initiatives, showing a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Has experience in using Microsoft Office for various tasks, showing a solid working proficiency."
+            },
+            {
+                "name": "HTML",
+                "level": 2,
+                "explanation": "Has experience in using HTML for website development, suggesting some practical experience."
+            },
+            {
+                "name": "Google Adwords",
+                "level": 2,
+                "explanation": "Has experience in using Google Adwords for digital marketing initiatives, suggesting some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience in managing teams and budgets, showing a solid working proficiency in leadership."
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "136.json",
+    "recommendation_file": "Recommendation_From_ID_906.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "HR Consulting",
+            "Performance Management",
+            "Employee Relations",
+            "Talent Management",
+            "Leadership",
+            "People Management",
+            "Mentorship",
+            "Employee Engagement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and initiatives."
+    }
+}

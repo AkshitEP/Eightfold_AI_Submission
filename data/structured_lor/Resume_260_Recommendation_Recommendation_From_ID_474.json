@@ -1,0 +1,19 @@
+{
+    "resume_file": "260.json",
+    "recommendation_file": "Recommendation_From_ID_474.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. The recommender's experience in landscaping seems unrelated to the candidate's experience in healthcare.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Data Entry",
+            "Healthcare"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in customer service, communication, and problem-solving, which aligns with their experience as a Patient Advocate. However, the recommender's experience in landscaping seems unrelated to the candidate's experience in healthcare, which raises some concerns about the credibility of the recommendation."
+    }
+}

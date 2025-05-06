@@ -1,0 +1,23 @@
+{
+    "resume_file": "322.json",
+    "recommendation_file": "Recommendation_From_ID_54.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'twenty years of expertise in inventory and manufacturing accounting' which is not directly related to the candidate's experience. However, the recommendation is largely credible and well-supported by the candidate's skills and experience.",
+        "verified_skills": [
+            "Payroll Management",
+            "Financial Reconciliation",
+            "General Accounting",
+            "ADP (Human Resources and Payroll process functions)",
+            "Microsoft Excel",
+            "Leadership",
+            "Time Management",
+            "Communication",
+            "Organizational Skills",
+            "GAAP Compliance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation is generally well-aligned with the candidate's skills and experience, but there are some minor inconsistencies. The recommendation highlights the candidate's exceptional skills and contributions to the organization, and provides specific examples of their professionalism and integrity."
+    }
+}

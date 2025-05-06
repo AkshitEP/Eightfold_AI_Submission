@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Records Analyst",
+                "work_description": "Utilize the SkyBOOKs aviation maintenance tracking application to provide aircraft configuration and maintenance program compliance data to 'build' aircraft electronic logbooks accurately and in a timely manner within a web-based software application (SaaS) providing an all-around complete product to the aircraft owner / operator ensuring a precise aircraft maintenance planning and tracking tool. Meticulously researched and accurately analyzed over 200 aviation logbooks and other forms of maintenance documentation provided by aircraft owner operators to determine compliance in accordance with specified maintenance requirements.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Functional Analyst",
+                "work_description": "Provide information systems technical support including numerous windows servers and two Linux servers supporting over 1,000 military and civilian customers. Diligently conducted vital daily server system checks ensuring 100% system availability 24 hours a day, performed nightly server back-ups, release and print batch reports, monitor and ensure continuous successful system interface with Navy ERP, and provide system maintenance and troubleshooting when required.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2014",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Technical Support Representative",
+                "work_description": "SME for the web based Advanced Skill Management (ASM) application's day-to-day operations including the training of Naval personnel in the use of ASM, electronic and paper record keeping, troubleshooting, resolving and documenting customer issues, soliciting enhancements, and verification of vital data entry requirements into the ASM application for use by the majority of the naval aviation community encompassing over 4500 military and civilian personnel.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2004",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Aviation Data Analyst E-6",
+                "work_description": "Performed a variety of functional processes using NTCSS Desktop II. Changes NTCSS passwords, monitors and manages print request and printer configurations, monitors system information, changes application process limits. Maintained system security. Inputs, extracts, analyze and validate maintenance data; develops and interprets management reports, monitor input of data and the parameters for up-line reporting and related interface requirements.",
+                "company_level": "Large Corporation",
+                "start_date": "02/1999",
+                "end_date": "10/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Downers Grove South High School",
+                "start_date": "01/1984",
+                "end_date": "12/1984",
+                "domain": "General",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Florida State College of Jacksonville",
+                "start_date": "01/2011",
+                "end_date": "12/2015",
+                "domain": "Computer Science",
+                "level": "Associate of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has extensive experience analyzing maintenance data, developing management reports, and interpreting data for up-line reporting, indicating strong proficiency."
+            },
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Provided technical support for various systems, including Windows servers and Linux servers, and ensured 100% system availability, suggesting strong proficiency."
+            },
+            {
+                "name": "System Administration",
+                "level": 4,
+                "explanation": "Managed system security, monitored system information, and performed system maintenance and troubleshooting, indicating strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Resolved customer issues and performed troubleshooting for various systems, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed daily server system checks, performed nightly server back-ups, and ensured successful system interface with Navy ERP, showing solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Provided training to Naval personnel and managed the day-to-day operations of the Advanced Skill Management application, indicating solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively communicated with customers, provided system maintenance and troubleshooting, and documented customer issues, showing solid working proficiency."
+            },
+            {
+                "name": "Aviation Maintenance",
+                "level": 4,
+                "explanation": "Utilized the SkyBOOKs aviation maintenance tracking application to provide aircraft configuration and maintenance program compliance data, suggesting strong proficiency."
+            },
+            {
+                "name": "Software Application Development",
+                "level": 2,
+                "explanation": "Has some experience with software applications, including the SkyBOOKs aviation maintenance tracking application and the Advanced Skill Management application, but lacks extensive experience."
+            },
+            {
+                "name": "Computer Science",
+                "level": 2,
+                "explanation": "Has an Associate of Science degree in Computer Science, but lacks extensive experience in the field."
+            }
+        ]
+    }
+}

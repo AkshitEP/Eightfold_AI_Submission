@@ -1,0 +1,15 @@
+{
+    "resume_file": "658.json",
+    "recommendation_file": "Recommendation_From_ID_401.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims detected.",
+        "verified_skills": [
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation verifies the individual's communication and time management skills, but does not verify their skills in healthcare administration, laboratory testing, patient education, or data analysis."
+    }
+}

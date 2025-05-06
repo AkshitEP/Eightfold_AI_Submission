@@ -1,0 +1,80 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Branch Manager",
+                "work_description": "Manages the overall operation of the branch to include the Personal Bankers and Teller staff primarily focused on creating a positive work environment, community development, driving sales, increasing growth & profitability, and providing accurate and superior customer service.",
+                "company_level": "Mid-level",
+                "start_date": "06/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Financial Service Associate/ Licensed Banker",
+                "work_description": "Builds relationships with customers while performing financial transactions including paying, receiving, and cash control duties; opening and servicing accounts, seeks to uncover financial needs, minimize loss, reduce risk, and deliver accurate and superior customer service and lending requests handling more complex situations and deeper profiling over time.",
+                "company_level": "Mid-level",
+                "start_date": "11/2014",
+                "end_date": "06/2016"
+            },
+            {
+                "role_name": "Branch Operations Manager",
+                "work_description": "Functions as the Customer Service Manager ensuring a solid operational foundation; builds relationships with customers while performing financial transactions including paying, receiving, and cash control duties; seeks to uncover financial needs, minimize loss, reduce risk, and deliver accurate and superior services.",
+                "company_level": "Mid-level",
+                "start_date": "10/2013",
+                "end_date": "02/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Mississippi Gulf Coast Community College",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "General Education",
+                "level": "Associate of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Coast Young Professionals with the Gulfport Chamber Of Commerce",
+            "Gulfport Kiwanis Club"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience as a Branch Manager, managing the overall operation of the branch, and as a Branch Operations Manager, ensuring a solid operational foundation, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience in providing accurate and superior customer service in various roles, including Branch Manager, Financial Service Associate, and Branch Operations Manager, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales and Growth",
+                "level": 4,
+                "explanation": "As a Branch Manager, was primarily focused on driving sales and increasing growth and profitability, suggesting strong proficiency in sales and growth."
+            },
+            {
+                "name": "Risk Management",
+                "level": 3,
+                "explanation": "Has experience in minimizing loss and reducing risk in various roles, including Financial Service Associate and Branch Operations Manager, showing a solid working proficiency in risk management."
+            },
+            {
+                "name": "Financial Transactions",
+                "level": 4,
+                "explanation": "Has extensive experience in performing financial transactions, including paying, receiving, and cash control duties, suggesting strong proficiency in financial transactions."
+            },
+            {
+                "name": "Account Management",
+                "level": 3,
+                "explanation": "Has experience in opening and servicing accounts, seeking to uncover financial needs, and delivering accurate and superior customer service, showing a solid working proficiency in account management."
+            },
+            {
+                "name": "Community Development",
+                "level": 3,
+                "explanation": "As a Branch Manager, was primarily focused on community development, suggesting a solid working proficiency in community development."
+            }
+        ]
+    }
+}

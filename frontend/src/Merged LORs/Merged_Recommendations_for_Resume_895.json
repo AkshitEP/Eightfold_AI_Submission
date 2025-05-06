@@ -1,0 +1,89 @@
+{
+    "target_id": "895",
+    "recommendations": [
+        {
+            "recommender_id": "724",
+            "recommendation": {
+                "resume_file": "895.json",
+                "recommendation_file": "Recommendation_From_ID_724.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Policy Development",
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Supervisor/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their policy development, customer service, leadership, communication, and human resources skills. The source of the recommendation is a Business Office Manager, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "330",
+            "recommendation": {
+                "resume_file": "895.json",
+                "recommendation_file": "Recommendation_From_ID_330.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Policy Development",
+                        "Customer Service",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their policy development, customer service, and leadership abilities in a healthcare setting."
+                }
+            }
+        },
+        {
+            "recommender_id": "920",
+            "recommendation": {
+                "resume_file": "895.json",
+                "recommendation_file": "Recommendation_From_ID_920.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Policy Development",
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Time Management",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their policy development, customer service, and leadership abilities. The recommender's role as a senior analyst in a parallel field adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "605",
+            "recommendation": {
+                "resume_file": "895.json",
+                "recommendation_file": "Recommendation_From_ID_605.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's experience and qualifications are not explicitly stated, and the language is somewhat generic.",
+                    "verified_skills": [
+                        "Communication",
+                        "Leadership",
+                        "Customer Service",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in patient advocacy, communication, and leadership, but lacks specific examples and details about the recommender's relationship with the candidate."
+                }
+            }
+        }
+    ]
+}

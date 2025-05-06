@@ -1,0 +1,19 @@
+{
+    "resume_file": "306.json",
+    "recommendation_file": "Recommendation_From_ID_854.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Technical Support",
+            "Leadership",
+            "Problem-Solving",
+            "Communication",
+            "Data Analysis",
+            "Project Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support, leadership, and problem-solving abilities. The source of the recommendation is the Vice President of Information Technology, indicating a direct supervisory relationship."
+    }
+}

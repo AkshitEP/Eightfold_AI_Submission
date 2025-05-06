@@ -1,0 +1,135 @@
+{
+    "target_id": "43",
+    "recommendations": [
+        {
+            "recommender_id": "675",
+            "recommendation": {
+                "resume_id": 43,
+                "recommendation_file": "Recommendation_From_ID_675.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Employee Relations",
+                        "Policy Development",
+                        "Training and Development",
+                        "Organizational Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, leadership abilities, and commitment to employee development and organizational success."
+                }
+            }
+        },
+        {
+            "recommender_id": "229",
+            "recommendation": {
+                "resume_id": 43,
+                "recommendation_file": "Recommendation_From_ID_229.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Employee Relations",
+                        "Policy Development",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The source of the recommendation is a peer with a background in HR recruitment and advisory services, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "602",
+            "recommendation": {
+                "resume_id": 43,
+                "recommendation_file": "Recommendation_From_ID_602.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and specific examples are provided.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Employee Relations",
+                        "Policy Development",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR processes, leadership qualities, and commitment to employee development."
+                }
+            }
+        },
+        {
+            "recommender_id": "131",
+            "recommendation": {
+                "resume_id": 43,
+                "recommendation_file": "Recommendation_From_ID_131.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Policy Development",
+                        "Training and Development",
+                        "Organizational Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR work, leadership, and employee relations. The source of the recommendation is a Senior HR Manager, indicating a peer-level recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "536",
+            "recommendation": {
+                "resume_id": 43,
+                "recommendation_file": "Recommendation_From_ID_536.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Employee Relations",
+                        "Benefits Administration",
+                        "Policy Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, leadership, and employee development abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "367",
+            "recommendation": {
+                "resume_id": 43,
+                "recommendation_file": "Recommendation_From_ID_367.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Employee Relations",
+                        "Policy Development",
+                        "Training and Development",
+                        "Organizational Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and problem-solving abilities. The source of the recommendation is a peer, likely an HR Manager, who has worked with the candidate and can attest to their skills and dedication."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "resume_file": "884.json",
+    "recommendation_file": "Recommendation_From_ID_188.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation lacks credibility due to the recommender's unrelated field of expertise, the lack of specific examples or details, and the overly flattering language used.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly suspicious and likely fraudulent. It lacks credibility and does not provide any specific examples or details that would support the candidate's qualifications."
+    }
+}

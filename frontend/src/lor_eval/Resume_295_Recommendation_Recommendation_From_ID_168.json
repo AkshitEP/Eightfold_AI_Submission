@@ -1,0 +1,17 @@
+{
+    "resume_file": "295.json",
+    "recommendation_file": "Recommendation_From_ID_168.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The mention of an MBA and Accounting background is not present in the resume, which raises some concerns.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Problem-Solving",
+            "Manufacturing Operations"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with some of the candidate's skills and experience, providing specific examples of their leadership and organizational capabilities. However, it lacks detail in some areas and mentions an MBA and Accounting background that is not present in the resume."
+    }
+}

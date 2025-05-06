@@ -1,0 +1,45 @@
+{
+    "target_id": "386",
+    "recommendations": [
+        {
+            "recommender_id": "151",
+            "recommendation": {
+                "resume_file": "386.json",
+                "recommendation_file": "Recommendation_From_ID_151.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in sustainable design and customer service seems unrelated to the candidate's experience in logistics and HR management. This raises some concerns about the recommender's ability to accurately assess the candidate's skills.",
+                    "verified_skills": [
+                        "Logistics Coordination",
+                        "Leadership",
+                        "Attention to Detail",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in logistics coordination, leadership, and attention to detail, which are relevant to their experience. However, the recommender's background and expertise seem unrelated to the candidate's field, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "538",
+            "recommendation": {
+                "resume_file": "386.json",
+                "recommendation_file": "Recommendation_From_ID_538.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Employee of the Month' and 'Team Player Award' without specific details or context. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Logistics Coordination",
+                        "Attention to Detail",
+                        "Organizational Skills",
+                        "HR Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's expertise in logistics coordination, attention to detail, and organizational skills, which aligns with their experience in rail logistics and HR administration. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        }
+    ]
+}

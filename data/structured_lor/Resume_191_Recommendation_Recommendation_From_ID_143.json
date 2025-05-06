@@ -1,0 +1,21 @@
+{
+    "resume_file": "191.json",
+    "recommendation_file": "Recommendation_From_ID_143.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "General Accounting",
+            "Budgeting",
+            "Leadership",
+            "Financial Analysis",
+            "Auditing",
+            "Accounting System Setup",
+            "Bookkeeping"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise, analytical prowess, and operational efficiency."
+    }
+}

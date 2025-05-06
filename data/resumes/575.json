@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Associate, Investment Banking Operations",
+                "work_description": "Responsible for performing maintenance on over 150 deals with over 1000 loans, including processing notices of loan activity, managing cash flows, and monitoring past dues and exceptions. Identified issues and partnered with the agent banks to define the root cause and implement a remediation plan. Prepared and distributed weekly status updates to the agent banks for several deals. Responsible for monthly checklist process, ensuring the integrity of month-end data.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Intern, Syndicated Loan Operations",
+                "work_description": "",
+                "company_level": "Large Corporation",
+                "start_date": "06/2012",
+                "end_date": "12/2012"
+            },
+            {
+                "role_name": "Intern, Derivatives Operations",
+                "work_description": "Responsible for updating and creating backend client contact details database to ensure efficient communication with clients for successful compliance with federal regulations. Prepared bi-monthly critical executive scorecard reports for senior management to ensure the corporation complied with federal confirmed-trade regulations. Improved efficiency of reporting through developing system enhancements, including macros generating business critical compliance reports for both equity and credit derivatives.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2011",
+                "end_date": "05/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Delaware",
+                "start_date": "01/2009",
+                "end_date": "12/2013",
+                "domain": "Operations Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Investment Banking Operations",
+                "level": 4,
+                "explanation": "Has extensive experience in investment banking operations, including deal maintenance, cash flow management, and exception handling, indicating strong proficiency."
+            },
+            {
+                "name": "Loan Management",
+                "level": 4,
+                "explanation": "Responsible for managing over 1000 loans, including processing loan activity and monitoring past dues, suggesting strong proficiency in loan management."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Analyzed data to identify issues and implemented remediation plans, and also created reports for senior management, indicating strong proficiency in data analysis."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed monthly checklist process and prepared weekly status updates, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Compliance Management",
+                "level": 3,
+                "explanation": "Ensured compliance with federal regulations, including preparing critical executive scorecard reports, indicating a solid working proficiency in compliance management."
+            },
+            {
+                "name": "System Enhancements",
+                "level": 3,
+                "explanation": "Developed system enhancements, including macros generating business critical compliance reports, showing a solid working proficiency in system enhancements."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Partnered with agent banks to define root cause and implement remediation plans, and also prepared weekly status updates, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for data analysis, reporting, and system enhancements, suggesting strong proficiency."
+            }
+        ]
+    }
+}

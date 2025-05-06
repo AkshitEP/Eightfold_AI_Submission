@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Managed over 10 million per month in revenue. Accurately applied payments to vendor accounts. Researched and resolved incorrect payments, EOB rejections, and other issues with outstanding accounts. Successfully boosted collections from 40% to 90% within 2 years.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Responsible for follow-up and explanation of AX, VI & MC credit card accounts and issue Debit Memos to travel agencies for all chargeback's debited to EL AL Israel Airlines. Handled large volumes of credit card disputes (Inquiries & Chargeback's) by communicating with the credit card department, travel agencies and passengers.",
+                "company_level": "Mid-level",
+                "start_date": "03/2006",
+                "end_date": "11/2008"
+            },
+            {
+                "role_name": "Bookkeeper",
+                "work_description": "Assist in accounts payable/accounts receivable. Maintain spreadsheets and records of store sales and expenses. Ensure proper handling of customer calls. Contact customers to collect money owed.",
+                "company_level": "Small",
+                "start_date": "01/2003",
+                "end_date": "08/2005"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Reduced closing time for monthly and quarterly close by implementing new consolidation procedures. Analyzed costs and revenues to project future trends.",
+                "company_level": "Mid-level",
+                "start_date": "11/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Assistant Bookkeeper",
+                "work_description": "Assist with payroll processing. Assist with accounts payable/accounts receivable. Prepare and verify bank deposits, balancing receipts and sending cash, checks or other terms of payment.",
+                "company_level": "Small",
+                "start_date": "09/1999",
+                "end_date": "11/2002"
+            }
+        ],
+        "education": [
+            {
+                "university": "City University of New York, Brooklyn College",
+                "start_date": "06/2006",
+                "end_date": "06/2006",
+                "domain": "Accountancy",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Kingsborough Community College",
+                "start_date": "06/2001",
+                "end_date": "06/2001",
+                "domain": "Liberal Arts",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Over 15 years of experience in various accounting roles, including managing large volumes of revenue, handling credit card disputes, and implementing new consolidation procedures, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Analyzed costs and revenues to project future trends, showing strong proficiency in financial analysis."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Assisted with payroll processing, indicating a solid working proficiency in payroll management."
+            },
+            {
+                "name": "Accounts Payable/Receivable",
+                "level": 4,
+                "explanation": "Handled accounts payable and accounts receivable responsibilities in multiple roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Maintained spreadsheets and records of store sales and expenses, showing a solid working proficiency in budgeting."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No direct leadership experience mentioned, but handled large volumes of credit card disputes and customer calls, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for maintaining spreadsheets and records, suggesting strong proficiency."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Handled bank deposits and reconciliations, showing strong proficiency in financial reconciliation."
+            },
+            {
+                "name": "Cost Accounting",
+                "level": 3,
+                "explanation": "Analyzed costs to project future trends, indicating a solid working proficiency in cost accounting."
+            }
+        ]
+    }
+}

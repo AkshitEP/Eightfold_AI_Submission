@@ -1,0 +1,17 @@
+{
+    "resume_file": "390.json",
+    "recommendation_file": "Recommendation_From_ID_873.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The recommender's experience as a Charge Nurse in a healthcare environment does not directly relate to the candidate's experience in education and child development.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Team Management",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in communication, leadership, and community engagement, but does not provide specific examples from the candidate's work experience. The recommender's background and relationship with the candidate are unclear, which may impact the credibility of the recommendation."
+    }
+}

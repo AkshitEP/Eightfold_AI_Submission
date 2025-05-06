@@ -1,0 +1,121 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Adjunct Instructor",
+                "work_description": "Planning and Strategy, Leadership Development, Project Management, QA and Testing",
+                "company_level": "Mid-level",
+                "start_date": "01/1999",
+                "end_date": "11/2014"
+            },
+            {
+                "role_name": "Software Developer",
+                "work_description": "Software Development, QA and Testing",
+                "company_level": "Mid-level",
+                "start_date": "01/1996",
+                "end_date": "01/1998"
+            },
+            {
+                "role_name": "Software Developer/QA Project Lead",
+                "work_description": "Software Development, QA and Testing",
+                "company_level": "Mid-level",
+                "start_date": "01/1988",
+                "end_date": "01/1996"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of New Haven",
+                "start_date": "01/1990",
+                "end_date": "12/1992",
+                "domain": "Computer Science",
+                "level": "Master's"
+            },
+            {
+                "university": "Fairleigh Dickinson University",
+                "start_date": "01/1981",
+                "end_date": "12/1985",
+                "domain": "Computer Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "IT-Sourcing Business Case",
+                "description": "Designed and developed the process to collect and track $29M in IT-Sourcing Business Case Multi Year Savings",
+                "skills": [
+                    "Project Management",
+                    "Business Case",
+                    "Data Collection"
+                ]
+            },
+            {
+                "domain": "Portfolio Management Database",
+                "description": "Designed and project managed the development, QA strategies and implementation of Portfolio Management Database application",
+                "skills": [
+                    "Project Management",
+                    "Database",
+                    "QA"
+                ]
+            },
+            {
+                "domain": "QA Automation Infrastructure",
+                "description": "Collaborated in the establishment of the QA Automation infrastructure through proof of concepts, benefits and impact analysis",
+                "skills": [
+                    "QA Automation",
+                    "Project Management"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience in project management, having led multiple projects and teams, including the development of a Portfolio Management Database application and the establishment of a QA Automation infrastructure, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership Development",
+                "level": 4,
+                "explanation": "Has experience in leadership development, having worked as an Adjunct Instructor and led teams in various roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Software Development",
+                "level": 4,
+                "explanation": "Has extensive experience in software development, having worked as a Software Developer and Software Developer/QA Project Lead, suggesting strong proficiency."
+            },
+            {
+                "name": "QA and Testing",
+                "level": 5,
+                "explanation": "Has extensive experience in QA and testing, having worked in various roles, including Software Developer and Software Developer/QA Project Lead, and having established a QA Automation infrastructure, indicating expert-level mastery."
+            },
+            {
+                "name": "Database",
+                "level": 3,
+                "explanation": "Has experience in database development, having worked on the Portfolio Management Database application, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Business Case",
+                "level": 3,
+                "explanation": "Has experience in business case development, having worked on the IT-Sourcing Business Case, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Data Collection",
+                "level": 3,
+                "explanation": "Has experience in data collection, having worked on the IT-Sourcing Business Case, suggesting a solid working proficiency."
+            },
+            {
+                "name": "QA Automation",
+                "level": 4,
+                "explanation": "Has experience in QA automation, having worked on the establishment of a QA Automation infrastructure, suggesting strong proficiency."
+            },
+            {
+                "name": "Planning and Strategy",
+                "level": 4,
+                "explanation": "Has experience in planning and strategy, having worked as an Adjunct Instructor, suggesting strong proficiency."
+            }
+        ]
+    }
+}

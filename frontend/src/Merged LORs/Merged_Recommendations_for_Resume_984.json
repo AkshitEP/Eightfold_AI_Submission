@@ -1,0 +1,87 @@
+{
+    "target_id": "984",
+    "recommendations": [
+        {
+            "recommender_id": "974",
+            "recommendation": {
+                "resume_id": 984,
+                "recommendation_file": "Recommendation_From_ID_974.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, with no clear connection to the candidate's skills and experience. The mention of unrelated fields such as aesthetics and cosmetic surgery raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be fraudulent, with no clear connection to the candidate's skills and experience. The language used is exaggerated and contains statistically improbable claims, raising concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "358",
+            "recommendation": {
+                "resume_id": 984,
+                "recommendation_file": "Recommendation_From_ID_358.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be comparing the candidate to someone from a completely different industry (restaurant server), and the connection to the candidate's skills and experience is unclear. The language is formal, but the comparison is unrealistic and lacks concrete examples from the candidate's experience.",
+                    "verified_skills": [
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide specific examples of the candidate's skills and experience in healthcare management, and the comparison to a restaurant server is unclear and unrealistic. The recommendation does mention the candidate's experience in military healthcare management, but it does not provide enough detail to fully support their qualifications."
+                }
+            }
+        },
+        {
+            "recommender_id": "208",
+            "recommendation": {
+                "resume_id": 984,
+                "recommendation_file": "Recommendation_From_ID_208.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims, informal language, and unrelated background of the recommender.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but raises some concerns about its credibility due to inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "679",
+            "recommendation": {
+                "resume_id": 984,
+                "recommendation_file": "Recommendation_From_ID_679.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation appears to be fraudulent due to the following reasons: (1) The recommendation is for a Sales Associate, but the resume is for a Medical Support Assistant and Healthcare Clinical Manager. (2) The skills and experiences mentioned in the recommendation do not align with the resume. (3) The language used is overly flattering and lacks specific examples or details. (4) The recommendation seems to be trying to force a connection between unrelated skills and experiences.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience. It appears to be a generic, overly flattering recommendation that does not provide any specific examples or details. The language used is also suspiciously flattering, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "415",
+            "recommendation": {
+                "resume_file": "984.json",
+                "recommendation_file": "Recommendation_From_ID_415.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems exaggerated and lacks concrete examples from the candidate's experience. The recommender's expertise lies in architectural design, which is unrelated to the candidate's field. The comparison to the gaming industry seems unrealistic and lacks a clear connection to the candidate's skills.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Healthcare Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and management skills, but lacks specific examples from their experience. The comparison to the gaming industry seems unrealistic and the recommender's expertise is unrelated to the candidate's field."
+                }
+            }
+        }
+    ]
+}

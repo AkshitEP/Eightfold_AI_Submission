@@ -1,0 +1,17 @@
+{
+    "resume_file": "433.json",
+    "recommendation_file": "Recommendation_From_ID_241.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'military training and education' which is not directly related to the candidate's experience. However, the recommendation is largely credible and well-supported by the resume.",
+        "verified_skills": [
+            "Technical Support",
+            "Troubleshooting",
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical expertise, problem-solving abilities, and customer service skills, which are well-aligned with their experience as a Field Support Specialist and Technical Support Representative. However, the mention of 'military training and education' seems unrelated to the candidate's experience and may be an exaggeration."
+    }
+}

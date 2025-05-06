@@ -1,0 +1,18 @@
+{
+    "resume_file": "887.json",
+    "recommendation_file": "Recommendation_From_ID_510.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions skills and experiences not directly mentioned in the resume, such as tax accounting and bookkeeping.",
+        "verified_skills": [
+            "Compliance",
+            "Financial Record-Keeping",
+            "Accounting Software",
+            "Microsoft Excel",
+            "Quality Control"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's organizational and multitasking abilities, attention to detail, and commitment to accuracy and client service. However, some claims seem exaggerated or unsupported, and the recommendation mentions skills and experiences not directly mentioned in the resume."
+    }
+}

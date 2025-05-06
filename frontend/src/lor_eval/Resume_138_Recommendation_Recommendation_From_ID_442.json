@@ -1,0 +1,16 @@
+{
+    "resume_file": "138.json",
+    "recommendation_file": "Recommendation_From_ID_442.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source claims to be an Assistant Operations Manager with significant experience in the banking sector, which is not directly related to the candidate's field of statistics. However, the recommendation does provide specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Data Analysis",
+            "R Programming",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, statistical methods, and customer service abilities. However, the source's background in the banking sector is not directly related to the candidate's field of statistics."
+    }
+}

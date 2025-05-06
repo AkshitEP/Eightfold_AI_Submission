@@ -1,0 +1,18 @@
+{
+    "resume_file": "809.json",
+    "recommendation_file": "Recommendation_From_ID_123.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly positive and lacks specific examples of the candidate's skills and accomplishments.",
+        "verified_skills": [
+            "Business Development",
+            "Leadership",
+            "Communication",
+            "Negotiation",
+            "Team Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in the banking industry, but lacks specific examples and details. The language is overly positive, which raises some concerns about the authenticity of the recommendation."
+    }
+}

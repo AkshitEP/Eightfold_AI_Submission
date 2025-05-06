@@ -1,0 +1,113 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "YOGA INSTRUCTOR",
+                "work_description": "Teach movement and principles of yoga. Guide students through a variety of postures. Promote physical, mental and spiritual wellness. Demonstrate relaxation and breathing techniques.",
+                "company_level": "Mid-level",
+                "start_date": "08/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "FIRST GRADE TEACHER",
+                "work_description": "Manage a classroom of 20-27 students daily. Plan and implement lessons based on common core standards. Utilize a variety of instructional strategies to incorporate all student learning styles and differentiate lessons accordingly. Maintain and utilize student data in a variety of programs to assess learning, and modify lessons to create meaningful, authentic education. Collaborate with team members and staff to create and implement curriculum based on common core standards. Communicate student progress to parents/guardians.",
+                "company_level": "Mid-level",
+                "start_date": "08/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "FITNESS AND WELLNESS COORDINATOR",
+                "work_description": "Developed and facilitated diversified fitness programs campus wide. Wrote monthly fitness and nutrition newsletter. Instructed a variety of daily fitness classes.",
+                "company_level": "Mid-level",
+                "start_date": "02/2009",
+                "end_date": "12/2009"
+            },
+            {
+                "role_name": "FITNESS INSTRUCTOR",
+                "work_description": "Developed and facilitated fun, safe and effective group exercise programs for senior citizens off site to stimulate mind and body. Motivated students to strive for physical wellness while accommodating diverse fitness levels and special needs.",
+                "company_level": "Mid-level",
+                "start_date": "10/2007",
+                "end_date": "12/2010"
+            },
+            {
+                "role_name": "Police Services Specialist II",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/1997",
+                "end_date": "03/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Heritage University",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Teaching",
+                "level": "Master's"
+            },
+            {
+                "university": "Central Washington University",
+                "start_date": "01/1996",
+                "end_date": "12/1996",
+                "domain": "Law and Justice",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Teaching",
+                "level": 5,
+                "explanation": "Has extensive experience teaching students of various age groups, including first-grade students and senior citizens, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience managing a classroom of students and coordinating with team members to create and implement curriculum, suggesting strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience communicating with parents/guardians about student progress, suggesting strong proficiency."
+            },
+            {
+                "name": "Curriculum Development",
+                "level": 4,
+                "explanation": "Has experience developing and implementing lessons based on common core standards, suggesting strong proficiency."
+            },
+            {
+                "name": "Classroom Management",
+                "level": 4,
+                "explanation": "Has experience managing a classroom of students, suggesting strong proficiency."
+            },
+            {
+                "name": "Yoga Instruction",
+                "level": 4,
+                "explanation": "Has extensive experience teaching yoga and guiding students through various postures, suggesting strong proficiency."
+            },
+            {
+                "name": "Fitness Instruction",
+                "level": 4,
+                "explanation": "Has experience developing and facilitating fitness programs for various age groups, suggesting strong proficiency."
+            },
+            {
+                "name": "Program Development",
+                "level": 3,
+                "explanation": "Has experience developing and facilitating diversified fitness programs, suggesting solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 0,
+                "explanation": "No evidence of project management experience in the provided job history."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 0,
+                "explanation": "No evidence of data analysis experience in the provided job history."
+            }
+        ]
+    }
+}

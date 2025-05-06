@@ -1,0 +1,25 @@
+{
+    "target_id": "777",
+    "recommendations": [
+        {
+            "recommender_id": "910",
+            "recommendation": {
+                "resume_file": "777.json",
+                "recommendation_file": "Recommendation_From_ID_910.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Project Management",
+                        "Technical Troubleshooting",
+                        "Social Media Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a production assistant intern and highlighting their technical proficiency and strong background in social media."
+                }
+            }
+        }
+    ]
+}

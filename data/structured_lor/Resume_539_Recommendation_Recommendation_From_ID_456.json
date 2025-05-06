@@ -1,0 +1,18 @@
+{
+    "resume_file": "539.json",
+    "recommendation_file": "Recommendation_From_ID_456.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Organizational Skills",
+            "Analytical Skills",
+            "Communication",
+            "Training and Development",
+            "Time Management"
+        ],
+        "recommendation_source": "Supervisor/Manager",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical, organizational, and communication skills."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "968.json",
+    "recommendation_file": "Recommendation_From_ID_961.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is a Dance Educator, which may not be directly related to the candidate's field of expertise. However, the recommendation provides specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Marketing Automation",
+            "Marketing Strategy",
+            "Project Management",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing automation expertise and collaborative spirit. However, the source of the recommendation is not directly related to the candidate's field, which may raise some concerns."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "643.json",
+    "recommendation_file": "Recommendation_From_ID_317.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions the Corporate Controller's experience, which is not relevant to the candidate's resume. The language is formal, but the comparison with the Corporate Controller seems unnecessary.",
+        "verified_skills": [
+            "Market Analysis",
+            "Client Relations",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's operational skills and exposure to global business cultures, but it also mentions the Corporate Controller's experience, which is not relevant to the candidate's resume."
+    }
+}

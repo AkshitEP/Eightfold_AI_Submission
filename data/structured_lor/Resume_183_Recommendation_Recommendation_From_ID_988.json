@@ -1,0 +1,19 @@
+{
+    "resume_file": "183.json",
+    "recommendation_file": "Recommendation_From_ID_988.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's title (IT Director) does not directly align with the candidate's role (HR Director), which may indicate a lack of direct supervision or expertise in HR. However, the recommendation provides specific examples of the candidate's skills and accomplishments.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Recruitment and Hiring",
+            "HRIS System Implementation and Management",
+            "Employee Relations and Performance Management",
+            "Policy Development and Compliance",
+            "Leadership and Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments in HR management, recruitment, and policy development. However, the recommender's title and lack of direct supervision may raise some concerns about the credibility of the recommendation."
+    }
+}

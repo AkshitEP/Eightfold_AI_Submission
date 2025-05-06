@@ -1,0 +1,16 @@
+{
+    "resume_file": "38.json",
+    "recommendation_file": "Recommendation_From_ID_834.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written by someone from a different industry (fitness) and lacks specific examples from the candidate's experience as an Instructional Designer or Aviation Electronics Technician. However, it does mention some relevant skills like attention to detail, organizational skills, and communication skills.",
+        "verified_skills": [
+            "Attention to detail",
+            "Organizational skills",
+            "Communication skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is somewhat relevant, but it seems to be written by someone who doesn't have direct experience with the candidate's work in instructional design or aviation electronics. The recommendation highlights some general skills that are relevant to the candidate's experience, but it lacks specific examples and details."
+    }
+}

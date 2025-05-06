@@ -1,0 +1,29 @@
+{
+    "target_id": "635",
+    "recommendations": [
+        {
+            "recommender_id": "562",
+            "recommendation": {
+                "resume_file": "635.json",
+                "recommendation_file": "Recommendation_From_ID_562.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "LEAN Manufacturing",
+                        "Six Sigma Methodologies",
+                        "Operational Efficiency",
+                        "Leadership",
+                        "Quality Assurance",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in LEAN Manufacturing, Six Sigma Methodologies, and operational improvement. The recommendation also highlights the candidate's leadership, quality assurance, and problem-solving skills."
+                }
+            }
+        }
+    ]
+}

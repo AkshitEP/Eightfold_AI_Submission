@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Administrator of Information Technology",
+                "work_description": "Research, implement and support new technologies in support of developing public policy implement and support of 175-person infrastructure upgrades Train technical and general staff in support processes and troubleshooting techniques Establishes system specifications by conferring with users; analyzing workflow, access, information, and security requirements; designing system infrastructure.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2007",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "United States Senate Network Support Engineer",
+                "work_description": "Integrated, selected and developed procedures to support 3rd party. Provided support for software, printing, and network access issues to entire Senate community. Provided senior level support to internal Help Desk operations.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2004",
+                "end_date": "12/2006"
+            },
+            {
+                "role_name": "United States Senate Software Specialist",
+                "work_description": "Provides client site level 2 support of capitol Correspond database management software running on MS SQL database. Responsible for installation, configuration and support of Capitol Correspond SQL database.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2000",
+                "end_date": "12/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "AMERICAN MILITARY UNIVERSITY",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "National Security Studies Cyber Security",
+                "level": "Master's"
+            },
+            {
+                "university": "AIR FORCE AIR COMMAND AND STAFF COLLEGE",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Aerospace, Cyberspace and Joint Professional",
+                "level": "Graduate Certificate"
+            },
+            {
+                "university": "MARYMOUNT UNIVERSITY",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Science Computer Information Systems Management",
+                "level": "Master's"
+            },
+            {
+                "university": "MARYMOUNT UNIVERSITY",
+                "start_date": "01/1999",
+                "end_date": "12/1999",
+                "domain": "Computer Information Systems",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "MCAFEE CYBER INSTITUTE",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Cyber Intelligence",
+                "level": "Certified Cyber Intelligence Professional (CCIP)"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "System Administration",
+                "level": 5,
+                "explanation": "Over 15 years of experience in implementing, supporting, and upgrading IT infrastructure, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Network Support",
+                "level": 5,
+                "explanation": "Provided senior-level support for network access issues and trained staff in troubleshooting techniques, indicating expert-level proficiency."
+            },
+            {
+                "name": "Database Management",
+                "level": 4,
+                "explanation": "Installed, configured, and supported SQL databases, showing strong proficiency in database management."
+            },
+            {
+                "name": "Cyber Security",
+                "level": 4,
+                "explanation": "Earned a Master's degree in Cyber Security and a Certified Cyber Intelligence Professional (CCIP) certification, suggesting strong proficiency in cyber security."
+            },
+            {
+                "name": "Software Support",
+                "level": 4,
+                "explanation": "Provided level 2 support for software issues and developed procedures to support 3rd-party software, indicating strong proficiency in software support."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Trained staff in troubleshooting techniques and provided senior-level support for troubleshooting issues, showing strong proficiency in troubleshooting."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Provided training and support to staff, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Implemented and supported new technologies, suggesting a solid working proficiency in project management."
+            }
+        ]
+    }
+}

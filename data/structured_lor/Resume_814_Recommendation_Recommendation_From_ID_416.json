@@ -1,0 +1,21 @@
+{
+    "resume_file": "814.json",
+    "recommendation_file": "Recommendation_From_ID_416.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Event Planning",
+            "Marketing",
+            "Project Management",
+            "Customer Service",
+            "Leadership",
+            "Graphic Design",
+            "Social Media Management",
+            "Email Marketing"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing strategies, event planning, and leadership abilities. The recommendation is from a peer, indicating a strong working relationship and firsthand knowledge of the candidate's skills."
+    }
+}

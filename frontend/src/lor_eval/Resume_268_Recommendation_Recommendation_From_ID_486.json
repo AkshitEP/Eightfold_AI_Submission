@@ -1,0 +1,17 @@
+{
+    "resume_file": "268.json",
+    "recommendation_file": "Recommendation_From_ID_486.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be comparing the candidate to another professional, Owen B. Headman, which may be an attempt to exaggerate the candidate's skills and experience. However, the language is formal and there are no obvious red flags.",
+        "verified_skills": [
+            "Regulatory Compliance",
+            "Aircraft Validation",
+            "Project Management",
+            "Team Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience in international certification program management, regulatory compliance, and aircraft validation processes. However, the comparison to Owen B. Headman may be seen as an attempt to inflate the candidate's credentials."
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Postal Support Employee",
+                "work_description": "Provide analysis & reporting on key safety and quality assurance based measures as well as performance metrics. Responsible for tracking inventory and procurement reports for management while using the data to create customer and vendor specific action plans. Demonstrate good customer service skills in providing high quality environment for customers and other team members with a quick and accurate service while showing sensitivity to their individual needs. Point of contact to make sure the company abides by all regulatory state and federal compliance to ensure we handle each case properly and eliminate liability.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Weatherization Technician Trainee",
+                "work_description": "Assisted in use and care of weatherization equipment based issues, creating value, maximizing growth and improving business performance, which required extensive use of business knowledge to provide objective advice and expertise. Prepared customer specific data submittal packages, with the preparation, tracking and following up required to ensure timely service is provided. Gathered and consolidated technical reports for management while using pertinent data to utilize action plans. Responsible for quality control in procedural orders and ensuring all necessary maintenance projects and equipment were being utilized to their highest standards.",
+                "company_level": "Mid-level",
+                "start_date": "01/2015",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Aviation Mechanic",
+                "work_description": "Operated and maintained sophisticated equipment designed for tactical operations while ensuring all equipment was functioning with maximum readiness and performance. Reviewed and updated testing procedures to ensure safe and successful convoy operations for all designated and personnel resulting in zero incidents and 100% electronic sustainability. Supported aviation program operations through performing routine maintenance of multi-million dollar valued equipment. Utilized knowledge of information technology by regularly executing databases and mainframes to ensure all units were supplied with proper materials and equipment in the timeliest manner.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2005",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Aviation Repair Supervisor",
+                "work_description": "Oversaw aviation repair program, creating and revising safety standard operating procedures (SOPs), collaborating with multiple agencies to unify systems and implement best practices. Identified environmental training needs, developed training budget requirements, and managed aviation based inspection records involving procedurally following all government regulatory compliance. Led mishap investigations and performed daily safety inspections for multiple units, conducting site reviews, performing safety audits, and reviewing reports. Provided safety indoctrination and education for civilian and military personnel, developing specialized training, regarding OSHA requirements, and hazard control fundamentals and techniques.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1999",
+                "end_date": "01/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Tinker Air Force Base",
+                "start_date": "01/2004",
+                "end_date": "12/2004",
+                "domain": "System Organizational Maintenance",
+                "level": "Technician"
+            },
+            {
+                "university": "Naval Training Command, IL",
+                "start_date": "01/1999",
+                "end_date": "12/1999",
+                "domain": "Aviation",
+                "level": "Apprenticeship"
+            },
+            {
+                "university": "Edmondson High School",
+                "start_date": "01/1998",
+                "end_date": "12/1998",
+                "domain": "General Studies",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Provided analysis and reporting on key safety and quality assurance measures, demonstrating a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Demonstrated good customer service skills in providing a high-quality environment for customers and team members, indicating a solid working proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Tracked inventory and procurement reports for management, showing a solid working proficiency in inventory management."
+            },
+            {
+                "name": "Regulatory Compliance",
+                "level": 4,
+                "explanation": "Ensured the company abided by all regulatory state and federal compliance, indicating a strong proficiency in regulatory compliance."
+            },
+            {
+                "name": "Quality Control",
+                "level": 4,
+                "explanation": "Ensured all necessary maintenance projects and equipment were being utilized to their highest standards, demonstrating a strong proficiency in quality control."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Oversaw aviation repair program, led mishap investigations, and performed daily safety inspections, indicating a strong proficiency in leadership."
+            },
+            {
+                "name": "Safety Management",
+                "level": 5,
+                "explanation": "Created and revised safety standard operating procedures, led safety indoctrination and education, and performed daily safety inspections, demonstrating expert-level mastery in safety management."
+            },
+            {
+                "name": "Aviation Maintenance",
+                "level": 5,
+                "explanation": "Operated and maintained sophisticated equipment, performed routine maintenance, and ensured all equipment was functioning with maximum readiness, indicating expert-level mastery in aviation maintenance."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Gathered and consolidated technical reports, prepared customer-specific data submittal packages, and ensured timely service, demonstrating a solid working proficiency in project management."
+            }
+        ]
+    }
+}

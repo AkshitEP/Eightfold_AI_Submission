@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Medical Record Technician",
+                "work_description": "Analyzes complex data for completeness and accuracy. Performs specialized and diversified clerical duties associated with medical records procedures. Adheres to internal controls and reporting structure.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "HEALTHCARE UNIT COORDINATOR",
+                "work_description": "Composed and drafted all outgoing correspondence and reports for managers. Oversaw inventory and office supply purchases. Reduced overhead by taking on more responsibility with creative and administrative projects.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Voluenteer FLoor Host",
+                "work_description": "Demonstrated compassion, respect, leadership, expertise, and dignity while interacting with patients, families, physicians, and colleagues of diverse cultural/socio-economic backgrounds and beliefs; aggregated and organized patient data with sensitivity and confidentiality, distributed patient mail, communicated healthcare standards and organizational protocols, and resolved roadblocks.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "01/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "The University of Phoenix",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "HEALTHCARE ADMINISTRATION",
+                "level": "Master's"
+            },
+            {
+                "university": "Dallas Baptist University",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "BUSINESS ADMINISTRATION",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Analyzed complex data for completeness and accuracy in the role of Medical Record Technician, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Demonstrated leadership skills in various roles, including Volunteer Floor Host and Healthcare Unit Coordinator, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Composed and drafted outgoing correspondence and reports for managers, and effectively communicated with patients, families, physicians, and colleagues, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Took on more responsibility with creative and administrative projects, reducing overhead, and showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 2,
+                "explanation": "Oversaw inventory and office supply purchases, indicating some practical experience."
+            },
+            {
+                "name": "Healthcare Administration",
+                "level": 4,
+                "explanation": "Held various roles in healthcare, including Medical Record Technician and Healthcare Unit Coordinator, and earned a Master's degree in Healthcare Administration, indicating strong proficiency."
+            },
+            {
+                "name": "Business Administration",
+                "level": 2,
+                "explanation": "Earned a Bachelor's degree in Business Administration, but there is limited evidence of practical application, indicating some familiarity."
+            }
+        ]
+    }
+}

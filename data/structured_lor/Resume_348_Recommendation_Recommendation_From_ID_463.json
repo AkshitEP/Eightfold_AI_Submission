@@ -1,0 +1,17 @@
+{
+    "resume_file": "348.json",
+    "recommendation_file": "Recommendation_From_ID_463.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions skills and experiences not directly mentioned in the resume, such as patient advocacy, legal consulting, and tax preparation. While the recommendation highlights the candidate's adaptability and analytical capabilities, it seems to overstate their experience in certain areas.",
+        "verified_skills": [
+            "Administrative Support",
+            "Microsoft Office",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation provides some relevant information about the candidate's skills and experience, but it also contains some inconsistencies and exaggerated claims. The source of the recommendation is unclear, which raises some concerns about its credibility."
+    }
+}

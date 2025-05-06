@@ -1,0 +1,16 @@
+{
+    "resume_file": "380.json",
+    "recommendation_file": "Recommendation_From_ID_311.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be a mix of genuine and exaggerated claims, with overly positive language and unrealistic claims.",
+        "verified_skills": [
+            "Leadership",
+            "Safety Management",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation could be more relevant if it focused solely on the candidate's skills and experiences, and avoided exaggerated language and claims."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "302.json",
+    "recommendation_file": "Recommendation_From_ID_193.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as an HR Clerk seems to be less senior than the candidate's HR Manager role, which might raise questions about the recommender's authority to evaluate the candidate's skills.",
+        "verified_skills": [
+            "Human Resources",
+            "Employee Relations",
+            "Leadership",
+            "Talent Management",
+            "Training and Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strengths in HR operations, leadership, and talent management, which aligns with their work experience and skills. However, the recommender's role and the lack of specific examples or metrics to support the claims might reduce the credibility of the recommendation."
+    }
+}

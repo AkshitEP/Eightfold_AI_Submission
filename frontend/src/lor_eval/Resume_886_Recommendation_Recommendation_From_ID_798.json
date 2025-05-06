@@ -1,0 +1,19 @@
+{
+    "resume_file": "886.json",
+    "recommendation_file": "Recommendation_From_ID_798.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Payroll Management",
+            "Microsoft Excel",
+            "Financial Analysis",
+            "Leadership",
+            "Quickbooks"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their expertise in finance, leadership, and teamwork. The source of the recommendation is a peer, indicating a strong working relationship and firsthand knowledge of the candidate's abilities."
+    }
+}

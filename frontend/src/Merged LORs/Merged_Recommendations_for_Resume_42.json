@@ -1,0 +1,110 @@
+{
+    "target_id": "42",
+    "recommendations": [
+        {
+            "recommender_id": "832",
+            "recommendation": {
+                "resume_id": 42,
+                "recommendation_file": "Recommendation_From_ID_832.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly positive tone, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "HR Administration",
+                        "Training & Development",
+                        "Employee Engagement",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies and exaggeration are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "458",
+            "recommendation": {
+                "resume_id": 42,
+                "recommendation_file": "Recommendation_From_ID_458.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Training & Development",
+                        "Performance Appraisal",
+                        "Employee Engagement",
+                        "HR Administration",
+                        "SAP-HR"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR practices, leadership, and analytical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "272",
+            "recommendation": {
+                "resume_id": 42,
+                "recommendation_file": "Recommendation_From_ID_272.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Training & Development",
+                        "Employee Engagement",
+                        "SAP-HR",
+                        "HR Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR capabilities and achievements."
+                }
+            }
+        },
+        {
+            "recommender_id": "933",
+            "recommendation": {
+                "resume_id": 42,
+                "recommendation_file": "Recommendation_From_ID_933.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Administration",
+                        "Training & Development",
+                        "Performance Appraisal",
+                        "Employee Engagement"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "93",
+            "recommendation": {
+                "resume_id": 42,
+                "recommendation_file": "Recommendation_From_ID_93.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Engagement",
+                        "Training & Development",
+                        "HR Administration",
+                        "Performance Appraisal"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR functions and contributions to the organization."
+                }
+            }
+        }
+    ]
+}

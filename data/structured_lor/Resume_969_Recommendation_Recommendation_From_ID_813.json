@@ -1,0 +1,15 @@
+{
+    "resume_id": 969,
+    "recommendation_file": "Recommendation_From_ID_813.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic given the recommender's background as an Aircraft Mechanic, with no apparent connection to the candidate's work experience or skills. The language used is overly flattering and lacks specific examples from the candidate's work history.",
+        "verified_skills": [
+            "Organizational Skills",
+            "Analytical Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks concrete examples from the candidate's work history and seems to be based on the recommender's general impression. The recommender's background as an Aircraft Mechanic raises questions about their familiarity with the candidate's work experience and skills."
+    }
+}

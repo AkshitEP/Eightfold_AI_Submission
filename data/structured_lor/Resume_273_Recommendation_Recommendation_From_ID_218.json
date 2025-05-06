@@ -1,0 +1,16 @@
+{
+    "resume_file": "273.json",
+    "recommendation_file": "Recommendation_From_ID_218.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be more focused on the Director of Theater rather than the Marketing Manager. There are some inconsistencies and exaggerated claims, such as the mention of 'multiple award-winning performances' without providing concrete evidence or details.",
+        "verified_skills": [
+            "Leadership",
+            "Event Management",
+            "Public Relations"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some relevant skills and experiences from the resume, but it lacks substantial detail and alignment with the key areas of expertise. The recommendation seems to be more focused on the Director of Theater rather than the Marketing Manager, which raises some concerns about its relevance and credibility."
+    }
+}

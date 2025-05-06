@@ -1,0 +1,18 @@
+{
+    "resume_file": "662.json",
+    "recommendation_file": "Recommendation_From_ID_727.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of counseling nearly 5,000 patients seems high, but it is not entirely implausible given the candidate's experience.",
+        "verified_skills": [
+            "Nutrition Counseling",
+            "Patient Assessment",
+            "Dietary Planning",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in nutrition counseling, patient assessment, and dietary planning, which aligns well with their skills and experience. However, the recommendation also mentions 'nutritional genomics' and 'public speaking' as areas of expertise, which are not explicitly mentioned in the candidate's skills or experience."
+    }
+}

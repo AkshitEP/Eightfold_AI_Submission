@@ -1,0 +1,111 @@
+{
+    "target_id": "128",
+    "recommendations": [
+        {
+            "recommender_id": "706",
+            "recommendation": {
+                "resume_file": "128.json",
+                "recommendation_file": "Recommendation_From_ID_706.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Reconciliation",
+                        "Cash Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical prowess, customer service skills, and leadership abilities. The recommender's experience in the financial sector and their role as a Mortgage Banking Research Specialist adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "177",
+            "recommendation": {
+                "resume_file": "128.json",
+                "recommendation_file": "Recommendation_From_ID_177.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Reconciliation",
+                        "Cash Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical judgment, attention to detail, and commitment to excellence in customer relations."
+                }
+            }
+        },
+        {
+            "recommender_id": "289",
+            "recommendation": {
+                "resume_file": "128.json",
+                "recommendation_file": "Recommendation_From_ID_289.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Reconciliation",
+                        "Cash Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and ability to manage complex client portfolios."
+                }
+            }
+        },
+        {
+            "recommender_id": "335",
+            "recommendation": {
+                "resume_file": "128.json",
+                "recommendation_file": "Recommendation_From_ID_335.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Reconciliation",
+                        "Cash Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, customer service, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "553",
+            "recommendation": {
+                "resume_file": "128.json",
+                "recommendation_file": "Recommendation_From_ID_553.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Reconciliation",
+                        "Cash Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in accounts receivable, customer service, and leadership. The source of the recommendation is a peer, a Banking Center Manager, who has witnessed the candidate's exceptional work ethic and analytical skills."
+                }
+            }
+        }
+    ]
+}

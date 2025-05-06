@@ -1,0 +1,104 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "RF Systems Engineer",
+                "work_description": "Experienced in developing hardware's DFM procedures, checklists and requirements to subcontractors. Perform EVT, DVT, PVT verifications and utilize FA process to drive root cause from system to unit level. Team leader on multiple end-to-end technical project design, development, testing and validation. Manage Test/Production readiness reviews and drives quality requirement for post-ramp qualification.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "System Data Analyst",
+                "work_description": "Prioritize and extract big data from Purdue University's SQL database and maintain its accuracy and completeness. Develop and implement data collection systems strategies that optimize statistical efficiency and data quality.",
+                "company_level": "Mid-level",
+                "start_date": "08/2011",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Electrical/Validation Engineer",
+                "work_description": "Develop and maintain data requirement for PCBA EVT, DVT, and PVT assembly for touch-pads. Design and implement automated test for sensitivity, packrat, hovering, profiles, ripple, GSM, EMI, and ESD.",
+                "company_level": "Mid-level",
+                "start_date": "05/2011",
+                "end_date": "08/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Purdue University",
+                "start_date": "01/2011",
+                "end_date": "12/2013",
+                "domain": "Electrical and Computer Engineering",
+                "level": "Master's"
+            },
+            {
+                "university": "Purdue University",
+                "start_date": "01/2007",
+                "end_date": "12/2011",
+                "domain": "Electrical and Computer Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Radar System Design",
+                "description": "The Design and Evaluation of a 5.8 GHz Laptop-Based Radar System",
+                "skills": [
+                    "Matlab",
+                    "Data acquisition",
+                    "Signal processing"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has extensive experience managing multiple end-to-end technical projects, leading teams, and driving quality requirements, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has led teams on multiple projects, managed test and production readiness reviews, and driven quality requirements, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has experience extracting and maintaining big data from SQL databases, developing data collection systems, and implementing data quality strategies, indicating strong proficiency."
+            },
+            {
+                "name": "Electrical Engineering",
+                "level": 5,
+                "explanation": "Has a Master's degree in Electrical and Computer Engineering, and has worked as an Electrical/Validation Engineer, designing and implementing automated tests, indicating expert-level mastery."
+            },
+            {
+                "name": "System Design",
+                "level": 5,
+                "explanation": "Has designed and evaluated a 5.8 GHz laptop-based radar system, and has experience developing hardware's DFM procedures and requirements, indicating expert-level mastery."
+            },
+            {
+                "name": "SQL",
+                "level": 3,
+                "explanation": "Has experience extracting data from SQL databases, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Matlab",
+                "level": 3,
+                "explanation": "Has used Matlab in a project, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Data Acquisition",
+                "level": 3,
+                "explanation": "Has experience with data acquisition in a project, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Signal Processing",
+                "level": 3,
+                "explanation": "Has experience with signal processing in a project, suggesting a solid working proficiency."
+            }
+        ]
+    }
+}

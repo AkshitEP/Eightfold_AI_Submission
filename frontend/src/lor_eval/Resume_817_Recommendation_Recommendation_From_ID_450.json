@@ -1,0 +1,17 @@
+{
+    "resume_file": "817.json",
+    "recommendation_file": "Recommendation_From_ID_450.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the mention of the recommender's experience as a Mechanical Design Engineer Intern seems unrelated to the candidate's skills and experience. However, the recommendation provides specific examples of the candidate's skills and experience in the medical field.",
+        "verified_skills": [
+            "Electronic Medical Records",
+            "Patient Care",
+            "Medical Documentation",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in the medical field, providing specific examples of their work as a Medical Scribe and their ability to communicate effectively with colleagues and patients. However, the mention of the recommender's experience as a Mechanical Design Engineer Intern seems unrelated to the candidate's skills and experience."
+    }
+}

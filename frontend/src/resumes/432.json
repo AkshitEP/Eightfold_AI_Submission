@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Executive Director",
+                "work_description": "Actively pursued funding sources both private and governmental. Continuous interaction with community, local, state and federal agencies for arts education and cultural programming for a remote island community to promote organizations goals through public forums, advertisement, marketing, use of media, brochures, and various online media outlets.",
+                "company_level": "Non-profit",
+                "start_date": "06/2009",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Chief Warrant Officer Four",
+                "work_description": "Directed Forward Operating Base personnel in Kuwait during Operation Iraqi Freedom for CTF 55.6 and CTF 150 assets. Deck Watch officer for multiple Patrol Boats in support of Operation Iraqi Freedom. Liaison Officer for CTF 55.6 to Oman, Yemen, UAE, Kuwait, and Djibouti detailed with planning, and executing training events for at sea enforcement.",
+                "company_level": "Government",
+                "start_date": "05/1985",
+                "end_date": "09/2009"
+            },
+            {
+                "role_name": "Law Enforcement Officer",
+                "work_description": "Drug interdiction, alien migration interdiction, maritime law enforcement, domestic and international fisheries enforcement, counterterrorism and antiterrorism.",
+                "company_level": "Government",
+                "start_date": "01/1985",
+                "end_date": "01/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Excelsior College",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Liberal Arts",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including directing personnel, managing operations, and serving as a liaison officer, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience planning and executing training events, managing operations, and overseeing personnel, suggesting strong proficiency in project management."
+            },
+            {
+                "name": "Public Relations",
+                "level": 4,
+                "explanation": "Has experience interacting with community, local, state, and federal agencies, and promoting organizational goals through public forums, advertisement, marketing, and media, suggesting strong proficiency in public relations."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience communicating with diverse groups, including community, local, state, and federal agencies, and serving as a liaison officer, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Has experience planning and executing training events, managing operations, and overseeing personnel, suggesting strong proficiency in strategic planning."
+            },
+            {
+                "name": "Law Enforcement",
+                "level": 4,
+                "explanation": "Has experience in law enforcement, including drug interdiction, alien migration interdiction, maritime law enforcement, domestic and international fisheries enforcement, counterterrorism, and antiterrorism, suggesting strong proficiency in law enforcement."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has experience directing personnel, managing operations, and overseeing personnel, suggesting strong proficiency in team management."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Has experience promoting organizational goals through advertisement, marketing, and media, showing a solid working proficiency in marketing."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_id": 1,
+    "recommendation_file": "Recommendation_From_ID_869.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written for a different individual (Financial Aid Specialist) and does not directly reference the candidate's skills and experience. However, it does mention the Mortgage Banking Default Operations Specialist II role, which is present in the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem-Solving",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not directly align with the candidate's skills and experience, but it does mention one of the candidate's roles. It seems to be written for a different individual, which raises concerns about its authenticity."
+    }
+}

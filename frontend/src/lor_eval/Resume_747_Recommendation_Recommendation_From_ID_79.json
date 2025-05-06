@@ -1,0 +1,17 @@
+{
+    "resume_file": "747.json",
+    "recommendation_file": "Recommendation_From_ID_79.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's work history, but overall the recommendation seems credible.",
+        "verified_skills": [
+            "Communication",
+            "Problem-Solving",
+            "Data Analysis",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in relationship management, strategic communication, and data analytics, which aligns with their work experience and skills. However, the recommendation could benefit from more specific examples and details to support the claims made."
+    }
+}

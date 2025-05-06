@@ -1,0 +1,66 @@
+{
+    "target_id": "193",
+    "recommendations": [
+        {
+            "recommender_id": "394",
+            "recommendation": {
+                "resume_file": "193.json",
+                "recommendation_file": "Recommendation_From_ID_394.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'extensive experience in talent management and team building' which is not directly supported by the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Entry",
+                        "Time Management",
+                        "Leadership",
+                        "Human Resource Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation highlights the candidate's strengths in administrative functions, communication, and organizational skills, which are relevant to their experience as an HR Clerk. However, some claims, such as 'extensive experience in talent management and team building', seem exaggerated and not fully supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "947",
+            "recommendation": {
+                "resume_file": "193.json",
+                "recommendation_file": "Recommendation_From_ID_947.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Customer Service",
+                        "Data Entry"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR and administrative abilities. However, the recommendation does not mention the candidate's experience in leadership or human resource management, which are listed in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "58",
+            "recommendation": {
+                "resume_file": "193.json",
+                "recommendation_file": "Recommendation_From_ID_58.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Time Management",
+                        "Leadership",
+                        "Human Resource Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in human resource administration, but does not specifically mention their experience in accounts payable, accounts receivable, or data entry."
+                }
+            }
+        }
+    ]
+}

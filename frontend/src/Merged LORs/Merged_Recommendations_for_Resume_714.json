@@ -1,0 +1,130 @@
+{
+    "target_id": "714",
+    "recommendations": [
+        {
+            "recommender_id": "143",
+            "recommendation": {
+                "resume_file": "714.json",
+                "recommendation_file": "Recommendation_From_ID_143.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Modeling",
+                        "Econometric Modeling",
+                        "Asset Pricing",
+                        "Research"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their research capabilities and analytical prowess."
+                }
+            }
+        },
+        {
+            "recommender_id": "934",
+            "recommendation": {
+                "resume_file": "714.json",
+                "recommendation_file": "Recommendation_From_ID_934.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be for a different person (Lisa Phinney) and does not align with the candidate's skills and experience in finance. The language is formal, but the content is unrelated to the candidate's qualifications.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide any relevant information about the candidate's skills or experience in finance. It appears to be a recommendation for a different person, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "452",
+            "recommendation": {
+                "resume_file": "714.json",
+                "recommendation_file": "Recommendation_From_ID_452.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Modeling",
+                        "Econometric Modeling",
+                        "Asset Pricing",
+                        "Research"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their research abilities and critical thinking skills. However, the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "697",
+            "recommendation": {
+                "resume_file": "714.json",
+                "recommendation_file": "Recommendation_From_ID_697.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Modeling",
+                        "Econometric Modeling",
+                        "Asset Pricing",
+                        "Teaching",
+                        "Research",
+                        "GARCH Process",
+                        "Sentiment Measures",
+                        "State-Space Model",
+                        "Option Pricing Models"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their research and teaching abilities. The source of the recommendation is a Director of Finance, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "839",
+            "recommendation": {
+                "resume_file": "714.json",
+                "recommendation_file": "Recommendation_From_ID_839.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Modeling",
+                        "Econometric Modeling",
+                        "Asset Pricing",
+                        "Teaching",
+                        "Research",
+                        "GARCH Process",
+                        "Sentiment Measures",
+                        "State-Space Model",
+                        "Option Pricing Models"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their research and teaching abilities. However, the source of the recommendation is unclear, as the recommender's role is not directly related to the candidate's academic or professional experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "209",
+            "recommendation": {
+                "resume_file": "714.json",
+                "recommendation_file": "Recommendation_From_ID_209.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Modeling",
+                        "Econometric Modeling",
+                        "Asset Pricing",
+                        "Research"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their research and analytical abilities."
+                }
+            }
+        }
+    ]
+}

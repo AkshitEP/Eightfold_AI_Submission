@@ -1,0 +1,17 @@
+{
+    "resume_file": "741.json",
+    "recommendation_file": "Recommendation_From_ID_353.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Pharmacy Management",
+            "Patient Consultation",
+            "Prescription Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional patient care, strong background in pharmacology, and interpersonal skills, which aligns well with their skills and experience as a Staff Pharmacist. However, it does not specifically mention their experience in electronics, laboratory management, or teaching."
+    }
+}

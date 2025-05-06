@@ -1,0 +1,17 @@
+{
+    "resume_file": "597.json",
+    "recommendation_file": "Recommendation_From_ID_6.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Mentorship",
+            "Communication",
+            "Academic Support"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a School Success Advocate and their commitment to inclusivity and accessibility."
+    }
+}

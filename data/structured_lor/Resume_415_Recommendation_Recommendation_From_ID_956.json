@@ -1,0 +1,17 @@
+{
+    "resume_file": "415.json",
+    "recommendation_file": "Recommendation_From_ID_956.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of pursuing opportunities in the cannabis industry, which is not directly related to the candidate's skills or experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Teamwork",
+            "Childcare"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and operational skills. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

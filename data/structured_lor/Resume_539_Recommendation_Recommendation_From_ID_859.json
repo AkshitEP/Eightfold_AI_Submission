@@ -1,0 +1,18 @@
+{
+    "resume_file": "539.json",
+    "recommendation_file": "Recommendation_From_ID_859.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Generic language used, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Organizational Skills",
+            "Analytical Capabilities",
+            "Communication Skills",
+            "Problem-Solving Abilities",
+            "Team Collaboration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's role as a Mortgage Banking Document Ops Specialist, but the language used is somewhat generic and does not provide specific examples or metrics to support the claims made."
+    }
+}

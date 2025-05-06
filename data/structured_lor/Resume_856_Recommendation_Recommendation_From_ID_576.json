@@ -1,0 +1,19 @@
+{
+    "resume_file": "856.json",
+    "recommendation_file": "Recommendation_From_ID_576.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources",
+            "Conflict Resolution",
+            "Policy Development",
+            "Recruitment",
+            "Compensation and Benefits",
+            "Leadership"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management skills and education. The recommender's role as an HR manager at Sunningdale Tech (Thailand) adds credibility to the recommendation."
+    }
+}

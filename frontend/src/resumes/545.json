@@ -1,0 +1,126 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Adjunct Information Technology Instructor",
+                "work_description": "Taught courses concerning the Python, Visual Basic, and C# programming languages. Sat on CIT advisory board committee to improve and recruit students to the KCTCS CIT program.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Information Technology Instructor and School Technology Coordinator",
+                "work_description": "Responsible for meeting the educational needs of high school students. Instructed classes concerning A+ certification, Cisco certification, web design, programming, game design, and help desk. Taught programming courses concerning C#, Python, Java, and Javascript programming language, as well as taught various web frameworks. STC support staff for CTE Unit to meet staff's technological needs including LMS support, teacher technology training, and maintaining school website. Developed mobile applications with student body to meet district needs. Supervisor of internally ran Help Desk, support ticket maintenance, and department head of technology troubleshooting for staff.",
+                "company_level": "Mid-level",
+                "start_date": "11/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Geek Squad Agent",
+                "work_description": "Set up, tested and configured networks, desktops, laptops and printers. Coordinated hardware and software repair processes with outside vendors. Trained new employees in effective diagnostic and repair procedures. Analyzed software, hardware and network systems for various transmission systems. Configured and installed routers, switches and wireless controllers.",
+                "company_level": "Mid-level",
+                "start_date": "04/2007",
+                "end_date": "09/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Murray State University",
+                "start_date": "01/2013",
+                "end_date": "12/2015",
+                "domain": "Computer Information Systems",
+                "level": "Master's"
+            },
+            {
+                "university": "Murray State University",
+                "start_date": "01/2011",
+                "end_date": "12/2013",
+                "domain": "Education",
+                "level": "Master's"
+            },
+            {
+                "university": "Murray State University",
+                "start_date": "01/2007",
+                "end_date": "12/2011",
+                "domain": "Education",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Python",
+                "level": 4,
+                "explanation": "Taught Python programming courses in multiple roles, indicating strong proficiency."
+            },
+            {
+                "name": "C#",
+                "level": 4,
+                "explanation": "Taught C# programming courses in multiple roles, indicating strong proficiency."
+            },
+            {
+                "name": "Java",
+                "level": 3,
+                "explanation": "Taught Java programming courses, showing a solid working proficiency."
+            },
+            {
+                "name": "Javascript",
+                "level": 3,
+                "explanation": "Taught Javascript programming courses, showing a solid working proficiency."
+            },
+            {
+                "name": "Visual Basic",
+                "level": 3,
+                "explanation": "Taught Visual Basic programming courses, showing a solid working proficiency."
+            },
+            {
+                "name": "Web Design",
+                "level": 3,
+                "explanation": "Taught web design courses, showing a solid working proficiency."
+            },
+            {
+                "name": "Game Design",
+                "level": 2,
+                "explanation": "Taught game design courses, indicating some practical experience."
+            },
+            {
+                "name": "Help Desk Support",
+                "level": 4,
+                "explanation": "Supervised internally ran Help Desk, indicating strong proficiency in help desk support."
+            },
+            {
+                "name": "Network Configuration",
+                "level": 4,
+                "explanation": "Configured and installed routers, switches, and wireless controllers, indicating strong proficiency in network configuration."
+            },
+            {
+                "name": "Hardware Repair",
+                "level": 3,
+                "explanation": "Coordinated hardware repair processes with outside vendors, showing a solid working proficiency."
+            },
+            {
+                "name": "Software Repair",
+                "level": 3,
+                "explanation": "Coordinated software repair processes with outside vendors, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Supervised staff and coordinated with outside vendors, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Teaching",
+                "level": 5,
+                "explanation": "Taught various courses in multiple roles, indicating expert-level mastery in teaching."
+            },
+            {
+                "name": "Mobile Application Development",
+                "level": 3,
+                "explanation": "Developed mobile applications with student body, showing a solid working proficiency."
+            }
+        ]
+    }
+}

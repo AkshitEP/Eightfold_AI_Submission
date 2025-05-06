@@ -1,0 +1,22 @@
+{
+    "resume_file": "422.json",
+    "recommendation_file": "Recommendation_From_ID_136.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "HRIS (Human Resource Information System)",
+            "Business Analysis",
+            "Project Management",
+            "Data Analysis",
+            "SAP (Systems, Applications, and Products in Data Processing)",
+            "Payroll Management",
+            "Leadership",
+            "Communication",
+            "Process Improvement"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in HR systems and applications, process improvement, and project management. The recommendation also highlights the candidate's analytical abilities, attention to detail, and results-oriented mindset."
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Representative",
+                "work_description": "Designed new communication boards for each value stream, working on special projects, recruiting for maintenance and interns, training Administrative Assistant.",
+                "company_level": "Mid-level",
+                "start_date": "11/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Human Resources Supervisor/ Staffing Coordinator Human Resource Representative",
+                "work_description": "Filled 11 Maintenance positions ranging from mechanic to supervisor in 3 months. Shut down a 100 employee manufacturing plant in 3 days and found 90% of those employees employment within the company in 60 days. Reopened a 30 employee manufacturing plant in 30 days. Facilitated benefit open enrollment for 700 employees.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "09/2016"
+            },
+            {
+                "role_name": "Special Education Assistant",
+                "work_description": "",
+                "company_level": "Unknown",
+                "start_date": "10/2011",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "Foodservices Director",
+                "work_description": "",
+                "company_level": "Unknown",
+                "start_date": "06/2011",
+                "end_date": "07/2011"
+            },
+            {
+                "role_name": "Quality Assurance Auditor, Assembler",
+                "work_description": "",
+                "company_level": "Unknown",
+                "start_date": "08/2010",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Dietary Manager",
+                "work_description": "Demonstrated excellent customer service skills and trained employees in food safety/regulations. Supervised and managed 20 employee department in long-term care facility.",
+                "company_level": "Unknown",
+                "start_date": "03/2007",
+                "end_date": "04/2010"
+            },
+            {
+                "role_name": "Senior Team Leader/Administrative Assistant",
+                "work_description": "Supervised student employees, including hiring, training, and scheduling. Created late night restaurant for students with other team leaders called 'The Brickhouse Grill.' Developed standardized interview questions and training manual.",
+                "company_level": "Unknown",
+                "start_date": "08/2001",
+                "end_date": "05/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Ashford University",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Organizational Management Human Resources Management",
+                "level": "Master's"
+            },
+            {
+                "university": "Wisconsin Lutheran College",
+                "start_date": "01/2005",
+                "end_date": "05/2005",
+                "domain": "",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Filled 11 Maintenance positions in 3 months, demonstrating strong proficiency in recruitment."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Trained employees in various roles, including Administrative Assistant, and developed standardized interview questions and training manual, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised teams in multiple roles, including Senior Team Leader and Human Resources Supervisor, showing strong leadership skills."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Designed new communication boards for each value stream, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Successfully reopened a 30 employee manufacturing plant in 30 days and shut down a 100 employee manufacturing plant in 3 days, demonstrating strong proficiency in project management."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Facilitated benefit open enrollment for 700 employees and found 90% of employees from a shut-down plant new employment within the company, indicating strong proficiency in employee relations."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Demonstrated excellent customer service skills in the role of Dietary Manager, showing a solid working proficiency."
+            },
+            {
+                "name": "Food Safety and Regulations",
+                "level": 3,
+                "explanation": "Trained employees in food safety and regulations, indicating a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Effectively managed time in various roles, including supervising and managing teams, showing a solid working proficiency."
+            }
+        ]
+    }
+}

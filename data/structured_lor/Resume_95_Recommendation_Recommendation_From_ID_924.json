@@ -1,0 +1,16 @@
+{
+    "resume_id": 95,
+    "recommendation_file": "Recommendation_From_ID_924.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Exaggerated claims and unknown source raise concerns about credibility.",
+        "verified_skills": [
+            "Customer Service",
+            "Teamwork",
+            "Aviation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with key areas of expertise. The unknown source and exaggerated claims raise concerns about credibility."
+    }
+}

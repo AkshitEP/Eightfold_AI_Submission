@@ -1,0 +1,17 @@
+{
+    "resume_file": "956.json",
+    "recommendation_file": "Recommendation_From_ID_14.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in early childhood education seems unrelated to the candidate's experience in retail and fitness management. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Operations Management",
+            "Leadership",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in retail operations management, customer service, and team leadership, but the recommender's background seems unrelated to the candidate's experience."
+    }
+}

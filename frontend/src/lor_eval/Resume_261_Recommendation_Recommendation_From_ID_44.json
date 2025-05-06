@@ -1,0 +1,19 @@
+{
+    "resume_file": "261.json",
+    "recommendation_file": "Recommendation_From_ID_44.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in sales and customer service seems unrelated to the candidate's finance experience. However, the recommender's experience in employee relations and organizational processes might be relevant to the candidate's leadership skills.",
+        "verified_skills": [
+            "Financial Management",
+            "Accounting",
+            "Budgeting",
+            "Financial Reporting",
+            "Cash Flow Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional financial acumen, leadership skills, and ability to manage cash flow and reduce costs. However, the recommender's background seems unrelated to the candidate's finance experience, which might raise some concerns about the recommender's objectivity."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "target_id": "678",
+    "recommendations": [
+        {
+            "recommender_id": "708",
+            "recommendation": {
+                "resume_file": "678.json",
+                "recommendation_file": "Recommendation_From_ID_708.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and recommendation is well-supported by the resume.",
+                    "verified_skills": [
+                        "Aerodynamics",
+                        "UAV Design",
+                        "Aircraft Design",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in aerospace education and UAV projects. The recommender's experience as an aviation mechanic adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "268",
+            "recommendation": {
+                "resume_file": "678.json",
+                "recommendation_file": "Recommendation_From_ID_268.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Aerodynamics",
+                        "UAV Design",
+                        "Aerodynamic Modeling",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency and passion for aviation education. However, the source of the recommendation is unclear, which might affect its credibility."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "570.json",
+    "recommendation_file": "Recommendation_From_ID_293.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommender is unrelated to the candidate's field of expertise, and the recommendation lacks specific examples and details. The language used is overly flattering and lacks objectivity.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Medical Billing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems suspicious due to the recommender's unrelated field of expertise and the lack of specific examples and details."
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Recruiter-in-Charge",
+                "work_description": "Supervised, developed and led a navy recruiting station of four navy recruiters to identify and attract potential applicants to meet quantitative and qualitative goals through proper use of current directives, processing forms and instructions.",
+                "company_level": "Mid-level",
+                "start_date": "10/2010",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Executive Director",
+                "work_description": "Marketed legal insurance policies and identity theft protection plans to families, business owners and employees as an employee benefit.",
+                "company_level": "Mid-level",
+                "start_date": "03/2008",
+                "end_date": "09/2010"
+            },
+            {
+                "role_name": "Production Supervisor / Aviation Electronics Technician",
+                "work_description": "Supervised day-to-day production activities of up to 23 electronic technicians in the testing, troubleshooting and repair of electronic navigation, communication, radar and weapon systems from various military aircraft.",
+                "company_level": "Mid-level",
+                "start_date": "09/1998",
+                "end_date": "01/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Riddle Aeronautical University",
+                "start_date": "01/2016",
+                "end_date": "05/2016",
+                "domain": "Management",
+                "level": "Master of Science"
+            },
+            {
+                "university": "University of La Verne",
+                "start_date": "01/2005",
+                "end_date": "05/2005",
+                "domain": "Business Administration",
+                "level": "Bachelor of Business Administration"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Department of Labor",
+            "United Services Military Apprenticeship Program"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has led multiple teams in various roles, including a navy recruiting station and a production team, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Supervised and led day-to-day production activities, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Marketed insurance policies and protection plans, showing a solid working proficiency in marketing."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Supervised teams of up to 23 electronic technicians, suggesting strong proficiency in team management."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Identified and attracted potential applicants as a Recruiter-in-Charge, indicating strong proficiency in recruitment."
+            },
+            {
+                "name": "Aviation Electronics",
+                "level": 3,
+                "explanation": "Worked with electronic navigation, communication, radar and weapon systems, showing a solid working proficiency in aviation electronics."
+            },
+            {
+                "name": "Business Administration",
+                "level": 3,
+                "explanation": "Holds a Bachelor of Business Administration degree, indicating a solid working proficiency in business administration."
+            },
+            {
+                "name": "Management",
+                "level": 4,
+                "explanation": "Holds a Master of Science in Management degree, suggesting strong proficiency in management."
+            }
+        ]
+    }
+}

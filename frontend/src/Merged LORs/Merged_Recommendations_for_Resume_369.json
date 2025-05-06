@@ -1,0 +1,68 @@
+{
+    "target_id": "369",
+    "recommendations": [
+        {
+            "recommender_id": "421",
+            "recommendation": {
+                "resume_file": "369.json",
+                "recommendation_file": "Recommendation_From_ID_421.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Information Technology Management",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities, IT management expertise, and project management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "818",
+            "recommendation": {
+                "resume_file": "369.json",
+                "recommendation_file": "Recommendation_From_ID_818.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of $400,000 annual cost savings through VoIP implementation seems statistically improbable without further context or evidence.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Information Technology Management",
+                        "Network Administration",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and IT management abilities. However, the claim of $400,000 annual cost savings through VoIP implementation raises some concerns about the accuracy of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "872",
+            "recommendation": {
+                "resume_file": "369.json",
+                "recommendation_file": "Recommendation_From_ID_872.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Information Technology Management",
+                        "Network Administration",
+                        "Data Communications",
+                        "System Analysis",
+                        "Project Management",
+                        "Technical Support",
+                        "Server Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, technological management, and strategic planning. The source of the recommendation is a peer, an Information Technology Project Manager, who has worked closely with the candidate."
+                }
+            }
+        }
+    ]
+}

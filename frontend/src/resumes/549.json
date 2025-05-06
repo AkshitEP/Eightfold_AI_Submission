@@ -1,0 +1,117 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Patient Care Technician",
+                "work_description": "Interviewed patients, measured vital signs, and documented all information on patients' EMR. Assisted nurses in pre-and postoperative therapy with treatments; inserting and discontinuing Foley catheter, discontinuing IV catheters, and maintaining IV fluids. Collected and prepared laboratory specimens, preformed glucose monitoring. Transported patients via wheel chairs and stretcher, assisted patients to ambulate around the unit. Notified nurses of any conditional changes of patients in my care. Provided care and comfort to all patients, ensuring the best possible care.",
+                "company_level": "Mid-level",
+                "start_date": "12/2016",
+                "end_date": "07/2017"
+            },
+            {
+                "role_name": "Server",
+                "work_description": "Assisted patrons during selection of food and beverages by presenting menu, and offering recommendations. Transmitted orders to bar and kitchen by recording patrons' choices; identified patrons' special dietary needs and special requests. Protected establishment and patrons by adhering to sanitation, safety, and alcohol beverage control policies.",
+                "company_level": "Mid-level",
+                "start_date": "06/2010",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Aviation Electronic Technician",
+                "work_description": "Drastically reduced aircraft discrepancies by 30% during my tenure with Patrol Squadron Sixteen. Troubleshot, replaced, and repaired critical electronic equipment on 17 different P-3C aircraft avionic systems. Responsible for accurate and timely updating of aircraft log books. Accountable for over 10 junior sailors in my work center.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2005",
+                "end_date": "09/2009"
+            },
+            {
+                "role_name": "Veterinary Assistant",
+                "work_description": "Assisted DVM with medical examinations, triaged incoming patients and managed clients throughout their visit. Prepared animals for surgery, prepared surgical packs, monitored patients under anesthesia, and assisted Veterinarians during surgical procedures. Performed dental procedures, x-rays, lab and bloodwork. Gave vaccinations, obtained blood samples, and administered medications. Monitored and appropriately documented patient vital signs and activity. Clearly communicated instructions to my clients and veterinary assistants.",
+                "company_level": "Mid-level",
+                "start_date": "07/2000",
+                "end_date": "08/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Chamberlain University",
+                "start_date": "01/2017",
+                "end_date": "06/2017",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Florida State College of Jacksonville",
+                "start_date": "01/2011",
+                "end_date": "05/2011",
+                "domain": "Arts",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Registered Nurse- State of Florida",
+            "American Heart Association Basic Life Support (BLS) Certification",
+            "Clinical Experience: Over 400 hours UF Health",
+            "Transitional Care Unit",
+            "Neurological Medical Surgical",
+            "Orthopedic Medical Surgical",
+            "Labor and Delivery",
+            "Neonatal Intensive Care Unit",
+            "Neonatal Intensive Care Unit, Step down",
+            "Pediatric Emergency Department",
+            "Intensive Care Unit",
+            "Northeast Florida State Hospital",
+            "Mental Health Nursing",
+            "Memorial Specialty Hospital",
+            "Medical Surgical"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Patient Care",
+                "level": 4,
+                "explanation": "Has extensive experience in patient care, including vital signs measurement, documentation, and assistance with treatments, indicating strong proficiency."
+            },
+            {
+                "name": "Medical Documentation",
+                "level": 4,
+                "explanation": "Documented patient information on EMR, and updated aircraft log books, showing strong proficiency in medical documentation."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Accountable for over 10 junior sailors in the work center, and led a team in the veterinary clinic, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Clearly communicated instructions to clients and veterinary assistants, and assisted patrons during selection of food and beverages, showing a solid level of proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple responsibilities, including patient care, documentation, and leadership, indicating a solid level of proficiency in time management."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 3,
+                "explanation": "Troubleshot critical electronic equipment on aircraft avionic systems, showing a solid level of proficiency in troubleshooting."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked as part of a team in various roles, including patient care, veterinary assistance, and aircraft maintenance, indicating a solid level of proficiency in teamwork."
+            },
+            {
+                "name": "Basic Life Support (BLS)",
+                "level": 4,
+                "explanation": "Possesses American Heart Association Basic Life Support (BLS) Certification, indicating strong proficiency in BLS."
+            },
+            {
+                "name": "Nursing",
+                "level": 4,
+                "explanation": "Has a Bachelor's degree in Nursing and over 400 hours of clinical experience, indicating strong proficiency in nursing."
+            }
+        ]
+    }
+}

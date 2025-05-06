@@ -1,0 +1,17 @@
+{
+    "resume_id": 61,
+    "recommendation_file": "Recommendation_From_ID_380.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be a mix of two different individuals, with the first part not aligning with the resume at all. This raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Electronics",
+            "Logistics"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns partially with the candidate's skills and experience, but its authenticity is questionable due to its mix of two different individuals."
+    }
+}

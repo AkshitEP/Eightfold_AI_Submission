@@ -1,0 +1,16 @@
+{
+    "resume_file": "272.json",
+    "recommendation_file": "Recommendation_From_ID_59.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and lacks concrete examples from the candidate's resume. The mention of a 'Fitness Director' role is not present in the resume, raising concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Employee Engagement",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some relevant skills and experiences from the resume, but it lacks substantial detail and alignment with the key areas of expertise. The mention of a 'Fitness Director' role is not present in the resume, which raises concerns about the authenticity of the recommendation."
+    }
+}

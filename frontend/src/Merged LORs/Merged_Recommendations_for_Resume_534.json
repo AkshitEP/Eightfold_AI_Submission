@@ -1,0 +1,40 @@
+{
+    "target_id": "534",
+    "recommendations": [
+        {
+            "recommender_id": "420",
+            "recommendation": {
+                "resume_file": "534.json",
+                "recommendation_file": "Recommendation_From_ID_420.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Technical Troubleshooting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service skills, technical problem-solving abilities, and dedication to service quality. The recommender's experience working alongside the candidate provides valuable insight into their strengths and capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "729",
+            "recommendation": {
+                "resume_file": "534.json",
+                "recommendation_file": "Recommendation_From_ID_729.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation makes claims about the candidate's experience and skills that are not supported by the resume. The language used is overly flattering and lacks specific examples or evidence.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's actual experience and skills listed in the resume. The recommendation appears to be fraudulent, with obvious signs of exaggeration and contradictory data."
+                }
+            }
+        }
+    ]
+}

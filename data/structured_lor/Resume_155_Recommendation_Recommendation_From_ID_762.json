@@ -1,0 +1,16 @@
+{
+    "resume_file": "155.json",
+    "recommendation_file": "Recommendation_From_ID_762.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, such as 'top performer' and 'remarkable sales milestones.' Additionally, the recommendation starts by describing a Software Engineer, which is unrelated to the provided resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation partially aligns with the candidate's skills and experience, but contains some inconsistencies and exaggerated claims. The mention of a Software Engineer at the beginning of the recommendation is unrelated to the provided resume."
+    }
+}

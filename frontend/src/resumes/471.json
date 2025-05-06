@@ -1,0 +1,88 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Operations/ Supervisor Manager",
+                "work_description": "Supervise and manage the daily operations of employees. Successfully led key projects which resulted in employee of the month. Monitor employee performance to ensure goals and objectives are met and/or exceed and that quality control techniques are utilized by each employee. Responsible for customer satisfaction and the implementation performance and service standards related to Sprint Nextel Direct Service.",
+                "company_level": "Large Corporation",
+                "start_date": "09/1999",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Customer Relations Manager",
+                "work_description": "Assist customers with routine requests, questions, and concerns regarding various store policies and their accounts. Research billing inquiries to ensure customers receive the best service possible. Work in conjunction with upper management/ director to identify performance gaps and develop departmental budget and controls in the operations.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2012",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "Community College of Denver",
+                "start_date": "01/1995",
+                "end_date": "12/1996",
+                "domain": "Early Childhood Education",
+                "level": "Certificate"
+            },
+            {
+                "university": "Emily Griffith Opportunity School",
+                "start_date": "01/1996",
+                "end_date": "12/1996",
+                "domain": "Early Childhood Education",
+                "level": "Certificate"
+            },
+            {
+                "university": "George Washington High School",
+                "start_date": "01/1993",
+                "end_date": "12/1993",
+                "domain": "General Studies",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Owner of Nonprofit organization",
+            "Co Founder& Executive Director of Lug- N - Nuts Car Club",
+            "Member of Colorado Low-rider Alliance"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has extensive experience in supervising and managing daily operations of employees, leading key projects, and ensuring quality control techniques are utilized, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Successfully led key projects, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience in assisting customers with routine requests, questions, and concerns, and ensuring customer satisfaction, indicating strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 2,
+                "explanation": "Worked in conjunction with upper management to develop departmental budget and controls, showing some practical experience in budgeting."
+            },
+            {
+                "name": "Performance Management",
+                "level": 3,
+                "explanation": "Monitored employee performance to ensure goals and objectives are met, showing a solid working proficiency in performance management."
+            },
+            {
+                "name": "Quality Control",
+                "level": 3,
+                "explanation": "Ensured quality control techniques are utilized by each employee, showing a solid working proficiency in quality control."
+            },
+            {
+                "name": "Non-Profit Management",
+                "level": 2,
+                "explanation": "Owner of a Nonprofit organization, showing some practical experience in nonprofit management."
+            }
+        ]
+    }
+}

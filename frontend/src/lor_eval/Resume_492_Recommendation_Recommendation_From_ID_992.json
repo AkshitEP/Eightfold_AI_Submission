@@ -1,0 +1,17 @@
+{
+    "resume_file": "492.json",
+    "recommendation_file": "Recommendation_From_ID_992.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. Some minor inconsistencies are present, such as the mention of 'Cryogenic Air Separation Unit' which is not mentioned in the resume.",
+        "verified_skills": [
+            "Mechanical Engineering",
+            "Project Management",
+            "Troubleshooting",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but lacks specific examples and details. The language is formal, but overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

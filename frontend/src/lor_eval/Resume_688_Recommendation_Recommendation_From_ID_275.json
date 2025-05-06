@@ -1,0 +1,18 @@
+{
+    "resume_file": "688.json",
+    "recommendation_file": "Recommendation_From_ID_275.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Administrative Support",
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Microsoft Office"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and interpersonal abilities. The source of the recommendation appears to be a supervisor or someone who has worked closely with the candidate, given their detailed knowledge of the candidate's work."
+    }
+}

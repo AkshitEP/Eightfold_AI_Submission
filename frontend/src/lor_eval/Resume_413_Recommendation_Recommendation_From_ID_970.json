@@ -1,0 +1,19 @@
+{
+    "resume_file": "413.json",
+    "recommendation_file": "Recommendation_From_ID_970.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Mortgage Banking",
+            "Leadership",
+            "Operations Management",
+            "Risk Analysis",
+            "Project Management",
+            "Compliance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in mortgage banking, leadership, and operations management. The source of the recommendation is a peer, which adds credibility to the endorsement."
+    }
+}

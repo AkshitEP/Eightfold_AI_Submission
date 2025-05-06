@@ -1,0 +1,43 @@
+{
+    "target_id": "254",
+    "recommendations": [
+        {
+            "recommender_id": "777",
+            "recommendation": {
+                "resume_file": "254.json",
+                "recommendation_file": "Recommendation_From_ID_777.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. The language is formal, but some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's interpersonal skills, organization, and passion for helping others, which aligns with their experience as a summer camp counselor and sales associate. However, the recommendation could benefit from more specific examples from the candidate's work experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "867",
+            "recommendation": {
+                "resume_file": "254.json",
+                "recommendation_file": "Recommendation_From_ID_867.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and the recommender's profession (high school English and Language Arts teacher) does not directly relate to the candidate's work experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in managing and engaging young children, organizational skills, creativity, compassion, and commitment to service. However, the recommender's profession and relationship to the candidate are unclear, and the recommendation does not directly relate to the candidate's work experience in sales and retail."
+                }
+            }
+        }
+    ]
+}

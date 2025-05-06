@@ -1,0 +1,20 @@
+{
+    "resume_file": "767.json",
+    "recommendation_file": "Recommendation_From_ID_579.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Vendor Management",
+            "IT Operations",
+            "Network Administration",
+            "Cloud Computing",
+            "Project Management",
+            "Budgeting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, vendor management, and IT operations expertise. The recommendation is written in a formal tone, suggesting a professional relationship between the recommender and the candidate."
+    }
+}

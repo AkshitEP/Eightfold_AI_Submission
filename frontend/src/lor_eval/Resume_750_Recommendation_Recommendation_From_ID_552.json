@@ -1,0 +1,22 @@
+{
+    "resume_file": "750.json",
+    "recommendation_file": "Recommendation_From_ID_552.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "IT Management",
+            "Project Management",
+            "Leadership",
+            "Network Administration",
+            "CyberSecurity",
+            "Help Desk Management",
+            "Communication",
+            "Budgeting",
+            "Vendor Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management, project management, and leadership skills. The recommendation also highlights the candidate's ability to navigate complex technological challenges and deliver innovative solutions."
+    }
+}

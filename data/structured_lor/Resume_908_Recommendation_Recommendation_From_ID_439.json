@@ -1,0 +1,19 @@
+{
+    "resume_file": "908.json",
+    "recommendation_file": "Recommendation_From_ID_439.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work history. Some claims seem exaggerated, such as the 'dynamic partnership' between the Account Executive and the Field Nurse.",
+        "verified_skills": [
+            "Nursing Care",
+            "Patient Education",
+            "Patient Advocacy",
+            "Medical Record Keeping",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience and skills in patient care, but it does not provide concrete examples from their work history. The mention of the Account Executive and the Field Nurse's partnership seems unrelated to the candidate's skills and experience."
+    }
+}

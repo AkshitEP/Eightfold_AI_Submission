@@ -1,0 +1,25 @@
+{
+    "resume_file": "279.json",
+    "recommendation_file": "Recommendation_From_ID_227.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Database Management",
+            "Network Management",
+            "Software Development",
+            "Data Analysis",
+            "Project Management",
+            "Leadership",
+            "Troubleshooting",
+            "Process Improvement",
+            "IT Systems Implementation",
+            "Technical Support",
+            "Chemical Engineering",
+            "Computer Science and Information Technology"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and collaboration. The recommender's background in senior technical support adds credibility to their endorsement."
+    }
+}

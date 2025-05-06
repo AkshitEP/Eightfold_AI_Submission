@@ -1,0 +1,16 @@
+{
+    "resume_file": "510.json",
+    "recommendation_file": "Recommendation_From_ID_15.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims, including unrelated experiences and skills.",
+        "verified_skills": [
+            "Tax Preparation",
+            "Financial Analysis",
+            "Client Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but contains some inconsistencies and exaggerated claims. The recommender's use of superlatives and unrelated experiences reduces the credibility of the recommendation."
+    }
+}

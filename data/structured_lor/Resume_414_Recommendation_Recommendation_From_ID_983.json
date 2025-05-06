@@ -1,0 +1,16 @@
+{
+    "resume_file": "414.json",
+    "recommendation_file": "Recommendation_From_ID_983.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation seems to be comparing the candidate to another professional, which may not be entirely relevant.",
+        "verified_skills": [
+            "Patient Care",
+            "Communication",
+            "CPR/AED"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's patient-focused care and administrative functions in the medical field, but also makes comparisons to another professional, which may not be entirely relevant. Some skills mentioned in the resume, such as Vital Signs Monitoring and Medical Record Keeping, are not explicitly mentioned in the recommendation."
+    }
+}

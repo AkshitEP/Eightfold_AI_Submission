@@ -1,0 +1,18 @@
+{
+    "resume_file": "302.json",
+    "recommendation_file": "Recommendation_From_ID_632.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but there are some minor inconsistencies and exaggerated claims. The language is formal, but the recommendation appears to be written for two individuals, not just Tonya Bell.",
+        "verified_skills": [
+            "Human Resources",
+            "Employee Relations",
+            "Leadership",
+            "Talent Management",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with Tonya Bell's skills and experience in Human Resources, but it seems to be written for two individuals, which raises some concerns about its authenticity. The recommendation highlights Tonya's achievements in employee relations, talent management, and training programs, but it also mentions her experience in customer service, financial management, and operational efficiency, which are not directly related to her work history or skills."
+    }
+}

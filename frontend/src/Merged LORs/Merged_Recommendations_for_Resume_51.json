@@ -1,0 +1,43 @@
+{
+    "target_id": "51",
+    "recommendations": [
+        {
+            "recommender_id": "636",
+            "recommendation": {
+                "resume_id": 51,
+                "recommendation_file": "Recommendation_From_ID_636.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Microsoft Software Installation",
+                        "Technical Support",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in IT, but the source of the recommendation is unclear. The language is formal, but overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "961",
+            "recommendation": {
+                "resume_id": 51,
+                "recommendation_file": "Recommendation_From_ID_961.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession and expertise are unrelated to the candidate's field, which raises some concerns about the recommender's ability to accurately assess the candidate's technical skills.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Leadership",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical expertise, leadership qualities, and ability to collaborate with colleagues. However, the recommender's profession and expertise are unrelated to the candidate's field, which may impact the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

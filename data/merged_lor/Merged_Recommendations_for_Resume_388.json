@@ -1,0 +1,29 @@
+{
+    "target_id": "388",
+    "recommendations": [
+        {
+            "recommender_id": "114",
+            "recommendation": {
+                "resume_file": "388.json",
+                "recommendation_file": "Recommendation_From_ID_114.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Training and Development",
+                        "Technical Support",
+                        "Data Analysis",
+                        "Curriculum Development",
+                        "Customer Service",
+                        "Software Management"
+                    ],
+                    "recommendation_source": "Senior VP of Information Technology",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership skills, and technical expertise. The source of the recommendation is a senior-level executive, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

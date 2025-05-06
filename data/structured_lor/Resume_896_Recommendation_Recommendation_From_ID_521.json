@@ -1,0 +1,21 @@
+{
+    "resume_file": "896.json",
+    "recommendation_file": "Recommendation_From_ID_521.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Flight Test Management",
+            "Systems Integration and Test",
+            "UAS Operations",
+            "Leadership",
+            "Personnel Management",
+            "Quality Assurance",
+            "Safety"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities, technical proficiency, and project management skills. The recommendation highlights the candidate's achievements and impact on advancing aerospace operations."
+    }
+}

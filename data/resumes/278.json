@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "INVESTMENT BANKING SUMMER ANALYST",
+                "work_description": "Advised on $1.2B sell-side M&A deal, completed buy-side M&A screen, and contributed to 11 total project teams. Drove financial analysis for sell-side M&A deal, built the levered model projecting operations, financing and returns. Completed 3 subsequent model iterations and built sensitivities; coded Excel macros to improve client experience. Communicated with clients, partner banks, Goldman leadership to create investor materials and facilitate deal processes. Performed M&A screen for $20B client, designed 7 quantitative screen criteria and ranked 30 potential targets. Built accretion-dilution mini-combo model with flexible architecture facilitating numerous targets and premium scenarios. Read equity research and 10-Ks to create profiles, perform sum-of-the-parts valuation, and write growth commentary.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2013",
+                "end_date": "08/2013"
+            },
+            {
+                "role_name": "FINANCE RESEARCH ASSISTANT",
+                "work_description": "Analyzed SEC filings to assess target company valuations of strategic buyers compared to those of financial buyers. Reviewed over 300 takeover auction background, identifying data points to calculate takeover premiums paid. Systemically organized information using Excel to facilitate data analysis and further research. Reviewed final paper for previous, relevant topic, and provided content and conceptual improvements.",
+                "company_level": "Mid-level",
+                "start_date": "05/2012",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "SALES CLERK",
+                "work_description": "Advised customers and completed sales. Increased sales earnings by 20% in the Junior's Department for the period of June to August. Named 'Employee of the Month' by recommendation of customers for friendly and helpful service (July).",
+                "company_level": "Startup",
+                "start_date": "05/2011",
+                "end_date": "08/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "UNITED STATES AIR FORCE ACADEMY",
+                "start_date": "01/2011",
+                "end_date": "05/2015",
+                "domain": "Aeronautical Engineer",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Volleyball",
+            "CrossFit",
+            "World Cup"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Drove financial analysis for sell-side M&A deal, built the levered model projecting operations, financing and returns, and completed 3 subsequent model iterations, indicating strong proficiency."
+            },
+            {
+                "name": "Mergers and Acquisitions",
+                "level": 4,
+                "explanation": "Advised on $1.2B sell-side M&A deal, completed buy-side M&A screen, and contributed to 11 total project teams, suggesting strong proficiency."
+            },
+            {
+                "name": "Financial Modeling",
+                "level": 4,
+                "explanation": "Built the levered model projecting operations, financing and returns, and built sensitivities, indicating strong proficiency."
+            },
+            {
+                "name": "Excel Macros",
+                "level": 3,
+                "explanation": "Coded Excel macros to improve client experience, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Analyzed SEC filings to assess target company valuations, and reviewed over 300 takeover auction background, identifying data points to calculate takeover premiums paid, indicating a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Systemically organized information using Excel to facilitate data analysis and further research, suggesting strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Communicated with clients, partner banks, Goldman leadership to create investor materials and facilitate deal processes, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Named 'Employee of the Month' by recommendation of customers for friendly and helpful service, indicating some practical experience."
+            },
+            {
+                "name": "Sales",
+                "level": 2,
+                "explanation": "Increased sales earnings by 20% in the Junior's Department for the period of June to August, indicating some practical experience."
+            }
+        ]
+    }
+}

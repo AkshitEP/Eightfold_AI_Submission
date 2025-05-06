@@ -1,0 +1,94 @@
+{
+    "target_id": "300",
+    "recommendations": [
+        {
+            "recommender_id": "550",
+            "recommendation": {
+                "resume_file": "300.json",
+                "recommendation_file": "Recommendation_From_ID_550.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unclear recommender relationship",
+                    "verified_skills": [
+                        "Project Management",
+                        "Strategic Planning",
+                        "IT Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but lacks specific examples and details. The recommender's relationship with the candidate is unclear, which raises some concerns."
+                }
+            }
+        },
+        {
+            "recommender_id": "887",
+            "recommendation": {
+                "resume_file": "300.json",
+                "recommendation_file": "Recommendation_From_ID_887.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Strategic Planning",
+                        "Project Management",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Risk Management",
+                        "Business Case Development",
+                        "IT Project Management",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and project management abilities. The source of the recommendation is a peer, indicating a collaborative working relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "132",
+            "recommendation": {
+                "resume_file": "300.json",
+                "recommendation_file": "Recommendation_From_ID_132.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Strategic Planning",
+                        "Project Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Risk Management",
+                        "Business Case Development",
+                        "IT Project Management",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, project management, and leadership abilities. The source of the recommendation is a Senior Director of Finance, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "714",
+            "recommendation": {
+                "resume_file": "300.json",
+                "recommendation_file": "Recommendation_From_ID_714.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but no obvious signs of fraud.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Strategic Planning",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation is moderately relevant to the resume, but focuses more on the candidate's research and teaching abilities. The recommendation verifies some of the candidate's skills, but does not directly support all of the skills mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

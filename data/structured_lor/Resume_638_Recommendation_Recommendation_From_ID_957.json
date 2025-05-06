@@ -1,0 +1,16 @@
+{
+    "resume_file": "638.json",
+    "recommendation_file": "Recommendation_From_ID_957.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of 'exceptional leadership' and 'initiative skills' seems exaggerated given the candidate's job history and skills.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and communication skills. However, some claims seem exaggerated, and the source of the recommendation is not explicitly stated as a supervisor, but the language suggests a managerial relationship."
+    }
+}

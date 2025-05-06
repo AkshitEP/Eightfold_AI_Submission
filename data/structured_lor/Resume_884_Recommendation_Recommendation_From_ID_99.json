@@ -1,0 +1,18 @@
+{
+    "resume_file": "884.json",
+    "recommendation_file": "Recommendation_From_ID_99.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The language is formal, but the tone seems overly flattering.",
+        "verified_skills": [
+            "Financial Management",
+            "Financial Analysis",
+            "Leadership",
+            "Audit and Compliance",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional abilities in finance management, financial analysis, and leadership. However, the tone seems overly flattering, and some claims seem exaggerated. The recommendation is largely credible, but some minor inconsistencies are present."
+    }
+}

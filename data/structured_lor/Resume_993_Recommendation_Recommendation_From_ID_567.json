@@ -1,0 +1,22 @@
+{
+    "resume_id": 993,
+    "recommendation_file": "Recommendation_From_ID_567.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Planning",
+            "Operational Management",
+            "Risk Management",
+            "Financial Analysis",
+            "Regulatory Compliance",
+            "Budgeting",
+            "Project Management",
+            "Communication",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in operations and finance, but does not specifically mention the candidate's job titles or roles."
+    }
+}

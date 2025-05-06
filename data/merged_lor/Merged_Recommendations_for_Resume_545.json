@@ -1,0 +1,49 @@
+{
+    "target_id": "545",
+    "recommendations": [
+        {
+            "recommender_id": "199",
+            "recommendation": {
+                "resume_file": "545.json",
+                "recommendation_file": "Recommendation_From_ID_199.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Python",
+                        "C#",
+                        "Visual Basic",
+                        "Help Desk Support",
+                        "Teaching",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, technical expertise, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "468",
+            "recommendation": {
+                "resume_file": "545.json",
+                "recommendation_file": "Recommendation_From_ID_468.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Python",
+                        "C#",
+                        "Visual Basic",
+                        "Teaching",
+                        "Help Desk Support",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership abilities, and technical expertise."
+                }
+            }
+        }
+    ]
+}

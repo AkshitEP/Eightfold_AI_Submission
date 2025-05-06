@@ -1,0 +1,27 @@
+{
+    "target_id": "450",
+    "recommendations": [
+        {
+            "recommender_id": "905",
+            "recommendation": {
+                "resume_file": "450.json",
+                "recommendation_file": "Recommendation_From_ID_905.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's background in IT and lack of direct experience in mechanical engineering. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Mechanical Design",
+                        "3D Modeling",
+                        "Finite Element Analysis (FEA)",
+                        "Stress Analysis",
+                        "SolidWorks",
+                        "Ansys"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical abilities and problem-solving skills. However, the recommender's background in IT and lack of direct experience in mechanical engineering raises some minor concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

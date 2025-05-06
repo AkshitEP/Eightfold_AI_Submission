@@ -1,0 +1,18 @@
+{
+    "resume_file": "945.json",
+    "recommendation_file": "Recommendation_From_ID_655.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Data Management",
+            "HR Policies"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, communication, and problem-solving abilities. The recommender's role as a Communicable Disease Specialist and their experience working with the candidate on joint projects adds credibility to the recommendation."
+    }
+}

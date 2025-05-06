@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Branch Banker III",
+                "work_description": "Proactively initiate, develop, and manage long-term, profitable relationships. Manage existing client relationships to identify future needs and consultatively address them. Profile prospects and clients to identify additional financial needs and refer to appropriate financial partners. Deliver superior quality service in person or by phone such that client needs are met on a consistent, positive basis. Serve as primary contact for new account openings and cross sale of other products and services to clients and prospects.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Customer Account Specialist",
+                "work_description": "Provide customer service by greeting, assisting and soliciting persons entering the office or on the telephone. Meet personal performance goals through handling complete loan cycle. Receive and process credit and employment verifications and records information obtained. Perform routine transactions at an on-line terminal. Process payments and disbursements.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2005",
+                "end_date": "01/2006"
+            },
+            {
+                "role_name": "Financial Services Representative",
+                "work_description": "Provide a superior client service experience while assisting in and supporting all aspects of service and sales-related activities in the branch. Develop new and strengthen/expand existing personal and business client relationships through daily client relationship management, providing financial solutions that meet clients' needs and goals, penetrating all product and service lines.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2004",
+                "end_date": "07/2005"
+            },
+            {
+                "role_name": "Floor Supervisor",
+                "work_description": "Floor Supervisor is an entry-level management position. A Floor Supervisor shares in the responsibility for the overall performance the store and assists Store Management with generating sales potential, recruiting and developing staff, maintaining store appearance, controlling expenses and shortages.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "10/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Eastgate Christian Academy",
+                "start_date": "08/1999",
+                "end_date": "08/1999",
+                "domain": "High School Diploma",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience in providing superior quality service to clients in person or by phone, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Has experience in cross-selling products and services to clients and prospects, suggesting strong proficiency."
+            },
+            {
+                "name": "Relationship Management",
+                "level": 4,
+                "explanation": "Has developed and managed long-term, profitable relationships with clients, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience as a Floor Supervisor, sharing responsibility for the overall performance of the store, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has handled multiple responsibilities, including client relationships, sales, and customer service, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in communicating with clients and prospects to identify their needs and provide financial solutions, suggesting strong proficiency."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Has worked with Store Management to generate sales potential, recruit and develop staff, and maintain store appearance, showing a solid working proficiency."
+            }
+        ]
+    }
+}

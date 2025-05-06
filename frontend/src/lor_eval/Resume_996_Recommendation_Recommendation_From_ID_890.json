@@ -1,0 +1,16 @@
+{
+    "resume_file": "996.json",
+    "recommendation_file": "Recommendation_From_ID_890.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation mentions the candidate's leadership skills and experience, but the source of the recommendation is unclear and the language used is overly flattering. Additionally, the recommender's profession as a Dental Hygienist seems unrelated to the candidate's field of education.",
+        "verified_skills": [
+            "Leadership",
+            "Program Development and Implementation",
+            "Communication and Collaboration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership skills and experience, but lacks specific examples and details. The recommender's profession and relationship to the candidate are unclear, which raises concerns about the credibility of the recommendation."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "target_id": "801",
+    "recommendations": [
+        {
+            "recommender_id": "352",
+            "recommendation": {
+                "resume_file": "801.json",
+                "recommendation_file": "Recommendation_From_ID_352.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Time Management",
+                        "Marketing",
+                        "Fundraising",
+                        "Software Proficiency"
+                    ],
+                    "recommendation_source": "Vice President of Information Technology",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their management, communication, and technical skills. The source of the recommendation is credible, having worked with the candidate in a professional capacity."
+                }
+            }
+        },
+        {
+            "recommender_id": "960",
+            "recommendation": {
+                "resume_file": "801.json",
+                "recommendation_file": "Recommendation_From_ID_960.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession and expertise in nuclear safety and environmental stewardship seem unrelated to the candidate's role and experience. However, the recommendation provides specific examples of the candidate's skills and accomplishments.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Event Planning",
+                        "Marketing",
+                        "Communication",
+                        "Time Management",
+                        "Customer Service",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and community outreach efforts. However, the recommender's profession and expertise seem unrelated to the candidate's role and experience, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

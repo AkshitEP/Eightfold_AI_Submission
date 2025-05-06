@@ -1,0 +1,94 @@
+{
+    "target_id": "238",
+    "recommendations": [
+        {
+            "recommender_id": "532",
+            "recommendation": {
+                "resume_file": "238.json",
+                "recommendation_file": "Recommendation_From_ID_532.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Payroll Management",
+                        "Employee Relations",
+                        "Benefits Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and process improvements. The recommender's background as a General HR Assistant and Office Assistant adds credibility to their assessment."
+                }
+            }
+        },
+        {
+            "recommender_id": "891",
+            "recommendation": {
+                "resume_file": "238.json",
+                "recommendation_file": "Recommendation_From_ID_891.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Talent Acquisition and Retention",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and accomplishments. The source of the recommendation appears to be a peer or colleague, as they mention collaborating on projects and having firsthand experience with the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "619",
+            "recommendation": {
+                "resume_file": "238.json",
+                "recommendation_file": "Recommendation_From_ID_619.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear and the recommender's background is unrelated to the candidate's field.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Benefits Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in HR functions, employee relations, and communication. However, the recommender's background as a Game Design Intern raises questions about their expertise in evaluating HR professionals."
+                }
+            }
+        },
+        {
+            "recommender_id": "458",
+            "recommendation": {
+                "resume_file": "238.json",
+                "recommendation_file": "Recommendation_From_ID_458.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Payroll Management",
+                        "Employee Relations",
+                        "Talent Acquisition and Retention",
+                        "Benefits Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR capabilities and accomplishments. The source of the recommendation appears to be a supervisor or manager, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

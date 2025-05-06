@@ -1,0 +1,115 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Management Consultant",
+                "work_description": "Utilized management abilities and knowledge of coding to oversee a team of 10 software engineers tasked with designing a back office database for a multi-billion dollar client. Managed cross-functional teams in a high demand environment to complete a global strategy project under strenuous deadlines. Drafted proposals for client engagements highlighting the expectations of service, engagement pricing and associated costs. Evaluated CCAR vendor models and developed proprietary probability of default models for a multi-billion dollar mortgage portfolio. Created valuation models designed to value both public and private equity for tax reporting purposes.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Investment Banking Analyst",
+                "work_description": "Assisted lead associate and vice president in facilitating merger and acquisition transactions in the life science industry by reviewing and analyzing pro forma financial statements and updating models accordingly. Created processes around the sales cycle to monitor and improve sales performance while keeping a more precise account of prior prospecting efforts. Maintained the CRM system and streamlined its use through extensive, voluntary training making the team more efficient and impactful.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2010",
+                "end_date": "02/2011"
+            },
+            {
+                "role_name": "Financial Advisor",
+                "work_description": "Evaluated the financial plans of current and prospective clients and provided recommendations that would reasonably ensure they meet their future financial goals. Assembled a team of estate planners, investment specialists and CPAs providing a comprehensive planning board for clientele.",
+                "company_level": "Mid-level",
+                "start_date": "11/2008",
+                "end_date": "11/2010"
+            },
+            {
+                "role_name": "Institutional Equity Sales",
+                "work_description": "Utilized strong written and verbal communication skills to distill complex financial topics into salient points for clientele. Evaluated research reports and valuation models to gain a holistic understanding of the research product. Developed an interactive, online database through R programming to hold 13F and trade data which eliminated redundancies in the desk's daily processes. Collaborated across multiple segments of the firm including research, syndicate, corporate access and derivatives personnel. Managed multiple client requests in a fast pace environment by staying organized and keeping detailed accounts of tasks.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2014",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "Carnegie Mellon University, Tepper School of Business",
+                "start_date": "01/2013",
+                "end_date": "05/2013",
+                "domain": "Business Administration",
+                "level": "MBA"
+            },
+            {
+                "university": "University of South Florida",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Finance",
+                "level": "B.S"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Graduate Finance Association",
+            "Alpha Club",
+            "The Soccer Club",
+            "Languages",
+            "History",
+            "Futbol",
+            "Markets",
+            "Golf"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Management",
+                "level": 5,
+                "explanation": "Has extensive experience in managing cross-functional teams and overseeing large projects, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has led teams in multiple roles, including as a management consultant and financial advisor, showing strong leadership skills."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience in financial analysis, including evaluating financial plans, creating valuation models, and analyzing pro forma financial statements, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has experience in data analysis, including creating processes to monitor and improve sales performance, and developing interactive databases, showing strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience in managing large projects, including a global strategy project, showing strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in distilling complex financial topics into salient points for clientele, showing strong proficiency in written and verbal communication."
+            },
+            {
+                "name": "Team Collaboration",
+                "level": 4,
+                "explanation": "Has experience in collaborating across multiple segments of a firm, including research, syndicate, corporate access, and derivatives personnel, showing strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience in managing multiple client requests in a fast-paced environment, showing strong proficiency in staying organized and keeping detailed accounts of tasks."
+            },
+            {
+                "name": "R Programming",
+                "level": 3,
+                "explanation": "Has experience in developing an interactive, online database through R programming, showing solid working proficiency."
+            },
+            {
+                "name": "CRM Systems",
+                "level": 3,
+                "explanation": "Has experience in maintaining and streamlining the use of CRM systems, showing solid working proficiency."
+            }
+        ]
+    }
+}

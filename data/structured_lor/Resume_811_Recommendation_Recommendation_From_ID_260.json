@@ -1,0 +1,19 @@
+{
+    "resume_file": "811.json",
+    "recommendation_file": "Recommendation_From_ID_260.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Patient Advocate seems unrelated to the candidate's experience and skills. However, the recommendation provides specific examples of the candidate's accomplishments and skills.",
+        "verified_skills": [
+            "Leadership",
+            "Operations Management",
+            "Financial Management",
+            "Project Management",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments and skills. However, the recommender's role and experience seem unrelated to the candidate's, which raises some concerns about the recommender's credibility."
+    }
+}

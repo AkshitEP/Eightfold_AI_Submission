@@ -1,0 +1,73 @@
+{
+    "target_id": "497",
+    "recommendations": [
+        {
+            "recommender_id": "479",
+            "recommendation": {
+                "resume_file": "497.json",
+                "recommendation_file": "Recommendation_From_ID_479.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job roles and industries, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in accounting, but the source of the recommendation is unclear and the job roles mentioned do not match the candidate's job history."
+                }
+            }
+        },
+        {
+            "recommender_id": "533",
+            "recommendation": {
+                "resume_file": "497.json",
+                "recommendation_file": "Recommendation_From_ID_533.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Payroll Management",
+                        "General Ledger Management",
+                        "Compliance",
+                        "Auditing",
+                        "Time Management",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, analytical skills, and organizational abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "572",
+            "recommendation": {
+                "resume_file": "497.json",
+                "recommendation_file": "Recommendation_From_ID_572.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "General Ledger Management",
+                        "Compliance",
+                        "Auditing",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and collaborative work. The source of the recommendation is a peer, indicating a professional relationship and credibility."
+                }
+            }
+        }
+    ]
+}

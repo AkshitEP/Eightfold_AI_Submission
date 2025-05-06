@@ -1,0 +1,89 @@
+{
+    "target_id": "591",
+    "recommendations": [
+        {
+            "recommender_id": "41",
+            "recommendation": {
+                "resume_file": "591.json",
+                "recommendation_file": "Recommendation_From_ID_41.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Classroom Management",
+                        "Communication",
+                        "Leadership",
+                        "Assessment and Evaluation",
+                        "Lesson Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership abilities, and commitment to facilitating high-quality education."
+                }
+            }
+        },
+        {
+            "recommender_id": "166",
+            "recommendation": {
+                "resume_file": "591.json",
+                "recommendation_file": "Recommendation_From_ID_166.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly positive tone, but no obvious red flags or statistically improbable claims.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Classroom Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but may contain some exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "118",
+            "recommendation": {
+                "resume_file": "591.json",
+                "recommendation_file": "Recommendation_From_ID_118.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Classroom Management",
+                        "Communication",
+                        "Leadership",
+                        "Assessment and Evaluation",
+                        "Lesson Planning"
+                    ],
+                    "recommendation_source": "Lead Administrator",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership abilities, and commitment to inclusive teaching practices."
+                }
+            }
+        },
+        {
+            "recommender_id": "0",
+            "recommendation": {
+                "resume_file": "591.json",
+                "recommendation_file": "Recommendation_From_ID_0.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Lesson Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and commitment to professional development."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "target_id": "151",
+    "recommendations": [
+        {
+            "recommender_id": "163",
+            "recommendation": {
+                "resume_file": "151.json",
+                "recommendation_file": "Recommendation_From_ID_163.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Time Management",
+                        "Training and Development",
+                        "Environmental Technology and Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities, customer service skills, and adaptability. The recommender's certification as a Custom Framer and their experience working with the candidate at Michael's Arts and Crafts Store adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "resume_id": 75,
+    "recommendation_file": "Recommendation_From_ID_505.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Payroll Management",
+            "Financial Reconciliation",
+            "General Accounting",
+            "Accounting Procedures",
+            "Financial Reporting",
+            "Tax Filing",
+            "Audit Assistance",
+            "Oracle Payables"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical skills and interpersonal abilities. The recommendation highlights the candidate's expertise in various accounting processes, financial statement preparation, and payroll management."
+    }
+}

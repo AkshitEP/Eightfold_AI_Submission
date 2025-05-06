@@ -1,0 +1,21 @@
+{
+    "resume_file": "980.json",
+    "recommendation_file": "Recommendation_From_ID_276.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions the second finance manager instead of the candidate, and some claims seem exaggerated or unsupported.",
+        "verified_skills": [
+            "Financial Management",
+            "Leadership",
+            "Budgeting",
+            "Financial Analysis",
+            "Investment Management",
+            "Risk Management",
+            "Audit and Compliance",
+            "Banking and Financial Institutions"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but it seems to be recommending the second finance manager instead of the candidate. This inconsistency raises some concerns about the authenticity of the recommendation."
+    }
+}

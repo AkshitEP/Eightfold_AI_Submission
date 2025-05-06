@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Budget Finance Specialist Senior",
+                "work_description": "Co-supervise and co-lead activities for a team of 3 Budget Finance Specialists and 1 Account Clerk Cadre. Responsible for training any new team members, giving work direction to all team members, lead the team during fiscal budgeting process, ensure fiscal responsibility throughout key areas of organization by reviewing and strengthening efficiencies in financial controls, conducting budget analysis and strategic planning to aid in daily business decisions.",
+                "company_level": "Mid-level",
+                "start_date": "10/2007",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Accounting Specialist III",
+                "work_description": "Responsible for daily accounting transactions in the Trust Fee Unit including processing payments sent by trust clients. Diligently monitored accounts and worked closely with internal team members and external stakeholders to reduce account delinquency and by utilizing quick and decisive analytical thinking and extensive research.",
+                "company_level": "Mid-level",
+                "start_date": "07/2006",
+                "end_date": "10/2007"
+            },
+            {
+                "role_name": "Loan Analyst/Customer Service Representative",
+                "work_description": "Reviewed and analyzed financial documents and loan applications for home loans. Verified compliance with federal requirements and ensured conformity to Wells Fargo Funding and investor requirements. Conducted extensive research to support loan decisions and resolved complex issues.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2005",
+                "end_date": "07/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Wisconsin",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Business Administration-Finance",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in supervising and leading teams, training new members, and giving work direction, indicating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 5,
+                "explanation": "Has led the team during fiscal budgeting process, conducted budget analysis, and strategic planning, showing expert-level proficiency in budgeting."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Has experience in conducting budget analysis, reviewing financial documents, and analyzing loan applications, indicating strong proficiency in financial analysis."
+            },
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Has experience in daily accounting transactions, processing payments, and monitoring accounts, suggesting strong proficiency in accounting."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 4,
+                "explanation": "Has experience in strategic planning to aid in daily business decisions, indicating strong proficiency in financial planning."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience as a customer service representative, resolving complex issues, and conducting research to support loan decisions, showing solid working proficiency."
+            },
+            {
+                "name": "Research",
+                "level": 3,
+                "explanation": "Has experience in conducting extensive research to support loan decisions and resolve complex issues, indicating solid working proficiency in research."
+            },
+            {
+                "name": "Financial Controls",
+                "level": 3,
+                "explanation": "Has experience in reviewing and strengthening efficiencies in financial controls, showing solid working proficiency in financial controls."
+            }
+        ]
+    }
+}

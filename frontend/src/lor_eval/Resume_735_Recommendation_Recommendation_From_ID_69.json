@@ -1,0 +1,15 @@
+{
+    "resume_file": "735.json",
+    "recommendation_file": "Recommendation_From_ID_69.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims, lack of specific technical skill verification",
+        "verified_skills": [
+            "Project Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant, but contains some inconsistencies and exaggerated claims. It does not specifically verify any technical skills mentioned in the resume."
+    }
+}

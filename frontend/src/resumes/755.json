@@ -1,0 +1,119 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Teradata Senior Associate Consultant",
+                "work_description": "Developed custom database designs which is used for strong and fast analytical report for wider audience across the organization. Performed data analysis and gathered columns metadata of source systems for understanding requirement feasibility analysis. Worked on optimizing and tuning the Teradata and Oracle views and SQL's to improve the performance of batch and response time of data for users. Implemented AGILE methodology for our formal delivery.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Senior Associate Consultant",
+                "work_description": "Analyzed business requirements, designs and wrote technical specifications to design/redesign solutions. Coordinated with Configuration management team in code deployments. Involved in complete software development life cycle (SDLC) including requirements gathering, analysis, design, development, testing, implementation and deployment.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2012",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Software Engineer",
+                "work_description": "Actively involved in enhancing the Data Warehousing Application wherein all small, Teradata, Prepared high level design document for developers and participated in review/build of the BTEQ, Scripts, Fast loads, Multi load and JCLs. Involved in complete software development life cycle (SDLC) Performed unit testing on the source code.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2009",
+                "end_date": "03/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "JNTU",
+                "start_date": "01/2004",
+                "end_date": "12/2008",
+                "domain": "Computer and Science Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Business Analytics Reporting",
+                "description": "iOS Mobile Application for Business Analytics Reporting This project aims at developing an Oracle and Teradata layers for pushing the data to iOS Mobile Application.",
+                "skills": [
+                    "Oracle",
+                    "Teradata",
+                    "iOS",
+                    "BTEQ",
+                    "SQL"
+                ]
+            },
+            {
+                "domain": "Data Warehousing",
+                "description": "Development and maintenance of semantic/downstream layer in a data warehouse for Business user reporting. This project aims at building and maintaining a data mart on Enterprise Data warehouse, in order to increase the efficiency of the reporting, support business users in performing, more robust analytical reporting and decision making capability.",
+                "skills": [
+                    "Teradata",
+                    "Oracle",
+                    "BTEQ",
+                    "SQL"
+                ]
+            },
+            {
+                "domain": "Data Warehousing Services",
+                "description": "Data Warehousing Services (DWS) manages the platform infrastructure hosting data from the Group's operational systems providing the capability for users or operational systems to query and extract this information as required.",
+                "skills": [
+                    "Teradata",
+                    "BTEQ",
+                    "SQL",
+                    "Oracle"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has extensive experience in data analysis, gathering columns metadata, and performing feasibility analysis, indicating strong proficiency."
+            },
+            {
+                "name": "Database Design",
+                "level": 4,
+                "explanation": "Developed custom database designs for strong and fast analytical reports, suggesting strong proficiency in database design."
+            },
+            {
+                "name": "Teradata",
+                "level": 5,
+                "explanation": "Extensive experience in optimizing and tuning Teradata views and SQL's, implementing AGILE methodology, and working on multiple projects involving Teradata, indicating expert-level mastery."
+            },
+            {
+                "name": "Oracle",
+                "level": 4,
+                "explanation": "Worked on optimizing and tuning Oracle views and SQL's, and involved in multiple projects involving Oracle, suggesting strong proficiency."
+            },
+            {
+                "name": "SQL",
+                "level": 5,
+                "explanation": "Extensive experience in writing and optimizing SQL queries for Teradata and Oracle, indicating expert-level mastery."
+            },
+            {
+                "name": "BTEQ",
+                "level": 4,
+                "explanation": "Involved in developing and reviewing BTEQ scripts, suggesting strong proficiency."
+            },
+            {
+                "name": "Agile Methodology",
+                "level": 3,
+                "explanation": "Implemented AGILE methodology for formal delivery, showing a solid working proficiency."
+            },
+            {
+                "name": "Software Development Life Cycle (SDLC)",
+                "level": 4,
+                "explanation": "Involved in complete SDLC, including requirements gathering, analysis, design, development, testing, implementation, and deployment, suggesting strong proficiency."
+            },
+            {
+                "name": "iOS",
+                "level": 2,
+                "explanation": "Involved in a project involving iOS Mobile Application, but limited information is available, suggesting some practical experience."
+            }
+        ]
+    }
+}

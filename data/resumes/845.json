@@ -1,0 +1,141 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Administrator",
+                "work_description": "Develop and implement short and long term plans. Establish clear objectives. Coordinates the efforts of business success. Responsibilities include: Full P&L responsibility; Sales and market development; Financial status; Patient Care Delivery; Client Services; Strategic planning and profitability and accountable for all operations and programs.",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Director of Healthcare Services",
+                "work_description": "Responsible for staff providing daily patient care and related office activities conducted in accordance with applicable law and regulation. Ensured effective and efficient delivery of all clinical services in accordance with agency standards and values through: clinical management, billing functions and management; regulatory compliance; staff supervision and training, documentation and Quality Assurance management.",
+                "company_level": "Mid-level",
+                "start_date": "01/2004",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Clinical Director/Branch Manager",
+                "work_description": "Leadership position in ensuring effective and efficient agency operations through: clinical management; billing functions and management; regulatory compliance; staff supervision/training; documentation management; HR functions operational decisions; effective communication among all stakeholders; and Medicare Conditions of Participation compliance.",
+                "company_level": "Mid-level",
+                "start_date": "01/2002",
+                "end_date": "01/2004"
+            },
+            {
+                "role_name": "Authorization Specialist",
+                "work_description": "Responsible for follow up of pre-certification/authorization payer requirements for multiple home healthcare agencies in a nationwide company. Ensured authorization for all planned care and home health visits was in place prior to service dates.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2001",
+                "end_date": "01/2002"
+            },
+            {
+                "role_name": "Clinical Manager",
+                "work_description": "Responsible for direct patient care and directing a team of clinicians. Perform staff assignments, scheduling of patients and needs, performing monthly Pre-bill and UR audits, completing monthly infection control logs, proofing all staff paperwork, managing accurate and up to date charts, delegation to staff members, coordinating Team conference meetings, participating in on-call schedule, case managing a patient load of 45-50, collaboration of patient care.",
+                "company_level": "Mid-level",
+                "start_date": "01/2000",
+                "end_date": "01/2001"
+            },
+            {
+                "role_name": "Staff RN",
+                "work_description": "Direct patient care in the home setting. Maintenance of a patient load of 7-10/day; participation in on-call scheduling and weekly Case Conference meetings; making appropriate allied health referrals; planning of patient care from start of care until discharge; providing a care plan and setting appropriate goals for patient needs; implementing care plan activities through acquired skills and patient teaching as indicated; providing support for other staff members and managers.",
+                "company_level": "Mid-level",
+                "start_date": "01/1998",
+                "end_date": "01/2000"
+            },
+            {
+                "role_name": "Staff RN",
+                "work_description": "Responsible for direct patient care as directed by patient physicians. Promote and restore patient's health by collaborating with physician and multidisciplinary team members, providing support to patients, co-workers and supervising team members.",
+                "company_level": "Mid-level",
+                "start_date": "01/1996",
+                "end_date": "01/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Healthcare Administration",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Northwest Mississippi Community College",
+                "start_date": "01/1996",
+                "end_date": "12/1996",
+                "domain": "Healthcare Administration",
+                "level": "Registered Nurse"
+            },
+            {
+                "university": "Methodist Hospital School of Nursing",
+                "start_date": "01/1996",
+                "end_date": "12/1996",
+                "domain": "Nursing - Registered Nurse",
+                "level": "Diploma"
+            },
+            {
+                "university": "Southwest Tennessee Community College",
+                "start_date": "01/1996",
+                "end_date": "12/1996",
+                "domain": "Nursing - Registered Nurse",
+                "level": "Pre-requisite coursework"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership positions, including Administrator, Director of Healthcare Services, Clinical Director/Branch Manager, and Clinical Manager, indicating expert-level mastery."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Developed and implemented short and long term plans, established clear objectives, and coordinated efforts for business success, showing strong proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 4,
+                "explanation": "Had full P&L responsibility, managed financial status, and was accountable for all operations and programs, suggesting strong proficiency."
+            },
+            {
+                "name": "Clinical Management",
+                "level": 5,
+                "explanation": "Ensured effective and efficient delivery of clinical services, managed patient care, and supervised staff, indicating expert-level mastery."
+            },
+            {
+                "name": "Regulatory Compliance",
+                "level": 4,
+                "explanation": "Ensured compliance with applicable laws and regulations, managed billing functions, and maintained accurate documentation, showing strong proficiency."
+            },
+            {
+                "name": "Staff Supervision",
+                "level": 4,
+                "explanation": "Supervised staff, provided training, and managed staff assignments, suggesting strong proficiency."
+            },
+            {
+                "name": "Patient Care",
+                "level": 5,
+                "explanation": "Provided direct patient care, managed patient loads, and coordinated care plans, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with stakeholders, including staff, patients, and physicians, showing strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Managed multiple responsibilities, including patient care, staff supervision, and administrative tasks, suggesting strong proficiency."
+            },
+            {
+                "name": "Healthcare Administration",
+                "level": 5,
+                "explanation": "Has a strong educational background in Healthcare Administration, including a Bachelor's degree, and extensive experience in the field, indicating expert-level mastery."
+            }
+        ]
+    }
+}

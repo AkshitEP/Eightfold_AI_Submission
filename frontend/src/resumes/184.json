@@ -1,0 +1,132 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Driver",
+                "work_description": "Welcome customers to my car. Asking them where he/she wants to go. And sometimes my friends calling me for helping them for changing their batteries. And also to change the tires.",
+                "company_level": "Unknown",
+                "start_date": "04/2015",
+                "end_date": "03/2016"
+            },
+            {
+                "role_name": "Server",
+                "work_description": "Greeting customers as they arrive. Arrange for appropriate seating arrangements and take orders. Pleasant and welcoming as customer satisfaction and retention is my prime concern Ensure that the menu is available and in good physical condition. Direct or escort quests to their seats.",
+                "company_level": "Unknown",
+                "start_date": "07/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Relation Officer",
+                "work_description": "Compiled information for reports and filed documents to be distributed to related offices and provinces. Traveled to provinces once a week to assess the situation of each area and draft reports accordingly. Assisted manager with administrative duties as necessary.",
+                "company_level": "Unknown",
+                "start_date": "09/2013",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Translator, Legal and Cultural Advisor",
+                "work_description": "Provided live and direct translation between Farsi (Daro), Pashto, and English for American military personnel in official meetings with regional governor, police headquarters, ANCOP (Afghan National Civil Order Police), CDP (Community Development Program) local chiefs, elders, municipality, Education Department of Kunduz Province in order to ensure security and implementation of infrastructure projects throughout the province. Translated confidential government/military documents, letters of complaint from civilians, and other classified information while maintaining exceptional levels of confidentiality. Maintained line of communication with management through recordkeeping and other administrative processes.",
+                "company_level": "Unknown",
+                "start_date": "01/2011",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Case Researcher",
+                "work_description": "Provided holistic and comprehensive case management services to all clients. Maintained a caseload of families and met with each client weekly for up to 12 months. Input accurate and complete client data into the agency database.",
+                "company_level": "Unknown",
+                "start_date": "01/2010",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "English Instructor",
+                "work_description": "Instructed English as a Second Language and taught students conversational and written English. Maintained meticulous lesson plans including reasonable tasks and homework assignments for students and prepared monitoring reports for the course manager. Participated in professional development opportunities and applied concepts learned to classroom and institute activities.",
+                "company_level": "Unknown",
+                "start_date": "01/2005",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Legal Aid",
+                "work_description": "Provided legal aid to civil societies, voluntary organizations and individuals working across the country espousing the cause of improving the rights of children. Offered door to door legal advice to impoverished community members, communicating advanced legal concepts using layman's terms to facilitate understanding. Closely coordinated with government bodies entrusted with the care and protection of children, including instructing the State Legal Services Authority to ensure appropriate legal action against offenders of child labor, human trafficking, and other forms of child abuse. Prepared complex reports and legal drafts, ensuring full compliance with agency requirements and tight deadlines.",
+                "company_level": "Unknown",
+                "start_date": "01/2008",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Service",
+                "work_description": "Conducted seminars and presentations regarding the importance of small family size, health education, and financial literacy. Facilitated success of social service programs aimed at improving the status of women. Aided in relief and rehabilitation efforts during periods of national calamity.",
+                "company_level": "Unknown",
+                "start_date": "01/2008",
+                "end_date": "01/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "J.S.S Law College",
+                "start_date": "01/2004",
+                "end_date": "12/2008",
+                "domain": "Academic Law",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Communication",
+                "level": 5,
+                "explanation": "Has extensive experience in communication, including translation, public speaking, and writing, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience in leading and managing teams, including as a Relation Officer and Case Researcher, showing a solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Has some experience in managing projects, including as a Relation Officer and Case Researcher, but lacks extensive experience."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Has some experience in data analysis, including as a Case Researcher, but lacks extensive experience."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has extensive experience in managing time, including as a Relation Officer, Case Researcher, and English Instructor, showing strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Has extensive experience in problem-solving, including as a Relation Officer, Case Researcher, and English Instructor, showing strong proficiency."
+            },
+            {
+                "name": "Translation",
+                "level": 5,
+                "explanation": "Has extensive experience in translation, including as a Translator, showing expert-level mastery."
+            },
+            {
+                "name": "Teaching",
+                "level": 4,
+                "explanation": "Has extensive experience in teaching, including as an English Instructor, showing strong proficiency."
+            },
+            {
+                "name": "Research",
+                "level": 3,
+                "explanation": "Has experience in research, including as a Case Researcher, showing a solid working proficiency."
+            },
+            {
+                "name": "Writing",
+                "level": 4,
+                "explanation": "Has extensive experience in writing, including as a Translator and Case Researcher, showing strong proficiency."
+            },
+            {
+                "name": "Public Speaking",
+                "level": 4,
+                "explanation": "Has extensive experience in public speaking, including as an English Instructor and Service, showing strong proficiency."
+            }
+        ]
+    }
+}

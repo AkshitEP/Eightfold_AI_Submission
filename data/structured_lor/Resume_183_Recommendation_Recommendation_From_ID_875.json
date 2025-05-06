@@ -1,0 +1,16 @@
+{
+    "resume_file": "183.json",
+    "recommendation_file": "Recommendation_From_ID_875.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. The recommender's relationship to the candidate is unclear, and the recommendation lacks specific examples from the candidate's work experience.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Recruitment and Hiring",
+            "Leadership and Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in HR management, recruitment, and leadership, but lacks specific examples from their work experience. The recommender's relationship to the candidate is unclear, and the language is overly flattering, which raises some concerns about the recommendation's credibility."
+    }
+}

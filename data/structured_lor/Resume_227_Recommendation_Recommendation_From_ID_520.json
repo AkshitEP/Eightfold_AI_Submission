@@ -1,0 +1,17 @@
+{
+    "resume_file": "227.json",
+    "recommendation_file": "Recommendation_From_ID_520.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions nearly three decades of experience, but the resume only shows experience from 2006. Additionally, the recommendation mentions managing complex projects as a Computer Specialist and IT Manager, but the resume does not show this experience.",
+        "verified_skills": [
+            "Desktop Support",
+            "IT Support",
+            "Troubleshooting",
+            "Computer Systems"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and customer support skills. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Dance Instructor",
+                "work_description": "Providing quality instruction for various dance styles such as Ballet, Pointe, Jazz, Contemporary, Tap, Modern, and Musical Theatre.",
+                "company_level": "Mid-level",
+                "start_date": "06/2008",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Company member",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Apprentice Company Member",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "08/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Florida International University",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Early Childhood Education",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "State Street Ballet",
+                "start_date": "01/2009",
+                "end_date": "12/2010",
+                "domain": "Professional Summer Training Program",
+                "level": ""
+            },
+            {
+                "university": "Rockette Summer Experience",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Summer Intensive",
+                "level": ""
+            },
+            {
+                "university": "Atlanta Ballet",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Professional Training Program",
+                "level": ""
+            },
+            {
+                "university": "University of North Carolina School of the Arts",
+                "start_date": "01/2007",
+                "end_date": "12/2009",
+                "domain": "High School program",
+                "level": ""
+            },
+            {
+                "university": "American Ballet Theatre",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Summer Intensive",
+                "level": ""
+            },
+            {
+                "university": "Orlando Ballet",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Summer Intensive",
+                "level": ""
+            },
+            {
+                "university": "Joffrey Ballet School",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Summer Intensive",
+                "level": ""
+            },
+            {
+                "university": "Joffrey Ballet School",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "Summer Intensive",
+                "level": ""
+            },
+            {
+                "university": "Boston Ballet School",
+                "start_date": "01/2004",
+                "end_date": "12/2005",
+                "domain": "Summer Intensive",
+                "level": ""
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Dance Instruction",
+                "level": 5,
+                "explanation": "Has over a decade of experience providing quality instruction for various dance styles, indicating expert-level mastery."
+            },
+            {
+                "name": "Ballet",
+                "level": 5,
+                "explanation": "Has extensive training and experience in ballet, having attended multiple summer intensives and professional programs, indicating expert-level mastery."
+            },
+            {
+                "name": "Jazz",
+                "level": 4,
+                "explanation": "Has provided instruction for jazz dance, suggesting strong proficiency."
+            },
+            {
+                "name": "Tap",
+                "level": 4,
+                "explanation": "Has provided instruction for tap dance, suggesting strong proficiency."
+            },
+            {
+                "name": "Modern",
+                "level": 4,
+                "explanation": "Has provided instruction for modern dance, suggesting strong proficiency."
+            },
+            {
+                "name": "Musical Theatre",
+                "level": 4,
+                "explanation": "Has provided instruction for musical theatre, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience as a company member, but lacks extensive leadership experience, indicating some practical experience."
+            },
+            {
+                "name": "Early Childhood Education",
+                "level": 3,
+                "explanation": "Has a bachelor's degree in Early Childhood Education, but lacks extensive experience, indicating solid working proficiency."
+            }
+        ]
+    }
+}

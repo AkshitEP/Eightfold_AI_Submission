@@ -1,0 +1,78 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Certified Master Personal Trainer",
+                "work_description": "Work with clients to improve their overall function, endurance, strength, flexibility, and balance. Monitor and teach proper execution and form of exercises. Maintain detailed personal training records and update progress after each session. Create personal training programs that address specific injuries or health problems to meet individual fitness needs. Conduct off-site seminars and workshops to generate new business.",
+                "company_level": "Unknown",
+                "start_date": "06/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Fitness Director - Certified Personal Trainer",
+                "work_description": "Measured client's overall fitness by completing comprehensive evaluations and physician clearances. Scheduled and conducted fitness orientation appointments with new members. Managed the Personal Trainer schedule and conducted trainer evaluations. Responsible for new hire interviews and sales training. Reviewed weekly sales numbers and club statistics to identify areas for improvement. Organized off-site workshops and marketing events to generate new business. Successfully sold personal training packages. Provided personal training sessions and retained 80% of clients.",
+                "company_level": "Unknown",
+                "start_date": "06/2008",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "Fitness Director - Certified Personal Trainer",
+                "work_description": "Managed and trained fitness staff in sales and exercise techniques. Scheduled and performed fitness evaluations with new members. Participated in regional conferences to improve sales and personal training skills. Successfully sold personal training packages and provided personal training sessions. Designed enjoyable and innovative customized training programs based upon fitness goals. Conducted on-site seminars and workshops to generate interest in new club activities. Managed the Personal Trainer schedule, making sure sessions were completed timely and professionally.",
+                "company_level": "Unknown",
+                "start_date": "01/2007",
+                "end_date": "06/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "California State University",
+                "start_date": "Unknown",
+                "end_date": "2006",
+                "domain": "Political Science",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Velocity Sports Performance",
+            "Wellness Volunteer (Santarus, Inc.)",
+            "Athlete - Varsity wrestler, club hockey, and intercollegiate soccer player",
+            "VOLUNTEER EXPERIENCE",
+            "COMMUNITY SERVICE"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Personal Training",
+                "level": 5,
+                "explanation": "Over a decade of experience as a certified personal trainer, with extensive experience creating customized training programs, conducting sessions, and managing fitness staff, indicating expert-level mastery."
+            },
+            {
+                "name": "Fitness Program Development",
+                "level": 4,
+                "explanation": "Consistently designed and implemented enjoyable and innovative customized training programs based on fitness goals, showing strong proficiency in program development."
+            },
+            {
+                "name": "Sales and Marketing",
+                "level": 4,
+                "explanation": "Successfully sold personal training packages, conducted off-site seminars and workshops to generate new business, and reviewed weekly sales numbers to identify areas for improvement, indicating strong proficiency in sales and marketing."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed and trained fitness staff, conducted trainer evaluations, and made hiring decisions, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Effectively managed the Personal Trainer schedule, ensuring sessions were completed timely and professionally, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Conducted fitness orientation appointments, provided personal training sessions, and interacted with clients to improve their overall function, showing a solid working proficiency in communication."
+            }
+        ]
+    }
+}

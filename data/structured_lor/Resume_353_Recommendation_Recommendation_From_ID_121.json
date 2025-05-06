@@ -1,0 +1,20 @@
+{
+    "resume_file": "353.json",
+    "recommendation_file": "Recommendation_From_ID_121.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written in a way that highlights the strengths of two individuals, but the language used is overly flattering and lacks specific examples from the candidate's resume. However, the skills and experiences mentioned are generally consistent with the candidate's resume.",
+        "verified_skills": [
+            "Project Management",
+            "Application Development",
+            "Database Administration",
+            "Leadership",
+            "ASP.NET",
+            "SQL Server",
+            "C#"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in IT leadership, application development, and project management, but the language used is overly flattering and lacks specific examples from the candidate's resume. The recommendation seems to be written in a way that highlights the strengths of two individuals, which may indicate that the recommendation is not entirely genuine."
+    }
+}

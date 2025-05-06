@@ -1,0 +1,65 @@
+{
+    "target_id": "738",
+    "recommendations": [
+        {
+            "recommender_id": "674",
+            "recommendation": {
+                "resume_file": "738.json",
+                "recommendation_file": "Recommendation_From_ID_674.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Overly positive language and lack of specific examples or details to support claims made.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks specific examples or details to support the claims made, and the tone is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "476",
+            "recommendation": {
+                "resume_file": "738.json",
+                "recommendation_file": "Recommendation_From_ID_476.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The recommender mentions being a fellow professional in fitness instruction, which seems unrelated to the candidate's experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, relationship building, and communication. However, the recommender's background in fitness instruction seems unrelated to the candidate's experience, and the language is somewhat informal."
+                }
+            }
+        },
+        {
+            "recommender_id": "461",
+            "recommendation": {
+                "resume_file": "738.json",
+                "recommendation_file": "Recommendation_From_ID_461.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and communication abilities. However, the source of the recommendation is unclear, and the recommender's relationship to the candidate is not specified."
+                }
+            }
+        }
+    ]
+}

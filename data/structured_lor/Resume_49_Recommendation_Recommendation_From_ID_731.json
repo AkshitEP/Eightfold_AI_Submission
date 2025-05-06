@@ -1,0 +1,17 @@
+{
+    "resume_id": 49,
+    "recommendation_file": "Recommendation_From_ID_731.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in job titles and roles mentioned in the recommendation, but overall the recommendation remains largely credible.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Customer Service",
+            "Event Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, the job titles and roles mentioned in the recommendation do not exactly match those listed in the resume."
+    }
+}

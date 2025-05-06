@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Care Representative",
+                "work_description": "Addressed customer service inquiries in a timely and accurate fashion, providing appropriate information while maintaining precise records and a high standard of customer service. Built customer loyalty by resolving complaints, expediting orders, and locating out-of-stock or discontinued items.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Club Manager",
+                "work_description": "Contributed to the overall success of the franchise by coordinating daily operations and staff meetings, addressing and resolving customer complaints. Responsible for recruiting, orienting, training and supervising staff of 12-15.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "03/2013"
+            },
+            {
+                "role_name": "Human Resources Generalist",
+                "work_description": "Identified staff vacancies and recruited, interviewed and selected qualified applicants to increase employee base to meet ever-changing staffing needs for busy call center. Actively recruited potential employees by developing job postings and descriptions to attract a targeted talent pool within the market wage range.",
+                "company_level": "Mid-level",
+                "start_date": "10/2007",
+                "end_date": "06/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Trumbull Business College",
+                "start_date": "06/2007",
+                "end_date": "06/2007",
+                "domain": "Human Resources, Management Studies, Payroll Records and Accounting, and Business Law",
+                "level": "Associate of Applied Business Administration"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience addressing customer inquiries and resolving complaints in a timely and accurate fashion, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Successfully managed and supervised staff of 12-15 as a Club Manager, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Effectively recruited, interviewed, and selected qualified applicants to meet staffing needs, showing strong proficiency in recruitment."
+            },
+            {
+                "name": "Staff Management",
+                "level": 4,
+                "explanation": "Coordinated daily operations and staff meetings, and supervised staff of 12-15, indicating strong proficiency in staff management."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Built customer loyalty by resolving complaints and expediting orders, and maintained precise records, showing strong proficiency in communication."
+            },
+            {
+                "name": "Human Resources",
+                "level": 4,
+                "explanation": "Identified staff vacancies, recruited, and selected qualified applicants, and developed job postings and descriptions, indicating strong proficiency in human resources."
+            },
+            {
+                "name": "Payroll Records",
+                "level": 2,
+                "explanation": "Completed education in Payroll Records, but no direct work experience is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Accounting",
+                "level": 2,
+                "explanation": "Completed education in Accounting, but no direct work experience is mentioned, indicating some practical experience."
+            }
+        ]
+    }
+}

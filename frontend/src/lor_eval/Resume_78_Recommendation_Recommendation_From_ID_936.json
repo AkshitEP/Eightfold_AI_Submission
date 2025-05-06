@@ -1,0 +1,17 @@
+{
+    "resume_id": 78,
+    "recommendation_file": "Recommendation_From_ID_936.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Leadership",
+            "Yoga Instruction"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional customer service skills, communication abilities, and leadership qualities, which align with their experience in various roles. However, it does not directly reference their skills in accounting, project management, or human resources, which are prominent in their resume."
+    }
+}

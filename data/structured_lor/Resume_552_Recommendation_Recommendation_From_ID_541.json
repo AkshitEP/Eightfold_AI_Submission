@@ -1,0 +1,19 @@
+{
+    "resume_file": "552.json",
+    "recommendation_file": "Recommendation_From_ID_541.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the comparison to a Trip Coordinator, which seems unrelated to the candidate's IT experience. However, the language is formal and the claims are generally supported by the resume.",
+        "verified_skills": [
+            "Project Management",
+            "IT Governance",
+            "Database Development/Maintenance",
+            "SQL",
+            "Leadership",
+            "Troubleshooting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in IT governance, project management, and technical support, which aligns well with their resume. However, the comparison to a Trip Coordinator seems unrelated and may indicate some exaggeration or lack of understanding of the candidate's skills."
+    }
+}

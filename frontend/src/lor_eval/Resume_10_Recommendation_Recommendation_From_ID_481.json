@@ -1,0 +1,19 @@
+{
+    "resume_file": "10.json",
+    "recommendation_file": "Recommendation_From_ID_481.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as an HR Employee Relations Specialist may not be directly related to the candidate's operations management experience. However, the recommendation provides specific examples of the candidate's skills and accomplishments.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Client Service",
+            "Process Improvement",
+            "Quality Assurance",
+            "Risk Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and client service abilities. However, the recommender's role may not be directly related to the candidate's operations management experience."
+    }
+}

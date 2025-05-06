@@ -1,0 +1,148 @@
+{
+    "target_id": "852",
+    "recommendations": [
+        {
+            "recommender_id": "204",
+            "recommendation": {
+                "resume_file": "852.json",
+                "recommendation_file": "Recommendation_From_ID_204.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Coaching",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and coaching abilities. However, it does not explicitly mention Time Management, Project Management, or PeopleSoft skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "186",
+            "recommendation": {
+                "resume_file": "852.json",
+                "recommendation_file": "Recommendation_From_ID_186.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in human resources and employee development. The Director's endorsement highlights the candidate's exceptional expertise and contributions to the organization."
+                }
+            }
+        },
+        {
+            "recommender_id": "309",
+            "recommendation": {
+                "resume_file": "852.json",
+                "recommendation_file": "Recommendation_From_ID_309.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Coaching",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training and development programs, conflict resolution, and commitment to diversity and inclusion."
+                }
+            }
+        },
+        {
+            "recommender_id": "90",
+            "recommendation": {
+                "resume_file": "852.json",
+                "recommendation_file": "Recommendation_From_ID_90.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training and development initiatives, leadership abilities, and commitment to fostering a positive work environment."
+                }
+            }
+        },
+        {
+            "recommender_id": "514",
+            "recommendation": {
+                "resume_file": "852.json",
+                "recommendation_file": "Recommendation_From_ID_514.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Coaching",
+                        "Project Management",
+                        "Communication",
+                        "PeopleSoft"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training and development capabilities, leadership, and HR management expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "48",
+            "recommendation": {
+                "resume_file": "852.json",
+                "recommendation_file": "Recommendation_From_ID_48.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Coaching",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR administration, training development, and employee relations expertise. The HR generalist's endorsement highlights the candidate's strengths in conflict resolution, benefits training, and employee engagement."
+                }
+            }
+        },
+        {
+            "recommender_id": "933",
+            "recommendation": {
+                "resume_file": "852.json",
+                "recommendation_file": "Recommendation_From_ID_933.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Coaching",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training and development expertise, leadership abilities, and commitment to fostering a positive work environment."
+                }
+            }
+        }
+    ]
+}

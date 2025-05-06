@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Specialist",
+                "work_description": "Processing of vendor invoices, processing of monthly rental payments, handling of the petty cash fund, reviewing and checking of the BAH Reconciliation of outgoing residents prepared by the Resident Specialist; assists outgoing residents in their out processing - such as booking their pre-inspection and inspection dates; assists prospective and existing residents with their inquiries in person or on the phone; fetching the office's mails and distributing the same; collection of rental due from the military residents that did not opt for allocation in their pay slips; processing of credit card payments of civilian residents.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2014",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Financial Accountant",
+                "work_description": "Supervising the input of financial data on the company's books, overseeing the closing of the books, managing the billings to clients, preparing detailed reports with supporting schedules, preparing the Company's Financial Statements and Tax Returns, safekeeping of the petty cash fund, important contracts and high value checks; maintaining files of project contracts, quarterly balance sheets and income statements; assisting in the internal audit of the Head Office; assisting in the procurement of PCAB License.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2008",
+                "end_date": "09/2011"
+            },
+            {
+                "role_name": "Associate Auditor",
+                "work_description": "Participating in the financial audit of various companies, working as an individual on some clients and as part of a group on other clients, isolating a management error in the way the Company has presented one of their major accounts and formulating a solution to adjust the account and avoid future errors, observing different year-end inventory count procedures conducted by various clients to ensure the accuracy of the inventory that they report in their Financial Statements.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2006",
+                "end_date": "05/2008"
+            },
+            {
+                "role_name": "Audit Staff",
+                "work_description": "Assisting in the financial audit, review and evaluation of systems of control and other related professional services of various companies.",
+                "company_level": "Mid-level",
+                "start_date": "04/2005",
+                "end_date": "06/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Holy Angel University",
+                "start_date": "01/2002",
+                "end_date": "12/2006",
+                "domain": "Accountancy",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Handled BAH Reconciliation and reviewed financial data for accuracy, showing strong proficiency in financial reconciliation."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Supervised the input of financial data, managed billings to clients, and prepared financial statements and tax returns, indicating expert-level mastery in general accounting."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Prepared detailed reports with supporting schedules and maintained files of project contracts, quarterly balance sheets, and income statements, showing strong proficiency in financial reporting."
+            },
+            {
+                "name": "Audit and Assurance",
+                "level": 4,
+                "explanation": "Participated in financial audits of various companies, identified management errors, and formulated solutions, indicating strong proficiency in audit and assurance."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 3,
+                "explanation": "Assisted in the internal audit and reviewed financial data for accuracy, showing solid working proficiency in financial analysis."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Supervised the input of financial data and managed billings to clients, but no extensive leadership experience is mentioned, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Petty Cash Management",
+                "level": 3,
+                "explanation": "Handled the petty cash fund and ensured its safekeeping, showing solid working proficiency in petty cash management."
+            },
+            {
+                "name": "Taxation",
+                "level": 3,
+                "explanation": "Prepared the Company's Financial Statements and Tax Returns, showing solid working proficiency in taxation."
+            }
+        ]
+    }
+}

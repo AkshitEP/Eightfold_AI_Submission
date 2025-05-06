@@ -1,0 +1,19 @@
+{
+    "resume_file": "862.json",
+    "recommendation_file": "Recommendation_From_ID_430.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Accounting Standards",
+            "Financial Analysis",
+            "Cash Flow Management",
+            "Payroll Management",
+            "Accounts Payable/Receivable"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting and analysis expertise. The recommender's own experience as an Accountant adds credibility to the recommendation."
+    }
+}

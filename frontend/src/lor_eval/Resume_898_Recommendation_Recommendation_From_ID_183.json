@@ -1,0 +1,19 @@
+{
+    "resume_id": 898,
+    "recommendation_file": "Recommendation_From_ID_183.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Database Administration",
+            "Oracle Database Administration",
+            "Database Security",
+            "SQL and PL/SQL",
+            "Leadership and Management",
+            "Communication and Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The recommendation highlights the candidate's contributions to enhancing database security measures and ensuring compliance with regulatory requirements."
+    }
+}

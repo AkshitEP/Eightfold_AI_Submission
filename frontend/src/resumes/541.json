@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Trip Coordinator",
+                "work_description": "Scheduled aircraft and coordinate flight crew to accomplish charter requests. Resolve operational failures with customers, owners and flight crews. Interpret both current weather and weather forecasts provided by the FAA. Familiarity with FAR/AIM, Part 135 Rules and Regulations. Utilize FOS/NT, Microsoft Word, Excel and Outlook. Responsible for improving and simplifying operational procedures for both sales and operations.",
+                "company_level": "Mid-level",
+                "start_date": "01/2018",
+                "end_date": "04/2018"
+            },
+            {
+                "role_name": "Manager",
+                "work_description": "Accountable for 2 departments operating budget, including developing annual operating plan, expense forecasts and other executive management reporting. Responsibilities include negotiating competitive rates, purchasing, monitoring and enforcing contracts compliance. Report to executive management; manage staff of 2 direct reports. Manager Operational Finance Compile and analyze financial information with department heads Managing invoice approval, reconciliation and billing compliance of 25,000 invoices per year Develop integrated revenue/expense analyses, projections, reports, and presentations Create and analyze monthly, quarterly, and annual reports for accuracy Create key performance metrics for Finance and Executive Management.",
+                "company_level": "Mid-level",
+                "start_date": "01/2002",
+                "end_date": "12/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Franklin University",
+                "start_date": "01/2007",
+                "end_date": "05/2009",
+                "domain": "Financial Leadership",
+                "level": "Master's"
+            },
+            {
+                "university": "Franklin University",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Science in Financial Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Franklin University",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Science Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Held a managerial role with financial responsibilities for over a decade, including developing annual operating plans, expense forecasts, and executive management reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "Operational Finance",
+                "level": 5,
+                "explanation": "Compiled and analyzed financial information, managed invoice approval, reconciliation, and billing compliance, and created integrated revenue/expense analyses, reports, and presentations, showing expert-level proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed staff of 2 direct reports and was accountable for 2 departments' operating budget, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Compiled and analyzed financial information, created integrated revenue/expense analyses, reports, and presentations, and developed key performance metrics, showing strong proficiency in financial analysis."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Developed annual operating plans and expense forecasts, indicating strong proficiency in budgeting."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Utilized Microsoft Word, Excel, and Outlook, showing a solid working proficiency in Microsoft Office."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Improved and simplified operational procedures for both sales and operations, indicating a solid working proficiency in project management."
+            },
+            {
+                "name": "Contract Negotiation",
+                "level": 3,
+                "explanation": "Negotiated competitive rates and managed contract compliance, showing a solid working proficiency in contract negotiation."
+            }
+        ]
+    }
+}

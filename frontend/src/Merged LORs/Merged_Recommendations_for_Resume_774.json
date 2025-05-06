@@ -1,0 +1,69 @@
+{
+    "target_id": "774",
+    "recommendations": [
+        {
+            "recommender_id": "987",
+            "recommendation": {
+                "resume_file": "774.json",
+                "recommendation_file": "Recommendation_From_ID_987.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Director of Clinical Research Operations seems inconsistent with the candidate's job history. No statistically improbable claims detected, but the language is somewhat formal and lacks specific examples from the candidate's job history.",
+                    "verified_skills": [
+                        "Data Management",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's administrative skills, but the recommender's role and the candidate's job history do not align perfectly. The recommendation provides some specific examples of the candidate's skills, but it lacks concrete evidence from the candidate's job history."
+                }
+            }
+        },
+        {
+            "recommender_id": "664",
+            "recommendation": {
+                "resume_file": "774.json",
+                "recommendation_file": "Recommendation_From_ID_664.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written by someone who is not directly familiar with the candidate's work, and the language used is overly flattering. Additionally, the recommendation highlights skills and expertise that are not explicitly mentioned in the resume.",
+                    "verified_skills": [
+                        "Data Management",
+                        "Customer Service",
+                        "Bookkeeping",
+                        "Data Entry",
+                        "Time Management",
+                        "Communication",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation provides some general praise for the candidate's skills and work ethic, but it does not provide specific examples or details that are directly related to the candidate's resume. The recommendation also seems to be written in an overly flattering tone, which raises some concerns about its authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "491",
+            "recommendation": {
+                "resume_file": "774.json",
+                "recommendation_file": "Recommendation_From_ID_491.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Rollizo's Information Technology Services' which is not mentioned in the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Management",
+                        "Communication",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's administrative and customer service skills, which align with their experience as an Administrative Assistant and Medical Assistant. However, some minor inconsistencies and lack of specific examples from the resume reduce the relevance score."
+                }
+            }
+        }
+    ]
+}

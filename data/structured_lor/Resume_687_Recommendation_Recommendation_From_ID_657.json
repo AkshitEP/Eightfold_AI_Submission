@@ -1,0 +1,17 @@
+{
+    "resume_file": "687.json",
+    "recommendation_file": "Recommendation_From_ID_657.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but overall seems genuine.",
+        "verified_skills": [
+            "Leadership",
+            "Mentoring",
+            "Communication",
+            "Teaching"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership skills and experience in education, but may be a bit exaggerated in its comparison between retail and educational settings."
+    }
+}

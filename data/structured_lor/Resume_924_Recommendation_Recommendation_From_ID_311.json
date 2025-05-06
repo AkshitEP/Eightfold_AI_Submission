@@ -1,0 +1,17 @@
+{
+    "resume_file": "924.json",
+    "recommendation_file": "Recommendation_From_ID_311.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. The recommender's relationship to the candidate is unclear, and their own experience is not directly related to the candidate's skills.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Quality Control",
+            "Entrepreneurship"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's entrepreneurial spirit, leadership skills, and commitment to quality, but does not provide specific examples from their resume. The recommender's own experience in the aviation supply chain is not directly related to the candidate's skills."
+    }
+}

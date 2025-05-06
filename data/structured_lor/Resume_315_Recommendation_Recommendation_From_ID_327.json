@@ -1,0 +1,12 @@
+{
+    "resume_file": "315.json",
+    "recommendation_file": "Recommendation_From_ID_327.txt",
+    "output": {
+        "relevance_score": 1,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is completely unrelated to the candidate's skills and experience as an Accountant. The recommendation is for an Information Technology Specialist, not an Accountant.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experience. It appears to be a recommendation for a different individual."
+    }
+}

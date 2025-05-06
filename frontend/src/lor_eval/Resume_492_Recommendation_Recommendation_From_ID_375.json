@@ -1,0 +1,22 @@
+{
+    "resume_file": "492.json",
+    "recommendation_file": "Recommendation_From_ID_375.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Mechanical Engineering",
+            "Project Management",
+            "Troubleshooting",
+            "Electro/Mechanical Skill",
+            "Water Treatment",
+            "Leadership",
+            "Design of controls for pumps and motors",
+            "Marine Engineering",
+            "Power Plant Maintenance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities."
+    }
+}

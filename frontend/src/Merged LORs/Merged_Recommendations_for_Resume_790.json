@@ -1,0 +1,100 @@
+{
+    "target_id": "790",
+    "recommendations": [
+        {
+            "recommender_id": "606",
+            "recommendation": {
+                "resume_file": "790.json",
+                "recommendation_file": "Recommendation_From_ID_606.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Modeling",
+                        "Compliance",
+                        "Financial Systems"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and accomplishments. The source of the recommendation is a peer, indicating a strong professional endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "47",
+            "recommendation": {
+                "resume_file": "790.json",
+                "recommendation_file": "Recommendation_From_ID_47.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Modeling",
+                        "Budgeting",
+                        "Auditing",
+                        "Compliance",
+                        "Financial Systems",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and analytical skills. The source of the recommendation appears to be a peer, who has worked with the candidate and can attest to their abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "505",
+            "recommendation": {
+                "resume_file": "790.json",
+                "recommendation_file": "Recommendation_From_ID_505.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Modeling",
+                        "Compliance",
+                        "Financial Systems",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and attention to detail. The recommender's background in accounting adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "749",
+            "recommendation": {
+                "resume_file": "790.json",
+                "recommendation_file": "Recommendation_From_ID_749.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Modeling",
+                        "Budgeting",
+                        "Auditing",
+                        "Compliance",
+                        "Financial Systems",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and financial management abilities."
+                }
+            }
+        }
+    ]
+}

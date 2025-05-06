@@ -1,0 +1,80 @@
+{
+    "target_id": "767",
+    "recommendations": [
+        {
+            "recommender_id": "520",
+            "recommendation": {
+                "resume_file": "767.json",
+                "recommendation_file": "Recommendation_From_ID_520.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Network Administration",
+                        "IT Operations",
+                        "Disaster Recovery",
+                        "Vendor Management",
+                        "Project Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and technical abilities. The source of the recommendation is a peer with a strong background in IT management, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "775",
+            "recommendation": {
+                "resume_file": "767.json",
+                "recommendation_file": "Recommendation_From_ID_775.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Vendor Management",
+                        "Disaster Recovery",
+                        "IT Operations",
+                        "Cloud Computing",
+                        "Network Administration",
+                        "Microsoft Exchange",
+                        "Cisco",
+                        "Linux",
+                        "Unix",
+                        "Scripting",
+                        "Project Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Former Director of Information Technology and Chief Technology Officer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, technical expertise, and achievements in IT infrastructure management."
+                }
+            }
+        },
+        {
+            "recommender_id": "579",
+            "recommendation": {
+                "resume_file": "767.json",
+                "recommendation_file": "Recommendation_From_ID_579.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Vendor Management",
+                        "IT Operations",
+                        "Network Administration",
+                        "Cloud Computing",
+                        "Project Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, vendor management, and IT operations expertise. The recommendation is written in a formal tone, suggesting a professional relationship between the recommender and the candidate."
+                }
+            }
+        }
+    ]
+}

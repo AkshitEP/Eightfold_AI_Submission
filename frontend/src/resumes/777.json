@@ -1,0 +1,93 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Production Assistant Intern",
+                "work_description": "Assist casting directors, producers and actors with audition process. Organize schedules, video and audio files. Handle cameras and various production equipment. Assisting with setup for printer and profiling. Assist with locked computer account.",
+                "company_level": "Mid-level",
+                "start_date": "10/2015",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Social Media Relations Intern/Teacher Assistant",
+                "work_description": "Collect and retrieve Data. Research and aggregate content for Media Literacy Week event. Social Media Community Engager. Manage Press Release and social media post schedules. Social media creative distributor. Teacher assistant to professor at CSUN in mass communications research. Maintain blog tracking and social media calendars. Software troubleshooting (Outlook, Email support). Hardware troubleshooting (Printers, Desktop units, Laptop units, cell phones and tablets). Calling business clients (Schedule meetings, document information, data collection).",
+                "company_level": "Mid-level",
+                "start_date": "07/2015",
+                "end_date": "12/2015"
+            },
+            {
+                "role_name": "Martial Arts Instructor",
+                "work_description": "Provide self defense training to students of various ages ranging from K-12 to adults. Answer incoming and outgoing phone calls. Provide customer support. Attend weekly marketing and business instructor meetings. Attend and assist with community marketing events.",
+                "company_level": "Startup",
+                "start_date": "06/2011",
+                "end_date": "01/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "California State University Northridge",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Cinema and Television Arts",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Voice acting",
+            "Improvisation acting",
+            "Plot and story building",
+            "Computer hardware and software",
+            "Music Theory"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has extensive experience in communication through roles such as social media relations, teaching assistance, and customer support, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed schedules, video and audio files, and assisted with setup for printer and profiling, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Assisted with community marketing events and attended weekly marketing and business instructor meetings, suggesting some practical experience in leadership."
+            },
+            {
+                "name": "Technical Troubleshooting",
+                "level": 3,
+                "explanation": "Handled software troubleshooting (Outlook, Email support) and hardware troubleshooting (Printers, Desktop units, Laptop units, cell phones and tablets), showing a solid working proficiency in technical troubleshooting."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Collected and retrieved data, and assisted with data collection, suggesting some practical experience in data analysis."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided customer support and answered incoming and outgoing phone calls, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Event Planning",
+                "level": 2,
+                "explanation": "Assisted with community marketing events, suggesting some practical experience in event planning."
+            },
+            {
+                "name": "Teaching",
+                "level": 2,
+                "explanation": "Taught self-defense training to students of various ages, suggesting some practical experience in teaching."
+            },
+            {
+                "name": "Social Media Management",
+                "level": 3,
+                "explanation": "Managed social media post schedules and was a social media creative distributor, showing a solid working proficiency in social media management."
+            }
+        ]
+    }
+}

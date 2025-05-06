@@ -1,0 +1,17 @@
+{
+    "resume_file": "369.json",
+    "recommendation_file": "Recommendation_From_ID_818.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the claim of $400,000 annual cost savings through VoIP implementation seems statistically improbable without further context or evidence.",
+        "verified_skills": [
+            "Leadership",
+            "Information Technology Management",
+            "Network Administration",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and IT management abilities. However, the claim of $400,000 annual cost savings through VoIP implementation raises some concerns about the accuracy of the recommendation."
+    }
+}

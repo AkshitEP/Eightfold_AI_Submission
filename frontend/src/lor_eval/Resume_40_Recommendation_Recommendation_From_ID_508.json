@@ -1,0 +1,20 @@
+{
+    "resume_file": "40.json",
+    "recommendation_file": "Recommendation_From_ID_508.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Marketing Analysis",
+            "Project Management",
+            "Social Media Management",
+            "Communication",
+            "Customer Service",
+            "Leadership",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing analysis, project management, and communication skills. The source of the recommendation is a pharmaceutical sales representative, indicating a peer-level relationship."
+    }
+}

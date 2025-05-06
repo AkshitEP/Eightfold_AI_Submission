@@ -1,0 +1,22 @@
+{
+    "resume_file": "244.json",
+    "recommendation_file": "Recommendation_From_ID_750.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Training and Development",
+            "Leadership and Management",
+            "Project Management",
+            "Communication and Presentation",
+            "Problem-Solving and Analysis",
+            "Time Management and Organization",
+            "Coaching and Mentoring",
+            "Teamwork and Collaboration",
+            "Adaptability and Flexibility"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and management abilities. The recommendation source is a peer, indicating a collaborative working relationship."
+    }
+}

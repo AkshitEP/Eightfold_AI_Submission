@@ -1,0 +1,52 @@
+{
+    "target_id": "262",
+    "recommendations": [
+        {
+            "recommender_id": "495",
+            "recommendation": {
+                "resume_file": "262.json",
+                "recommendation_file": "Recommendation_From_ID_495.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "SAP",
+                        "Leadership",
+                        "Training and Development",
+                        "Organization and Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership qualities, administrative support, and SAP expertise. The recommendation highlights the candidate's ability to manage complex tasks, maintain meticulous records, and enhance workplace procedures."
+                }
+            }
+        },
+        {
+            "recommender_id": "560",
+            "recommendation": {
+                "resume_file": "262.json",
+                "recommendation_file": "Recommendation_From_ID_560.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'cloud services' and 'Data Center footprint reduction' which are not directly related to the candidate's experience. However, the recommendation is largely credible and well-supported by the candidate's skills and experience.",
+                    "verified_skills": [
+                        "SAP",
+                        "Microsoft Excel",
+                        "Microsoft Word",
+                        "Training and Development",
+                        "Leadership",
+                        "Payroll Management",
+                        "Accounts Payable",
+                        "Employee Benefits Administration",
+                        "Communication",
+                        "Organization and Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation is generally well-aligned with the candidate's skills and experience, but some minor inconsistencies and exaggerations are present. The recommendation highlights the candidate's exceptional organizational capabilities, strong proficiency in SAP, and ability to handle confidential records, train personnel, and manage company events."
+                }
+            }
+        }
+    ]
+}

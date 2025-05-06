@@ -1,0 +1,16 @@
+{
+    "resume_file": "105.json",
+    "recommendation_file": "Recommendation_From_ID_146.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly positive language.",
+        "verified_skills": [
+            "Healthcare Management",
+            "Health Education",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's passion for patient wellness and their ability to work collaboratively, but has some minor inconsistencies and overly positive language."
+    }
+}

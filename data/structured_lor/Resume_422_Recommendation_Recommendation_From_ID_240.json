@@ -1,0 +1,18 @@
+{
+    "resume_file": "422.json",
+    "recommendation_file": "Recommendation_From_ID_240.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies between the recommendation and the resume.",
+        "verified_skills": [
+            "HRIS (Human Resource Information System)",
+            "Business Analysis",
+            "Project Management",
+            "Communication",
+            "Process Improvement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies between the recommendation and the resume."
+    }
+}

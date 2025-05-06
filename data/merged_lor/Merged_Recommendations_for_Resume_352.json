@@ -1,0 +1,85 @@
+{
+    "target_id": "352",
+    "recommendations": [
+        {
+            "recommender_id": "825",
+            "recommendation": {
+                "resume_file": "352.json",
+                "recommendation_file": "Recommendation_From_ID_825.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Information Technology",
+                        "Project Management",
+                        "Team Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, IT strategy, and team management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "429",
+            "recommendation": {
+                "resume_file": "352.json",
+                "recommendation_file": "Recommendation_From_ID_429.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be referencing a different person's experience in recruiting, which is not relevant to the candidate's skills and experience in IT. However, it does mention the candidate's role as VP of Information Technology and their background in IT operations and project management.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Information Technology"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be a mix of two different people's experiences. While it does mention the candidate's role and background in IT, it also references a recruiting role that is not relevant to the candidate's skills and experience. This inconsistency raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "757",
+            "recommendation": {
+                "resume_file": "352.json",
+                "recommendation_file": "Recommendation_From_ID_757.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat generic. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Information Technology",
+                        "Project Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills, IT experience, and ability to drive strategic changes. However, the source of the recommendation is unclear, and the language is somewhat generic. The recommendation does not provide specific examples of the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "168",
+            "recommendation": {
+                "resume_file": "352.json",
+                "recommendation_file": "Recommendation_From_ID_168.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems overly flattering and lacks specific examples from the candidate's resume. Some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Information Technology",
+                        "Project Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership experience and IT skills, but lacks concrete examples from their resume. The tone is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

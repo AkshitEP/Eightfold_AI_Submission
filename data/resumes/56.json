@@ -1,0 +1,123 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Support Specialist Network Specialist ~ PC Technician IT Consultant Customer Engineer",
+                "work_description": "Provided technical leadership for the design, deployment and operation of IT hardware and software. Built, implemented and sold numerous computer systems. Provided helpdesk support experience, Systems Analyst and strong leadership in the management of IT Systems and devices.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Customer Engineer",
+                "work_description": "Prepare directory structures and applying appropriate permissions for users on the Network Attached Storage (NAS). Send email notifications to the branch mgr, asst mgr, ROM, and area mgr's in order for them to prepare for the centralization of the branch.",
+                "company_level": "Mid-level",
+                "start_date": "12/2009",
+                "end_date": "05/2010"
+            },
+            {
+                "role_name": "Desktop Support",
+                "work_description": "Responsible for providing technical desktop support for ATT upgrade project for 7+ ATT wireless stores. Duties performed include but not limited to: Installation of Ingenico SigCap devices. Flash peripherals with the latest updates.",
+                "company_level": "Mid-level",
+                "start_date": "07/2009",
+                "end_date": "10/2009"
+            },
+            {
+                "role_name": "Network Support",
+                "work_description": "Responsible for the network support of the recruiting team while at the Radisson Hotel, Lead the deployment of 300 PC and peripherals once the main building was finish.",
+                "company_level": "Mid-level",
+                "start_date": "12/2008",
+                "end_date": "05/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2011",
+                "end_date": "Present",
+                "domain": "Information Technology",
+                "level": "Bachelor of Science"
+            },
+            {
+                "university": "Southern College",
+                "start_date": "01/2001",
+                "end_date": "Present",
+                "domain": "Paralegal Network Engineering",
+                "level": "Associate of Arts"
+            },
+            {
+                "university": "Southern Technical Institute",
+                "start_date": "01/2002",
+                "end_date": "Present",
+                "domain": "Paralegal Network Engineering",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "IT",
+                "description": "Apollo / SunTrust EIS Data Migration Project. Analyze server space and data to determine the needed space on the Network Attached Storage (NAS).",
+                "skills": [
+                    "Data Migration",
+                    "Network Attached Storage (NAS)",
+                    "Robocopy",
+                    "Remote Desktop Connection"
+                ]
+            },
+            {
+                "domain": "IT",
+                "description": "ATT Upgrade Project. Responsible for providing technical desktop support for ATT upgrade project for 7+ ATT wireless stores.",
+                "skills": [
+                    "Desktop Support",
+                    "Ingenico SigCap devices",
+                    "Flash peripherals"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Management",
+                "level": 5,
+                "explanation": "Has extensive experience in network support, deployment, and management, including leading the deployment of 300 PCs and peripherals, indicating expert-level mastery."
+            },
+            {
+                "name": "Desktop Support",
+                "level": 4,
+                "explanation": "Provided technical desktop support for multiple projects, including the ATT upgrade project for 7+ ATT wireless stores, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Provided technical leadership for the design, deployment, and operation of IT hardware and software, and led the deployment of PCs and peripherals, indicating strong leadership skills."
+            },
+            {
+                "name": "Data Migration",
+                "level": 3,
+                "explanation": "Analyzed server space and data to determine the needed space on the Network Attached Storage (NAS) for the Apollo / SunTrust EIS Data Migration Project, showing solid working proficiency."
+            },
+            {
+                "name": "Network Attached Storage (NAS)",
+                "level": 3,
+                "explanation": "Prepared directory structures and applied appropriate permissions for users on the NAS, and analyzed server space and data for the NAS, showing solid working proficiency."
+            },
+            {
+                "name": "IT Project Management",
+                "level": 4,
+                "explanation": "Managed multiple IT projects, including the Apollo / SunTrust EIS Data Migration Project and the ATT Upgrade Project, showing strong proficiency in IT project management."
+            },
+            {
+                "name": "Remote Desktop Connection",
+                "level": 2,
+                "explanation": "Used Remote Desktop Connection for the Apollo / SunTrust EIS Data Migration Project, showing some practical experience."
+            },
+            {
+                "name": "Robocopy",
+                "level": 2,
+                "explanation": "Used Robocopy for the Apollo / SunTrust EIS Data Migration Project, showing some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "target_id": "40",
+    "recommendations": [
+        {
+            "recommender_id": "770",
+            "recommendation": {
+                "resume_file": "40.json",
+                "recommendation_file": "Recommendation_From_ID_770.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's background in healthcare administration, but the resume does not explicitly state this. However, the candidate's experience in healthcare marketing and administration is evident from their job history.",
+                    "verified_skills": [
+                        "Communication",
+                        "Leadership",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing and leadership abilities. However, some minor inconsistencies and exaggerated claims are present, such as the mention of 'cultural awareness' which is not explicitly stated in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "967",
+            "recommendation": {
+                "resume_file": "40.json",
+                "recommendation_file": "Recommendation_From_ID_967.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Marketing Analysis",
+                        "Project Management",
+                        "Social Media Management",
+                        "Data Analysis",
+                        "Budgeting",
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Time Management",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing strategies, team collaboration, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "656",
+            "recommendation": {
+                "resume_file": "40.json",
+                "recommendation_file": "Recommendation_From_ID_656.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written for two individuals, but only one resume is provided. This inconsistency raises some concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Marketing Analysis",
+                        "Project Management",
+                        "Social Media Management",
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Time Management",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in healthcare marketing and administration, but it seems to be written for two individuals. The language is formal, and the recommendation provides specific examples of the candidate's abilities and accomplishments."
+                }
+            }
+        },
+        {
+            "recommender_id": "508",
+            "recommendation": {
+                "resume_file": "40.json",
+                "recommendation_file": "Recommendation_From_ID_508.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Marketing Analysis",
+                        "Project Management",
+                        "Social Media Management",
+                        "Communication",
+                        "Customer Service",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing analysis, project management, and communication skills. The source of the recommendation is a pharmaceutical sales representative, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

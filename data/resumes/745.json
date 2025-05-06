@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Manager of Golf Operations",
+                "work_description": "Spearheaded the management of daily operations necessary to maintain profitable, golf facility for a corporation. Strategically utilized strong understanding of Marketing, Event Management and Sales to drive revenue for golf operation Developed and launched integrated, multi-channel packet, catalog, web and direct marketing campaigns that propelled sales from $700K (2012) to a projected $1.2M by 2013 year-end.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2012",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Banking Officer",
+                "work_description": "Developed relationships with business-to-business clients. Used an integrated approach to create balanced programs for clients to build their respective brands and businesses using FirstBank financing.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "12/2012"
+            },
+            {
+                "role_name": "Manager",
+                "work_description": "Served as primary assistant on events for multimillion-dollar accounts and successful tournaments. Assumed a lead role in pitch team meetings due to strengths in presentation and negotiation skills, and major accounts ($500K to $1M+ initial contracts). Generated Junior Golf revenue of between 6% and 8%.",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "12/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Colorado",
+                "start_date": "01/2006",
+                "end_date": "12/2010",
+                "domain": "Business Management Marketing",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Marketing",
+                "level": 5,
+                "explanation": "Developed and launched successful multi-channel marketing campaigns that significantly increased sales, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Event Management",
+                "level": 4,
+                "explanation": "Spearheaded the management of daily golf operations and successfully led events for multimillion-dollar accounts, showing strong proficiency."
+            },
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Utilized sales skills to drive revenue for golf operations and generated significant revenue growth, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Assumed a lead role in pitch team meetings and successfully managed teams, demonstrating strong leadership skills."
+            },
+            {
+                "name": "Negotiation",
+                "level": 4,
+                "explanation": "Utilized negotiation skills to secure major accounts and successfully led pitch team meetings, showing strong proficiency."
+            },
+            {
+                "name": "Presentation",
+                "level": 4,
+                "explanation": "Demonstrated strengths in presentation skills, leading to a lead role in pitch team meetings and successful events."
+            },
+            {
+                "name": "Business Management",
+                "level": 3,
+                "explanation": "Managed daily golf operations and developed relationships with business-to-business clients, showing a solid working proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 2,
+                "explanation": "Managed golf operations to maintain profitability, but details of financial management are limited, indicating some practical experience."
+            }
+        ]
+    }
+}

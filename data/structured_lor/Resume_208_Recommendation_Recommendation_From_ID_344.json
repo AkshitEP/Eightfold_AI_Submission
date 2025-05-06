@@ -1,0 +1,18 @@
+{
+    "resume_file": "208.json",
+    "recommendation_file": "Recommendation_From_ID_344.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of a Group Fitness Instructor award, which is not mentioned in the resume. However, the overall tone and content of the recommendation seem genuine.",
+        "verified_skills": [
+            "Personal Training",
+            "Fitness Management",
+            "Leadership",
+            "Communication",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in personal training, fitness management, and leadership, which aligns with their resume. However, some minor inconsistencies and lack of specific examples reduce the relevance score."
+    }
+}

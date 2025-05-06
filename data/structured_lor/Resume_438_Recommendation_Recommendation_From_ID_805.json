@@ -1,0 +1,18 @@
+{
+    "resume_file": "438.json",
+    "recommendation_file": "Recommendation_From_ID_805.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of a 17% increase in sales and managing a diverse staff of over 30 employees seems unrelated to the air freight agent's role and skills.",
+        "verified_skills": [
+            "Logistics Management",
+            "Shipping Documentation",
+            "Problem Resolution",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the air freight agent's exceptional customer service skills, attention to detail, and commitment to safety, which aligns well with their skills and experience. However, some claims seem exaggerated or unrelated to the agent's role, reducing the relevance score and increasing the fraud chance level."
+    }
+}

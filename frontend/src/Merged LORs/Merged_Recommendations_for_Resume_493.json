@@ -1,0 +1,160 @@
+{
+    "target_id": "493",
+    "recommendations": [
+        {
+            "recommender_id": "427",
+            "recommendation": {
+                "resume_file": "493.json",
+                "recommendation_file": "Recommendation_From_ID_427.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Aviation Management",
+                        "Aircraft Appraisal",
+                        "Safety Inspections",
+                        "Project Management",
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in aircraft sales and aviation management, highlighting their leadership and analytical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "931",
+            "recommendation": {
+                "resume_file": "493.json",
+                "recommendation_file": "Recommendation_From_ID_931.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication",
+                        "Project Management",
+                        "Time Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "474",
+            "recommendation": {
+                "resume_file": "493.json",
+                "recommendation_file": "Recommendation_From_ID_474.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat generic.",
+                    "verified_skills": [
+                        "Aviation Management",
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but may be somewhat exaggerated in places."
+                }
+            }
+        },
+        {
+            "recommender_id": "100",
+            "recommendation": {
+                "resume_file": "493.json",
+                "recommendation_file": "Recommendation_From_ID_100.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. However, the recommendation does align with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Team Management",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, project management, and team management skills, which are consistent with their resume. However, the recommendation lacks specific examples and seems overly flattering, which raises some concerns about its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "926",
+            "recommendation": {
+                "resume_file": "493.json",
+                "recommendation_file": "Recommendation_From_ID_926.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Aviation Management",
+                        "Aircraft Appraisal",
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their expertise in aircraft sales and aviation management. However, it does not cover all key areas of expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "556",
+            "recommendation": {
+                "resume_file": "493.json",
+                "recommendation_file": "Recommendation_From_ID_556.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly flattering tone, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Aviation Management",
+                        "Aircraft Appraisal",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies and exaggeration are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "873",
+            "recommendation": {
+                "resume_file": "493.json",
+                "recommendation_file": "Recommendation_From_ID_873.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Aviation Management",
+                        "Research",
+                        "Compliance with FAA standards",
+                        "Leadership",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in aviation management, but does not directly mention some of their other skills."
+                }
+            }
+        }
+    ]
+}

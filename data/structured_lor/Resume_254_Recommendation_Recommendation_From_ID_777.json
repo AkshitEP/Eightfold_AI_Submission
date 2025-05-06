@@ -1,0 +1,16 @@
+{
+    "resume_file": "254.json",
+    "recommendation_file": "Recommendation_From_ID_777.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. The language is formal, but some claims seem slightly exaggerated.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Teamwork"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's interpersonal skills, organization, and passion for helping others, which aligns with their experience as a summer camp counselor and sales associate. However, the recommendation could benefit from more specific examples from the candidate's work experience."
+    }
+}

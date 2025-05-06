@@ -1,0 +1,16 @@
+{
+    "resume_file": "909.json",
+    "recommendation_file": "Recommendation_From_ID_327.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in IT and Cyber Network Defense seems unrelated to the candidate's accounting experience. However, the recommendation highlights the candidate's skills in finance, accounting, and communication, which are relevant to their resume.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in accounting, but the recommender's background seems unrelated. The recommendation highlights the candidate's analytical skills, attention to detail, and ability to communicate complex financial information effectively."
+    }
+}

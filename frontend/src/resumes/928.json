@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Manages application database/hardware systems used to track Chapter 13 bankruptcy cases, all office technologies, information systems, and anti-spam/anti-virus servers. Evaluates, recommends, implements, supports, and troubleshoots hardware and software. Maintains LAN/WAN infrastructure, connectivity, and security as well as LAN user documentation. Performs disaster recovery planning. Administers licenses and service contracts; schedules service visits from vendors and suppliers. Defines, documents, assesses, and updates IT-related procedures as needed. Creates and maintains user accounts, including email. Inspects all employees' computers quarterly to ensure compliance of configuration and settings with office policies. Coordinates special projects. Designed and implemented network infrastructure enhancements to improve performance, security, remote access, and connectivity. Standardized hardware, peripherals, and software. Established a helpdesk support system for monitoring, prioritizing, and scheduling requests. Spearheaded the deployment of a new tracking system that provided performance metrics used to identify where additional training and resources were required. Researched, installed, and configured an enterprise backup solution for disaster recovery that included features to allow users to recover deleted items without the need to recover from DR backups. Doubled WAN bandwidth and propelled LAN and WLAN performance to 100% or higher through WAN, LAN, and WLAN reconfiguration. Improved accuracy, more than doubled efficiency from 35% to 87%, and increased cost savings from $250/quarter to $2,500/quarter by developing an automated script for retrieving data from an outside server. Automated asset tracking by employing a hand scanner and database system to improve efficiency and accuracy.",
+                "company_level": "Mid-level",
+                "start_date": "04/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Network Analyst",
+                "work_description": "Fueled a 1,000% improvement in LAN performance by replacing the existing network, which entailed changing software and LAN cabling for 20 existing switches, including reconfiguring the core switch with remote wiring closets with multiple stack units. Led a team of five network and equipment support specialists. Configured, maintained, analyzed, and troubleshot Nortel and Juniper networks, systems, and equipment (WAN/LAN/WLAN infrastructure, servers, PCs, notebooks, thin clients, printers, and other peripherals) used by 600 workers in Georgia. Supported 200 units configured for operation through client servers. Advanced global company objectives through participation in IT and telecom design and implementation. Advanced to this role through promotions from Mechanical Drafter, Engineering Checker, Mechanical Designer, and Network Administrator. Slashed support requests 75%, cut equipment costs 50%, and boosted work productivity 30% by applying near-zero configuration to develop, install, and implement a thin client solution for 90 plant manufacturing cells. Reduced standard company imaging and system deployment time 60% before station-specific customization by replacing and/or refreshing 40 PCs each quarter, 100% on schedule. Planned, designed, installed, configured, and tested wireless networks (WLAN from Cisco, Nortel, and Meraki) in multiple facilities; documented standards for US operations; trained users; and monitored performance. Replaced 125 field and service laptops by programming standard images and custom configurations on each machine, completing the six-week project on schedule despite disruption of parts availability due to a tsunami. Championed the use of computers in manufacturing cells to provide drawings and also facilitate order tracking in conjunction with the ERP system; designed and implemented automated pick list and shipping documents as well as real-time tracking for distribution. Trained and mentored 15 new department staff members and contractors.",
+                "company_level": "Large Corporation",
+                "start_date": "08/1987",
+                "end_date": "06/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Walden University",
+                "start_date": "01/2013",
+                "end_date": "12/2015",
+                "domain": "Leadership",
+                "level": "Master of Science"
+            },
+            {
+                "university": "Walden University",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Information Systems Management Project Management",
+                "level": "Master of Science"
+            },
+            {
+                "university": "Walden University",
+                "start_date": "01/2000",
+                "end_date": "12/2000",
+                "domain": "Information Systems Management Mechanical Engineering",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Has extensive experience in managing and maintaining LAN/WAN infrastructure, including designing and implementing network enhancements, and troubleshooting hardware and software issues, indicating expert-level mastery."
+            },
+            {
+                "name": "IT Project Management",
+                "level": 5,
+                "explanation": "Successfully led and implemented several IT projects, including the deployment of a new tracking system, a helpdesk support system, and a disaster recovery solution, demonstrating expert-level proficiency in IT project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience leading teams, including a team of five network and equipment support specialists, and mentoring new staff members, indicating strong leadership skills."
+            },
+            {
+                "name": "Database Administration",
+                "level": 4,
+                "explanation": "Has experience designing and implementing database systems, including an automated asset tracking system, and configuring and maintaining application databases, indicating strong proficiency in database administration."
+            },
+            {
+                "name": "Disaster Recovery",
+                "level": 4,
+                "explanation": "Has experience designing and implementing disaster recovery solutions, including an enterprise backup solution, indicating strong proficiency in disaster recovery."
+            },
+            {
+                "name": "Network Security",
+                "level": 4,
+                "explanation": "Has experience maintaining LAN/WAN infrastructure security, including configuring firewalls and implementing anti-spam/anti-virus solutions, indicating strong proficiency in network security."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Has experience troubleshooting hardware and software issues, including network and system issues, indicating strong proficiency in troubleshooting."
+            },
+            {
+                "name": "Scripting",
+                "level": 3,
+                "explanation": "Has experience developing automated scripts for retrieving data and automating tasks, indicating solid working proficiency in scripting."
+            },
+            {
+                "name": "Cloud Computing",
+                "level": 2,
+                "explanation": "Has experience with cloud-based solutions, including Meraki wireless networks, indicating some practical experience with cloud computing."
+            },
+            {
+                "name": "ERP Systems",
+                "level": 2,
+                "explanation": "Has experience with ERP systems, including designing and implementing automated pick lists and shipping documents, indicating some practical experience with ERP systems."
+            }
+        ]
+    }
+}

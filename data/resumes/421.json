@@ -1,0 +1,122 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Supervisor",
+                "work_description": "Supervise up to 10 personnel at one time, delegating tasks, conducting performance evaluations and providing corrective counseling as necessary. Train personnel in the set-up and proper use of IT related equipment while adhering to all policies and procedures. Responsible for the inventory of over $1 million worth of network communications equipment.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Information Technology Technician",
+                "work_description": "Maintained communications equipment in order to effectively relay confidential and secret information. Utilized electronic test equipment to troubleshoot malfunctioning communications equipment and complete repairs as necessary. Regularly set up and added computer systems to a communication network, installing operation systems, accessing stored programs and utilizing IP addresses.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Radiology Technologist",
+                "work_description": "Routinely performed radiological examinations in a medical clinic. Competent and experienced in the set-up and adjustment of medical devices or equipment. Regularly provided customer assistance, ensuring all patients received timely and accurate care. Accountable for the accurate documentation via electronic database and file system ensuring all confidentiality was maintained.",
+                "company_level": "Mid-level",
+                "start_date": "05/2008",
+                "end_date": "09/2008"
+            },
+            {
+                "role_name": "Command Post Controller",
+                "work_description": "Provided command, control, communications, and information support throughout operations during peacetime, emergency, and disaster situations. Received and relayed instructions and records, submitting manual and automated data products. Disseminated time-sensitive critical information to senior leaders and support agencies.",
+                "company_level": "Mid-level",
+                "start_date": "10/2001",
+                "end_date": "10/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northwest Florida State College",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Radiography",
+                "level": "Associate of Science"
+            },
+            {
+                "university": "U.S. Army",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Information Technology (Network Communications)",
+                "level": "Certificate"
+            },
+            {
+                "university": "IT Field Services Branch",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "IT Network and Cisco Routing",
+                "level": "Certificate"
+            },
+            {
+                "university": "IT Tech Prep, Trumbull Career and Technical Center",
+                "start_date": "01/2001",
+                "end_date": "12/2001",
+                "domain": "",
+                "level": "Certificate"
+            },
+            {
+                "university": "Warren G. Harding",
+                "start_date": "01/2001",
+                "end_date": "12/2001",
+                "domain": "",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised up to 10 personnel, conducted performance evaluations, and provided corrective counseling, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "IT Project Management",
+                "level": 4,
+                "explanation": "Managed inventory of over $1 million worth of network communications equipment and trained personnel in IT-related equipment, showing strong proficiency in IT project management."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Maintained communications equipment, utilized electronic test equipment to troubleshoot malfunctioning equipment, and set up computer systems to a communication network, indicating strong proficiency in network administration."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Utilized electronic test equipment to troubleshoot malfunctioning communications equipment, suggesting strong proficiency in troubleshooting."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Provided command, control, communications, and information support throughout operations, and disseminated time-sensitive critical information to senior leaders and support agencies, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Radiology",
+                "level": 3,
+                "explanation": "Routinely performed radiological examinations and set up medical devices or equipment, showing solid working proficiency in radiology."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided customer assistance, ensuring all patients received timely and accurate care, indicating solid working proficiency in customer service."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Accurately documented patient information via electronic database and file system, showing solid working proficiency in data entry."
+            },
+            {
+                "name": "Cisco Routing",
+                "level": 3,
+                "explanation": "Received certificate in IT Network and Cisco Routing, indicating solid working proficiency in Cisco routing."
+            }
+        ]
+    }
+}

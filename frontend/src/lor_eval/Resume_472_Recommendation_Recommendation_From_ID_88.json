@@ -1,0 +1,12 @@
+{
+    "resume_file": "472.json",
+    "recommendation_file": "Recommendation_From_ID_88.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration, improper language, or contradictory data. The recommendation mentions a Night Service Representative role, which is not mentioned in the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The language used is informal and does not match the tone of a formal recommendation."
+    }
+}

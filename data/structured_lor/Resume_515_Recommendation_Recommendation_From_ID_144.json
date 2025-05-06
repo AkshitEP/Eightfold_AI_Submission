@@ -1,0 +1,17 @@
+{
+    "resume_file": "515.json",
+    "recommendation_file": "Recommendation_From_ID_144.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions skills and experiences from the resume, but the source of the recommendation seems unrelated to the candidate's job history. The language is formal, but some claims seem exaggerated.",
+        "verified_skills": [
+            "Customer Service",
+            "Data Entry",
+            "Record Keeping",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's customer service skills, attention to detail, and organizational abilities, which align with their job history and skills. However, the source of the recommendation is unclear, and some claims seem exaggerated, such as the impact on the company's reputation and overall performance."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "168.json",
+    "recommendation_file": "Recommendation_From_ID_154.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's job history and education. However, the language is formal and no statistically improbable claims are detected.",
+        "verified_skills": [
+            "Leadership",
+            "Financial Analysis",
+            "Accounting",
+            "Financial Planning",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in accounting, human resources, and leadership, which aligns with their job history and education. However, some minor inconsistencies and lack of specific examples reduce the relevance score."
+    }
+}

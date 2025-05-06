@@ -1,0 +1,87 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance",
+                "work_description": "Proposed and achieved cost savings by reducing expenses on the company. Forecasted operating costs for scheduled projects by strategizing with other departments. Analyzed budgets, financial reports and projections for accurate reporting of financial standing. Worked with management at the project level to ensure expense plans are achieved. Worked with managers to develop annual expense plan goals. Collected and reported monthly expense variances and explanations. Performed periodic budgeting/modeling to project monthly cash requirements. Calculated commissions for sales stores. Responsible for petty cash and bank transactions.",
+                "company_level": "Mid-level",
+                "start_date": "07/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Junior Auditor",
+                "work_description": "Analyzed and reviewed cost reports and communicated final results to clients. Reported internal control issues to management and supplied comprehensive recommendations to mitigate the associated risks. Gathered data for internal audits through interviews, financial research and downloads. Articulated audit findings, risks and detailed recommendations to upper management. Met with clients to identify and assess business controls, risks, process gaps and work flow inefficiencies.",
+                "company_level": "Mid-level",
+                "start_date": "02/2012",
+                "end_date": "06/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Kwik Kian Gie School of Business",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Accounting",
+                "level": "S.E"
+            },
+            {
+                "university": "Don Bosco 2 Senior High School",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Boxing",
+            "Yoga",
+            "Jogging",
+            "Travelling"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Has extensive experience analyzing budgets, financial reports, and projections, as well as performing periodic budgeting/modeling to project monthly cash requirements, indicating strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Worked with management to develop annual expense plan goals, collected and reported monthly expense variances, and performed periodic budgeting/modeling, showing strong proficiency."
+            },
+            {
+                "name": "Cost Control",
+                "level": 4,
+                "explanation": "Proposed and achieved cost savings by reducing expenses on the company, and worked with management to ensure expense plans are achieved, indicating strong proficiency."
+            },
+            {
+                "name": "Auditing",
+                "level": 3,
+                "explanation": "Analyzed and reviewed cost reports, reported internal control issues to management, and supplied comprehensive recommendations to mitigate associated risks, showing solid working proficiency."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 3,
+                "explanation": "Analyzed budgets, financial reports, and projections for accurate reporting of financial standing, indicating solid working proficiency."
+            },
+            {
+                "name": "Risk Management",
+                "level": 2,
+                "explanation": "Reported internal control issues to management and supplied comprehensive recommendations to mitigate associated risks, showing some practical experience."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Communicated final results to clients, articulated audit findings to upper management, and met with clients to identify business controls and risks, showing solid working proficiency."
+            },
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Collected and reported monthly expense variances, calculated commissions for sales stores, and worked with petty cash and bank transactions, indicating strong proficiency."
+            }
+        ]
+    }
+}

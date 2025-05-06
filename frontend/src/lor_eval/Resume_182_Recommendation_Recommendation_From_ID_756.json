@@ -1,0 +1,17 @@
+{
+    "resume_file": "182.json",
+    "recommendation_file": "Recommendation_From_ID_756.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in job roles and responsibilities, but overall the recommendation seems credible.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Systems Integration",
+            "IT Infrastructure"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and project management skills, but does not directly reference their technical skills in network communications, local area networks, and visual information systems. However, it does mention their experience in overseeing large-scale telecommunications and information technology projects, which aligns with their resume."
+    }
+}

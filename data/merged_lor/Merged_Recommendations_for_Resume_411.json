@@ -1,0 +1,26 @@
+{
+    "target_id": "411",
+    "recommendations": [
+        {
+            "recommender_id": "212",
+            "recommendation": {
+                "resume_file": "411.json",
+                "recommendation_file": "Recommendation_From_ID_212.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operational Management",
+                        "Financial Management",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operational management, and financial management abilities. The recommendation also highlights the candidate's strong communication and team management skills."
+                }
+            }
+        }
+    ]
+}

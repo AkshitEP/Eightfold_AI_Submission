@@ -1,0 +1,16 @@
+{
+    "resume_file": "842.json",
+    "recommendation_file": "Recommendation_From_ID_291.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims, informal language, and exaggerated statements. The mention of intergalactic trade, extraterrestrial diplomacy, and alien civilizations is unrealistic and not supported by the resume.",
+        "verified_skills": [
+            "Procurement",
+            "Negotiation",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is overly exaggerated and contains unrealistic claims, making it difficult to assess the candidate's actual skills and experience. The use of informal language and science fiction terminology raises concerns about the authenticity of the recommendation."
+    }
+}

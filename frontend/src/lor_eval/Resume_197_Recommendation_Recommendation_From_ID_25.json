@@ -1,0 +1,15 @@
+{
+    "resume_file": "197.json",
+    "recommendation_file": "Recommendation_From_ID_25.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation seems to be describing two different individuals, but the resume only mentions one person. Additionally, some skills mentioned in the recommendation are not present in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Business Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and business development skills, but it seems to be describing two different individuals. The recommendation also mentions skills that are not present in the resume, such as 'team-building capabilities' and 'motivational skills'."
+    }
+}

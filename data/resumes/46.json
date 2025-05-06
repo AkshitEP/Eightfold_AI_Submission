@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "General Accountant",
+                "work_description": "Preparation of Financial and accounting reports and their presentation to the Financial Manager. Prepare reports weekly and monthly for revenues and expense. Prepare journal entries. Complete general ledger operations. Account/bank reconciliations. Review and process expense reports. Assist with preparation and coordination of the audit process.",
+                "company_level": "Mid-level",
+                "start_date": "08/2010",
+                "end_date": "09/2011"
+            },
+            {
+                "role_name": "General Accountant",
+                "work_description": "Preparation of Financial and accounting reports and their presentation to the Financial Manager. Prepare reports weekly and monthly for revenues and expense. Prepare journal entries. Complete general ledger operations. Account/bank reconciliations. Review and process expense reports. Assist with preparation and coordination of the audit process.",
+                "company_level": "Mid-level",
+                "start_date": "10/2011",
+                "end_date": "02/2013"
+            },
+            {
+                "role_name": "Customer Service",
+                "work_description": "Dealing directly with customers either by telephone, electronically or face to face. Respond promptly to customer inquiries. Handle and resolve customer complaints. Provide pricing and delivery information. Set up new customer accounts. Process orders, forms, applications and requests. Organize workflow to meet customer timeframes. Manage customers' accounts. Keep records of customer interactions and transactions. Record details of inquiries, comments and complaints. Record details of actions taken. Maintain customer databases.",
+                "company_level": "Mid-level",
+                "start_date": "03/2013",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "General Accountant",
+                "work_description": "Completion of opening customer account using National bank of Egypt system. Checking requests for opening an account and make sure it's compatible with the Egyptian standards for opening an account. Serving 50 branches per day and complete nearly 500 accounts per day.",
+                "company_level": "Mid-level",
+                "start_date": "06/2014",
+                "end_date": "10/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "Alexandria University",
+                "start_date": "01/2010",
+                "end_date": "05/2010",
+                "domain": "Accounting",
+                "level": "Trained as Accountant"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Has extensive experience in general accounting, including preparation of financial reports, journal entries, general ledger operations, and account/bank reconciliations, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Prepared financial reports weekly and monthly for revenues and expenses, showing strong proficiency in financial reporting."
+            },
+            {
+                "name": "Account Reconciliation",
+                "level": 4,
+                "explanation": "Completed account/bank reconciliations regularly, suggesting strong proficiency in account reconciliation."
+            },
+            {
+                "name": "Audit Process",
+                "level": 3,
+                "explanation": "Assisted with preparation and coordination of the audit process, showing a solid working proficiency in audit processes."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Worked in a customer-facing role, handling customer inquiries, complaints, and transactions, indicating a solid working proficiency in customer service."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Managed to complete nearly 500 accounts per day, serving 50 branches, showing strong proficiency in time management."
+            },
+            {
+                "name": "Data Entry",
+                "level": 4,
+                "explanation": "Entered customer account information and completed general ledger operations, suggesting strong proficiency in data entry."
+            },
+            {
+                "name": "Banking Systems",
+                "level": 3,
+                "explanation": "Used the National Bank of Egypt system to complete customer accounts, showing a solid working proficiency in banking systems."
+            }
+        ]
+    }
+}

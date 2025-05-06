@@ -1,0 +1,87 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Manager/Business Partner",
+                "work_description": "Point of contact for multiple business groups of 400+ employees including various support groups Finance, Legal, IT, etc.) and other business units such as Manufacturing, Marketing, and Service. Strategic Business Partner \u2013 Partnered with Vice Presidents, Directors, and other management on workforce planning, talent management, change management, and building organizational capability.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2000",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Senior Human Resources Generalist",
+                "work_description": "Point of contact for client group of 400+ employees in a fast paced, high volume-manufacturing environment. Strategic business partner with Vice President, Directors, and other management.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1997",
+                "end_date": "01/2000"
+            },
+            {
+                "role_name": "Associate Human Resources Representative",
+                "work_description": "Administered company benefit programs for 800 employees including Flexible Benefits, 401(k), and COBRA; maintained vendor relations; prepared monthly insurance billings.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1992",
+                "end_date": "01/1997"
+            }
+        ],
+        "education": [
+            {
+                "university": "California State University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Talent Management",
+                "level": 4,
+                "explanation": "Partnered with Vice Presidents, Directors, and other management on workforce planning, talent management, and building organizational capability, indicating strong proficiency."
+            },
+            {
+                "name": "Change Management",
+                "level": 4,
+                "explanation": "Partnered with Vice Presidents, Directors, and other management on change management, indicating strong proficiency."
+            },
+            {
+                "name": "Workforce Planning",
+                "level": 4,
+                "explanation": "Partnered with Vice Presidents, Directors, and other management on workforce planning, indicating strong proficiency."
+            },
+            {
+                "name": "Organizational Development",
+                "level": 4,
+                "explanation": "Partnered with Vice Presidents, Directors, and other management on building organizational capability, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Point of contact for multiple business groups and strategic business partner with Vice Presidents, Directors, and other management, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Point of contact for multiple business groups and strategic business partner with Vice Presidents, Directors, and other management, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Employee Benefits Administration",
+                "level": 3,
+                "explanation": "Administered company benefit programs for 800 employees, including Flexible Benefits, 401(k), and COBRA, showing solid working proficiency."
+            },
+            {
+                "name": "Vendor Relations",
+                "level": 3,
+                "explanation": "Maintained vendor relations, showing solid working proficiency."
+            },
+            {
+                "name": "HR Operations",
+                "level": 3,
+                "explanation": "Maintained monthly insurance billings and other HR operations, showing solid working proficiency."
+            }
+        ]
+    }
+}

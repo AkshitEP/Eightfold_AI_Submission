@@ -1,0 +1,46 @@
+{
+    "target_id": "824",
+    "recommendations": [
+        {
+            "recommender_id": "601",
+            "recommendation": {
+                "resume_file": "824.json",
+                "recommendation_file": "Recommendation_From_ID_601.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies between the recommendation and the resume, but no major red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "HR Functions",
+                        "Employee Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but some minor inconsistencies raise concerns about accuracy. The recommendation verifies several skills mentioned in the resume, but the source of the recommendation is unknown."
+                }
+            }
+        },
+        {
+            "recommender_id": "536",
+            "recommendation": {
+                "resume_file": "824.json",
+                "recommendation_file": "Recommendation_From_ID_536.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "Employee Training and Development",
+                        "Policy Development and Interpretation",
+                        "Administrative Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and accomplishments. The source of the recommendation appears to be a colleague or peer, likely an HR Benefits/Leave Coordinator, who has worked closely with the candidate."
+                }
+            }
+        }
+    ]
+}

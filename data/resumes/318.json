@@ -1,0 +1,127 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Responsible for all AP/AR functions, monthly bank reconciliations, and financial reporting including cash management and forecasting. Manage company payroll and administer employee benefits. Collaborate with Project Managers on budgets/actuals for project-level metrics. Responsible for year-end reporting in collaboration with CPA.",
+                "company_level": "Small",
+                "start_date": "03/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Project Manager",
+                "work_description": "Developed project proposals, estimates and timelines for a full suite of branding, marketing, messaging, and design services for both print and web. Performed press-checks and reviewed proofs to ensure quality color reproduction. Reviewed all work for typographical, grammar, spelling, and layout errors. Sought competitive bids for print and negotiated rates with vendors. Identified, developed and evaluated marketing strategies based on knowledge of client objectives and market trends. Collaborated with marketing and communications teams on standardization, design and production of marketing materials. Analyzed performance of all marketing programs to identify the best opportunities for optimization. Promoted brand awareness through SEO/SEM campaigns and attractive web design.",
+                "company_level": "Small",
+                "start_date": "06/2014",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Bookkeeper",
+                "work_description": "Processed bank reconciliations and financial reports to verify practice of proper due diligence. Maintained accounts receivable documentation electronically and on paper. Researched and resolved collections and billing disputes.",
+                "company_level": "Small",
+                "start_date": "04/2014",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Operations Manager",
+                "work_description": "Reconciled 11 corporate bank accounts retroactively to establish Quickbooks as a reliable and accurate representation of financial position. Streamlined and executed all Human Resources processes including benefits implementation and administration, recruiting, payroll. Produced seasonal promotional materials, from copy to design, leading to increased customer engagement and revenue. Coordinated and collaborated with advertising operations team on weekly email marketing communications; updated website regularly to feature new deals and discounts as per vendor advertising contracts. Coordinated all social, professional, and team-building events.",
+                "company_level": "Small",
+                "start_date": "11/2011",
+                "end_date": "04/2014"
+            },
+            {
+                "role_name": "Service Administrator",
+                "work_description": "Served as liaison between clients and in-house service technicians regarding repairs, orders, and technical inquiries. Offered production support to clients to ensure camera packages were complete and ready for shoots. Staged and photographed high-end camera packages for sale on company website. Coordinated special events and orchestrated training classes on specialized camera systems for clients.",
+                "company_level": "Small",
+                "start_date": "01/2008",
+                "end_date": "06/2011"
+            },
+            {
+                "role_name": "Office Manager",
+                "work_description": "Provided customer service and managed daily office operations of this design company focused on custom graphics- based fashion and home accessories. Developed long-term relationships with vendors and clients to help grow the overall business. Processed orders for multiple sales outlets including retail website, wholesale showrooms, department stores and boutiques. Maintained product inventory and supply management.",
+                "company_level": "Small",
+                "start_date": "10/2006",
+                "end_date": "12/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Washington Improv Theater",
+                "start_date": "Present",
+                "end_date": "Present",
+                "domain": "Long-Form Improv",
+                "level": "Level 4 Student"
+            },
+            {
+                "university": "Columbia College Chicago",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Audio Arts & Acoustics",
+                "level": "Bachelor of Arts"
+            },
+            {
+                "university": "University of Illinois",
+                "start_date": "01/1999",
+                "end_date": "12/1999",
+                "domain": "Human Development & Family Studies",
+                "level": "General Studies"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 5,
+                "explanation": "Has extensive experience handling monthly bank reconciliations, financial reporting, and cash management, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Has experience with all aspects of accounting, including AP/AR functions, payroll, and financial reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Has experience managing company payroll and administering employee benefits, suggesting strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Has experience collaborating with Project Managers on budgets and actuals for project-level metrics, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience developing project proposals, estimates, and timelines, as well as managing marketing strategies, suggesting strong proficiency."
+            },
+            {
+                "name": "Marketing",
+                "level": 4,
+                "explanation": "Has experience identifying, developing, and evaluating marketing strategies, as well as promoting brand awareness through SEO/SEM campaigns, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience managing teams and coordinating events, suggesting strong proficiency."
+            },
+            {
+                "name": "Operations Management",
+                "level": 4,
+                "explanation": "Has experience streamlining and executing HR processes, including benefits implementation and administration, recruiting, and payroll, suggesting strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience providing customer service and managing daily office operations, suggesting solid working proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Has experience maintaining product inventory and supply management, suggesting solid working proficiency."
+            }
+        ]
+    }
+}

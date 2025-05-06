@@ -1,0 +1,53 @@
+{
+    "target_id": "820",
+    "recommendations": [
+        {
+            "recommender_id": "802",
+            "recommendation": {
+                "resume_file": "820.json",
+                "recommendation_file": "Recommendation_From_ID_802.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Project Accounting",
+                        "Sarbanes Oxley Compliance",
+                        "Budgeting and Forecasting",
+                        "Account Reconciliations",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "30",
+            "recommendation": {
+                "resume_file": "820.json",
+                "recommendation_file": "Recommendation_From_ID_30.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Project Accounting",
+                        "Budgeting and Forecasting",
+                        "Financial Analysis",
+                        "Microsoft Excel",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting, project accounting, and analytical skills. The recommendation also highlights the candidate's ability to work in high-stakes environments and manage complex financial operations."
+                }
+            }
+        }
+    ]
+}

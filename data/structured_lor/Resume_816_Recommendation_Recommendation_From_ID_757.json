@@ -1,0 +1,17 @@
+{
+    "resume_file": "816.json",
+    "recommendation_file": "Recommendation_From_ID_757.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the recommender's role as a Pest Control Technician may not be directly related to the candidate's work in quality assurance.",
+        "verified_skills": [
+            "Quality Assurance",
+            "Leadership",
+            "Problem-Solving",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional skills in quality assurance, leadership, and problem-solving, but the recommender's role and relationship to the candidate are unclear."
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "target_id": "643",
+    "recommendations": [
+        {
+            "recommender_id": "317",
+            "recommendation": {
+                "resume_file": "643.json",
+                "recommendation_file": "Recommendation_From_ID_317.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions the Corporate Controller's experience, which is not relevant to the candidate's resume. The language is formal, but the comparison with the Corporate Controller seems unnecessary.",
+                    "verified_skills": [
+                        "Market Analysis",
+                        "Client Relations",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's operational skills and exposure to global business cultures, but it also mentions the Corporate Controller's experience, which is not relevant to the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "278",
+            "recommendation": {
+                "resume_file": "643.json",
+                "recommendation_file": "Recommendation_From_ID_278.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of a $1.2 billion M&A deal seems impressive but lacks concrete details or evidence from the resume.",
+                    "verified_skills": [
+                        "Asset Analysis",
+                        "Market Analysis",
+                        "Client Relations",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills and experiences in investment banking and sales and trading, but some claims seem exaggerated or lack concrete evidence. The recommendation is generally credible but could benefit from more specific examples and details."
+                }
+            }
+        },
+        {
+            "recommender_id": "807",
+            "recommendation": {
+                "resume_file": "643.json",
+                "recommendation_file": "Recommendation_From_ID_807.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. The recommender's background in management consulting and investment banking is not directly related to the candidate's experience.",
+                    "verified_skills": [
+                        "Asset Analysis",
+                        "Sales and Trading",
+                        "Client Relations",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in sales and trading, asset analysis, and client relations. However, the recommender's background and experience are not directly related to the candidate's, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "332",
+            "recommendation": {
+                "resume_file": "643.json",
+                "recommendation_file": "Recommendation_From_ID_332.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Asset Analysis",
+                        "Market Analysis",
+                        "Client Relations",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in finance and trading. However, the recommender's relationship with the candidate is unclear, and some claims seem slightly exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "944",
+            "recommendation": {
+                "resume_file": "643.json",
+                "recommendation_file": "Recommendation_From_ID_944.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions skills not directly mentioned in the resume, such as financial modeling and M&A opportunities.",
+                    "verified_skills": [
+                        "Asset Analysis",
+                        "Client Relations",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's analytical and presentation skills, which are not directly mentioned in the resume. However, it does align with the candidate's experience in asset analysis, client relations, and communication. The recommendation also mentions the candidate's potential to work well with others, which is supported by their experience in team-based extracurricular activities."
+                }
+            }
+        },
+        {
+            "recommender_id": "23",
+            "recommendation": {
+                "resume_file": "643.json",
+                "recommendation_file": "Recommendation_From_ID_23.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Asset Analysis",
+                        "Market Analysis",
+                        "Sales and Trading",
+                        "Client Relations",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, business acumen, and interpersonal skills. However, the recommender's role as Assistant Vice President and the candidate's role as Sales & Trading Intern seem inconsistent with the provided job history, which lists the candidate as a Sales & Trading Intern with no mention of an Assistant Vice President role."
+                }
+            }
+        }
+    ]
+}

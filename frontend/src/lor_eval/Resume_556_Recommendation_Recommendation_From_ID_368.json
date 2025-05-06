@@ -1,0 +1,20 @@
+{
+    "resume_file": "556.json",
+    "recommendation_file": "Recommendation_From_ID_368.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in Digital Marketing and Communications seems unrelated to the candidate's experience in sales and fitness. However, the recommender's praise for the candidate's interpersonal skills and team player mentality aligns well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Time Management",
+            "Communication",
+            "Leadership",
+            "Teamwork",
+            "Customer Service",
+            "Fitness Instruction",
+            "Personal Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strong interpersonal skills, team player mentality, and passion for helping others, which aligns well with their experience in sales and fitness. However, the recommender's background seems unrelated to the candidate's experience, which raises some concerns about the recommendation's credibility."
+    }
+}

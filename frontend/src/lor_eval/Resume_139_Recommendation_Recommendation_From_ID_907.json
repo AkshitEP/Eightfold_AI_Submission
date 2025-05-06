@@ -1,0 +1,18 @@
+{
+    "resume_file": "139.json",
+    "recommendation_file": "Recommendation_From_ID_907.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. The source of the recommendation is unclear.",
+        "verified_skills": [
+            "HR Consulting",
+            "Compliance Management",
+            "HR Support",
+            "Policy Implementation",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's HR expertise and interpersonal skills, but lacks concrete examples from their work experience. The language is formal, but the tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "488.json",
+    "recommendation_file": "Recommendation_From_ID_472.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Data Entry",
+            "Office Administration",
+            "Time Management",
+            "Communication",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in billing and finance, Daxko Operations, and customer service. The recommendation highlights the candidate's attention to detail, proactive approach, and commitment to organizational excellence."
+    }
+}

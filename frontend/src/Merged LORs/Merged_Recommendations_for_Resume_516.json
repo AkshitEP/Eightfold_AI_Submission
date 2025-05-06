@@ -1,0 +1,105 @@
+{
+    "target_id": "516",
+    "recommendations": [
+        {
+            "recommender_id": "198",
+            "recommendation": {
+                "resume_file": "516.json",
+                "recommendation_file": "Recommendation_From_ID_198.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in financial planning and analysis, but the specific examples provided do not entirely align with the candidate's resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Project Management",
+                        "Data Analysis",
+                        "Microsoft Excel",
+                        "Hyperion"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional analytical and strategic skills in financial planning and analysis, but some claims seem exaggerated or unsupported. The recommendation also mentions the candidate's experience in SAP Business Intelligence, which is not mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "209",
+            "recommendation": {
+                "resume_file": "516.json",
+                "recommendation_file": "Recommendation_From_ID_209.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Project Management",
+                        "Data Analysis",
+                        "Microsoft Excel",
+                        "Hyperion"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, leadership, and project management skills. The VP of Finance's endorsement is credible, given their position and the candidate's role in the organization."
+                }
+            }
+        },
+        {
+            "recommender_id": "350",
+            "recommendation": {
+                "resume_file": "516.json",
+                "recommendation_file": "Recommendation_From_ID_350.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Project Management",
+                        "Data Analysis",
+                        "Microsoft Excel",
+                        "Hyperion"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise, leadership, and project management abilities. The recommendation is from a peer, indicating a strong working relationship and familiarity with the candidate's capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "17",
+            "recommendation": {
+                "resume_file": "516.json",
+                "recommendation_file": "Recommendation_From_ID_17.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Project Management",
+                        "Data Analysis",
+                        "Microsoft Excel",
+                        "Hyperion"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and leadership capabilities. The recommender's background in finance and government contracting adds credibility to their endorsement."
+                }
+            }
+        }
+    ]
+}

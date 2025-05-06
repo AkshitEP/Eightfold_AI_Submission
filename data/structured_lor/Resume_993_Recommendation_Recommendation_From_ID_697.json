@@ -1,0 +1,23 @@
+{
+    "resume_file": "993.json",
+    "recommendation_file": "Recommendation_From_ID_697.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Planning",
+            "Leadership",
+            "Risk Management",
+            "Financial Analysis",
+            "Operational Management",
+            "Regulatory Compliance",
+            "Budgeting",
+            "Project Management",
+            "Communication",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial planning, and operational management abilities. The recommender's tone is professional and objective, indicating a genuine endorsement."
+    }
+}

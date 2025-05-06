@@ -1,0 +1,20 @@
+{
+    "resume_file": "301.json",
+    "recommendation_file": "Recommendation_From_ID_790.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and recommendation is well-supported by the resume.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Microsoft Excel",
+            "Leadership",
+            "Process Improvement",
+            "Data Analysis",
+            "Accounting Software"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience. The recommender provides specific examples of the candidate's expertise and leadership, and their shared background in accounting adds credibility to the recommendation."
+    }
+}

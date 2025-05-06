@@ -1,0 +1,17 @@
+{
+    "resume_file": "133.json",
+    "recommendation_file": "Recommendation_From_ID_562.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of '20+ year career' which is not entirely supported by the resume. However, the recommendation is largely credible and well-supported by the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Training and Development",
+            "Operations Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional operational leadership, project management, and staff productivity skills, which are well-supported by their resume. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

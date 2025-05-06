@@ -1,0 +1,17 @@
+{
+    "resume_file": "538.json",
+    "recommendation_file": "Recommendation_From_ID_391.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written for two different individuals, with the first part describing an 8th grade Language Arts teacher and the second part describing a Business Process Analyst. This inconsistency raises some concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Audit and Compliance",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in leadership, communication, audit and compliance, and project management. However, the inconsistency in the recommendation raises some concerns about its authenticity."
+    }
+}

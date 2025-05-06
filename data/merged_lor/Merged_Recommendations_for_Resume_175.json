@@ -1,0 +1,78 @@
+{
+    "target_id": "175",
+    "recommendations": [
+        {
+            "recommender_id": "9",
+            "recommendation": {
+                "resume_file": "175.json",
+                "recommendation_file": "Recommendation_From_ID_9.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation does not directly reference the candidate's skills and experience as a Store Manager, and the language used seems overly flattering. However, the recommendation does not contain any statistically improbable claims or informal language.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation highlights the candidate's customer service skills and leadership abilities, but it does not directly reference their experience as a Store Manager. The recommendation seems to be more focused on the candidate's role as a Member Services Representative, which is not mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "405",
+            "recommendation": {
+                "resume_file": "175.json",
+                "recommendation_file": "Recommendation_From_ID_405.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommender mentions the candidate's experience in inside sales, CRM tools, and competitive markets, which are not mentioned in the resume. The recommender also mentions their own experience as a banking manager, which is not relevant to the candidate's skills and experience.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide any specific examples or evidence from the candidate's resume to support their claims. The recommender's own experience and philosophy are mentioned, but they do not provide any concrete examples of the candidate's skills or achievements."
+                }
+            }
+        },
+        {
+            "recommender_id": "1",
+            "recommendation": {
+                "resume_file": "175.json",
+                "recommendation_file": "Recommendation_From_ID_1.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with the first part mentioning a Mortgage Banking Default Operations Specialist and the second part describing a Store Manager. This inconsistency raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Customer Service",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation partially aligns with the candidate's skills and experience, but the inconsistency in describing two different roles and individuals raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "138",
+            "recommendation": {
+                "resume_file": "175.json",
+                "recommendation_file": "Recommendation_From_ID_138.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and the recommender's experience in quantitative analysis and data management seems unrelated to the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in team management and customer service, but the recommender's background and relationship to the candidate are unclear. The recommendation also mentions the candidate's sales performance, which is consistent with their experience as a Store Manager."
+                }
+            }
+        }
+    ]
+}

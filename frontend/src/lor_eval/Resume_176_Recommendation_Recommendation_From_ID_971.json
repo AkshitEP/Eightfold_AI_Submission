@@ -1,0 +1,19 @@
+{
+    "resume_file": "176.json",
+    "recommendation_file": "Recommendation_From_ID_971.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Personal Banker and Business Advocate is unclear in relation to the candidate's experience. No statistically improbable claims detected, but the language is slightly exaggerated.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Coaching and Mentoring",
+            "Customer Service",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and team management abilities. However, the recommender's role and relationship to the candidate are not clearly defined."
+    }
+}

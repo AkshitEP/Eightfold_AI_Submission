@@ -1,0 +1,16 @@
+{
+    "resume_file": "533.json",
+    "recommendation_file": "Recommendation_From_ID_796.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be from an unknown source, and the skills mentioned do not align well with the candidate's resume. The language is formal, but the claims seem exaggerated.",
+        "verified_skills": [
+            "Interpersonal Communication",
+            "Leadership",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align well with the candidate's skills and experience. The source of the recommendation is unclear, and the claims seem exaggerated. However, the candidate's interpersonal communication skills and leadership qualities are mentioned as strengths."
+    }
+}

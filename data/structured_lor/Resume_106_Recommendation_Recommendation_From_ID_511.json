@@ -1,0 +1,19 @@
+{
+    "resume_file": "106.json",
+    "recommendation_file": "Recommendation_From_ID_511.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Management",
+            "Budgeting",
+            "Accounting",
+            "Leadership",
+            "Investment Management",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial management, and project management skills. The recommendation also highlights the candidate's ability to drive technological advancements and ensure adherence to governmental standards."
+    }
+}

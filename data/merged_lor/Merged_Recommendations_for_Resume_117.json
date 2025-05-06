@@ -1,0 +1,119 @@
+{
+    "target_id": "117",
+    "recommendations": [
+        {
+            "recommender_id": "716",
+            "recommendation": {
+                "resume_file": "117.json",
+                "recommendation_file": "Recommendation_From_ID_716.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "ASP.Net",
+                        "SQL Server",
+                        "HTML",
+                        "CSS",
+                        "SharePoint",
+                        "MVC Framework"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and collaborative spirit. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not explicitly stated."
+                }
+            }
+        },
+        {
+            "recommender_id": "594",
+            "recommendation": {
+                "resume_file": "117.json",
+                "recommendation_file": "Recommendation_From_ID_594.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "ASP.Net",
+                        "SQL Server",
+                        "HTML",
+                        "CSS",
+                        "MVC Framework",
+                        "Pair Programming",
+                        "Code Review"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and project achievements. The source of the recommendation is a Director of Information Technology, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "248",
+            "recommendation": {
+                "resume_file": "117.json",
+                "recommendation_file": "Recommendation_From_ID_248.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "ASP.Net",
+                        "MVC Framework",
+                        "SQL Server",
+                        "HTML",
+                        "CSS",
+                        "SharePoint"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and dedication to excellence."
+                }
+            }
+        },
+        {
+            "recommender_id": "552",
+            "recommendation": {
+                "resume_file": "117.json",
+                "recommendation_file": "Recommendation_From_ID_552.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "ASP.Net",
+                        "SQL Server",
+                        "HTML",
+                        "CSS",
+                        "SharePoint",
+                        "MVC Framework",
+                        "Pair Programming",
+                        "Code Review"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their projects and accomplishments. The source of the recommendation is an Information Technology Manager, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "114",
+            "recommendation": {
+                "resume_file": "117.json",
+                "recommendation_file": "Recommendation_From_ID_114.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "ASP.Net",
+                        "SQL Server",
+                        "HTML",
+                        "CSS",
+                        "MVC Framework",
+                        "Pair Programming",
+                        "Code Review"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and problem-solving abilities. The source of the recommendation is a senior leadership role, indicating a direct supervisory relationship."
+                }
+            }
+        }
+    ]
+}

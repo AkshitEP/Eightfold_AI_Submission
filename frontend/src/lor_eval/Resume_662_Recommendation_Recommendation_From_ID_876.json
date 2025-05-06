@@ -1,0 +1,16 @@
+{
+    "resume_file": "662.json",
+    "recommendation_file": "Recommendation_From_ID_876.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Teamwork"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation highlights the candidate's skills and experience in a fitness setting, but lacks substantial detail or alignment with the key areas of expertise in nutrition and dietetics. Some claims seem exaggerated, such as the significant improvement in evaluation scores."
+    }
+}

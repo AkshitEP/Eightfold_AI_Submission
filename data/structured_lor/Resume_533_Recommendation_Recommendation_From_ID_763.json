@@ -1,0 +1,16 @@
+{
+    "resume_file": "533.json",
+    "recommendation_file": "Recommendation_From_ID_763.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be exaggerated and lacks concrete examples or evidence from the resume. The recommender's background in accounting and SAP experience is not relevant to the candidate's skills and experience.",
+        "verified_skills": [
+            "Help Desk Support",
+            "Technical Training",
+            "Troubleshooting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some technical skills, but the recommender's background and experience are not relevant to the candidate's skills and experience. The recommendation seems to be exaggerated and lacks concrete examples or evidence from the resume."
+    }
+}

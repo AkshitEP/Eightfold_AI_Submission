@@ -1,0 +1,127 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Home Health Care Provider",
+                "work_description": "Worked to improve and enhance client lives through effective and compassionate care. Assisted residents with bathing, dressing, grooming, feeding, lifting and transferring. Provided clients with assistance in completing such tasks as purchasing supplies, paying bills and bookkeeping, effectively reducing daily burden on family members. Completed health management tasks by setting and transporting clients to appointments. Monitored progress and documented any client health status changes, keeping healthcare team updated to resolve issues and address concerns. Interacted kindly with clients and families and displayed positive, outgoing attitude, resulting in establishment of long-term, professional relationships.",
+                "company_level": "Mid-level",
+                "start_date": "07/2019",
+                "end_date": "02/2020"
+            },
+            {
+                "role_name": "Aircraft Hydraulics Systems Journeyman",
+                "work_description": "Performed inspections, serviced systems, removed, repaired, and installed components. Performed basic machine set up and operation. Requisitioned new supplies and equipment. Accurately completed service reports and forms. Complied with work site safety and hazardous material handling, storage regulatory requirements and internal procedures affecting business operations. Collaborated with flight crews and other maintenance departments to ensure smooth work flow and efficient organization operations. Consistently assumed additional responsibilities.",
+                "company_level": "Mid-level",
+                "start_date": "04/2016",
+                "end_date": "05/2019"
+            },
+            {
+                "role_name": "Home Health Care Provider",
+                "work_description": "Worked to improve and enhance client lives through effective and compassionate care. Assisted residents with bathing, dressing, grooming, feeding, lifting and transferring. Provided clients with assistance in completing such tasks as purchasing supplies, paying bills and bookkeeping, effectively reducing daily burden on family members. Completed health management tasks by setting and transporting clients to appointments. Monitored progress and documented any client health status changes, keeping healthcare team updated to resolve issues and address concerns. Interacted kindly with clients and families and displayed positive, outgoing attitude, resulting in establishment of long-term, professional relationships.",
+                "company_level": "Mid-level",
+                "start_date": "02/2014",
+                "end_date": "03/2016"
+            },
+            {
+                "role_name": "Radiology Support Associate",
+                "work_description": "Promptly answered multi-line phone system and greeted callers enthusiastically. Carefully relayed phone calls and messages to appropriate personnel. Kept waiting room neat and organized at all times by stacking magazines and removing trash. Retrieved and distributed medical records to patients and physicians upon request. Frequently assisted with patient transfer between departments. Adhered to strict HIPAA guidelines at all times to protect patient privacy.",
+                "company_level": "Mid-level",
+                "start_date": "02/2009",
+                "end_date": "02/2011"
+            },
+            {
+                "role_name": "Environmental Services Associate",
+                "work_description": "Established and maintained clean and comfortable environments in hospital and administration buildings by vacuuming and mopping, cleaning surfaces and windows and dusting. Cleaned and prepared rooms between patients to prevent infections and cross-contamination. Removed waste and hazardous materials from premises to designated area. Used approved cleaning products on various surfaces to reduce bacterial growth and prevent spread of viruses. Kept facilities well-stocked and properly maintained for staff and guests. Examined patient rooms, staff offices, halls and lobbies to determine need for repairs and replacement of furniture or equipment.",
+                "company_level": "Mid-level",
+                "start_date": "02/2008",
+                "end_date": "02/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Grant Union High School",
+                "start_date": "01/2002",
+                "end_date": "06/2006",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Paris Junior College",
+                "start_date": "01/2011",
+                "end_date": "05/2013",
+                "domain": "Kinesiology",
+                "level": "Associate of Science"
+            },
+            {
+                "university": "Sheppard Air Force Base",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Aircraft Hydraulics Systems",
+                "level": "Graduation of Aircraft Hydraulics Systems 2A635"
+            },
+            {
+                "university": "Paris Junior College",
+                "start_date": "01/2020",
+                "end_date": "01/2022",
+                "domain": "Mechatronics",
+                "level": "Associate of Applied Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Healthcare Management",
+                "level": 4,
+                "explanation": "Has extensive experience in healthcare management, including assisting clients with daily tasks, monitoring health status, and collaborating with healthcare teams, showing strong proficiency."
+            },
+            {
+                "name": "Patient Care",
+                "level": 4,
+                "explanation": "Has extensive experience in patient care, including assisting with bathing, dressing, and transferring, as well as providing emotional support, showing strong proficiency."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 2,
+                "explanation": "Has some experience with bookkeeping, including assisting clients with financial tasks, but lacks extensive experience, indicating some practical experience."
+            },
+            {
+                "name": "Aircraft Hydraulics Systems",
+                "level": 4,
+                "explanation": "Has extensive experience in aircraft hydraulics systems, including performing inspections, servicing systems, and removing and repairing components, showing strong proficiency."
+            },
+            {
+                "name": "Maintenance and Repair",
+                "level": 3,
+                "explanation": "Has solid experience in maintenance and repair, including performing basic machine setup and operation, and requisitioning supplies and equipment, showing a solid working proficiency."
+            },
+            {
+                "name": "Safety and Hazardous Material Handling",
+                "level": 3,
+                "explanation": "Has solid experience in safety and hazardous material handling, including complying with regulatory requirements and internal procedures, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication and Interpersonal Skills",
+                "level": 4,
+                "explanation": "Has extensive experience in communication and interpersonal skills, including interacting with clients, families, and healthcare teams, showing strong proficiency."
+            },
+            {
+                "name": "Time Management and Organization",
+                "level": 3,
+                "explanation": "Has solid experience in time management and organization, including keeping waiting rooms neat and organized, and retrieving and distributing medical records, showing a solid working proficiency."
+            },
+            {
+                "name": "HIPAA Compliance",
+                "level": 3,
+                "explanation": "Has solid experience in HIPAA compliance, including adhering to strict guidelines to protect patient privacy, showing a solid working proficiency."
+            },
+            {
+                "name": "Environmental Services",
+                "level": 2,
+                "explanation": "Has some experience in environmental services, including cleaning and maintaining hospital and administration buildings, but lacks extensive experience, indicating some practical experience."
+            }
+        ]
+    }
+}

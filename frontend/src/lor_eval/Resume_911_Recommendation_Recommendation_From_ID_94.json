@@ -1,0 +1,18 @@
+{
+    "resume_file": "911.json",
+    "recommendation_file": "Recommendation_From_ID_94.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession (Nurse Practitioner) does not directly align with the candidate's experience or skills. However, the recommendation provides specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Communication",
+            "Problem-Solving",
+            "Leadership",
+            "Time Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience as a Court Appointed Special Advocate, but the recommender's profession and relationship to the candidate are unclear. The recommendation provides specific examples of the candidate's skills and experience, but the lack of direct alignment between the recommender's profession and the candidate's experience raises some concerns."
+    }
+}

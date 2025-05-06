@@ -1,0 +1,65 @@
+{
+    "target_id": "569",
+    "recommendations": [
+        {
+            "recommender_id": "903",
+            "recommendation": {
+                "resume_file": "569.json",
+                "recommendation_file": "Recommendation_From_ID_903.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a direct supervisor or peer. The language is formal, but the tone is overly positive, which may indicate some exaggeration.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operational Management",
+                        "Compliance Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in leadership and operational management. However, the source of the recommendation is unclear, and the tone is overly positive, which may indicate some exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "787",
+            "recommendation": {
+                "resume_file": "569.json",
+                "recommendation_file": "Recommendation_From_ID_787.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's resume and the use of overly positive language.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operational Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's leadership and operational management skills, which align with their experience as AFSCME Union President. However, the recommendation lacks specific examples from the candidate's resume and uses overly positive language, which raises some concerns about its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "120",
+            "recommendation": {
+                "resume_file": "569.json",
+                "recommendation_file": "Recommendation_From_ID_120.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operational Management",
+                        "Time Management",
+                        "Compliance Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, operational management, and communication skills. The source of the recommendation is a peer, indicating a credible perspective on the candidate's abilities."
+                }
+            }
+        }
+    ]
+}

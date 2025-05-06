@@ -1,0 +1,68 @@
+{
+    "target_id": "913",
+    "recommendations": [
+        {
+            "recommender_id": "306",
+            "recommendation": {
+                "resume_file": "913.json",
+                "recommendation_file": "Recommendation_From_ID_306.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Information Technology",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and technical expertise. The source of the recommendation is a peer who worked under the candidate, providing a credible perspective on their abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "369",
+            "recommendation": {
+                "resume_file": "913.json",
+                "recommendation_file": "Recommendation_From_ID_369.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Information Technology",
+                        "Budgeting",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience. It provides specific examples of their leadership, project management, and IT expertise, and highlights their ability to drive strategic initiatives and foster collaboration among technical professionals."
+                }
+            }
+        },
+        {
+            "recommender_id": "56",
+            "recommendation": {
+                "resume_file": "913.json",
+                "recommendation_file": "Recommendation_From_ID_56.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Information Technology",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and IT expertise. The source of the recommendation is a peer, who has worked with the candidate in the IT field."
+                }
+            }
+        }
+    ]
+}

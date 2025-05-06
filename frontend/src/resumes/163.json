@@ -1,0 +1,65 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Certified Custom Framer",
+                "work_description": "Providing great customer service in helping each customer pick design that best fits their needs. Managing time to meet deadlines. Helping out on the floor or at register when needed. Training new associates in the frame shop.",
+                "company_level": "Mid-level",
+                "start_date": "01/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Delivered excellent customer service by greeting and assisting each customer. Filled in positions when understaffed or a task needed to be completed. Assisted manager in closing down store and cash registers at the end of each night. Visual merchandising through setting planograms and detailed recovery. Stocked inventory when shipments were received. Learned how to work with a team to accomplish greater tasks.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "11/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Trinity High School",
+                "start_date": "01/2010",
+                "end_date": "12/2014",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided great customer service in multiple roles, consistently helping customers and meeting their needs, indicating strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed time effectively to meet deadlines in a fast-paced retail environment, showing a solid working proficiency."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Collaborated with team members to accomplish tasks, demonstrating a solid level of proficiency in teamwork."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Trained new associates and assisted managers with tasks, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Visual Merchandising",
+                "level": 2,
+                "explanation": "Set planograms and performed detailed recovery, showing some practical experience in visual merchandising."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 2,
+                "explanation": "Stocked inventory when shipments were received, indicating some practical experience in inventory management."
+            }
+        ]
+    }
+}

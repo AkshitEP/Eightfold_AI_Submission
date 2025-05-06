@@ -1,0 +1,22 @@
+{
+    "resume_file": "901.json",
+    "recommendation_file": "Recommendation_From_ID_227.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Technical Support",
+            "Business Operations",
+            "Training and Development",
+            "Microsoft Office",
+            "Windows Operating System",
+            "Computer Hardware",
+            "Leadership",
+            "Network Administration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, technical support, and business operations expertise. The language used is formal and professional, indicating a genuine recommendation."
+    }
+}

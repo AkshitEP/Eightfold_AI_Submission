@@ -1,0 +1,23 @@
+{
+    "resume_file": "108.json",
+    "recommendation_file": "Recommendation_From_ID_172.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Project Management",
+            "Time Management",
+            "Adaptability",
+            "Teamwork",
+            "Intelligence Analysis",
+            "Fitness Instruction",
+            "Health Promotion"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and fitness instruction abilities. The source of the recommendation appears to be familiar with the candidate's work and provides a credible endorsement."
+    }
+}

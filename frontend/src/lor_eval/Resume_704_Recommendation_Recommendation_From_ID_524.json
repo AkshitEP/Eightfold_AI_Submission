@@ -1,0 +1,17 @@
+{
+    "resume_file": "704.json",
+    "recommendation_file": "Recommendation_From_ID_524.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation seems to be for two individuals, but the resume only belongs to one person.",
+        "verified_skills": [
+            "IT Management",
+            "Network Administration",
+            "IT Security and Risk Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but it seems to be for two individuals. The language is formal, but some claims seem exaggerated or unsupported."
+    }
+}

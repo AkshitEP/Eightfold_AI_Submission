@@ -1,0 +1,20 @@
+{
+    "resume_file": "302.json",
+    "recommendation_file": "Recommendation_From_ID_772.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources",
+            "Employee Relations",
+            "Leadership",
+            "Talent Management",
+            "Training and Development",
+            "Compliance",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities. The source of the recommendation is a peer, an HR Generalist, who has witnessed the candidate's exceptional leadership skills and strategic acumen firsthand."
+    }
+}

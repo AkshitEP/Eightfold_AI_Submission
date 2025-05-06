@@ -1,0 +1,83 @@
+{
+    "target_id": "298",
+    "recommendations": [
+        {
+            "recommender_id": "751",
+            "recommendation": {
+                "resume_file": "298.json",
+                "recommendation_file": "Recommendation_From_ID_751.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation is written by a Pet Psychologist, which may not be directly relevant to the candidate's field of expertise. Informal language and analogies are used, which may not be suitable for a formal recommendation.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Project Management",
+                        "Budgeting",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but the source and language used raise some concerns about its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "634",
+            "recommendation": {
+                "resume_file": "298.json",
+                "recommendation_file": "Recommendation_From_ID_634.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Budgeting",
+                        "Strategic Planning",
+                        "Data Analysis",
+                        "Leadership",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with key areas of expertise in finance and accounting."
+                }
+            }
+        },
+        {
+            "recommender_id": "198",
+            "recommendation": {
+                "resume_file": "298.json",
+                "recommendation_file": "Recommendation_From_ID_198.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Leadership",
+                        "Financial Planning",
+                        "Data Analysis",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. The source of the recommendation is a Finance Business Partner, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "143",
+            "recommendation": {
+                "resume_file": "298.json",
+                "recommendation_file": "Recommendation_From_ID_143.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration, improper language, or contradictory data. The recommendation mentions marine archaeology, which is not related to the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The language used is overly flattering and lacks specific examples or evidence from the resume."
+                }
+            }
+        }
+    ]
+}

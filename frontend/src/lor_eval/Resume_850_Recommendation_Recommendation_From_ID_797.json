@@ -1,0 +1,21 @@
+{
+    "resume_id": 850,
+    "recommendation_file": "Recommendation_From_ID_797.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Analysis",
+            "Financial Planning",
+            "Tax Preparation",
+            "Payroll Management",
+            "Auditing",
+            "Financial Modeling",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning, reporting, and analysis expertise. The recommendation highlights the candidate's attention to detail, ability to work under pressure, and collaborative spirit, which are all valuable assets in a financial professional."
+    }
+}

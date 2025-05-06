@@ -1,0 +1,50 @@
+{
+    "target_id": "620",
+    "recommendations": [
+        {
+            "recommender_id": "400",
+            "recommendation": {
+                "resume_file": "620.json",
+                "recommendation_file": "Recommendation_From_ID_400.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Design",
+                        "Marketing Analysis",
+                        "Data Integration",
+                        "CRM",
+                        "Marketing Campaign",
+                        "Project Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical background, business process understanding, and collaboration skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "162",
+            "recommendation": {
+                "resume_file": "620.json",
+                "recommendation_file": "Recommendation_From_ID_162.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. However, the skills and expertise mentioned align well with the candidate's experience.",
+                    "verified_skills": [
+                        "Database Design",
+                        "Marketing Analysis",
+                        "Data Integration",
+                        "CRM",
+                        "Marketing Campaign",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in data management, marketing efforts, and project management. However, the language is overly positive, and the recommendation could benefit from more specific examples from the candidate's resume."
+                }
+            }
+        }
+    ]
+}

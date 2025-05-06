@@ -1,0 +1,209 @@
+{
+    "target_id": "862",
+    "recommendations": [
+        {
+            "recommender_id": "802",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_802.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting and analysis capabilities, as well as their leadership and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "710",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_710.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Accountant II' which is not present in the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in financial reporting, regulatory compliance, and analytical skills, which aligns with their experience as a Financial Accountant. However, some minor inconsistencies and lack of specific details reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "589",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_589.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting, analysis, and leadership capabilities. The recommendation also highlights the candidate's ability to work with high-profile corporations and their innovative mindset."
+                }
+            }
+        },
+        {
+            "recommender_id": "749",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_749.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable",
+                        "Leadership",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting, analysis, and management abilities. The recommendation highlights the candidate's attention to detail, analytical skills, and ability to work with diverse teams, making them a strong candidate for advanced financial reporting and management roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "113",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_113.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in financial reporting, financial analysis, and operational management, but the language used is somewhat generic and lacks specific examples from the resume.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but some claims seem exaggerated or unsupported. The recommendation mentions the candidate's expertise in SAP, but this is not explicitly mentioned in the resume. Additionally, the recommendation mentions the candidate's ability to handle extensive financial responsibilities with international corporations, but this is not fully supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "430",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_430.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting and analysis expertise. The recommender's own experience as an Accountant adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "763",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_763.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and accomplishments. The source of the recommendation is likely a peer or colleague, given the mention of working alongside the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "387",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_387.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Senior Accountant",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency, leadership qualities, and achievements in financial reporting and analysis."
+                }
+            }
+        },
+        {
+            "recommender_id": "850",
+            "recommendation": {
+                "resume_file": "862.json",
+                "recommendation_file": "Recommendation_From_ID_850.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Accounting Standards",
+                        "Financial Analysis",
+                        "Cash Flow Management",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting, accounting standards, and leadership abilities."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "resume_file": "996.json",
+    "recommendation_file": "Recommendation_From_ID_254.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, and the source of the recommendation is unclear. The mention of the summer camp counselor and their unrelated skills seems out of place and may be an attempt to mislead.",
+        "verified_skills": [
+            "Leadership",
+            "Teaching and Education"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a mix of two different individuals, with the first part discussing a summer camp counselor and the second part discussing the middle school principal. This inconsistency raises concerns about the authenticity of the recommendation. However, the second part of the recommendation does align with the principal's skills and experience, providing some validation of their leadership and educational abilities."
+    }
+}

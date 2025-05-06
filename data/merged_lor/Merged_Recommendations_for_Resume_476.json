@@ -1,0 +1,43 @@
+{
+    "target_id": "476",
+    "recommendations": [
+        {
+            "recommender_id": "397",
+            "recommendation": {
+                "resume_file": "476.json",
+                "recommendation_file": "Recommendation_From_ID_397.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions the candidate's experience as a Customer Care Representative, which is not mentioned in the resume. Additionally, the claim that the candidate is a natural fit for a career in real estate seems unrealistic given their background.",
+                    "verified_skills": [
+                        "Fitness Instruction",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in fitness instruction and customer service. However, some claims seem exaggerated or unsupported, and the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "765",
+            "recommendation": {
+                "resume_file": "476.json",
+                "recommendation_file": "Recommendation_From_ID_765.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in customer service, relationship building, and leadership, but some claims seem exaggerated or unsupported. The recommendation also mentions skills not explicitly listed in the resume, such as sales acumen and organizational skills."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "resume_file": "16.json",
+    "recommendation_file": "Recommendation_From_ID_565.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The recommendation does not address the candidate's primary skills and experience as a phlebotomist.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's resume and seems to be promoting the candidate for a different role. The language used is informal, and the claims made are not supported by the resume."
+    }
+}

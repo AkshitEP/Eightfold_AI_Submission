@@ -1,0 +1,15 @@
+{
+    "resume_file": "415.json",
+    "recommendation_file": "Recommendation_From_ID_688.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and experience are not directly related to the candidate's skills and experience. Some minor inconsistencies in the recommender's role and the candidate's skills.",
+        "verified_skills": [
+            "Customer Service",
+            "Childcare"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's customer service skills and experience in childcare, but the recommender's background and experience are not directly related to the candidate's skills and experience. The recommendation seems genuine, but some minor inconsistencies are present."
+    }
+}

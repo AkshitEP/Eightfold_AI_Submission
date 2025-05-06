@@ -1,0 +1,24 @@
+{
+    "resume_file": "764.json",
+    "recommendation_file": "Recommendation_From_ID_523.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The 15% increase in annual gross sales and 8% growth in the customer base seem impressive but lack concrete evidence or context.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Bank Reconciliation",
+            "Commercial Law",
+            "Negotiation Skills",
+            "Complex Problem Solving",
+            "Strategic Planning",
+            "Sales and Marketing",
+            "Client Interface",
+            "Profile Management",
+            "Staff Management",
+            "Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, negotiation, and problem-solving skills. However, some claims seem exaggerated or lack concrete evidence, which raises minor concerns about the credibility of the recommendation."
+    }
+}

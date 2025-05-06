@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Director and Treasurer",
+                "work_description": "Supervise all units in the Finance Department including revenue, budget, purchasing, general ledger accounting, accounts payable and receivable, payroll and utility billing. Direct the treasury functions for the City and South County Regional Wastewater Authority (SCRWA), including the preparation and review of periodic investment reports and the oversight of the City's investment portfolio.",
+                "company_level": "Mid-level",
+                "start_date": "09/1998",
+                "end_date": "09/2008"
+            },
+            {
+                "role_name": "Financial Services Officer/Budget Officer",
+                "work_description": "Management of fiscal duties, provision of complex staff assistance to esponsible for all SEC and external financial reporting for Calpine Corporation.",
+                "company_level": "Mid-level",
+                "start_date": "10/1997",
+                "end_date": "09/1998"
+            },
+            {
+                "role_name": "Senior Auditor",
+                "work_description": "Client base included",
+                "company_level": "Mid-level",
+                "start_date": "01/1997",
+                "end_date": "03/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "California Polytechnic",
+                "start_date": "01/2000",
+                "end_date": "12/2001",
+                "domain": "Business",
+                "level": "MBA"
+            },
+            {
+                "university": "California Polytechnic",
+                "start_date": "01/1996",
+                "end_date": "12/2000",
+                "domain": "Accounting",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Over a decade of experience in finance department supervision, including revenue, budget, purchasing, general ledger accounting, and payroll, indicating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 5,
+                "explanation": "Directed the treasury functions for the City and South County Regional Wastewater Authority (SCRWA), including the preparation and review of periodic investment reports and the oversight of the City's investment portfolio, showing strong proficiency and extensive experience."
+            },
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Handled all aspects of accounting including general ledger accounting, accounts payable and receivable, payroll, and external financial reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Supervised all units in the Finance Department, including revenue, budget, purchasing, general ledger accounting, accounts payable and receivable, payroll, and utility billing, showing strong leadership skills."
+            },
+            {
+                "name": "Investment Management",
+                "level": 4,
+                "explanation": "Oversight of the City's investment portfolio, including the preparation and review of periodic investment reports, suggesting strong proficiency."
+            },
+            {
+                "name": "Auditing",
+                "level": 3,
+                "explanation": "Experience as a Senior Auditor, although the client base is not specified, indicating a solid working proficiency."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Responsible for all SEC and external financial reporting for Calpine Corporation, suggesting strong proficiency."
+            }
+        ]
+    }
+}

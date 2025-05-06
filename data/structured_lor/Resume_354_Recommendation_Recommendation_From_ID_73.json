@@ -1,0 +1,18 @@
+{
+    "resume_file": "354.json",
+    "recommendation_file": "Recommendation_From_ID_73.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Data Collection",
+            "Customer Service",
+            "Administrative Support",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their attention to detail, organizational skills, and communication abilities. The source of the recommendation seems to have a professional relationship with the candidate, but the exact nature of this relationship is unclear."
+    }
+}

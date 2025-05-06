@@ -1,0 +1,17 @@
+{
+    "resume_id": 41,
+    "recommendation_file": "Recommendation_From_ID_329.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the resume. Some minor inconsistencies in the description of the candidate's background and expertise.",
+        "verified_skills": [
+            "Teaching",
+            "Therapy",
+            "Counseling",
+            "Treatment Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's background in arts education and its connection to their work as a therapist and teaching artist. However, it does not provide specific examples from the resume to support the claims made about the candidate's expertise and skills."
+    }
+}

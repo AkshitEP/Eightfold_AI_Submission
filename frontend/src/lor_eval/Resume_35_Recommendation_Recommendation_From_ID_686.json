@@ -1,0 +1,16 @@
+{
+    "resume_file": "35.json",
+    "recommendation_file": "Recommendation_From_ID_686.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation lacks substantial detail or alignment with key areas of expertise.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Data Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but lacks detail and alignment with key areas of expertise. The recommendation seems to be partially genuine, but there are some inconsistencies and exaggerated claims."
+    }
+}

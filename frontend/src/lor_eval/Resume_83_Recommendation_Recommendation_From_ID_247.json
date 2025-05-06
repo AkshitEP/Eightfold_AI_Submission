@@ -1,0 +1,15 @@
+{
+    "resume_id": 83,
+    "recommendation_file": "Recommendation_From_ID_247.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, particularly in the comparison between the candidate's skills in healthcare administration and marketing expertise. The language is overly formal and lacks specific examples from the candidate's experience.",
+        "verified_skills": [
+            "Data Analysis",
+            "Healthcare Administration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some skills from the resume, but the comparison to marketing expertise and the use of overly formal language raise concerns about the authenticity of the recommendation."
+    }
+}

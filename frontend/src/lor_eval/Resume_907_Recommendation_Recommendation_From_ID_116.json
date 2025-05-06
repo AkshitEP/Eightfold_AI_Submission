@@ -1,0 +1,18 @@
+{
+    "resume_file": "907.json",
+    "recommendation_file": "Recommendation_From_ID_116.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is an HR Assistant, which may not be directly familiar with the candidate's work. However, the language is formal, and no statistically improbable claims are detected.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Policy Development",
+            "Community Outreach",
+            "Collaboration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional leadership, interpersonal skills, and commitment to improving services. While the source is an HR Assistant, the recommendation provides specific examples of the candidate's accomplishments and aligns well with their skills and experience."
+    }
+}

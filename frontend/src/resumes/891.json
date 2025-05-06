@@ -1,0 +1,112 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Consultant",
+                "work_description": "Consult fortune 500 companies in HR. Career consultant for potential applicants. Executive Recruiting for Banking Professionals.",
+                "company_level": "Mid-level",
+                "start_date": "07/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "HR and Career Consultant",
+                "work_description": "Recruited and interviewed applicants for Customer Strategies Team. Directed and managed to maximize positive customer experience for all Heart Walks.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "05/2015"
+            },
+            {
+                "role_name": "Director of Customer Strategies-Heart Walks",
+                "work_description": "Recruited and interviewed applicants for Customer Strategies Team. Directed and managed to maximize positive customer experience for all Heart Walks.",
+                "company_level": "Mid-level",
+                "start_date": "06/2014",
+                "end_date": "05/2015"
+            },
+            {
+                "role_name": "Human Resources-Recruiter",
+                "work_description": "Recruited and interviewed 100-200 applicants per month. Advised managers on organizational policy matters and recommend needed changes.",
+                "company_level": "Mid-level",
+                "start_date": "06/2014",
+                "end_date": "05/2015"
+            },
+            {
+                "role_name": "Talent Attraction",
+                "work_description": "Conduct reference or background checks on job applicants. Conduct exit interviews and ensure that necessary employment termination paperwork is completed.",
+                "company_level": "Mid-level",
+                "start_date": "09/2012",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Assistant Vice-President-Human Resources",
+                "work_description": "Develop or implement recruiting strategies to meet current or anticipated staffing needs. Hire employees and process hiring-related paperwork.",
+                "company_level": "Mid-level",
+                "start_date": "02/1999",
+                "end_date": "05/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Dallas Baptist University",
+                "start_date": "01/1995",
+                "end_date": "12/1999",
+                "domain": "BAAS",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Leland High School",
+                "start_date": "01/1990",
+                "end_date": "12/1995",
+                "domain": "High School Diploma",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Volunteer of the Year award, Austin, TX 2012"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 5,
+                "explanation": "Extensive experience in recruitment, having recruited and interviewed numerous applicants across various roles, indicating expert-level mastery."
+            },
+            {
+                "name": "Talent Management",
+                "level": 5,
+                "explanation": "Proven track record of developing and implementing recruiting strategies, hiring employees, and processing hiring-related paperwork, showing expert-level proficiency."
+            },
+            {
+                "name": "HR Consulting",
+                "level": 4,
+                "explanation": "Consulted fortune 500 companies in HR, demonstrating strong proficiency in HR consulting."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Directed and managed teams to maximize positive customer experience, indicating strong leadership skills."
+            },
+            {
+                "name": "Customer Experience",
+                "level": 4,
+                "explanation": "Focused on maximizing positive customer experience for all Heart Walks, showing strong proficiency in customer experience management."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Advised managers on organizational policy matters and recommended needed changes, demonstrating strong proficiency in employee relations."
+            },
+            {
+                "name": "Employee Termination",
+                "level": 3,
+                "explanation": "Conducted exit interviews and ensured necessary employment termination paperwork was completed, showing solid working proficiency."
+            },
+            {
+                "name": "Background Checks",
+                "level": 3,
+                "explanation": "Conducted reference or background checks on job applicants, indicating solid working proficiency."
+            }
+        ]
+    }
+}

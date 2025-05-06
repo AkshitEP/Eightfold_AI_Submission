@@ -1,0 +1,17 @@
+{
+    "resume_file": "193.json",
+    "recommendation_file": "Recommendation_From_ID_58.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Time Management",
+            "Leadership",
+            "Human Resource Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in human resource administration, but does not specifically mention their experience in accounts payable, accounts receivable, or data entry."
+    }
+}

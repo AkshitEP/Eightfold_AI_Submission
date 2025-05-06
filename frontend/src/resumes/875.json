@@ -1,0 +1,70 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Assistant Football Coach",
+                "work_description": "Assist in the design and execution of the offensive scheme for 60+ athletes including 20 wide receivers. Prepare field with all of the necessities for practices and games.",
+                "company_level": "Unknown",
+                "start_date": "03/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Property Maintenance Assistant",
+                "work_description": "Distribute media equipment to classrooms. Instruct professors through the application of Microsoft and Internet services. Answer phone calls and maintain an organized office for students and professors to enter freely. Performed various maintenance duties necessary to maintain and enhance the value of residential and commercial properties.",
+                "company_level": "Unknown",
+                "start_date": "09/2010",
+                "end_date": "Current"
+            }
+        ],
+        "education": [
+            {
+                "university": "Utica College",
+                "start_date": "01/2010",
+                "end_date": "05/2014",
+                "domain": "Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Assisted in the design and execution of the offensive scheme for a large team, indicating a solid working proficiency in leadership."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Assisted in managing a team of 60+ athletes, showing a solid working proficiency in team management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Instructed professors through the application of Microsoft and Internet services, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Maintained an organized office and performed various maintenance duties, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 3,
+                "explanation": "Instructed professors through the application of Microsoft services, indicating a solid working proficiency in Microsoft Office."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Assisted in the execution of the offensive scheme, but no extensive experience in project management is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Property Maintenance",
+                "level": 2,
+                "explanation": "Performed various maintenance duties, but no extensive experience in property maintenance is mentioned, indicating some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "992.json",
+    "recommendation_file": "Recommendation_From_ID_924.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Mechanical Maintenance",
+            "Leadership",
+            "Troubleshooting",
+            "Quality Control",
+            "Safety Procedures",
+            "Team Management",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their plant operations expertise, leadership, and commitment to safety and teamwork."
+    }
+}

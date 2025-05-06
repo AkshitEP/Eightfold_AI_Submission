@@ -1,0 +1,18 @@
+{
+    "resume_file": "843.json",
+    "recommendation_file": "Recommendation_From_ID_218.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Program Development",
+            "Leadership",
+            "Mentorship",
+            "Teaching",
+            "Community Support"
+        ],
+        "recommendation_source": "Peer/Colleague",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in expressive arts and education. The recommender's role as Director of Theater suggests a peer or colleague relationship."
+    }
+}

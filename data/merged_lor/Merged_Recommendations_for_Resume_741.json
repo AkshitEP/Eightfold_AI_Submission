@@ -1,0 +1,85 @@
+{
+    "target_id": "741",
+    "recommendations": [
+        {
+            "recommender_id": "353",
+            "recommendation": {
+                "resume_file": "741.json",
+                "recommendation_file": "Recommendation_From_ID_353.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Pharmacy Management",
+                        "Patient Consultation",
+                        "Prescription Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional patient care, strong background in pharmacology, and interpersonal skills, which aligns well with their skills and experience as a Staff Pharmacist. However, it does not specifically mention their experience in electronics, laboratory management, or teaching."
+                }
+            }
+        },
+        {
+            "recommender_id": "574",
+            "recommendation": {
+                "resume_file": "741.json",
+                "recommendation_file": "Recommendation_From_ID_574.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. Additionally, the recommendation does not directly reference the candidate's skills and experience in electronics, laboratory management, and teaching.",
+                    "verified_skills": [
+                        "Pharmacy Management",
+                        "Patient Consultation",
+                        "Prescription Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in pharmacy management, patient consultation, and prescription management, but lacks specific examples and details. The source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "886",
+            "recommendation": {
+                "resume_file": "741.json",
+                "recommendation_file": "Recommendation_From_ID_886.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Pharmacy Management",
+                        "Patient Consultation",
+                        "Prescription Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in pharmacy management, patient consultation, and prescription management. However, the source of the recommendation is unclear, as the recommender is a Finance Director, not a direct supervisor or peer in the pharmacy field."
+                }
+            }
+        },
+        {
+            "recommender_id": "767",
+            "recommendation": {
+                "resume_file": "741.json",
+                "recommendation_file": "Recommendation_From_ID_767.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Pharmacy Management",
+                        "Patient Consultation",
+                        "Prescription Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their pharmacy management, patient consultation, and leadership abilities. However, the recommender's role as a vice president in information technology infrastructure operations seems unrelated to the candidate's field, which might raise some questions about their familiarity with the candidate's work."
+                }
+            }
+        }
+    ]
+}

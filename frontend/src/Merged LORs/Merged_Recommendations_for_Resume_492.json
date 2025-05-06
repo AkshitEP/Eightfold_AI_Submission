@@ -1,0 +1,75 @@
+{
+    "target_id": "492",
+    "recommendations": [
+        {
+            "recommender_id": "992",
+            "recommendation": {
+                "resume_file": "492.json",
+                "recommendation_file": "Recommendation_From_ID_992.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. Some minor inconsistencies are present, such as the mention of 'Cryogenic Air Separation Unit' which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Mechanical Engineering",
+                        "Project Management",
+                        "Troubleshooting",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but lacks specific examples and details. The language is formal, but overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "253",
+            "recommendation": {
+                "resume_file": "492.json",
+                "recommendation_file": "Recommendation_From_ID_253.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mechanical Engineering",
+                        "Troubleshooting",
+                        "Electro/Mechanical Skill",
+                        "Project Management",
+                        "Water Treatment",
+                        "Leadership",
+                        "Design of controls for pumps and motors",
+                        "Marine Engineering",
+                        "Power Plant Maintenance"
+                    ],
+                    "recommendation_source": "Manager/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and managerial abilities. The source of the recommendation is a manager, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "375",
+            "recommendation": {
+                "resume_file": "492.json",
+                "recommendation_file": "Recommendation_From_ID_375.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mechanical Engineering",
+                        "Project Management",
+                        "Troubleshooting",
+                        "Electro/Mechanical Skill",
+                        "Water Treatment",
+                        "Leadership",
+                        "Design of controls for pumps and motors",
+                        "Marine Engineering",
+                        "Power Plant Maintenance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities."
+                }
+            }
+        }
+    ]
+}

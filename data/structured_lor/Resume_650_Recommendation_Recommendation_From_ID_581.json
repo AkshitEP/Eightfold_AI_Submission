@@ -1,0 +1,19 @@
+{
+    "resume_file": "650.json",
+    "recommendation_file": "Recommendation_From_ID_581.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender claims to have spent over a decade as a staff accountant, but the resume does not provide information about the recommender's background or experience.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "Accounting",
+            "Investment Analysis",
+            "Portfolio Management",
+            "Data Analysis",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in finance, providing specific examples of their work in account reconciliations and variance analysis. However, some minor inconsistencies and exaggerated claims are present, such as the recommender's claim to have spent over a decade as a staff accountant."
+    }
+}

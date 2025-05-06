@@ -1,0 +1,19 @@
+{
+    "resume_file": "788.json",
+    "recommendation_file": "Recommendation_From_ID_644.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and some claims may be slightly exaggerated.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Administrative Support",
+            "Attention to Detail",
+            "Problem-Solving",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional customer service and communication skills, which align well with their experience as a Concierge/Doorman. However, the recommender's relationship to the candidate is unclear, and some claims may be slightly exaggerated."
+    }
+}

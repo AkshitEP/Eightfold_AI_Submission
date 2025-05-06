@@ -1,0 +1,17 @@
+{
+    "resume_file": "561.json",
+    "recommendation_file": "Recommendation_From_ID_551.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not a direct supervisor or peer, and the language is somewhat generic. However, the recommendation does align well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Counseling",
+            "Classroom Management",
+            "Communication",
+            "Teaching"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in counseling, classroom management, and communication, which are all relevant to their experience as a school counselor. However, the source of the recommendation is unclear, and the language is somewhat generic."
+    }
+}

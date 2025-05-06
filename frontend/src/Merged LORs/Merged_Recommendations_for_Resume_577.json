@@ -1,0 +1,109 @@
+{
+    "target_id": "577",
+    "recommendations": [
+        {
+            "recommender_id": "551",
+            "recommendation": {
+                "resume_file": "577.json",
+                "recommendation_file": "Recommendation_From_ID_551.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's profession as a Healthcare Clinical Analyst seems unrelated to the candidate's experience in finance and sales. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Sales",
+                        "Finance",
+                        "Leadership",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional leadership and interpersonal skills, as well as their ability to maintain a high closing rate and provide tailored financial recommendations. However, the recommender's profession seems unrelated to the candidate's experience, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "547",
+            "recommendation": {
+                "resume_file": "577.json",
+                "recommendation_file": "Recommendation_From_ID_547.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Finance",
+                        "Leadership",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their finance management, customer service, and training abilities. The recommendation source is a manager, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "191",
+            "recommendation": {
+                "resume_file": "577.json",
+                "recommendation_file": "Recommendation_From_ID_191.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies or exaggerated claims detected. Recommendation uses overly positive language.",
+                    "verified_skills": [
+                        "Finance",
+                        "Leadership",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the candidate's skills and experience, but lacks substantial detail or alignment with key areas of expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "132",
+            "recommendation": {
+                "resume_file": "577.json",
+                "recommendation_file": "Recommendation_From_ID_132.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Finance",
+                        "Customer Service",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Senior Director of Finance",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work ethic, customer service skills, and leadership abilities. The source of the recommendation is a senior director of finance, indicating a high level of credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "769",
+            "recommendation": {
+                "resume_file": "577.json",
+                "recommendation_file": "Recommendation_From_ID_769.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of a 'striking 85% closing rate in sales' seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Sales",
+                        "Finance",
+                        "Leadership",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their finance and sales expertise. However, the claim of an 85% closing rate in sales seems unrealistic and requires further verification."
+                }
+            }
+        }
+    ]
+}

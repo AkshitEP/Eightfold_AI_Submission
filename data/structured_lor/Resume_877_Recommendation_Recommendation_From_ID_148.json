@@ -1,0 +1,17 @@
+{
+    "resume_file": "877.json",
+    "recommendation_file": "Recommendation_From_ID_148.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. Some claims seem exaggerated, but no statistically improbable data or informal language is present.",
+        "verified_skills": [
+            "Communication",
+            "Customer Service",
+            "Healthcare Administration",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional communication and interpersonal skills, strong work ethic, and proficiency in operational and customer service aspects of healthcare. However, it does not provide specific examples from the candidate's work experience, which reduces its relevance score."
+    }
+}

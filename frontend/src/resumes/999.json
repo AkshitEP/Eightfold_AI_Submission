@@ -1,0 +1,136 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology and AWS Admin Intern",
+                "work_description": "Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's financial department. Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud. Reduced the company's infrastructure cost by 10 times. Implemented secure off-site backups through scheduled weekly SSH dumps to remote server. Configured and troubleshot switches, routers and firewalls using TCP/IP protocols.",
+                "company_level": "Unknown",
+                "start_date": "04/2019",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Network Engineer Intern",
+                "work_description": "Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.",
+                "company_level": "Unknown",
+                "start_date": "10/2015",
+                "end_date": "Unknown"
+            },
+            {
+                "role_name": "AWS Certified Solutions Architect- Associate",
+                "work_description": "Set up a VPC network on Amazon and created public and private subnets, security groups, elastic IP and NAT gateway. Created an EC2 instance with Windows AMI to host an application on virtual machine WAN network deployment for a multinational organization using Cisco Packet Tracer Fall 2018. Configured routers, switches and implemented IP addressing, subnetting for a multi-location enterprise network using DHCP, OSPF, HSRP, RSTP for routing and redundancy. Solved security threats by providing network security using ACL and port security Linux Based Integrated Ad-Hoc Network for IT infrastructure (Linux, Ubuntu) Fall 2018. Designed and implemented a prototype illustrating a client-server model for hosting WebServer (Apache2), master and slave.",
+                "company_level": "Unknown",
+                "start_date": "10/2018",
+                "end_date": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northeastern University, Solapur University",
+                "start_date": "Unknown",
+                "end_date": "12/2019",
+                "domain": "Telecommunication and Networks",
+                "level": "Master of Science"
+            },
+            {
+                "university": "Unknown",
+                "start_date": "Unknown",
+                "end_date": "06/2016",
+                "domain": "Electronics and Telecommunications",
+                "level": "Bachelor of Engineering"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Network Security",
+                "description": "Developed a real time multi-client server chat application in Python for a chat group by implementing socket programming. Secured the application by providing features like AES encryption, SHA 256, MD5 and symmetric key method.",
+                "skills": [
+                    "Python",
+                    "Socket Programming",
+                    "AES Encryption",
+                    "SHA 256",
+                    "MD5",
+                    "Symmetric Key Method"
+                ]
+            },
+            {
+                "domain": "Network Security",
+                "description": "Designed a software-defined network to provide server load distribution for a pool of HTTP servers by analyzing the incoming packets and routing accordingly. Optimized congestion by performing load balancing in round robin technique for the POX controller by using Openflow Switch.",
+                "skills": [
+                    "SDN",
+                    "Openflow Switch",
+                    "Load Balancing",
+                    "Round Robin Technique"
+                ]
+            },
+            {
+                "domain": "Network Security",
+                "description": "Developed a secured TCP connection for encryption and decryption of text file and matched the output at the receiver. Created public key cryptography to generate a set of public and private key (.pem file) by using RSA cryptosystem.",
+                "skills": [
+                    "TCP",
+                    "RSA Cryptosystem",
+                    "Public Key Cryptography"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "AWS",
+                "level": 5,
+                "explanation": "Has extensive experience with AWS, including migrating company infrastructure to AWS cloud, achieving a 30% efficiency increment, and reducing infrastructure cost by 10 times."
+            },
+            {
+                "name": "Cloud Infrastructure",
+                "level": 5,
+                "explanation": "Designed and implemented a secure cloud infrastructure for migrating financial data into AWS, demonstrating expert-level proficiency."
+            },
+            {
+                "name": "Network Security",
+                "level": 5,
+                "explanation": "Has extensive experience with network security, including implementing secure off-site backups, configuring firewalls, and providing network security using ACL and port security."
+            },
+            {
+                "name": "TCP/IP",
+                "level": 4,
+                "explanation": "Configured and troubleshot switches, routers, and firewalls using TCP/IP protocols, showing strong proficiency."
+            },
+            {
+                "name": "Networking",
+                "level": 5,
+                "explanation": "Has extensive experience with networking, including building LAN and WAN for small-scale business enterprises, and configuring routers, switches, and implementing IP addressing and subnetting."
+            },
+            {
+                "name": "Python",
+                "level": 4,
+                "explanation": "Developed a real-time multi-client server chat application in Python, demonstrating strong proficiency."
+            },
+            {
+                "name": "Socket Programming",
+                "level": 4,
+                "explanation": "Implemented socket programming in a real-time multi-client server chat application, showing strong proficiency."
+            },
+            {
+                "name": "Encryption",
+                "level": 4,
+                "explanation": "Implemented AES encryption, SHA 256, and MD5 in a real-time multi-client server chat application, demonstrating strong proficiency."
+            },
+            {
+                "name": "SDN",
+                "level": 4,
+                "explanation": "Designed a software-defined network to provide server load distribution, showing strong proficiency."
+            },
+            {
+                "name": "Load Balancing",
+                "level": 4,
+                "explanation": "Implemented load balancing in a round-robin technique for the POX controller, demonstrating strong proficiency."
+            },
+            {
+                "name": "RSA Cryptosystem",
+                "level": 4,
+                "explanation": "Implemented public key cryptography using RSA cryptosystem, showing strong proficiency."
+            }
+        ]
+    }
+}

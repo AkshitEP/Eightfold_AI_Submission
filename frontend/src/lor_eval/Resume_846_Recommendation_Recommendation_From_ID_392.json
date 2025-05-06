@@ -1,0 +1,17 @@
+{
+    "resume_file": "846.json",
+    "recommendation_file": "Recommendation_From_ID_392.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommender's background and experience seem unrelated to the candidate's field, and the recommendation contains some exaggerated language and claims.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Case Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and qualities, but the recommender's background and experience seem unrelated to the candidate's field. The recommendation also contains some exaggerated language and claims, such as comparing the candidate's role to a high-stakes energy sector job."
+    }
+}

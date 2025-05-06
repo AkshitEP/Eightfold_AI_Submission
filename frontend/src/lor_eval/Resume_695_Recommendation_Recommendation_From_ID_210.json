@@ -1,0 +1,24 @@
+{
+    "resume_file": "695.json",
+    "recommendation_file": "Recommendation_From_ID_210.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Healthcare",
+            "Project Management",
+            "Quality Systems",
+            "Life Sciences",
+            "Pharmaceuticals",
+            "Remote Care Services",
+            "Good Manufacturing Practices",
+            "Good Clinical Practices",
+            "Good Laboratory Practices",
+            "Validation",
+            "Regulatory Compliance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare and compliance management. The recommender's role as a Software Engineer focused on banking applications adds credibility to the recommendation, as it highlights the candidate's ability to communicate complex health regulations effectively to technical teams."
+    }
+}

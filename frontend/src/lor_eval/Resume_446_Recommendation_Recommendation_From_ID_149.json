@@ -1,0 +1,21 @@
+{
+    "resume_file": "446.json",
+    "recommendation_file": "Recommendation_From_ID_149.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources",
+            "Leadership",
+            "Performance Management",
+            "Policy Interpretation",
+            "Recruitment",
+            "Compensation Management",
+            "Employee Development",
+            "Organizational Design"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their human resources expertise, leadership, and performance management abilities. The recommendation highlights the candidate's strategic outlook on human capital management and their ability to collaborate with senior leadership to implement organizational improvements."
+    }
+}

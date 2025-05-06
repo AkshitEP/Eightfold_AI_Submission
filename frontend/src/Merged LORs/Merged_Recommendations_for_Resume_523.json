@@ -1,0 +1,81 @@
+{
+    "target_id": "523",
+    "recommendations": [
+        {
+            "recommender_id": "544",
+            "recommendation": {
+                "resume_file": "523.json",
+                "recommendation_file": "Recommendation_From_ID_544.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'consumer banking default management supervisor' which is not directly related to the candidate's experience. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Planning",
+                        "Financial Analysis",
+                        "Client Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and operational efficiency skills, which align with their experience as a Financial Consultant. However, some minor inconsistencies and lack of direct connection to the candidate's specific skills and experience reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "944",
+            "recommendation": {
+                "resume_file": "523.json",
+                "recommendation_file": "Recommendation_From_ID_944.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be written in a more promotional tone, which raises some concerns.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Financial Analysis",
+                        "Forecasting",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Client Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning, analysis, and leadership abilities. However, the tone of the recommendation seems overly promotional, and some claims may be exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "701",
+            "recommendation": {
+                "resume_file": "523.json",
+                "recommendation_file": "Recommendation_From_ID_701.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's background and skills.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Leadership",
+                        "Client Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's experience in corporate banking, but there are some minor inconsistencies in the recommender's background and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "360",
+            "recommendation": {
+                "resume_file": "523.json",
+                "recommendation_file": "Recommendation_From_ID_360.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is for a completely different role and skill set than the one presented in the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems fraudulent, as it is unrelated to the candidate's experience and skills."
+                }
+            }
+        }
+    ]
+}

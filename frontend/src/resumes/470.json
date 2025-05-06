@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Provides Human Resources support for various locations. Produces new hire and termination packages, processes new hires, terminations and employee changes on HRIS. Manages plant Human Resources personnel in both Union and Non-union Environments in the US, Canada and Mexico relating to payroll, benefits and employee issues.",
+                "company_level": "Mid-level",
+                "start_date": "11/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Provide day-to-day human resources support for approximately 150 employees in Massachusetts, 15 remotely in various states and 6 in Canada. Answer employee questions regarding benefits and other workplace issues. Coordinate full cycle of Recruiting process including: responds to employment inquires, coordinates postings and advertising of positions, screens resumes, conducts phone screens schedules and coordinates interviews, checks references, makes offers and assists in the on-boarding of new employees.",
+                "company_level": "Mid-level",
+                "start_date": "09/2014",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Client Care Payroll Specialist",
+                "work_description": "Provide a range of customer services to client and staff to support payroll reporting. Respond to client requests and provide information pertaining to HR policies and procedures, additional products and services, taxation and payroll inquiries.",
+                "company_level": "Mid-level",
+                "start_date": "03/2012",
+                "end_date": "09/2014"
+            },
+            {
+                "role_name": "Office Manager, Marketing Assistant and Customer Relations Administrator",
+                "work_description": "Assisted in development of marketing materials from product brochures to website information for this startup company. Handled all incoming inquiries and orders via our customer service division. Created the Customer Service Surveys and tracking system.",
+                "company_level": "Startup",
+                "start_date": "07/2011",
+                "end_date": "03/2012"
+            },
+            {
+                "role_name": "Customer Support Representative",
+                "work_description": "Performed wide range of administrative and support duties to support efficient call center operations. Head of the departmental activity committee.",
+                "company_level": "Mid-level",
+                "start_date": "03/2008",
+                "end_date": "07/2011"
+            },
+            {
+                "role_name": "Senior Payroll Support Specialist",
+                "work_description": "Developed and administered payroll trainings on various topics from fringe benefits to year end help. Assisted with the training and development of new employees.",
+                "company_level": "Mid-level",
+                "start_date": "08/2004",
+                "end_date": "10/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "New England College of Business and Finance",
+                "start_date": "01/2013",
+                "end_date": "05/2015",
+                "domain": "Human Resources Management",
+                "level": "Master's"
+            },
+            {
+                "university": "New England College of Business and Finance",
+                "start_date": "01/2009",
+                "end_date": "06/2012",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Payroll Management",
+                "level": 5,
+                "explanation": "Has extensive experience in payroll management, including processing new hires, terminations, and employee changes on HRIS, as well as developing and administering payroll trainings, indicating expert-level mastery."
+            },
+            {
+                "name": "Human Resources Management",
+                "level": 5,
+                "explanation": "Has a Master's degree in Human Resources Management and has worked as an HR Generalist for several years, managing various HR functions, including recruitment, employee relations, and benefits administration, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Has experience in full-cycle recruitment, including responding to employment inquiries, coordinating postings and advertising of positions, screening resumes, conducting phone screens, scheduling and coordinating interviews, checking references, and making offers, indicating strong proficiency."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Has experience in managing employee relations, including answering employee questions regarding benefits and other workplace issues, and handling employee changes and terminations, indicating strong proficiency."
+            },
+            {
+                "name": "Benefits Administration",
+                "level": 4,
+                "explanation": "Has experience in managing benefits administration, including processing employee benefits and responding to employee inquiries, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience in providing customer service, including responding to client requests and providing information pertaining to HR policies and procedures, indicating solid working proficiency."
+            },
+            {
+                "name": "Marketing",
+                "level": 2,
+                "explanation": "Has some experience in marketing, including assisting in the development of marketing materials, indicating some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience in leadership, including heading the departmental activity committee, indicating some practical experience."
+            }
+        ]
+    }
+}

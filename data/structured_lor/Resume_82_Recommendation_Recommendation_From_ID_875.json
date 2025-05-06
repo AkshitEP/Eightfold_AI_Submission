@@ -1,0 +1,22 @@
+{
+    "resume_id": 82,
+    "recommendation_file": "Recommendation_From_ID_875.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be comparing two different individuals, with the first part discussing an Assistant Football Coach and the second part discussing the Information Technology Coordinator. This inconsistency raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Project Management",
+            "Database Management",
+            "Network Administration",
+            "Leadership",
+            "Customer Relationship Management",
+            "Disaster Recovery",
+            "Microsoft Windows",
+            "SQL",
+            "Network Security"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be a mix of two different individuals, which makes it difficult to assess its relevance and authenticity. However, the second part of the recommendation does align with the skills and experience of the Information Technology Coordinator, but the comparison with the Assistant Football Coach is unclear and raises concerns about the recommendation's credibility."
+    }
+}

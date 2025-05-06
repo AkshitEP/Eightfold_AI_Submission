@@ -1,0 +1,136 @@
+{
+    "target_id": "302",
+    "recommendations": [
+        {
+            "recommender_id": "632",
+            "recommendation": {
+                "resume_file": "302.json",
+                "recommendation_file": "Recommendation_From_ID_632.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but there are some minor inconsistencies and exaggerated claims. The language is formal, but the recommendation appears to be written for two individuals, not just Tonya Bell.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Leadership",
+                        "Talent Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with Tonya Bell's skills and experience in Human Resources, but it seems to be written for two individuals, which raises some concerns about its authenticity. The recommendation highlights Tonya's achievements in employee relations, talent management, and training programs, but it also mentions her experience in customer service, financial management, and operational efficiency, which are not directly related to her work history or skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "193",
+            "recommendation": {
+                "resume_file": "302.json",
+                "recommendation_file": "Recommendation_From_ID_193.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as an HR Clerk seems to be less senior than the candidate's HR Manager role, which might raise questions about the recommender's authority to evaluate the candidate's skills.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Leadership",
+                        "Talent Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in HR operations, leadership, and talent management, which aligns with their work experience and skills. However, the recommender's role and the lack of specific examples or metrics to support the claims might reduce the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "204",
+            "recommendation": {
+                "resume_file": "302.json",
+                "recommendation_file": "Recommendation_From_ID_204.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Leadership",
+                        "Talent Management",
+                        "Training and Development",
+                        "Compliance",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities. The source of the recommendation appears to be a peer or colleague, given the context and language used."
+                }
+            }
+        },
+        {
+            "recommender_id": "270",
+            "recommendation": {
+                "resume_file": "302.json",
+                "recommendation_file": "Recommendation_From_ID_270.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender mentions the candidate's skills in data research, but the candidate's resume only mentions data analysis with a level of 2, indicating some practical experience but not extensive expertise.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Training and Development",
+                        "Compliance",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in HR, but some claims seem exaggerated or unsupported. The recommender's relationship with the candidate is unclear, but their role as an HR Manager suggests a peer-level recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "772",
+            "recommendation": {
+                "resume_file": "302.json",
+                "recommendation_file": "Recommendation_From_ID_772.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Leadership",
+                        "Talent Management",
+                        "Training and Development",
+                        "Compliance",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities. The source of the recommendation is a peer, an HR Generalist, who has witnessed the candidate's exceptional leadership skills and strategic acumen firsthand."
+                }
+            }
+        },
+        {
+            "recommender_id": "149",
+            "recommendation": {
+                "resume_file": "302.json",
+                "recommendation_file": "Recommendation_From_ID_149.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Employee Relations",
+                        "Leadership",
+                        "Talent Management",
+                        "Training and Development",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management and leadership abilities. The source of the recommendation appears to be a peer or colleague, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "627.json",
+    "recommendation_file": "Recommendation_From_ID_58.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions an 'HR Director' role, but the resume does not specify this role. Additionally, the claim of establishing an HR branch in Germany is not supported by the resume.",
+        "verified_skills": [
+            "Human Resources",
+            "Leadership",
+            "Process Improvement",
+            "Training and Development",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but some claims seem exaggerated or unsupported. The recommendation highlights the candidate's strengths in HR functions, leadership, and process improvement, but lacks concrete examples from the resume to support some claims."
+    }
+}

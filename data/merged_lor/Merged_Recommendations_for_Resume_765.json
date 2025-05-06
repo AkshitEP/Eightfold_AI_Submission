@@ -1,0 +1,123 @@
+{
+    "target_id": "765",
+    "recommendations": [
+        {
+            "recommender_id": "73",
+            "recommendation": {
+                "resume_file": "765.json",
+                "recommendation_file": "Recommendation_From_ID_73.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and sales abilities. The recommendation source is a peer, indicating a firsthand account of the candidate's work ethic and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "208",
+            "recommendation": {
+                "resume_file": "765.json",
+                "recommendation_file": "Recommendation_From_ID_208.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and customer service abilities, as well as their teamwork and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "659",
+            "recommendation": {
+                "resume_file": "765.json",
+                "recommendation_file": "Recommendation_From_ID_659.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Communication",
+                        "Time Management",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales, customer service, and communication abilities. The Interim Membership Director's endorsement highlights the candidate's strengths in member engagement, sales, and teamwork."
+                }
+            }
+        },
+        {
+            "recommender_id": "291",
+            "recommendation": {
+                "resume_file": "765.json",
+                "recommendation_file": "Recommendation_From_ID_291.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender mentions the candidate's role as a fitness instructor, but the resume does not mention this role. However, the recommender does mention the candidate's role as a membership coordinator, which is present in the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, communication, and teamwork, which are present in the resume. However, the recommender also mentions the candidate's role as a fitness instructor, which is not present in the resume. The recommendation also mentions the candidate's entrepreneurial spirit, which is not directly mentioned in the resume but can be inferred from their experience in sales and customer service roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "406",
+            "recommendation": {
+                "resume_file": "765.json",
+                "recommendation_file": "Recommendation_From_ID_406.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Manager",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and customer service abilities, as well as their leadership and teamwork skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "108",
+            "recommendation": {
+                "resume_file": "765.json",
+                "recommendation_file": "Recommendation_From_ID_108.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in military intelligence and personal training seems unrelated to the candidate's role as a membership coordinator. However, the recommender's experience working alongside the candidate in a health club environment provides some credibility.",
+                    "verified_skills": [
+                        "Sales",
+                        "Customer Service",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's sales and customer service skills, which align with their experience as a membership coordinator. However, the recommender's background and expertise seem unrelated to the candidate's role, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

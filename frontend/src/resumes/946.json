@@ -1,0 +1,164 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Operate cash register, Maintain cleanliness of store, Stock products in flex-space shelving, Prepare store for first shift associates",
+                "company_level": "Large Corporation",
+                "start_date": "04/2009",
+                "end_date": "07/2009"
+            },
+            {
+                "role_name": "Receiving Associate",
+                "work_description": "Assist in unloading one or more trucks ranging in size from 1200-1800 pieces per truck, Palletize freight by department, Maintain accountability of ammunition, age restricted products, and electronics merchandise valued over $100",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Garden Center Sales Associate",
+                "work_description": "Stock shelves as needed, depending on backstock, Operate cash register, Maintain health of plants, Assemble grills and patio furniture as needed for display",
+                "company_level": "Large Corporation",
+                "start_date": "05/2013",
+                "end_date": "07/2013"
+            },
+            {
+                "role_name": "Overnight Maintenance",
+                "work_description": "Conduct initial sweep of store with 2-3 other maintenance associates, Clean bathrooms, Use scrubbing machine to scrub floors, fix any problems encountered",
+                "company_level": "Large Corporation",
+                "start_date": "03/2013",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Infantryman",
+                "work_description": "Operate and maintain weapons, such as rifles, machine guns, and hand grenades, Operate and maintain field communications equipment, Maintain accountability and positive control of $100,000.00 worth of equipment, weapons, ammunition, etc.",
+                "company_level": "Government",
+                "start_date": "03/2009",
+                "end_date": "10/2012"
+            },
+            {
+                "role_name": "Cashier",
+                "work_description": "Take orders, Prepare food, Operate cash register, Deliver food to customer, Wash dishes, Cook food",
+                "company_level": "Small Business",
+                "start_date": "08/2007",
+                "end_date": "10/2007"
+            },
+            {
+                "role_name": "Cashier",
+                "work_description": "Take orders, Prepare food, Operate cash register, Deliver food to customer, Wash dishes, Cook food",
+                "company_level": "Small Business",
+                "start_date": "01/2006",
+                "end_date": "05/2009"
+            },
+            {
+                "role_name": "Student",
+                "work_description": "Obtain working knowledge of automotive electronics, brakes, and fluid systems and tire removal, balancing, rotation, etc., Troubleshoot vehicle problems by using on board diagnostics (OBDII) port and diagnostic scan tool",
+                "company_level": "Education",
+                "start_date": "08/2005",
+                "end_date": "05/2009"
+            },
+            {
+                "role_name": "General Labor/Apprentice",
+                "work_description": "Listen to customer complaint about fire truck, Simulate operating conditions that caused the complaint to recreate the complaint issue, Diagnose actual problems and use hand or power tools to alleviate issues",
+                "company_level": "Small Business",
+                "start_date": "11/2014",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Grill Closer",
+                "work_description": "Use provided equipment to cook meat, Prepare sandwiches as ordered, Maintain cleanliness of work area, Close and clean area as the store closed",
+                "company_level": "Small Business",
+                "start_date": "09/2014",
+                "end_date": "11/2014"
+            },
+            {
+                "role_name": "General Labor",
+                "work_description": "Operate hand and power tools in accordance with job requirements, Dig and plumb irrigation lines for various irrigation needs as per plans, Drive to and from jobsite with or without 8 ton trailer with bobcat and/or excavator",
+                "company_level": "Small Business",
+                "start_date": "06/2014",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "General Labor",
+                "work_description": "Assist in sorting recyclable metals by type, and sort out trash from recyclables, Maintain clean working areas",
+                "company_level": "Small Business",
+                "start_date": "03/2014",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Meat Slicer/Morning Prep",
+                "work_description": "Assist franchisee in preparing the store for opening, Slice, weigh, and prepare meat as per SOP, Assist in assembly and preparation of finished product and present to customer upon completion",
+                "company_level": "Small Business",
+                "start_date": "12/2013",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Head of Training",
+                "work_description": "Responsible for individual training, supervision, and development of 4 operators, Responsible for ensuring that standards are met to provide the company with disciplined, physically and morally fit operators, competent in core tasks",
+                "company_level": "Small Business",
+                "start_date": "10/2013",
+                "end_date": "11/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Currituck County High School",
+                "start_date": "01/2005",
+                "end_date": "05/2009",
+                "domain": "Automotive Skills General Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Held the role of Head of Training, responsible for individual training, supervision, and development of 4 operators, indicating a solid working proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 2,
+                "explanation": "Operated and maintained field communications equipment as an Infantryman, suggesting some practical experience in communication."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked as part of a team in various roles, including as a Sales Associate, Receiving Associate, and Infantryman, showing a solid working proficiency in teamwork."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed time effectively in multiple roles, including as a Sales Associate, Receiving Associate, and Infantryman, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Troubleshooted vehicle problems using on board diagnostics (OBDII) port and diagnostic scan tool as a Student, and diagnosed actual problems as a General Labor/Apprentice, suggesting a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Attention to Detail",
+                "level": 3,
+                "explanation": "Maintained accountability and positive control of $100,000.00 worth of equipment, weapons, ammunition, etc. as an Infantryman, indicating a solid working proficiency in attention to detail."
+            },
+            {
+                "name": "Mechanical Skills",
+                "level": 2,
+                "explanation": "Operated and maintained hand and power tools as a General Labor, and used hand or power tools to alleviate issues as a General Labor/Apprentice, suggesting some practical experience in mechanical skills."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Interacted with customers in various roles, including as a Sales Associate, Cashier, and Grill Closer, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 3,
+                "explanation": "Operated cash registers in multiple roles, including as a Sales Associate, Cashier, and Grill Closer, indicating a solid working proficiency in cash handling."
+            }
+        ]
+    }
+}

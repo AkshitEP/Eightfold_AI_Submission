@@ -1,0 +1,21 @@
+{
+    "resume_id": 81,
+    "recommendation_file": "Recommendation_From_ID_201.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Java Development",
+            "System Administration",
+            "Business Analysis",
+            "Network Administration",
+            "IT Infrastructure Management",
+            "Customer Support"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership skills, technical expertise, and ability to deliver impactful solutions. The source of the recommendation is a peer, an Aviation Safety Assistant, who has worked closely with the candidate and can attest to their professional integrity and passion for excellence."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "331.json",
+    "recommendation_file": "Recommendation_From_ID_386.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims in the letter, but no obvious red flags.",
+        "verified_skills": [
+            "Leadership",
+            "Time Management",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation letter seems genuine, but some claims seem exaggerated. The letter does not provide specific examples or details about the candidate's experience in the music and media industry."
+    }
+}

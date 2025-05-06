@@ -1,0 +1,17 @@
+{
+    "resume_file": "643.json",
+    "recommendation_file": "Recommendation_From_ID_807.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. The recommender's background in management consulting and investment banking is not directly related to the candidate's experience.",
+        "verified_skills": [
+            "Asset Analysis",
+            "Sales and Trading",
+            "Client Relations",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in sales and trading, asset analysis, and client relations. However, the recommender's background and experience are not directly related to the candidate's, which raises some concerns about the credibility of the recommendation."
+    }
+}

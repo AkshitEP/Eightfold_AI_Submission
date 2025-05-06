@@ -1,0 +1,17 @@
+{
+    "resume_file": "611.json",
+    "recommendation_file": "Recommendation_From_ID_409.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but overall it seems genuine.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales Management",
+            "Leadership",
+            "Team Building"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in customer service, sales, and leadership, but does not provide specific examples or metrics to support some of the claims."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "994.json",
+    "recommendation_file": "Recommendation_From_ID_439.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Healthcare Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but its focus on the Account Executive's skills and achievements raises some concerns about the authenticity of the recommendation."
+    }
+}

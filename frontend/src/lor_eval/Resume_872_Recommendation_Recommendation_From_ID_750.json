@@ -1,0 +1,17 @@
+{
+    "resume_file": "872.json",
+    "recommendation_file": "Recommendation_From_ID_750.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but formal language and no obvious signs of exaggeration or improper language.",
+        "verified_skills": [
+            "Project Management",
+            "Agile Methodologies",
+            "Risk Management",
+            "Collaboration and Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is well-written and provides specific examples of the candidate's skills and experiences, but could be more effective if it focused more on relevant skills and experiences."
+    }
+}

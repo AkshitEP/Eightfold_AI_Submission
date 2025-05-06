@@ -1,0 +1,67 @@
+{
+    "target_id": "162",
+    "recommendations": [
+        {
+            "recommender_id": "306",
+            "recommendation": {
+                "resume_file": "162.json",
+                "recommendation_file": "Recommendation_From_ID_306.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the recommender's title and the candidate's experience in the bio-pharmaceutical sector.",
+                    "verified_skills": [
+                        "Sales and Marketing",
+                        "Microsoft Excel",
+                        "Leadership",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's sales experience, but there are some minor inconsistencies that may indicate some exaggeration or misrepresentation."
+                }
+            }
+        },
+        {
+            "recommender_id": "29",
+            "recommendation": {
+                "resume_file": "162.json",
+                "recommendation_file": "Recommendation_From_ID_29.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the writer claims to have worked as an Information Technology Specialist for over 16 years, which is not related to the candidate's experience. This inconsistency raises some concerns.",
+                    "verified_skills": [
+                        "Sales and Marketing",
+                        "Business Planning",
+                        "Leadership",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in sales, marketing, and leadership, but the writer's background and relationship to the candidate are unclear. The recommendation also mentions specific products and digital platforms, which adds credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "705",
+            "recommendation": {
+                "resume_file": "162.json",
+                "recommendation_file": "Recommendation_From_ID_705.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales and Marketing",
+                        "Business Planning",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales and marketing strategies, leadership, and collaboration with internal partners."
+                }
+            }
+        }
+    ]
+}

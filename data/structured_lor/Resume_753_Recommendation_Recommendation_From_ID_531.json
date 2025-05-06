@@ -1,0 +1,18 @@
+{
+    "resume_file": "753.json",
+    "recommendation_file": "Recommendation_From_ID_531.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no obvious signs of exaggeration or contradiction.",
+        "verified_skills": [
+            "Leadership",
+            "Client Relationship Management",
+            "Financial Services",
+            "Team Management",
+            "Business Banking"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but contains some minor inconsistencies and exaggerated claims. The source of the recommendation is unknown."
+    }
+}

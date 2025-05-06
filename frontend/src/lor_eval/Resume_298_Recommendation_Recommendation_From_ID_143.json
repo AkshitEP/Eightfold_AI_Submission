@@ -1,0 +1,12 @@
+{
+    "resume_file": "298.json",
+    "recommendation_file": "Recommendation_From_ID_143.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration, improper language, or contradictory data. The recommendation mentions marine archaeology, which is not related to the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The language used is overly flattering and lacks specific examples or evidence from the resume."
+    }
+}

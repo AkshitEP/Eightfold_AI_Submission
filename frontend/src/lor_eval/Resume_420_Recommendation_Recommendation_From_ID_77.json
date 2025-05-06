@@ -1,0 +1,21 @@
+{
+    "resume_file": "420.json",
+    "recommendation_file": "Recommendation_From_ID_77.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Case Management",
+            "Counseling",
+            "Communication",
+            "Problem Solving",
+            "Time Management",
+            "Customer Service",
+            "Data Entry",
+            "Eligibility Determination"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Case Manager and Outreach Advocate. The recommender highlights the candidate's exceptional interpersonal skills, adaptability, and dedication to supporting clients."
+    }
+}

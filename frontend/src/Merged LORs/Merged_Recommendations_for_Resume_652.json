@@ -1,0 +1,114 @@
+{
+    "target_id": "652",
+    "recommendations": [
+        {
+            "recommender_id": "315",
+            "recommendation": {
+                "resume_file": "652.json",
+                "recommendation_file": "Recommendation_From_ID_315.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Payroll Management",
+                        "Financial Reconciliation",
+                        "Bookkeeping",
+                        "Tax Preparation",
+                        "QuickBooks"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and collaboration in high-paced environments."
+                }
+            }
+        },
+        {
+            "recommender_id": "580",
+            "recommendation": {
+                "resume_file": "652.json",
+                "recommendation_file": "Recommendation_From_ID_580.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Payroll Management",
+                        "Financial Reconciliation",
+                        "QuickBooks",
+                        "Peachtree Accounting",
+                        "Bookkeeping",
+                        "Tax Preparation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, providing specific examples of their expertise in financial management and operational efficiency. The language is formal and professional, and the recommendation is well-supported by the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "782",
+            "recommendation": {
+                "resume_file": "652.json",
+                "recommendation_file": "Recommendation_From_ID_782.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Payroll Management",
+                        "Financial Reconciliation",
+                        "Bookkeeping",
+                        "Tax Preparation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and bookkeeping expertise. However, the recommendation seems to be for two individuals, not one, which may indicate an error or miscommunication."
+                }
+            }
+        },
+        {
+            "recommender_id": "726",
+            "recommendation": {
+                "resume_file": "652.json",
+                "recommendation_file": "Recommendation_From_ID_726.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reconciliation",
+                        "Bookkeeping",
+                        "Payroll Management",
+                        "Tax Preparation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and professionalism."
+                }
+            }
+        },
+        {
+            "recommender_id": "707",
+            "recommendation": {
+                "resume_file": "652.json",
+                "recommendation_file": "Recommendation_From_ID_707.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Payroll Management",
+                        "Financial Reconciliation",
+                        "QuickBooks",
+                        "Bookkeeping",
+                        "Tax Preparation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities."
+                }
+            }
+        }
+    ]
+}

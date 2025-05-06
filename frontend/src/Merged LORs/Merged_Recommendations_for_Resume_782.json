@@ -1,0 +1,136 @@
+{
+    "target_id": "782",
+    "recommendations": [
+        {
+            "recommender_id": "965",
+            "recommendation": {
+                "resume_file": "782.json",
+                "recommendation_file": "Recommendation_From_ID_965.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Auditing",
+                        "Account Reconciliation",
+                        "Budgeting",
+                        "Financial Statements",
+                        "Payroll Management",
+                        "Leadership",
+                        "Accounting Software",
+                        "Communication Skills",
+                        "Problem Solving",
+                        "Time Management",
+                        "Organizational Skills",
+                        "Personnel Management",
+                        "English",
+                        "Arabic",
+                        "Swedish"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership, and communication abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "871",
+            "recommendation": {
+                "resume_file": "782.json",
+                "recommendation_file": "Recommendation_From_ID_871.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Statements",
+                        "Audit",
+                        "Project Management",
+                        "Analytical Abilities",
+                        "Accounting Software",
+                        "Teamwork",
+                        "Operational Efficiency"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in accounting and finance. The language used is formal, and there are no red flags or statistically improbable claims detected."
+                }
+            }
+        },
+        {
+            "recommender_id": "430",
+            "recommendation": {
+                "resume_id": 782,
+                "recommendation_file": "Recommendation_From_ID_430.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Statements",
+                        "Account Reconciliation",
+                        "General Accounting",
+                        "Microsoft Office",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and dedication. The source of the recommendation appears to be a peer or colleague, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "310",
+            "recommendation": {
+                "resume_file": "782.json",
+                "recommendation_file": "Recommendation_From_ID_310.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Account Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Statements",
+                        "Payroll Management",
+                        "Leadership",
+                        "Auditing",
+                        "Taxation",
+                        "Accounting Software"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "776",
+            "recommendation": {
+                "resume_file": "782.json",
+                "recommendation_file": "Recommendation_From_ID_776.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Financial Analysis",
+                        "Account Reconciliation",
+                        "Budgeting",
+                        "Communication Skills",
+                        "Problem Solving",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in payroll and accounting management."
+                }
+            }
+        }
+    ]
+}

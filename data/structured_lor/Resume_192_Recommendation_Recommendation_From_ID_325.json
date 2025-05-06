@@ -1,0 +1,12 @@
+{
+    "resume_file": "192.json",
+    "recommendation_file": "Recommendation_From_ID_325.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation appears to be a generic, template-based recommendation that is not tailored to the candidate's skills or experience.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills or experience, and the language used is overly flattering and generic."
+    }
+}

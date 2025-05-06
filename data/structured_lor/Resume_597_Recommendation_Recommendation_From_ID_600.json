@@ -1,0 +1,18 @@
+{
+    "resume_file": "597.json",
+    "recommendation_file": "Recommendation_From_ID_600.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's background in finance seems unrelated to the candidate's experience and skills, raising some concerns about the credibility of the recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Mentorship",
+            "Communication",
+            "Team Building",
+            "Academic Support"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in leadership, mentorship, and communication, but the recommender's background in finance seems unrelated to the candidate's experience and skills, which may impact the credibility of the recommendation."
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "target_id": "106",
+    "recommendations": [
+        {
+            "recommender_id": "839",
+            "recommendation": {
+                "resume_file": "106.json",
+                "recommendation_file": "Recommendation_From_ID_839.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Budgeting",
+                        "Accounting",
+                        "Leadership",
+                        "Investment Management",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and financial management abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "511",
+            "recommendation": {
+                "resume_file": "106.json",
+                "recommendation_file": "Recommendation_From_ID_511.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Budgeting",
+                        "Accounting",
+                        "Leadership",
+                        "Investment Management",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial management, and project management skills. The recommendation also highlights the candidate's ability to drive technological advancements and ensure adherence to governmental standards."
+                }
+            }
+        },
+        {
+            "recommender_id": "510",
+            "recommendation": {
+                "resume_file": "106.json",
+                "recommendation_file": "Recommendation_From_ID_510.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions the tax accountant's experience and skills, which are not present in the provided resume. This inconsistency raises some concerns.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Budgeting",
+                        "Accounting",
+                        "Leadership",
+                        "Investment Management",
+                        "Auditing",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation highlights the finance director's exceptional leadership and financial acumen, which aligns well with the skills and experience mentioned in the resume. However, the recommendation also mentions the tax accountant's skills and experience, which are not present in the provided resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "45",
+            "recommendation": {
+                "resume_id": 106,
+                "recommendation_file": "Recommendation_From_ID_45.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. Additionally, the mention of 'outstanding interpersonal communication skills' and 'remarkable talent for project management and customer service' seems exaggerated.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Budgeting",
+                        "Accounting",
+                        "Leadership",
+                        "Investment Management",
+                        "Auditing",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Geek Squad Agent",
+                "work_description": "Provided technical support in person and over the phone. Performed hardware and software installation and repair. Refurbished and setup PCs and peripheral devices.",
+                "company_level": "Mid-level",
+                "start_date": "08/2014",
+                "end_date": "10/2016"
+            },
+            {
+                "role_name": "Shipping & Receiving Associate",
+                "work_description": "Performed shipping and receiving of product. Assisted with inventory management. General logistics and warehouse duties.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Assembler/Shipping & Receiving Associate",
+                "work_description": "Assembled and tested tanks according to specifications. Maintained inventory of tools and supplies. Performed shipping and receiving duties.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Aviation Electrician",
+                "work_description": "Performed troubleshooting and maintenance of aircraft. Performed ground handling and marshalling of aircraft. Performed daily safe for flight inspections.",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "01/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Purdue University",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Computer & Information Technology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Provided technical support in person and over the phone as a Geek Squad Agent, indicating strong proficiency."
+            },
+            {
+                "name": "Hardware Installation and Repair",
+                "level": 4,
+                "explanation": "Performed hardware installation and repair as a Geek Squad Agent, showing strong proficiency."
+            },
+            {
+                "name": "Software Installation and Repair",
+                "level": 4,
+                "explanation": "Performed software installation and repair as a Geek Squad Agent, indicating strong proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Assisted with inventory management as a Shipping & Receiving Associate, showing a solid working proficiency."
+            },
+            {
+                "name": "Logistics and Warehouse Management",
+                "level": 3,
+                "explanation": "Performed general logistics and warehouse duties as a Shipping & Receiving Associate, indicating a solid working proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Performed troubleshooting of aircraft as an Aviation Electrician, showing strong proficiency."
+            },
+            {
+                "name": "Maintenance and Repair",
+                "level": 4,
+                "explanation": "Performed maintenance of aircraft as an Aviation Electrician, indicating strong proficiency."
+            },
+            {
+                "name": "Quality Control",
+                "level": 3,
+                "explanation": "Performed daily safe for flight inspections as an Aviation Electrician, showing a solid working proficiency."
+            },
+            {
+                "name": "Computer Hardware",
+                "level": 3,
+                "explanation": "Refurbished and setup PCs as a Geek Squad Agent, indicating a solid working proficiency."
+            },
+            {
+                "name": "Computer Software",
+                "level": 3,
+                "explanation": "Installed and repaired software as a Geek Squad Agent, showing a solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 0,
+                "explanation": "No evidence of project management experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 0,
+                "explanation": "No evidence of leadership experience."
+            }
+        ]
+    }
+}

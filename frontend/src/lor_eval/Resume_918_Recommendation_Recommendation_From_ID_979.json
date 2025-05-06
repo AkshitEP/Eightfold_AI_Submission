@@ -1,0 +1,12 @@
+{
+    "resume_file": "918.json",
+    "recommendation_file": "Recommendation_From_ID_979.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation lacks specific examples or evidence from the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The recommendation seems to be genuine, but there are some inconsistencies and exaggerated claims."
+    }
+}

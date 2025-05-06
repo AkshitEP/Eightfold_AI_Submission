@@ -1,0 +1,112 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Owner",
+                "work_description": "Highly skilled technology leader with proven success in providing innovative and creative application solutions, tools, and processes across organizations.",
+                "company_level": "Mid-level",
+                "start_date": "01/1998",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Coordinator Technology Support-School of Fine Arts",
+                "work_description": "Oversee the technology support for the division focused on analyzing the current environment of the faculty and staff.",
+                "company_level": "Mid-level",
+                "start_date": "08/2001",
+                "end_date": "08/2009"
+            },
+            {
+                "role_name": "Coordinator",
+                "work_description": "Oversaw the desktop support for the administration and staff in IT Services, which included developing database solutions troubleshooting technology issues, and the installation of hardware and software.",
+                "company_level": "Mid-level",
+                "start_date": "01/1997",
+                "end_date": "01/2001"
+            },
+            {
+                "role_name": "Technology Manager",
+                "work_description": "Managed IT Services in the student technology learning centers - open to all students.",
+                "company_level": "Mid-level",
+                "start_date": "01/1992",
+                "end_date": "01/1997"
+            }
+        ],
+        "education": [
+            {
+                "university": "Miami University",
+                "start_date": "01/1997",
+                "end_date": "12/2001",
+                "domain": "Educational Leadership",
+                "level": "PHD"
+            },
+            {
+                "university": "Southwestern College of Business",
+                "start_date": "01/1990",
+                "end_date": "12/1992",
+                "domain": "Computer Science",
+                "level": "Associate"
+            },
+            {
+                "university": "Washburn University",
+                "start_date": "01/1985",
+                "end_date": "12/1989",
+                "domain": "Music",
+                "level": "Bachelor"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Presentation for Ohio Learning Network Conference Topic: 'The Arts and STEM Legislation: The Impact on Teaching and Learning'",
+            "Presentation for Miami University Center for Learning and Teaching Conference :Topic: 'MU Student e-Portfolios'",
+            "Participated in Filemaker Developers Conferences"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including as an owner and technology manager, indicating expert-level mastery."
+            },
+            {
+                "name": "Technology Management",
+                "level": 5,
+                "explanation": "Has managed IT services and technology support for various organizations, showing expert-level proficiency."
+            },
+            {
+                "name": "Database Solutions",
+                "level": 4,
+                "explanation": "Developed database solutions as a coordinator, suggesting strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Troubleshooted technology issues as a coordinator, indicating strong proficiency."
+            },
+            {
+                "name": "Hardware and Software Installation",
+                "level": 4,
+                "explanation": "Installed hardware and software as a coordinator, suggesting strong proficiency."
+            },
+            {
+                "name": "Presentation Skills",
+                "level": 4,
+                "explanation": "Gave presentations at conferences, indicating strong proficiency in presentation skills."
+            },
+            {
+                "name": "Educational Leadership",
+                "level": 4,
+                "explanation": "Earned a PhD in Educational Leadership, suggesting strong proficiency."
+            },
+            {
+                "name": "Computer Science",
+                "level": 3,
+                "explanation": "Earned an associate's degree in Computer Science, showing solid working proficiency."
+            },
+            {
+                "name": "Filemaker",
+                "level": 3,
+                "explanation": "Participated in Filemaker Developers Conferences, indicating solid working proficiency."
+            }
+        ]
+    }
+}

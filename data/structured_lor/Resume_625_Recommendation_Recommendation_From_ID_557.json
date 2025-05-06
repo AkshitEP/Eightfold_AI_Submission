@@ -1,0 +1,17 @@
+{
+    "resume_file": "625.json",
+    "recommendation_file": "Recommendation_From_ID_557.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Finance Officer with no direct HR experience raises some concerns about their ability to fully assess the candidate's HR skills.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Leadership",
+            "Change Management",
+            "Staff Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional competence and leadership in HR, but the recommender's background in finance may limit their expertise in evaluating the candidate's HR skills."
+    }
+}

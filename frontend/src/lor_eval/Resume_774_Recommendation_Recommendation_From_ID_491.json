@@ -1,0 +1,17 @@
+{
+    "resume_file": "774.json",
+    "recommendation_file": "Recommendation_From_ID_491.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Rollizo's Information Technology Services' which is not mentioned in the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Data Management",
+            "Communication",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's administrative and customer service skills, which align with their experience as an Administrative Assistant and Medical Assistant. However, some minor inconsistencies and lack of specific examples from the resume reduce the relevance score."
+    }
+}

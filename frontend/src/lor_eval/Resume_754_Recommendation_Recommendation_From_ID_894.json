@@ -1,0 +1,20 @@
+{
+    "resume_file": "754.json",
+    "recommendation_file": "Recommendation_From_ID_894.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The Branch Chief Information Technology Specialist's experience and expertise in overseeing large-scale IT operations for the Air Force seems unrelated to the candidate's experience and skills.",
+        "verified_skills": [
+            "Analytical Testing",
+            "Method Development",
+            "Instrument Calibration",
+            "Research and Development",
+            "EPIC Systems",
+            "Team Collaboration",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in supporting healthcare professionals with the EPIC Care system, analytical techniques, and operational workflows. However, the source of the recommendation seems unrelated to the candidate's experience and skills, and some claims seem exaggerated."
+    }
+}

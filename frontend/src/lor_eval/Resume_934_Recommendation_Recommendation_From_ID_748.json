@@ -1,0 +1,18 @@
+{
+    "resume_file": "934.json",
+    "recommendation_file": "Recommendation_From_ID_748.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Technology"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, project coordination, and technology proficiency. However, it does not directly mention some of the candidate's other skills, such as Event Planning, Customer Service, and Marketing."
+    }
+}

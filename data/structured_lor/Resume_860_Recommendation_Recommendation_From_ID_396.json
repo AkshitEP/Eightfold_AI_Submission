@@ -1,0 +1,17 @@
+{
+    "resume_file": "860.json",
+    "recommendation_file": "Recommendation_From_ID_396.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Market Research",
+            "Business Planning",
+            "Business Administration",
+            "Economics"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical talents and business acumen. However, the recommender's role and relationship with the candidate are not explicitly stated, but based on the context, it appears to be a peer."
+    }
+}

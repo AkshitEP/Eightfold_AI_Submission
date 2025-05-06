@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Information Technology",
+                "work_description": "Provides leadership in directing, planning, managing, and implementing the information technology needs of the City of Greensboro. Provided oversight and direction for the Application Services, GIS, Network Services and Public Safety IT divisions. Establishes guidelines and programs for effective information technology management. Facilitates and implements City-wide strategic policy for planning, development, and deployment of information technology.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2000",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Network Services Manager",
+                "work_description": "Managed the Desktop Services Division, which included the Help Desk, local area network, server administration, training and leasing of computer technology. Maintained and assisted with the support for enterprise-wide technology deployment. Ensured that the customers' technology needs were addressed and resolved in an efficient and effective manner.",
+                "company_level": "Large Corporation",
+                "start_date": "07/1998",
+                "end_date": "05/2000"
+            },
+            {
+                "role_name": "Data Communications Analyst",
+                "work_description": "Installed, maintained, configured and analyzed the data communication needs for the City of Greensboro. Installed and configured modems, multiplexers, routers, control units and DEC and IBM terminals. Analyzed system needs and configuration requirements to acquire the appropriate equipment. Managed, maintained and resolved complex system problems with the IBM Mainframe, VAX systems, and servers.",
+                "company_level": "Large Corporation",
+                "start_date": "06/1989",
+                "end_date": "07/1998"
+            },
+            {
+                "role_name": "Electronics Technician",
+                "work_description": "Repaired, installed, configured and maintained PC's, servers, modems and other communication equipment. Installed and designed network and data communication circuits. Managed setup and installed communication equipment which included mid-range servers, communications equipment, VAX systems and PC's.",
+                "company_level": "Large Corporation",
+                "start_date": "09/1986",
+                "end_date": "06/1989"
+            }
+        ],
+        "education": [
+            {
+                "university": "North Carolina A&T State University",
+                "start_date": "01/1982",
+                "end_date": "12/1986",
+                "domain": "Industrial Technology (Electronics)",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "UNC-Chapel Hill",
+                "start_date": "01/2005",
+                "end_date": "11/2005",
+                "domain": "Information Technology",
+                "level": "Certified Chief Information Officer (CIO)"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Provided leadership in directing, planning, managing, and implementing the information technology needs of the City of Greensboro, indicating expert-level mastery."
+            },
+            {
+                "name": "Information Technology Management",
+                "level": 5,
+                "explanation": "Established guidelines and programs for effective information technology management, and facilitated and implemented City-wide strategic policy for planning, development, and deployment of information technology, showing expert-level mastery."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Managed the Desktop Services Division, which included the local area network, server administration, and ensured that the customers' technology needs were addressed and resolved in an efficient and effective manner, indicating strong proficiency."
+            },
+            {
+                "name": "Data Communications",
+                "level": 4,
+                "explanation": "Installed, maintained, configured and analyzed the data communication needs for the City of Greensboro, and managed, maintained and resolved complex system problems with the IBM Mainframe, VAX systems, and servers, showing strong proficiency."
+            },
+            {
+                "name": "System Analysis",
+                "level": 4,
+                "explanation": "Analyzed system needs and configuration requirements to acquire the appropriate equipment, and managed, maintained and resolved complex system problems with the IBM Mainframe, VAX systems, and servers, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Provided oversight and direction for the Application Services, GIS, Network Services and Public Safety IT divisions, and facilitated and implemented City-wide strategic policy for planning, development, and deployment of information technology, showing strong proficiency."
+            },
+            {
+                "name": "Technical Support",
+                "level": 3,
+                "explanation": "Maintained and assisted with the support for enterprise-wide technology deployment, and ensured that the customers' technology needs were addressed and resolved in an efficient and effective manner, indicating solid working proficiency."
+            },
+            {
+                "name": "Server Administration",
+                "level": 3,
+                "explanation": "Managed the local area network, server administration, and ensured that the customers' technology needs were addressed and resolved in an efficient and effective manner, showing solid working proficiency."
+            }
+        ]
+    }
+}

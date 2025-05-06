@@ -1,0 +1,19 @@
+{
+    "resume_file": "329.json",
+    "recommendation_file": "Recommendation_From_ID_51.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Teaching",
+            "Curriculum Development",
+            "Visual Arts",
+            "Photography",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, classroom management skills, and ability to integrate technology into teaching. The source of the recommendation is a peer, specifically an Information Technology Specialist, who has witnessed the instructor's exceptional abilities firsthand."
+    }
+}

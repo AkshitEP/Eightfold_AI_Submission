@@ -1,0 +1,83 @@
+{
+    "target_id": "608",
+    "recommendations": [
+        {
+            "recommender_id": "364",
+            "recommendation": {
+                "resume_file": "608.json",
+                "recommendation_file": "Recommendation_From_ID_364.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Communication",
+                        "Emotional Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and communication skills. However, the source of the recommendation is unclear, and some skills mentioned in the recommendation (e.g., CPR and blood withdrawal) are not explicitly listed in the candidate's skills section."
+                }
+            }
+        },
+        {
+            "recommender_id": "946",
+            "recommendation": {
+                "resume_file": "608.json",
+                "recommendation_file": "Recommendation_From_ID_946.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but the source of the recommendation seems unrelated to the candidate's work experience. The recommender's background as a Sales Associate does not provide direct insight into the candidate's skills or work performance.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Communication",
+                        "Emotional Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in patient care, communication, and emotional support, but the recommender's lack of direct experience in the healthcare field raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "845",
+            "recommendation": {
+                "resume_file": "608.json",
+                "recommendation_file": "Recommendation_From_ID_845.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Emotional Support",
+                        "Communication",
+                        "Phlebotomy"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and adaptability in various healthcare settings."
+                }
+            }
+        },
+        {
+            "recommender_id": "664",
+            "recommendation": {
+                "resume_file": "608.json",
+                "recommendation_file": "Recommendation_From_ID_664.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Emotional Support",
+                        "Communication",
+                        "Confidentiality"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and medical knowledge. However, the source of the recommendation is unclear."
+                }
+            }
+        }
+    ]
+}

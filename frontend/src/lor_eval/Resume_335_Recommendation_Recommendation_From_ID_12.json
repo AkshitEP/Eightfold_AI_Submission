@@ -1,0 +1,19 @@
+{
+    "resume_file": "335.json",
+    "recommendation_file": "Recommendation_From_ID_12.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written from the perspective of a Partner Account Manager, which is not directly related to the candidate's experience. However, the recommendation does highlight the candidate's skills and experience in bank operations, compliance analysis, and customer service.",
+        "verified_skills": [
+            "Bank Operations",
+            "Compliance Analysis",
+            "Customer Service",
+            "Data Analysis",
+            "Team Management",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is generally relevant to the candidate's skills and experience, but the source of the recommendation is unclear. The recommendation highlights the candidate's strengths in bank operations, compliance analysis, and customer service, but also mentions the Partner Account Manager's experience, which is not directly related to the candidate's experience."
+    }
+}

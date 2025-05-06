@@ -1,0 +1,22 @@
+{
+    "resume_id": 74,
+    "recommendation_file": "Recommendation_From_ID_886.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's background as a Finance Director seems unrelated to the candidate's IT experience, raising some concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "IT Management",
+            "Technical Support",
+            "Network Administration",
+            "Software Management",
+            "Leadership",
+            "Microsoft Windows",
+            "Mac OS X",
+            "Linux",
+            "Cisco Infrastructure"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills and experience in IT management, but the recommender's background and lack of direct experience in IT raises some concerns about the authenticity of the recommendation."
+    }
+}

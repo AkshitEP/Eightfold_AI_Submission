@@ -1,0 +1,18 @@
+{
+    "resume_file": "800.json",
+    "recommendation_file": "Recommendation_From_ID_851.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. Additionally, the recommender's background in Marketing & Sales seems unrelated to the candidate's QA experience.",
+        "verified_skills": [
+            "Software Quality Assurance",
+            "Test Case Development",
+            "Functional Testing",
+            "Regression Testing",
+            "Business Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills and experience in software quality assurance, but the recommender's background and relationship with the candidate are unclear. The recommendation also mentions the candidate's exceptional communication skills and commitment to improving product quality and operational efficiency."
+    }
+}

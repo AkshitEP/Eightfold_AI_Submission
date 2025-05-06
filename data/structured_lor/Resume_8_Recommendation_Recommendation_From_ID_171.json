@@ -1,0 +1,18 @@
+{
+    "resume_file": "8.json",
+    "recommendation_file": "Recommendation_From_ID_171.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be written by someone from a different field (logistics and operations management) and lacks specific examples from the candidate's resume. The language is formal, but the connection to the candidate's skills and experience is weak.",
+        "verified_skills": [
+            "Curriculum Design",
+            "Instructional Design",
+            "Leadership",
+            "Mentoring",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in curriculum design, instructional design, and leadership, but lacks concrete examples from the candidate's resume. The source of the recommendation is unclear, and the connection to the candidate's skills and experience is weak."
+    }
+}

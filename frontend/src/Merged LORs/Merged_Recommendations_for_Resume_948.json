@@ -1,0 +1,73 @@
+{
+    "target_id": "948",
+    "recommendations": [
+        {
+            "recommender_id": "860",
+            "recommendation": {
+                "resume_id": 948,
+                "recommendation_file": "Recommendation_From_ID_860.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Cash Handling",
+                        "Banking Operations",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, operational efficiency, and professionalism. The recommendation is from a Research Assistant, but the relationship to the candidate is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "701",
+            "recommendation": {
+                "resume_id": 948,
+                "recommendation_file": "Recommendation_From_ID_701.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Cash Handling",
+                        "Banking Operations",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills, cash handling, and banking operations. The recommendation also highlights the candidate's leadership, time management, communication, problem-solving, and team management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "642",
+            "recommendation": {
+                "resume_file": "948.json",
+                "recommendation_file": "Recommendation_From_ID_642.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Cash Handling",
+                        "Banking Operations",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and banking operations abilities. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        }
+    ]
+}

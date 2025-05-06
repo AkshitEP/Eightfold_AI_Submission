@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Medical Scribe",
+                "work_description": "Assist in transition to electronic medical records, essentially acting as a personal assistant to the physician; performing documentation in the EHR, documenting information during the patient's visit, and partnering with the physician to deliver the pinnacle of efficient patient care.",
+                "company_level": "Mid-level",
+                "start_date": "08/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Personal Trainer",
+                "work_description": "Provide personalized attention, professional instruction, and exercise programming to each client, in order to maximize their health, fitness, and wellness goals, post-injury rehabilitation.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Medical Assistant/Casting Technician",
+                "work_description": "Assists in examination and treatment of patients under the direction of a physician. Interviews patients, measures vital signs, draws necessary blood samples and prepares specimens for laboratory analysis.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Level 2 Personal Trainer",
+                "work_description": "Provided personalized attention, professional instruction, and exercise programming to each client, in order to maximize their health, fitness, and wellness goals while providing the highest level of customer service.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Chiropractic Assistant",
+                "work_description": "Responsible for the administration of patient treatments, as directed by the chiropractor. Obtained and recorded patient vital signs. Scheduled appointments and recorded patient treatments.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Fitness Manager/ Level 3 Trainer",
+                "work_description": "Responsible for communicating and upholding company policies and procedures. Managed a clean, friendly and well-maintained club.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Colorado",
+                "start_date": "01/2007",
+                "end_date": "12/2011",
+                "domain": "Integrative Physiology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Electronic Medical Records",
+                "level": 3,
+                "explanation": "Assisted in the transition to electronic medical records, indicating a solid working proficiency."
+            },
+            {
+                "name": "Patient Care",
+                "level": 4,
+                "explanation": "Participated in delivering high-quality patient care as a medical scribe and medical assistant, showing strong proficiency."
+            },
+            {
+                "name": "Medical Documentation",
+                "level": 3,
+                "explanation": "Documented patient information in electronic health records, indicating a solid working proficiency."
+            },
+            {
+                "name": "Personal Training",
+                "level": 4,
+                "explanation": "Provided personalized attention and exercise programming to clients, showing strong proficiency in personal training."
+            },
+            {
+                "name": "Health and Wellness",
+                "level": 3,
+                "explanation": "Helped clients achieve their health and wellness goals, indicating a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided high-quality customer service as a personal trainer, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Managed a fitness club and communicated company policies, showing some practical experience in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Effectively managed time as a medical scribe, personal trainer, and fitness manager, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Demonstrated effective communication skills as a medical scribe, personal trainer, and fitness manager, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

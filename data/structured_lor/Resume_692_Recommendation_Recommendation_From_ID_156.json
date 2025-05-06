@@ -1,0 +1,18 @@
+{
+    "resume_file": "692.json",
+    "recommendation_file": "Recommendation_From_ID_156.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Leadership",
+            "Management",
+            "Budgeting",
+            "Cost Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and operational efficiency. The source of the recommendation is a Finance Director, indicating a supervisory relationship."
+    }
+}

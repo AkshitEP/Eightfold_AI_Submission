@@ -1,0 +1,94 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "SENIOR SPECIALTY SALES REPRESENTATIVE",
+                "work_description": "Marketing and promoting CVD products to NYC CV, Endocrinology, and Nephrology specialists and hospitals. Business Planning, Sales Forecasting and strong use of Excel. Meeting and exceeding sales goals. Built strong business relationships with healthcare executives and key opinion leaders. Strong collaboration with internal partners.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "SENIOR SPECIALTY SALES REPRESENTATIVE",
+                "work_description": "Promotion of key branded products to Internal Medicine, Pulmonologists Cardiologists, Nephrologists, Allergists, Dermatologists, Psychiatrists, Geriatric Specialists, Neurologists, Otolaryngologists, and NYC Hospital Teaching Institutions.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2003",
+                "end_date": "01/2005"
+            },
+            {
+                "role_name": "PROFESSIONAL HEALTHCARE REPRESENTATIVE",
+                "work_description": "Promotion of key branded products to Internal Medicine, Pulmonologists Cardiologists, Nephrologists, Allergists, Dermatologists, Psychiatrists, Geriatric Specialists, Neurologists, Otolaryngologists, and NYC Hospital Teaching Institutions.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2001",
+                "end_date": "01/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "City, State",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Business Certificate - Marketing International Marketing Biology",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "City, State",
+                "start_date": "01/1998",
+                "end_date": "12/1998",
+                "domain": "Biology and Chemistry",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Hockey",
+            "Triathlete",
+            "Music - Piano and Guitar",
+            "Woodworking and Carpentry"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Sales and Marketing",
+                "level": 5,
+                "explanation": "Over a decade of experience in sales and marketing, consistently meeting and exceeding sales goals, and promoting key branded products to various medical specialists and hospitals, indicating expert-level mastery."
+            },
+            {
+                "name": "Business Planning",
+                "level": 4,
+                "explanation": "Strong experience in business planning, sales forecasting, and collaboration with internal partners, suggesting a strong proficiency in business planning."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Strong use of Excel for sales forecasting and business planning, indicating a strong proficiency in using the software."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Collaboration with internal partners and strong business relationships with healthcare executives and key opinion leaders, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effective communication with medical specialists, hospitals, and internal partners, suggesting a strong proficiency in communication."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed sales goals and business planning, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "International Marketing",
+                "level": 2,
+                "explanation": "Some education in international marketing, but limited practical experience, suggesting some practical experience."
+            },
+            {
+                "name": "Biology",
+                "level": 2,
+                "explanation": "Education in biology, but limited practical experience, suggesting some practical experience."
+            }
+        ]
+    }
+}

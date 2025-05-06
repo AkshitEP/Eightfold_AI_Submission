@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Received and processed cash and credit payments for purchases as well as payments to Dillard's credit card. Opened lines of credit. Opened and closed the counter, including counting cash, opening and closing cash registers and creating staff assignments. Worked as a team member to provide the highest level of service to customers. Made courtesy calls to existing customers for upcoming event information and debuting new merchandise.",
+                "company_level": "Mid-level",
+                "start_date": "03/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Receptionist",
+                "work_description": "Conduct outgoing phone calls to collect members' billing information and process payments. Operate Microsoft Lync to answer, screen, and forward calls, providing information, taking messages, and scheduling appointments. Resolve customer complaints or redirect them to appropriate management.",
+                "company_level": "Mid-level",
+                "start_date": "11/2015",
+                "end_date": "02/2016"
+            },
+            {
+                "role_name": "Service Representative",
+                "work_description": "Compile information about new accounts, enter account information into computers, and file related forms or other documents. Handle inbound calls; resolve membership issues; answer customer inquiries; redirect phone calls to appropriate associates. Understand and implement company policies as well as explain policies to customers in a straight forward and professional manner. Operate register and process cash/credit transactions; opened and closed out registers. Collect referrals and inform members of membership promotions for discounts and deals.",
+                "company_level": "Mid-level",
+                "start_date": "02/2015",
+                "end_date": "11/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Mesa Community College",
+                "start_date": "01/2014",
+                "end_date": "Present",
+                "domain": "General Business",
+                "level": "Associate's"
+            },
+            {
+                "university": "James Madison Preparatory School",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "General",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience in various customer-facing roles, including sales associate, receptionist, and service representative, demonstrating expert-level mastery in customer service."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with customers through phone calls, in-person interactions, and written messages, showing strong proficiency in communication."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 4,
+                "explanation": "Handled cash and credit transactions in multiple roles, including operating cash registers and processing payments, indicating strong proficiency in cash handling."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Resolved customer complaints and issues in various roles, demonstrating a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple tasks and responsibilities in fast-paced environments, including opening and closing cash registers, answering phone calls, and scheduling appointments, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked as a team member to provide high-level service to customers, demonstrating a solid working proficiency in teamwork."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 2,
+                "explanation": "Used Microsoft Lync to answer and forward calls, suggesting some practical experience with Microsoft Office."
+            },
+            {
+                "name": "Data Entry",
+                "level": 2,
+                "explanation": "Entered account information into computers and filed related forms, indicating some practical experience with data entry."
+            }
+        ]
+    }
+}

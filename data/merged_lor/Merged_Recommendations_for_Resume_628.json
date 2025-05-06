@@ -1,0 +1,49 @@
+{
+    "target_id": "628",
+    "recommendations": [
+        {
+            "recommender_id": "20",
+            "recommendation": {
+                "resume_file": "628.json",
+                "recommendation_file": "Recommendation_From_ID_20.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Talent Acquisition",
+                        "Employee Management",
+                        "Applicant Tracking System",
+                        "Leadership",
+                        "Communication",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment and HR-related accomplishments. The source of the recommendation is an HR Manager, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "470",
+            "recommendation": {
+                "resume_file": "628.json",
+                "recommendation_file": "Recommendation_From_ID_470.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Talent Acquisition",
+                        "Job Analysis",
+                        "Employee Management",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment efforts and HR expertise. However, the source of the recommendation is unclear."
+                }
+            }
+        }
+    ]
+}

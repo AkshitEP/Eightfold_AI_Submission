@@ -1,0 +1,105 @@
+{
+    "target_id": "683",
+    "recommendations": [
+        {
+            "recommender_id": "125",
+            "recommendation": {
+                "resume_file": "683.json",
+                "recommendation_file": "Recommendation_From_ID_125.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Equipment Operation",
+                        "Attention to Detail",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and operational abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "53",
+            "recommendation": {
+                "resume_file": "683.json",
+                "recommendation_file": "Recommendation_From_ID_53.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Equipment Operation",
+                        "Training and Development",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and attention to detail. However, the recommendation does not directly mention the candidate's experience in nursing, which is a significant part of their education and career goals."
+                }
+            }
+        },
+        {
+            "recommender_id": "817",
+            "recommendation": {
+                "resume_file": "683.json",
+                "recommendation_file": "Recommendation_From_ID_817.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, unclear relationship between recommender and candidate.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Equipment Operation",
+                        "Training and Development",
+                        "Time Management",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and operations management skills, but does not directly address their nursing skills or education."
+                }
+            }
+        },
+        {
+            "recommender_id": "679",
+            "recommendation": {
+                "resume_file": "683.json",
+                "recommendation_file": "Recommendation_From_ID_679.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unclear recommender relationship",
+                    "verified_skills": [
+                        "Leadership",
+                        "Teamwork",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and unclear relationships that raise some concerns about the validity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "736",
+            "recommendation": {
+                "resume_file": "683.json",
+                "recommendation_file": "Recommendation_From_ID_736.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's relationship with the candidate is unclear, and the tone seems overly positive.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Equipment Operation",
+                        "Training and Development",
+                        "Attention to Detail"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and equipment operation abilities. However, the recommender's relationship with the candidate is unclear, and the tone seems overly positive, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

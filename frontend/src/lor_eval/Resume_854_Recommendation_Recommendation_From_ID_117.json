@@ -1,0 +1,12 @@
+{
+    "resume_id": 854,
+    "recommendation_file": "Recommendation_From_ID_117.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is for a completely different role and skill set than the resume, and the language used is overly flattering and generic. The mention of specific projects and an award seems suspicious.",
+        "verified_skills": [],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation seems fraudulent, with obvious signs of exaggeration or misrepresentation. It is unclear how the recommendation relates to the candidate's actual experience."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "562.json",
+    "recommendation_file": "Recommendation_From_ID_603.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but there are some minor inconsistencies. The staff accountant's skills and experience are not mentioned in the resume, and the recommendation seems to be referring to two different individuals.",
+        "verified_skills": [
+            "Budgeting",
+            "Financial Analysis",
+            "Accounting Operations",
+            "Financial Reporting",
+            "Project Management",
+            "Data Analysis",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in budget management and financial reporting, but there are some inconsistencies and unclear references to a staff accountant."
+    }
+}

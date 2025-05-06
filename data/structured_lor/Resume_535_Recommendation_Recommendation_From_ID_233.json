@@ -1,0 +1,17 @@
+{
+    "resume_file": "535.json",
+    "recommendation_file": "Recommendation_From_ID_233.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. Some minor inconsistencies in the recommender's description of the candidate's experience.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Customer Engagement",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and team management abilities. However, the recommender's role and relationship with the candidate are unclear, and some minor inconsistencies are present in the description of the candidate's experience."
+    }
+}

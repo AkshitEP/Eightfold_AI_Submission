@@ -1,0 +1,21 @@
+{
+    "resume_id": 101,
+    "recommendation_file": "Recommendation_From_ID_24.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Marketing",
+            "Sales",
+            "Project Management",
+            "Strategic Planning",
+            "Communication",
+            "Team Management",
+            "Business Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, marketing, and operational abilities. The source of the recommendation is the Director of Finance, indicating a peer-level relationship."
+    }
+}

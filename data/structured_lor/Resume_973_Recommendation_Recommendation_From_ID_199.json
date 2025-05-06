@@ -1,0 +1,16 @@
+{
+    "resume_id": 973,
+    "recommendation_file": "Recommendation_From_ID_199.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation highlights skills not explicitly mentioned in the resume, such as logistical management and program management, but still seems largely credible.",
+        "verified_skills": [
+            "Administrative Support",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's administrative experience, but some claims seem exaggerated or unsupported. The source of the recommendation is unclear, and the language is formal."
+    }
+}

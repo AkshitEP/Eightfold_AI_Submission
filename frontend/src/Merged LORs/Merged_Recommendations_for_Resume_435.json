@@ -1,0 +1,79 @@
+{
+    "target_id": "435",
+    "recommendations": [
+        {
+            "recommender_id": "381",
+            "recommendation": {
+                "resume_file": "435.json",
+                "recommendation_file": "Recommendation_From_ID_381.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Tax Preparation",
+                        "Financial Analysis",
+                        "Account Management",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "533",
+            "recommendation": {
+                "resume_file": "435.json",
+                "recommendation_file": "Recommendation_From_ID_533.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Tax Preparation",
+                        "Financial Analysis",
+                        "Account Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and bilingual skills. The recommendation source is a peer, indicating a collaborative working relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "977",
+            "recommendation": {
+                "resume_file": "435.json",
+                "recommendation_file": "Recommendation_From_ID_977.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Tax Preparation",
+                        "Financial Analysis",
+                        "Account Management",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns perfectly with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership qualities, and analytical skills."
+                }
+            }
+        }
+    ]
+}

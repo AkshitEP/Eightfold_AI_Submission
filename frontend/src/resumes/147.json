@@ -1,0 +1,122 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Controller",
+                "work_description": "Manage large scale revenue cycle contracts in day to day operational finance & accounting activities including budgeting/forecasting, revenue recognition and financial reporting. Reviewed and refined operational accounting procedures. Investigated and resolved capex vs opex discrepancies resulting in a $500k opex adjustment. Developed processes for review and approval of company capital investments.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Division Controller",
+                "work_description": "Managed accounting operations for a $700M IT Services Division, including monthly close, revenue recognition, billing and BS reconciliation. Perform and direct periodic financial analysis, reporting & forecasting. Provide financial decision support to region and account leaders; produce monthly report decks, review and analyze financial variances and provide accounting guidance.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2008",
+                "end_date": "07/2014"
+            },
+            {
+                "role_name": "Corporate Controller",
+                "work_description": "Managed all aspects of accounting operations and financial reporting for a $45 million hardwood flooring wholesale distribution company with locations in the U.S., Malaysia and Europe. Developed the accounting and financial infrastructure post-acquisition including the selection/implementation of an ERP system, recruiting staff and establishing accounting policies and procedures.",
+                "company_level": "Mid-level",
+                "start_date": "02/2002",
+                "end_date": "05/2008"
+            },
+            {
+                "role_name": "Senior Accounting Consultant",
+                "work_description": "Post acquisition integration of vendors and purchasing processes. Prepared service line profitability analysis and analyzed variable costs and vendor performance and identified 'critical to quality' points(CTQ's). Developed processes for transitioning data from legacy system to Oracle to ensure timely reporting to Corporate.",
+                "company_level": "Mid-level",
+                "start_date": "08/2001",
+                "end_date": "01/2002"
+            },
+            {
+                "role_name": "Senior Business Analyst",
+                "work_description": "Planned and directed the analysis of Industry 'Best Practices' to improve financial operations. Evaluated and maintained GAAP compliance for reporting. Responsible for preparing department budget and P&L. Analyzed company's inventory assets resulting in a $14 M obsolescence reduction plan proposal.",
+                "company_level": "Mid-level",
+                "start_date": "10/2000",
+                "end_date": "08/2001"
+            },
+            {
+                "role_name": "Finance Director Education and Client Support Services",
+                "work_description": "Directed the development of financial software training programs, delivered content and mentored consulting staff, reporting directly to the CFO. Served as integration expert for Platinum SQL (EPICOR) accounting system, providing critical system support to clients and service partners.",
+                "company_level": "Mid-level",
+                "start_date": "10/1996",
+                "end_date": "08/2000"
+            },
+            {
+                "role_name": "Senior Financial Analyst",
+                "work_description": "Analyzed accounting processes, resolved system processing issues. System consolidations and budgeting process. Managed project deliverables, including development of project plans, budgets and staffing for ERP financial systems implementations across varied industries.",
+                "company_level": "Mid-level",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "university": "Hawaii Pacific University",
+                "start_date": "01/1993",
+                "end_date": "05/1994",
+                "domain": "Accounting",
+                "level": "MBA"
+            },
+            {
+                "university": "Hawaii Pacific University",
+                "start_date": "01/1990",
+                "end_date": "05/1993",
+                "domain": "Business Administration",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Has extensive experience in managing financial reporting for large-scale companies, including revenue recognition, budgeting, and forecasting, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounting Operations",
+                "level": 5,
+                "explanation": "Has managed all aspects of accounting operations for multiple companies, including monthly close, billing, and balance sheet reconciliation, showing expert-level proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Has developed and managed budgets for large-scale companies, including budgeting and forecasting, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Has performed and directed periodic financial analysis, including financial variances and accounting guidance, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has managed and directed teams, including accounting operations and financial analysis, indicating strong leadership skills."
+            },
+            {
+                "name": "ERP System Implementation",
+                "level": 4,
+                "explanation": "Has implemented and managed ERP systems, including Oracle and Platinum SQL, indicating strong proficiency."
+            },
+            {
+                "name": "GAAP Compliance",
+                "level": 4,
+                "explanation": "Has evaluated and maintained GAAP compliance for reporting, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has managed project deliverables, including development of project plans, budgets, and staffing, showing solid working proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 3,
+                "explanation": "Likely used extensively for managing financial records and analysis, suggesting solid working proficiency."
+            }
+        ]
+    }
+}

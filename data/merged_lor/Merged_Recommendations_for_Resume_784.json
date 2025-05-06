@@ -1,0 +1,66 @@
+{
+    "target_id": "784",
+    "recommendations": [
+        {
+            "recommender_id": "212",
+            "recommendation": {
+                "resume_file": "784.json",
+                "recommendation_file": "Recommendation_From_ID_212.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales",
+                        "Rapport Building",
+                        "Relationship Building",
+                        "Financial Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and interpersonal skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "553",
+            "recommendation": {
+                "resume_file": "784.json",
+                "recommendation_file": "Recommendation_From_ID_553.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales",
+                        "Leadership",
+                        "Rapport Building",
+                        "Relationship Building"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales success, customer relationships, and leadership abilities. However, it does not mention some of the candidate's other skills, such as project management, process improvement, and credit management."
+                }
+            }
+        },
+        {
+            "recommender_id": "138",
+            "recommendation": {
+                "resume_file": "784.json",
+                "recommendation_file": "Recommendation_From_ID_138.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's role and language, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Relationship Building",
+                        "Sales",
+                        "Finance Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but some minor inconsistencies and overly flattering language may indicate some exaggeration."
+                }
+            }
+        }
+    ]
+}

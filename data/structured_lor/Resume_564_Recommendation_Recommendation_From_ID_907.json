@@ -1,0 +1,16 @@
+{
+    "resume_file": "564.json",
+    "recommendation_file": "Recommendation_From_ID_907.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerations in the recommendation, but overall seems credible.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience as a Child Performer Welfare Advocate, but does not directly mention many of the candidate's skills."
+    }
+}

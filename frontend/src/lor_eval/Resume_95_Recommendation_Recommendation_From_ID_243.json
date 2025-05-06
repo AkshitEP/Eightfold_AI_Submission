@@ -1,0 +1,16 @@
+{
+    "resume_id": 95,
+    "recommendation_file": "Recommendation_From_ID_243.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Aircraft Handling",
+            "Communication",
+            "Aviation"
+        ],
+        "recommendation_source": "Supervisor/Boss",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their aviation experience and education. The recommender's leadership experience in aviation logistics adds credibility to the recommendation."
+    }
+}

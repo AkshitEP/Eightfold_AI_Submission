@@ -1,0 +1,20 @@
+{
+    "resume_file": "680.json",
+    "recommendation_file": "Recommendation_From_ID_720.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Business Process Analysis",
+            "Project Management",
+            "Leadership",
+            "Data Analysis",
+            "Problem-Solving",
+            "Team Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business analysis and process optimization expertise, as well as their ability to work with cross-functional teams and enhance healthcare services."
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "QUALITY ASSURANCE ADVOCATE",
+                "work_description": "Audit and report on customer interactions using the current Time Warner Cable Quality program. Utilizing the Time Warner Cable Quality database, recording platforms, and analytics tools, perform trend based auditing and data entry. Calibrate for consistency. Hold supervisor forums. Support New Hire training via role play and mentoring. Use of speech analytics to facilitate and monitor trends. Active in site level events supporting the Quality initiative.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "SIGNATURE HOME ADVISOR",
+                "work_description": "Responsible for providing quality service to customers via phone in account activation, maintenance, billing, problem solving, modification, enhancement and when required, de-activation. Maintains a focus on sales culture by upselling products and services to existing customers and making customer retention a priority.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2013",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "RETAIL SALES CONSULTANT",
+                "work_description": "Sold all products and services offered by the Company. Met all sales objectives and handle all administrative aspects of the sale including: completing customer contracts and warranties, pulling products from inventory, accepting customer payments and filing the completed orders.",
+                "company_level": "Mid-level",
+                "start_date": "04/2012",
+                "end_date": "04/2013"
+            },
+            {
+                "role_name": "LEASING CONSULTANT",
+                "work_description": "Interacted with prospective and current residents to explain the apartment community and its units, along with the benefits of the living there to achieve maximum occupancy and net operating income.",
+                "company_level": "Mid-level",
+                "start_date": "07/2011",
+                "end_date": "04/2012"
+            },
+            {
+                "role_name": "INTERN STUDENT",
+                "work_description": "Analyzed and resolved both simple and complex computer problems. Provided effective, courteous, and timely responses to requests for service. Maintained confidentiality and integrity of information residing on client systems, as well as physical security of those systems.",
+                "company_level": "Startup",
+                "start_date": "09/2010",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "HUMAN RESOURCE ASSISTANT",
+                "work_description": "Conducted either the pre-enlistment and/or the pre-accession interview of applicants. Questioned applicants to obtain and/or verify complete data required for entry into the military service.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2008",
+                "end_date": "12/2009"
+            },
+            {
+                "role_name": "HUMAN RESOURCE MANAGER",
+                "work_description": "Completed five years with the U.S. Army, gained upper-level manager status. Participated in the complete revitalization and overhaul of the U.S. Military in general. Supervised employees In/out processing, over 10,000 employee records, customer service, and employee personnel actions.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2002",
+                "end_date": "07/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "North Carolina Central University",
+                "start_date": "01/2008",
+                "end_date": "05/2013",
+                "domain": "Business Administration Computer Information Systems",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2014",
+                "end_date": "03/2016",
+                "domain": "Law Enforcement Organizations",
+                "level": "Master's"
+            },
+            {
+                "university": "ITT Technical Institute",
+                "start_date": "01/2007",
+                "end_date": "12/2009",
+                "domain": "Computer Network Systems",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "ITT Technical Institute, Gamma Beta Phi Honor Society",
+            "NCCU, Iota Tau Chapter of Phi Beta Lambda, INC"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Quality Assurance",
+                "level": 4,
+                "explanation": "Has extensive experience in auditing and reporting on customer interactions, utilizing quality databases and analytics tools, and calibrating for consistency, indicating strong proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Utilized analytics tools to perform trend-based auditing and data entry, showing a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Held supervisor forums, supported new hire training, and mentored others, indicating strong leadership skills."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided quality service to customers via phone, handled customer complaints, and made customer retention a priority, showing strong proficiency in customer service."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Met sales objectives, upsold products and services, and made customer retention a priority, indicating a solid working proficiency in sales."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Analyzed and resolved complex computer problems, showing a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Provided effective, courteous, and timely responses to requests for service, indicating strong communication skills."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Handled multiple administrative aspects of sales, including completing customer contracts and warranties, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Human Resource Management",
+                "level": 4,
+                "explanation": "Supervised employees, handled employee records, and performed employee personnel actions, indicating strong proficiency in human resource management."
+            },
+            {
+                "name": "Computer Network Systems",
+                "level": 3,
+                "explanation": "Studied computer network systems and analyzed computer problems, showing a solid working proficiency in computer network systems."
+            },
+            {
+                "name": "Law Enforcement",
+                "level": 2,
+                "explanation": "Studied law enforcement organizations, but lacks practical experience, indicating some familiarity with the subject."
+            }
+        ]
+    }
+}

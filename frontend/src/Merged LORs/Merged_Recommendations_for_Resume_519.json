@@ -1,0 +1,65 @@
+{
+    "target_id": "519",
+    "recommendations": [
+        {
+            "recommender_id": "509",
+            "recommendation": {
+                "resume_file": "519.json",
+                "recommendation_file": "Recommendation_From_ID_509.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Communication",
+                        "Time Management",
+                        "Organizational Skills",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment process, collaboration with hiring managers, and ability to build a network of healthcare professionals."
+                }
+            }
+        },
+        {
+            "recommender_id": "148",
+            "recommendation": {
+                "resume_file": "519.json",
+                "recommendation_file": "Recommendation_From_ID_148.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. The recommender claims to have worked in the healthcare sector for over eleven years, but the candidate's resume does not indicate any direct connection to the recommender's experience.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in recruitment and communication, which are relevant to their experience as a Healthcare Recruiter. However, the recommender's background and relationship with the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "630",
+            "recommendation": {
+                "resume_file": "519.json",
+                "recommendation_file": "Recommendation_From_ID_630.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of aviation technician experience, which is not present in the resume. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Communication",
+                        "Time Management",
+                        "Organizational Skills",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in recruitment, but there are some minor inconsistencies and exaggerated claims. The source of the recommendation is unclear, and the mention of aviation technician experience is not supported by the resume."
+                }
+            }
+        }
+    ]
+}

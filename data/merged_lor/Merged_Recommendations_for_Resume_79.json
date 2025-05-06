@@ -1,0 +1,64 @@
+{
+    "target_id": "79",
+    "recommendations": [
+        {
+            "recommender_id": "293",
+            "recommendation": {
+                "resume_id": 79,
+                "recommendation_file": "Recommendation_From_ID_293.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, and the source of the recommendation is unclear. The recommendation also seems to be referencing a different individual (dance instructor) rather than the donor advocate.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Relationship Building"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align well with the candidate's skills and experience, and contains language that seems exaggerated or unrealistic. The recommendation also seems to be referencing a different individual rather than the donor advocate."
+                }
+            }
+        },
+        {
+            "recommender_id": "971",
+            "recommendation": {
+                "resume_id": 79,
+                "recommendation_file": "Recommendation_From_ID_971.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and the recommender's profession (Personal Banker and Business Advocate) does not directly relate to the candidate's experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Relationship Building",
+                        "Teaching"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in relationship-building, communication, and leadership, which align with their experience as a Donor Advocate and Team Leader. However, the recommender's profession and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "789",
+            "recommendation": {
+                "resume_id": 79,
+                "recommendation_file": "Recommendation_From_ID_789.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Relationship Building",
+                        "Public Speaking"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and project management skills. The source of the recommendation is a Vice President, indicating a direct supervisory relationship."
+                }
+            }
+        }
+    ]
+}

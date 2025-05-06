@@ -1,0 +1,18 @@
+{
+    "resume_file": "121.json",
+    "recommendation_file": "Recommendation_From_ID_465.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, but no major red flags.",
+        "verified_skills": [
+            "System Administration",
+            "Troubleshooting",
+            "Computer Security",
+            "Leadership",
+            "Microsoft Office"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but some minor inconsistencies require further verification."
+    }
+}

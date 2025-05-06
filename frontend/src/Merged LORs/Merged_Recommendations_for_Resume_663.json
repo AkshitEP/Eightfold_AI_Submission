@@ -1,0 +1,71 @@
+{
+    "target_id": "663",
+    "recommendations": [
+        {
+            "recommender_id": "844",
+            "recommendation": {
+                "resume_file": "663.json",
+                "recommendation_file": "Recommendation_From_ID_844.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Accounts Payable/Accounts Receivable",
+                        "General Ledger Accounting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, budget management, and leadership abilities. However, the recommendation seems to be referring to two different individuals, which may indicate an error or inconsistency."
+                }
+            }
+        },
+        {
+            "recommender_id": "510",
+            "recommendation": {
+                "resume_file": "663.json",
+                "recommendation_file": "Recommendation_From_ID_510.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Accounts Payable/Accounts Receivable",
+                        "General Ledger Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting operations management, analytical skills, and proficiency in various accounting software."
+                }
+            }
+        },
+        {
+            "recommender_id": "324",
+            "recommendation": {
+                "resume_file": "663.json",
+                "recommendation_file": "Recommendation_From_ID_324.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Accounts Payable/Accounts Receivable",
+                        "General Ledger Accounting"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting operations, financial analysis, and leadership abilities."
+                }
+            }
+        }
+    ]
+}

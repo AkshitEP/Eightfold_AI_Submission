@@ -1,0 +1,20 @@
+{
+    "resume_file": "745.json",
+    "recommendation_file": "Recommendation_From_ID_706.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written for two different individuals, which raises some concerns about its authenticity. However, the language is formal and there are no statistically improbable claims.",
+        "verified_skills": [
+            "Marketing",
+            "Event Management",
+            "Sales",
+            "Leadership",
+            "Negotiation",
+            "Presentation",
+            "Business Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation partially aligns with the candidate's skills and experience, but it seems to be written for two different individuals. The part relevant to the candidate highlights their exceptional ability to drive business growth through innovative marketing strategies and operational efficiency."
+    }
+}

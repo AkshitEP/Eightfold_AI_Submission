@@ -1,0 +1,69 @@
+{
+    "target_id": "353",
+    "recommendations": [
+        {
+            "recommender_id": "918",
+            "recommendation": {
+                "resume_file": "353.json",
+                "recommendation_file": "Recommendation_From_ID_918.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Application Development",
+                        "Network Support",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical and leadership abilities. However, the source of the recommendation is unclear, which might raise some concerns."
+                }
+            }
+        },
+        {
+            "recommender_id": "121",
+            "recommendation": {
+                "resume_file": "353.json",
+                "recommendation_file": "Recommendation_From_ID_121.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written in a way that highlights the strengths of two individuals, but the language used is overly flattering and lacks specific examples from the candidate's resume. However, the skills and experiences mentioned are generally consistent with the candidate's resume.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Application Development",
+                        "Database Administration",
+                        "Leadership",
+                        "ASP.NET",
+                        "SQL Server",
+                        "C#"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in IT leadership, application development, and project management, but the language used is overly flattering and lacks specific examples from the candidate's resume. The recommendation seems to be written in a way that highlights the strengths of two individuals, which may indicate that the recommendation is not entirely genuine."
+                }
+            }
+        },
+        {
+            "recommender_id": "701",
+            "recommendation": {
+                "resume_file": "353.json",
+                "recommendation_file": "Recommendation_From_ID_701.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Application Development",
+                        "Network Support",
+                        "Business Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and exaggerated claims. The recommender's tone is overly positive, which may indicate some bias."
+                }
+            }
+        }
+    ]
+}

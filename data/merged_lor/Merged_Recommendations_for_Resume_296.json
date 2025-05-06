@@ -1,0 +1,27 @@
+{
+    "target_id": "296",
+    "recommendations": [
+        {
+            "recommender_id": "752",
+            "recommendation": {
+                "resume_file": "296.json",
+                "recommendation_file": "Recommendation_From_ID_752.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Microsoft Office",
+                        "Graphic Design"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative capabilities, attention to detail, and proficiency in Microsoft Office and graphic design tools."
+                }
+            }
+        }
+    ]
+}

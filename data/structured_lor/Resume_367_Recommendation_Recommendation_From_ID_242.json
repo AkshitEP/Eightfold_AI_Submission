@@ -1,0 +1,21 @@
+{
+    "resume_file": "367.json",
+    "recommendation_file": "Recommendation_From_ID_242.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of 'aquatic environmental law' and 'marine life conservation' seems unrelated to the candidate's resume, which focuses on general HR management.",
+        "verified_skills": [
+            "Human Resources Management",
+            "Recruitment and Hiring",
+            "Employee Relations",
+            "Compliance and Regulatory Affairs",
+            "Training and Development",
+            "Performance Management",
+            "Leadership and Supervision",
+            "Communication and Interpersonal Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in HR management, recruitment, and employee relations, which aligns with their resume. However, some claims seem exaggerated or unrelated to the candidate's experience, such as the mention of 'aquatic environmental law' and 'marine life conservation'."
+    }
+}

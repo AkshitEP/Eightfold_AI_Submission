@@ -1,0 +1,17 @@
+{
+    "resume_file": "190.json",
+    "recommendation_file": "Recommendation_From_ID_526.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions over three decades of experience, but the resume only shows around 7 years of experience. This inconsistency raises some concerns.",
+        "verified_skills": [
+            "Human Resources",
+            "Recruitment",
+            "Employee Engagement",
+            "Performance Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR operations and leadership abilities. However, the claim of over three decades of experience seems exaggerated and contradicts the information provided in the resume."
+    }
+}

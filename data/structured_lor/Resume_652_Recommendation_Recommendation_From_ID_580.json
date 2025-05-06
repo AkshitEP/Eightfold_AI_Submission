@@ -1,0 +1,20 @@
+{
+    "resume_file": "652.json",
+    "recommendation_file": "Recommendation_From_ID_580.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Accounting",
+            "Payroll Management",
+            "Financial Reconciliation",
+            "QuickBooks",
+            "Peachtree Accounting",
+            "Bookkeeping",
+            "Tax Preparation"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation is highly relevant to the candidate's skills and experience, providing specific examples of their expertise in financial management and operational efficiency. The language is formal and professional, and the recommendation is well-supported by the candidate's resume."
+    }
+}

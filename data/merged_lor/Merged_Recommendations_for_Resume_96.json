@@ -1,0 +1,116 @@
+{
+    "target_id": "96",
+    "recommendations": [
+        {
+            "recommender_id": "265",
+            "recommendation": {
+                "resume_id": 96,
+                "recommendation_file": "Recommendation_From_ID_265.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Administration",
+                        "Windows Server Administration",
+                        "Microsoft Active Directory Administration",
+                        "Database Administration",
+                        "Microsoft Exchange Server Administration",
+                        "Technical Support",
+                        "Leadership",
+                        "Software Development",
+                        "Hardware Installation and Configuration",
+                        "Operating System Administration",
+                        "Backup and Recovery",
+                        "Security",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The recommendation is from a peer who has worked alongside the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "541",
+            "recommendation": {
+                "resume_id": 96,
+                "recommendation_file": "Recommendation_From_ID_541.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Administration",
+                        "Security",
+                        "Technical Support",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The recommender's role as a Trip Coordinator provides a unique perspective on the candidate's ability to manage complex IT infrastructure and facilitate seamless operations."
+                }
+            }
+        },
+        {
+            "recommender_id": "74",
+            "recommendation": {
+                "resume_id": 96,
+                "recommendation_file": "Recommendation_From_ID_74.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Administration",
+                        "Windows Server Administration",
+                        "Microsoft Active Directory Administration",
+                        "Database Administration",
+                        "Microsoft Exchange Server Administration",
+                        "Technical Support",
+                        "Leadership",
+                        "Software Development",
+                        "Hardware Installation and Configuration",
+                        "Operating System Administration",
+                        "Backup and Recovery",
+                        "Security",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The source of the recommendation is a peer, indicating a credible and informed assessment of the candidate's qualifications."
+                }
+            }
+        },
+        {
+            "recommender_id": "895",
+            "recommendation": {
+                "resume_id": 96,
+                "recommendation_file": "Recommendation_From_ID_895.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Network Administration",
+                        "Windows Server Administration",
+                        "Microsoft Active Directory Administration",
+                        "Database Administration",
+                        "Microsoft Exchange Server Administration",
+                        "Technical Support",
+                        "Leadership",
+                        "Software Development",
+                        "Hardware Installation and Configuration",
+                        "Operating System Administration",
+                        "Backup and Recovery",
+                        "Security",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The recommendation highlights the candidate's ability to manage complex systems, provide effective support, and drive process improvements."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "target_id": "143",
+    "recommendations": [
+        {
+            "recommender_id": "174",
+            "recommendation": {
+                "resume_file": "143.json",
+                "recommendation_file": "Recommendation_From_ID_174.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "GAAP and Statutory Accounting",
+                        "Financial Reporting",
+                        "Leadership and Management",
+                        "Auditing and Compliance",
+                        "Financial Planning and Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise, leadership, and analytical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "879",
+            "recommendation": {
+                "resume_file": "143.json",
+                "recommendation_file": "Recommendation_From_ID_879.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Leadership and Management",
+                        "Auditing and Compliance",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and administrative abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "24",
+            "recommendation": {
+                "resume_file": "143.json",
+                "recommendation_file": "Recommendation_From_ID_24.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "GAAP and Statutory Accounting",
+                        "Financial Reporting",
+                        "Leadership and Management",
+                        "Auditing and Compliance"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial reporting, team leadership, and compliance expertise. The source of the recommendation appears to be a Director of Finance, indicating a supervisory relationship."
+                }
+            }
+        }
+    ]
+}

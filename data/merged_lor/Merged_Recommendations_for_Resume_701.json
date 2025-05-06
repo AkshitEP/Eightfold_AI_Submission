@@ -1,0 +1,91 @@
+{
+    "target_id": "701",
+    "recommendations": [
+        {
+            "recommender_id": "764",
+            "recommendation": {
+                "resume_file": "701.json",
+                "recommendation_file": "Recommendation_From_ID_764.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Cash Handling",
+                        "Risk Assessment",
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and banking operations expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "332",
+            "recommendation": {
+                "resume_file": "701.json",
+                "recommendation_file": "Recommendation_From_ID_332.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Cash Handling",
+                        "Customer Service",
+                        "Leadership",
+                        "Attention to detail",
+                        "Precision",
+                        "Reliability"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their exceptional service and accuracy."
+                }
+            }
+        },
+        {
+            "recommender_id": "575",
+            "recommendation": {
+                "resume_file": "701.json",
+                "recommendation_file": "Recommendation_From_ID_575.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's credentials and relationship to the candidate are unclear. The language is formal, but the recommender's experience in investment banking operations seems unrelated to the candidate's experience as a Lead Teller.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Cash Handling",
+                        "Compliance",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service, operational efficiency, and leadership skills, which align with their experience as a Lead Teller. However, the recommender's credentials and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "462",
+            "recommendation": {
+                "resume_file": "701.json",
+                "recommendation_file": "Recommendation_From_ID_462.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Cash Handling",
+                        "Risk Assessment",
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking expertise, customer service skills, and leadership abilities. The source of the recommendation is a Regional Banking District Manager Vice President, indicating a direct supervisory relationship."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "resume_file": "658.json",
+    "recommendation_file": "Recommendation_From_ID_641.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's work experience and skills. The language used is formal, but the content does not align well with the candidate's resume. The recommendation mentions the candidate's experience in human resources and recruitment, which is not present in the resume.",
+        "verified_skills": [
+            "Communication",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide specific examples of the candidate's skills and experience in healthcare administration, which is the primary focus of their resume. The recommendation seems to be more focused on the recruiter's experience and skills rather than the candidate's."
+    }
+}

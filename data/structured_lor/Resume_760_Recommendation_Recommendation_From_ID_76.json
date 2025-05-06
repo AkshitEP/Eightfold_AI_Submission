@@ -1,0 +1,18 @@
+{
+    "resume_file": "760.json",
+    "recommendation_file": "Recommendation_From_ID_76.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Additionally, the recommender's background in IT seems unrelated to the candidate's field of expertise.",
+        "verified_skills": [
+            "Aircraft Maintenance",
+            "Leadership",
+            "Project Management",
+            "Quality Control",
+            "Troubleshooting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical expertise and leadership skills, but the recommender's background and relationship to the candidate raise some questions about the recommendation's credibility."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "9.json",
+    "recommendation_file": "Recommendation_From_ID_102.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Best of the Best' Award and recognition as one of the top advisers in Telephone Banking, which are not directly supported by the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem-Solving",
+            "Communication"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation highlights the candidate's strengths in customer service, problem-solving, and communication, which are well-supported by their work experience and skills listed in the resume. However, some minor exaggerations or unsubstantiated claims are present, which slightly reduces the relevance score and increases the fraud chance level."
+    }
+}

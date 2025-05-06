@@ -1,0 +1,18 @@
+{
+    "resume_file": "482.json",
+    "recommendation_file": "Recommendation_From_ID_404.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's claim of 25 years as a Finance Officer in government positions seems inconsistent with the candidate's work history. Additionally, the recommender's tone is overly positive, which may indicate some exaggeration.",
+        "verified_skills": [
+            "Financial Management",
+            "Sales Management",
+            "Leadership",
+            "Negotiation",
+            "Customer Relationship Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, negotiation, and customer service skills. However, the recommender's claim of 25 years as a Finance Officer in government positions seems inconsistent with the candidate's work history, which may indicate some exaggeration."
+    }
+}

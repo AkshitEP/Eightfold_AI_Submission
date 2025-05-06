@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Volunteer Accountant",
+                "work_description": "Federal compliance, review, and preparation of corporation, insurance, partnership and private foundation tax returns. Coordinate with fixed asset accountant the necessary information for correct tax depreciation calculations, review tax depreciation calculations and schedules for accuracy.",
+                "company_level": "Unknown",
+                "start_date": "11/2012",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Responsible for various general accounting duties including accounts payable, banking, check requests and special projects as needed. Processed accounts payable; including purchase order entry, invoice approval and entry, follow up with vendors, aging reporting, processed daily checks and various credits.",
+                "company_level": "Unknown",
+                "start_date": "05/2009",
+                "end_date": "10/2012"
+            },
+            {
+                "role_name": "Accountant / Manager",
+                "work_description": "Performed periodic budgeting/modeling to project monthly cash requirements and prepared financial and regulatory reports required by laws and regulations for the addition and opening of offices in Ajman and Sharjah. Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget.",
+                "company_level": "Unknown",
+                "start_date": "11/1997",
+                "end_date": "05/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Keller Graduate School of Management",
+                "start_date": "Unknown",
+                "end_date": "08/2013",
+                "domain": "Accounting",
+                "level": "Master's"
+            },
+            {
+                "university": "Keller Graduate School of Management",
+                "start_date": "Unknown",
+                "end_date": "2014",
+                "domain": "Accounting & Financial Management",
+                "level": "Master's"
+            },
+            {
+                "university": "New York City College Of Technology",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Bookkeeping and Computerized Accounting",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Tax Preparation",
+                "level": 4,
+                "explanation": "Has extensive experience with preparing and reviewing tax returns for various entities, including corporations, partnerships, and private foundations, indicating strong proficiency."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience with various general accounting duties, including accounts payable, banking, and financial reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Prepared financial and regulatory reports required by laws and regulations, and prepared monthly and annual expense forecasts, showing strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Performed periodic budgeting/modeling to project monthly cash requirements, and prepared financial and regulatory reports, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 3,
+                "explanation": "Prepared financial and regulatory reports, and performed periodic budgeting/modeling, showing a solid working proficiency in financial analysis."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Held a managerial role, but the extent of leadership experience is not clearly defined, indicating some practical experience."
+            },
+            {
+                "name": "Financial Management",
+                "level": 4,
+                "explanation": "Managed financial aspects of the company, including budgeting, forecasting, and financial reporting, showing strong proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "resume_file": "872.json",
+    "recommendation_file": "Recommendation_From_ID_545.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration, improper language, or contradictory data. The recommendation mentions the individual's experience as a seafood inspector, which is not mentioned in the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks relevance to the candidate's skills and experience, and seems to be exaggerated or fabricated."
+    }
+}

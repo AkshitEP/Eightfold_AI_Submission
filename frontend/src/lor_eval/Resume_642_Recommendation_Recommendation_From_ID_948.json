@@ -1,0 +1,17 @@
+{
+    "resume_file": "642.json",
+    "recommendation_file": "Recommendation_From_ID_948.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and potentially exaggerated claims, but no concrete evidence of fraud.",
+        "verified_skills": [
+            "Financial Risk Management",
+            "Leadership",
+            "Financial Analysis",
+            "Risk Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience in the financial markets, but there are some minor inconsistencies and potentially exaggerated claims."
+    }
+}

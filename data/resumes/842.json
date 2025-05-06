@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Procurement Analyst",
+                "work_description": "Performs strategic sourcing of MRO items for the company's North American manufacturing locations as well as supplier management of the strategic suppliers. Responsible for all supplier performance and the on-going management of strategic supplier relationships. Creates integrated processes among internal functions and outside suppliers. Supports teams in conducting negotiations with financial/bid analysis and developing talent. Assists in the development of the global commodity strategy and the implementation plan to leverage opportunities across sub-commodities and monitors compliance in order to capture savings.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Utility Technician",
+                "work_description": "Blast Furnace laborer for day to day maintenance and operations to help in steel making application. Coke and Lime laborer assists in day to day supply of raw material to fuel the blast furnace operation.",
+                "company_level": "Mid-level",
+                "start_date": "11/2010",
+                "end_date": "03/2012"
+            },
+            {
+                "role_name": "Life Insurance Sales Agent",
+                "work_description": "Obtained Pennsylvania Insurance License. Established candidates for custom insurance packages, including life and auto insurance.",
+                "company_level": "Mid-level",
+                "start_date": "05/2009",
+                "end_date": "08/2011"
+            },
+            {
+                "role_name": "Personal Trainer",
+                "work_description": "Created custom training programs for 100+ clients per week. Helped retain customer base and built new client list.",
+                "company_level": "Startup",
+                "start_date": "05/2009",
+                "end_date": "11/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "California University of Pennsylvania",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Marketing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "CCAC",
+                "start_date": "01/2009",
+                "end_date": "05/2009",
+                "domain": "",
+                "level": ""
+            },
+            {
+                "university": "Ringgold Senior High School",
+                "start_date": "01/2005",
+                "end_date": "05/2009",
+                "domain": "",
+                "level": "High School"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Procurement",
+                "level": 4,
+                "explanation": "Has extensive experience in strategic sourcing, supplier management, and negotiation, indicating strong proficiency in procurement."
+            },
+            {
+                "name": "Supply Chain Management",
+                "level": 4,
+                "explanation": "Responsible for managing strategic supplier relationships, creating integrated processes, and monitoring compliance, showing strong proficiency in supply chain management."
+            },
+            {
+                "name": "Negotiation",
+                "level": 3,
+                "explanation": "Supports teams in conducting negotiations with financial/bid analysis, indicating a solid working proficiency in negotiation."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Assists in the development of the global commodity strategy and implementation plan, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Supports teams and develops talent, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Marketing",
+                "level": 2,
+                "explanation": "Graduated with a degree in Marketing, but no direct experience in marketing is mentioned, indicating some familiarity with marketing concepts."
+            },
+            {
+                "name": "Sales",
+                "level": 2,
+                "explanation": "Worked as a Life Insurance Sales Agent, but no extensive experience is mentioned, indicating some practical experience in sales."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Helped retain customer base and built new client list as a Personal Trainer, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Operations Management",
+                "level": 2,
+                "explanation": "Worked as a Utility Technician, assisting in day-to-day maintenance and operations, indicating some practical experience in operations management."
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "target_id": "375",
+    "recommendations": [
+        {
+            "recommender_id": "97",
+            "recommendation": {
+                "resume_file": "375.json",
+                "recommendation_file": "Recommendation_From_ID_97.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Logistics Management",
+                        "Supply Chain Management",
+                        "Property Book Management",
+                        "Leadership",
+                        "Contract Management",
+                        "Training and Development",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistics management expertise, leadership skills, and commitment to excellence in the field."
+                }
+            }
+        },
+        {
+            "recommender_id": "295",
+            "recommendation": {
+                "resume_file": "375.json",
+                "recommendation_file": "Recommendation_From_ID_295.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unrelated experiences mentioned in the recommendation.",
+                    "verified_skills": [
+                        "Logistics Management",
+                        "Supply Chain Management",
+                        "Leadership",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but mentions unrelated experiences. The source of the recommendation is unknown."
+                }
+            }
+        }
+    ]
+}

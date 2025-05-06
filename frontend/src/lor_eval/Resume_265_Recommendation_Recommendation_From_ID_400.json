@@ -1,0 +1,17 @@
+{
+    "resume_file": "265.json",
+    "recommendation_file": "Recommendation_From_ID_400.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Java",
+            "Spring Framework",
+            "Test Automation",
+            "Software Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiency and work ethic. However, the recommender's own expertise and role are not directly related to the candidate's work, which might reduce the relevance score."
+    }
+}

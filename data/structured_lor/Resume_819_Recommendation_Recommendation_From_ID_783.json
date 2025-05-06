@@ -1,0 +1,21 @@
+{
+    "resume_file": "819.json",
+    "recommendation_file": "Recommendation_From_ID_783.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Management",
+            "Bookkeeping",
+            "QuickBooks",
+            "Accounting",
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, accounting, and leadership abilities."
+    }
+}

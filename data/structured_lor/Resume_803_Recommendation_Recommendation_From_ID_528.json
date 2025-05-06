@@ -1,0 +1,21 @@
+{
+    "resume_file": "803.json",
+    "recommendation_file": "Recommendation_From_ID_528.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of the candidate's current role as a cashier, which seems unrelated to the rest of the recommendation. However, the language is formal and the claims are generally supported by the resume.",
+        "verified_skills": [
+            "Sales",
+            "Customer Service",
+            "Leadership",
+            "Time Management",
+            "Communication",
+            "Teamwork",
+            "Nutrition and Fitness",
+            "Personal Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's achievements in personal training and sales, which aligns with their experience and skills. However, the mention of their current role as a cashier seems out of place. Overall, the recommendation is generally credible and supports the candidate's qualifications."
+    }
+}

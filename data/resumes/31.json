@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Platform Architect",
+                "work_description": "Led and collaborated with enterprise solution delivery teams in all phases \u2013 from ideation to iterative delivery. Collaborated in design and development of an API platform enabling delivery teams to rapidly exchange data with external EMRs as well as internal line of business applications. Provided guidance on current technology landscape and advised management on purchasing third-party products and engaging external vendors.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Solution Architect",
+                "work_description": "Collaborated in the design and development of a telephony and analytics solution built using a complex orchestration of web services to target customers for specialized care management, which allowed Premera to reduce healthcare costs while significantly improving healthcare outcomes.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2014",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Application Architect",
+                "work_description": "Led development of a new flagship SaaS platform to deliver business intelligence analytics to large North American financial institutions, which resulted in about 30% annual revenue increase for the organization.",
+                "company_level": "Startup",
+                "start_date": "01/2013",
+                "end_date": "04/2014"
+            },
+            {
+                "role_name": "Software Developer",
+                "work_description": "Developed data services for core platform to replace stored procedures and functions, which enabled the customer-facing web applications and services to orchestrate complex functionality without rewriting business logic reducing solution development times by 100%.",
+                "company_level": "Startup",
+                "start_date": "04/2010",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Enterprise Application Developer",
+                "work_description": "Created and delivered high-quality software while in IT services group, which resulted in a promotion to Enterprise Applications Group within 1st year of joining the company.",
+                "company_level": "Not-for-profit",
+                "start_date": "09/2009",
+                "end_date": "04/2010"
+            },
+            {
+                "role_name": "Software Developer",
+                "work_description": "Developed and improved applications used by the IT Services team by working closely with network and server specialists.",
+                "company_level": "Not-for-profit",
+                "start_date": "09/2008",
+                "end_date": "09/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Guelph",
+                "start_date": "01/2005",
+                "end_date": "06/2009",
+                "domain": "Systems & Computer Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Software Architecture",
+                "level": 5,
+                "explanation": "Held multiple architect roles, led and collaborated with teams, and designed complex systems, indicating expert-level mastery."
+            },
+            {
+                "name": "Software Development",
+                "level": 5,
+                "explanation": "Extensive experience in software development, including developing data services, creating high-quality software, and improving applications, showing expert-level proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Led teams, collaborated with management, and provided guidance on technology landscape, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "API Design",
+                "level": 4,
+                "explanation": "Designed and developed an API platform enabling data exchange with external EMRs and internal applications, suggesting strong proficiency."
+            },
+            {
+                "name": "Cloud Computing",
+                "level": 3,
+                "explanation": "Developed a SaaS platform to deliver business intelligence analytics, showing solid working proficiency in cloud computing."
+            },
+            {
+                "name": "Data Analytics",
+                "level": 3,
+                "explanation": "Developed data services and worked on business intelligence analytics, indicating solid working proficiency in data analytics."
+            },
+            {
+                "name": "Web Development",
+                "level": 3,
+                "explanation": "Worked on web applications and services, including developing data services for core platform, showing solid working proficiency in web development."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Collaborated in design and development of complex systems, indicating solid working proficiency in project management."
+            }
+        ]
+    }
+}

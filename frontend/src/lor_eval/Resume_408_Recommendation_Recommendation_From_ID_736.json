@@ -1,0 +1,17 @@
+{
+    "resume_file": "408.json",
+    "recommendation_file": "Recommendation_From_ID_736.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be comparing two individuals, but only one is being recommended.",
+        "verified_skills": [
+            "Fitness Program Development",
+            "Fitness Instruction",
+            "Facility Management",
+            "Personal Training"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their fitness programs and client interaction. However, the comparison to another individual and some exaggerated language ('remarkable dedication and expertise', 'exceptional knowledge') raises some concerns about the credibility of the recommendation."
+    }
+}

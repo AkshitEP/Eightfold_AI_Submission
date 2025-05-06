@@ -1,0 +1,17 @@
+{
+    "resume_id": 958,
+    "recommendation_file": "Recommendation_From_ID_876.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Personal Training",
+            "Fitness Program Development",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their personal training methods, leadership, and client management. The recommendation highlights the candidate's ability to create personalized training programs and their commitment to client success."
+    }
+}

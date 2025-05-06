@@ -1,0 +1,19 @@
+{
+    "resume_file": "29.json",
+    "recommendation_file": "Recommendation_From_ID_388.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Network Security",
+            "Digital Evidence Analysis",
+            "Compliance Management",
+            "Technical Support",
+            "Training and Development",
+            "Cisco Systems"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and analytical abilities. The source of the recommendation is an Information Technology Instructor with over 17 years of experience, adding credibility to the endorsement."
+    }
+}

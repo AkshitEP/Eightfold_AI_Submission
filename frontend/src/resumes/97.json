@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Aviation and Safety",
+                "work_description": "I serve as the Director of Aviation and Safety for the Montana Army National Guard. I am the principal advisor to the Adjutant General for all Army aviation activity. My duties include budget development and execution, training development, safety management and accident investigations, ground and air logistical management, and aircraft maintenance management.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Supervisory Aircraft Pilot",
+                "work_description": "I supervise an Army Aviation Support Facility consisting of 63 employees that perform maintenance and flight training for the Montana Army National Guard. My mission is to direct the maintenance for 22 helicopters and train the 140 assigned aircrew members.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Supervisory Aircraft Flight Instructor",
+                "work_description": "I direct and coordinate all flight operations and training for the Army Aviation Support Facility and its supported military units. 22 aircraft and approximately 140 air crew members are assigned.",
+                "company_level": "Large Corporation",
+                "start_date": "05/1993",
+                "end_date": "08/2010"
+            },
+            {
+                "role_name": "US Army Aviation Officer",
+                "work_description": "While on active duty, I performed a variety of duties to include rotary wing instructor pilot, assistant operations officer, section leader, platoon leader, executive officer, and detachment commander.",
+                "company_level": "Large Corporation",
+                "start_date": "06/1985",
+                "end_date": "01/1993"
+            }
+        ],
+        "education": [
+            {
+                "university": "US Army War College",
+                "start_date": "01/2013",
+                "end_date": "07/2013",
+                "domain": "Strategic Studies",
+                "level": "Master's"
+            },
+            {
+                "university": "Embry-Riddle Aeronautical University",
+                "start_date": "01/2011",
+                "end_date": "09/2011",
+                "domain": "Aeronautical Sciences",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Montana",
+                "start_date": "01/1985",
+                "end_date": "12/1985",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including serving as Director of Aviation and Safety, Supervisory Aircraft Pilot, and Supervisory Aircraft Flight Instructor, indicating expert-level mastery."
+            },
+            {
+                "name": "Aviation Management",
+                "level": 5,
+                "explanation": "Has over 20 years of experience in managing aviation operations, including maintenance, training, and safety management, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience in managing multiple projects, including budget development and execution, training development, and logistical management, suggesting strong proficiency."
+            },
+            {
+                "name": "Safety Management",
+                "level": 4,
+                "explanation": "Has experience in safety management and accident investigations, suggesting strong proficiency in ensuring safe operations."
+            },
+            {
+                "name": "Training Development",
+                "level": 4,
+                "explanation": "Has experience in developing training programs for aircrew members, suggesting strong proficiency in creating effective training programs."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Has experience in budget development and execution, showing a solid working proficiency in managing financial resources."
+            },
+            {
+                "name": "Logistical Management",
+                "level": 3,
+                "explanation": "Has experience in managing ground and air logistical operations, showing a solid working proficiency in managing complex systems."
+            },
+            {
+                "name": "Aircraft Maintenance",
+                "level": 3,
+                "explanation": "Has experience in managing aircraft maintenance, showing a solid working proficiency in ensuring aircraft airworthiness."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 3,
+                "explanation": "Has education in Strategic Studies, showing a solid working proficiency in developing strategic plans."
+            }
+        ]
+    }
+}

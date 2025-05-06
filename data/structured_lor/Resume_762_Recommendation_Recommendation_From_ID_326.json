@@ -1,0 +1,12 @@
+{
+    "resume_file": "762.json",
+    "recommendation_file": "Recommendation_From_ID_326.txt",
+    "output": {
+        "relevance_score": 1,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration and improper language. No specific skills or experience in software engineering are mentioned.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the individual's skills or experience in software engineering, and appears to be written by someone with no connection to the industry."
+    }
+}

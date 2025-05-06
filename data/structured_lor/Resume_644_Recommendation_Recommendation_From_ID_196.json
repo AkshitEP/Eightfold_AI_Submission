@@ -1,0 +1,15 @@
+{
+    "resume_file": "644.json",
+    "recommendation_file": "Recommendation_From_ID_196.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation does not directly reference specific skills or experiences from the resume, but rather focuses on the synergy of skills developed through military service and civilian roles.",
+        "verified_skills": [
+            "Leadership",
+            "Logistics"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the collaboration between two individuals, but does not directly reference specific skills or experiences from the resume. However, it does mention leadership and logistics skills, which are present in the resume. The recommendation seems to be more focused on the synergy of skills developed through military service and civilian roles, rather than directly referencing specific skills or experiences."
+    }
+}

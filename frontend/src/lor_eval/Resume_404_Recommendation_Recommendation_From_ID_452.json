@@ -1,0 +1,22 @@
+{
+    "resume_file": "404.json",
+    "recommendation_file": "Recommendation_From_ID_452.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the claim of a 500% increase in income tax collections seems statistically improbable and requires further verification.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Payroll Management",
+            "Budgeting",
+            "Financial Reporting",
+            "Financial Analysis",
+            "Leadership",
+            "Communication",
+            "Organizational Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and organizational skills. However, the claim of a 500% increase in income tax collections requires further verification to confirm its accuracy."
+    }
+}

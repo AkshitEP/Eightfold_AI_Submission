@@ -1,0 +1,16 @@
+{
+    "resume_file": "636.json",
+    "recommendation_file": "Recommendation_From_ID_983.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be based on unrelated experience in the educational sector, with some claims appearing exaggerated or unsupported. The language is formal, but the connection between the candidate's skills and experience in the educational sector and the sales management role is unclear.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and communication skills, which are relevant to the sales management role. However, the connection between the candidate's experience in the educational sector and the sales management role is unclear, and some claims appear exaggerated or unsupported."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "598.json",
+    "recommendation_file": "Recommendation_From_ID_768.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and unrealistic claims detected. Recommendation seems to be describing two different individuals.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Organizational skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but contains some inconsistencies and unrealistic claims. The source of the recommendation is unknown, and the language used is somewhat informal."
+    }
+}

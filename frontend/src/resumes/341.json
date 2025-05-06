@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Advisor",
+                "work_description": "Supervise a team of over 10 employees. Make adjustments on customer accounts as needed. Assist itune customers by adding or deleting services and products. As an adviser I am the customer's first point of contact representing Apple. Support many popular products like iPhones, iPads, MacBooks, and desktop Macs.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2007",
+                "end_date": "08/2016"
+            },
+            {
+                "role_name": "Healthcare Representative",
+                "work_description": "Looked up members charts to give lab results apon request. Assisted Members with appointments, referrals and tranferring to a nurse. Maintained 100% compliance with all hospital and government regulations (HIPPA). Confirmed and updated personal information every call to make sure Kaiser member accounts where up to date.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2005",
+                "end_date": "02/2007"
+            },
+            {
+                "role_name": "Billing Specialist Supervisor",
+                "work_description": "Supervised 10- 15 call center employees. Provided employee training as needed to my team. Assisted Comcast customers with billing inquiries and disputes. Implemented employee incentives to keep up employee morale.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2001",
+                "end_date": "08/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2017",
+                "end_date": "12/2017",
+                "domain": "Business Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Extensive experience supervising teams of over 10 employees in multiple roles, indicating expert-level mastery in leadership."
+            },
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Over a decade of experience in customer-facing roles, handling customer inquiries, and resolving disputes, showing expert-level proficiency in customer service."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Proven experience in managing teams, providing employee training, and implementing incentives to boost morale, indicating strong proficiency in team management."
+            },
+            {
+                "name": "Compliance",
+                "level": 3,
+                "explanation": "Maintained 100% compliance with hospital and government regulations (HIPPA) in a previous role, showing a solid working proficiency in compliance."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Updated personal information and maintained accurate records in multiple roles, indicating a solid working proficiency in data entry."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with customers, team members, and management in various roles, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Resolved customer disputes and handled billing inquiries, indicating strong proficiency in problem-solving."
+            },
+            {
+                "name": "Business Management",
+                "level": 2,
+                "explanation": "Completed a Bachelor's degree in Business Management, but lacks direct work experience in this field, showing some practical knowledge."
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "target_id": "427",
+    "recommendations": [
+        {
+            "recommender_id": "747",
+            "recommendation": {
+                "resume_file": "427.json",
+                "recommendation_file": "Recommendation_From_ID_747.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving",
+                        "Crisis Intervention"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and community support. The source of the recommendation appears to be a peer or colleague, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "638",
+            "recommendation": {
+                "resume_file": "427.json",
+                "recommendation_file": "Recommendation_From_ID_638.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving",
+                        "Crisis Intervention"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Community Advocate and highlighting their excellent interpersonal abilities and leadership training."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Managed a four-person local IT team, allocating resources to ongoing projects and enforcing deadlines. Drove business KPIs through rapid iteration of customer-facing product features. Leveraged in-depth understanding of end-to-end customer experience to identify pain points and latent customer needs. Collaborated with the global team to resolve IT support cases. Build and maintain a staff of five & terminate for cause one employee. Create and audit processes interlocking with other teams, adjust as required. Manage travel and budget for staff on-site visits. Ownership of SaaS customers in North America, Canada and Australia. Defined project deliverables and monitored status of tasks. Executed proof of concept implementations to validate product feasibility.",
+                "company_level": "Mid-level",
+                "start_date": "03/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "IT Administrator",
+                "work_description": "Designed and delivered mission critical infrastructure to ensure the highest levels of availability, performance and security. Maintained security, backup, and redundancy strategies. Ownership of IT Infrastructure and Client/Server management (Chicago, Houston, Montreal and Sydney). Collected, analyzed, and reported program metrics, including product technical performance measures and key performance parameters. Manage North America production data center (SaaS) and disaster recovery applications. Deploy and manage VMware architecture. Monitor and created automatic actions related to hardware and web servers. Engineered IT infrastructure for reliable WAN and LAN connectivity. Active Directory and Group Policy configuration and deployment. Provided client support for production. SQL Administration. Deployed over 30 NEC phones and support for NEC PBX. Responsible for purchasing and product recommendations.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "03/2013"
+            },
+            {
+                "role_name": "Network Administrator",
+                "work_description": "Tested, configured and deployed Windows 7 operating system with Acronis Snap Deploy. Deployed and tested Microsoft Exchange 2010 in VMware. Administered SQL 2005 database to run Dentrix and DEXIS software. Configuration and implementation of Group Policies.",
+                "company_level": "Mid-level",
+                "start_date": "02/2010",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Information Technology Consultant",
+                "work_description": "Managed and provided security administrative support for Paine Wetzel ONCOR International, Northridge Group, Rent Here Realty, and Northwestern Dental Center. Supported Microsoft Windows 2003, XP, Vista and Mac operating systems. Responsible for purchase decisions to provide the best end point security solutions. Obtained Milestone Advanced Certified Partner for video surveillance.",
+                "company_level": "Mid-level",
+                "start_date": "10/2008",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Network Administrator",
+                "work_description": "Installed and configured LAN with Windows XP and Windows Vista clients. Administration of Microsoft Active Directory. Administration of Microsoft Exchange 2003 systems including backup and recovery. Deploy Symantec endpoint security solutions and implemented disaster recovery. Managed multiple desktop applications: Microsoft Office, Adobe Acrobat, ACT.",
+                "company_level": "Mid-level",
+                "start_date": "10/2008",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Network Administrator",
+                "work_description": "Provided on-site technical support for Windows 2003 and 2008 servers, workstations, laptops, Blackberries, and iPhones. Migrated to Exchange 2007 SCR from Exchange 2003 with PowerShell and DAS. Managed Windows Server 2008 and Windows 7.",
+                "company_level": "Mid-level",
+                "start_date": "10/2008",
+                "end_date": "12/2009"
+            },
+            {
+                "role_name": "College of Education Computer Technician",
+                "work_description": "Performed PC and Mac hardware and software configurations. Troubleshot general Novell Client issues. Installed and maintained peripherals. Built images to be used with Symantec Ghost.",
+                "company_level": "Mid-level",
+                "start_date": "07/2006",
+                "end_date": "06/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "DePaul University",
+                "start_date": "01/2018",
+                "end_date": "12/2018",
+                "domain": "Business Information Technology",
+                "level": "Master's"
+            },
+            {
+                "university": "DeVry University",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Network and Communications Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed multiple projects and teams, including a four-person local IT team, and drove business KPIs through rapid iteration of customer-facing product features, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Led multiple teams, including a staff of five, and made key decisions, such as terminating an employee, demonstrating strong leadership skills."
+            },
+            {
+                "name": "IT Infrastructure Management",
+                "level": 5,
+                "explanation": "Designed, delivered, and maintained mission-critical infrastructure, including IT infrastructure, client/server management, and disaster recovery applications, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Installed, configured, and administered multiple networks, including LANs, WANs, and VPNs, and managed network security, backup, and redundancy strategies, demonstrating expert-level skills."
+            },
+            {
+                "name": "Database Administration",
+                "level": 4,
+                "explanation": "Administered multiple databases, including SQL 2005 and Microsoft Exchange, and deployed and managed VMware architecture, indicating strong proficiency."
+            },
+            {
+                "name": "Cloud Computing",
+                "level": 4,
+                "explanation": "Managed SaaS customers in North America, Canada, and Australia, and deployed and managed cloud-based infrastructure, including VMware and Microsoft Azure, indicating strong proficiency."
+            },
+            {
+                "name": "Cybersecurity",
+                "level": 4,
+                "explanation": "Implemented and managed multiple security solutions, including Symantec endpoint security and disaster recovery, and provided security administrative support, indicating strong proficiency."
+            },
+            {
+                "name": "Microsoft Windows",
+                "level": 5,
+                "explanation": "Installed, configured, and administered multiple versions of Microsoft Windows, including Windows XP, Vista, 7, 2003, and 2008, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Managed multiple desktop applications, including Microsoft Office, and provided technical support, indicating strong proficiency."
+            },
+            {
+                "name": "VMware",
+                "level": 4,
+                "explanation": "Deployed and managed VMware architecture, including virtual machines and virtual networks, indicating strong proficiency."
+            },
+            {
+                "name": "SQL",
+                "level": 4,
+                "explanation": "Administered multiple SQL databases, including SQL 2005, and deployed and managed database solutions, indicating strong proficiency."
+            }
+        ]
+    }
+}

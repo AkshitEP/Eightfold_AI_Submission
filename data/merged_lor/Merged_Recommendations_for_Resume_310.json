@@ -1,0 +1,92 @@
+{
+    "target_id": "310",
+    "recommendations": [
+        {
+            "recommender_id": "301",
+            "recommendation": {
+                "resume_file": "310.json",
+                "recommendation_file": "Recommendation_From_ID_301.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "615",
+            "recommendation": {
+                "resume_file": "310.json",
+                "recommendation_file": "Recommendation_From_ID_615.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and soft skills. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "533",
+            "recommendation": {
+                "resume_file": "310.json",
+                "recommendation_file": "Recommendation_From_ID_533.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat generic. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "Accounting Software"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and leadership abilities. However, the source of the recommendation is unclear, and the language is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "3",
+            "recommendation": {
+                "resume_file": "310.json",
+                "recommendation_file": "Recommendation_From_ID_3.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Leadership",
+                        "Accounting Software"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and management expertise. The recommender highlights the candidate's exceptional soft skills, strategic mindset, and ability to interface with professionals at all levels."
+                }
+            }
+        }
+    ]
+}

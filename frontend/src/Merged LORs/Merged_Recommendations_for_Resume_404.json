@@ -1,0 +1,100 @@
+{
+    "target_id": "404",
+    "recommendations": [
+        {
+            "recommender_id": "452",
+            "recommendation": {
+                "resume_file": "404.json",
+                "recommendation_file": "Recommendation_From_ID_452.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the claim of a 500% increase in income tax collections seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Organizational Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and organizational skills. However, the claim of a 500% increase in income tax collections requires further verification to confirm its accuracy."
+                }
+            }
+        },
+        {
+            "recommender_id": "848",
+            "recommendation": {
+                "resume_file": "404.json",
+                "recommendation_file": "Recommendation_From_ID_848.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies, including a statistically improbable claim of a 500% increase in tax collections.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Leadership",
+                        "Communication",
+                        "Organizational Management",
+                        "Budgeting",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but contains some minor inconsistencies."
+                }
+            }
+        },
+        {
+            "recommender_id": "189",
+            "recommendation": {
+                "resume_file": "404.json",
+                "recommendation_file": "Recommendation_From_ID_189.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of a non-existent job title and exaggerated claims of financial responsibility.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but there are some minor inconsistencies that raise concerns about its authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "769",
+            "recommendation": {
+                "resume_file": "404.json",
+                "recommendation_file": "Recommendation_From_ID_769.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in finance and accounting, but lacks specific examples and details.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Organizational Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in finance and accounting, but lacks specific examples and details. The recommendation also mentions the candidate's ability to work collaboratively within a team, which is not explicitly mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "target_id": "729",
+    "recommendations": [
+        {
+            "recommender_id": "325",
+            "recommendation": {
+                "resume_file": "729.json",
+                "recommendation_file": "Recommendation_From_ID_325.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's statement and unclear relationship to the candidate.",
+                    "verified_skills": [
+                        "Team Management",
+                        "Patient Care",
+                        "Nursing Care",
+                        "Geriatric Care"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's experience in healthcare, but lacks specific details about some of their skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "6",
+            "recommendation": {
+                "resume_file": "729.json",
+                "recommendation_file": "Recommendation_From_ID_6.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Team Management",
+                        "Nursing Care",
+                        "Medication Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and team management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "478",
+            "recommendation": {
+                "resume_file": "729.json",
+                "recommendation_file": "Recommendation_From_ID_478.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing Care",
+                        "Team Management",
+                        "Medication Administration",
+                        "Patient Care",
+                        "Data Management",
+                        "Geriatric Care"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their care strategies, team management, and patient advocacy. However, the source of the recommendation is unclear."
+                }
+            }
+        }
+    ]
+}

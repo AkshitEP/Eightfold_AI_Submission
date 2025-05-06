@@ -1,0 +1,71 @@
+{
+    "target_id": "880",
+    "recommendations": [
+        {
+            "recommender_id": "114",
+            "recommendation": {
+                "resume_file": "880.json",
+                "recommendation_file": "Recommendation_From_ID_114.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Vendor Management",
+                        "Contract Negotiation",
+                        "Project Management",
+                        "Business Systems",
+                        "Team Management",
+                        "Business Administration"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience. The recommender, a Senior Vice President, provides specific examples of the candidate's accomplishments and highlights their exceptional leadership and strategic acumen."
+                }
+            }
+        },
+        {
+            "recommender_id": "913",
+            "recommendation": {
+                "resume_file": "880.json",
+                "recommendation_file": "Recommendation_From_ID_913.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Vendor Management",
+                        "Contract Negotiation",
+                        "Project Management",
+                        "Business Systems",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their leadership, vendor management, and project management expertise. The recommendation also highlights the candidate's ability to optimize vendor contracts and negotiate substantial cost savings, which is consistent with their experience in contract negotiation."
+                }
+            }
+        },
+        {
+            "recommender_id": "82",
+            "recommendation": {
+                "resume_file": "880.json",
+                "recommendation_file": "Recommendation_From_ID_82.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the specific dollar amount ($300,000) and the mention of a specific ERP system (Navision) might be slightly exaggerated or not entirely accurate. However, the language is formal, and the recommendation aligns well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Vendor Management",
+                        "Business Systems",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical expertise, problem-solving skills, and ability to communicate effectively with both technical teams and end users. It also mentions their experience in managing projects, enhancing business processes, and leading teams, which aligns well with the candidate's skills and experience."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "833.json",
+    "recommendation_file": "Recommendation_From_ID_361.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, such as handling responsibilities worth over $10 million.",
+        "verified_skills": [
+            "Project Management",
+            "Procurement",
+            "Inventory Management",
+            "Customer Service",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but contains some minor inconsistencies and exaggerated claims. The source of the recommendation is unknown."
+    }
+}

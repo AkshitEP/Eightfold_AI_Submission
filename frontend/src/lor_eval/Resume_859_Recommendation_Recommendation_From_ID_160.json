@@ -1,0 +1,20 @@
+{
+    "resume_file": "859.json",
+    "recommendation_file": "Recommendation_From_ID_160.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Sales Management",
+            "Account Management",
+            "Leadership",
+            "Communication",
+            "Strategic Planning",
+            "Time Management",
+            "Team Collaboration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking operations, client relationship management, and analytical skills. However, some claims, such as 'zero-error cash handling' and 'bilingual abilities', are not explicitly mentioned in the resume and may be considered exaggerated."
+    }
+}

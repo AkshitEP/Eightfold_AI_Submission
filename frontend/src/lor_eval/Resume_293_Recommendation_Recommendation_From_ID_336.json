@@ -1,0 +1,16 @@
+{
+    "resume_file": "293.json",
+    "recommendation_file": "Recommendation_From_ID_336.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but there are some inconsistencies, such as the mention of Caitlin, a health coach, which seems unrelated to the dance instructor's resume.",
+        "verified_skills": [
+            "Dance Instruction",
+            "Ballet",
+            "Early Childhood Education"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns somewhat with the candidate's skills and experience, but there are some inconsistencies that raise questions about its genuineness."
+    }
+}

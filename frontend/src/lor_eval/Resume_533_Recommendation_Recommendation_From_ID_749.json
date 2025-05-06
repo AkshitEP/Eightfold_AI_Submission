@@ -1,0 +1,12 @@
+{
+    "resume_file": "533.json",
+    "recommendation_file": "Recommendation_From_ID_749.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's technical skills and experience. The language used is formal, but the claims made about the candidate's skills and abilities seem exaggerated and unsupported by the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align well with the candidate's skills and experience. The recommender mentions the candidate's exceptional skills and strong work ethic, but does not provide specific examples or details about their technical abilities. The recommender's background as an accountant also raises questions about their familiarity with the candidate's technical skills."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "resume_file": "669.json",
+    "recommendation_file": "Recommendation_From_ID_777.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The recommendation also lacks specific examples and metrics to support the claims.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reporting",
+            "Project Management",
+            "Leadership",
+            "Microsoft Excel",
+            "SQL",
+            "Business Intelligence",
+            "Access",
+            "Risk Management",
+            "Audit and Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but the source of the recommendation is unclear and the language is somewhat informal. The recommendation also lacks specific examples and metrics to support the claims."
+    }
+}

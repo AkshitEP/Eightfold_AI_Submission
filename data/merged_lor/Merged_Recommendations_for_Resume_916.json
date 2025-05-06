@@ -1,0 +1,81 @@
+{
+    "target_id": "916",
+    "recommendations": [
+        {
+            "recommender_id": "408",
+            "recommendation": {
+                "resume_id": 916,
+                "recommendation_file": "Recommendation_From_ID_408.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Yoga Instruction",
+                        "Fitness Instruction",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and fitness instruction. However, the recommendation does not explicitly mention the candidate's experience as a first-grade teacher or their curriculum development skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "613",
+            "recommendation": {
+                "resume_file": "916.json",
+                "recommendation_file": "Recommendation_From_ID_613.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's claims, but no obvious signs of fraud.",
+                    "verified_skills": [
+                        "Yoga Instruction",
+                        "Fitness Instruction",
+                        "Leadership",
+                        "Program Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's experience in yoga instruction and fitness, but may be slightly exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "674",
+            "recommendation": {
+                "resume_file": "916.json",
+                "recommendation_file": "Recommendation_From_ID_674.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be based on an unrelated experience as a mover, and the connection to the candidate's skills and experience is unclear. The language is formal, but the recommendation lacks specific examples and details from the candidate's job history.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Yoga Instruction"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's teaching skills and commitment to well-being, but it lacks concrete examples and details from the candidate's job history. The source of the recommendation is unclear, and the connection to the candidate's experience is not well-established."
+                }
+            }
+        },
+        {
+            "recommender_id": "397",
+            "recommendation": {
+                "resume_file": "916.json",
+                "recommendation_file": "Recommendation_From_ID_397.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies in the writer's experience and the candidate's skills, and lack of specific examples or details.",
+                    "verified_skills": [
+                        "Yoga Instruction",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks detail and alignment with the candidate's key areas of expertise, and the writer's relationship to the candidate is unclear."
+                }
+            }
+        }
+    ]
+}

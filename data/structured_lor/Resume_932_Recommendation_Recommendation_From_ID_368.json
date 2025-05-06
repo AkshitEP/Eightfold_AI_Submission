@@ -1,0 +1,21 @@
+{
+    "resume_file": "932.json",
+    "recommendation_file": "Recommendation_From_ID_368.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'digital marketing and communications' which is not present in the resume. However, the recommendation is largely credible and well-supported by the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Adaptability",
+            "Food Safety and Sanitation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+    }
+}

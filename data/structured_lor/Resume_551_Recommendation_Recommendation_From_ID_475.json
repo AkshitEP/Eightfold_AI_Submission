@@ -1,0 +1,21 @@
+{
+    "resume_file": "551.json",
+    "recommendation_file": "Recommendation_From_ID_475.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Data Analysis",
+            "Communication",
+            "Research",
+            "Collaboration",
+            "Training and Development",
+            "Quality Assurance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, analytical skills, and ability to collaborate with various stakeholders. However, the recommendation is from a Finance Manager, which may not be directly related to the candidate's field of expertise."
+    }
+}

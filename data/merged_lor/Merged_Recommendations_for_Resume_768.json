@@ -1,0 +1,138 @@
+{
+    "target_id": "768",
+    "recommendations": [
+        {
+            "recommender_id": "890",
+            "recommendation": {
+                "resume_file": "768.json",
+                "recommendation_file": "Recommendation_From_ID_890.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's profession as a dental hygienist seems unrelated to the candidate's field, which raises some concerns about the recommender's credibility. However, the recommendation still provides specific examples of the candidate's skills and experiences.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Music Performance",
+                        "Vocal Performance",
+                        "Event Planning",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in music education and their ability to create engaging learning experiences. However, the recommender's profession and lack of direct supervision or peer relationship with the candidate raise some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "822",
+            "recommendation": {
+                "resume_file": "768.json",
+                "recommendation_file": "Recommendation_From_ID_822.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Event Planning",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and organizational skills. However, the source of the recommendation is unclear, and the recommender's background in retail industry seems unrelated to the candidate's field."
+                }
+            }
+        },
+        {
+            "recommender_id": "952",
+            "recommendation": {
+                "resume_file": "768.json",
+                "recommendation_file": "Recommendation_From_ID_952.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Event Planning",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Music Performance",
+                        "Vocal Performance",
+                        "Piano Performance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and project management capabilities. The recommender's background as a Finance Manager adds credibility to their assessment of the candidate's organizational and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "207",
+            "recommendation": {
+                "resume_file": "768.json",
+                "recommendation_file": "Recommendation_From_ID_207.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Music Performance",
+                        "Vocal Performance",
+                        "Piano Performance"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their arts education and leadership abilities. The source of the recommendation is a supervisor, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "826",
+            "recommendation": {
+                "resume_file": "768.json",
+                "recommendation_file": "Recommendation_From_ID_826.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Leadership",
+                        "Music Performance",
+                        "Vocal Performance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and artistic abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "515",
+            "recommendation": {
+                "resume_file": "768.json",
+                "recommendation_file": "Recommendation_From_ID_515.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Event Planning",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Music Performance",
+                        "Vocal Performance",
+                        "Piano Performance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and organizational abilities. The recommender's background as a Client Relations Advocate adds credibility to their assessment of the candidate's communication and teamwork skills."
+                }
+            }
+        }
+    ]
+}

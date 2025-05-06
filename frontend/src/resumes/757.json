@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Pest Control Tech",
+                "work_description": "Maintained accurate stock records and schedules. Recommended and helped customers select merchandise based on their needs. Confirmed that appropriate changes were made to resolve customers' problems. Managed wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently.",
+                "company_level": "Mid-level",
+                "start_date": "08/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Warehouse/Shipping and Receiving",
+                "work_description": "Supervised material flow, storage and global order fulfillment. Selected products for specific routes according to pick sheets. Processed customs duties and fees quickly to release international shipments. Oversaw special orders and after-hours, urgent shipping jobs.",
+                "company_level": "Mid-level",
+                "start_date": "09/2012",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Warehouse/Driver",
+                "work_description": "Selected products for specific routes according to pick sheets. Conducted monthly, quarterly and yearly inventories of warehouse stock. Resolved service issues in a timely manner, including coordinating and processing returns.",
+                "company_level": "Mid-level",
+                "start_date": "07/2011",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Warehouse/Shipping and Receiving",
+                "work_description": "Maintained accurate stock records and schedules. Selected products for specific routes according to pick sheets. Oversaw special orders and after-hours, urgent shipping jobs.",
+                "company_level": "Mid-level",
+                "start_date": "08/2005",
+                "end_date": "11/2011"
+            },
+            {
+                "role_name": "Driver/Helper",
+                "work_description": "Coordinated daily delivery schedules based on customer schedules, peak delivery times and alternate routes. Obtained and maintained proper delivery authorization and pickup documentation.",
+                "company_level": "Mid-level",
+                "start_date": "11/2004",
+                "end_date": "08/2005"
+            },
+            {
+                "role_name": "A/O Aviation Ordanance",
+                "work_description": "Effective decision-maker in high-pressure environments. Managed receipt, storage and issue of ammunition processes. Completed multiple fire prevention safety training.",
+                "company_level": "Mid-level",
+                "start_date": "11/1998",
+                "end_date": "05/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "St.Bernard High School",
+                "start_date": "01/1998",
+                "end_date": "12/1998",
+                "domain": "General",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Inventory Management",
+                "level": 4,
+                "explanation": "Maintained accurate stock records and schedules, and conducted monthly, quarterly and yearly inventories of warehouse stock, showing strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Managed a wide variety of customer service tasks, including resolving customer issues quickly and efficiently, recommending products to customers, and resolving service issues in a timely manner, indicating strong proficiency."
+            },
+            {
+                "name": "Logistics and Shipping",
+                "level": 4,
+                "explanation": "Supervised material flow, storage and global order fulfillment, processed customs duties and fees, and oversaw special orders and after-hours, urgent shipping jobs, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Supervised material flow, storage and global order fulfillment, and oversaw special orders and after-hours, urgent shipping jobs, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Coordinated daily delivery schedules based on customer schedules, peak delivery times and alternate routes, and managed a wide variety of customer service tasks, showing a solid working proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Confirmed that appropriate changes were made to resolve customers' problems, and resolved service issues in a timely manner, indicating a solid level of proficiency in problem-solving."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked as a team member in various roles, including warehouse and shipping, and coordinated with others to resolve customer issues, showing a solid working proficiency."
+            },
+            {
+                "name": "Decision-Making",
+                "level": 3,
+                "explanation": "Effective decision-maker in high-pressure environments, indicating a solid level of proficiency in decision-making."
+            }
+        ]
+    }
+}

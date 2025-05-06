@@ -1,0 +1,65 @@
+{
+    "target_id": "38",
+    "recommendations": [
+        {
+            "recommender_id": "469",
+            "recommendation": {
+                "resume_file": "38.json",
+                "recommendation_file": "Recommendation_From_ID_469.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written by someone who is familiar with the candidate's background, but there are some inconsistencies and exaggerated claims. The recommendation mentions the candidate's experience as a Physical Therapy Aide, which is not present in the resume. Additionally, the recommendation highlights the candidate's technical acumen as an Aviation Electronics Technician, but the language used is somewhat generic and lacks specific examples.",
+                    "verified_skills": [
+                        "Troubleshooting",
+                        "Electronics Repair",
+                        "Test Equipment Operation",
+                        "Project Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation provides a good overview of the candidate's skills and experience, but it lacks specific examples and details. The recommendation also mentions the candidate's experience in physical therapy, which is not present in the resume. Overall, the recommendation is moderately relevant to the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "668",
+            "recommendation": {
+                "resume_file": "38.json",
+                "recommendation_file": "Recommendation_From_ID_668.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, recommender's credibility is uncertain",
+                    "verified_skills": [
+                        "Troubleshooting",
+                        "Electronics Repair",
+                        "Quality Assurance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but raises some concerns about the recommender's credibility and the accuracy of the claims made."
+                }
+            }
+        },
+        {
+            "recommender_id": "834",
+            "recommendation": {
+                "resume_file": "38.json",
+                "recommendation_file": "Recommendation_From_ID_834.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written by someone from a different industry (fitness) and lacks specific examples from the candidate's experience as an Instructional Designer or Aviation Electronics Technician. However, it does mention some relevant skills like attention to detail, organizational skills, and communication skills.",
+                    "verified_skills": [
+                        "Attention to detail",
+                        "Organizational skills",
+                        "Communication skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is somewhat relevant, but it seems to be written by someone who doesn't have direct experience with the candidate's work in instructional design or aviation electronics. The recommendation highlights some general skills that are relevant to the candidate's experience, but it lacks specific examples and details."
+                }
+            }
+        }
+    ]
+}

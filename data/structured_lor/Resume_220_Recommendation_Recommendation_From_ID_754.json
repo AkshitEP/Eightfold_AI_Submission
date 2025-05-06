@@ -1,0 +1,17 @@
+{
+    "resume_file": "220.json",
+    "recommendation_file": "Recommendation_From_ID_754.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+        "verified_skills": [
+            "IT Management",
+            "Leadership",
+            "Security Risk Management",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but it lacks specific examples and metrics to support some of the claims. The language is formal, but overly flattering and promotional."
+    }
+}

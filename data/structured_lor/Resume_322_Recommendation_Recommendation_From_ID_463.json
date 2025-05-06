@@ -1,0 +1,19 @@
+{
+    "resume_file": "322.json",
+    "recommendation_file": "Recommendation_From_ID_463.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Payroll Management",
+            "Financial Reconciliation",
+            "General Accounting",
+            "ADP (Human Resources and Payroll process functions)",
+            "Organizational Skills",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, work ethic, and problem-solving abilities. However, the source of the recommendation is unclear, and the recommendation does not specifically mention the candidate's proficiency in Microsoft Excel, Leadership, Time Management, or GAAP Compliance."
+    }
+}

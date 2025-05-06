@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Information Technology",
+                "work_description": "Designed and deployed the first data center the company owned, created cyber security policies and controls, and put together a team to support the data center and provide technical support for the new product offering. Demonstrated foresight in emerging technologies and leveraged technology to become more efficient and financially prudent.",
+                "company_level": "Mid-level",
+                "start_date": "09/2005",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Managed a project support team, supervised network administrators, and was responsible for all high-level network design and architecture for the organization. Evaluated security risks, ensuring HITECH/HIPAA protocol were followed.",
+                "company_level": "Mid-level",
+                "start_date": "09/2003",
+                "end_date": "09/2005"
+            },
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Managed the overall management, infrastructure, and strategic planning of the National point of sale network at 100+ retail locations and 5 distribution centers. Managed the ERP solution at the manufacturing plant and the accounting and HR systems at the corporate office.",
+                "company_level": "Mid-level",
+                "start_date": "09/1998",
+                "end_date": "03/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "Mihaylo College of Business and Economics, California State University",
+                "start_date": "01/2000",
+                "end_date": "12/2002",
+                "domain": "Information Technology",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/1995",
+                "end_date": "12/1998",
+                "domain": "Information Technology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Data Center Management",
+                "level": 5,
+                "explanation": "Designed and deployed the company's first data center, indicating expert-level mastery in data center management."
+            },
+            {
+                "name": "Cyber Security",
+                "level": 5,
+                "explanation": "Created cyber security policies and controls, demonstrating foresight in emerging technologies and expert-level proficiency in cyber security."
+            },
+            {
+                "name": "Team Management",
+                "level": 5,
+                "explanation": "Put together a team to support the data center and provide technical support for the new product offering, indicating expert-level leadership and team management skills."
+            },
+            {
+                "name": "Network Design and Architecture",
+                "level": 5,
+                "explanation": "Responsible for all high-level network design and architecture for the organization, demonstrating expert-level mastery in network design and architecture."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed a project support team, indicating strong proficiency in project management."
+            },
+            {
+                "name": "ERP Solution Management",
+                "level": 4,
+                "explanation": "Managed the ERP solution at the manufacturing plant, suggesting strong proficiency in ERP solution management."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Responsible for strategic planning of the National point of sale network, indicating strong proficiency in strategic planning."
+            },
+            {
+                "name": "Risk Management",
+                "level": 4,
+                "explanation": "Evaluated security risks, ensuring HITECH/HIPAA protocol were followed, suggesting strong proficiency in risk management."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Demonstrated leadership skills by managing teams and projects, indicating expert-level leadership skills."
+            },
+            {
+                "name": "Information Technology",
+                "level": 5,
+                "explanation": "Master's degree in Information Technology and extensive experience in the field, indicating expert-level mastery in information technology."
+            }
+        ]
+    }
+}

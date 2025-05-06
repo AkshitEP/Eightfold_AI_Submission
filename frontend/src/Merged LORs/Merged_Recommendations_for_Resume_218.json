@@ -1,0 +1,117 @@
+{
+    "target_id": "218",
+    "recommendations": [
+        {
+            "recommender_id": "538",
+            "recommendation": {
+                "resume_file": "218.json",
+                "recommendation_file": "Recommendation_From_ID_538.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Theater Direction",
+                        "Teaching",
+                        "Leadership",
+                        "Curriculum Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, teaching, and theater direction abilities. The recommender's perspective as a Business Process Analyst adds a unique perspective on the candidate's organizational and strategic thinking skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "768",
+            "recommendation": {
+                "resume_file": "218.json",
+                "recommendation_file": "Recommendation_From_ID_768.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Theater Direction",
+                        "Teaching",
+                        "Playwrighting",
+                        "Acting",
+                        "Leadership",
+                        "Curriculum Development",
+                        "Shakespearean Theater",
+                        "Physical Theater",
+                        "Improvisation",
+                        "Design for Theater"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their theater direction, teaching, and leadership abilities. The recommender's experience as an Arts Education Intern adds credibility to their assessment."
+                }
+            }
+        },
+        {
+            "recommender_id": "910",
+            "recommendation": {
+                "resume_file": "218.json",
+                "recommendation_file": "Recommendation_From_ID_910.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Theater Direction",
+                        "Teaching",
+                        "Playwrighting",
+                        "Acting",
+                        "Leadership",
+                        "Curriculum Development",
+                        "Shakespearean Theater"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their theater direction, teaching, and leadership abilities. The source of the recommendation is a peer, indicating a professional relationship with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "321",
+            "recommendation": {
+                "resume_file": "218.json",
+                "recommendation_file": "Recommendation_From_ID_321.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Theater Direction",
+                        "Teaching",
+                        "Curriculum Development",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their theater program development, teaching, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "432",
+            "recommendation": {
+                "resume_file": "218.json",
+                "recommendation_file": "Recommendation_From_ID_432.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Theater Direction",
+                        "Teaching",
+                        "Playwrighting",
+                        "Acting",
+                        "Leadership",
+                        "Curriculum Development",
+                        "Shakespearean Theater"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their theater program development, course creation, and leadership abilities."
+                }
+            }
+        }
+    ]
+}

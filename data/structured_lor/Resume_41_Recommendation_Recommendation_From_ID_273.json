@@ -1,0 +1,16 @@
+{
+    "resume_file": "41.json",
+    "recommendation_file": "Recommendation_From_ID_273.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be written by someone from a different field (Marketing Manager) and does not accurately reflect the candidate's skills and experience. The language used is also overly promotional and lacks specific examples from the candidate's work history.",
+        "verified_skills": [
+            "Therapy",
+            "Counseling",
+            "Treatment Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not accurately reflect the candidate's skills and experience, and the language used is overly promotional. However, it does mention some relevant skills such as therapy and counseling."
+    }
+}

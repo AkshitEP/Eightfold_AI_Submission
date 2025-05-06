@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Finance",
+                "work_description": "Manages the day to day accounting department, including hands on monthly close, commission reports, financial statements. Manages financial tasks, budgeting and overall accounting of the company. Develop and implement short and long-term financial strategies and tactics in alignment with the company's business plan and strategic initiatives.",
+                "company_level": "Mid-level",
+                "start_date": "05/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Sr. Operations Analyst-Fund Accounting",
+                "work_description": "Process funds' trade activity and communicate with the funds' investment manager on a daily basis. Prepares and review position and cash reconciliations between investment manager and custodians utilizing internal and third party custody platforms.",
+                "company_level": "Mid-level",
+                "start_date": "09/2015",
+                "end_date": "04/2016"
+            },
+            {
+                "role_name": "Financial Analyst-General Accounting",
+                "work_description": "Prepares month-end, quarter-end, year-end account analysis and reconciliation, including reconciliation of bank statements to the finance ledger. Prepares financial reports by utilizing accounting and support systems within the scope of established controls and procedures to research and prove account balances.",
+                "company_level": "Mid-level",
+                "start_date": "10/2013",
+                "end_date": "09/2015"
+            },
+            {
+                "role_name": "Tax Analyst",
+                "work_description": "Trained in preparation of Federal tax provisions and related financial statements disclosures. Trained in preparation of Federal excise tax calculations.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "08/2011"
+            },
+            {
+                "role_name": "Team Lead- Sr. Research/Financial Analyst",
+                "work_description": "Helped clients understand their historical transaction statements. Analyzed and explained transactional transcripts, i.e. general ledger to financial advisors to assist their clients.",
+                "company_level": "Mid-level",
+                "start_date": "06/2007",
+                "end_date": "09/2012"
+            },
+            {
+                "role_name": "Investor Services Specialist",
+                "work_description": "Reviewed market quotes for acceptable fluctuation, reasonableness and accuracy. Responsible for quality control of financial transactions.",
+                "company_level": "Mid-level",
+                "start_date": "10/2001",
+                "end_date": "06/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Johnson & Wales University",
+                "start_date": "01/2009",
+                "end_date": "12/2011",
+                "domain": "Accounting",
+                "level": "MBA"
+            },
+            {
+                "university": "Johnson & Wales University",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Accounting",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 5,
+                "explanation": "Has extensive experience with financial reconciliations, including bank statements and position reconciliations, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Has over a decade of experience in various accounting roles, including hands-on monthly close, financial statements, and budgeting, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience with financial analysis, including preparing financial reports, analyzing account balances, and developing financial strategies, indicating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Has experience with budgeting and financial planning, including developing short and long-term financial strategies, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience leading teams, including managing the day-to-day accounting department and helping clients understand their financial statements, indicating strong proficiency."
+            },
+            {
+                "name": "Tax Analysis",
+                "level": 3,
+                "explanation": "Has experience with tax analysis, including preparing Federal tax provisions and related financial statements disclosures, indicating solid working proficiency."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Has experience preparing financial reports, including financial statements and commission reports, indicating strong proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for financial analysis, budgeting, and financial reporting, suggesting strong proficiency."
+            }
+        ]
+    }
+}

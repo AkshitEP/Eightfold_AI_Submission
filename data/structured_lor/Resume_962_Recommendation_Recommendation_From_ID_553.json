@@ -1,0 +1,20 @@
+{
+    "resume_file": "962.json",
+    "recommendation_file": "Recommendation_From_ID_553.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "AML/CFT Compliance",
+            "KYC/EDD/PEPs Procedures",
+            "Risk Management",
+            "Banking Operations",
+            "Relationship Management",
+            "Loan Management",
+            "Retail Banking"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their expertise in compliance and risk management."
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "target_id": "783",
+    "recommendations": [
+        {
+            "recommender_id": "506",
+            "recommendation": {
+                "resume_file": "783.json",
+                "recommendation_file": "Recommendation_From_ID_506.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Sales Management",
+                        "Marketing Strategy",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and sales management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "998",
+            "recommendation": {
+                "resume_file": "783.json",
+                "recommendation_file": "Recommendation_From_ID_998.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Sales Management",
+                        "Marketing Strategy",
+                        "Financial Planning",
+                        "Civil Engineering"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales management, project management, and leadership abilities. The source of the recommendation appears to be a supervisor or someone in a higher management level, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "577",
+            "recommendation": {
+                "resume_file": "783.json",
+                "recommendation_file": "Recommendation_From_ID_577.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's job history. However, the language is formal and the claims seem generally credible.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Financial Planning",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in sales and finance management, leadership, and customer service. However, it does not provide specific examples from the candidate's job history, which reduces its relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "471",
+            "recommendation": {
+                "resume_file": "783.json",
+                "recommendation_file": "Recommendation_From_ID_471.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Sales Management",
+                        "Marketing Strategy",
+                        "Financial Planning",
+                        "Civil Engineering",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, sales management, and leadership abilities. The source of the recommendation is a supervisor, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

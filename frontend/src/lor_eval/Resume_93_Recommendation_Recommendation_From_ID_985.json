@@ -1,0 +1,16 @@
+{
+    "resume_id": 93,
+    "recommendation_file": "Recommendation_From_ID_985.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be exaggerated, and the candidate's experience in hospitality and customer service management is not directly mentioned in the resume.",
+        "verified_skills": [
+            "Employee Relations",
+            "Talent Acquisition",
+            "Training Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but it lacks substantial detail or alignment with the key areas of expertise."
+    }
+}

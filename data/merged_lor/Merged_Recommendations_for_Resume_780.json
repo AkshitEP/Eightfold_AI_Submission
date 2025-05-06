@@ -1,0 +1,80 @@
+{
+    "target_id": "780",
+    "recommendations": [
+        {
+            "recommender_id": "923",
+            "recommendation": {
+                "resume_file": "780.json",
+                "recommendation_file": "Recommendation_From_ID_923.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Career Counseling",
+                        "Training and Development",
+                        "Coaching and Mentoring",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their coaching, mentoring, and training development strategies. The source of the recommendation appears to be a colleague or peer, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "368",
+            "recommendation": {
+                "resume_file": "780.json",
+                "recommendation_file": "Recommendation_From_ID_368.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Coaching and Mentoring",
+                        "Training and Development",
+                        "Leadership",
+                        "Human Resource Management"
+                    ],
+                    "recommendation_source": "Manager",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in employee development, training, and human resource management. The source of the recommendation is a manager, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "820",
+            "recommendation": {
+                "resume_file": "780.json",
+                "recommendation_file": "Recommendation_From_ID_820.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Coaching and Mentoring",
+                        "Training and Development",
+                        "Career Counseling",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training strategies, coaching, and mentoring abilities. The source of the recommendation is a peer, indicating a collaborative work environment."
+                }
+            }
+        },
+        {
+            "recommender_id": "729",
+            "recommendation": {
+                "resume_file": "780.json",
+                "recommendation_file": "Recommendation_From_ID_729.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation is overly flattering, lacks specific examples or evidence, and contains informal language. The claims made are statistically improbable and not supported by the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience, and raises concerns about its authenticity."
+                }
+            }
+        }
+    ]
+}

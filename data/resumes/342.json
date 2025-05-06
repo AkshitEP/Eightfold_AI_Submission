@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Responsible for managing collections from customers by evaluating payment plans, payment history and, if need be, contacting a company's collections department to receive payment. Overseeing customer accounts and maintaining working relationships between a company and its clients are essential tasks for an accounts receivable clerk. Generate weekly financial reports to track all accounts receivable. This includes totaling all revenue and unpaid receivables and constantly keeping financial records up to date. Assist with month-end closing. Generate and send out invoices. Review AR aging to ensure compliance. Investigate and resolve customer queries. Communicate with clients about billing discrepancies and questions. Initiate collections on past-due accounts. Assist with sales and use tax audits and correspondence.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Senior Accountant",
+                "work_description": "Responsible for the preparation of financial statements in accordance with either generally accepted accounting principles (GAAP) or on a cash basis for governmental entities. Prepared asset, liability, and capital account entries by compiling and analyzing account information. Reconciled financial discrepancies by collecting and evaluating account information. Maintained accounting controls by preparing and recommending policies and procedures. Developed familiarity with working papers, report formats, and accounting systems of the client. Preserved good working relationships with clients. Assisted on audits as needed.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Tax Analyst",
+                "work_description": "Responsible for preparing sales and use tax returns as well as other tax-related filings including, but not limited to, business licenses, annual reports, and business registrations. Analysis, formatting, and reporting of sales tax for multiple states for main company and subsidiaries. Research various technical tax issues. Assist with sales and use tax audits and correspondence. Personal property taxes and annual returns for multiple states. Analysis and preparation of local income tax returns utilizing OneSource tax software. Registration and dissolution of entities with Secretaries of State for income and sales tax purposes. Manage and complete other projects as needed.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Staff Accountant II",
+                "work_description": "Responsible for analysis of financial information and preparation of financial reports to determine and maintain records of assets, liabilities, profits and losses, tax liabilities, and other financial activities. Responsible for monthly and year-end closing. Preparation of financial statements. Management of fixed assets. Analysis and reporting of sales tax for multiple states for main company and subsidiaries. Conduct weekly cash projections for main company and subsidiaries. Assist with accounts payable as needed. Manage and complete other projects as needed.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Staff Auditor II",
+                "work_description": "Responsible for assisting manager level auditor and performing audits of public offices (e.g., school districts, villages, municipalities) by gathering information and documentation necessary for the execution of audit procedures. Performed substantive tests of specific accounts and records. Prepared documentation of internal accounting and administrative control systems. Performed tests of controls and tests of compliance with laws and regulations applicable to the client. Prepared necessary working papers and schedules. Developed familiarity with audit methodology, the audit process, audit programs, working papers, report formats, and accounting systems of the client. Maintained good working relationships with clients. Provided training and guidance to new staff auditors.",
+                "company_level": "Mid-level",
+                "start_date": "01/2006",
+                "end_date": "01/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Kent State University",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Has extensive experience in preparing financial statements, financial reports, and conducting financial analysis, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Has over a decade of experience in various accounting roles, including staff accountant, senior accountant, and tax analyst, showing expert-level proficiency."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has consistently demonstrated strong analytical skills in financial analysis, financial reporting, and tax analysis, indicating expert-level mastery."
+            },
+            {
+                "name": "Tax Preparation",
+                "level": 4,
+                "explanation": "Has extensive experience in preparing sales and use tax returns, business licenses, and other tax-related filings, showing strong proficiency."
+            },
+            {
+                "name": "Auditing",
+                "level": 4,
+                "explanation": "Has experience in performing audits, including substantive tests, tests of controls, and tests of compliance, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 3,
+                "explanation": "Has experience in conducting weekly cash projections and managing fixed assets, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience in leading or assisting teams, including training and guiding new staff auditors, but lacks extensive leadership experience."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in communicating with clients, including resolving customer queries and billing discrepancies, showing a solid working proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for financial analysis, reporting, and tax preparation, suggesting strong proficiency."
+            }
+        ]
+    }
+}

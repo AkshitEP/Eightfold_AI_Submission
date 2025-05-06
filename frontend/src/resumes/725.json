@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR SPECIALIST",
+                "work_description": "Support the HR Operations Service Delivery model by serving as a primary contact for escalated issues related to Human Resource Services. Actively listen, interpret and articulate the needs of the customer (employees, Human Resources team members and management) to ensure timely research and resolution of escalated issues. Monitor and maintain case management / ticketing queues to ensure cases are assigned and resolved within stated service levels, as well as to ensure accurate documentation of case status and issue resolution.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "STAFFING SPECIALIST",
+                "work_description": "On-site point of contact for Co-op/Intern program. Completed applicant tracking in Hire systems. Responsible for on-boarding of co-ops/interns-payroll/creation of Identity Manager accounts/badging. Facilitated New Hire Orientation. Processed various workflow forms as needed. Interfaced with co-ops/interns, managers and contractors when appropriate. Conducted exit interviews with co-ops; terminate them from the system.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2008",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "STAFFING COORDINATOR",
+                "work_description": "Responded to associate benefit questions; researched and resolved. Assisted with coordinating and conducting HR-related training and other workshops. Maintained current knowledge of HR practices, laws, and regulations. Addressed/escalated customer issues and concerns-payroll/benefits/badging. Assisted Staffing Specialists with Benefit refunds, Workers Compensation, Jury Duty, STD/LTD form preparation.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2007",
+                "end_date": "04/2008"
+            },
+            {
+                "role_name": "RECRUITING COORDINATOR",
+                "work_description": "Conducted phone interviews with applicants. Developed and enhanced effective relationships with colleges and universities, job fair groups, business associations, advertising and recruitment agencies, and other key resources for sourcing candidates to fill internal positions. Teamed with business line managers to identify, recommend, and interview the most qualified candidates.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2004",
+                "end_date": "08/2007"
+            },
+            {
+                "role_name": "CUSTOMER SERVICE REPRESENTATIVE",
+                "work_description": "Answered inbound calls for 401(k) customers. Placed outbound calls as a follow-up to customer concerns pertaining to their 401(k) plans. Processed numerous transactions on 401(k) customers' accounts, i.e. loans, withdrawals, exchanges. Investigated pending issues on 401(k) customers' accounts, i.e. address changes, changes in employment status.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2001",
+                "end_date": "04/2004"
+            },
+            {
+                "role_name": "TRUSTEE BOARD MEMBER",
+                "work_description": "Appointed by the church's pastor to the board to assist with making decisions for the church. Served as financial secretary, processing payroll checks for those on church payroll. Assisted with analyzing and amending the church's budget as necessary. Conducted quarterly business meetings with other board members providing financial update of the church to the members.",
+                "company_level": "Non-Profit",
+                "start_date": "09/2014",
+                "end_date": "12/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northern Kentucky University",
+                "start_date": "01/2004",
+                "end_date": "05/2006",
+                "domain": "Public Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "Northern Kentucky University",
+                "start_date": "01/1998",
+                "end_date": "05/2002",
+                "domain": "English Writing",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resource Management",
+                "level": 5,
+                "explanation": "Over a decade of experience in various HR roles, including HR Specialist, Staffing Specialist, Staffing Coordinator, and Recruiting Coordinator, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Extensive experience with recruitment processes, including phone interviews, developing relationships with colleges and universities, and teaming with business line managers to identify qualified candidates, suggesting strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Handled payroll checks as a Trustee Board Member and processed payroll-related tasks in various HR roles, indicating strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Assisted with analyzing and amending the church's budget as a Trustee Board Member, showing a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Provided customer service as a Customer Service Representative and HR Specialist, handling inbound and outbound calls, and resolving customer issues, indicating a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Served as a primary contact for escalated issues and led a team as a Staffing Specialist, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with customers, employees, and management in various HR roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Resolved customer issues and escalated problems in various HR roles, indicating strong proficiency."
+            }
+        ]
+    }
+}

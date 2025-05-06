@@ -1,0 +1,88 @@
+{
+    "target_id": "111",
+    "recommendations": [
+        {
+            "recommender_id": "555",
+            "recommendation": {
+                "resume_file": "111.json",
+                "recommendation_file": "Recommendation_From_ID_555.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Medical Billing",
+                        "Healthcare Management",
+                        "Insurance Verification",
+                        "Communication",
+                        "Software Proficiency"
+                    ],
+                    "recommendation_source": "Manager",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their problem-solving skills, technical strength, and ability to collaborate effectively within a team."
+                }
+            }
+        },
+        {
+            "recommender_id": "70",
+            "recommendation": {
+                "resume_file": "111.json",
+                "recommendation_file": "Recommendation_From_ID_70.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Medical Billing",
+                        "Healthcare Management",
+                        "Insurance Verification",
+                        "Communication",
+                        "Software Proficiency"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in medical billing and healthcare management. The source of the recommendation is a peer, a Licensed Healthcare Communicator, who has worked alongside the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "605",
+            "recommendation": {
+                "resume_file": "111.json",
+                "recommendation_file": "Recommendation_From_ID_605.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Medical Billing",
+                        "Healthcare Management",
+                        "Insurance Verification",
+                        "Communication",
+                        "Data Analysis",
+                        "Software Proficiency"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their billing management, analytical skills, and communication abilities. The source of the recommendation is unclear, but the language used is formal and professional."
+                }
+            }
+        },
+        {
+            "recommender_id": "608",
+            "recommendation": {
+                "resume_file": "111.json",
+                "recommendation_file": "Recommendation_From_ID_608.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation mentions experience in patient care, which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Organization",
+                        "Problem-solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks specific details about the candidate's experience in medical billing, insurance verification, or healthcare management. The recommendation seems to be written in a formal tone, but there are some inconsistencies and exaggerated claims."
+                }
+            }
+        }
+    ]
+}

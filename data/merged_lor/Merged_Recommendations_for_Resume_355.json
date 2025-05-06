@@ -1,0 +1,134 @@
+{
+    "target_id": "355",
+    "recommendations": [
+        {
+            "recommender_id": "679",
+            "recommendation": {
+                "resume_file": "355.json",
+                "recommendation_file": "Recommendation_From_ID_679.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's claims, but overall the recommendation seems genuine.",
+                    "verified_skills": [
+                        "Group Fitness Instruction",
+                        "Yoga Instruction",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience and skills in group fitness instruction, yoga instruction, and leadership, but there are some minor inconsistencies in the recommender's claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "415",
+            "recommendation": {
+                "resume_file": "355.json",
+                "recommendation_file": "Recommendation_From_ID_415.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Group Fitness Instruction",
+                        "Yoga Instruction",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their fitness instruction and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "406",
+            "recommendation": {
+                "resume_file": "355.json",
+                "recommendation_file": "Recommendation_From_ID_406.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and lack of direct connection to the fitness industry.",
+                    "verified_skills": [
+                        "Group Fitness Instruction",
+                        "Leadership",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but the source's lack of experience in the fitness industry may reduce its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "410",
+            "recommendation": {
+                "resume_file": "355.json",
+                "recommendation_file": "Recommendation_From_ID_410.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation is not from a direct supervisor or peer, and it does not provide specific examples or evidence from the candidate's resume to support their claims.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be unrelated to the candidate's field of expertise and lacks specific examples or evidence to support their claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "958",
+            "recommendation": {
+                "resume_file": "355.json",
+                "recommendation_file": "Recommendation_From_ID_958.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation comes from an unexpected source, a marine biologist, which may raise some concerns about the relevance of their opinion. However, the recommendation still highlights the instructor's skills and qualities that are relevant to their profession.",
+                    "verified_skills": [
+                        "Group Fitness Instruction",
+                        "Yoga Instruction",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the instructor's ability to inspire confidence and camaraderie among class members, as well as their creativity and leadership. However, the source of the recommendation is not directly related to the instructor's profession, which may affect its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "38",
+            "recommendation": {
+                "resume_file": "355.json",
+                "recommendation_file": "Recommendation_From_ID_38.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's field of expertise is not directly related to fitness, and their language is overly flattering.",
+                    "verified_skills": [
+                        "Group Fitness Instruction",
+                        "Yoga Instruction",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "837",
+            "recommendation": {
+                "resume_file": "355.json",
+                "recommendation_file": "Recommendation_From_ID_837.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "Overly formal and exaggerated language, unrelated areas mentioned, and unrealistic claims made.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's skills and experience, and contains several red flags indicating potential fraud."
+                }
+            }
+        }
+    ]
+}

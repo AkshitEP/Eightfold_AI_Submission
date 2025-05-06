@@ -1,0 +1,67 @@
+{
+    "target_id": "616",
+    "recommendations": [
+        {
+            "recommender_id": "464",
+            "recommendation": {
+                "resume_file": "616.json",
+                "recommendation_file": "Recommendation_From_ID_464.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Leadership",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and problem-solving abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "201",
+            "recommendation": {
+                "resume_file": "616.json",
+                "recommendation_file": "Recommendation_From_ID_201.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Teamwork",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, teamwork, and problem-solving abilities. However, the source of the recommendation is unclear, and the recommender's role and relationship to the candidate are not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "95",
+            "recommendation": {
+                "resume_file": "616.json",
+                "recommendation_file": "Recommendation_From_ID_95.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's claims, but overall the recommendation seems credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Teamwork",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies that raise minor concerns."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "target_id": "980",
+    "recommendations": [
+        {
+            "recommender_id": "189",
+            "recommendation": {
+                "resume_file": "980.json",
+                "recommendation_file": "Recommendation_From_ID_189.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Investment Management",
+                        "Audit and Compliance",
+                        "Banking and Financial Institutions"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, leadership, and analytical abilities. The recommender's global finance accountant background adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "258",
+            "recommendation": {
+                "resume_file": "980.json",
+                "recommendation_file": "Recommendation_From_ID_258.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Investment Management",
+                        "Risk Management",
+                        "Audit and Compliance",
+                        "Banking and Financial Institutions"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise, leadership, and negotiation skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "276",
+            "recommendation": {
+                "resume_file": "980.json",
+                "recommendation_file": "Recommendation_From_ID_276.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions the second finance manager instead of the candidate, and some claims seem exaggerated or unsupported.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Investment Management",
+                        "Risk Management",
+                        "Audit and Compliance",
+                        "Banking and Financial Institutions"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but it seems to be recommending the second finance manager instead of the candidate. This inconsistency raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "target_id": "851",
+    "recommendations": [
+        {
+            "recommender_id": "962",
+            "recommendation": {
+                "resume_file": "851.json",
+                "recommendation_file": "Recommendation_From_ID_962.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession and experience do not directly align with the candidate's skills and experience. However, the recommendation highlights the candidate's skills in business process improvement, data analysis, and communication, which are relevant to their role.",
+                    "verified_skills": [
+                        "Business Development",
+                        "Data Analysis",
+                        "Communication",
+                        "Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation provides a general endorsement of the candidate's skills and abilities, but lacks specific examples and details from their work experience. The recommender's profession and experience do not directly align with the candidate's skills and experience, which raises some concerns about the relevance of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "164",
+            "recommendation": {
+                "resume_file": "851.json",
+                "recommendation_file": "Recommendation_From_ID_164.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Business Development",
+                        "Data Analysis",
+                        "Communication",
+                        "Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business development and data analysis abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "544",
+            "recommendation": {
+                "resume_file": "851.json",
+                "recommendation_file": "Recommendation_From_ID_544.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Business Development",
+                        "Marketing",
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Management",
+                        "Negotiation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and business process improvement skills, client relationship management, and ability to drive new business development."
+                }
+            }
+        },
+        {
+            "recommender_id": "712",
+            "recommendation": {
+                "resume_file": "851.json",
+                "recommendation_file": "Recommendation_From_ID_712.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of the healthcare sector which is not explicitly mentioned in the resume. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Business Development",
+                        "Marketing",
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Management",
+                        "Negotiation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical and interpersonal skills. However, some minor inconsistencies and lack of concrete examples from the resume reduce the relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "393",
+            "recommendation": {
+                "resume_file": "851.json",
+                "recommendation_file": "Recommendation_From_ID_393.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Sales Management",
+                        "Business Development",
+                        "Marketing",
+                        "Data Analysis",
+                        "Leadership",
+                        "Communication",
+                        "Relationship Management",
+                        "Negotiation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical focus, relationship management, and project management abilities. The source of the recommendation is a peer who has worked closely with the candidate, adding credibility to the endorsement."
+                }
+            }
+        }
+    ]
+}

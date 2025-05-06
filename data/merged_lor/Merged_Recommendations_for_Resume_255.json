@@ -1,0 +1,51 @@
+{
+    "target_id": "255",
+    "recommendations": [
+        {
+            "recommender_id": "267",
+            "recommendation": {
+                "resume_file": "255.json",
+                "recommendation_file": "Recommendation_From_ID_267.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Payroll Management",
+                        "Microsoft Excel",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and strong analytical mindset. The recommendation highlights the candidate's exceptional organizational skills, proficiency in accounting software, and strong communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "322",
+            "recommendation": {
+                "resume_file": "255.json",
+                "recommendation_file": "Recommendation_From_ID_322.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounts Receivable",
+                        "Accounts Payable",
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Analytical Skills",
+                        "Organizational Abilities",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting skills and abilities."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "173.json",
+    "recommendation_file": "Recommendation_From_ID_147.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written for two different individuals, with the first part discussing a Finance Controller and the second part discussing the English Language Arts Teacher. This inconsistency raises some concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Teaching",
+            "Curriculum Development",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and curriculum development. However, the first part of the recommendation seems to be written for a different individual, which raises some concerns about the authenticity of the recommendation."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "target_id": "802",
+    "recommendations": [
+        {
+            "recommender_id": "428",
+            "recommendation": {
+                "resume_file": "802.json",
+                "recommendation_file": "Recommendation_From_ID_428.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "GAAP Compliance",
+                        "Leadership",
+                        "Auditing",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial acumen, administration expertise, and ability to drive operational improvements and profitability."
+                }
+            }
+        },
+        {
+            "recommender_id": "384",
+            "recommendation": {
+                "resume_file": "802.json",
+                "recommendation_file": "Recommendation_From_ID_384.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "GAAP Compliance",
+                        "General Accounting",
+                        "Leadership",
+                        "Auditing",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities. The recommendation highlights the candidate's strengths in financial reporting, cost accounting, and taxation, as well as their proficiency in GAAP and tax regulations."
+                }
+            }
+        },
+        {
+            "recommender_id": "30",
+            "recommendation": {
+                "resume_file": "802.json",
+                "recommendation_file": "Recommendation_From_ID_30.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. However, the skills and experiences mentioned align well with the candidate's resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "GAAP Compliance",
+                        "General Accounting",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in accounting and finance, but lacks concrete examples from their resume. The language is formal, but the tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

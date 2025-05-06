@@ -1,0 +1,47 @@
+{
+    "target_id": "288",
+    "recommendations": [
+        {
+            "recommender_id": "722",
+            "recommendation": {
+                "resume_file": "288.json",
+                "recommendation_file": "Recommendation_From_ID_722.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's claim of working alongside the candidate in community projects seems unusual, but the recommendation appears genuine.",
+                    "verified_skills": [
+                        "Classroom Management",
+                        "Art Instruction",
+                        "Leadership",
+                        "Communication",
+                        "Collaboration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in arts education, but the recommender's credibility is slightly reduced due to their unrelated profession."
+                }
+            }
+        },
+        {
+            "recommender_id": "207",
+            "recommendation": {
+                "resume_file": "288.json",
+                "recommendation_file": "Recommendation_From_ID_207.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Classroom Management",
+                        "Lesson Planning",
+                        "Communication",
+                        "Leadership",
+                        "Art Instruction"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and organizational abilities."
+                }
+            }
+        }
+    ]
+}

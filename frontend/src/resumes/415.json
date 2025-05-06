@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Kids Club Attendant",
+                "work_description": "Supervise activities of all assigned children in the Kid's Club area and ensures child remains in designated area. Responsible for general cleaning duties in Kids Club including disinfecting toys. Report all member complaints to Kid's Club Supervisor or Operations Manager.",
+                "company_level": "Mid-level",
+                "start_date": "07/2016",
+                "end_date": "10/2016"
+            },
+            {
+                "role_name": "Service Representative",
+                "work_description": "Greet all incoming members and guests and ensure all check in procedures are followed. Operate POS system and ensure open/close/break procedures are followed. Promote and sell merchandise.",
+                "company_level": "Mid-level",
+                "start_date": "04/2016",
+                "end_date": "10/2016"
+            },
+            {
+                "role_name": "Retail Sales Associate",
+                "work_description": "Helped customers select products that best fit their personal needs. Maintained visually appealing and effective displays for the entire store. Replenished floor stock and processed shipments to ensure product availability for customers.",
+                "company_level": "Mid-level",
+                "start_date": "07/2015",
+                "end_date": "04/2016"
+            },
+            {
+                "role_name": "Kindergarten Teachers Assistant",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "09/2010",
+                "end_date": "05/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Arizona",
+                "start_date": "08/2014",
+                "end_date": "05/2016",
+                "domain": "Africana Studies",
+                "level": ""
+            },
+            {
+                "university": "Pasadena City College",
+                "start_date": "08/2016",
+                "end_date": "Present",
+                "domain": "Kineciology and Wellness",
+                "level": ""
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience in greeting and serving customers in various roles, including Service Representative and Retail Sales Associate, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in communicating with customers, colleagues, and supervisors in various roles, showing a solid working proficiency."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Has experience working in teams, including supervising activities of children in the Kid's Club area and working with colleagues in retail and service roles, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 2,
+                "explanation": "Has experience in managing time effectively in various roles, including opening and closing procedures, showing some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has experience in supervising children in the Kid's Club area, showing some practical experience in leadership."
+            },
+            {
+                "name": "Sales",
+                "level": 2,
+                "explanation": "Has experience in promoting and selling merchandise, showing some practical experience."
+            },
+            {
+                "name": "Childcare",
+                "level": 3,
+                "explanation": "Has experience in supervising and caring for children in the Kid's Club area, showing a solid working proficiency."
+            },
+            {
+                "name": "Education",
+                "level": 2,
+                "explanation": "Has experience as a Kindergarten Teacher's Assistant, showing some practical experience in education."
+            },
+            {
+                "name": "Retail Management",
+                "level": 2,
+                "explanation": "Has experience in maintaining visually appealing and effective displays for the entire store, showing some practical experience."
+            }
+        ]
+    }
+}

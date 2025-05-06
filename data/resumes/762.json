@@ -1,0 +1,95 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Software Engineer",
+                "work_description": "Worked with product managers to implement in-game telemetry. Implemented various features and fixed bugs required for soft launch. Established first playable prototype in Unity 3D, with player-controlled units that utilized a navigation mesh while obeying rotational and movement constraints. Created custom code to drive vehicle-tread animation based on vehicle velocity. Worked with artists to develop player animation and movement code using Unity 3D's legacy animation and navigation mesh agent. Lead the evaluation and eventual adoption of Unity's Mecanim Animation System to drive character animation. Wrote code to support player interaction with in-world game objects. Created procedural loot animation system using physics to animate loot drops. Prototyped player exploration game mode with multiple control schemes and UI. Extended the developer cheat system to allow in-game cheats to be used on production servers by entitled user accounts to facilitate QA testing and debugging of live builds. Worked with a team to develop AI bots from a single rough prototype to a full roster of 5 bots released as part of first time user experience. Developed AI behaviors, and a system that used dynamic navigation mesh obstacles allowing bots to avoid incoming enemy fire and move away from fire at current location. Profiled and optimized server-side (Lua/C++) code to improve performance added new AI editor and in-game functionality to support game design requirements. Enhanced and debugged (C#) server-side skirmish AI unit production and base defense, and developed code to allow the skirmish AI Generals to use taunts against opponents. Established localization pipeline and workflow using EA shared technology database and tools. Integrated an EA shared technology UI system (C++) into the Frostbite game client codebase. Implemented HUD features such as objective system, and contextual unit information display. Designed and implemented (C++) client, and (C#) server code for queued player command system, and commands including moving, attacking, changing stance, and selecting units. Developed code to handle assigning units and structures to control groups. Refactored hotkey system to allow hotkeys to trigger different actions based on context. Refactored server logging system initialization to improve log coverage at startup.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Software Engineer",
+                "work_description": "Developed automated load test scenarios that included report generation for historical analysis. Implemented UI features for the Game Remote Administration Tool for customer service agents. Performed feature development and maintenance of platform products, including the crash service, real-time metrics visualization system, and the data collection and transformation service. Designed and developed Distributed Testing Service, a client-server based system designed to run functional, load, and scalability tests, and store results in a database. Reclaimed and updated code from game team code base, and released it as part of the Trion Platform Foundation code base.",
+                "company_level": "Mid-level",
+                "start_date": "09/2008",
+                "end_date": "08/2010"
+            },
+            {
+                "role_name": "Software Engineer",
+                "work_description": "Worked in an interrupt-driven environment to implement features, fix bugs and create tools designed to improve the workflow for content creators during daily development, utilizing C++ Unreal Script, UnrealEd, and MAXScript. Contributed to the Unreal Engine 3 based Core Technology Platform code used across all of Midway's next generation PC, Xbox 360, and PS3 titles by fixing bugs, performing integrations, and reclaiming code from game development teams.",
+                "company_level": "Mid-level",
+                "start_date": "08/2006",
+                "end_date": "08/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Georgia State University",
+                "start_date": "01/2002",
+                "end_date": "05/2006",
+                "domain": "Computer Science",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Game Play",
+            "AI programming"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "C++",
+                "level": 5,
+                "explanation": "Extensive experience with C++ in various projects, including game development, server-side code, and client-side code, indicating expert-level mastery."
+            },
+            {
+                "name": "C#",
+                "level": 4,
+                "explanation": "Significant experience with C# in server-side code, including development of AI behaviors, skirmish AI unit production, and base defense, suggesting strong proficiency."
+            },
+            {
+                "name": "Lua",
+                "level": 3,
+                "explanation": "Experience with Lua in server-side code, including profiling and optimization, indicating a solid working proficiency."
+            },
+            {
+                "name": "Unity 3D",
+                "level": 5,
+                "explanation": "Extensive experience with Unity 3D, including development of in-game telemetry, player animation, and movement code, indicating expert-level mastery."
+            },
+            {
+                "name": "Game Development",
+                "level": 5,
+                "explanation": "Over a decade of experience in game development, including development of AI bots, player interaction, and game design, indicating expert-level mastery."
+            },
+            {
+                "name": "AI Programming",
+                "level": 5,
+                "explanation": "Extensive experience with AI programming, including development of AI behaviors, navigation mesh obstacles, and dynamic navigation mesh, indicating expert-level mastery."
+            },
+            {
+                "name": "Software Engineering",
+                "level": 5,
+                "explanation": "Over a decade of experience in software engineering, including development of automated load test scenarios, UI features, and platform products, indicating expert-level mastery."
+            },
+            {
+                "name": "Team Leadership",
+                "level": 3,
+                "explanation": "Experience leading a team in game development, including development of AI bots and player interaction, indicating a solid working proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Significant experience with problem-solving, including debugging, profiling, and optimization, suggesting strong proficiency."
+            },
+            {
+                "name": "Game Play",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but no backing experience found."
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "481.json",
+    "recommendation_file": "Recommendation_From_ID_793.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The mention of 'organizing successful fundraising events' is not directly supported by the resume, but the overall tone and content of the recommendation align well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Employee Relations",
+            "Training and Development",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strengths in employee relations, training and development, leadership, and communication, which are all supported by their resume. However, some minor inconsistencies or exaggerated claims are present, such as the mention of 'organizing successful fundraising events', which is not directly supported by the resume."
+    }
+}

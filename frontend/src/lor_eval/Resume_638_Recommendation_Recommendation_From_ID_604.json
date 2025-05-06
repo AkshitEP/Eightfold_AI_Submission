@@ -1,0 +1,15 @@
+{
+    "resume_file": "638.json",
+    "recommendation_file": "Recommendation_From_ID_604.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills and professional conduct. However, it does not explicitly mention other skills such as Cash Handling, Time Management, or Basic Computer Skills."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_id": 70,
+    "recommendation_file": "Recommendation_From_ID_512.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The language is formal, but the recommendation seems to be praising two individuals instead of one.",
+        "verified_skills": [
+            "Nursing",
+            "Patient Education",
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Documentation",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare delivery and nursing. However, the recommendation seems to be praising two individuals instead of one, which raises some concerns about its credibility."
+    }
+}

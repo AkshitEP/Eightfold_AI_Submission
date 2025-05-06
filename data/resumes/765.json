@@ -1,0 +1,93 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Membership Coordinator",
+                "work_description": "Selling memberships at the health club, generating at least 60% of own prospects through normal prospecting channels, and maintaining a strong working relationship with club staff.",
+                "company_level": "Mid-level",
+                "start_date": "05/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Customer service Manager on duty (MOD)",
+                "work_description": "Facilitating an excellent customer service experience, handling monetary responsibilities, and maintaining a facility opening/closing checklist.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Customer Service Representative/Bar Attendant",
+                "work_description": "Facilitating an excellent customer service experience, producing sales, and handling monetary responsibilities.",
+                "company_level": "Mid-level",
+                "start_date": "09/2009",
+                "end_date": "09/2014"
+            },
+            {
+                "role_name": "Sales/Customer Service Representative",
+                "work_description": "Facilitating an excellent customer service experience, producing sales, and handling monetary responsibilities.",
+                "company_level": "Mid-level",
+                "start_date": "04/2006",
+                "end_date": "08/2009"
+            },
+            {
+                "role_name": "Sales Representative",
+                "work_description": "Brokering and securing the sale of medical supplies in a nationwide call center environment.",
+                "company_level": "Mid-level",
+                "start_date": "03/2003",
+                "end_date": "04/2005"
+            },
+            {
+                "role_name": "Merchandise and Customer Assistant (MCA)",
+                "work_description": "Brokering and securing the sale of medical supplies in a nationwide call center environment.",
+                "company_level": "Mid-level",
+                "start_date": "10/2002",
+                "end_date": "01/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "Thornton High School",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Sales",
+                "level": 5,
+                "explanation": "Over a decade of experience in sales roles, consistently generating sales and meeting targets, indicating expert-level mastery."
+            },
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Extensive experience in customer-facing roles, consistently providing excellent customer service and handling monetary responsibilities, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Strong communication skills demonstrated through sales and customer service roles, suggesting strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Able to manage time effectively in fast-paced sales and customer service environments, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Some experience in leadership roles, such as Customer service Manager on duty (MOD), but limited scope and duration, suggesting some practical experience."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Experience working with teams in sales and customer service environments, suggesting a solid working proficiency."
+            }
+        ]
+    }
+}

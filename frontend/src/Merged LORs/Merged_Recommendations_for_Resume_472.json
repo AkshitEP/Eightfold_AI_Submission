@@ -1,0 +1,62 @@
+{
+    "target_id": "472",
+    "recommendations": [
+        {
+            "recommender_id": "123",
+            "recommendation": {
+                "resume_file": "472.json",
+                "recommendation_file": "Recommendation_From_ID_123.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Project Management",
+                        "Leadership",
+                        "Business Analysis",
+                        "Risk Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their abilities and accomplishments."
+                }
+            }
+        },
+        {
+            "recommender_id": "553",
+            "recommendation": {
+                "resume_file": "472.json",
+                "recommendation_file": "Recommendation_From_ID_553.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resource Management",
+                        "Leadership",
+                        "Communication",
+                        "Business Analysis",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, analytical, and communication skills. The recommender's professional relationship with the candidate and shared experience in human resources and customer relations adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "88",
+            "recommendation": {
+                "resume_file": "472.json",
+                "recommendation_file": "Recommendation_From_ID_88.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration, improper language, or contradictory data. The recommendation mentions a Night Service Representative role, which is not mentioned in the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The language used is informal and does not match the tone of a formal recommendation."
+                }
+            }
+        }
+    ]
+}

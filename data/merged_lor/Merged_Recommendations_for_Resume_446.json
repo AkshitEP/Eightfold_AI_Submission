@@ -1,0 +1,71 @@
+{
+    "target_id": "446",
+    "recommendations": [
+        {
+            "recommender_id": "823",
+            "recommendation": {
+                "resume_file": "446.json",
+                "recommendation_file": "Recommendation_From_ID_823.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not clearly identified as a supervisor or peer. The language is formal, but the recommendation is written from the perspective of an IT Specialist, which may not be directly relevant to HR.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Performance Management",
+                        "Employee Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in human resources, leadership, and employee development, but the source's relationship to the candidate is unclear. The recommendation is well-written and provides specific examples of the candidate's skills and accomplishments."
+                }
+            }
+        },
+        {
+            "recommender_id": "309",
+            "recommendation": {
+                "resume_file": "446.json",
+                "recommendation_file": "Recommendation_From_ID_309.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Performance Management",
+                        "Policy Interpretation",
+                        "Employee Development",
+                        "Organizational Design"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise, leadership, and performance management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "149",
+            "recommendation": {
+                "resume_file": "446.json",
+                "recommendation_file": "Recommendation_From_ID_149.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Leadership",
+                        "Performance Management",
+                        "Policy Interpretation",
+                        "Recruitment",
+                        "Compensation Management",
+                        "Employee Development",
+                        "Organizational Design"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their human resources expertise, leadership, and performance management abilities. The recommendation highlights the candidate's strategic outlook on human capital management and their ability to collaborate with senior leadership to implement organizational improvements."
+                }
+            }
+        }
+    ]
+}

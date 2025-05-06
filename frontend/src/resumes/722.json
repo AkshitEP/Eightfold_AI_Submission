@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "AM- Replenishment Stocker",
+                "work_description": "Answered customers' questions and addressed problems and complaints in person and via phone. Kept the showroom clean and maintained neat, orderly product displays. Unloaded, picked, staged and loaded products for shipping. Resolved service issues in a timely manner, including coordinating and processing returns. Rotated stock by code and receiving date. Maintained visually appealing and effective displays for the entire store.",
+                "company_level": "Mid-level",
+                "start_date": "09/2015",
+                "end_date": "06/2016"
+            },
+            {
+                "role_name": "Communications Technician",
+                "work_description": "Performed basic FCC Proof of Performance tests, including test point and 24 tests as well as responded to and repaired service interruptions and signal degradation on the two-way distribution plant as required. Performed requested and non-pay disconnects, pre-wired unit dwellings in order to provide 'ready hook-up' capabilities, and inspected existing ground and made new ground according to the National Electric Code (NEC) in order to protect employees, customers, and equipment from electrical shock or damage.",
+                "company_level": "Mid-level",
+                "start_date": "06/2007",
+                "end_date": "12/2008"
+            },
+            {
+                "role_name": "Service Installation Technician",
+                "work_description": "Assisted in all phases of installing, testing, and troubleshooting security and access control systems in Houston metropolitan area office buildings. Maintained company owned vehicles, tools, equipment, individual tool issue, and building keys to customer buildings. Documented completed work accurately and consulted with supervisor to resolve discrepancies and interfaced with customers as necessary to install and test equipment.",
+                "company_level": "Mid-level",
+                "start_date": "10/2003",
+                "end_date": "05/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Gulf Shores Academy",
+                "start_date": "05/1996",
+                "end_date": "05/1996",
+                "domain": "High School Diploma",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "Texas State Technical College",
+                "start_date": "01/2018",
+                "end_date": "12/2018",
+                "domain": "Information Security",
+                "level": "Associate of Applied Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Handled customer inquiries and resolved issues in a timely manner, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Maintained neat and orderly product displays, rotated stock, and unloaded/picked products for shipping, indicating a solid working proficiency in inventory management."
+            },
+            {
+                "name": "Electronics Installation and Repair",
+                "level": 4,
+                "explanation": "Installed, tested, and troubleshot security and access control systems, and performed FCC Proof of Performance tests, showing strong proficiency in electronics installation and repair."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Troubleshot service interruptions and signal degradation on the two-way distribution plant, and troubleshot security and access control systems, indicating strong proficiency in troubleshooting."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Coordinated and processed returns, and maintained company owned vehicles and equipment, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Interfaced with customers to install and test equipment, and responded to customer inquiries, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Information Security",
+                "level": 2,
+                "explanation": "Earned an Associate of Applied Science degree in Information Security, but lacks extensive practical experience, indicating some practical experience in information security."
+            }
+        ]
+    }
+}

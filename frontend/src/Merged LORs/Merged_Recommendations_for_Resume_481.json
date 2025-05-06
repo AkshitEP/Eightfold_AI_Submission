@@ -1,0 +1,66 @@
+{
+    "target_id": "481",
+    "recommendations": [
+        {
+            "recommender_id": "175",
+            "recommendation": {
+                "resume_file": "481.json",
+                "recommendation_file": "Recommendation_From_ID_175.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Training and Development",
+                        "Inventory Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in employee relations, training and development, and leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "396",
+            "recommendation": {
+                "resume_file": "481.json",
+                "recommendation_file": "Recommendation_From_ID_396.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Training and Development",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in HR Employee Relations, but the source of the recommendation is unclear and the language is overly flattering. The recommendation highlights the candidate's conflict resolution skills, ability to collaborate with teams, and dedication to excellence."
+                }
+            }
+        },
+        {
+            "recommender_id": "793",
+            "recommendation": {
+                "resume_file": "481.json",
+                "recommendation_file": "Recommendation_From_ID_793.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The mention of 'organizing successful fundraising events' is not directly supported by the resume, but the overall tone and content of the recommendation align well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Employee Relations",
+                        "Training and Development",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in employee relations, training and development, leadership, and communication, which are all supported by their resume. However, some minor inconsistencies or exaggerated claims are present, such as the mention of 'organizing successful fundraising events', which is not directly supported by the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "target_id": "953",
+    "recommendations": [
+        {
+            "recommender_id": "145",
+            "recommendation": {
+                "resume_file": "953.json",
+                "recommendation_file": "Recommendation_From_ID_145.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Licensed Healthcare Insurance Sales Agent seems unrelated to the candidate's accounting experience. However, the recommendation provides specific examples of the candidate's accounting skills and experience.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "QuickBooks"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's accounting experience and skills, but the recommender's role and relationship to the candidate are unclear. The recommendation provides specific examples of the candidate's accounting skills and experience, but the recommender's lack of direct supervision or management experience with the candidate raises some concerns."
+                }
+            }
+        }
+    ]
+}

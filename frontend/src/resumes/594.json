@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Director of Information Technology",
+                "work_description": "Develops, tracks and controls long-term information technology operating budgets and cost and benefit analyses for IT spending initiatives. Leads and assists technical upgrade projects for clients by coordinating with consultants and developers for data migration and integrations. Coordinates with management teams to plan, develop, align and execute strategies that would meet client's vision, mission and purpose. Reviews and assesses architecture design, implementation, testing and deployment needs to identify project requirements and reduce costs 18%. Plays key role in on-going network design, reevaluation and optimization to keep pace with company growth.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Senior Consulting IT Program Manager",
+                "work_description": "Managed and implemented concurrent projects relating to business process re-engineering, software development and upgrades to foster productivity, throughput, and end-user engagement. Performed program research and analyzed data collection to develop cost estimates and budgets. Identified system needs and designed processes to support business requirements. Collaborated with clients to understand technology staffing requirements and improved productivity while reducing staffing and operational costs by 15%. Performed risk assessment of stakeholders, senior management, organization, infrastructure, and ITIL governance to effectively plan, develop, and manage schedules, resources, and costs.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2014",
+                "end_date": "12/2020"
+            },
+            {
+                "role_name": "Business Products Specialist",
+                "work_description": "Developed and fostered relationships with business owners and key executives to assess dynamic risk mitigation and business insurance needs and deliver solutions. Successfully managed internal & external stakeholder engagement to aid in process and resource improvements to align strategic and industry compliance objectives. Recorded and integrated CRM data in Salesforce from previous Access and Excel databases, streamlining analysis procedures for efficiency and accuracy. Planned and executed events and marketing programs, producing 40% of goal of qualified leads.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2008",
+                "end_date": "11/2012"
+            },
+            {
+                "role_name": "Product Design Project Team Lead",
+                "work_description": "Demonstrated efficacy throughout project & product life cycles in applying flexible change management deliverables including training, communications, and stakeholder engagement to increase end-user adoption of project implementations. Supervised four (4) concurrent projects for 16 & 17 Next Gen nuclear core clients in Brazil and South Korea by coordinating planning, designing, testing, budgeting and scheduling tasks. Developed implementation methodologies to rein in project costs while meeting key milestones. Provided accurate, detailed quality assessments based on project drawings and technical specifications.",
+                "company_level": "Large Corporation",
+                "start_date": "11/2000",
+                "end_date": "06/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Western Governors University",
+                "start_date": "01/2019",
+                "end_date": "12/2019",
+                "domain": "Information Technology Management",
+                "level": "Master's"
+            },
+            {
+                "university": "University Of South Carolina - Columbia",
+                "start_date": "01/2004",
+                "end_date": "12/2004",
+                "domain": "Business Administration and Management, Marketing and Management, International Business",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing multiple projects simultaneously, including IT projects, business process re-engineering, and software development, demonstrating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Develops, tracks, and controls long-term IT operating budgets and cost and benefit analyses, showing strong proficiency in budgeting."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Leads and assists technical upgrade projects, coordinates with management teams, and supervises multiple projects, indicating strong leadership skills."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Performs program research and analyzes data collection to develop cost estimates and budgets, showing a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Risk Management",
+                "level": 3,
+                "explanation": "Identifies system needs, assesses architecture design, and performs risk assessment of stakeholders, indicating a solid understanding of risk management."
+            },
+            {
+                "name": "ITIL Governance",
+                "level": 3,
+                "explanation": "Effectively plans, develops, and manages schedules, resources, and costs using ITIL governance, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Develops and fosters relationships with business owners and key executives, and successfully manages internal & external stakeholder engagement, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Change Management",
+                "level": 3,
+                "explanation": "Applies flexible change management deliverables, including training, communications, and stakeholder engagement, showing a solid working proficiency in change management."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 2,
+                "explanation": "Uses Microsoft Office tools, including Excel, but the extent of usage is not explicitly mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Salesforce",
+                "level": 2,
+                "explanation": "Records and integrates CRM data in Salesforce, but the extent of usage is not explicitly mentioned, indicating some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "resume_file": "863.json",
+    "recommendation_file": "Recommendation_From_ID_447.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written for a different individual, with little connection to the candidate's skills and experience. The language is formal, but the content does not align with the candidate's background.",
+        "verified_skills": [
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide specific examples of the candidate's skills and experience, and seems to be written for a different individual. The language is formal, but the content does not align with the candidate's background."
+    }
+}

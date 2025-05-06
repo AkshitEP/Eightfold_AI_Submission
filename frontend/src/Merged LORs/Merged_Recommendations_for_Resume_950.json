@@ -1,0 +1,49 @@
+{
+    "target_id": "950",
+    "recommendations": [
+        {
+            "recommender_id": "581",
+            "recommendation": {
+                "resume_file": "950.json",
+                "recommendation_file": "Recommendation_From_ID_581.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable",
+                        "Financial Reconciliation",
+                        "Cost Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, problem-solving skills, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "127",
+            "recommendation": {
+                "resume_file": "950.json",
+                "recommendation_file": "Recommendation_From_ID_127.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Payroll Management",
+                        "Accounts Payable/Receivable",
+                        "Financial Reconciliation",
+                        "Cost Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership abilities, and proficiency in various accounting software."
+                }
+            }
+        }
+    ]
+}

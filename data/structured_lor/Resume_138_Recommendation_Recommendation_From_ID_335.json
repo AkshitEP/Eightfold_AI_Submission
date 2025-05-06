@@ -1,0 +1,14 @@
+{
+    "resume_file": "138.json",
+    "recommendation_file": "Recommendation_From_ID_335.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the language is formal and no statistically improbable claims are made.",
+        "verified_skills": [
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, with some skills and experiences mentioned, but lacks substantial detail or alignment with the key areas of expertise."
+    }
+}

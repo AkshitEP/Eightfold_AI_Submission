@@ -1,0 +1,68 @@
+{
+    "target_id": "186",
+    "recommendations": [
+        {
+            "recommender_id": "458",
+            "recommendation": {
+                "resume_file": "186.json",
+                "recommendation_file": "Recommendation_From_ID_458.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Leadership",
+                        "Administration",
+                        "Strategic Planning",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and strategic planning abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "632",
+            "recommendation": {
+                "resume_file": "186.json",
+                "recommendation_file": "Recommendation_From_ID_632.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Leadership",
+                        "Administration",
+                        "Strategic Planning",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, leadership, and strategic planning abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "431",
+            "recommendation": {
+                "resume_file": "186.json",
+                "recommendation_file": "Recommendation_From_ID_431.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources Management",
+                        "Leadership",
+                        "Strategic Planning",
+                        "Team Management",
+                        "Financial Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR leadership and strategic planning abilities."
+                }
+            }
+        }
+    ]
+}

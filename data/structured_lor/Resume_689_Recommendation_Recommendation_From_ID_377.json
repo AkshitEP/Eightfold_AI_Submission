@@ -1,0 +1,23 @@
+{
+    "resume_file": "689.json",
+    "recommendation_file": "Recommendation_From_ID_377.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Modeling",
+            "Financial Analysis",
+            "Budgeting",
+            "Financial Reporting",
+            "Leadership",
+            "Auditing",
+            "Risk Management",
+            "Data Analysis",
+            "Financial Planning",
+            "Accounting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, leadership, and communication skills. The recommendation also highlights the candidate's ability to work effectively within multi-functional teams and their dedication to streamlining financial operations."
+    }
+}

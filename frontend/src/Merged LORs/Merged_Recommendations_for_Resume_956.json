@@ -1,0 +1,110 @@
+{
+    "target_id": "956",
+    "recommendations": [
+        {
+            "recommender_id": "275",
+            "recommendation": {
+                "resume_file": "956.json",
+                "recommendation_file": "Recommendation_From_ID_275.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Operations Management",
+                        "Leadership",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational tasks, customer service, and leadership abilities. However, the recommender's relationship with the candidate is unclear, and some claims seem slightly exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "73",
+            "recommendation": {
+                "resume_file": "956.json",
+                "recommendation_file": "Recommendation_From_ID_73.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Sales Management",
+                        "Operations Management",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, management, and teamwork abilities. The source of the recommendation is a peer, indicating a firsthand account of the candidate's work ethic and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "679",
+            "recommendation": {
+                "resume_id": 956,
+                "recommendation_file": "Recommendation_From_ID_679.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Operations Management",
+                        "Leadership",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and operational management skills. However, some claims seem exaggerated, such as the individual's ability to 'seamlessly align' with the recommender's focus on sales and rapport-building."
+                }
+            }
+        },
+        {
+            "recommender_id": "14",
+            "recommendation": {
+                "resume_file": "956.json",
+                "recommendation_file": "Recommendation_From_ID_14.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in early childhood education seems unrelated to the candidate's experience in retail and fitness management. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Operations Management",
+                        "Leadership",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in retail operations management, customer service, and team leadership, but the recommender's background seems unrelated to the candidate's experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "476",
+            "recommendation": {
+                "resume_file": "956.json",
+                "recommendation_file": "Recommendation_From_ID_476.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Operations Management",
+                        "Sales Management",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work ethic, interpersonal skills, and leadership abilities. However, it does not explicitly mention some of the candidate's other skills, such as Financial Management and Time Management."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "resume_id": 83,
+    "recommendation_file": "Recommendation_From_ID_36.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Data Analysis",
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Inventory Management",
+            "Healthcare Administration"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in healthcare information management and patient care. The supervisor's experience in customer service and healthcare administration adds credibility to the recommendation."
+    }
+}

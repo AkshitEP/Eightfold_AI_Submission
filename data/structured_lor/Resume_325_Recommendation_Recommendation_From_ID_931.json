@@ -1,0 +1,21 @@
+{
+    "resume_file": "325.json",
+    "recommendation_file": "Recommendation_From_ID_931.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Event Management",
+            "Leadership",
+            "Customer Service",
+            "Marketing",
+            "Operations Management",
+            "Communication",
+            "Teamwork",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their event coordination, problem-solving, and leadership abilities. The source of the recommendation is a colleague, which adds credibility to the endorsement."
+    }
+}

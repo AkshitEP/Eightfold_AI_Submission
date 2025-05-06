@@ -1,0 +1,17 @@
+{
+    "resume_file": "729.json",
+    "recommendation_file": "Recommendation_From_ID_325.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's statement and unclear relationship to the candidate.",
+        "verified_skills": [
+            "Team Management",
+            "Patient Care",
+            "Nursing Care",
+            "Geriatric Care"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's experience in healthcare, but lacks specific details about some of their skills."
+    }
+}

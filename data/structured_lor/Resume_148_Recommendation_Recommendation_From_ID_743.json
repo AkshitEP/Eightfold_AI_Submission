@@ -1,0 +1,21 @@
+{
+    "resume_file": "148.json",
+    "recommendation_file": "Recommendation_From_ID_743.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Patient Care",
+            "Vital Signs Monitoring",
+            "Patient Education",
+            "Teamwork and Collaboration",
+            "Quality Assurance",
+            "Leadership",
+            "Communication",
+            "Basic Life Support"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care, leadership, and quality assurance abilities."
+    }
+}

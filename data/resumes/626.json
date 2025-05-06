@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Finance Manager",
+                "work_description": "Supervise the media finance, production, client finance, accounts payable and accounts receivable departments. Manage the monthly accounting close and consolidation of monthly reports. Prepare monthly financial statements (Balance Sheet, P&L, Cash Flow) & variance analysis for the company.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2015",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Client Finance Manager",
+                "work_description": "Manage the billing function for the West region. Prepare and provide weekly revenue trending analysis to account teams. Prepare monthly staff utilization/projections reports to senior account leads.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2015",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Senior Financial Analyst",
+                "work_description": "Validated and approved forecast rate assumptions provided by global procurement team. Prepared weekly market commodity report. Validated market rates used by manufacturing plants.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2012",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Senior Financial Analyst",
+                "work_description": "Performed revenue analysis, cost analysis, and utilization analysis on a monthly basis and provide reports to Finance Director and CFO. Analyzed financial results against the forecast and prior year results to measure current performance.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2008",
+                "end_date": "01/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Argosy University",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Auditing & Fraud Examination",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Southern California",
+                "start_date": "01/2006",
+                "end_date": "05/2006",
+                "domain": "Corporate Finance & Advertising and Promotion Strategy",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience performing financial analysis, including revenue analysis, cost analysis, and utilization analysis, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Has prepared various financial reports, including monthly financial statements, variance analysis, and weekly revenue trending analysis, showing expert-level proficiency."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 4,
+                "explanation": "Has experience with forecast rate assumptions, market commodity reports, and financial forecasting, suggesting strong proficiency in financial planning."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has supervised various finance departments, including media finance, production, client finance, accounts payable, and accounts receivable, indicating strong leadership skills."
+            },
+            {
+                "name": "Auditing",
+                "level": 3,
+                "explanation": "Has a Master's degree in Auditing & Fraud Examination, but limited work experience in auditing, showing a solid working proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Has managed the monthly accounting close and consolidation of monthly reports, and has experience with financial management, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Has performed data analysis on financial results, including revenue analysis, cost analysis, and utilization analysis, suggesting strong proficiency in data analysis."
+            }
+        ]
+    }
+}

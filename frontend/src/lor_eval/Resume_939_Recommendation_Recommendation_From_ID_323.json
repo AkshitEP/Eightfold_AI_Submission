@@ -1,0 +1,14 @@
+{
+    "resume_file": "939.json",
+    "recommendation_file": "Recommendation_From_ID_323.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be describing a different person, with a focus on sales and relationship-building skills, which are not mentioned in the resume. The language is formal, but the claims seem unrealistic given the candidate's domain and experience level.",
+        "verified_skills": [
+            "Network Security"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation barely aligns with the candidate's skills and experience, with a focus on sales and relationship-building skills that are not mentioned in the resume. The recommendation seems to be describing a different person, which raises concerns about its authenticity."
+    }
+}

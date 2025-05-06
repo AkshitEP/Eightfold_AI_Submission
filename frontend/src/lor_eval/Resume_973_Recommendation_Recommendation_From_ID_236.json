@@ -1,0 +1,16 @@
+{
+    "resume_file": "973.json",
+    "recommendation_file": "Recommendation_From_ID_236.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims, such as working with the Hogwarts Ministry of Magic and handling 'secretive time travel information systems.' Additionally, the mention of 'magical creativity' and 'advanced herbal remedies' seems out of place in a professional recommendation. The tone is also overly effusive and informal.",
+        "verified_skills": [
+            "Administrative Support",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "While the recommendation mentions some relevant skills and experience, it is largely undermined by its fantastical and informal tone. The claims made are unrealistic and lack concrete evidence from the resume."
+    }
+}

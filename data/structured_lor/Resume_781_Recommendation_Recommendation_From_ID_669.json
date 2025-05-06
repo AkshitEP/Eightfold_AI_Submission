@@ -1,0 +1,17 @@
+{
+    "resume_file": "781.json",
+    "recommendation_file": "Recommendation_From_ID_669.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the recommender's profession (Finance Consultant) does not directly relate to the candidate's skills and experience.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strong work ethic, creativity, and ability to manage complex projects, but it does not directly reference the candidate's skills in video production, entrepreneurship, or music."
+    }
+}

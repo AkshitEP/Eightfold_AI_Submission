@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Adventure Run Coordinator",
+                "work_description": "Coordinated free monthly fun runs, managed staff and volunteers, and promoted events to the running community.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Grassroots Marketing Representative",
+                "work_description": "Booked group runs, clinics, and packet pick-ups, managed event calendars and budgets, and partnered with local gyms and charities.",
+                "company_level": "Mid-level",
+                "start_date": "05/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Cash Wrap",
+                "work_description": "Assisted customers with running-related purchases, answered questions, and multitasked during checkout.",
+                "company_level": "Mid-level",
+                "start_date": "10/2011",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Operations",
+                "work_description": "Greeted gym members, answered calls, and managed memberships, appointments, and services.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "09/2012"
+            },
+            {
+                "role_name": "Front Desk Fitness Attendant",
+                "work_description": "Worked at the front desk, monitored member use of the gym, and assisted with various tasks such as sales and snack bar duties.",
+                "company_level": "Mid-level",
+                "start_date": "04/2006",
+                "end_date": "01/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Arizona State University",
+                "start_date": "01/2009",
+                "end_date": "05/2013",
+                "domain": "Psychology Sociology",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Being active in the community",
+            "Setting fitness and running-oriented goals",
+            "Helping others through charity projects, events, and fundraising",
+            "Running long distances, cycling, hiking, swimming, and outdoor activities"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Event Management",
+                "level": 4,
+                "explanation": "Has extensive experience in coordinating and managing events, including free monthly fun runs, group runs, clinics, and packet pick-ups, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed staff and volunteers as an Adventure Run Coordinator, indicating a solid working proficiency in leadership."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Assisted customers with purchases, answered questions, and multitasked during checkout as a Cash Wrap, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Promoted events to the running community and partnered with local gyms and charities as a Grassroots Marketing Representative, indicating a solid working proficiency in marketing."
+            },
+            {
+                "name": "Operations Management",
+                "level": 3,
+                "explanation": "Managed memberships, appointments, and services as an Operations role, showing a solid working proficiency in operations management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Answered calls and assisted with various tasks as an Operations and Front Desk Fitness Attendant, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Teamwork",
+                "level": 3,
+                "explanation": "Worked with staff and volunteers in various roles, showing a solid working proficiency in teamwork."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Multitasked during checkout and managed event calendars as a Cash Wrap and Grassroots Marketing Representative, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Budgeting",
+                "level": 2,
+                "explanation": "Managed event budgets as a Grassroots Marketing Representative, showing some practical experience in budgeting."
+            }
+        ]
+    }
+}

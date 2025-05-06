@@ -1,0 +1,60 @@
+{
+    "target_id": "995",
+    "recommendations": [
+        {
+            "recommender_id": "370",
+            "recommendation": {
+                "resume_id": 995,
+                "recommendation_file": "Recommendation_From_ID_370.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Culinary Arts",
+                        "Leadership",
+                        "Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership, and commitment to culinary arts education."
+                }
+            }
+        },
+        {
+            "recommender_id": "290",
+            "recommendation": {
+                "resume_file": "995.json",
+                "recommendation_file": "Recommendation_From_ID_290.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source's relationship to the candidate is unclear, and the source mentions a previous role as a dental assistant, which seems unrelated to the candidate's culinary arts background.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Culinary Arts",
+                        "Leadership",
+                        "Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and leadership abilities. However, the source's relationship to the candidate is unclear, and the mention of a previous role as a dental assistant seems unrelated to the candidate's culinary arts background."
+                }
+            }
+        },
+        {
+            "recommender_id": "51",
+            "recommendation": {
+                "resume_file": "995.json",
+                "recommendation_file": "Recommendation_From_ID_51.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and exaggerations, and lacks specific examples or evidence from the resume. The language used is also overly positive and informal.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's skills and experience, and contains signs of exaggeration or misrepresentation."
+                }
+            }
+        }
+    ]
+}

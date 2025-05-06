@@ -1,0 +1,70 @@
+{
+    "target_id": "843",
+    "recommendations": [
+        {
+            "recommender_id": "591",
+            "recommendation": {
+                "resume_file": "843.json",
+                "recommendation_file": "Recommendation_From_ID_591.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Program Development",
+                        "Leadership",
+                        "Mentorship",
+                        "Teaching",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their program development, leadership, and teaching methods. The recommender's role as an English teacher and literacy specialist adds credibility to their assessment of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "669",
+            "recommendation": {
+                "resume_file": "843.json",
+                "recommendation_file": "Recommendation_From_ID_669.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with the second part being relevant to the resume. However, the first part is unrelated to the resume, and the language used is overly formal and generic, raising concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Program Development",
+                        "Leadership",
+                        "Mentorship",
+                        "Teaching",
+                        "Community Support",
+                        "Project Evaluation",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be a generic template with two separate descriptions. The second part aligns with the candidate's skills and experience, but the first part is unrelated and raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "218",
+            "recommendation": {
+                "resume_file": "843.json",
+                "recommendation_file": "Recommendation_From_ID_218.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Program Development",
+                        "Leadership",
+                        "Mentorship",
+                        "Teaching",
+                        "Community Support"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in expressive arts and education. The recommender's role as Director of Theater suggests a peer or colleague relationship."
+                }
+            }
+        }
+    ]
+}

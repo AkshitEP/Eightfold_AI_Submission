@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Healthcare Recruiter",
+                "work_description": "Consult with client HR professionals, within all areas of the healthcare field, regarding clinical staffing needs. Created staffing partnerships with some of the largest healthcare facilities in the U.S. Implemented marketing strategies which resulted in continued growth of customer base.",
+                "company_level": "Mid-level",
+                "start_date": "04/2000",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Healthcare Recruiter",
+                "work_description": "Provided recruitment services to Virginia Beach General Hospital business groups for RN Management, Staff RN, and Allied Health staffing. Managed all phases of recruitment, including defining hiring management needs and posting available positions.",
+                "company_level": "Mid-level",
+                "start_date": "04/1998",
+                "end_date": "12/1999"
+            },
+            {
+                "role_name": "Employment and Staffing Representative",
+                "work_description": "Coordinated recruitment and staffing services for both salaried and union employees for the state's largest utility company. Provided HR support to all service groups including managers, directors and VPs, regarding Affirmative action goals & objectives, union contract interpretation, and hiring and termination processes.",
+                "company_level": "Large Corporation",
+                "start_date": "03/1990",
+                "end_date": "02/1997"
+            },
+            {
+                "role_name": "Benefits Representative",
+                "work_description": "Provided support in the administration of all company benefits programs, to include Medical plans (self-insured), Dental, 401K, Life Insurance, Tuition Reimbursement Plan, and EAP programs.",
+                "company_level": "Mid-level",
+                "start_date": "05/1985",
+                "end_date": "03/1990"
+            }
+        ],
+        "education": [
+            {
+                "university": "Saint Leo University",
+                "start_date": "01/1980",
+                "end_date": "12/1984",
+                "domain": "Liberal Arts",
+                "level": "Diploma"
+            },
+            {
+                "university": "Princess Anne High School",
+                "start_date": "01/1975",
+                "end_date": "12/1980",
+                "domain": "",
+                "level": ""
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 5,
+                "explanation": "Over two decades of experience in recruitment services, including defining hiring needs, posting available positions, and managing all phases of recruitment, indicating expert-level mastery."
+            },
+            {
+                "name": "Staffing Management",
+                "level": 5,
+                "explanation": "Extensive experience in staffing partnerships, recruitment services, and managing all phases of staffing, suggesting expert-level proficiency."
+            },
+            {
+                "name": "Marketing Strategy",
+                "level": 3,
+                "explanation": "Implemented marketing strategies that resulted in continued growth of customer base, showing a solid working proficiency."
+            },
+            {
+                "name": "HR Support",
+                "level": 4,
+                "explanation": "Provided HR support to various service groups, including managers, directors, and VPs, regarding affirmative action goals, union contract interpretation, and hiring and termination processes, indicating strong proficiency."
+            },
+            {
+                "name": "Benefits Administration",
+                "level": 3,
+                "explanation": "Provided support in the administration of various company benefits programs, including medical plans, dental, 401K, life insurance, tuition reimbursement, and EAP programs, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Consulted with client HR professionals and provided HR support to various service groups, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed all phases of recruitment and staffing, and provided HR support to various service groups, showing a solid level of proficiency in leadership."
+            }
+        ]
+    }
+}

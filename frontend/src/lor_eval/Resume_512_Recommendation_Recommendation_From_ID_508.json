@@ -1,0 +1,17 @@
+{
+    "resume_file": "512.json",
+    "recommendation_file": "Recommendation_From_ID_508.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Data Entry",
+            "Microsoft Office Suite"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, customer service, and attention to detail. However, the source of the recommendation is unclear, and the recommendation does not explicitly mention the candidate's experience in the pharmaceutical industry."
+    }
+}

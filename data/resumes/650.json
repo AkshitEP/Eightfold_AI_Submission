@@ -1,0 +1,118 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Investment Accountant",
+                "work_description": "Reconciled mutual fund accounts with the custody Identified and Resolved differences in Custody and Accounting Cash, Currency and Positions using Eagle, IAX, Business Objects, Lombardi and Workbench Reports Communicated and Collaborated with other areas in the firm, client, fund accountant, custodians that are impacted by the functions of the team Conducted weekly client meetings and act as liaison between Accounting and custody to resolve any outstanding items in cash, currency and positions.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2012",
+                "end_date": "11/2015"
+            },
+            {
+                "role_name": "AML Compliance Officer",
+                "work_description": "Audited customer's bank accounts in the company's system Performed quality assurance reviews on customer information maintained on various bank systems Reconciled the quality assurance results on spreadsheets Performed background search on clients using tools such as world check and google search",
+                "company_level": "Large Corporation",
+                "start_date": "11/2011",
+                "end_date": "03/2012"
+            },
+            {
+                "role_name": "Medical Technologist",
+                "work_description": "Clinical Microbiology Experience - Highlights include ordering, processing, plating and culturing patient's specimens Tests - Performing rapid tests such as Rapid flu, C.Diff quick check and many more; Performing rapid and confirmatory tests to identify organism; Reading Gram stain slides.",
+                "company_level": "Mid-level",
+                "start_date": "07/2008",
+                "end_date": "03/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Delaware",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Finance",
+                "level": "Master of Business Administration"
+            },
+            {
+                "university": "University of Delaware",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Medical Technology",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Finance",
+                "description": "Group simulation project to develop the investment philosophy and strategy to drive a simulated investment of $1,000,000 using Stock-Track.",
+                "skills": [
+                    "Stock-Track",
+                    "Investment Analysis",
+                    "Portfolio Management"
+                ]
+            },
+            {
+                "domain": "Finance",
+                "description": "Case analysis on Price Momentum Strategy Used price momentum model analysis to test whether the price momentum model will work on US stock market as it did with the US Canadian stocks.",
+                "skills": [
+                    "Price Momentum Model",
+                    "Regression Analysis",
+                    "Portfolio Management"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Has experience reconciling mutual fund accounts with the custody, identifying and resolving differences in custody and accounting, showing strong proficiency."
+            },
+            {
+                "name": "Investment Analysis",
+                "level": 4,
+                "explanation": "Participated in a group simulation project to develop an investment philosophy and strategy, and conducted a case analysis on Price Momentum Strategy, indicating strong proficiency."
+            },
+            {
+                "name": "Portfolio Management",
+                "level": 4,
+                "explanation": "Developed an investment philosophy and strategy to drive a simulated investment of $1,000,000, and analyzed the price momentum model, suggesting strong proficiency."
+            },
+            {
+                "name": "Accounting",
+                "level": 3,
+                "explanation": "Has experience in accounting, including reconciling cash, currency, and positions, but the scope of work is not as extensive as other skills, showing a solid working proficiency."
+            },
+            {
+                "name": "AML Compliance",
+                "level": 3,
+                "explanation": "Conducted audits and quality assurance reviews on customer information, and performed background searches, indicating a solid working proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Used tools such as Business Objects, Lombardi, and Workbench Reports to analyze data, and performed regression analysis on the price momentum model, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Communicated and collaborated with other areas in the firm, clients, and fund accountants, indicating a solid working proficiency."
+            },
+            {
+                "name": "Medical Technology",
+                "level": 2,
+                "explanation": "Has experience as a Medical Technologist, but the scope of work is not as relevant to the current job history, showing some practical experience."
+            },
+            {
+                "name": "Stock-Track",
+                "level": 2,
+                "explanation": "Used Stock-Track in a group simulation project, but the scope of work is limited, showing some practical experience."
+            },
+            {
+                "name": "Price Momentum Model",
+                "level": 2,
+                "explanation": "Used the price momentum model in a case analysis, but the scope of work is limited, showing some practical experience."
+            }
+        ]
+    }
+}

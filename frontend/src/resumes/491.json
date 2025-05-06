@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "OCCUPATIONAL HEALTH NURSE COORDINATOR",
+                "work_description": "To provide comprehensive occupational and environmental health services including but not limited to occupational medicine, industrial hygiene, industrial safety and administrative tasks. Assessment of all injuries or illness, first aid, CPR, and emergency treatment to all employees and guests. Educate about basic health care, prevent heath issues, monitor the health condition of the employees, dispense medication(s); train and support other staff members and manage the health risks within the facility.",
+                "company_level": "Unknown",
+                "start_date": "09/2011",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Physician Liaison/Nurse Triage/GI Nurse",
+                "work_description": "Assisted the physicians in all aspects of patient care. Assessed and prioritized each incoming patient telephone call and advise them in basic treatment or recommend seeking immediate care in a local hospital, ER, or assisted them with scheduling an office visit.",
+                "company_level": "Unknown",
+                "start_date": "12/2000",
+                "end_date": "10/2011"
+            },
+            {
+                "role_name": "Home Healthcare Nurse",
+                "work_description": "Performed a comprehensive range of clinical functions in the home setting within the community. Assessed patients' developmental stages and conditions, administered medications, maintained patient charts/care plans and responded to medical emergencies.",
+                "company_level": "Unknown",
+                "start_date": "05/1990",
+                "end_date": "07/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Gannon University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "NURSING",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Occupational Health",
+                "level": 4,
+                "explanation": "Provided comprehensive occupational and environmental health services, including assessment of injuries or illnesses, first aid, CPR, and emergency treatment, indicating strong proficiency."
+            },
+            {
+                "name": "Nursing",
+                "level": 5,
+                "explanation": "Over two decades of experience in various nursing roles, including home healthcare, physician liaison, and occupational health nurse coordinator, indicating expert-level mastery."
+            },
+            {
+                "name": "Patient Assessment",
+                "level": 4,
+                "explanation": "Assessed patients' developmental stages and conditions, and prioritized incoming patient telephone calls, suggesting strong proficiency in patient assessment."
+            },
+            {
+                "name": "Medication Administration",
+                "level": 4,
+                "explanation": "Administered medications in various healthcare settings, including home healthcare and occupational health, indicating strong proficiency."
+            },
+            {
+                "name": "Emergency Response",
+                "level": 4,
+                "explanation": "Provided emergency treatment, including CPR, and responded to medical emergencies in various healthcare settings, suggesting strong proficiency."
+            },
+            {
+                "name": "Health Education",
+                "level": 3,
+                "explanation": "Educated patients about basic healthcare and prevented health issues, showing a solid working proficiency in health education."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Managed health risks within a facility and supported other staff members, indicating some practical experience in leadership."
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "281.json",
+    "recommendation_file": "Recommendation_From_ID_677.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Team Leadership",
+            "Web Development",
+            "Intranet Development",
+            "Solution Implementation",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, team leadership, and technical abilities. The source of the recommendation is the Director of Information Technology, indicating a supervisory relationship."
+    }
+}

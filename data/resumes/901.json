@@ -1,0 +1,94 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Freelance IT Consultant",
+                "work_description": "Worked closely with technology vendors and distributors to gain access to equipment, software and accessories to keep technology costs within budget. Designed and implemented PC and laptop re-imaging process to lower operating system installation and configuration from 14 hours down to 1 1/2 hours per computer. Provided expert technical support and problem resolution to all customers.",
+                "company_level": "Startup",
+                "start_date": "04/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Acting as liaison between all departments to meet and exceed industry standards for technology requirements, business operations and Network security. Developing and managing project plans and reporting status updates to the IT Director, COO and Executive Director. Increasing efficiency of infrastructural technologies and organizational processes. Executing a self-created business plan designed to lower overall business operations cost by 81%. Training over 400+ employees to use Windows 7 Professional, Windows 8.1 as well as; other Microsoft Office products.",
+                "company_level": "Mid-level",
+                "start_date": "04/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Information Technology Consultant Network Solution/Owner",
+                "work_description": "Provided consultation for appropriate business software and efficient hardware solutions. Acted as liaison between my clients, vendors and product distributors. Configured LAN's and WLAN's. Designed, tested, installed and monitored client Networks, computers, home theater and multi-media equipment.",
+                "company_level": "Startup",
+                "start_date": "04/2007",
+                "end_date": "12/2012"
+            },
+            {
+                "role_name": "Help Desk Specialist",
+                "work_description": "Provided technical support for all network applications. Monitored and advised for standards relating to client-side interfaces, website design and graphics development. Served as an operating system expert and provided advanced technical support for all employees within the school district.",
+                "company_level": "Mid-level",
+                "start_date": "08/2011",
+                "end_date": "04/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Minnesota School of Business",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Computer Science",
+                "level": "Associate of Applied Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Has extensive experience designing, testing, installing, and monitoring client networks, LAN's, and WLAN's, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Developed and managed project plans, reported status updates to IT Director, COO, and Executive Director, showing strong proficiency in project management."
+            },
+            {
+                "name": "Technical Support",
+                "level": 5,
+                "explanation": "Provided expert technical support and problem resolution to all customers, served as an operating system expert, and provided advanced technical support for all employees, indicating expert-level mastery."
+            },
+            {
+                "name": "Business Operations",
+                "level": 4,
+                "explanation": "Executed a self-created business plan designed to lower overall business operations cost by 81%, showing strong proficiency in business operations."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Trained over 400+ employees to use Windows 7 Professional, Windows 8.1, and other Microsoft Office products, showing strong proficiency in training and development."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Trained employees on Microsoft Office products and likely used them extensively, suggesting strong proficiency."
+            },
+            {
+                "name": "Windows Operating System",
+                "level": 5,
+                "explanation": "Provided expert technical support for Windows operating systems, trained employees on Windows 7 Professional and Windows 8.1, indicating expert-level mastery."
+            },
+            {
+                "name": "Computer Hardware",
+                "level": 4,
+                "explanation": "Configured and installed computer hardware, designed and implemented PC and laptop re-imaging process, showing strong proficiency in computer hardware."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Acted as liaison between departments, IT Director, COO, and Executive Director, showing a solid level of proficiency in leadership."
+            }
+        ]
+    }
+}

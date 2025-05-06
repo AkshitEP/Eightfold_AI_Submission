@@ -1,0 +1,16 @@
+{
+    "resume_file": "135.json",
+    "recommendation_file": "Recommendation_From_ID_138.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be praising two different individuals, with the first paragraph discussing an intern with a Master's in Statistics, which is not present in the provided resume. This inconsistency raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Negotiation",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be discussing two different individuals, which makes it difficult to assess its relevance to the provided resume. However, the second paragraph does mention some skills and experiences that are present in the resume, such as leadership and negotiation."
+    }
+}

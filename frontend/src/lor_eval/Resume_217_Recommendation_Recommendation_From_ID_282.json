@@ -1,0 +1,19 @@
+{
+    "resume_file": "217.json",
+    "recommendation_file": "Recommendation_From_ID_282.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but it mentions another Accountant and their collaboration, which seems slightly unrelated to Angelo's skills and experience. The language is formal, but the mention of another individual's skills and expertise raises some minor concerns.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Management",
+            "Financial Reporting",
+            "Internal Controls",
+            "Variance Analysis",
+            "Financial Forecasting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with Angelo's skills and experience, providing specific examples of his financial acumen, accounting processes, and collaboration with auditors. However, the mention of another Accountant and their collaboration seems slightly unrelated to Angelo's skills and experience."
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Intern",
+                "work_description": "Develop or coordinate fitness and wellness programs or services. Supervise fitness or wellness workers, such as fitness instructors, recreation workers, nutritionists, and health educators. Conduct or facilitate training sessions or seminars for wellness and fitness staff. Develop fitness or wellness classes, such as yoga, aerobics, weightlifting, and aquatics, ensuring a diversity of class offerings.",
+                "company_level": "Unknown",
+                "start_date": "03/2013",
+                "end_date": "10/2013"
+            },
+            {
+                "role_name": "Fitness Specialist",
+                "work_description": "Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment. Operate, and instruct others in, proper operation of fitness equipment, such as weight machines, exercise bicycles, benches, hand weights, and fitness assessment devices.",
+                "company_level": "Unknown",
+                "start_date": "11/2012",
+                "end_date": "10/2013"
+            },
+            {
+                "role_name": "Sports Recreational Assistant",
+                "work_description": "Greet new arrivals to activities, introducing them to other participants, explaining facility rules, and encouraging participation. Officiate at sporting events, games, or competitions, to maintain standards of play and to ensure that game rules are observed.",
+                "company_level": "Unknown",
+                "start_date": "11/2012",
+                "end_date": "10/2013"
+            },
+            {
+                "role_name": "Unknown",
+                "work_description": "Confer with customers by telephone or in person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of complaints.",
+                "company_level": "Unknown",
+                "start_date": "02/2013",
+                "end_date": "07/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "JAY M. ROBINSON HIGH SCHOOL",
+                "start_date": "Unknown",
+                "end_date": "06/2008",
+                "domain": "Unknown",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "BELMONT ABBEY COLLEGE",
+                "start_date": "Unknown",
+                "end_date": "12/2015",
+                "domain": "Unknown",
+                "level": "Unknown"
+            },
+            {
+                "university": "WORLD INSTRUCTOR TRAINING SCHOOL",
+                "start_date": "06/2013",
+                "end_date": "08/2013",
+                "domain": "Unknown",
+                "level": "Certified Personal Training Certification"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Fitness Program Development",
+                "level": 3,
+                "explanation": "Developed or coordinated fitness and wellness programs or services, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Supervised fitness or wellness workers and conducted training sessions, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Fitness Instruction",
+                "level": 4,
+                "explanation": "Instructed others in proper operation of fitness equipment and developed fitness or wellness classes, suggesting strong proficiency."
+            },
+            {
+                "name": "Facility Management",
+                "level": 3,
+                "explanation": "Managed or oversaw fitness or recreation facilities, ensuring safe and clean facilities and equipment, showing a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Conferred with customers by telephone or in person to provide information about products or services, indicating some practical experience in customer service."
+            },
+            {
+                "name": "Event Officiation",
+                "level": 2,
+                "explanation": "Officiated at sporting events, games, or competitions, maintaining standards of play and ensuring game rules were observed, indicating some practical experience."
+            },
+            {
+                "name": "Personal Training",
+                "level": 3,
+                "explanation": "Obtained a Certified Personal Training Certification, suggesting a solid working proficiency in personal training."
+            }
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Vice President of Operations",
+                "work_description": "Worked with physicians and other providers, patients and carriers to develop an IT infrastructure to efficiently navigate the rapidly changing California Workers Compensation revisions.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2001",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Consultant",
+                "work_description": "Developed and implemented their Remote Care Services Program for HELP Pain Medical Network.",
+                "company_level": "Mid-level",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            },
+            {
+                "role_name": "Validation Project Manager",
+                "work_description": "Strategic plan included the implementation and validation of a system spanning 63 sites in 23 countries.",
+                "company_level": "Large Corporation",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            },
+            {
+                "role_name": "Instructor",
+                "work_description": "Taught global regulatory compliance, Good Manufacturing Practices, Good Clinical Practices, Good Laboratory Practices, CGE&Y validation tools and methodology.",
+                "company_level": "Large Corporation",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "university": "Western Governors University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "John Brown University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Arkansas",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Nursing",
+                "level": "Associate's"
+            },
+            {
+                "university": "The University of Florida",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Life Care Planning",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Healthcare",
+                "description": "Developed and implemented the Remote Care Services Program for HELP Pain Medical Network.",
+                "skills": [
+                    "Project Management",
+                    "Healthcare",
+                    "Remote Care Services"
+                ]
+            },
+            {
+                "domain": "Life Sciences",
+                "description": "Designed and developed corporate quality systems for multinational Pharmaceutical companies.",
+                "skills": [
+                    "Quality Systems",
+                    "Life Sciences",
+                    "Pharmaceuticals"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has led multiple projects across different domains, including the implementation of a system spanning 63 sites in 23 countries and the development of the Remote Care Services Program, indicating expert-level mastery."
+            },
+            {
+                "name": "Healthcare",
+                "level": 5,
+                "explanation": "Has extensive experience working in the healthcare industry, including developing and implementing healthcare-related programs and teaching global regulatory compliance, indicating expert-level mastery."
+            },
+            {
+                "name": "Quality Systems",
+                "level": 4,
+                "explanation": "Has experience designing and developing corporate quality systems for multinational Pharmaceutical companies, suggesting strong proficiency."
+            },
+            {
+                "name": "Life Sciences",
+                "level": 4,
+                "explanation": "Has experience working in the life sciences industry, including designing and developing corporate quality systems for Pharmaceutical companies, suggesting strong proficiency."
+            },
+            {
+                "name": "Pharmaceuticals",
+                "level": 4,
+                "explanation": "Has experience working with Pharmaceutical companies, including designing and developing corporate quality systems, suggesting strong proficiency."
+            },
+            {
+                "name": "Remote Care Services",
+                "level": 4,
+                "explanation": "Has experience developing and implementing remote care services programs, suggesting strong proficiency."
+            },
+            {
+                "name": "Good Manufacturing Practices",
+                "level": 3,
+                "explanation": "Has experience teaching Good Manufacturing Practices, indicating a solid working proficiency."
+            },
+            {
+                "name": "Good Clinical Practices",
+                "level": 3,
+                "explanation": "Has experience teaching Good Clinical Practices, indicating a solid working proficiency."
+            },
+            {
+                "name": "Good Laboratory Practices",
+                "level": 3,
+                "explanation": "Has experience teaching Good Laboratory Practices, indicating a solid working proficiency."
+            },
+            {
+                "name": "Validation",
+                "level": 3,
+                "explanation": "Has experience with validation, including implementing and validating systems across multiple sites, indicating a solid working proficiency."
+            },
+            {
+                "name": "Regulatory Compliance",
+                "level": 3,
+                "explanation": "Has experience teaching global regulatory compliance, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

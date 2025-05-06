@@ -1,0 +1,16 @@
+{
+    "resume_file": "605.json",
+    "recommendation_file": "Recommendation_From_ID_341.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall seems genuine.",
+        "verified_skills": [
+            "Recruitment",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience in recruitment, leadership, and communication, but lacks specific examples to support the claims."
+    }
+}

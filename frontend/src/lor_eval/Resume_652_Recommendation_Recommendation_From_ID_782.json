@@ -1,0 +1,18 @@
+{
+    "resume_file": "652.json",
+    "recommendation_file": "Recommendation_From_ID_782.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Payroll Management",
+            "Financial Reconciliation",
+            "Bookkeeping",
+            "Tax Preparation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and bookkeeping expertise. However, the recommendation seems to be for two individuals, not one, which may indicate an error or miscommunication."
+    }
+}

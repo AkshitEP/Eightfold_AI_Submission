@@ -1,0 +1,22 @@
+{
+    "resume_file": "242.json",
+    "recommendation_file": "Recommendation_From_ID_20.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Leadership",
+            "Human Resources Management",
+            "Project Management",
+            "Global Talent Management",
+            "Organizational Development",
+            "Recruitment and Staffing",
+            "Training and Development",
+            "Data Analysis",
+            "Communication"
+        ],
+        "recommendation_source": "Peer/Boss",
+        "notes": "The recommendation is highly relevant, fully aligning with the candidate's skills and experience. It provides specific examples of their leadership, project management, and HR expertise, and is written in a formal and professional tone."
+    }
+}

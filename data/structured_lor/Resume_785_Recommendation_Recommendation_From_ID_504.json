@@ -1,0 +1,18 @@
+{
+    "resume_file": "785.json",
+    "recommendation_file": "Recommendation_From_ID_504.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Quality Control",
+            "Aircraft Maintenance",
+            "Aviation Structural Mechanics",
+            "Risk Management",
+            "Technical Inspection"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their quality control inspection, analytical skills, and commitment to excellence."
+    }
+}

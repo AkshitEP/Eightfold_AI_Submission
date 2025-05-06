@@ -1,0 +1,116 @@
+{
+    "target_id": "659",
+    "recommendations": [
+        {
+            "recommender_id": "916",
+            "recommendation": {
+                "resume_file": "659.json",
+                "recommendation_file": "Recommendation_From_ID_916.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a supervisor or peer. The language is formal, but the tone is overly positive, which may indicate some exaggeration.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Management",
+                        "Training and Development",
+                        "Communication",
+                        "Time Management",
+                        "Customer Service",
+                        "Health and Wellness"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in leadership, management, and health and wellness. However, the source of the recommendation is unclear, and the tone is overly positive, which may indicate some exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "57",
+            "recommendation": {
+                "resume_file": "659.json",
+                "recommendation_file": "Recommendation_From_ID_57.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Management",
+                        "Training and Development",
+                        "Communication",
+                        "Time Management",
+                        "Customer Service",
+                        "Health and Wellness"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities, as well as their ability to enhance member satisfaction and engagement."
+                }
+            }
+        },
+        {
+            "recommender_id": "47",
+            "recommendation": {
+                "resume_file": "659.json",
+                "recommendation_file": "Recommendation_From_ID_47.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Management",
+                        "Training and Development",
+                        "Communication",
+                        "Time Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and member engagement abilities. However, the source of the recommendation is unclear, and the recommender's background as an accountant may not be directly relevant to the candidate's role."
+                }
+            }
+        },
+        {
+            "recommender_id": "125",
+            "recommendation": {
+                "resume_file": "659.json",
+                "recommendation_file": "Recommendation_From_ID_125.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source's claim of being a vice president at a global LED products manufacturer seems unrelated to the candidate's experience and skills. However, the recommendation still provides specific examples of the candidate's leadership and management abilities.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Management",
+                        "Training and Development",
+                        "Communication",
+                        "Time Management",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, the source's claim of being a vice president at a global LED products manufacturer seems unrelated to the candidate's experience and skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "759",
+            "recommendation": {
+                "resume_file": "659.json",
+                "recommendation_file": "Recommendation_From_ID_759.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's experience and role, but no obvious red flags or statistically improbable claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Management",
+                        "Communication",
+                        "Customer Service",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's role as Interim Membership Director, but may not fully capture their experience in other roles. The recommender's experience in sales and client relationships is not directly related to the candidate's role, which may raise some concerns about the relevance of the recommendation."
+                }
+            }
+        }
+    ]
+}

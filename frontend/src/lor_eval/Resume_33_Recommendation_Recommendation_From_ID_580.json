@@ -1,0 +1,20 @@
+{
+    "resume_file": "33.json",
+    "recommendation_file": "Recommendation_From_ID_580.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender mentions the candidate's expertise in GAAP, GASB, and IFRS, but the resume does not explicitly mention these skills. Additionally, the recommender mentions Sage, which is not mentioned in the resume.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Analysis",
+            "Tax Preparation",
+            "Auditing",
+            "Financial Reconciliation",
+            "QuickBooks",
+            "SAP"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and reporting expertise. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+    }
+}

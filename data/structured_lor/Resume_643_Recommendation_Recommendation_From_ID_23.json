@@ -1,0 +1,18 @@
+{
+    "resume_file": "643.json",
+    "recommendation_file": "Recommendation_From_ID_23.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Asset Analysis",
+            "Market Analysis",
+            "Sales and Trading",
+            "Client Relations",
+            "Communication"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, business acumen, and interpersonal skills. However, the recommender's role as Assistant Vice President and the candidate's role as Sales & Trading Intern seem inconsistent with the provided job history, which lists the candidate as a Sales & Trading Intern with no mention of an Assistant Vice President role."
+    }
+}

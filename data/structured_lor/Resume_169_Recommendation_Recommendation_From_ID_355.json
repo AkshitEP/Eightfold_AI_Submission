@@ -1,0 +1,12 @@
+{
+    "resume_file": "169.json",
+    "recommendation_file": "Recommendation_From_ID_355.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's work in the IT field. The language used is more suitable for a fitness instructor or a community health program.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks substantial detail or alignment with the key areas of expertise mentioned in the resume. The language used is informal and not suitable for a formal recommendation."
+    }
+}

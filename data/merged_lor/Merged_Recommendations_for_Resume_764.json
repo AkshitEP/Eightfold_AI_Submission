@@ -1,0 +1,76 @@
+{
+    "target_id": "764",
+    "recommendations": [
+        {
+            "recommender_id": "523",
+            "recommendation": {
+                "resume_file": "764.json",
+                "recommendation_file": "Recommendation_From_ID_523.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The 15% increase in annual gross sales and 8% growth in the customer base seem impressive but lack concrete evidence or context.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Bank Reconciliation",
+                        "Commercial Law",
+                        "Negotiation Skills",
+                        "Complex Problem Solving",
+                        "Strategic Planning",
+                        "Sales and Marketing",
+                        "Client Interface",
+                        "Profile Management",
+                        "Staff Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, negotiation, and problem-solving skills. However, some claims seem exaggerated or lack concrete evidence, which raises minor concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "527",
+            "recommendation": {
+                "resume_file": "764.json",
+                "recommendation_file": "Recommendation_From_ID_527.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership Development",
+                        "Sales and Marketing",
+                        "Complex Problem Solving",
+                        "Client Interface",
+                        "Profile Management",
+                        "Staff Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, sales, and problem-solving abilities. The source of the recommendation is a peer, indicating a close working relationship with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "517",
+            "recommendation": {
+                "resume_file": "764.json",
+                "recommendation_file": "Recommendation_From_ID_517.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The claim of increasing annual gross sales by 15% seems impressive but lacks concrete evidence or context.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Complex Problem Solving",
+                        "Client Interface",
+                        "Profile Management",
+                        "Staff Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and financial management abilities. However, some claims seem exaggerated or lack concrete evidence."
+                }
+            }
+        }
+    ]
+}

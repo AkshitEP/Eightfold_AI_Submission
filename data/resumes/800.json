@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "QA Test Analyst",
+                "work_description": "Participated in all phases of the development lifecycle that pertain to software quality assurance. Reviewed and analyzed Business Requirement Documents (BRD), Functional Specification Documents (FSD) for completeness and testability to meet acceptance criteria.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2014",
+                "end_date": "Current",
+                "company_name": "Kohl's"
+            },
+            {
+                "role_name": "Quality Analyst Assurance",
+                "work_description": "Actively participated in all the phases of the development lifecycle that associate with software quality assurance. Analyzed requirement document for completeness and testability to accommodate acceptance criteria.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2013",
+                "end_date": "07/2014",
+                "company_name": "Humana"
+            },
+            {
+                "role_name": "Manual Tester",
+                "work_description": "Tested the application for cross browser compatibility, which involved Functional and Regression Testing. Create test cases for clients to manage different Finance/Account modules and benefits package.",
+                "company_level": "Mid-level",
+                "start_date": "06/2010",
+                "end_date": "06/2013",
+                "company_name": "Bank M"
+            },
+            {
+                "role_name": "Jr. Quality Assurance Analyst",
+                "work_description": "Involved in the full Testing Life-Cycle from analyzing Business Requirements to testing phase. Prepared test scripts for testing GUI and Security (PCI Compliance).",
+                "company_level": "Large Corporation",
+                "start_date": "07/2009",
+                "end_date": "05/2010",
+                "company_name": "Qatar Airways"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of North Alabama",
+                "start_date": "06/1999",
+                "end_date": "Graduated",
+                "domain": "Marketing",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Software Quality Assurance",
+                "level": 5,
+                "explanation": "Over a decade of experience in all phases of the development lifecycle, including reviewing and analyzing requirement documents, creating test cases, and testing applications, indicating expert-level mastery."
+            },
+            {
+                "name": "Test Case Development",
+                "level": 4,
+                "explanation": "Consistently created test cases for various applications, including those for clients to manage different Finance/Account modules and benefits package, showing strong proficiency."
+            },
+            {
+                "name": "Functional Testing",
+                "level": 4,
+                "explanation": "Participated in functional testing of applications, including testing for cross-browser compatibility, indicating strong proficiency."
+            },
+            {
+                "name": "Regression Testing",
+                "level": 4,
+                "explanation": "Participated in regression testing of applications, including testing for cross-browser compatibility, indicating strong proficiency."
+            },
+            {
+                "name": "GUI Testing",
+                "level": 3,
+                "explanation": "Prepared test scripts for testing GUI, showing a solid working proficiency."
+            },
+            {
+                "name": "Security Testing (PCI Compliance)",
+                "level": 3,
+                "explanation": "Prepared test scripts for testing security (PCI Compliance), showing a solid working proficiency."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 3,
+                "explanation": "Analyzed Business Requirement Documents (BRD) and Functional Specification Documents (FSD) for completeness and testability, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 0,
+                "explanation": "No direct evidence of leadership experience, but has worked in various QA roles."
+            },
+            {
+                "name": "Project Management",
+                "level": 0,
+                "explanation": "No direct evidence of project management experience."
+            }
+        ]
+    }
+}

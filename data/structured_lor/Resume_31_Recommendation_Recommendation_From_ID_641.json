@@ -1,0 +1,12 @@
+{
+    "resume_file": "31.json",
+    "recommendation_file": "Recommendation_From_ID_641.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation makes claims about the candidate's expertise as a healthcare recruiter, which is not supported by the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's skills and experience, and makes statistically improbable claims."
+    }
+}

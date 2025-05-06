@@ -1,0 +1,152 @@
+{
+    "target_id": "873",
+    "recommendations": [
+        {
+            "recommender_id": "368",
+            "recommendation": {
+                "resume_file": "873.json",
+                "recommendation_file": "Recommendation_From_ID_368.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in Digital Marketing and Communications may not be directly related to the candidate's nursing experience. However, the recommender's observations and praise for the candidate's skills and dedication are specific and credible.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Critical Thinking",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in patient care, critical thinking, leadership, and communication, which are all relevant to their nursing experience. However, the recommender's background and relationship to the candidate are not clearly established."
+                }
+            }
+        },
+        {
+            "recommender_id": "104",
+            "recommendation": {
+                "resume_file": "873.json",
+                "recommendation_file": "Recommendation_From_ID_104.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing Assessment",
+                        "Patient Care",
+                        "Medication Administration",
+                        "Leadership",
+                        "Communication",
+                        "Critical Thinking"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing expertise and ability to work effectively in high-stress environments."
+                }
+            }
+        },
+        {
+            "recommender_id": "9",
+            "recommendation": {
+                "resume_file": "873.json",
+                "recommendation_file": "Recommendation_From_ID_9.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Leadership",
+                        "Communication",
+                        "Critical Thinking"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient-centered care, leadership capabilities, and critical thinking skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "176",
+            "recommendation": {
+                "resume_file": "873.json",
+                "recommendation_file": "Recommendation_From_ID_176.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and experience are not directly related to the candidate's field, which raises some concerns about the depth of their understanding of the candidate's skills and expertise.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Leadership",
+                        "Communication",
+                        "Critical Thinking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional skills in patient care coordination, case management, and leadership, which aligns with their experience as a Charge Nurse. However, the recommender's background in the insurance sector and lack of direct experience in healthcare may limit their ability to provide a comprehensive assessment of the candidate's skills and expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "22",
+            "recommendation": {
+                "resume_file": "873.json",
+                "recommendation_file": "Recommendation_From_ID_22.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Nursing Assessment",
+                        "Medication Administration",
+                        "Leadership",
+                        "Communication",
+                        "Critical Thinking",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teamwork, patient care, and leadership abilities. The source of the recommendation is a peer, a Domestic Violence Counselor Advocate, who has collaborated with the candidate in the field of mental health care."
+                }
+            }
+        },
+        {
+            "recommender_id": "537",
+            "recommendation": {
+                "resume_file": "873.json",
+                "recommendation_file": "Recommendation_From_ID_537.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing Assessment",
+                        "Patient Care",
+                        "Medication Administration",
+                        "Leadership",
+                        "Communication",
+                        "Critical Thinking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing expertise and compassionate approach. However, the source of the recommendation is unclear, and the language used is more general than specific."
+                }
+            }
+        },
+        {
+            "recommender_id": "864",
+            "recommendation": {
+                "resume_file": "873.json",
+                "recommendation_file": "Recommendation_From_ID_864.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Critical Thinking",
+                        "Patient Care",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, critical thinking, and patient care abilities."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Approved and set up new capital jobs into JDE. Entering all new assets into JDE and CAMS (upon completion of job). Keeping track of spending to ensure budget compliance. Maintaining files for CIP and ensured proper documentation once job was completed.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Campus Accountant",
+                "work_description": "Managing Student Accounts. Processed various forms of students payments including self-payments, financial aid, military benefits and loans. Monitoring the aged trial balance and sending out statements regarding past due accounts. Working with students on managing their tuition balances and counseling regarding repayment options.",
+                "company_level": "Mid-level",
+                "start_date": "06/2012",
+                "end_date": "12/2012"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Sales and Use Tax- KS, MO and OK. Developed and implemented a new strategy in collecting/reporting monthly taxes. Trained associates on new tax procedures. Maintained responsibility for any necessary amended returns.",
+                "company_level": "Mid-level",
+                "start_date": "12/2010",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Senior Finance Associate",
+                "work_description": "Invoice Processing. Processed invoices for vendors as assigned. Worked month statements from vendors. Assisted with foreign vendors and helped monitor the changing currency rates.",
+                "company_level": "Mid-level",
+                "start_date": "10/2008",
+                "end_date": "11/2010"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Oversaw all aspects of accounting for 21 Beauty First retail salons. Monitored inventory control procedures and tracked any material variances. Worked with store associates during yearly audits and ensured accounts were reconciled.",
+                "company_level": "Mid-level",
+                "start_date": "06/2006",
+                "end_date": "09/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Friends University",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Baker University",
+                "start_date": "01/2009",
+                "end_date": "12/2009",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience in various accounting roles, including managing student accounts, processing invoices, and overseeing all aspects of accounting for retail salons, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Management",
+                "level": 4,
+                "explanation": "Extensive experience in managing financial records, including budget compliance, tracking spending, and maintaining files for capital improvement projects, showing strong proficiency."
+            },
+            {
+                "name": "Taxation",
+                "level": 4,
+                "explanation": "Developed and implemented a new strategy for collecting and reporting monthly taxes, and trained associates on new tax procedures, suggesting strong proficiency in taxation."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Monitored inventory control procedures and tracked material variances, showing a solid working proficiency in inventory management."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Trained associates on new tax procedures and worked with store associates during yearly audits, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Worked with students on managing their tuition balances and counseled them on repayment options, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Likely used extensively for managing financial records and processing invoices, suggesting strong proficiency."
+            },
+            {
+                "name": "JDE",
+                "level": 3,
+                "explanation": "Used JDE for setting up new capital jobs and entering new assets, showing a solid working proficiency."
+            },
+            {
+                "name": "CAMS",
+                "level": 2,
+                "explanation": "Used CAMS for entering new assets, but limited information is available, suggesting some practical experience."
+            }
+        ]
+    }
+}

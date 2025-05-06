@@ -1,0 +1,65 @@
+{
+    "target_id": "649",
+    "recommendations": [
+        {
+            "recommender_id": "911",
+            "recommendation": {
+                "resume_file": "649.json",
+                "recommendation_file": "Recommendation_From_ID_911.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Interpersonal skills",
+                        "Problem-solving",
+                        "Collaboration",
+                        "Time Management",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments in the healthcare field."
+                }
+            }
+        },
+        {
+            "recommender_id": "747",
+            "recommendation": {
+                "resume_file": "649.json",
+                "recommendation_file": "Recommendation_From_ID_747.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Leadership",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and problem-solving abilities in a healthcare setting."
+                }
+            }
+        },
+        {
+            "recommender_id": "320",
+            "recommendation": {
+                "resume_file": "649.json",
+                "recommendation_file": "Recommendation_From_ID_320.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies between the recommendation and resume, but no obvious signs of exaggeration or statistically improbable claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation primarily focuses on the candidate's nursing background, which is not explicitly mentioned in the resume. However, the recommendation highlights the candidate's leadership and communication skills, which are mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

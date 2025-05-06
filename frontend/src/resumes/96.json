@@ -1,0 +1,119 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Annual budget planning for department, network administration, implementation of new technology, developed company applications, daily backups and technical support for 80 users. Administration of security firewall, spam firewall and web filter. VLAN's and VPN setup and administration. Windows Server 2008 R2 administration, Microsoft Active Directory administration with 100 PCs on Windows 7 and Windows XP. Microsoft DFS, DHCP, DNS and WSUS Services administration. FTP server implementation and administration. Microsoft Exchange Server 2010 Administration, creation of new users, distribution groups and daily backup. Servers and desktop backup with Symantec BackupExec 2012. Administration, maintenance and daily backup for Sybase SQL Anywhere 11.0 databases. Administration of Mac editing rooms on OS X 10.8 - 10.9 with SAN storage (Apple XSAN 30 TB Array administration on Promise VTrak Ex10 Series). Software installation and setup for editing rooms with Final Cut, Adobe Products, Cinema 4D etc; Hardware installation and configuration for video capture with Aja, Kona and Black Magic video capture devices. iNews (News Room Management System), Wide Orbit (Traffic, Sales and Revenue Software). Knowledge of Florical Systems (Software for Television Automation), Omneon video server, Streambox (Mobile Broadcast Streaming Video) and some Miranda products. Responsible for research, quote, acquisition and configuration of all new network technology in the company. Repair, installation and updates of Software and Hardware for PCs and Mac Computers.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2007",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Develop, maintain and support in-house applications. Responsibilities include software licensing, updating operating system for desktop computers and servers and technical support for 25 users. Supervised two employees for the department. In 2004 developed a program to track inventory of all hardware being distributed to 300 branch offices as well as a user manual for the in house application detailing procedures and processes. Network Administration for a LAN with 30 desktop PCs and 5 Windows 2003 Standard Edition, Active Directory Service, DHCP and DNS Server administration. Implementation of FTP Server for large file transfer. Implementation of Distributed File System (DFS) to share files in each department. Microsoft Exchange Server 2003 Administration, creation of new users, groups and policy groups, daily backup. Installation and maintenance of Certification Authority in Windows Server 2003 for web application. Administration, maintenance and daily backup for a database Sybase SQL Anywhere 9.0. Maintenance and Creation of desktop applications (Power Builder 6.5, Power Builder 9.0). Technical support for 300 branch offices. New installation and updates of Software and Hardware.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2001",
+                "end_date": "03/2007"
+            },
+            {
+                "role_name": "Information Systems Administrator",
+                "work_description": "Technical support for 10 network users and 100 branch offices. Implemented Terminal Service to be able to connect to five new branches in Colombia. Daily backup for Sybase SQL Anywhere 7.0 Database, Microsoft SQL Server 2000 Database, QuickBooks Pro Database and in house program. Network Administration, implementation of FTP service for 100 branches connections, creation of uses and security access. Windows 2000 Server Administration, Active Directory Service administration and maintenance. Microsoft SQL Server 2000 administration. Technical Support for branch offices. Installation and updates of Software and Hardware.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2001",
+                "end_date": "07/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "Fundacion Universidad Autonoma de Colombia",
+                "start_date": "01/1995",
+                "end_date": "01/2000",
+                "domain": "Computer System Engineer",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Centro Colombiano de Estudios Profesionales Pontificia Universidad Javeriana",
+                "start_date": "01/1995",
+                "end_date": "04/1997",
+                "domain": "Computer Technician",
+                "level": "Certification"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Extensive experience in network administration, including setup and administration of VLANs, VPNs, firewalls, and web filters, indicating expert-level mastery."
+            },
+            {
+                "name": "Windows Server Administration",
+                "level": 5,
+                "explanation": "Long-term experience with Windows Server administration, including Windows Server 2008 R2, Windows Server 2003, and Windows 2000 Server, showing expert-level proficiency."
+            },
+            {
+                "name": "Microsoft Active Directory Administration",
+                "level": 5,
+                "explanation": "Extensive experience with Microsoft Active Directory administration, including user and group management, policy groups, and daily backup, indicating expert-level mastery."
+            },
+            {
+                "name": "Database Administration",
+                "level": 5,
+                "explanation": "Experience with various databases, including Sybase SQL Anywhere, Microsoft SQL Server, and QuickBooks Pro, showing expert-level proficiency in database administration."
+            },
+            {
+                "name": "Microsoft Exchange Server Administration",
+                "level": 5,
+                "explanation": "Long-term experience with Microsoft Exchange Server administration, including user and group management, policy groups, and daily backup, indicating expert-level mastery."
+            },
+            {
+                "name": "Technical Support",
+                "level": 5,
+                "explanation": "Extensive experience providing technical support for large numbers of users and branch offices, showing expert-level proficiency in troubleshooting and problem-solving."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Experience supervising employees and leading IT departments, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Software Development",
+                "level": 4,
+                "explanation": "Experience developing in-house applications, including inventory tracking and user manual creation, showing strong proficiency in software development."
+            },
+            {
+                "name": "Hardware Installation and Configuration",
+                "level": 4,
+                "explanation": "Experience with hardware installation and configuration, including video capture devices and SAN storage, indicating strong proficiency in hardware management."
+            },
+            {
+                "name": "Operating System Administration",
+                "level": 4,
+                "explanation": "Experience with various operating systems, including Windows 7, Windows XP, and OS X, showing strong proficiency in operating system administration."
+            },
+            {
+                "name": "Backup and Recovery",
+                "level": 4,
+                "explanation": "Experience with backup and recovery procedures, including daily backups and disaster recovery, indicating strong proficiency in data protection."
+            },
+            {
+                "name": "Security",
+                "level": 4,
+                "explanation": "Experience with security measures, including firewalls, spam filters, and access control, showing strong proficiency in security management."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Experience with project management, including research, quoting, and acquisition of new technology, indicating solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Experience with communication, including user manual creation and technical support, indicating solid working proficiency."
+            }
+        ]
+    }
+}

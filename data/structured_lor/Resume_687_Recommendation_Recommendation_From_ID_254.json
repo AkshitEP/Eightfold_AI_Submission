@@ -1,0 +1,12 @@
+{
+    "resume_file": "687.json",
+    "recommendation_file": "Recommendation_From_ID_254.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration and improper language. The information provided does not match the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the resume and seems to be promoting the first person's qualifications. The information provided does not match the resume, and the focus on the first person's experience as a summer camp counselor is not relevant to the resume."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "636.json",
+    "recommendation_file": "Recommendation_From_ID_124.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales Management",
+            "Leadership",
+            "Customer Service",
+            "Team Management",
+            "Communication",
+            "Data Analysis",
+            "Music Education"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and sales achievements in the educational music sector."
+    }
+}

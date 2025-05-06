@@ -1,0 +1,12 @@
+{
+    "resume_file": "919.json",
+    "recommendation_file": "Recommendation_From_ID_992.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The recommender's relationship to the candidate is unclear, and the recommendation does not align with the candidate's resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not provide any relevant information about the candidate's skills or experience, and raises concerns about its authenticity."
+    }
+}

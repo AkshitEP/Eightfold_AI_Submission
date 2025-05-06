@@ -1,0 +1,70 @@
+{
+    "target_id": "841",
+    "recommendations": [
+        {
+            "recommender_id": "892",
+            "recommendation": {
+                "resume_file": "841.json",
+                "recommendation_file": "Recommendation_From_ID_892.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly positive tone may indicate some exaggeration.",
+                    "verified_skills": [
+                        "Financial Statement Analysis",
+                        "General Accounting",
+                        "Budgeting",
+                        "Grant Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies and an overly positive tone."
+                }
+            }
+        },
+        {
+            "recommender_id": "505",
+            "recommendation": {
+                "resume_file": "841.json",
+                "recommendation_file": "Recommendation_From_ID_505.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Analysis",
+                        "General Accounting",
+                        "Budgeting",
+                        "Auditing",
+                        "Financial Modeling",
+                        "Grant Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and financial management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "66",
+            "recommendation": {
+                "resume_file": "841.json",
+                "recommendation_file": "Recommendation_From_ID_66.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Analysis",
+                        "General Accounting",
+                        "Budgeting",
+                        "Financial Planning",
+                        "Auditing",
+                        "Financial Modeling",
+                        "Grant Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and analytical capabilities. The recommender's tone is professional and objective, suggesting a genuine endorsement."
+                }
+            }
+        }
+    ]
+}

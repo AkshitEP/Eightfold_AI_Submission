@@ -1,0 +1,17 @@
+{
+    "resume_file": "643.json",
+    "recommendation_file": "Recommendation_From_ID_278.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of a $1.2 billion M&A deal seems impressive but lacks concrete details or evidence from the resume.",
+        "verified_skills": [
+            "Asset Analysis",
+            "Market Analysis",
+            "Client Relations",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's skills and experiences in investment banking and sales and trading, but some claims seem exaggerated or lack concrete evidence. The recommendation is generally credible but could benefit from more specific examples and details."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "345.json",
+    "recommendation_file": "Recommendation_From_ID_888.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Modeling",
+            "Investment Banking",
+            "Mergers and Acquisitions",
+            "Financial Analysis",
+            "Leadership",
+            "Sales and Marketing",
+            "Team Management",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise, leadership, and analytical skills. The source of the recommendation is a peer, indicating a strong professional relationship."
+    }
+}

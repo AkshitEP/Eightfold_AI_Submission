@@ -1,0 +1,101 @@
+{
+    "target_id": "538",
+    "recommendations": [
+        {
+            "recommender_id": "287",
+            "recommendation": {
+                "resume_file": "538.json",
+                "recommendation_file": "Recommendation_From_ID_287.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Audit and Compliance",
+                        "HR Operations",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, audit, and HR operations skills. The recommendation highlights the candidate's ability to enhance organizational efficiency, conduct thorough evaluations, and foster a supportive work environment."
+                }
+            }
+        },
+        {
+            "recommender_id": "972",
+            "recommendation": {
+                "resume_file": "538.json",
+                "recommendation_file": "Recommendation_From_ID_972.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Audit and Compliance",
+                        "Leadership",
+                        "Communication",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their internal audit practices, leadership, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "752",
+            "recommendation": {
+                "resume_file": "538.json",
+                "recommendation_file": "Recommendation_From_ID_752.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "HR Operations",
+                        "Leadership",
+                        "Project Management",
+                        "Audit and Compliance",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "391",
+            "recommendation": {
+                "resume_file": "538.json",
+                "recommendation_file": "Recommendation_From_ID_391.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written for two different individuals, with the first part describing an 8th grade Language Arts teacher and the second part describing a Business Process Analyst. This inconsistency raises some concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Audit and Compliance",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in leadership, communication, audit and compliance, and project management. However, the inconsistency in the recommendation raises some concerns about its authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "826",
+            "recommendation": {
+                "resume_file": "538.json",
+                "recommendation_file": "Recommendation_From_ID_826.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The language used is overly flattering and lacks specific examples from the candidate's work history. The recommender's background as a Business Process Analyst is mentioned, but the connection to the candidate's skills is unclear.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide any specific examples or details about the candidate's skills or work experience. The language used is overly flattering and lacks substance, making it difficult to verify the candidate's qualifications."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "679.json",
+    "recommendation_file": "Recommendation_From_ID_469.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Cash Handling",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's customer service and communication skills, which align with their experience as a Sales Associate, Receptionist, and Service Representative. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

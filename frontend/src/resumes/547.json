@@ -1,0 +1,118 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Manager of Finance",
+                "work_description": "Developed crucial business relations for the success of the company. Balanced relationships between clients and company's. Provided technical and website support for clients, agents and company's. Maintained 5000 active accounts, as well as 300 accounts currently in collections. Assisted with accounts payable/receivable. Utilized and maintained two client databases, websites. Processed notices and invoices. Processed more than $75,000 in customer payments weekly plus an additional $20,000 in company refunds, and processed $40,000 in financing for new accounts.",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Insurance Agent",
+                "work_description": "Wrote insurance policy's for home and auto coverage. Liaised for clients and 17 insurance companies. Processed claims and new business applications. Trained new agents on state and federal regulations. Provided accountability and corrections for agent errors company wide.",
+                "company_level": "Mid-level",
+                "start_date": "01/2009",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Grocery Manager",
+                "work_description": "Ensured excellence in customer service. Reviewed operating and financial reports to determine the status of the store relative to budgeted sales, expenses and payroll. Managed associate development and training. Maintained inventory, developed and implemented plans of action to reduce overhead expenses and loss.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Manager",
+                "work_description": "Ensured a high level of customer service through staff development, increasing employee morale and retention. Scheduled and reviewed financial reports. Monitored compliance with health and fire regulations regarding food preparation, serving and building maintenance. Organized and directed staff training, resolved personnel issues, hired new staff, and evaluated employee performance.",
+                "company_level": "Mid-level",
+                "start_date": "01/2004",
+                "end_date": "01/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Charleston Southern University",
+                "start_date": "01/2016",
+                "end_date": "01/2016",
+                "domain": "Organizational Management",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "South Piedmont Community College",
+                "start_date": "01/2009",
+                "end_date": "01/2009",
+                "domain": "Information Technology",
+                "level": "Associate's"
+            },
+            {
+                "university": "American Career College",
+                "start_date": "01/1995",
+                "end_date": "01/1995",
+                "domain": "Medical Assistant",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Account Management",
+                "level": 4,
+                "explanation": "Maintained 5000 active accounts, as well as 300 accounts currently in collections, and processed large amounts of customer payments, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 4,
+                "explanation": "Processed accounts payable/receivable, maintained client databases, and reviewed financial reports, suggesting strong proficiency in financial management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Ensured excellence in customer service, developed crucial business relations, and provided technical support, indicating strong proficiency in customer service."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed and trained staff, reviewed employee performance, and resolved personnel issues, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Maintained inventory and developed plans to reduce overhead expenses and loss, showing a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Scheduled and reviewed financial reports, monitored compliance with regulations, and organized staff training, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Reviewed operating and financial reports, but no extensive data analysis experience is mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Implemented plans to reduce overhead expenses and loss, but no extensive project management experience is mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Information Technology",
+                "level": 1,
+                "explanation": "Earned an Associate's degree in Information Technology, but no practical experience is mentioned, indicating basic familiarity."
+            },
+            {
+                "name": "Organizational Management",
+                "level": 1,
+                "explanation": "Earned a Bachelor's degree in Organizational Management, but no practical experience is mentioned, indicating basic familiarity."
+            },
+            {
+                "name": "Medical Assistant",
+                "level": 0,
+                "explanation": "Earned a Certificate in Medical Assistant, but no practical experience is mentioned, and the skill is not relevant to the job history."
+            }
+        ]
+    }
+}

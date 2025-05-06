@@ -1,0 +1,23 @@
+{
+    "resume_file": "530.json",
+    "recommendation_file": "Recommendation_From_ID_333.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's expertise in financial software, but the resume does not explicitly mention QuickBooks. Additionally, the recommendation mentions the candidate's experience managing diverse accounting responsibilities for over 20 years, but the resume only shows experience from 2015.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Account Reconciliation",
+            "Cash Management",
+            "Customer Service",
+            "Time Management",
+            "Communication",
+            "Problem-Solving",
+            "Microsoft Excel",
+            "Leadership",
+            "Accounting"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical skills and leadership abilities. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+    }
+}

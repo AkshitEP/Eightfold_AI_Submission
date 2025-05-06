@@ -1,0 +1,16 @@
+{
+    "resume_file": "643.json",
+    "recommendation_file": "Recommendation_From_ID_944.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions skills not directly mentioned in the resume, such as financial modeling and M&A opportunities.",
+        "verified_skills": [
+            "Asset Analysis",
+            "Client Relations",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's analytical and presentation skills, which are not directly mentioned in the resume. However, it does align with the candidate's experience in asset analysis, client relations, and communication. The recommendation also mentions the candidate's potential to work well with others, which is supported by their experience in team-based extracurricular activities."
+    }
+}

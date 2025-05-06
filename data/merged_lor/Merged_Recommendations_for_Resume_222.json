@@ -1,0 +1,133 @@
+{
+    "target_id": "222",
+    "recommendations": [
+        {
+            "recommender_id": "25",
+            "recommendation": {
+                "resume_file": "222.json",
+                "recommendation_file": "Recommendation_From_ID_25.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Consulting",
+                        "Leadership",
+                        "Program Development",
+                        "Preventive Care",
+                        "Wellness Programs",
+                        "Healthcare Education"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare consulting, leadership, and program development."
+                }
+            }
+        },
+        {
+            "recommender_id": "734",
+            "recommendation": {
+                "resume_file": "222.json",
+                "recommendation_file": "Recommendation_From_ID_734.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Consulting",
+                        "Strategic Planning",
+                        "Leadership",
+                        "Program Development",
+                        "Public Health"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and expertise in healthcare consulting and public health. The recommendation highlights the candidate's ability to develop innovative healthcare solutions and programs, which is consistent with their skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "105",
+            "recommendation": {
+                "resume_file": "222.json",
+                "recommendation_file": "Recommendation_From_ID_105.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Consulting",
+                        "Strategic Planning",
+                        "Leadership",
+                        "Program Development",
+                        "Public Health"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in healthcare consulting, program development, and leadership. The recommendation is from a Preventative Healthcare Intern, but the relationship is not explicitly stated."
+                }
+            }
+        },
+        {
+            "recommender_id": "40",
+            "recommendation": {
+                "resume_file": "222.json",
+                "recommendation_file": "Recommendation_From_ID_40.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Consulting",
+                        "Strategic Planning",
+                        "Leadership",
+                        "Program Development",
+                        "Public Health"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare consulting, strategic planning, and leadership. The recommendation also highlights the candidate's ability to drive revenue growth and improve the quality of life for individuals."
+                }
+            }
+        },
+        {
+            "recommender_id": "967",
+            "recommendation": {
+                "resume_file": "222.json",
+                "recommendation_file": "Recommendation_From_ID_967.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Consulting",
+                        "Strategic Planning",
+                        "Leadership",
+                        "Program Development",
+                        "Public Health"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in healthcare consulting, wellness programs, and strategic planning. The recommendation is from a peer, a Healthcare Marketing Specialist, who has collaborated with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "330",
+            "recommendation": {
+                "resume_file": "222.json",
+                "recommendation_file": "Recommendation_From_ID_330.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Consulting",
+                        "Strategic Planning",
+                        "Leadership",
+                        "Business Development",
+                        "Program Development",
+                        "Public Health"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare consulting and leadership."
+                }
+            }
+        }
+    ]
+}

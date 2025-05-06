@@ -1,0 +1,63 @@
+{
+    "target_id": "546",
+    "recommendations": [
+        {
+            "recommender_id": "978",
+            "recommendation": {
+                "resume_file": "546.json",
+                "recommendation_file": "Recommendation_From_ID_978.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Communication",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment initiatives and ability to adapt in complex environments. However, it does not mention some of the candidate's other skills, such as Data Entry, Oracle Administration, Teaching, Leadership, and Nursing."
+                }
+            }
+        },
+        {
+            "recommender_id": "698",
+            "recommendation": {
+                "resume_file": "546.json",
+                "recommendation_file": "Recommendation_From_ID_698.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unknown and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Communication",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in recruitment, healthcare administration, and communication. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "724",
+            "recommendation": {
+                "resume_file": "546.json",
+                "recommendation_file": "Recommendation_From_ID_724.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Overly positive tone and lack of specific examples to support claims. Statistically improbable claim about the candidate's experience in healthcare roles.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Healthcare Administration",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but lacks specific examples to support the claims made. The tone is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

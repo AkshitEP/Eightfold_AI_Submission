@@ -1,0 +1,19 @@
+{
+    "resume_file": "541.json",
+    "recommendation_file": "Recommendation_From_ID_545.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of erasing $1.3 million in expenses seems statistically improbable and requires further verification.",
+        "verified_skills": [
+            "Financial Management",
+            "Operational Finance",
+            "Leadership",
+            "Financial Analysis",
+            "Budgeting",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in financial management, operational finance, and leadership, but some claims seem exaggerated or unsupported. The source of the recommendation is unclear, and the tone is overly positive."
+    }
+}

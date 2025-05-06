@@ -1,0 +1,17 @@
+{
+    "resume_file": "896.json",
+    "recommendation_file": "Recommendation_From_ID_506.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and unrelated recommender role, but overall credible.",
+        "verified_skills": [
+            "Leadership",
+            "Operations Engineering",
+            "Flight Testing",
+            "Systems Integration and Test"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience in aerospace engineering, but lacks specific details and mentions unrelated achievements."
+    }
+}

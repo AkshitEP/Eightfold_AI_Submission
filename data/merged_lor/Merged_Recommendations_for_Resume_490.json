@@ -1,0 +1,127 @@
+{
+    "target_id": "490",
+    "recommendations": [
+        {
+            "recommender_id": "16",
+            "recommendation": {
+                "resume_file": "490.json",
+                "recommendation_file": "Recommendation_From_ID_16.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies between the recommendation and resume, and some exaggerated claims.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but there are some inconsistencies and exaggerated claims. The recommendation verifies the candidate's customer service and communication skills, but does not provide specific examples or details."
+                }
+            }
+        },
+        {
+            "recommender_id": "874",
+            "recommendation": {
+                "resume_file": "490.json",
+                "recommendation_file": "Recommendation_From_ID_874.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of a 'Benefit Advocate' who is not the subject of the resume. However, the language is formal and the claims are generally supported by the resume.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Coaching",
+                        "Quality Assurance",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, coaching, and quality assurance, which are well-supported by their work experience. However, the mention of a 'Benefit Advocate' is unclear and may indicate some level of exaggeration or misrepresentation."
+                }
+            }
+        },
+        {
+            "recommender_id": "340",
+            "recommendation": {
+                "resume_file": "490.json",
+                "recommendation_file": "Recommendation_From_ID_340.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Coaching",
+                        "Leadership",
+                        "Communication",
+                        "Public Speaking"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, coaching, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "89",
+            "recommendation": {
+                "resume_file": "490.json",
+                "recommendation_file": "Recommendation_From_ID_89.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Disability Advocate' and 'public health' which are not explicitly mentioned in the resume. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Coaching",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service skills, analytical abilities, and leadership qualities, which are all relevant to their experience and skills listed in the resume. However, some minor inconsistencies and lack of specific examples from the resume prevent a higher relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "260",
+            "recommendation": {
+                "resume_file": "490.json",
+                "recommendation_file": "Recommendation_From_ID_260.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Coaching",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, it does not mention some of the candidate's other skills, such as teaching, project management, and quality assurance."
+                }
+            }
+        },
+        {
+            "recommender_id": "178",
+            "recommendation": {
+                "resume_file": "490.json",
+                "recommendation_file": "Recommendation_From_ID_178.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Coaching",
+                        "Data Analysis",
+                        "Quality Assurance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and communication skills. The source of the recommendation is a peer, indicating a firsthand account of the candidate's abilities."
+                }
+            }
+        }
+    ]
+}

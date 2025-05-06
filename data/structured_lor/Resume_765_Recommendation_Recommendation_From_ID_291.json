@@ -1,0 +1,15 @@
+{
+    "resume_file": "765.json",
+    "recommendation_file": "Recommendation_From_ID_291.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender mentions the candidate's role as a fitness instructor, but the resume does not mention this role. However, the recommender does mention the candidate's role as a membership coordinator, which is present in the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strengths in customer service, communication, and teamwork, which are present in the resume. However, the recommender also mentions the candidate's role as a fitness instructor, which is not present in the resume. The recommendation also mentions the candidate's entrepreneurial spirit, which is not directly mentioned in the resume but can be inferred from their experience in sales and customer service roles."
+    }
+}

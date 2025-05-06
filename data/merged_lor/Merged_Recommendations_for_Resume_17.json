@@ -1,0 +1,85 @@
+{
+    "target_id": "17",
+    "recommendations": [
+        {
+            "recommender_id": "404",
+            "recommendation": {
+                "resume_file": "17.json",
+                "recommendation_file": "Recommendation_From_ID_404.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and lacks alignment with the key areas of expertise in the resume.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Budgeting",
+                        "Contract Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems fraudulent due to several red flags, including statistically improbable claims and lack of alignment with the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "506",
+            "recommendation": {
+                "resume_file": "17.json",
+                "recommendation_file": "Recommendation_From_ID_506.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'aerospace industry' which is not explicitly mentioned in the resume. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Auditing",
+                        "Accounting",
+                        "Budgeting",
+                        "Contract Management",
+                        "Financial Analysis",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and leadership abilities. However, some minor inconsistencies and lack of concrete examples from the resume reduce the relevance score and increase the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "475",
+            "recommendation": {
+                "resume_file": "17.json",
+                "recommendation_file": "Recommendation_From_ID_475.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Exaggerated claims, statistically improbable data, and informal language detected.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Budgeting",
+                        "Contract Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but contains unrealistic claims and informal language, raising concerns about its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "614",
+            "recommendation": {
+                "resume_file": "17.json",
+                "recommendation_file": "Recommendation_From_ID_614.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "Overly flattering language, statistically improbable claims, and unclear connection to the candidate's experience.",
+                    "verified_skills": [
+                        "Budgeting",
+                        "Auditing",
+                        "Financial Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems highly suspicious and potentially fraudulent, with exaggerated language and improbable claims."
+                }
+            }
+        }
+    ]
+}

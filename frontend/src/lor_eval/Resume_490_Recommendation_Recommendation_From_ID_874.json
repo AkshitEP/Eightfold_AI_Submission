@@ -1,0 +1,17 @@
+{
+    "resume_file": "490.json",
+    "recommendation_file": "Recommendation_From_ID_874.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of a 'Benefit Advocate' who is not the subject of the resume. However, the language is formal and the claims are generally supported by the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Coaching",
+            "Quality Assurance",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in customer service, coaching, and quality assurance, which are well-supported by their work experience. However, the mention of a 'Benefit Advocate' is unclear and may indicate some level of exaggeration or misrepresentation."
+    }
+}

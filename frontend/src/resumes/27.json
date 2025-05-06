@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Group Fitness Coordinator",
+                "work_description": "Directed and supervised the Group Fitness Program which included staffing and evaluation of 30+ instructors. Developed educational seminars for active adults and members, providing wellness and health information. Developed health education events, incentive programs, and seminars for all employees. Responsible for P&L for the Group Fitness Program. Developed and ran annual community support campaign to bring in $10,000+ per year to department. Devised and implemented progressive and individualized exercise recommendations and programs. Created and successfully held monthly healthy lifestyle events/presentations. Marketed the group fitness classes to members as well as all fitness related events.",
+                "company_level": "Mid-level",
+                "start_date": "05/2012",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Private Childcare Provider",
+                "work_description": "Created and carried out daily schedules that meet the physical and emotional needs of children. Met with parents on a weekly basis to discuss the week's plans, as well as any disciplinary problems. Scheduled activities to ensure proper development of social interaction with others as well as personal development. Effectively handled interventions between children when disagreements arise.",
+                "company_level": "Startup",
+                "start_date": "11/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Fitness Instructor",
+                "work_description": "Developed, organized, and maintained fitness classes for members in an effective, efficient, and professional manner through personal recognition, relationship building, and safe execution. Advised members on items related to fitness, exercise principles, and wellness. Kept and maintained up-to-date trends in the fitness industry. Encouraged members to reach their fitness and wellness goals.",
+                "company_level": "Mid-level",
+                "start_date": "08/2011",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Tampa",
+                "start_date": "01/2007",
+                "end_date": "12/2011",
+                "domain": "Psychology/Government",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Directed and supervised the Group Fitness Program, including staffing and evaluation of 30+ instructors, demonstrating strong leadership skills."
+            },
+            {
+                "name": "Program Management",
+                "level": 4,
+                "explanation": "Responsible for P&L for the Group Fitness Program, developed and ran annual community support campaign, and created and successfully held monthly healthy lifestyle events/presentations, showing strong proficiency in program management."
+            },
+            {
+                "name": "Event Planning",
+                "level": 4,
+                "explanation": "Developed health education events, incentive programs, and seminars for all employees, and created and successfully held monthly healthy lifestyle events/presentations, indicating strong proficiency in event planning."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Marketed the group fitness classes to members as well as all fitness related events, showing a solid working proficiency in marketing."
+            },
+            {
+                "name": "Child Development",
+                "level": 3,
+                "explanation": "Created and carried out daily schedules that meet the physical and emotional needs of children, and scheduled activities to ensure proper development of social interaction with others as well as personal development, indicating a solid working proficiency in child development."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Met with parents on a weekly basis to discuss the week's plans, as well as any disciplinary problems, and advised members on items related to fitness, exercise principles, and wellness, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Fitness Instruction",
+                "level": 4,
+                "explanation": "Developed, organized, and maintained fitness classes for members in an effective, efficient, and professional manner, and kept and maintained up-to-date trends in the fitness industry, indicating strong proficiency in fitness instruction."
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "365.json",
+    "recommendation_file": "Recommendation_From_ID_588.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims detected. Unrelated information about a Customer Service Representative dilutes the relevance of the recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Strategic Planning",
+            "Operational Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some skills and experiences from the resume, but introduces unrelated information and lacks specific examples or evidence."
+    }
+}

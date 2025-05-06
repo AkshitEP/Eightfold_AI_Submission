@@ -1,0 +1,17 @@
+{
+    "resume_file": "831.json",
+    "recommendation_file": "Recommendation_From_ID_595.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and relationship to the candidate, are unclear. However, the language is formal and the claims are generally supported by the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Logistics Management",
+            "Quality Assurance",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and organizational skills, which align with their experience as a Supervisory Logistics Management Specialist. However, the recommender's role and relationship to the candidate are unclear, which may raise some minor concerns about the recommendation's credibility."
+    }
+}

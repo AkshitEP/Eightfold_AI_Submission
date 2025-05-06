@@ -1,0 +1,17 @@
+{
+    "resume_file": "358.json",
+    "recommendation_file": "Recommendation_From_ID_982.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Teamwork",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their service industry experience and customer-focused mentality. However, the recommendation is from a Recreation and Sports Coordinator, which may not be directly related to the candidate's job history or skills."
+    }
+}

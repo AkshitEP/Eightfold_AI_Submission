@@ -1,0 +1,117 @@
+{
+    "target_id": "814",
+    "recommendations": [
+        {
+            "recommender_id": "867",
+            "recommendation": {
+                "resume_file": "814.json",
+                "recommendation_file": "Recommendation_From_ID_867.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Marketing",
+                        "Event Planning",
+                        "Customer Service",
+                        "Leadership",
+                        "Registration and Enrollment"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing initiatives, event planning, and leadership abilities. However, the recommendation does not mention some of the candidate's other skills, such as graphic design, social media management, and budgeting."
+                }
+            }
+        },
+        {
+            "recommender_id": "515",
+            "recommendation": {
+                "resume_file": "814.json",
+                "recommendation_file": "Recommendation_From_ID_515.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Event Planning",
+                        "Marketing",
+                        "Project Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Graphic Design",
+                        "Social Media Management",
+                        "Email Marketing",
+                        "Content Creation",
+                        "Content Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing strategies, event planning, and community engagement. The language is formal, and no red flags or statistically improbable claims are detected."
+                }
+            }
+        },
+        {
+            "recommender_id": "391",
+            "recommendation": {
+                "resume_file": "814.json",
+                "recommendation_file": "Recommendation_From_ID_391.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Event Planning",
+                        "Marketing",
+                        "Project Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Graphic Design",
+                        "Social Media Management",
+                        "Content Creation",
+                        "Content Management",
+                        "Art and Design"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their community outreach and education initiatives. However, the recommender's relationship to the candidate is unclear, and the recommendation does not explicitly mention the candidate's current role or job title."
+                }
+            }
+        },
+        {
+            "recommender_id": "416",
+            "recommendation": {
+                "resume_file": "814.json",
+                "recommendation_file": "Recommendation_From_ID_416.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Event Planning",
+                        "Marketing",
+                        "Project Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Graphic Design",
+                        "Social Media Management",
+                        "Email Marketing"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing strategies, event planning, and leadership abilities. The recommendation is from a peer, indicating a strong working relationship and firsthand knowledge of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "72",
+            "recommendation": {
+                "resume_file": "814.json",
+                "recommendation_file": "Recommendation_From_ID_72.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation does not match the individual's resume, and the language used is overly generic and does not provide specific examples or details that align with the Director of Community's experience.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be for a different individual and does not align with the Director of Community's experience or skills. It is likely that the recommendation is fraudulent or was mistakenly attached to the wrong resume."
+                }
+            }
+        }
+    ]
+}

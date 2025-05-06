@@ -1,0 +1,18 @@
+{
+    "resume_file": "357.json",
+    "recommendation_file": "Recommendation_From_ID_275.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales",
+            "Cash Handling",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, sales, and leadership abilities. The recommendation source is the owner and operator of the business, indicating a direct supervisory relationship."
+    }
+}

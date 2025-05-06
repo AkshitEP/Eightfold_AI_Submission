@@ -1,0 +1,18 @@
+{
+    "resume_file": "631.json",
+    "recommendation_file": "Recommendation_From_ID_628.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall genuine tone.",
+        "verified_skills": [
+            "Recruitment Strategy",
+            "Talent Management",
+            "HRIS Systems",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies and exaggerated claims."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "193.json",
+    "recommendation_file": "Recommendation_From_ID_394.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'extensive experience in talent management and team building' which is not directly supported by the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Data Entry",
+            "Time Management",
+            "Leadership",
+            "Human Resource Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation highlights the candidate's strengths in administrative functions, communication, and organizational skills, which are relevant to their experience as an HR Clerk. However, some claims, such as 'extensive experience in talent management and team building', seem exaggerated and not fully supported by the resume."
+    }
+}

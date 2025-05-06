@@ -1,0 +1,18 @@
+{
+    "resume_file": "695.json",
+    "recommendation_file": "Recommendation_From_ID_491.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Healthcare",
+            "Project Management",
+            "Quality Systems",
+            "Regulatory Compliance",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare management and compliance."
+    }
+}

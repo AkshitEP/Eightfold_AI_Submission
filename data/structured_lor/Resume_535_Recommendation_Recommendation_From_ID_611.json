@@ -1,0 +1,16 @@
+{
+    "resume_file": "535.json",
+    "recommendation_file": "Recommendation_From_ID_611.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions Kristy's experience as a Relationship Banker II, but this role is not mentioned in the resume. Additionally, the claim of a 70% increase in bank deposits seems statistically improbable without further context.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Customer Engagement"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in leadership, team management, and customer engagement. However, some claims seem exaggerated or unsupported, and the recommendation lacks specific details about Kristy's experience in strategic planning, revenue growth, and financial management."
+    }
+}

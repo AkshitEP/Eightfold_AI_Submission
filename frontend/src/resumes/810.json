@@ -1,0 +1,74 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Laborer",
+                "work_description": "Aided in Aircraft mechanics, aircraft clean up, and restoration.",
+                "company_level": "Unknown",
+                "start_date": "08/2016",
+                "end_date": "12/2016"
+            },
+            {
+                "role_name": "Laborer",
+                "work_description": "Categorized livestock to be sold at auction. Worked with live animals in livestock pens and with auctioneers. In charge of loading and unloading livestock.",
+                "company_level": "Unknown",
+                "start_date": "02/2016",
+                "end_date": "05/2016"
+            },
+            {
+                "role_name": "Laborer",
+                "work_description": "Part time summer worker in charge of general labor and maintenance of parts and inventory.",
+                "company_level": "Unknown",
+                "start_date": "06/2014",
+                "end_date": "08/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "New River Community College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "HVAC",
+                "level": "Advance Diploma"
+            },
+            {
+                "university": "Rural Retreat High School",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Unknown",
+                "level": "Unknown"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Labor",
+                "level": 3,
+                "explanation": "Has experience in general labor and maintenance of parts and inventory, showing a solid working proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 2,
+                "explanation": "Was in charge of general labor and maintenance of parts and inventory, indicating some practical experience."
+            },
+            {
+                "name": "Aircraft Maintenance",
+                "level": 2,
+                "explanation": "Aided in aircraft mechanics, aircraft clean up, and restoration, suggesting some practical experience."
+            },
+            {
+                "name": "Livestock Handling",
+                "level": 3,
+                "explanation": "Worked with live animals in livestock pens and with auctioneers, showing a solid working proficiency."
+            },
+            {
+                "name": "HVAC",
+                "level": 1,
+                "explanation": "Has an Advance Diploma in HVAC, but no direct work experience is mentioned, indicating basic familiarity."
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Supervisor",
+                "work_description": "Supervised corrosion control facility supervising three employees directly responsible for the maintenance and upkeep of twelve aircraft paint schemes. Ran and followed Tool Control Program and procedures. Followed technical manuals and safety procedures. Inventoried HAZMAT. Separated HAZWASTE to EPA regulations. Recorded and tracked HAZMAT usage. Ordered HAZMAT for daily use. Helped maintain an 0% accident rate in safety within my shop.",
+                "company_level": "Mid-level",
+                "start_date": "01/2004",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Administration Clerk",
+                "work_description": "Prepare, type, and route correspondence and reports. Organize and maintain files. Recieve office visits and handle telephone communications. Operate computers, word processing, and duplicating documents. Maintain records and other official publications.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Aircraft Worker",
+                "work_description": "Worked on P-3s, T-34s, T-44s, and F/A-18s. Masked and covered surfaces not to be painted. Performed Plastic Media Blasting to remove paint and corrosion. Striped, sanded, masked, and repainted surfaces, and blended and polished finish to match surrounding areas, manually or using portable power tools.",
+                "company_level": "Mid-level",
+                "start_date": "10/2013",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Aircraft Painter",
+                "work_description": "Worked on Boeing 737 - 777 and Airbus 320. Masked and covered surfaces not to be painted. Striped, sanded, masked, and repainted surfaces, and blended and polished finish to match surrounding areas, manually or using portable power tools.",
+                "company_level": "Mid-level",
+                "start_date": "11/2014",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Aircraft Painter",
+                "work_description": "Worked on Airbus 319 & 320. Masked and covered surfaces not to be painted. Sanded, masked, and repainted surfaces, and blended and polished finish to match surrounding areas, manually or using portable power tools.",
+                "company_level": "Mid-level",
+                "start_date": "04/2015",
+                "end_date": "10/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Florida State College of Jacksonville",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Aircraft Coating",
+                "level": "Certificate"
+            },
+            {
+                "university": "Tulsa Welding School",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Welding",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Aviation Structural Mechanics Common Core, Class A1",
+            "Aviation Structural Mechanic Organizational Level Strand Class",
+            "Aircraft Corrosion",
+            "Aircraft Paint/Finish"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Aircraft Maintenance",
+                "level": 4,
+                "explanation": "Extensive experience in aircraft maintenance, including corrosion control, paint schemes, and tool control programs."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Supervised a team of three employees in a corrosion control facility, demonstrating a solid working proficiency in leadership."
+            },
+            {
+                "name": "Safety Procedures",
+                "level": 4,
+                "explanation": "Maintained an 0% accident rate in safety within the shop, indicating strong proficiency in following safety procedures."
+            },
+            {
+                "name": "Tool Control",
+                "level": 3,
+                "explanation": "Ran and followed tool control programs, showing a solid working proficiency in tool control."
+            },
+            {
+                "name": "HAZMAT Handling",
+                "level": 3,
+                "explanation": "Inventoried, recorded, and tracked HAZMAT usage, and separated HAZWASTE to EPA regulations, demonstrating a solid working proficiency in HAZMAT handling."
+            },
+            {
+                "name": "Administrative Tasks",
+                "level": 2,
+                "explanation": "Performed administrative tasks such as preparing correspondence, maintaining files, and operating computers, showing some practical experience in administrative tasks."
+            },
+            {
+                "name": "Aircraft Painting",
+                "level": 4,
+                "explanation": "Extensive experience in painting various aircraft models, including Boeing and Airbus, indicating strong proficiency in aircraft painting."
+            },
+            {
+                "name": "Aircraft Coating",
+                "level": 4,
+                "explanation": "Received a certificate in Aircraft Coating and worked on various aircraft models, demonstrating strong proficiency in aircraft coating."
+            },
+            {
+                "name": "Welding",
+                "level": 2,
+                "explanation": "Received a certificate in Welding, but no direct experience is mentioned, showing some practical experience in welding."
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "target_id": "416",
+    "recommendations": [
+        {
+            "recommender_id": "640",
+            "recommendation": {
+                "resume_file": "416.json",
+                "recommendation_file": "Recommendation_From_ID_640.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and relationship to the candidate, are unclear. However, the recommendation is largely credible and well-supported by the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Training and Development",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Classroom Instruction",
+                        "Program Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in training and development, leadership, and communication, which are well-supported by their experience as a Project Coordinator Associate and in various educational roles. However, the recommender's role and relationship to the candidate are unclear, which may raise some minor concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

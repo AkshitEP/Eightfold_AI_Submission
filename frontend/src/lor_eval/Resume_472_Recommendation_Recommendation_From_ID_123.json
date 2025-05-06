@@ -1,0 +1,18 @@
+{
+    "resume_file": "472.json",
+    "recommendation_file": "Recommendation_From_ID_123.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Project Management",
+            "Leadership",
+            "Business Analysis",
+            "Risk Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their abilities and accomplishments."
+    }
+}

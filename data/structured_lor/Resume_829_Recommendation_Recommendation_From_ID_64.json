@@ -1,0 +1,16 @@
+{
+    "resume_file": "829.json",
+    "recommendation_file": "Recommendation_From_ID_64.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions unrelated roles and skills, and the language seems overly flattering. However, some skills like sales, customer service, and leadership are validated.",
+        "verified_skills": [
+            "Sales and Marketing",
+            "Customer Service",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation seems to be from a colleague who has witnessed the candidate's work in two different roles. While the recommendation is positive, it seems to be overly flattering and mentions unrelated roles and skills. However, some skills like sales, customer service, and leadership are validated."
+    }
+}

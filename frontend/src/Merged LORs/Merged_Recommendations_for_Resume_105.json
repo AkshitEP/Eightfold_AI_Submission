@@ -1,0 +1,91 @@
+{
+    "target_id": "105",
+    "recommendations": [
+        {
+            "recommender_id": "146",
+            "recommendation": {
+                "resume_file": "105.json",
+                "recommendation_file": "Recommendation_From_ID_146.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly positive language.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Health Education",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's passion for patient wellness and their ability to work collaboratively, but has some minor inconsistencies and overly positive language."
+                }
+            }
+        },
+        {
+            "recommender_id": "587",
+            "recommendation": {
+                "resume_file": "105.json",
+                "recommendation_file": "Recommendation_From_ID_587.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Health Education",
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Community Outreach",
+                        "Regulatory Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their healthcare management, education, and leadership abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "641",
+            "recommendation": {
+                "resume_file": "105.json",
+                "recommendation_file": "Recommendation_From_ID_641.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written by someone who is familiar with the candidate's work, but the language used is overly flattering and lacks specific examples from the candidate's resume.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Health Education",
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Community Outreach"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in healthcare management and health education, but it seems to be more focused on the candidate's potential as a recruiter rather than their actual experience as a Preventative Healthcare Intern. The language used is also overly flattering and lacks specific examples from the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "621",
+            "recommendation": {
+                "resume_file": "105.json",
+                "recommendation_file": "Recommendation_From_ID_621.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including mention of unrelated experience.",
+                    "verified_skills": [
+                        "Healthcare Management",
+                        "Health Education",
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Community Outreach"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is generally relevant to the candidate's skills and experiences, but there are some minor inconsistencies that raise concerns about its accuracy."
+                }
+            }
+        }
+    ]
+}

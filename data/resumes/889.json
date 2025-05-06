@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Accountant",
+                "work_description": "Managed accounting functions for power and gas company with a fleet of highly efficient power plants. Managed and executed accounting, treasury and administrative functions in fast-paced setting. Performed month-end close, journal entries, account and balance sheet reconciliations, variance analysis and forecasting functions.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2006",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Accountant / Analyst",
+                "work_description": "Performed accounting activities during a period of significant corporate change. Managed accounting processes with speed and accuracy. Interfaced with vendors and customers in resolving discrepancies and billing issues.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2005",
+                "end_date": "03/2006"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Provided accounting expertise and support for investment management firm with $129B assets under management. Prepared quarterly, semiannual and annual financial statements, and oversaw SEC and other regulatory filings for 145 investment portfolios.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2005",
+                "end_date": "10/2005"
+            },
+            {
+                "role_name": "Analyst / Rotation",
+                "work_description": "Conducted pre-bankruptcy accounting and financial analysis, and post-bankruptcy claims compression tasks. Prioritized and completed the full range of accounting actions, such as consolidating financial statements, reconciling accounts, preparing balance sheet summaries, schedules and annual reports.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2000",
+                "end_date": "08/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Houston",
+                "start_date": "01/1999",
+                "end_date": "12/1999",
+                "domain": "Accountancy",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Extensive experience in financial analysis, including pre-bankruptcy and post-bankruptcy analysis, variance analysis, and forecasting functions, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Over 15 years of experience in accounting, including managing accounting functions, performing month-end close, journal entries, account and balance sheet reconciliations, and preparing financial statements, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Extensive experience in preparing quarterly, semiannual, and annual financial statements, and overseeing SEC and other regulatory filings, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 4,
+                "explanation": "Experience in forecasting functions and variance analysis, suggesting strong proficiency in financial planning."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Managed accounting functions and teams in fast-paced settings, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Managed accounting processes with speed and accuracy, and prioritized and completed a full range of accounting actions, suggesting strong proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Interfaced with vendors and customers in resolving discrepancies and billing issues, indicating a solid level of proficiency in communication."
+            }
+        ]
+    }
+}

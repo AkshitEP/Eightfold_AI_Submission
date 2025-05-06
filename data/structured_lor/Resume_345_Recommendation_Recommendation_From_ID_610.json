@@ -1,0 +1,19 @@
+{
+    "resume_file": "345.json",
+    "recommendation_file": "Recommendation_From_ID_610.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source claims to be the Director of Finance with over twenty years of experience in the hospitality industry, which is not directly related to the candidate's experience. Additionally, the recommendation mentions the candidate's work at Dorado Beach Resort, which is not mentioned in the resume.",
+        "verified_skills": [
+            "Financial Modeling",
+            "Investment Banking",
+            "Leadership",
+            "Sales and Marketing",
+            "Team Management",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements and expertise. However, the source of the recommendation is unclear and seems unrelated to the candidate's experience."
+    }
+}

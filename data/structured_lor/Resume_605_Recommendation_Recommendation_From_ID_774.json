@@ -1,0 +1,12 @@
+{
+    "resume_file": "605.json",
+    "recommendation_file": "Recommendation_From_ID_774.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The recommender's role and relationship to Tina are unclear.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's skills or experience as a recruiter. The language used is informal, and the claims made about Tina's skills and abilities seem unrealistic."
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Programme Finance Associate",
+                "work_description": "Ensured administration and implementation of programme/operations strategies, adapts processes and procedures focusing on achievement of the following results: Full compliance with UN/UNDP rules and regulations and other relevant policies on financial recording/reporting system and follow-up on audit recommendations; Implementation of effective internal controls, proper functioning of a client-oriented financial resources management system.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Programme Assistant",
+                "work_description": "Tasks and responsibilities",
+                "company_level": "Large Corporation",
+                "start_date": "10/2008",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Teacher",
+                "work_description": "Teaching Italian Language as a foreign language.",
+                "company_level": "Mid-level",
+                "start_date": "10/2007",
+                "end_date": "03/2008"
+            },
+            {
+                "role_name": "Office Manager and Secretary",
+                "work_description": "Office management, organization and documentation. Overseeing financial duties, including payrolls, budgets and spending.",
+                "company_level": "Mid-level",
+                "start_date": "01/1999",
+                "end_date": "01/2002"
+            }
+        ],
+        "education": [
+            {
+                "university": "Al-Fateh University, Tripoli - Libya & University of Tripoli, Tripoli - Libya",
+                "start_date": "01/1997",
+                "end_date": "12/2001",
+                "domain": "Civil Engineering",
+                "level": "BSc"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Project Management",
+                "description": "PRINCE2 Foundation, UNDP training",
+                "skills": [
+                    "PRINCE2",
+                    "Project Management"
+                ]
+            },
+            {
+                "domain": "Risk Management",
+                "description": "Enterprise Risk Management, UNDP training",
+                "skills": [
+                    "Risk Management",
+                    "Enterprise"
+                ]
+            },
+            {
+                "domain": "Health and Safety",
+                "description": "HIV & AID, UNDP training",
+                "skills": [
+                    "Health and Safety"
+                ]
+            },
+            {
+                "domain": "Ethics and Compliance",
+                "description": "Ethics Train, UNDP training",
+                "skills": [
+                    "Ethics",
+                    "Compliance"
+                ]
+            },
+            {
+                "domain": "Gender and Diversity",
+                "description": "The Gender Journey: Thinking Outside the Box, UNDP training",
+                "skills": [
+                    "Gender and Diversity"
+                ]
+            },
+            {
+                "domain": "Security",
+                "description": "Basic and advanced security in the field, UNDP training",
+                "skills": [
+                    "Security"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Management",
+                "level": 4,
+                "explanation": "Handled financial duties, including payrolls, budgets, and spending, showing strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Completed PRINCE2 Foundation training and has experience in programme finance, indicating a solid working proficiency."
+            },
+            {
+                "name": "Risk Management",
+                "level": 2,
+                "explanation": "Completed Enterprise Risk Management training, but no direct experience mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Health and Safety",
+                "level": 2,
+                "explanation": "Completed HIV & AID training, but no direct experience mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Ethics and Compliance",
+                "level": 2,
+                "explanation": "Completed Ethics Train, but no direct experience mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Gender and Diversity",
+                "level": 2,
+                "explanation": "Completed The Gender Journey: Thinking Outside the Box training, but no direct experience mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Security",
+                "level": 2,
+                "explanation": "Completed Basic and advanced security in the field training, but no direct experience mentioned, suggesting some practical experience."
+            },
+            {
+                "name": "Office Management",
+                "level": 3,
+                "explanation": "Handled office management, organization, and documentation, showing a solid working proficiency."
+            },
+            {
+                "name": "Language Skills",
+                "level": 3,
+                "explanation": "Taught Italian Language as a foreign language, showing a solid working proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "resume_file": "895.json",
+    "recommendation_file": "Recommendation_From_ID_920.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Policy Development",
+            "Customer Service",
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Time Management",
+            "Human Resources"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their policy development, customer service, and leadership abilities. The recommender's role as a senior analyst in a parallel field adds credibility to the recommendation."
+    }
+}

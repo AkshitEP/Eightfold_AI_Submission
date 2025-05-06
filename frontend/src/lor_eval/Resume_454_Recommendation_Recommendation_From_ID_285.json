@@ -1,0 +1,24 @@
+{
+    "resume_file": "454.json",
+    "recommendation_file": "Recommendation_From_ID_285.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Payroll Management",
+            "Budgeting",
+            "Leadership",
+            "Time Management",
+            "Customer Service",
+            "Data Entry",
+            "Financial Analysis",
+            "Project Management",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Supervisor/Boss",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their office management abilities, financial operations, and community relations. The recommendation source is likely a supervisor or boss, given their close collaboration and familiarity with the candidate's work."
+    }
+}

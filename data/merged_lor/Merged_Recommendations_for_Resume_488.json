@@ -1,0 +1,92 @@
+{
+    "target_id": "488",
+    "recommendations": [
+        {
+            "recommender_id": "443",
+            "recommendation": {
+                "resume_file": "488.json",
+                "recommendation_file": "Recommendation_From_ID_443.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Entry",
+                        "Office Administration",
+                        "Time Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational and supervisory skills, as well as their proficiency in Daxko Operations and people skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "472",
+            "recommendation": {
+                "resume_file": "488.json",
+                "recommendation_file": "Recommendation_From_ID_472.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Entry",
+                        "Office Administration",
+                        "Time Management",
+                        "Communication",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in billing and finance, Daxko Operations, and customer service. The recommendation highlights the candidate's attention to detail, proactive approach, and commitment to organizational excellence."
+                }
+            }
+        },
+        {
+            "recommender_id": "535",
+            "recommendation": {
+                "resume_file": "488.json",
+                "recommendation_file": "Recommendation_From_ID_535.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be written in a style that is overly promotional and lacks specific examples from the candidate's work experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Office Administration",
+                        "Time Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in supervising member services and financial operations, but lacks specific examples from their work experience. The recommendation also seems to be written in a style that is overly promotional, which raises some concerns about its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "175",
+            "recommendation": {
+                "resume_file": "488.json",
+                "recommendation_file": "Recommendation_From_ID_175.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but contains some minor inconsistencies. The recommender claims to be a Store Manager in a fast-paced banking environment, but the candidate's experience is in a different field. However, the recommendation still provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Data Entry",
+                        "Office Administration",
+                        "Time Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's supervisory experience, communication abilities, and customer service skills, which align with their resume. However, the recommender's background and relationship to the candidate are unclear."
+                }
+            }
+        }
+    ]
+}

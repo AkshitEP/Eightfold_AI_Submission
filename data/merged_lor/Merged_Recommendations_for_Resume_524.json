@@ -1,0 +1,54 @@
+{
+    "target_id": "524",
+    "recommendations": [
+        {
+            "recommender_id": "353",
+            "recommendation": {
+                "resume_file": "524.json",
+                "recommendation_file": "Recommendation_From_ID_353.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Data Analysis",
+                        "Database Management",
+                        "Software Administration",
+                        "Strategic Planning",
+                        "Communication",
+                        "Team Management",
+                        "SharePoint"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments and expertise in IT operations, business intelligence, and personnel development."
+                }
+            }
+        },
+        {
+            "recommender_id": "949",
+            "recommendation": {
+                "resume_file": "524.json",
+                "recommendation_file": "Recommendation_From_ID_949.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Some minor inconsistencies in the recommender's description of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Data Analysis",
+                        "Database Management",
+                        "Software Administration",
+                        "Strategic Planning",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in project management, leadership, and strategic planning, but the recommender's role and relationship to the candidate are unclear. The recommender's description of the candidate's skills and experience is generally consistent with the resume, but some minor inconsistencies are present."
+                }
+            }
+        }
+    ]
+}

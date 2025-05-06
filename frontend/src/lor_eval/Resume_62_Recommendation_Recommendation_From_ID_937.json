@@ -1,0 +1,16 @@
+{
+    "resume_id": 62,
+    "recommendation_file": "Recommendation_From_ID_937.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the recommendation is for a different role (Stocker/Receiver) than the candidate's experience. Some minor inconsistencies are present, such as the recommendation highlighting the candidate's experience in home health care for a stockroom position.",
+        "verified_skills": [
+            "Communication and Interpersonal Skills",
+            "Time Management and Organization",
+            "Safety and Hazardous Material Handling"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's transferable skills, such as communication, time management, and safety awareness, but lacks specific examples from the candidate's experience in aircraft hydraulics systems or maintenance and repair. The recommendation seems to focus more on the candidate's personality and work ethic rather than their technical skills."
+    }
+}

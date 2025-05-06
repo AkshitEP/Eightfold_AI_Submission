@@ -1,0 +1,70 @@
+{
+    "target_id": "161",
+    "recommendations": [
+        {
+            "recommender_id": "427",
+            "recommendation": {
+                "resume_file": "161.json",
+                "recommendation_file": "Recommendation_From_ID_427.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Community Outreach",
+                        "Mental Health Assessment",
+                        "Group Therapy",
+                        "Crisis Intervention"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their community outreach, counseling, and case management abilities. The recommendation highlights the candidate's creative problem-solving abilities, commitment to fostering resilience among clients, and passion for community support."
+                }
+            }
+        },
+        {
+            "recommender_id": "840",
+            "recommendation": {
+                "resume_file": "161.json",
+                "recommendation_file": "Recommendation_From_ID_840.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Community Outreach",
+                        "Leadership",
+                        "Mental Health Assessment",
+                        "Group Therapy",
+                        "Crisis Intervention"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their community outreach and leadership abilities. The recommender's experience in a similar field adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "717",
+            "recommendation": {
+                "resume_file": "161.json",
+                "recommendation_file": "Recommendation_From_ID_717.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Crisis Intervention",
+                        "Community Outreach",
+                        "Financial Assistance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and community support. The source of the recommendation is a peer, indicating a collaborative working relationship."
+                }
+            }
+        }
+    ]
+}

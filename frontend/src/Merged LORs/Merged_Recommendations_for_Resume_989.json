@@ -1,0 +1,49 @@
+{
+    "target_id": "989",
+    "recommendations": [
+        {
+            "recommender_id": "919",
+            "recommendation": {
+                "resume_file": "989.json",
+                "recommendation_file": "Recommendation_From_ID_919.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of a Supply Chain Manager, which is not present in the resume. However, the recommendation still aligns well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Electronics Repair",
+                        "Troubleshooting",
+                        "Teamwork and Collaboration",
+                        "Quality Control",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical proficiency, leadership skills, and ability to work effectively in a team. However, it also mentions a Supply Chain Manager, which is not present in the resume, and the relationship between the recommender and the candidate is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "449",
+            "recommendation": {
+                "resume_file": "989.json",
+                "recommendation_file": "Recommendation_From_ID_449.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and unrelated information about a storekeeper, but no obvious red flags.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Teamwork and Collaboration",
+                        "Technical Documentation",
+                        "Time Management",
+                        "Quality Control"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but includes some unrelated information. The language is formal, and there are no obvious red flags."
+                }
+            }
+        }
+    ]
+}

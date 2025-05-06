@@ -1,0 +1,26 @@
+{
+    "target_id": "744",
+    "recommendations": [
+        {
+            "recommender_id": "114",
+            "recommendation": {
+                "resume_file": "744.json",
+                "recommendation_file": "Recommendation_From_ID_114.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Information Technology Management",
+                        "Strategic Planning",
+                        "Project Management",
+                        "Computer Science"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, IT management, and strategic planning abilities. The source of the recommendation is a Senior VP of Information Technology, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

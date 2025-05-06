@@ -1,0 +1,12 @@
+{
+    "resume_file": "437.json",
+    "recommendation_file": "Recommendation_From_ID_445.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation is unrelated to the candidate's skills, experience, or roles mentioned in the resume, raising concerns about its authenticity.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's background, and its content is unrelated to the candidate's skills and experience."
+    }
+}

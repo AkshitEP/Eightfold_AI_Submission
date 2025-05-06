@@ -1,0 +1,19 @@
+{
+    "resume_file": "670.json",
+    "recommendation_file": "Recommendation_From_ID_35.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Technical Support",
+            "Hardware Installation and Repair",
+            "Troubleshooting",
+            "Maintenance and Repair",
+            "Computer Hardware",
+            "Computer Software"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support and customer service skills. The source of the recommendation is a former colleague, which adds credibility to the endorsement."
+    }
+}

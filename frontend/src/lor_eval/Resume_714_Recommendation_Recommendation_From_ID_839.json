@@ -1,0 +1,22 @@
+{
+    "resume_file": "714.json",
+    "recommendation_file": "Recommendation_From_ID_839.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Modeling",
+            "Econometric Modeling",
+            "Asset Pricing",
+            "Teaching",
+            "Research",
+            "GARCH Process",
+            "Sentiment Measures",
+            "State-Space Model",
+            "Option Pricing Models"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their research and teaching abilities. However, the source of the recommendation is unclear, as the recommender's role is not directly related to the candidate's academic or professional experience."
+    }
+}

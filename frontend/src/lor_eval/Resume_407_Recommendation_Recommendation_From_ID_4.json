@@ -1,0 +1,23 @@
+{
+    "resume_file": "407.json",
+    "recommendation_file": "Recommendation_From_ID_4.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be comparing two individuals, which is unusual. However, the description of the Aviation Executive Officer's skills and experience aligns well with the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Budgeting",
+            "Project Management",
+            "Risk Management",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Team Management",
+            "Financial Management",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the Aviation Executive Officer's leadership and strategic decision-making skills, which are consistent with the resume. However, the comparison with another individual and the lack of specific examples from the resume reduce the relevance score."
+    }
+}

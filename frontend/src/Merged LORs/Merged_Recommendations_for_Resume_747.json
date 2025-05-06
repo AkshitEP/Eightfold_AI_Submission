@@ -1,0 +1,161 @@
+{
+    "target_id": "747",
+    "recommendations": [
+        {
+            "recommender_id": "717",
+            "recommendation": {
+                "resume_file": "747.json",
+                "recommendation_file": "Recommendation_From_ID_717.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Compliance",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in managed care and healthcare advocacy. The source of the recommendation is a peer, indicating a collaborative working relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "873",
+            "recommendation": {
+                "resume_file": "747.json",
+                "recommendation_file": "Recommendation_From_ID_873.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Compliance",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare advocacy and provider coordination. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "100",
+            "recommendation": {
+                "resume_file": "747.json",
+                "recommendation_file": "Recommendation_From_ID_100.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Project Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in data analytics, provider education, and project management. However, the source of the recommendation is unclear, and the language used is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "79",
+            "recommendation": {
+                "resume_file": "747.json",
+                "recommendation_file": "Recommendation_From_ID_79.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's work history, but overall the recommendation seems credible.",
+                    "verified_skills": [
+                        "Communication",
+                        "Problem-Solving",
+                        "Data Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in relationship management, strategic communication, and data analytics, which aligns with their work experience and skills. However, the recommendation could benefit from more specific examples and details to support the claims made."
+                }
+            }
+        },
+        {
+            "recommender_id": "964",
+            "recommendation": {
+                "resume_file": "747.json",
+                "recommendation_file": "Recommendation_From_ID_964.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional organizational and communication skills, as well as their ability to manage extensive incoming communications and ensure the accuracy of critical patient paperwork. The recommendation also mentions the candidate's dedication to patient care and their ability to facilitate smooth operations within the medical environment."
+                }
+            }
+        },
+        {
+            "recommender_id": "104",
+            "recommendation": {
+                "resume_file": "747.json",
+                "recommendation_file": "Recommendation_From_ID_104.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Compliance",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, data analysis, and provider education expertise. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "89",
+            "recommendation": {
+                "resume_file": "747.json",
+                "recommendation_file": "Recommendation_From_ID_89.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Compliance",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with some of the candidate's skills and experience, but lacks specific examples and details. The recommendation also mentions some skills and experiences not explicitly mentioned in the resume, which may indicate some exaggeration or lack of clarity."
+                }
+            }
+        }
+    ]
+}

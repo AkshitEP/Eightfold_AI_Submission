@@ -1,0 +1,163 @@
+{
+    "target_id": "889",
+    "recommendations": [
+        {
+            "recommender_id": "858",
+            "recommendation": {
+                "resume_file": "889.json",
+                "recommendation_file": "Recommendation_From_ID_858.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Financial Planning",
+                        "Leadership",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, financial analysis, and leadership abilities. The source of the recommendation is a Corporate Accountant, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "259",
+            "recommendation": {
+                "resume_file": "889.json",
+                "recommendation_file": "Recommendation_From_ID_259.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Financial Planning",
+                        "Leadership",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, regulatory compliance, and interpersonal skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "255",
+            "recommendation": {
+                "resume_file": "889.json",
+                "recommendation_file": "Recommendation_From_ID_255.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Financial Planning",
+                        "Leadership",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities. The recommendation source is a peer, which adds credibility to the assessment."
+                }
+            }
+        },
+        {
+            "recommender_id": "871",
+            "recommendation": {
+                "resume_file": "889.json",
+                "recommendation_file": "Recommendation_From_ID_871.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "109",
+            "recommendation": {
+                "resume_file": "889.json",
+                "recommendation_file": "Recommendation_From_ID_109.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Reporting",
+                        "Financial Planning",
+                        "Leadership",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation is highly relevant, aligning well with the candidate's skills and experience. The Principal Accountant provides specific examples of the Senior Accountant's expertise in accounting functions, financial analysis, and regulatory compliance, and highlights their exceptional ability to manage complex financial processes and communicate effectively across various teams."
+                }
+            }
+        },
+        {
+            "recommender_id": "850",
+            "recommendation": {
+                "resume_file": "889.json",
+                "recommendation_file": "Recommendation_From_ID_850.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, expertise in commodities, and ability to collaborate with cross-functional teams."
+                }
+            }
+        },
+        {
+            "recommender_id": "909",
+            "recommendation": {
+                "resume_file": "889.json",
+                "recommendation_file": "Recommendation_From_ID_909.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Reporting",
+                        "Financial Planning",
+                        "Leadership",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities in high-stakes environments."
+                }
+            }
+        }
+    ]
+}

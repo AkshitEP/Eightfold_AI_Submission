@@ -1,0 +1,16 @@
+{
+    "resume_file": "421.json",
+    "recommendation_file": "Recommendation_From_ID_574.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "Exaggerated claims and unrealistic statements, lack of specific examples or evidence to support claims, and unclear source of recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "IT Project Management",
+            "Network Administration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks substantial detail or alignment with the key areas of expertise, and contains exaggerated claims and unrealistic statements."
+    }
+}

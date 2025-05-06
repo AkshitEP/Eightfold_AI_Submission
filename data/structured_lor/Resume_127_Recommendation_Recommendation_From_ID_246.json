@@ -1,0 +1,16 @@
+{
+    "resume_file": "127.json",
+    "recommendation_file": "Recommendation_From_ID_246.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be comparing two different accountants, but only one is mentioned in the resume. However, the skills and experiences mentioned align well with the resume.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Reporting",
+            "System Implementation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience in accounting, financial reporting, and system implementation, which aligns well with their resume. However, the comparison with another accountant seems unnecessary and may be an attempt to exaggerate the candidate's skills."
+    }
+}

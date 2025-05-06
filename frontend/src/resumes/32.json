@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Volunteer HR - iVolunteer",
+                "work_description": "Job Profiling - From key job requirements to job postings Provide support for recruitment activities. Researched job boards and resume database to search right skilled candidates. Candidate Suitability analysis for job requirements based on candidate motive and Contacting candidates and scheduled interviews.",
+                "company_level": "Non-Profit",
+                "start_date": "06/2009",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Technical Recruiter",
+                "work_description": "Effectively recruited candidates through Internet research, internal database, cold calling, referrals, networking, job fairs, and other strategies. Responsible for checking references, negotiating terms and rates for each project, coordinating the interview process, extending offers, and closing candidates.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Technical Recruiter",
+                "work_description": "Effectively recruited candidates through Internet research, internal database, cold calling, referrals, networking, job fairs, and other strategies. Responsible for checking references, negotiating terms and rates for each project, coordinating the interview process, extending offers, and closing candidates.",
+                "company_level": "Mid-level",
+                "start_date": "03/2006",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Senior Executive",
+                "work_description": "Mitra Technology Foundation is an organization working in development sector, which aims at leveraging Information and Communications Technology for this sector. The company in collaboration with different organizations runs recruitment programs to provide required skills at the right places.",
+                "company_level": "Non-Profit",
+                "start_date": "06/2002",
+                "end_date": "06/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Balaji Institute of Modern Management",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Management",
+                "level": "Post Graduate Diploma"
+            },
+            {
+                "university": "Symbiosis Law College",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Labor Laws and Labor Welfare",
+                "level": "Masters"
+            },
+            {
+                "university": "H. P. State University",
+                "start_date": "01/2000",
+                "end_date": "12/2000",
+                "domain": "Commerce",
+                "level": "Bachelor"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Has extensive experience in recruitment activities, including job profiling, candidate suitability analysis, and coordinating the interview process, showing strong proficiency."
+            },
+            {
+                "name": "Talent Acquisition",
+                "level": 4,
+                "explanation": "Effectively recruited candidates through various strategies, including Internet research, internal database, cold calling, referrals, networking, and job fairs, indicating strong proficiency."
+            },
+            {
+                "name": "Interviewing",
+                "level": 3,
+                "explanation": "Coordinated the interview process and extended offers to candidates, showing a solid working proficiency."
+            },
+            {
+                "name": "Negotiation",
+                "level": 3,
+                "explanation": "Negotiated terms and rates for each project, indicating a solid level of proficiency in negotiation."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Held a senior executive role in a non-profit organization, which suggests a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Coordinated recruitment programs, but the extent of project management experience is not clear, indicating some practical experience."
+            },
+            {
+                "name": "Labor Laws",
+                "level": 2,
+                "explanation": "Has a master's degree in Labor Laws and Labor Welfare, but the extent of practical experience is not clear, indicating some practical experience."
+            },
+            {
+                "name": "Management",
+                "level": 2,
+                "explanation": "Has a post-graduate diploma in Management, but the extent of practical experience is not clear, indicating some practical experience."
+            }
+        ]
+    }
+}

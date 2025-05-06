@@ -1,0 +1,101 @@
+{
+    "target_id": "415",
+    "recommendations": [
+        {
+            "recommender_id": "53",
+            "recommendation": {
+                "resume_file": "415.json",
+                "recommendation_file": "Recommendation_From_ID_53.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Teamwork",
+                        "Childcare",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and teamwork abilities. However, the source of the recommendation is unclear, and the recommendation does not mention all of the candidate's skills and experiences."
+                }
+            }
+        },
+        {
+            "recommender_id": "344",
+            "recommendation": {
+                "resume_file": "415.json",
+                "recommendation_file": "Recommendation_From_ID_344.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommender's role and relationship to the candidate are unclear, and the recommendation focuses on a role (Group Fitness Instructor) not mentioned in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and customer service skills, but does not provide specific examples or details from their work experience. The recommender's own experience as a Kids Club Attendant is mentioned, but the connection to the candidate's skills and qualifications is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "688",
+            "recommendation": {
+                "resume_file": "415.json",
+                "recommendation_file": "Recommendation_From_ID_688.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and experience are not directly related to the candidate's skills and experience. Some minor inconsistencies in the recommender's role and the candidate's skills.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Childcare"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's customer service skills and experience in childcare, but the recommender's background and experience are not directly related to the candidate's skills and experience. The recommendation seems genuine, but some minor inconsistencies are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "986",
+            "recommendation": {
+                "resume_file": "415.json",
+                "recommendation_file": "Recommendation_From_ID_986.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork",
+                        "Childcare"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the Kid's Club and customer service roles. The recommender's role as Fitness Director adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "956",
+            "recommendation": {
+                "resume_file": "415.json",
+                "recommendation_file": "Recommendation_From_ID_956.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of pursuing opportunities in the cannabis industry, which is not directly related to the candidate's skills or experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork",
+                        "Childcare"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and operational skills. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "target_id": "295",
+    "recommendations": [
+        {
+            "recommender_id": "35",
+            "recommendation": {
+                "resume_file": "295.json",
+                "recommendation_file": "Recommendation_From_ID_35.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Quality Control",
+                        "Manufacturing Operations",
+                        "Problem-Solving",
+                        "Team Collaboration",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and quality control abilities. The recommendation source is a peer, indicating a strong working relationship and firsthand knowledge of the candidate's skills and abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "846",
+            "recommendation": {
+                "resume_file": "295.json",
+                "recommendation_file": "Recommendation_From_ID_846.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a Child Family Advocate seems unrelated to the candidate's work experience. However, the recommendation highlights the candidate's leadership skills, commitment to quality, and ability to work with teams, which are relevant to their experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Quality Control",
+                        "Manufacturing Operations",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and quality control abilities. However, the recommender's profession seems unrelated to the candidate's work experience, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "168",
+            "recommendation": {
+                "resume_file": "295.json",
+                "recommendation_file": "Recommendation_From_ID_168.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The mention of an MBA and Accounting background is not present in the resume, which raises some concerns.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Problem-Solving",
+                        "Manufacturing Operations"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with some of the candidate's skills and experience, providing specific examples of their leadership and organizational capabilities. However, it lacks detail in some areas and mentions an MBA and Accounting background that is not present in the resume."
+                }
+            }
+        }
+    ]
+}

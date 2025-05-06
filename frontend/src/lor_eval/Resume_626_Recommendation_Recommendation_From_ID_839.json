@@ -1,0 +1,17 @@
+{
+    "resume_file": "626.json",
+    "recommendation_file": "Recommendation_From_ID_839.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, including the recommender's claim to have worked alongside the candidate as a Property Manager.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reporting",
+            "Leadership",
+            "Financial Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the candidate's skills and experience, but there are some minor inconsistencies that may indicate a minor exaggeration or inaccuracy."
+    }
+}

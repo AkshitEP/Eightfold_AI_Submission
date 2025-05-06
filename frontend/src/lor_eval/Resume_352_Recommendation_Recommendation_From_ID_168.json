@@ -1,0 +1,17 @@
+{
+    "resume_file": "352.json",
+    "recommendation_file": "Recommendation_From_ID_168.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems overly flattering and lacks specific examples from the candidate's resume. Some claims seem exaggerated or unsupported.",
+        "verified_skills": [
+            "Leadership",
+            "Information Technology",
+            "Project Management",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership experience and IT skills, but lacks concrete examples from their resume. The tone is overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

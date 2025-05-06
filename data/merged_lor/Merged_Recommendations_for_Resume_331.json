@@ -1,0 +1,179 @@
+{
+    "target_id": "331",
+    "recommendations": [
+        {
+            "recommender_id": "386",
+            "recommendation": {
+                "resume_file": "331.json",
+                "recommendation_file": "Recommendation_From_ID_386.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims in the letter, but no obvious red flags.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation letter seems genuine, but some claims seem exaggerated. The letter does not provide specific examples or details about the candidate's experience in the music and media industry."
+                }
+            }
+        },
+        {
+            "recommender_id": "144",
+            "recommendation": {
+                "resume_file": "331.json",
+                "recommendation_file": "Recommendation_From_ID_144.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a supervisor or peer. The language is formal, but the recommendation is written from the perspective of a Creative Director, which may not be directly related to the candidate's role as a Creative Assistant.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Event Planning",
+                        "Public Relations",
+                        "Time Management",
+                        "Teamwork",
+                        "Problem-Solving",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership abilities, communication skills, and project management experience. However, the source of the recommendation is not explicitly stated, which may raise some concerns about its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "118",
+            "recommendation": {
+                "resume_file": "331.json",
+                "recommendation_file": "Recommendation_From_ID_118.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Leadership",
+                        "Event Planning",
+                        "Public Relations",
+                        "Time Management",
+                        "Teamwork",
+                        "Problem-Solving",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, communication, and leadership abilities. The recommendation highlights the candidate's versatility and dedication to their work, making them a strong candidate for opportunities in the entertainment industry."
+                }
+            }
+        },
+        {
+            "recommender_id": "159",
+            "recommendation": {
+                "resume_file": "331.json",
+                "recommendation_file": "Recommendation_From_ID_159.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a visual arts teacher seems unrelated to the candidate's experience in the music industry. However, the recommendation highlights the candidate's transferable skills, such as project management, communication, and organizational capabilities.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and communication skills. However, the recommender's profession seems unrelated to the candidate's experience, which raises some concerns about the relevance of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "213",
+            "recommendation": {
+                "resume_file": "331.json",
+                "recommendation_file": "Recommendation_From_ID_213.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. The recommender's relationship to the candidate is unclear.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Leadership",
+                        "Event Planning",
+                        "Public Relations",
+                        "Time Management",
+                        "Teamwork",
+                        "Problem-Solving",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in the creative industries, but lacks specific examples and details from the candidate's resume. The recommender's relationship to the candidate is unclear, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "44",
+            "recommendation": {
+                "resume_file": "331.json",
+                "recommendation_file": "Recommendation_From_ID_44.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Time Management",
+                        "Project Management",
+                        "Event Planning",
+                        "Public Relations",
+                        "Teamwork",
+                        "Problem-Solving",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the music and entertainment sectors. The recommendation highlights the candidate's exceptional communication skills, time management, and proactive approach to challenges."
+                }
+            }
+        },
+        {
+            "recommender_id": "370",
+            "recommendation": {
+                "resume_file": "331.json",
+                "recommendation_file": "Recommendation_From_ID_370.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation appears to be fabricated, with no connection to the candidate's skills, experience, or roles.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills, experience, or roles. The language used is overly formal and does not match the tone of a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "777",
+            "recommendation": {
+                "resume_file": "331.json",
+                "recommendation_file": "Recommendation_From_ID_777.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Communication",
+                        "Multitasking",
+                        "Organization",
+                        "Creativity",
+                        "Technological finesse"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, highlighting the candidate's skills and experiences in the media production industry. However, the recommendation does not explicitly mention some of the candidate's other skills and experiences."
+                }
+            }
+        }
+    ]
+}

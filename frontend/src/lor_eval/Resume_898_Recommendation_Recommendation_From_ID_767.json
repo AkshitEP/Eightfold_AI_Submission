@@ -1,0 +1,17 @@
+{
+    "resume_id": 898,
+    "recommendation_file": "Recommendation_From_ID_767.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Database Administration",
+            "Database Security",
+            "Oracle Database Administration",
+            "SQL and PL/SQL"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their database and security management skills."
+    }
+}

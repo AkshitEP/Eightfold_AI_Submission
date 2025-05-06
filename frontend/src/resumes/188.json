@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Assistant",
+                "work_description": "Prepare financial statements, maintain accurate records in a database, generate reports and present data. Enter revenue and expense transactions and prepare expense reports. Prepare and file financial statements such as balance sheets and income statements. Complete purchase orders and customer invoices. Calculate sales taxes and make bank deposits.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Catering Specialist",
+                "work_description": "Duties included: sandwich making, order organization, order preparation and order delivery. Maintained food handler certification.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "06/2012"
+            },
+            {
+                "role_name": "Technician",
+                "work_description": "Managed a 350-client route. Responsibilities included analyzing lawn, developing treatment programs to address each lawn's specific problems, monitoring lawn status, evaluating its progress during every visit and adjusting custom treatment program.",
+                "company_level": "Mid-level",
+                "start_date": "05/2012",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Customer Service Representative/Driver/Food Line",
+                "work_description": "Entered customer orders, prepared pizza dough and toppings, made pizzas and delivered customer orders safely within company time requirements.",
+                "company_level": "Mid-level",
+                "start_date": "02/2009",
+                "end_date": "11/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Texas A&M University Corpus Christi",
+                "start_date": "01/2014",
+                "end_date": "08/2014",
+                "domain": "History",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Lone Star Community College",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "",
+                "level": "Diploma"
+            },
+            {
+                "university": "Jersey Village High School",
+                "start_date": "",
+                "end_date": "",
+                "domain": "",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Statement Preparation",
+                "level": 3,
+                "explanation": "Prepared financial statements such as balance sheets and income statements, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Entered revenue and expense transactions, customer orders, and maintained accurate records in a database, indicating a solid working proficiency."
+            },
+            {
+                "name": "Report Generation and Presentation",
+                "level": 2,
+                "explanation": "Generated reports and presented data, showing some practical experience."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Handled customer orders, prepared pizzas, and delivered customer orders safely, indicating a solid working proficiency in customer service."
+            },
+            {
+                "name": "Time Management",
+                "level": 2,
+                "explanation": "Delivered customer orders within company time requirements, showing some practical experience in time management."
+            },
+            {
+                "name": "Analytical Skills",
+                "level": 2,
+                "explanation": "Analyzed lawn conditions, developed treatment programs, and monitored lawn status, showing some practical experience in analytical skills."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 2,
+                "explanation": "Adjusted custom treatment programs based on lawn progress, indicating some practical experience in problem-solving."
+            },
+            {
+                "name": "Food Preparation",
+                "level": 2,
+                "explanation": "Prepared pizzas, made sandwiches, and handled food preparation tasks, showing some practical experience."
+            },
+            {
+                "name": "Food Safety",
+                "level": 1,
+                "explanation": "Maintained food handler certification, indicating basic familiarity with food safety."
+            }
+        ]
+    }
+}

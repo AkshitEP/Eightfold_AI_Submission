@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Advanced Level Wheeled Vehicle Mechanic",
+                "work_description": "Successfully provided training and schedules, supervised, and guided my team through all aspects of recovery operations, in-process inspection/troubleshooting procedures, repairs and overhaul of all assigned wheeled vehicle mechanical and electrical components and systems.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2008",
+                "end_date": "06/2012"
+            },
+            {
+                "role_name": "Organizational Apprentice Maintenance Technician",
+                "work_description": "Maintained and serviced aircraft engine, fuel, and lubrication systems. Handled and serviced aircraft ashore, or aboard a ship.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2000",
+                "end_date": "11/1994"
+            },
+            {
+                "role_name": "Aviation Mechanic",
+                "work_description": "Maintained all 60 FA-18 Super Hornets up to U.S. Navy paint scheme and corrosion protection standards, without incident.",
+                "company_level": "Large Corporation",
+                "start_date": "11/1994",
+                "end_date": "05/2002"
+            }
+        ],
+        "education": [
+            {
+                "university": "Colorado Technical University",
+                "start_date": "2016",
+                "end_date": "Present",
+                "domain": "Information System Security",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Centriq Training",
+                "start_date": "2012",
+                "end_date": "2012",
+                "domain": "Network Administrator",
+                "level": "Certificate"
+            },
+            {
+                "university": "Columbia Southern University",
+                "start_date": "2011",
+                "end_date": "Present",
+                "domain": "Information Security",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Successfully supervised and guided a team through recovery operations, repairs, and overhaul of wheeled vehicle components, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Mechanical Maintenance",
+                "level": 5,
+                "explanation": "Extensive experience in maintaining and servicing aircraft engine, fuel, and lubrication systems, as well as wheeled vehicle mechanical and electrical components, indicating expert-level mastery."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Handled in-process inspection and troubleshooting procedures for wheeled vehicle components, suggesting strong proficiency in troubleshooting."
+            },
+            {
+                "name": "Electrical Systems",
+                "level": 4,
+                "explanation": "Maintained and serviced electrical components of wheeled vehicles and aircraft, indicating strong proficiency in electrical systems."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Coordinated and guided team through recovery operations and repairs, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Information System Security",
+                "level": 2,
+                "explanation": "Currently pursuing a Bachelor's degree in Information System Security, suggesting some familiarity with the subject."
+            },
+            {
+                "name": "Network Administration",
+                "level": 2,
+                "explanation": "Completed a certificate course in Network Administrator, indicating some practical experience in network administration."
+            }
+        ]
+    }
+}

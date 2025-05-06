@@ -1,0 +1,17 @@
+{
+    "resume_file": "361.json",
+    "recommendation_file": "Recommendation_From_ID_813.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the writer claims to have worked alongside the candidate for 16 years as an Aircraft Mechanic, which is not mentioned in the resume. This inconsistency raises some concerns.",
+        "verified_skills": [
+            "Leadership",
+            "Safety Management",
+            "Communication",
+            "Team Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional leadership and management abilities, which aligns with their experience as a Superintendent II and Aviation Ordnanceman. However, the writer's claim of working alongside the candidate for 16 years as an Aircraft Mechanic is not supported by the resume."
+    }
+}

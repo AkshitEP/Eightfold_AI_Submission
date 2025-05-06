@@ -1,0 +1,117 @@
+{
+    "target_id": "370",
+    "recommendations": [
+        {
+            "recommender_id": "995",
+            "recommendation": {
+                "resume_file": "370.json",
+                "recommendation_file": "Recommendation_From_ID_995.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "Project Management",
+                        "Financial Management",
+                        "Program Development",
+                        "Teaching"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, strategic planning, and project management abilities. The source of the recommendation is a peer, specifically a Culinary Arts Instructor, who has collaborated with the candidate on projects."
+                }
+            }
+        },
+        {
+            "recommender_id": "432",
+            "recommendation": {
+                "resume_file": "370.json",
+                "recommendation_file": "Recommendation_From_ID_432.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "Financial Management",
+                        "Project Management",
+                        "Grant Writing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, strategic planning, and financial management abilities. However, the recommendation does not explicitly mention the candidate's teaching, customer service, marketing, human resources, or inventory control skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "284",
+            "recommendation": {
+                "resume_file": "370.json",
+                "recommendation_file": "Recommendation_From_ID_284.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Financial Management",
+                        "Grant Writing",
+                        "Program Development",
+                        "Teaching",
+                        "Customer Service",
+                        "Marketing",
+                        "Human Resources"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and community outreach efforts. However, the source of the recommendation is unclear, which might raise some questions about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "477",
+            "recommendation": {
+                "resume_file": "370.json",
+                "recommendation_file": "Recommendation_From_ID_477.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. The language is formal, but the recommender's experience and qualifications are not directly related to the candidate's field.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "Budgeting",
+                        "Financial Management",
+                        "Project Management",
+                        "Grant Writing",
+                        "Program Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership, strategic planning, and financial management skills, which are relevant to their experience as an Executive Director. However, the recommender's role and relationship to the candidate are unclear, and their experience is in a different field."
+                }
+            }
+        },
+        {
+            "recommender_id": "781",
+            "recommendation": {
+                "resume_file": "370.json",
+                "recommendation_file": "Recommendation_From_ID_781.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source's relationship to the candidate is unclear and lacks specific examples from the candidate's resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "Project Management",
+                        "Grant Writing",
+                        "Program Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional leadership abilities, commitment to community engagement, and vision for creating sustainable strategies. However, the source's relationship to the candidate is unclear, and the recommendation lacks specific examples from the candidate's resume."
+                }
+            }
+        }
+    ]
+}

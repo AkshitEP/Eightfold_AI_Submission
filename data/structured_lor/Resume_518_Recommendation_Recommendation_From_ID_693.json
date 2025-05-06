@@ -1,0 +1,20 @@
+{
+    "resume_file": "518.json",
+    "recommendation_file": "Recommendation_From_ID_693.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Time Management",
+            "Communication",
+            "Problem-Solving",
+            "Scheduling",
+            "Teamwork",
+            "Healthcare Administration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their ability to work in dynamic environments, manage surgical schedules, and interact courteously with colleagues and clients. However, the recommendation does not specifically mention the candidate's experience in mental health counseling or patient care."
+    }
+}

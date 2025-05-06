@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Coordinator",
+                "work_description": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, union dues as well as resolving insurance issues and deductions for 30+ employees using the Paychex system. Maintained and entered time-keeping data for collected bi-weekly timesheets into Paychex Time and Labor system with particular focus on processing exempt & non-exempt hours, personal, vacation & sick leave. Applied knowledge of applicable laws as related to the payroll process, including garnishment regulations, and state tax regulations. Reviewed payroll reports for accuracy prior to distribution of pay checks. Maintained an accounts payable turnover rate of 30 days or less. General ledger posting. Prepared bank reconciliation. State and City Funding Monthly Expense Reports.",
+                "company_level": "Mid-level",
+                "start_date": "06/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, as well as resolving insurance issues and deductions for 175 employees using the ADP TotalSource and ADP PC. Maintain and enter time-keeping data for collected bi-weekly timesheets into ADP EZ Labor Management system with particular focus on processing exempt & non-exempt hours, personal, vacation & sick leave. Apply knowledge of applicable laws as related to the payroll process, including garnishment regulations, and state tax regulations. Review payroll reports for accuracy prior to distribution of pay checks.",
+                "company_level": "Mid-level",
+                "start_date": "09/2007",
+                "end_date": "03/2010"
+            },
+            {
+                "role_name": "Senior Accountant",
+                "work_description": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, union dues as well as resolving insurance issues and deductions for 550+ employees using the ADP system. Maintained and entered time-keeping data for collected bi-weekly timesheets into ADP system with particular focus on processing exempt & non-exempt hours, personal, vacation & sick leave. Applied knowledge of applicable laws as related to the payroll process, including garnishment regulations, and state tax regulations. Reviewed payroll reports for accuracy prior to distribution of pay checks. Interacted with employees and management on payroll related projects and inquiries including reporting of employee leave of absence, unemployment, fund allocations, payroll account reconciliation, disability and worker's compensation on a monthly and quarterly basis.",
+                "company_level": "Large Corporation",
+                "start_date": "04/1994",
+                "end_date": "10/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "HS for Humanities",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "General Education",
+                "level": "GED"
+            },
+            {
+                "university": "Lehman College",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Accounting",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Payroll Management",
+                "level": 5,
+                "explanation": "Has extensive experience handling payroll for a large number of employees across multiple companies, including preparation, processing, and reconciliation, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Accounting",
+                "level": 5,
+                "explanation": "Has over 20 years of experience in payroll accounting, including preparation of bi-weekly payroll, maintenance of time-keeping data, and application of applicable laws, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 4,
+                "explanation": "Has experience with general ledger posting, bank reconciliation, and accounts payable, suggesting strong proficiency in general accounting."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Has experience reviewing payroll reports for accuracy and preparing state and city funding monthly expense reports, suggesting strong proficiency in financial reporting."
+            },
+            {
+                "name": "Time and Labor Management",
+                "level": 4,
+                "explanation": "Has experience maintaining and entering time-keeping data for collected bi-weekly timesheets, suggesting strong proficiency in time and labor management."
+            },
+            {
+                "name": "ADP Systems",
+                "level": 4,
+                "explanation": "Has extensive experience using ADP systems, including ADP TotalSource, ADP PC, and ADP EZ Labor Management, suggesting strong proficiency."
+            },
+            {
+                "name": "Paychex Systems",
+                "level": 3,
+                "explanation": "Has experience using Paychex systems, including Paychex Time and Labor, suggesting solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience interacting with employees and management on payroll-related projects and inquiries, but lacks extensive leadership experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "315.json",
+    "recommendation_file": "Recommendation_From_ID_479.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's role and relationship to the candidate are unclear, which raises some concerns about the validity of the recommendation.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reconciliation",
+            "General Accounting",
+            "Budgeting",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but lacks specific examples or metrics to support the recommender's claims."
+    }
+}

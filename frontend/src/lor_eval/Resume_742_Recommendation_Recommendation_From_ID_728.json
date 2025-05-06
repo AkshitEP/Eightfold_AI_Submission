@@ -1,0 +1,17 @@
+{
+    "resume_file": "742.json",
+    "recommendation_file": "Recommendation_From_ID_728.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source's relationship to the candidate is unclear and the source's profession (Information Assurance Professional) seems unrelated to the candidate's field.",
+        "verified_skills": [
+            "Child Development",
+            "Behavioral Therapy",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their therapeutic work and relationships with families. However, the source's profession and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

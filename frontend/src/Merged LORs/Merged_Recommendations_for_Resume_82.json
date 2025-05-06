@@ -1,0 +1,151 @@
+{
+    "target_id": "82",
+    "recommendations": [
+        {
+            "recommender_id": "206",
+            "recommendation": {
+                "resume_file": "82.json",
+                "recommendation_file": "Recommendation_From_ID_206.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Database Management",
+                        "Network Administration",
+                        "Leadership",
+                        "Customer Relationship Management",
+                        "Disaster Recovery",
+                        "Microsoft Windows",
+                        "SQL",
+                        "Network Security"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, technical expertise, and leadership abilities. The recommendation source is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "798",
+            "recommendation": {
+                "resume_id": 82,
+                "recommendation_file": "Recommendation_From_ID_798.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Database Management",
+                        "Network Administration",
+                        "Leadership",
+                        "Customer Relationship Management",
+                        "Disaster Recovery",
+                        "Microsoft Windows",
+                        "SQL",
+                        "Network Security"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns perfectly with the candidate's skills and experience, providing specific examples of their technical proficiency and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "18",
+            "recommendation": {
+                "resume_id": 82,
+                "recommendation_file": "Recommendation_From_ID_18.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Database Management",
+                        "Network Administration",
+                        "Leadership",
+                        "Customer Relationship Management",
+                        "Disaster Recovery",
+                        "Microsoft Windows",
+                        "SQL",
+                        "Network Security"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, problem-solving skills, and ability to communicate effectively with both technical and non-technical staff."
+                }
+            }
+        },
+        {
+            "recommender_id": "347",
+            "recommendation": {
+                "resume_id": 82,
+                "recommendation_file": "Recommendation_From_ID_347.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Database Management",
+                        "Network Administration",
+                        "Leadership",
+                        "Customer Relationship Management",
+                        "Disaster Recovery",
+                        "Microsoft Windows",
+                        "SQL",
+                        "Network Security"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership, and problem-solving skills. The recommendation source is a Business Analyst who worked closely with the candidate, providing a credible endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "117",
+            "recommendation": {
+                "resume_id": 82,
+                "recommendation_file": "Recommendation_From_ID_117.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Database Management",
+                        "Leadership",
+                        "Network Administration",
+                        "SQL"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership skills, and commitment to continual improvement."
+                }
+            }
+        },
+        {
+            "recommender_id": "875",
+            "recommendation": {
+                "resume_id": 82,
+                "recommendation_file": "Recommendation_From_ID_875.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be comparing two different individuals, with the first part discussing an Assistant Football Coach and the second part discussing the Information Technology Coordinator. This inconsistency raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Database Management",
+                        "Network Administration",
+                        "Leadership",
+                        "Customer Relationship Management",
+                        "Disaster Recovery",
+                        "Microsoft Windows",
+                        "SQL",
+                        "Network Security"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be a mix of two different individuals, which makes it difficult to assess its relevance and authenticity. However, the second part of the recommendation does align with the skills and experience of the Information Technology Coordinator, but the comparison with the Assistant Football Coach is unclear and raises concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

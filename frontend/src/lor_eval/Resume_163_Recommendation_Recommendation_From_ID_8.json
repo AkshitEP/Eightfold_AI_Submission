@@ -1,0 +1,16 @@
+{
+    "resume_file": "163.json",
+    "recommendation_file": "Recommendation_From_ID_8.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks direct connection to the candidate's specific job roles and skills. The recommender's background in higher education seems unrelated to the candidate's experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Time Management",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's customer service, time management, and teamwork skills, but does not directly reference their experience as a Certified Custom Framer or Sales Associate. The recommender's background in higher education seems unrelated to the candidate's experience, which may indicate a lack of direct knowledge about the candidate's work."
+    }
+}

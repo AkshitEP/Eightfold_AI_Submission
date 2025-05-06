@@ -1,0 +1,20 @@
+{
+    "resume_id": 46,
+    "recommendation_file": "Recommendation_From_ID_497.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reporting",
+            "Account Reconciliation",
+            "Customer Service",
+            "Time Management",
+            "Data Entry",
+            "Banking Systems"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting abilities and customer service skills."
+    }
+}

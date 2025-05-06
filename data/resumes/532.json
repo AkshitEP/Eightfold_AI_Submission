@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "General HR Assistant/Office Assistant",
+                "work_description": "Greet and screen patients, visitors, and staff, via telephone or in person, for the Medical Department and its related Programs, and answer inquires. Provide quality service that meets the needs of patients and clients as well as other customers - payers, families, referrers, and staff.",
+                "company_level": "Mid-level",
+                "start_date": "08/2010",
+                "end_date": "02/2016"
+            },
+            {
+                "role_name": "Customer Service Specialist/Call Center",
+                "work_description": "Gather and assembles fiscal data and prepares various reports. Monitor the expenditure of funds. Resolve operational issues which arises at the center. Receive and responds to questions and complaints from the public.",
+                "company_level": "Mid-level",
+                "start_date": "11/2009",
+                "end_date": "04/2010"
+            },
+            {
+                "role_name": "Human Resources Assistant",
+                "work_description": "Maintain organized job files for all positions with position documentation, applicant data, and interview notes. Put together new hire packets and new employee folders for HR department.",
+                "company_level": "Mid-level",
+                "start_date": "12/2005",
+                "end_date": "12/2008"
+            },
+            {
+                "role_name": "Assistant Manager",
+                "work_description": "Assisted end-users with a variety of tax preparation related issues. Supervise and train staff, develops and oversee the completion of work, monitors the expenditure of funds.",
+                "company_level": "Mid-level",
+                "start_date": "12/2002",
+                "end_date": "04/2005"
+            },
+            {
+                "role_name": "Senior Customer Service Representative",
+                "work_description": "Updating customer's information; inputting recent financial data. Provide training and support to employees on banking procedures and terminology.",
+                "company_level": "Mid-level",
+                "start_date": "08/1999",
+                "end_date": "12/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "STRAYER UNIVERSITY",
+                "start_date": "01/2000",
+                "end_date": "12/2002",
+                "domain": "Business Administration/Human Resources",
+                "level": "Associates Degree"
+            },
+            {
+                "university": "PRINCE GEORGE'S COMMUNITY COLLEGE",
+                "start_date": "01/2000",
+                "end_date": "12/2002",
+                "domain": "Human Resource Management",
+                "level": "Certificate Program"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience in customer-facing roles, providing quality service to patients, clients, and staff, indicating expert-level mastery."
+            },
+            {
+                "name": "Human Resources",
+                "level": 4,
+                "explanation": "Has experience in HR-related tasks such as maintaining job files, creating new hire packets, and providing training and support to employees, showing strong proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Has experience with data entry tasks such as updating customer information and inputting financial data, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience in supervisory roles, training staff, and overseeing the completion of work, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in managing multiple tasks and responsibilities, such as resolving operational issues and monitoring expenditure of funds, showing a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in communicating with patients, clients, and staff, providing quality service and resolving issues, indicating strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Has experience in providing training and support to employees, showing a solid working proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 2,
+                "explanation": "Has some experience with financial data and expenditure of funds, but lacks extensive experience in financial management."
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "899.json",
+    "recommendation_file": "Recommendation_From_ID_518.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but there are some minor inconsistencies. The recommender mentions the candidate's experience in client advocacy and crisis resolution, but this is not explicitly mentioned in the resume. However, the recommender's own experience in a similar role provides some credibility to the recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Training and Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional skills and experience, particularly in client advocacy and crisis resolution. However, there are some minor inconsistencies and a lack of concrete examples from the candidate's resume. The recommender's own experience in a similar role provides some credibility to the recommendation."
+    }
+}

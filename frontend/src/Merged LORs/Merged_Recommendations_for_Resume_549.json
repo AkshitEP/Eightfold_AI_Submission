@@ -1,0 +1,85 @@
+{
+    "target_id": "549",
+    "recommendations": [
+        {
+            "recommender_id": "883",
+            "recommendation": {
+                "resume_file": "549.json",
+                "recommendation_file": "Recommendation_From_ID_883.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Nursing",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care abilities and highlighting their academic achievements."
+                }
+            }
+        },
+        {
+            "recommender_id": "969",
+            "recommendation": {
+                "resume_file": "549.json",
+                "recommendation_file": "Recommendation_From_ID_969.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession (paralegal) is unrelated to the candidate's field (nursing), which raises some concerns about the recommender's ability to assess the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Medical Documentation",
+                        "Nursing",
+                        "Basic Life Support (BLS)"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strong work ethic, attention to detail, and commitment to excellence, which are valuable qualities in a healthcare professional. However, the recommender's lack of direct experience in the healthcare field may limit their ability to provide a comprehensive assessment of the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "595",
+            "recommendation": {
+                "resume_file": "549.json",
+                "recommendation_file": "Recommendation_From_ID_595.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Nursing",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in patient care and nursing. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "825",
+            "recommendation": {
+                "resume_file": "549.json",
+                "recommendation_file": "Recommendation_From_ID_825.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Communication",
+                        "Teamwork",
+                        "Nursing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and communication skills. The recommender's endorsement of the candidate's work ethic and academic achievements adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

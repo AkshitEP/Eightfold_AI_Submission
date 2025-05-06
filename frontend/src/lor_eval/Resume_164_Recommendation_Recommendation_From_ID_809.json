@@ -1,0 +1,17 @@
+{
+    "resume_file": "164.json",
+    "recommendation_file": "Recommendation_From_ID_809.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation highlights the candidate's exceptional marketing knowledge, but the example provided is unrelated to banking. Additionally, the claim of a 300% increase in solar energy usage seems statistically improbable.",
+        "verified_skills": [
+            "Leadership",
+            "Marketing",
+            "Project Management",
+            "Operations Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in retail banking, but some claims seem exaggerated or unrelated to the candidate's primary role. The recommendation highlights the candidate's exceptional leadership skills and creative approach to marketing, but the example provided is not directly relevant to banking."
+    }
+}

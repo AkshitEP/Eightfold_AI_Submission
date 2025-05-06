@@ -1,0 +1,18 @@
+{
+    "resume_file": "329.json",
+    "recommendation_file": "Recommendation_From_ID_513.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The writer claims to be an independent consultant and customer service representative, but their connection to the candidate is not specified.",
+        "verified_skills": [
+            "Teaching",
+            "Curriculum Development",
+            "Visual Arts",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's teaching experience, curriculum design skills, and ability to engage students. However, the writer's connection to the candidate is unclear, and the language is somewhat informal. The recommendation also mentions the candidate's ability to work with students with disabilities, which is not explicitly mentioned in the resume."
+    }
+}

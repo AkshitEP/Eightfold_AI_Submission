@@ -1,0 +1,18 @@
+{
+    "resume_id": 92,
+    "recommendation_file": "Recommendation_From_ID_505.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in experience and awards mentioned.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Accounts Payable",
+            "Leadership",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and leadership abilities."
+    }
+}

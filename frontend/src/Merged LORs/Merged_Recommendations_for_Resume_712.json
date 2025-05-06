@@ -1,0 +1,91 @@
+{
+    "target_id": "712",
+    "recommendations": [
+        {
+            "recommender_id": "443",
+            "recommendation": {
+                "resume_file": "712.json",
+                "recommendation_file": "Recommendation_From_ID_443.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Portfolio Management",
+                        "Client Relationship Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, financial analysis, and client relationship management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "12",
+            "recommendation": {
+                "resume_file": "712.json",
+                "recommendation_file": "Recommendation_From_ID_12.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Client Relationship Management",
+                        "Financial Analysis",
+                        "Portfolio Management",
+                        "Communication",
+                        "Risk Assessment"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, client services, and financial analysis skills. The source of the recommendation is a Partner Account Manager, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "860",
+            "recommendation": {
+                "resume_file": "712.json",
+                "recommendation_file": "Recommendation_From_ID_860.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Risk Assessment",
+                        "Financial Analysis",
+                        "Client Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, leadership, and client relationship management abilities. The recommendation also highlights the candidate's financial acumen and entrepreneurial spirit."
+                }
+            }
+        },
+        {
+            "recommender_id": "535",
+            "recommendation": {
+                "resume_file": "712.json",
+                "recommendation_file": "Recommendation_From_ID_535.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Client Relationship Management",
+                        "Leadership",
+                        "Communication",
+                        "Financial Analysis",
+                        "Portfolio Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their client-centric skills, leadership, and financial expertise. However, the recommendation does not explicitly mention the candidate's experience in project management, risk assessment, or Bloomberg, which are also listed in their skills."
+                }
+            }
+        }
+    ]
+}

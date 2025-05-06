@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Manage all finances through Quick Books, Budget planning, reconciliation of all accounts, accounts receivables and payables.",
+                "company_level": "Mid-level",
+                "start_date": "06/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "National Sales Director and National Rehab Supervisor",
+                "work_description": "Supervised and coordinate evictions with eviction attorneys to faciltated cash for keys negotiations and/or sheriff lock outs and supervise and coordinated Rehab of investment properties nationally by gathering, reviewing all bids for work orders and construction bids.",
+                "company_level": "Mid-level",
+                "start_date": "09/2013",
+                "end_date": "07/2015"
+            },
+            {
+                "role_name": "Executive Vice President",
+                "work_description": "Oversaw daily office operations for staff of 3 employees. Prepared and distributed payroll for staff of 3 direct reports. Composed and drafted all outgoing correspondence and reports for directors Maintained website and weekly newsletter.",
+                "company_level": "Mid-level",
+                "start_date": "09/2000",
+                "end_date": "07/2013"
+            },
+            {
+                "role_name": "Human Resourses Executive Assistant",
+                "work_description": "Led a comprehensive safety training for 23 staff members. Educated and advised employees on group health plans, voluntary benefits and 401(k) retirement plans.",
+                "company_level": "Mid-level",
+                "start_date": "04/1999",
+                "end_date": "09/2000"
+            },
+            {
+                "role_name": "Admissions Office Executive Assistant",
+                "work_description": "Managed and facilitated new student orientation. Maintained transcripts for all students and teachers certification records Assisted financial aide department Assisted the career counseling department Tracked department expenses and supplies Orchestrated all aspects of graduation ceremonies.",
+                "company_level": "Mid-level",
+                "start_date": "05/1998",
+                "end_date": "04/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "Lakewood Sr. High School",
+                "start_date": "01/1979",
+                "end_date": "12/1979",
+                "domain": "General",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Over 20 years of experience in managing finances, including budget planning, account reconciliation, and payroll management, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Extensive experience with financial management software (QuickBooks) and managing accounts receivables and payables, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held multiple leadership roles, including Executive Vice President and National Sales Director, with experience in supervising staff and overseeing daily office operations, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Prepared and distributed payroll for staff, suggesting strong proficiency in payroll management."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Coordinated evictions, rehab of investment properties, and managed new student orientation, showing strong proficiency in project management."
+            },
+            {
+                "name": "Human Resources",
+                "level": 3,
+                "explanation": "Experience in educating and advising employees on benefits and retirement plans, and leading safety training, indicating solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Composed and drafted outgoing correspondence and reports, and maintained a website and weekly newsletter, showing solid working proficiency in communication."
+            }
+        ]
+    }
+}

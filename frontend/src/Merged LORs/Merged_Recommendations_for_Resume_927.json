@@ -1,0 +1,127 @@
+{
+    "target_id": "927",
+    "recommendations": [
+        {
+            "recommender_id": "840",
+            "recommendation": {
+                "resume_file": "927.json",
+                "recommendation_file": "Recommendation_From_ID_840.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's title and field of expertise not being explicitly stated. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in leadership, customer service, and communication, which are well-supported by their work experience and skills listed on the resume. However, the recommender's title and field of expertise are not explicitly stated, which may raise some minor concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "178",
+            "recommendation": {
+                "resume_id": 927,
+                "recommendation_file": "Recommendation_From_ID_178.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Team Management",
+                        "Compliance",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service expertise, leadership abilities, and analytical mindset."
+                }
+            }
+        },
+        {
+            "recommender_id": "554",
+            "recommendation": {
+                "resume_id": 927,
+                "recommendation_file": "Recommendation_From_ID_554.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of a 98% increase in client engagement seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and communication abilities. However, some claims seem exaggerated and require further verification."
+                }
+            }
+        },
+        {
+            "recommender_id": "5",
+            "recommendation": {
+                "resume_id": 927,
+                "recommendation_file": "Recommendation_From_ID_5.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and customer service abilities. The recommendation highlights the candidate's exceptional leadership and customer service skills, which are consistent with their job history and skills listed on the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "77",
+            "recommendation": {
+                "resume_file": "927.json",
+                "recommendation_file": "Recommendation_From_ID_77.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and compliance expertise. The recommender's role as a Client Advocate and Escalation Specialist adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "94",
+            "recommendation": {
+                "resume_file": "927.json",
+                "recommendation_file": "Recommendation_From_ID_94.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The language used is overly flattering and lacks specific examples or evidence from the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The recommendation focuses on the candidate's skills and experience as a Nurse Practitioner, which is not mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

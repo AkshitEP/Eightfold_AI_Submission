@@ -1,0 +1,12 @@
+{
+    "resume_file": "294.json",
+    "recommendation_file": "Recommendation_From_ID_595.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation makes claims that are not supported by the resume, and the language used is overly positive.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is barely relevant to the resume, and the claims made are not supported by the resume. The language used is overly positive, which raises concerns about the authenticity of the recommendation."
+    }
+}

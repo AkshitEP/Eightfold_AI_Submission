@@ -1,0 +1,16 @@
+{
+    "resume_file": "27.json",
+    "recommendation_file": "Recommendation_From_ID_138.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems partially genuine, but there are some inconsistencies and exaggerated claims. The initial part of the recommendation discussing the skills of a data analyst seems unrelated to the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Program Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The source of the recommendation is unknown, and there are some inconsistencies and exaggerated claims."
+    }
+}

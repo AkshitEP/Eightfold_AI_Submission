@@ -1,0 +1,24 @@
+{
+    "resume_file": "695.json",
+    "recommendation_file": "Recommendation_From_ID_967.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Healthcare",
+            "Regulatory Compliance",
+            "Project Management",
+            "Quality Systems",
+            "Life Sciences",
+            "Pharmaceuticals",
+            "Remote Care Services",
+            "Good Manufacturing Practices",
+            "Good Clinical Practices",
+            "Good Laboratory Practices",
+            "Validation"
+        ],
+        "recommendation_source": "Peer/Colleague",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare and regulatory compliance."
+    }
+}

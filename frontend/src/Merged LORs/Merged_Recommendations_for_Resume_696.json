@@ -1,0 +1,89 @@
+{
+    "target_id": "696",
+    "recommendations": [
+        {
+            "recommender_id": "958",
+            "recommendation": {
+                "resume_file": "696.json",
+                "recommendation_file": "Recommendation_From_ID_958.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales and Marketing",
+                        "Customer Service",
+                        "Team Management",
+                        "Fitness and Wellness"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, program design, and community engagement. The source of the recommendation appears to be a peer, as they mention witnessing the candidate's exceptional talents as a colleague."
+                }
+            }
+        },
+        {
+            "recommender_id": "108",
+            "recommendation": {
+                "resume_file": "696.json",
+                "recommendation_file": "Recommendation_From_ID_108.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales and Marketing",
+                        "Customer Service",
+                        "Team Management",
+                        "Fitness and Wellness"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, program development, and customer service skills. The source of the recommendation is a peer, a veteran Air Force Intelligence Officer turned fitness trainer, who has witnessed the candidate's dedication and zeal in the fitness community."
+                }
+            }
+        },
+        {
+            "recommender_id": "334",
+            "recommendation": {
+                "resume_file": "696.json",
+                "recommendation_file": "Recommendation_From_ID_334.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales and Marketing",
+                        "Customer Service",
+                        "Team Management",
+                        "Fitness and Wellness"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in the fitness industry and their ability to craft personalized fitness programs. The source of the recommendation is a peer, who has worked with the candidate and can attest to their skills and work ethic."
+                }
+            }
+        },
+        {
+            "recommender_id": "799",
+            "recommendation": {
+                "resume_file": "696.json",
+                "recommendation_file": "Recommendation_From_ID_799.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales and Marketing",
+                        "Customer Service",
+                        "Team Management",
+                        "Fitness and Wellness"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, creativity, and interpersonal skills in the fitness industry."
+                }
+            }
+        }
+    ]
+}

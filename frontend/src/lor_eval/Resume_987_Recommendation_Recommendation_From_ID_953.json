@@ -1,0 +1,12 @@
+{
+    "resume_id": 987,
+    "recommendation_file": "Recommendation_From_ID_953.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The recommendation does not address the candidate's experience and skills mentioned in the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's resume and seems to be exaggerated. It is recommended to verify the candidate's skills and experience through other means."
+    }
+}

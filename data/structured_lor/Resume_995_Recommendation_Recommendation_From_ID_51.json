@@ -1,0 +1,12 @@
+{
+    "resume_file": "995.json",
+    "recommendation_file": "Recommendation_From_ID_51.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerations, and lacks specific examples or evidence from the resume. The language used is also overly positive and informal.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's skills and experience, and contains signs of exaggeration or misrepresentation."
+    }
+}

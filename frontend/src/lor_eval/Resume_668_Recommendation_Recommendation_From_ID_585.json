@@ -1,0 +1,18 @@
+{
+    "resume_file": "668.json",
+    "recommendation_file": "Recommendation_From_ID_585.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and supportive of the candidate's skills and experience.",
+        "verified_skills": [
+            "Fitness Instruction",
+            "Customer Service",
+            "Event Planning",
+            "Business Operations",
+            "Entrepreneurship"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in fitness instruction, entrepreneurship, and business operations. The source of the recommendation appears to be a peer or colleague in the fitness industry, providing a credible endorsement of the candidate's abilities."
+    }
+}

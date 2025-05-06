@@ -1,0 +1,89 @@
+{
+    "target_id": "57",
+    "recommendations": [
+        {
+            "recommender_id": "795",
+            "recommendation": {
+                "resume_id": 57,
+                "recommendation_file": "Recommendation_From_ID_795.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales",
+                        "Training and Development",
+                        "Digital Media",
+                        "Fitness Instruction"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, sales, and team development abilities. The source of the recommendation appears to be a General Manager, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "461",
+            "recommendation": {
+                "resume_id": 57,
+                "recommendation_file": "Recommendation_From_ID_461.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Training and Development",
+                        "Sales",
+                        "Customer Service",
+                        "Fitness Instruction"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and sales abilities. However, the source of the recommendation is unclear, and the recommendation does not explicitly mention the candidate's experience in digital media, quality assurance, or problem-solving."
+                }
+            }
+        },
+        {
+            "recommender_id": "837",
+            "recommendation": {
+                "resume_id": 57,
+                "recommendation_file": "Recommendation_From_ID_837.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Training and Development",
+                        "Customer Service",
+                        "Communication",
+                        "Fitness Instruction"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and customer service abilities. However, the source of the recommendation is unclear, which may impact its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "406",
+            "recommendation": {
+                "resume_id": 57,
+                "recommendation_file": "Recommendation_From_ID_406.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Training and Development",
+                        "Customer Service",
+                        "Digital Media",
+                        "Fitness Instruction"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and customer service abilities. The source of the recommendation is a peer, indicating a strong working relationship and firsthand knowledge of the candidate's skills."
+                }
+            }
+        }
+    ]
+}

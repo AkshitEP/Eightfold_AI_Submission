@@ -1,0 +1,102 @@
+{
+    "target_id": "724",
+    "recommendations": [
+        {
+            "recommender_id": "734",
+            "recommendation": {
+                "resume_file": "724.json",
+                "recommendation_file": "Recommendation_From_ID_734.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Employee Management",
+                        "Policy Development",
+                        "Customer Service",
+                        "Medical Records Management",
+                        "Coding (CPT, HCPCS, ICD-9)",
+                        "HIPAA Compliance",
+                        "Accounts Receivable Management",
+                        "Billing and Insurance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare administration, leadership, and compliance. The source of the recommendation is a peer, indicating a credible and informed assessment of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "264",
+            "recommendation": {
+                "resume_file": "724.json",
+                "recommendation_file": "Recommendation_From_ID_264.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Employee Management",
+                        "Policy Development",
+                        "Customer Service",
+                        "Coding (CPT, HCPCS, ICD-9)",
+                        "HIPAA Compliance",
+                        "Accounts Receivable Management",
+                        "Billing and Insurance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, management, and healthcare expertise. The source of the recommendation appears to be a peer or colleague, as they mention working together in a customer service capacity."
+                }
+            }
+        },
+        {
+            "recommender_id": "81",
+            "recommendation": {
+                "resume_file": "724.json",
+                "recommendation_file": "Recommendation_From_ID_81.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the recommender's experience is not directly related to the candidate's field.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Employee Management",
+                        "Policy Development",
+                        "Customer Service",
+                        "HIPAA Compliance",
+                        "Accounts Receivable Management",
+                        "Billing and Insurance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in management, employee relations, and compliance, but the recommender's background is not directly related to the candidate's field. The recommendation is generally positive, but the source's credibility is uncertain."
+                }
+            }
+        },
+        {
+            "recommender_id": "86",
+            "recommendation": {
+                "resume_file": "724.json",
+                "recommendation_file": "Recommendation_From_ID_86.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of the candidate's role as an Administrative Assistant, which is not mentioned in the resume. However, the recommendation still seems largely credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Employee Management",
+                        "Policy Development",
+                        "Customer Service",
+                        "Medical Records Management",
+                        "Coding (CPT, HCPCS, ICD-9)",
+                        "HIPAA Compliance",
+                        "Accounts Receivable Management",
+                        "Billing and Insurance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership capabilities and expertise in healthcare operations. However, some minor inconsistencies and lack of concrete examples in certain areas prevent a perfect score."
+                }
+            }
+        }
+    ]
+}

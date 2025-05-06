@@ -1,0 +1,23 @@
+{
+    "resume_file": "935.json",
+    "recommendation_file": "Recommendation_From_ID_625.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "HR Function Management",
+            "Payroll Management",
+            "Benefits Administration",
+            "Compliance Management",
+            "Leadership",
+            "Training and Development",
+            "Project Management",
+            "Communication",
+            "Time Management",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, payroll, benefits, and compliance expertise. The source of the recommendation is a peer, an HR & Safety Manager, who has witnessed the candidate's capabilities firsthand."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "246.json",
+    "recommendation_file": "Recommendation_From_ID_636.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's accounting experience. The language is formal, but the recommender's background is in sales, which might not be directly relevant to accounting.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Financial Reporting",
+            "Cash Flow Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's analytical skills, financial reporting capabilities, and cash flow management expertise, which aligns with their accounting experience. However, the recommender's background in sales might not be directly relevant to accounting, and the recommendation could be more specific about the candidate's skills and accomplishments."
+    }
+}

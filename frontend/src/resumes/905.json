@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Consultant",
+                "work_description": "Basic computer network setup and troubleshooting. Install software and printers. Computer repair and upgrade for individuals. Microsoft Excel spreadsheet creation.",
+                "company_level": "Mid-level",
+                "start_date": "12/2009",
+                "end_date": "02/2016"
+            },
+            {
+                "role_name": "Office Administrator/Billing Assistant",
+                "work_description": "Assisted with administrative duties in the operations departments. Created airtime spreadsheets and assists with revenue reporting. Assisted with data entry into an internal billing system (UCAP).",
+                "company_level": "Mid-level",
+                "start_date": "08/2015",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Funding & Settlement Coordinator/Office Manager",
+                "work_description": "Responsible for getting clients' assets re-titled into their respective trusts. Enter client data onto database and legal document generation software. Build long-term relationships with trust maintenance clients.",
+                "company_level": "Mid-level",
+                "start_date": "08/2011",
+                "end_date": "08/2015"
+            },
+            {
+                "role_name": "Student Operations Specialist",
+                "work_description": "Prepared student reports for multiple state regulatory agencies and national accreditation agency, ACCET (Accrediting Council for Continuing Education and Training.) Answered phones. Data entry of new enrollments and materials assigned to each.",
+                "company_level": "Mid-level",
+                "start_date": "01/2002",
+                "end_date": "12/2009"
+            },
+            {
+                "role_name": "Information Technology Coordinator",
+                "work_description": "Responsible for installation and troubleshooting Windows 2000 workstations, hardware, printers, peripherals, and software. Managed telecommunications system administration, programming, and troubleshooting.",
+                "company_level": "Mid-level",
+                "start_date": "05/1996",
+                "end_date": "05/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "Towson University",
+                "start_date": "01/1987",
+                "end_date": "12/1991",
+                "domain": "Business Finance",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "ComputerTraining.Com",
+                "start_date": "01/2002",
+                "end_date": "01/2002",
+                "domain": "Microsoft Certified Systems Engineer Training",
+                "level": "Certificate of Completion"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Created Microsoft Excel spreadsheets for various purposes, including airtime spreadsheets and revenue reporting, indicating strong proficiency."
+            },
+            {
+                "name": "Computer Networking",
+                "level": 3,
+                "explanation": "Set up and troubleshot computer networks, installed software and printers, and repaired and upgraded computers, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Entered client data onto database and legal document generation software, and performed data entry of new enrollments and materials assigned to each, indicating a solid working proficiency."
+            },
+            {
+                "name": "Telecommunications System Administration",
+                "level": 3,
+                "explanation": "Managed telecommunications system administration, programming, and troubleshooting, showing a solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Coordinated with clients and maintained long-term relationships, but no extensive project management experience is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Managed office operations and coordinated with clients, but no extensive leadership experience is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Database Management",
+                "level": 2,
+                "explanation": "Entered client data onto database and legal document generation software, but no extensive database management experience is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Software Installation",
+                "level": 2,
+                "explanation": "Installed software and printers, but no extensive software installation experience is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Hardware Troubleshooting",
+                "level": 2,
+                "explanation": "Troubleshot computer hardware, but no extensive hardware troubleshooting experience is mentioned, indicating some practical experience."
+            }
+        ]
+    }
+}

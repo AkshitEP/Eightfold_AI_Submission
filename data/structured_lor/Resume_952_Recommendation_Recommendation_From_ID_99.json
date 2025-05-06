@@ -1,0 +1,18 @@
+{
+    "resume_id": 952,
+    "recommendation_file": "Recommendation_From_ID_99.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Management",
+            "Accounting",
+            "Financial Analysis",
+            "Leadership",
+            "Budgeting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, analytical skills, and ability to adapt to evolving accounting processes and technology."
+    }
+}

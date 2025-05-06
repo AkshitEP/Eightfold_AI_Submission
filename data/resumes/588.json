@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Healthcare Customer Service Representative",
+                "work_description": "Handle inbound calls from customers with inquiries and questions regarding their health insurance, wellness programs, prescription plans and help provide the best solutions for the customers' health and financial well-being. Assist in program development with new products and/or services. Process one-time checking and credit card by phone payments. Evaluate information and options and select the alternative that best meet the requirement of the issue(s) presented.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Custodian",
+                "work_description": "Ensured spaces were prepared for the next day by taking out trash, tidying furniture and dusting surfaces. Swept and mopped floors and vacuumed carpets. Washed and sanitized toilets, sinks and showers and restocked disposables. Secured facilities after operating hours by locking doors, closing windows and setting up the alarm.",
+                "company_level": "Mid-level",
+                "start_date": "05/2010",
+                "end_date": "12/2011"
+            },
+            {
+                "role_name": "Customer Service Manager",
+                "work_description": "Analyzed statistics and compiled accurate reports. Recruited, mentored, and developed customer service agents and nurtured an environment where they can excel through encouragement and empowerment. Kept accurate records and documented customer service actions and discussions. Provided services to customers by cashing checks, issuing money orders, assisting with refunds, and sending and receiving money grams. Supervised 20+ employees at a time, enforced company regulations and delegated daily assignments.",
+                "company_level": "Mid-level",
+                "start_date": "05/2004",
+                "end_date": "05/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Rowan-Cabarrus Community College",
+                "start_date": "01/Unknown",
+                "end_date": "12/Unknown",
+                "domain": "General Educational",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has extensive experience in customer service roles, including managing a team of customer service agents and providing solutions to customers' inquiries, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively handled inbound calls, provided solutions to customers, and compiled accurate reports, showing strong proficiency in communication."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised a large team of employees, enforced company regulations, and delegated daily assignments, indicating strong leadership skills."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Evaluated information and options to select the best solution for customers' issues, showing strong proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed daily assignments and ensured tasks were completed efficiently, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Recruited, mentored, and developed customer service agents, and created an environment for them to excel, showing strong proficiency in team management."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Analyzed statistics and compiled accurate reports, but the extent of data analysis is not clearly defined, indicating some practical experience."
+            },
+            {
+                "name": "Facilities Management",
+                "level": 2,
+                "explanation": "Ensured spaces were prepared for the next day and secured facilities after operating hours, but this experience is limited to a custodian role, indicating some practical experience."
+            }
+        ]
+    }
+}

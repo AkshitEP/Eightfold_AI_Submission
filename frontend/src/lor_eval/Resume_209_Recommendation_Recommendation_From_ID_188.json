@@ -1,0 +1,16 @@
+{
+    "resume_file": "209.json",
+    "recommendation_file": "Recommendation_From_ID_188.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written for a different role (finance assistant) than the one described in the resume (VP of Finance). Some skills mentioned in the recommendation are not explicitly mentioned in the resume.",
+        "verified_skills": [
+            "Financial Planning",
+            "Accounting",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not seem to be tailored to the candidate's current role or experience. While it mentions some relevant skills, it appears to be written for a different position."
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Client Advocate / Escalation Specialist",
+                "work_description": "Takeover of escalated calls from customer service. Coached customer service representatives to improve skills.",
+                "company_level": "Mid-level",
+                "start_date": "11/2015",
+                "end_date": "05/2016"
+            },
+            {
+                "role_name": "Business Manager, HR Coordinator, Training Coordinator, Receptionist",
+                "work_description": "Managed administrative, accounting, financial, and purchasing functions for the office and the individuals supported. Assisted with recruiting and orientating new employees. Performed bi-weekly payroll, reconciled payroll, created payroll reports used for budgeting and to adjust staffing. Managed and audited employee personnel and training files. Maintained employee training database and ensured employees were current in training. Purchased office and janitorial supplies. Acted as receptionist and managed a multi-line telephone system.",
+                "company_level": "Mid-level",
+                "start_date": "06/2008",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Records Management / Document Management System Implementer",
+                "work_description": "Assisted in building a DMS library that fit the global model for the site. Assisted with department and site-wide document audits.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "11/2007"
+            },
+            {
+                "role_name": "Telerecruiter",
+                "work_description": "Contacted blood donors, scheduled future appointments, and updated contact information. Trained new telerecruiters.",
+                "company_level": "Mid-level",
+                "start_date": "02/2005",
+                "end_date": "06/2005"
+            },
+            {
+                "role_name": "Student Administrative Assistant Vice Chancellor",
+                "work_description": "Independently created database and audited university resident alien files in university's HR department during free time, which saved the university a minimum of $200,000 in potential fines. Managed the university's utilities, legal bills, and contract database. Created and maintained database for university's Business Travel Account.",
+                "company_level": "Mid-level",
+                "start_date": "09/2001",
+                "end_date": "09/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of New Orleans",
+                "start_date": "01/2017",
+                "end_date": "Present",
+                "domain": "Political Science Pre-Law",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "East Tennessee University",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Paralegal",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Has extensive experience with payroll, including performing bi-weekly payroll, reconciling payroll, and creating payroll reports, indicating strong proficiency."
+            },
+            {
+                "name": "Accounting",
+                "level": 3,
+                "explanation": "Managed administrative, accounting, financial, and purchasing functions for the office, showing a solid working proficiency in accounting."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Coached customer service representatives and trained new employees, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Managed employee training database, ensured employees were current in training, and trained new telerecruiters, showing a solid working proficiency in training and development."
+            },
+            {
+                "name": "Database Management",
+                "level": 4,
+                "explanation": "Independently created databases, audited university resident alien files, and maintained database for university's Business Travel Account, indicating strong proficiency in database management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively communicated with customers, employees, and management through various roles, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed multiple responsibilities, including administrative, accounting, financial, and purchasing functions, indicating a solid working proficiency in time management."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Identified and resolved issues, such as auditing university resident alien files, which saved the university a minimum of $200,000 in potential fines, showing a solid working proficiency in problem-solving."
+            }
+        ]
+    }
+}

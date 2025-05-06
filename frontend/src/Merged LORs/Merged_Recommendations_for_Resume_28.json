@@ -1,0 +1,79 @@
+{
+    "target_id": "28",
+    "recommendations": [
+        {
+            "recommender_id": "296",
+            "recommendation": {
+                "resume_file": "28.json",
+                "recommendation_file": "Recommendation_From_ID_296.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and customer service skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "72",
+            "recommendation": {
+                "resume_file": "28.json",
+                "recommendation_file": "Recommendation_From_ID_72.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Inventory Management",
+                        "Quality Assurance"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and customer service abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "213",
+            "recommendation": {
+                "resume_file": "28.json",
+                "recommendation_file": "Recommendation_From_ID_213.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions Annika Kay as the Assistant Director, but the resume does not mention this role or title.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and customer service skills. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "329",
+            "recommendation": {
+                "resume_file": "28.json",
+                "recommendation_file": "Recommendation_From_ID_329.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation seems fraudulent, with obvious signs of exaggeration and contradictory data. The recommendation mentions the candidate's experience as an arts instructor, which is not present in the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not relevant to the candidate's skills and experience, and seems to be fraudulent."
+                }
+            }
+        }
+    ]
+}

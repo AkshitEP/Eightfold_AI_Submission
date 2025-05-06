@@ -1,0 +1,17 @@
+{
+    "resume_file": "766.json",
+    "recommendation_file": "Recommendation_From_ID_155.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a supervisor or peer. The language is formal, but some claims seem slightly exaggerated.",
+        "verified_skills": [
+            "Audio/Video Installation",
+            "Audio/Video Signal Flow",
+            "Event Planning",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical acumen and versatility. However, the source of the recommendation is unclear, and some claims seem slightly exaggerated."
+    }
+}

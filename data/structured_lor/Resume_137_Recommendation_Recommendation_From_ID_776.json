@@ -1,0 +1,19 @@
+{
+    "resume_file": "137.json",
+    "recommendation_file": "Recommendation_From_ID_776.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions the candidate's experience as a Payroll Accountant, but the resume does not mention payroll experience. However, the recommendation does align well with the candidate's skills and experience in general accounting, financial reconciliation, and budgeting.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Budgeting",
+            "Accounts Payable",
+            "Accounts Receivable",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in school fund accounting, general ledger reconciliation, and budget analysis, which aligns well with their resume. However, the mention of payroll experience and the Chief Financial Officer certification is not supported by the resume."
+    }
+}

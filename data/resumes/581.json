@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "STAFF ACCOUNTANT",
+                "work_description": "ANALYZED FINANCIAL REPORTS AND PROGRAMS TO RESOLVE PROBLEMS. Formatted and prepare internal financial reports for various entities. Monitored and researched significant revenue and budget variances, including actual costs versus budgeted costs, recommending alternative courses of action. Resolved complex issues involving multiple aspects of financial management.",
+                "company_level": "Mid-level",
+                "start_date": "01/2001",
+                "end_date": "02/2011"
+            },
+            {
+                "role_name": "ACCOUNTS PAYABLE REPRESENTATIVE",
+                "work_description": "MANAGED FINANCIAL FUNCTIONS AND COORDINATED DAILY ACCOUNTING FUNCTIONS of a high profile regional medical facility. Formulated and implemented processes for reviewing recurring payments and processing invoices, vouchers, reimbursements and check requests.",
+                "company_level": "Mid-level",
+                "start_date": "01/2000",
+                "end_date": "01/2001"
+            }
+        ],
+        "education": [
+            {
+                "university": "Strayer University",
+                "start_date": "01/2012",
+                "end_date": "06/2012",
+                "domain": "Accounting",
+                "level": "Master's"
+            },
+            {
+                "university": "Southern University at New Orleans",
+                "start_date": "01/1986",
+                "end_date": "12/1986",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Analyzed financial reports and programs to resolve problems, showing strong proficiency in financial analysis."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Formatted and prepared internal financial reports for various entities, indicating strong proficiency in financial reporting."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Monitored and researched significant revenue and budget variances, including actual costs versus budgeted costs, suggesting strong proficiency in budgeting."
+            },
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Resolved complex issues involving multiple aspects of financial management, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounts Payable Management",
+                "level": 4,
+                "explanation": "Managed financial functions and coordinated daily accounting functions, including processing invoices and vouchers, showing strong proficiency in accounts payable management."
+            },
+            {
+                "name": "Process Improvement",
+                "level": 3,
+                "explanation": "Formulated and implemented processes for reviewing recurring payments, indicating a solid working proficiency in process improvement."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No direct leadership experience mentioned, but managed financial functions and coordinated daily accounting functions, suggesting some practical experience in leadership."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No mention of Microsoft Excel in the job history or education, but likely used in financial reporting and analysis."
+            }
+        ]
+    }
+}

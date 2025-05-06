@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Care Representative",
+                "work_description": "Managed customer calls effectively and efficiently in a complex, fast-paced and challenging call center environment. Addressed and resolved customer product complaints empathetically and professionally. Defused volatile customer situations calmly and courteously.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2013",
+                "end_date": "08/2014"
+            },
+            {
+                "role_name": "Club Manager",
+                "work_description": "Contributed to the overall success of the franchise through facility tours for potential new members, explaining promotions, and handling customer concerns and issues. Recruited, trained, and supervised staff of 12-15.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "03/2013"
+            },
+            {
+                "role_name": "Customer Service Team Lead",
+                "work_description": "Assisted customers with account inquiries including questions, concerns, or other issues. Collected past due debts on delinquent accounts. Set up new customer accounts, including explaining, selling, and bundling services.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2007",
+                "end_date": "06/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Trumbull Business College",
+                "start_date": "01/2007",
+                "end_date": "06/2007",
+                "domain": "Business Administration",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Over 7 years of experience in customer-facing roles, including managing customer calls, resolving complaints, and handling customer concerns, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Led teams in multiple roles, including supervising staff of 12-15 as a Club Manager and assisting as a Customer Service Team Lead, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively managed customer calls, addressed customer complaints, and explained promotions, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Resolved customer complaints, handled customer concerns, and defused volatile customer situations, suggesting strong proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed customer calls efficiently in a fast-paced call center environment, showing a solid working proficiency in time management."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Supervised staff of 12-15 as a Club Manager, indicating a solid level of proficiency in team management."
+            },
+            {
+                "name": "Account Management",
+                "level": 2,
+                "explanation": "Set up new customer accounts and collected past due debts on delinquent accounts, suggesting some practical experience in account management."
+            }
+        ]
+    }
+}

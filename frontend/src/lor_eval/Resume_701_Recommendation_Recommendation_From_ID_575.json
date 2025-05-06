@@ -1,0 +1,17 @@
+{
+    "resume_file": "701.json",
+    "recommendation_file": "Recommendation_From_ID_575.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's credentials and relationship to the candidate are unclear. The language is formal, but the recommender's experience in investment banking operations seems unrelated to the candidate's experience as a Lead Teller.",
+        "verified_skills": [
+            "Customer Service",
+            "Cash Handling",
+            "Compliance",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional customer service, operational efficiency, and leadership skills, which align with their experience as a Lead Teller. However, the recommender's credentials and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

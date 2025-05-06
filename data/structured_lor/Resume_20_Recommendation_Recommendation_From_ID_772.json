@@ -1,0 +1,18 @@
+{
+    "resume_file": "20.json",
+    "recommendation_file": "Recommendation_From_ID_772.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resources Management",
+            "Recruitment and Talent Acquisition",
+            "Employee Relations and Communication",
+            "Benefits Administration",
+            "Leadership and Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, recruitment, and employee relations expertise. The source of the recommendation appears to be a peer or colleague, which adds credibility to the endorsement."
+    }
+}

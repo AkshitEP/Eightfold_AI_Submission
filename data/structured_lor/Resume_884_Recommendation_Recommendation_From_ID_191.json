@@ -1,0 +1,12 @@
+{
+    "resume_file": "884.json",
+    "recommendation_file": "Recommendation_From_ID_191.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and informal language. The mention of expertise in the aviation industry, exotic animal rescue operations, and navigating complex financial landscapes with ease raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align well with the candidate's skills and experience. The mention of expertise in the aviation industry and exotic animal rescue operations seems unrelated to the candidate's background in healthcare finance. The language used is also informal and exaggerated, raising concerns about the credibility of the recommendation."
+    }
+}

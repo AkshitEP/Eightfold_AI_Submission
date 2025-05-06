@@ -1,0 +1,19 @@
+{
+    "resume_id": 47,
+    "recommendation_file": "Recommendation_From_ID_407.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Analysis",
+            "Financial Reporting",
+            "Inventory Management",
+            "Budgeting",
+            "Financial Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and financial management abilities. However, the source of the recommendation is unclear, as the recommender's relationship to the candidate is not specified."
+    }
+}

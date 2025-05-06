@@ -1,0 +1,17 @@
+{
+    "resume_file": "827.json",
+    "recommendation_file": "Recommendation_From_ID_525.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's work history. However, the language is formal and the claims seem largely credible.",
+        "verified_skills": [
+            "Operations Management",
+            "Leadership",
+            "Project Management",
+            "Cost Efficiency"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in operations management and leadership. However, some minor inconsistencies and lack of specific examples from the candidate's work history reduce the relevance score."
+    }
+}

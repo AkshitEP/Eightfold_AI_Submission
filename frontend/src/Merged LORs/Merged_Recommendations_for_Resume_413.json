@@ -1,0 +1,75 @@
+{
+    "target_id": "413",
+    "recommendations": [
+        {
+            "recommender_id": "970",
+            "recommendation": {
+                "resume_file": "413.json",
+                "recommendation_file": "Recommendation_From_ID_970.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mortgage Banking",
+                        "Leadership",
+                        "Operations Management",
+                        "Risk Analysis",
+                        "Project Management",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in mortgage banking, leadership, and operations management. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "948",
+            "recommendation": {
+                "resume_file": "413.json",
+                "recommendation_file": "Recommendation_From_ID_948.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is a Teller 3, which may not have direct working experience with the candidate in a leadership role. Some claims seem exaggerated, but overall, the language is formal and the recommendation aligns with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Mortgage Banking",
+                        "Leadership",
+                        "Operations Management",
+                        "Risk Analysis",
+                        "Project Management",
+                        "Strategic Planning",
+                        "Finance",
+                        "Underwriting",
+                        "Loan Servicing",
+                        "Compliance"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional work ethic, strategic leadership, and commitment to quality and compliance. However, the source's role as a Teller 3 may not provide a comprehensive understanding of the candidate's leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "712",
+            "recommendation": {
+                "resume_file": "413.json",
+                "recommendation_file": "Recommendation_From_ID_712.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mortgage Banking",
+                        "Leadership",
+                        "Operations Management",
+                        "Risk Analysis",
+                        "Project Management",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and analytical skills. The recommendation source is a peer, indicating a collaborative working relationship."
+                }
+            }
+        }
+    ]
+}

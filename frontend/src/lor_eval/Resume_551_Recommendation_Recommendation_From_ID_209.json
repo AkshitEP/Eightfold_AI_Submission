@@ -1,0 +1,18 @@
+{
+    "resume_file": "551.json",
+    "recommendation_file": "Recommendation_From_ID_209.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in finance and hospitality may not be directly relevant to the candidate's healthcare experience. However, the recommender's emphasis on leadership, collaboration, and analytical skills aligns well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Leadership",
+            "Collaboration",
+            "Data Analysis",
+            "Communication",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership, analytical, and communication skills, which are well-supported by their experience in various healthcare roles. However, the recommender's background and expertise may not be directly relevant to the candidate's field."
+    }
+}

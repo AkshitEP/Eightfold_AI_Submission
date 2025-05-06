@@ -1,0 +1,17 @@
+{
+    "resume_file": "330.json",
+    "recommendation_file": "Recommendation_From_ID_922.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and unclear recommender relationship",
+        "verified_skills": [
+            "Healthcare Operations",
+            "Problem-Solving",
+            "Claims Analysis",
+            "Billing Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and unclear recommender relationship."
+    }
+}

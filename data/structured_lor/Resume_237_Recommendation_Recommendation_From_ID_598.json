@@ -1,0 +1,17 @@
+{
+    "resume_file": "237.json",
+    "recommendation_file": "Recommendation_From_ID_598.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic and exaggerated, with claims that are not entirely supported by the resume. The recommender's relationship to the candidate is unclear, and their experience as a Customer Service Associate and Cashier does not provide a strong basis for evaluating the candidate's teaching abilities.",
+        "verified_skills": [
+            "Lesson Planning",
+            "Art Education",
+            "Teaching",
+            "Curriculum Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's teaching abilities and creativity, but the recommender's lack of relevant experience and the exaggerated claims raise concerns about the recommendation's credibility."
+    }
+}

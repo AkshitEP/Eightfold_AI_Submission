@@ -1,0 +1,21 @@
+{
+    "resume_file": "483.json",
+    "recommendation_file": "Recommendation_From_ID_425.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Network Security",
+            "Troubleshooting",
+            "System Administration",
+            "Helpdesk Support",
+            "Computer Systems",
+            "Information Assurance",
+            "TCP/IP Configuration",
+            "Operating System Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and proficiency in network administration. The recommendation source is an Information Technology Manager, indicating a direct supervisory relationship."
+    }
+}

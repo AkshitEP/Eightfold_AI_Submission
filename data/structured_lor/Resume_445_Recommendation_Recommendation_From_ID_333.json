@@ -1,0 +1,18 @@
+{
+    "resume_file": "445.json",
+    "recommendation_file": "Recommendation_From_ID_333.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Counseling",
+            "Case Management",
+            "Community Outreach",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Clinical Service Advocate and their ability to connect empathetically with individuals in distress."
+    }
+}

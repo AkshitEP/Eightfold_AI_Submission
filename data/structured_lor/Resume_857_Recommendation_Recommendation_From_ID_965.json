@@ -1,0 +1,28 @@
+{
+    "resume_file": "857.json",
+    "recommendation_file": "Recommendation_From_ID_965.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Payroll Management",
+            "Accounts Payable",
+            "Accounts Receivable",
+            "Budgeting",
+            "Financial Analysis",
+            "Microsoft Excel",
+            "QuickBooks",
+            "Great Plains Accounting",
+            "Leadership",
+            "Time Management",
+            "Customer Service",
+            "Communication",
+            "MS Office Applications"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and accounting expertise. The recommendation highlights the candidate's attention to detail, problem-solving skills, and leadership abilities, making them a valuable asset to any team."
+    }
+}

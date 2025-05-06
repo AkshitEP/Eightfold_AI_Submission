@@ -1,0 +1,18 @@
+{
+    "resume_file": "863.json",
+    "recommendation_file": "Recommendation_From_ID_694.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Data Management",
+            "Organizational Skills",
+            "Attention to Detail",
+            "Time Management",
+            "Analytical Skills"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, attention to detail, and ability to work in high-pressure scenarios."
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Manager, Continuous Improvement",
+                "work_description": "Utilize the tools of Six Sigma and Lean to improve processes across the facilities. Lead cross-functional teams in identifying root cause, developing, and implementing a solution. Manage employees assigned as project leaders for Continuous Improvement projects and events.",
+                "company_level": "Mid-level",
+                "start_date": "11/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "A&P Mechanic / Aircraft Technician",
+                "work_description": "Assign work to Mechanics. Lead and guide activities of all assigned personnel, assuring all maintenance is completed in compliance with established company policies, procedures, and applicable FAA regulations.",
+                "company_level": "Mid-level",
+                "start_date": "04/2014",
+                "end_date": "10/2014"
+            },
+            {
+                "role_name": "Aviation Technician",
+                "work_description": "Troubleshoot mechanical malfunctions of engines. Launch and recover aircrafts. Perform maintenance on time sensitive parts. Perform minor repairs on airframe and engine.",
+                "company_level": "Mid-level",
+                "start_date": "09/2010",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Create shelf displays for games and gaming systems. Provide shoppers with detailed information used in the decision making process. Ensure games, iPods, media and accessories are properly stocked.",
+                "company_level": "Mid-level",
+                "start_date": "09/2008",
+                "end_date": "08/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Embry-Riddle Aeronautical University",
+                "start_date": "01/2015",
+                "end_date": "12/2018",
+                "domain": "Aviation Business Administration, Safety",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "National Aviation Academy",
+                "start_date": "01/2008",
+                "end_date": "12/2010",
+                "domain": "Aviation Maintenance",
+                "level": "Associate's"
+            },
+            {
+                "university": "Villanova University",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Six Sigma",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has extensive experience leading cross-functional teams and managing employees assigned as project leaders for Continuous Improvement projects and events, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has led teams in various roles, including as a Manager, A&P Mechanic / Aircraft Technician, and Aviation Technician, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Six Sigma",
+                "level": 4,
+                "explanation": "Utilized the tools of Six Sigma to improve processes across facilities and has a Master's degree in Six Sigma, suggesting strong proficiency."
+            },
+            {
+                "name": "Lean",
+                "level": 3,
+                "explanation": "Used Lean to improve processes across facilities, showing a solid working proficiency."
+            },
+            {
+                "name": "Aviation Maintenance",
+                "level": 4,
+                "explanation": "Has extensive experience as an A&P Mechanic / Aircraft Technician and Aviation Technician, indicating strong proficiency in aviation maintenance."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has managed teams in various roles, including as a Manager, A&P Mechanic / Aircraft Technician, and Aviation Technician, showing strong proficiency in team management."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Troubleshooted mechanical malfunctions of engines and performed minor repairs on airframe and engine, showing a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Provided shoppers with detailed information used in the decision-making process as a Sales Associate, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Performed maintenance on time-sensitive parts and ensured games, iPods, media, and accessories were properly stocked, showing a solid working proficiency in time management."
+            }
+        ]
+    }
+}

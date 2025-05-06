@@ -1,0 +1,105 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Consulting",
+                "work_description": "Handled 500+ Employees in a Business Unit as a Single Point of Contact for all HR activities. Performance Management Conduct awareness sessions on Company's performance management philosophy, tool etc Annual Increments and Promotions - manage the end to end closure of Compensation increment and promotion cycles including the budget calculation and distribution. Handle Performance Improvement Plan for the bottom performers and handling other disciplinary processes such as warnings and termination.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2009",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "HR Coordinator",
+                "work_description": "Worked on developing the existing Employee Appraisal process to a comprehensive Performance Management process resulting in several reduced iterations for the HR Team. Helped the Senior Leadership team in defining a crisp Career Path - for both technical and Managerial positions.",
+                "company_level": "Mid-level",
+                "start_date": "07/2008",
+                "end_date": "05/2009"
+            },
+            {
+                "role_name": "HR Assistant",
+                "work_description": "Worked on optimization of the existing Reward and Recognition process. Developed internal job portal aimed at providing collaborative environment to facilitate Internal sourcing.",
+                "company_level": "Mid-level",
+                "start_date": "05/2007",
+                "end_date": "06/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "KIMS University Karnataka University",
+                "start_date": "01/2005",
+                "end_date": "12/2007",
+                "domain": "Human Resource Management",
+                "level": "Masters of Business Administration"
+            },
+            {
+                "university": "BNDC University Karnataka University",
+                "start_date": "01/2002",
+                "end_date": "12/2005",
+                "domain": "Commerce",
+                "level": "Bachelors of Commerce"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "HR Management",
+                "description": "Designed and Managed the 'Mentor Me' program to motivate the high performers in the Organization.",
+                "skills": [
+                    "Leadership",
+                    "Mentor",
+                    "People Management",
+                    "Performance Management"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Performance Management",
+                "level": 5,
+                "explanation": "Handled end-to-end performance management cycles, including conducting awareness sessions, managing annual increments and promotions, and handling performance improvement plans, indicating expert-level mastery."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Handled employee-related activities such as disciplinary processes, warnings, and terminations, suggesting strong proficiency."
+            },
+            {
+                "name": "HR Operations",
+                "level": 4,
+                "explanation": "Handled HR activities for 500+ employees as a single point of contact, indicating strong proficiency in HR operations."
+            },
+            {
+                "name": "Talent Management",
+                "level": 4,
+                "explanation": "Helped define career paths for technical and managerial positions, and managed the 'Mentor Me' program to motivate high performers, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led HR teams and coordinated with senior leadership teams, showing a solid working proficiency in leadership."
+            },
+            {
+                "name": "People Management",
+                "level": 3,
+                "explanation": "Managed HR teams and coordinated with employees, showing a solid working proficiency in people management."
+            },
+            {
+                "name": "Mentorship",
+                "level": 3,
+                "explanation": "Designed and managed the 'Mentor Me' program, showing a solid working proficiency in mentorship."
+            },
+            {
+                "name": "HR Consulting",
+                "level": 4,
+                "explanation": "Handled HR activities as a single point of contact, and helped define career paths and talent management strategies, suggesting strong proficiency in HR consulting."
+            },
+            {
+                "name": "Employee Engagement",
+                "level": 3,
+                "explanation": "Designed and managed the 'Mentor Me' program to motivate high performers, showing a solid working proficiency in employee engagement."
+            }
+        ]
+    }
+}

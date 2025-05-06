@@ -1,0 +1,22 @@
+{
+    "resume_file": "658.json",
+    "recommendation_file": "Recommendation_From_ID_252.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Patient Education",
+            "Laboratory Testing",
+            "Data Analysis",
+            "Health Administration",
+            "Staff Development",
+            "Quality Improvement"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical mindset, leadership abilities, and quality improvement efforts."
+    }
+}

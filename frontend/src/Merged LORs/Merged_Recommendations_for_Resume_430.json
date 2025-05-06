@@ -1,0 +1,50 @@
+{
+    "target_id": "430",
+    "recommendations": [
+        {
+            "recommender_id": "46",
+            "recommendation": {
+                "resume_file": "430.json",
+                "recommendation_file": "Recommendation_From_ID_46.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but it appears to be written in a way that highlights the strengths of both Hassan and his colleague, rather than focusing solely on Hassan's qualifications. This may indicate that the recommendation is not entirely objective.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Financial Reconciliation",
+                        "Accounting Software",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with Hassan's skills and experience in accounting, but it also mentions his colleague's skills and strengths. This may indicate that the recommendation is not solely focused on Hassan's qualifications."
+                }
+            }
+        },
+        {
+            "recommender_id": "804",
+            "recommendation": {
+                "resume_file": "430.json",
+                "recommendation_file": "Recommendation_From_ID_804.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job titles and roles mentioned in the recommendation and resume. However, the recommendation seems genuine and well-supported by the resume.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Payroll Management",
+                        "Financial Reconciliation",
+                        "Accounting Software",
+                        "Microsoft Office",
+                        "Time Management",
+                        "Organizational Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities. However, some minor inconsistencies in job titles and roles mentioned in the recommendation and resume were noted."
+                }
+            }
+        }
+    ]
+}

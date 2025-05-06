@@ -1,0 +1,96 @@
+{
+    "target_id": "273",
+    "recommendations": [
+        {
+            "recommender_id": "254",
+            "recommendation": {
+                "resume_file": "273.json",
+                "recommendation_file": "Recommendation_From_ID_254.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation mentions unrelated roles such as summer camp counselor and sales associate, which are not present in the resume. The language used is overly flattering and lacks specific examples from the candidate's marketing experience.",
+                    "verified_skills": [
+                        "Event Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not strongly align with the candidate's skills and experience in marketing management. While it mentions event coordination and customer service, it fails to provide specific examples from the candidate's marketing experience and instead focuses on unrelated roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "147",
+            "recommendation": {
+                "resume_file": "273.json",
+                "recommendation_file": "Recommendation_From_ID_147.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation does not align with the candidate's skills and experience. The recommendation mentions a Finance Controller, which is not relevant to the candidate's resume. The language used is overly flattering and lacks specific examples of the candidate's work.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not provide any specific examples of the candidate's work or skills, and instead focuses on a Finance Controller. This suggests that the recommendation may be fraudulent or not genuine."
+                }
+            }
+        },
+        {
+            "recommender_id": "218",
+            "recommendation": {
+                "resume_file": "273.json",
+                "recommendation_file": "Recommendation_From_ID_218.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be more focused on the Director of Theater rather than the Marketing Manager. There are some inconsistencies and exaggerated claims, such as the mention of 'multiple award-winning performances' without providing concrete evidence or details.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Event Management",
+                        "Public Relations"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some relevant skills and experiences from the resume, but it lacks substantial detail and alignment with the key areas of expertise. The recommendation seems to be more focused on the Director of Theater rather than the Marketing Manager, which raises some concerns about its relevance and credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "598",
+            "recommendation": {
+                "resume_file": "273.json",
+                "recommendation_file": "Recommendation_From_ID_598.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with key areas of expertise. The source of the recommendation is unclear, and the language used seems overly flattering.",
+                    "verified_skills": [
+                        "Communication",
+                        "Event Management",
+                        "Marketing Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's communication and organizational skills, but fails to provide specific examples or details about their marketing management experience. The recommendation also seems to exaggerate the candidate's abilities and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "173",
+            "recommendation": {
+                "resume_file": "273.json",
+                "recommendation_file": "Recommendation_From_ID_173.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. The recommender's background in English Language Arts and educational leadership does not directly relate to the candidate's marketing experience.",
+                    "verified_skills": [
+                        "Marketing Management",
+                        "Event Management",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in marketing management, event management, communication, and leadership. However, the recommender's background and relationship with the candidate are unclear, which may impact the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

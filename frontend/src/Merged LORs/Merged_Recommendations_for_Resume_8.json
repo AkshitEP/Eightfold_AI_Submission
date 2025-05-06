@@ -1,0 +1,73 @@
+{
+    "target_id": "8",
+    "recommendations": [
+        {
+            "recommender_id": "159",
+            "recommendation": {
+                "resume_file": "8.json",
+                "recommendation_file": "Recommendation_From_ID_159.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a Visual Arts Teacher does not directly align with the candidate's experience in English Education. However, the recommendation still provides specific examples of the candidate's skills and accomplishments.",
+                    "verified_skills": [
+                        "Curriculum Design",
+                        "Instructional Design",
+                        "Leadership",
+                        "Mentoring",
+                        "Project Management",
+                        "Communication",
+                        "Team Collaboration"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in instructional design, curriculum development, and mentoring, which aligns well with their experience and skills. However, the recommender's profession does not directly align with the candidate's experience, which raises a minor concern about the recommender's objectivity."
+                }
+            }
+        },
+        {
+            "recommender_id": "687",
+            "recommendation": {
+                "resume_file": "8.json",
+                "recommendation_file": "Recommendation_From_ID_687.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Curriculum Design",
+                        "Instructional Design",
+                        "Leadership",
+                        "Mentoring",
+                        "Project Management",
+                        "Communication",
+                        "Team Collaboration",
+                        "Technology Integration"
+                    ],
+                    "recommendation_source": "Peer/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their curriculum design, technology integration, and leadership qualities. The source of the recommendation appears to be an Assistant Principal, indicating a peer or supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "171",
+            "recommendation": {
+                "resume_file": "8.json",
+                "recommendation_file": "Recommendation_From_ID_171.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone from a different field (logistics and operations management) and lacks specific examples from the candidate's resume. The language is formal, but the connection to the candidate's skills and experience is weak.",
+                    "verified_skills": [
+                        "Curriculum Design",
+                        "Instructional Design",
+                        "Leadership",
+                        "Mentoring",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in curriculum design, instructional design, and leadership, but lacks concrete examples from the candidate's resume. The source of the recommendation is unclear, and the connection to the candidate's skills and experience is weak."
+                }
+            }
+        }
+    ]
+}

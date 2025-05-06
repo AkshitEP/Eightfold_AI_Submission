@@ -1,0 +1,20 @@
+{
+    "resume_file": "797.json",
+    "recommendation_file": "Recommendation_From_ID_215.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's work history. The mention of 'over three years of experience in financial services' is also inconsistent with the candidate's actual work history.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Budgeting",
+            "Financial Analysis",
+            "Accounting",
+            "Taxation",
+            "Leadership",
+            "Financial Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but the language is overly flattering and lacks specific examples. The mention of 'over three years of experience in financial services' is also inconsistent with the candidate's actual work history."
+    }
+}

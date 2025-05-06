@@ -1,0 +1,17 @@
+{
+    "resume_id": 78,
+    "recommendation_file": "Recommendation_From_ID_344.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Yoga Instruction",
+            "Customer Service",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in group fitness instruction, customer service, and leadership. However, it does not mention specific skills like accounting, project management, or human resources, which are also listed in the resume."
+    }
+}

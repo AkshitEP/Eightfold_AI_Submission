@@ -1,0 +1,18 @@
+{
+    "resume_file": "232.json",
+    "recommendation_file": "Recommendation_From_ID_830.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative tasks, customer service, and problem-solving abilities."
+    }
+}

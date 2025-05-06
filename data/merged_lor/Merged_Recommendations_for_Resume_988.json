@@ -1,0 +1,117 @@
+{
+    "target_id": "988",
+    "recommendations": [
+        {
+            "recommender_id": "388",
+            "recommendation": {
+                "resume_file": "988.json",
+                "recommendation_file": "Recommendation_From_ID_388.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, including the mention of experience as an Information Technology Instructor, which is not supported by the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "IT Project Management",
+                        "Network Administration",
+                        "VMware vSphere",
+                        "Citrix Infrastructure"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills, strategic planning, and IT management experience, but contains some minor inconsistencies."
+                }
+            }
+        },
+        {
+            "recommender_id": "182",
+            "recommendation": {
+                "resume_file": "988.json",
+                "recommendation_file": "Recommendation_From_ID_182.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "IT Project Management",
+                        "Strategic Planning",
+                        "Leadership",
+                        "Network Administration",
+                        "VMware vSphere",
+                        "Citrix Infrastructure",
+                        "Cloud Computing",
+                        "Business Application Support",
+                        "Desktop Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management, strategic planning, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "265",
+            "recommendation": {
+                "resume_id": 988,
+                "recommendation_file": "Recommendation_From_ID_265.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems unrealistic, with improper language and statistically improbable claims. The recommendation focuses on skills that are not mentioned in the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "IT Director ( authenticity unknown)",
+                    "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The recommendation raises suspicions about its authenticity due to its formal and exaggerated tone, as well as its focus on skills that are not mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "705",
+            "recommendation": {
+                "resume_file": "988.json",
+                "recommendation_file": "Recommendation_From_ID_705.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions international partnerships and substantial advancements, but lacks concrete examples or evidence from the resume.",
+                    "verified_skills": [
+                        "IT Project Management",
+                        "Strategic Planning",
+                        "Leadership",
+                        "Network Administration",
+                        "VMware vSphere",
+                        "Citrix Infrastructure",
+                        "Cloud Computing",
+                        "Business Application Support",
+                        "Desktop Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing examples of their IT management and leadership abilities. However, some claims seem exaggerated or unsupported, and the recommendation lacks concrete examples or evidence from the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "353",
+            "recommendation": {
+                "resume_file": "988.json",
+                "recommendation_file": "Recommendation_From_ID_353.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the Director of Information Technology, but the resume only mentions the IT Director role. Additionally, the recommendation mentions expertise in C# and SQL Server, which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "IT Project Management",
+                        "Strategic Planning",
+                        "Leadership",
+                        "Network Administration",
+                        "VMware vSphere",
+                        "Citrix Infrastructure",
+                        "Cloud Computing",
+                        "Business Application Support",
+                        "Desktop Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and IT management abilities. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        }
+    ]
+}

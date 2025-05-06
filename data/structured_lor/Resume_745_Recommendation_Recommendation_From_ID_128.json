@@ -1,0 +1,20 @@
+{
+    "resume_file": "745.json",
+    "recommendation_file": "Recommendation_From_ID_128.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions the skills and experience of another individual, which may indicate that the recommender is trying to enhance the candidate's credentials by association.",
+        "verified_skills": [
+            "Marketing",
+            "Event Management",
+            "Sales",
+            "Leadership",
+            "Negotiation",
+            "Presentation",
+            "Business Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities."
+    }
+}

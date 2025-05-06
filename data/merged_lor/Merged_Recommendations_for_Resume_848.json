@@ -1,0 +1,109 @@
+{
+    "target_id": "848",
+    "recommendations": [
+        {
+            "recommender_id": "203",
+            "recommendation": {
+                "resume_file": "848.json",
+                "recommendation_file": "Recommendation_From_ID_203.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and communication skills. The source of the recommendation is the Director of Finance, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "506",
+            "recommendation": {
+                "resume_file": "848.json",
+                "recommendation_file": "Recommendation_From_ID_506.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Training and Development",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership development, finance experience, and training and development capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "634",
+            "recommendation": {
+                "resume_file": "848.json",
+                "recommendation_file": "Recommendation_From_ID_634.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Organizational Development",
+                        "Communication",
+                        "Training and Development",
+                        "Mentoring"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and interpersonal skills. The recommendation highlights the candidate's ability to develop metrics, advise management, and mentor others, which are all relevant to their skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "929",
+            "recommendation": {
+                "resume_file": "848.json",
+                "recommendation_file": "Recommendation_From_ID_929.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Organizational Development",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and interpersonal skills. The source of the recommendation is a peer, indicating a credible endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "667",
+            "recommendation": {
+                "resume_file": "848.json",
+                "recommendation_file": "Recommendation_From_ID_667.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience at Abbott Nutrition, but the resume does not mention this company. However, the skills and roles mentioned align well with the candidate's resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Organizational Development",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical capabilities, leadership skills, and commitment to employee development. However, some minor inconsistencies and exaggerated claims are present, such as the mention of the candidate's experience at Abbott Nutrition, which is not mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

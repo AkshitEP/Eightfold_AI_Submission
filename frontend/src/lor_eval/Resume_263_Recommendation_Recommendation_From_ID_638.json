@@ -1,0 +1,16 @@
+{
+    "resume_file": "263.json",
+    "recommendation_file": "Recommendation_From_ID_638.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and lack of explicit mention of some skills and experiences in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Financial Management",
+            "Attention to detail"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some relevant skills and experiences, but lacks substantial detail or alignment with the key areas of expertise mentioned in the resume."
+    }
+}

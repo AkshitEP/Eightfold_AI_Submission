@@ -1,0 +1,18 @@
+{
+    "resume_id": 92,
+    "recommendation_file": "Recommendation_From_ID_629.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Accounts Payable",
+            "Leadership",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting functions and attention to detail. However, the recommendation source is a peer, not a supervisor, which might be considered less authoritative."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "503.json",
+    "recommendation_file": "Recommendation_From_ID_28.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be describing two different individuals, with the first part mentioning a line attendant and the second part mentioning an HR generalist. This inconsistency raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Recruitment",
+            "HR Management",
+            "Employee Onboarding",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation partially aligns with the candidate's skills and experience, but the inconsistency in describing two different individuals raises concerns about its authenticity."
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "target_id": "138",
+    "recommendations": [
+        {
+            "recommender_id": "443",
+            "recommendation": {
+                "resume_file": "138.json",
+                "recommendation_file": "Recommendation_From_ID_443.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but overall it seems genuine.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "R Programming",
+                        "Customer Service",
+                        "Organizational Planning"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation is highly relevant to the candidate's experience and skills, but there are some minor inconsistencies that may indicate some exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "784",
+            "recommendation": {
+                "resume_file": "138.json",
+                "recommendation_file": "Recommendation_From_ID_784.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's work experience. The language is formal, but the tone is overly positive.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "R Programming",
+                        "Customer Service",
+                        "Linear Model",
+                        "Regression Model",
+                        "GARCH Model",
+                        "ARIMA Model"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills and technical abilities. However, the source of the recommendation is unclear, and the tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "442",
+            "recommendation": {
+                "resume_file": "138.json",
+                "recommendation_file": "Recommendation_From_ID_442.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source claims to be an Assistant Operations Manager with significant experience in the banking sector, which is not directly related to the candidate's field of statistics. However, the recommendation does provide specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "R Programming",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, statistical methods, and customer service abilities. However, the source's background in the banking sector is not directly related to the candidate's field of statistics."
+                }
+            }
+        },
+        {
+            "recommender_id": "123",
+            "recommendation": {
+                "resume_file": "138.json",
+                "recommendation_file": "Recommendation_From_ID_123.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. The recommender's relationship with the candidate is unclear.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "R Programming",
+                        "Linear Model",
+                        "Regression Model",
+                        "Classification Model",
+                        "Neural Network",
+                        "GARCH Model",
+                        "ARIMA Model"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's analytical skills and experience in statistical methods and programming. However, the language is overly flattering, and the recommender's relationship with the candidate is unclear. The recommendation could benefit from more specific examples from the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "544",
+            "recommendation": {
+                "resume_file": "138.json",
+                "recommendation_file": "Recommendation_From_ID_544.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but no red flags or statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "R Programming",
+                        "Statistical knowledge",
+                        "Leadership skills",
+                        "Communication skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but may contain some exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "335",
+            "recommendation": {
+                "resume_file": "138.json",
+                "recommendation_file": "Recommendation_From_ID_335.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the language is formal and no statistically improbable claims are made.",
+                    "verified_skills": [
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, with some skills and experiences mentioned, but lacks substantial detail or alignment with the key areas of expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "902",
+            "recommendation": {
+                "resume_file": "138.json",
+                "recommendation_file": "Recommendation_From_ID_902.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Data Analysis",
+                        "R Programming",
+                        "Statistical Modeling"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies and exaggerated claims."
+                }
+            }
+        }
+    ]
+}

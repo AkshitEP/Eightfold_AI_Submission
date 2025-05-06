@@ -1,0 +1,111 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Consultant",
+                "work_description": "Prepares monthly payment reporting and analytics dashboard for senior management. Ad hoc reporting from data warehouses utilizing Teradata SQL and Oracle Business Intelligence Enterprise. Data analysis and tracking leveraging Access databases and Excel pivot tables, charts and VBA/macros. Supports M&A/divestitures and new product launches. Provides analysis to assist negotiations with credit card companies and payment processors.",
+                "company_level": "Mid-level",
+                "start_date": "02/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Senior Financial Analyst",
+                "work_description": "Finance liaison for indirect sales channel. Provided financial reporting and analysis to Sales and Marketing, covering 282 agents at 5,744 locations. Developed credit review processes in preparation of iPhone launches. Active stakeholder on behalf of FP&A for multiple initiatives. Provided insightful recommendations for a broad range of decision-making requirements. Participated in the development of business cases for projects. Developed and implemented B2B payment acceptance strategy, including optimization of commercial credit cards. Generated annual credit card interchange savings of $3.9M+ through various programs. Presented strategy and performance tracking to senior management. System administrator and project manager for ReconNET reconciliation & journalization system. Was responsible for keeping system support costs and new development expenses in line with budget. Supported Sarbanes Oxley testing, internal/external audits and month end close. Temporary assignment as Finance Manager to oversee launch of Softcard mobile wallet payment processing in trial markets.",
+                "company_level": "Mid-level",
+                "start_date": "04/2009",
+                "end_date": "02/2016"
+            },
+            {
+                "role_name": "Retail Analyst",
+                "work_description": "Prepared and distributed weekly/monthly aging reports for executive management. Partnered with fraud, audit and compliance teams to identify and address risk management concerns. Reconciled sales vs. deposits for ~90 retail locations on a daily basis. Investigated and reported significant variances.",
+                "company_level": "Mid-level",
+                "start_date": "02/2007",
+                "end_date": "04/2009"
+            },
+            {
+                "role_name": "Treasury Assistant",
+                "work_description": "Processed journal entries and assisted with other month end close duties. Led recovery of lost revenue associated with returned check payments.",
+                "company_level": "Mid-level",
+                "start_date": "05/2005",
+                "end_date": "02/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "STEVENS INSTITUTE OF TECHNOLOGY",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Management of Technology",
+                "level": "Master's"
+            },
+            {
+                "university": "SETON HALL UNIVERSITY",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Business Administration Finance",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience in financial analysis, reporting, and planning, with a strong track record of providing insightful recommendations and developing business cases for projects, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 5,
+                "explanation": "Has utilized various tools such as Teradata SQL, Oracle Business Intelligence Enterprise, Access databases, and Excel pivot tables to perform data analysis, suggesting expert-level proficiency."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Has prepared and presented financial reports to senior management, including monthly payment reporting and analytics dashboards, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has managed projects, including the development and implementation of a B2B payment acceptance strategy, and has experience with system administration and project management, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience as a finance liaison and has led teams, including a temporary assignment as Finance Manager, indicating strong leadership skills."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 5,
+                "explanation": "Has utilized Excel pivot tables, charts, and VBA/macros extensively for data analysis and reporting, suggesting expert-level proficiency."
+            },
+            {
+                "name": "SQL",
+                "level": 4,
+                "explanation": "Has utilized Teradata SQL for ad hoc reporting, suggesting strong proficiency."
+            },
+            {
+                "name": "Business Intelligence",
+                "level": 4,
+                "explanation": "Has utilized Oracle Business Intelligence Enterprise for ad hoc reporting, suggesting strong proficiency."
+            },
+            {
+                "name": "Access",
+                "level": 4,
+                "explanation": "Has utilized Access databases for data analysis and tracking, suggesting strong proficiency."
+            },
+            {
+                "name": "Risk Management",
+                "level": 3,
+                "explanation": "Has partnered with fraud, audit, and compliance teams to identify and address risk management concerns, indicating a solid working proficiency."
+            },
+            {
+                "name": "Audit and Compliance",
+                "level": 3,
+                "explanation": "Has supported Sarbanes Oxley testing, internal/external audits, and month-end close, indicating a solid working proficiency."
+            }
+        ]
+    }
+}

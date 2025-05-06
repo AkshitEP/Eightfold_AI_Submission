@@ -1,0 +1,16 @@
+{
+    "resume_file": "414.json",
+    "recommendation_file": "Recommendation_From_ID_672.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be referencing two different individuals, with the first part discussing an Account Service Representative II/Tech and the second part discussing the Certified Nurse Assistant. This inconsistency raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Patient Care",
+            "Communication",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation partially aligns with the candidate's skills and experience, but the inconsistency in referencing two different individuals raises concerns about the authenticity of the recommendation."
+    }
+}

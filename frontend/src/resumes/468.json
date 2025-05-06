@@ -1,0 +1,144 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Bureau Deputy Director",
+                "work_description": "Oversee and lead the Infrastructure & Operations IT Service, 24x7. This includes the supervision of four divisions: (1) Programming & Applications; (2) Networking & Communications; (3) Desktop Services & Support; and (4) Operating Systems & Database. Performance management and KPIs.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Information Technology Director",
+                "work_description": "Provided technical leadership to a data center and technical supervision of analysts, programmers, database administrators, and network as well as the support personnel.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2009",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Senior IT Project Manager",
+                "work_description": "Delivered technical direction for a multimillion dollar Monitoring and Controlling System.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2004",
+                "end_date": "08/2009"
+            },
+            {
+                "role_name": "IT Business Consultant",
+                "work_description": "Assist in computer network & voice integrator in over 11 Medical Center locations. Consulted for individuals and organizations in information technology business solution.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "06/2004"
+            },
+            {
+                "role_name": "Information Technology Business Consultant",
+                "work_description": "Assist in computer network & voice integrator in over 11 Medical Center locations. Consulted for individuals and organizations in information technology business solution.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "08/2004"
+            },
+            {
+                "role_name": "Professor",
+                "work_description": "Taught courses in (1) Optical Networking; (2) System Analysis and Design.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "06/2003"
+            },
+            {
+                "role_name": "Professor",
+                "work_description": "Taught graduate courses in (1) Data Communication, Networks and Distributed Processing; (2) Computer Concepts and Programming Tools; (3) Relational Databases.",
+                "company_level": "Mid-level",
+                "start_date": "09/1999",
+                "end_date": "08/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "Capella University",
+                "start_date": "01/1999",
+                "end_date": "12/2003",
+                "domain": "Organization and Management",
+                "level": "Ph.D."
+            },
+            {
+                "university": "Inter American University",
+                "start_date": "01/1995",
+                "end_date": "12/1999",
+                "domain": "Educational Computing",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Puerto Rico",
+                "start_date": "01/1990",
+                "end_date": "12/1995",
+                "domain": "Finance & Computers",
+                "level": "BSBA"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including overseeing and leading large teams, supervising multiple divisions, and providing technical direction for multimillion-dollar projects, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Has successfully managed multiple large-scale projects, including a multimillion-dollar Monitoring and Controlling System, demonstrating expert-level proficiency in project management."
+            },
+            {
+                "name": "IT Service Management",
+                "level": 5,
+                "explanation": "Has experience in overseeing and leading IT service management, including supervision of multiple divisions, performance management, and KPIs, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Administration",
+                "level": 4,
+                "explanation": "Has experience in network administration, including supervision of networking and communications divisions, suggesting strong proficiency."
+            },
+            {
+                "name": "Database Administration",
+                "level": 4,
+                "explanation": "Has experience in database administration, including supervision of database administrators, suggesting strong proficiency."
+            },
+            {
+                "name": "Computer Systems",
+                "level": 4,
+                "explanation": "Has experience in computer systems, including supervision of operating systems and desktop services, suggesting strong proficiency."
+            },
+            {
+                "name": "Teaching",
+                "level": 4,
+                "explanation": "Has experience in teaching graduate and undergraduate courses in various IT-related subjects, suggesting strong proficiency."
+            },
+            {
+                "name": "Consulting",
+                "level": 3,
+                "explanation": "Has experience in IT business consulting, assisting individuals and organizations in information technology business solutions, showing a solid working proficiency."
+            },
+            {
+                "name": "Optical Networking",
+                "level": 3,
+                "explanation": "Has experience in teaching optical networking courses, suggesting a solid working proficiency."
+            },
+            {
+                "name": "System Analysis and Design",
+                "level": 3,
+                "explanation": "Has experience in teaching system analysis and design courses, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Data Communication",
+                "level": 3,
+                "explanation": "Has experience in teaching data communication courses, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Relational Databases",
+                "level": 3,
+                "explanation": "Has experience in teaching relational databases courses, suggesting a solid working proficiency."
+            }
+        ]
+    }
+}

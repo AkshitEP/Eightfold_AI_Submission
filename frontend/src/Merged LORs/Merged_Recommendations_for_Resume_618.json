@@ -1,0 +1,66 @@
+{
+    "target_id": "618",
+    "recommendations": [
+        {
+            "recommender_id": "827",
+            "recommendation": {
+                "resume_file": "618.json",
+                "recommendation_file": "Recommendation_From_ID_827.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Training and Development",
+                        "Patient Care",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, clinical skills, and patient care abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "786",
+            "recommendation": {
+                "resume_file": "618.json",
+                "recommendation_file": "Recommendation_From_ID_786.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Training and Development",
+                        "Data Analysis",
+                        "Patient Care",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, patient care, and training abilities. The language used is formal and professional, indicating a genuine recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "423",
+            "recommendation": {
+                "resume_file": "618.json",
+                "recommendation_file": "Recommendation_From_ID_423.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Training and Development",
+                        "Patient Care",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, patient care, and teamwork abilities."
+                }
+            }
+        }
+    ]
+}

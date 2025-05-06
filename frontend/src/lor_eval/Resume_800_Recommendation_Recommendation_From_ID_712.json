@@ -1,0 +1,20 @@
+{
+    "resume_file": "800.json",
+    "recommendation_file": "Recommendation_From_ID_712.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and some claims seem slightly exaggerated.",
+        "verified_skills": [
+            "Software Quality Assurance",
+            "Test Case Development",
+            "Functional Testing",
+            "Regression Testing",
+            "GUI Testing",
+            "Security Testing (PCI Compliance)",
+            "Business Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their testing methods and collaboration with stakeholders. However, the recommender's relationship to the candidate is unclear, and some claims seem slightly exaggerated."
+    }
+}

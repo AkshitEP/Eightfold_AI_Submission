@@ -1,0 +1,109 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Specialist/ Horizontal Engineer",
+                "work_description": "Carried out all recruitment processes including head-hunting, reaching potential candidates by telephone/email, applicants' resume screening, interviewing applicants, processed background checks, shortlisting, finalizing hiring and closing vacancies. Carried out employee orientations and processed new hire paperwork, ensuring compliance with company requirements on time. Created, organized, updated and maintained personnel files and the HR database. Managed and coordinated employee training and development programs. Communicated with management and executives for creation, refreshing and/or interpreting policy changes. Provided administrative support for all HR functions, including filing, copying, general correspondence and support/preparation for meetings, trainings, orientations, executive travelling, etc.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2007",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Shipping Clerk",
+                "work_description": "Read customer order, work order, shipping order or requisition to determine items to be moved, gathered, or distributed or shipped. Go- to person throughout site departments to answer questions and resolve issues associated with shipping processes. Utilizing organizational and communication skills to train new hires on shipping operations and give progress reports to area supervisor. Gathered information via SAP system and checked for accurate data to give nightly reports to team as well as supervisors.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Lead/Report Specialist",
+                "work_description": "Performed financial data analysis and implemented improved reporting tools. Prepared presentations and developed project plans. Automated manual data processes with help of macros. Collected useful information related to customers, suppliers and industry. Transformed data into charts and graphs for easier analysis and interpretation. Drafted proposals and created web analytics report.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2014",
+                "end_date": "01/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Grantham University",
+                "start_date": "01/2018",
+                "end_date": "12/2018",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "AIT",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Human Resource",
+                "level": "Certification"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Carried out all recruitment processes, including head-hunting, interviewing, and shortlisting, showing strong proficiency."
+            },
+            {
+                "name": "Employee Onboarding",
+                "level": 4,
+                "explanation": "Processed new hire paperwork, created personnel files, and managed employee orientations, indicating strong proficiency."
+            },
+            {
+                "name": "HR Database Management",
+                "level": 3,
+                "explanation": "Created, organized, updated, and maintained personnel files and the HR database, showing solid working proficiency."
+            },
+            {
+                "name": "Employee Training and Development",
+                "level": 3,
+                "explanation": "Managed and coordinated employee training and development programs, indicating solid working proficiency."
+            },
+            {
+                "name": "Policy Development and Interpretation",
+                "level": 3,
+                "explanation": "Communicated with management and executives for creation, refreshing, and/or interpreting policy changes, showing solid working proficiency."
+            },
+            {
+                "name": "Administrative Support",
+                "level": 3,
+                "explanation": "Provided administrative support for all HR functions, including filing, copying, and general correspondence, indicating solid working proficiency."
+            },
+            {
+                "name": "Shipping Operations",
+                "level": 2,
+                "explanation": "Utilized organizational and communication skills to train new hires on shipping operations, showing some practical experience."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Performed financial data analysis and implemented improved reporting tools, indicating solid working proficiency."
+            },
+            {
+                "name": "Reporting and Presentation",
+                "level": 3,
+                "explanation": "Prepared presentations and developed project plans, showing solid working proficiency."
+            },
+            {
+                "name": "Data Visualization",
+                "level": 3,
+                "explanation": "Transformed data into charts and graphs for easier analysis and interpretation, indicating solid working proficiency."
+            },
+            {
+                "name": "Web Analytics",
+                "level": 2,
+                "explanation": "Created web analytics reports, showing some practical experience."
+            },
+            {
+                "name": "SAP System",
+                "level": 2,
+                "explanation": "Utilized SAP system to gather information and check for accurate data, showing some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "target_id": "339",
+    "recommendations": [
+        {
+            "recommender_id": "304",
+            "recommendation": {
+                "resume_file": "339.json",
+                "recommendation_file": "Recommendation_From_ID_304.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Nursing",
+                        "Operations Management",
+                        "Quality Assurance",
+                        "Risk Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and operational management abilities. However, the recommender's background in government accounting and financial management seems unrelated to the candidate's field, which might raise some questions about their ability to assess the candidate's technical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "342",
+            "recommendation": {
+                "resume_file": "339.json",
+                "recommendation_file": "Recommendation_From_ID_342.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's background as a Staff Accountant seems unrelated to the candidate's field, which raises some concerns about the recommender's ability to accurately assess the candidate's skills and expertise.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Nursing",
+                        "Operations Management",
+                        "Quality Assurance",
+                        "Risk Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and management abilities. However, the recommender's background and expertise in accounting may not be directly relevant to the candidate's field, which could impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "115",
+            "recommendation": {
+                "resume_file": "339.json",
+                "recommendation_file": "Recommendation_From_ID_115.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Nursing",
+                        "Operations Management",
+                        "Quality Assurance",
+                        "Risk Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, nursing, and operational management abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "461",
+            "recommendation": {
+                "resume_file": "339.json",
+                "recommendation_file": "Recommendation_From_ID_461.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Nursing",
+                        "Operations Management",
+                        "Quality Assurance",
+                        "Risk Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, nursing, and operational management abilities. The source of the recommendation is a Senior Medical Recruiter, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "621",
+            "recommendation": {
+                "resume_file": "339.json",
+                "recommendation_file": "Recommendation_From_ID_621.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims raise concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Attention to detail",
+                        "Critical thinking",
+                        "Patient-centered approach"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation verifies some skills, but not all, and raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "408",
+            "recommendation": {
+                "resume_file": "339.json",
+                "recommendation_file": "Recommendation_From_ID_408.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be addressing two different individuals, and the claims made about the candidate's expertise in fitness and wellness seem unrealistic. Informal language and statistically improbable claims are present.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Nursing",
+                        "Risk Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems to be exaggerated and contains unrelated skills and experiences. The language used is formal, but the claims made about the candidate's expertise seem unrealistic."
+                }
+            }
+        }
+    ]
+}

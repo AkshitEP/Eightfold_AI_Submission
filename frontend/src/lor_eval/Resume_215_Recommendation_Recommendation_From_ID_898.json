@@ -1,0 +1,16 @@
+{
+    "resume_file": "215.json",
+    "recommendation_file": "Recommendation_From_ID_898.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions an Information Technology Specialist, which is not relevant to the candidate's skills and experience. The language is formal, but the recommendation focuses on a collaboration rather than solely on the candidate's skills and experience.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Auditing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in general accounting, financial reconciliation, and auditing, but it also mentions a collaboration with an Information Technology Specialist, which is not relevant to the candidate's skills and experience. The recommendation is well-written and formal, but it could be more focused on the candidate's skills and experience."
+    }
+}

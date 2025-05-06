@@ -1,0 +1,17 @@
+{
+    "resume_id": 2,
+    "recommendation_file": "Recommendation_From_ID_624.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be written by someone without direct experience in the fitness industry, and the language used is overly general and lacks specific examples. The recommender's background as a cashier and receptionist does not provide a strong basis for evaluating the candidate's fitness expertise.",
+        "verified_skills": [
+            "Fitness Instruction",
+            "Personal Training",
+            "Leadership",
+            "Fitness Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in personal training and fitness management, but the recommender's lack of direct experience in the fitness industry raises concerns about the credibility of the recommendation."
+    }
+}

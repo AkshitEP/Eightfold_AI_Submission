@@ -1,0 +1,47 @@
+{
+    "target_id": "746",
+    "recommendations": [
+        {
+            "recommender_id": "250",
+            "recommendation": {
+                "resume_file": "746.json",
+                "recommendation_file": "Recommendation_From_ID_250.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Office Administration",
+                        "Organizational Skills",
+                        "Communication",
+                        "Time Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative abilities and office management skills. However, it does not directly reference the candidate's teaching or curriculum development experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "218",
+            "recommendation": {
+                "resume_file": "746.json",
+                "recommendation_file": "Recommendation_From_ID_218.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Office Administration",
+                        "Communication",
+                        "Organizational Skills",
+                        "Time Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, communication abilities, and leadership qualities."
+                }
+            }
+        }
+    ]
+}

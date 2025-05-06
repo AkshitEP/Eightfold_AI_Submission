@@ -1,0 +1,18 @@
+{
+    "resume_file": "493.json",
+    "recommendation_file": "Recommendation_From_ID_100.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's resume. However, the recommendation does align with the candidate's skills and experience.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Team Management",
+            "Problem-Solving",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership, project management, and team management skills, which are consistent with their resume. However, the recommendation lacks specific examples and seems overly flattering, which raises some concerns about its credibility."
+    }
+}

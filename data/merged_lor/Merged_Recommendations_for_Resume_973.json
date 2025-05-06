@@ -1,0 +1,115 @@
+{
+    "target_id": "973",
+    "recommendations": [
+        {
+            "recommender_id": "199",
+            "recommendation": {
+                "resume_id": 973,
+                "recommendation_file": "Recommendation_From_ID_199.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation highlights skills not explicitly mentioned in the resume, such as logistical management and program management, but still seems largely credible.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's administrative experience, but some claims seem exaggerated or unsupported. The source of the recommendation is unclear, and the language is formal."
+                }
+            }
+        },
+        {
+            "recommender_id": "886",
+            "recommendation": {
+                "resume_file": "973.json",
+                "recommendation_file": "Recommendation_From_ID_886.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, such as comparing the candidate's skills to those required in managing a fleet of ocean-going vessels. The Finance Director's role and the maritime logistics context seem unrelated to the candidate's experience and skills.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Communication",
+                        "Time Management",
+                        "Microsoft Office"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's administrative skills, attention to detail, and organizational capabilities, but the language and examples used are overly dramatic and unrelated to the candidate's actual experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "760",
+            "recommendation": {
+                "resume_file": "973.json",
+                "recommendation_file": "Recommendation_From_ID_760.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is attempting to misrepresent the candidate's qualifications by mentioning experience and skills that are not present in the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is not genuine and is attempting to misrepresent the candidate's qualifications."
+                }
+            }
+        },
+        {
+            "recommender_id": "741",
+            "recommendation": {
+                "resume_file": "973.json",
+                "recommendation_file": "Recommendation_From_ID_741.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language. The mention of 'legislation surrounding agricultural compliance' and 'intricate inventories of specialized honey production' seems unrelated to the candidate's job history and skills. Additionally, the claim about conducting 'training sessions for drones used in agricultural monitoring' appears unrealistic and unsupported by the resume.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation contains some relevant information about the candidate's administrative skills and communication abilities, but it is largely overshadowed by unrealistic and exaggerated claims. The source of the recommendation is unclear, and the language used is overly flattering and lacks specific examples from the candidate's job history."
+                }
+            }
+        },
+        {
+            "recommender_id": "236",
+            "recommendation": {
+                "resume_file": "973.json",
+                "recommendation_file": "Recommendation_From_ID_236.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation contains statistically improbable claims, such as working with the Hogwarts Ministry of Magic and handling 'secretive time travel information systems.' Additionally, the mention of 'magical creativity' and 'advanced herbal remedies' seems out of place in a professional recommendation. The tone is also overly effusive and informal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "While the recommendation mentions some relevant skills and experience, it is largely undermined by its fantastical and informal tone. The claims made are unrealistic and lack concrete evidence from the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "704",
+            "recommendation": {
+                "resume_file": "973.json",
+                "recommendation_file": "Recommendation_From_ID_704.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The source of the recommendation is unclear, and the language is formal but slightly effusive.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in administrative support, communication, and time management, which align with their job history and skills. However, the language is slightly effusive, and the source of the recommendation is unclear."
+                }
+            }
+        }
+    ]
+}

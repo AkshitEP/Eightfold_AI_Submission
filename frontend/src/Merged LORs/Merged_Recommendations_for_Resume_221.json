@@ -1,0 +1,26 @@
+{
+    "target_id": "221",
+    "recommendations": [
+        {
+            "recommender_id": "373",
+            "recommendation": {
+                "resume_file": "221.json",
+                "recommendation_file": "Recommendation_From_ID_373.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions unrelated experience in clinical research and quality assurance. The language is formal, but some claims seem exaggerated.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in project management, payroll management, budgeting, leadership, and healthcare administration. However, the mention of unrelated experience in clinical research and quality assurance raises some concerns."
+                }
+            }
+        }
+    ]
+}

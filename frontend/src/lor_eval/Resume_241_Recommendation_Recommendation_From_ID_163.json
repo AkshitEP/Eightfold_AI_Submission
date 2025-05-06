@@ -1,0 +1,17 @@
+{
+    "resume_file": "241.json",
+    "recommendation_file": "Recommendation_From_ID_163.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions some skills and experiences not explicitly listed in the resume, such as 'time management' and 'team building'. Additionally, the source of the recommendation is unclear, and the language is somewhat informal.",
+        "verified_skills": [
+            "Training and Development",
+            "Leadership",
+            "Communication",
+            "Mentoring"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their training and communication abilities. However, some skills mentioned in the recommendation are not explicitly listed in the resume, and the source of the recommendation is unclear."
+    }
+}

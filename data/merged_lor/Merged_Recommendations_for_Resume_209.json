@@ -1,0 +1,96 @@
+{
+    "target_id": "209",
+    "recommendations": [
+        {
+            "recommender_id": "188",
+            "recommendation": {
+                "resume_file": "209.json",
+                "recommendation_file": "Recommendation_From_ID_188.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written for a different role (finance assistant) than the one described in the resume (VP of Finance). Some skills mentioned in the recommendation are not explicitly mentioned in the resume.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Accounting",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not seem to be tailored to the candidate's current role or experience. While it mentions some relevant skills, it appears to be written for a different position."
+                }
+            }
+        },
+        {
+            "recommender_id": "952",
+            "recommendation": {
+                "resume_file": "209.json",
+                "recommendation_file": "Recommendation_From_ID_952.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Accounting",
+                        "Leadership",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Risk Management",
+                        "Project Management",
+                        "Strategic Planning",
+                        "Team Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities. The recommender's position as the VP of Finance adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "626",
+            "recommendation": {
+                "resume_file": "209.json",
+                "recommendation_file": "Recommendation_From_ID_626.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Strategic Planning",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and financial management abilities. The source of the recommendation is a Senior Finance Manager, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "153",
+            "recommendation": {
+                "resume_file": "209.json",
+                "recommendation_file": "Recommendation_From_ID_153.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Accounting",
+                        "Leadership",
+                        "Strategic Planning",
+                        "Team Management",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and strategic planning abilities. The recommender's tone is professional and objective, indicating a genuine endorsement."
+                }
+            }
+        }
+    ]
+}

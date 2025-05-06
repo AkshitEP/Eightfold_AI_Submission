@@ -1,0 +1,16 @@
+{
+    "resume_file": "739.json",
+    "recommendation_file": "Recommendation_From_ID_21.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims detected, but no informal language or statistically improbable claims.",
+        "verified_skills": [
+            "Payroll Management",
+            "Accounting",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns partially with the candidate's skills and experience, but lacks substantial detail and alignment with key areas of expertise."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "687.json",
+    "recommendation_file": "Recommendation_From_ID_515.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's work experience. The recommender's relationship to the candidate is unclear, and their profession as a Client Relations Advocate seems unrelated to the candidate's field.",
+        "verified_skills": [
+            "Leadership",
+            "Mentoring",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and interpersonal skills, but it does not provide concrete examples from their work experience. The recommender's profession and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+    }
+}

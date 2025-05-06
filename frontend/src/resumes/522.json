@@ -1,0 +1,160 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Track and control over 150 change requests per month. Manage the repository for Software and Customer Requirements Documents, Agreements and Governance Specifications. Document and communicate defects and problems with stakeholders and developers. Develop and report critical metrics related to CRSMB change request activity. Ensure that all activities involved in the software design, coding and testing of the application software have been successfully completed before releasing software for independent testing and deployment into the production environment. Deploy application software to the Test and Production environments using code management tools. Manage logging change requests into the tracking system and assigning work activities to members of the branch. Evaluate the adequacy of current CM processes and procedures and make recommendations for CM process improvement. Coordinate and communicate with developers, subject matter personnel, stakeholders, database management support and project managers. Performed platform testing and performance testing during the migration to the Serena Business Management (SBM) system. Collaborated in the design of the Serena Business Manager (SBM) Workflow. Administrator for the Serena Business Manager (SBM) System. Proficiency in working with Serena Version Manager as a software repository, WinSCP and Reflections for the migration and staging of application software to the testing and production LINUX environment. Maintain the Branch's SharePoint Site, ensuring current documentation and resources are available to the Division. Document CM procedures and provide training to new CM staff members, and members of the Division. Execute test scripts as needed in the implementation and deployment of software related Test and Production project development. Assure that software releases are performed in compliance with established CMMI guidelines. Solve technology related issues by researching potential problems and offer a solution in the deployment of software and change request tracking. Ensure that each CM change request has passed regulated security checks. Maintain a well established, well defined, documented, and repeatable processes within standards of Capability Maturity Model Integration (CMMI)",
+                "company_level": "Mid-level",
+                "start_date": "08/2006",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Computer Specialist",
+                "work_description": "Detailed and refined requirements, wrote algorithms, developed programs and command procedures. Developed solutions to improve software performance. Enhanced testing procedures. Performed software testing, debugging, and validation using internally developed test scripts, test plans, and results criteria. Developed and delivered software products. Communicated with IT staff and subject matter on project requirements Conducted program demonstrations with team members prior to the release of software. Performed extensive database testing, automated testing and data validation in support of the MAF/TIGER database's migration to Oracle. Developed database test scenarios and supporting software in Pro C and Oracle to validate the migration to the Oracle platform. Worked extensively in PL/SQL, SQL, Shell scripting in LINUX, JavaScript, SAS, and Visual Basic. Attended meetings with Division managers to review project status and proposed changes. Created status reports and posted to the GEO website for management review. Designed and maintained branch website.",
+                "company_level": "Mid-level",
+                "start_date": "08/1996",
+                "end_date": "08/2006"
+            },
+            {
+                "role_name": "Computer Specialist",
+                "work_description": "Designed and developed electronic questionnaires, 'instruments', for Computer Assisted Survey Information Collection (CASIC) activities. Led meetings with subject matter staff to review project status and proposed changes. Met with the subject matter staff and the sponsor on the details and development of the programming specifications, design and testing of the CAI. Delivered status reports to stakeholders for budgeting and planning purposes. Collaborated with program sponsor to draft project schedules and plans. Served as the single point of contact for project scheduling and changes. Program Manager of the Survey of Inmates of Local Jails.",
+                "company_level": "Mid-level",
+                "start_date": "07/1994",
+                "end_date": "08/1996"
+            },
+            {
+                "role_name": "Mathematical Statistician",
+                "work_description": "Worked in the Research & Methodology Branch of the Industry Division. Worked with team on the statistical methodology for designing a ratio estimation procedure. Developed estimation and variance methodologies. Developed the sampling frame, and independent probability proportional-to-size sampling (PPS) maintenance of surveys. Designed computer algorithms for assigning the sampling weights, the nonresponse sample weight adjustment, and calculation of the estimates, variances, and relative standard sampling errors. Developed computer software needed for survey sample selection. Provided programming expertise, assisted subject matter analysts with software and instruments for aiding in data reviews for the many annual and monthly surveys.",
+                "company_level": "Mid-level",
+                "start_date": "02/1988",
+                "end_date": "07/1994"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Maryland",
+                "start_date": "01/0000",
+                "end_date": "12/0000",
+                "domain": "Applied Probability and Statistics",
+                "level": "Unknown"
+            },
+            {
+                "university": "USDA Graduate School",
+                "start_date": "01/0000",
+                "end_date": "12/0000",
+                "domain": "Survey Theory",
+                "level": "Unknown"
+            },
+            {
+                "university": "Indiana University of Pennsylvania",
+                "start_date": "01/0000",
+                "end_date": "12/0000",
+                "domain": "Urban Regional Planning",
+                "level": "Master of Science"
+            },
+            {
+                "university": "Indiana University of Pennsylvania",
+                "start_date": "01/0000",
+                "end_date": "12/0000",
+                "domain": "Physical Geography",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Software Development",
+                "level": 5,
+                "explanation": "Extensive experience in software development, including designing, developing, testing, and deploying software applications, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed multiple projects, including tracking change requests, coordinating with stakeholders, and ensuring compliance with established guidelines, showing strong proficiency."
+            },
+            {
+                "name": "Change Management",
+                "level": 4,
+                "explanation": "Handled change requests, ensured compliance with established guidelines, and maintained well-established processes, indicating strong proficiency."
+            },
+            {
+                "name": "Database Management",
+                "level": 4,
+                "explanation": "Extensive experience in database testing, migration, and management, including working with Oracle, PL/SQL, and SQL, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Led meetings, collaborated with stakeholders, and served as a single point of contact for project scheduling and changes, indicating solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with stakeholders, subject matter staff, and team members, including creating status reports and presenting project updates, showing strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Solved technology-related issues by researching potential problems and offering solutions, indicating strong proficiency."
+            },
+            {
+                "name": "Testing and Quality Assurance",
+                "level": 4,
+                "explanation": "Conducted extensive testing, including software testing, debugging, and validation, showing strong proficiency."
+            },
+            {
+                "name": "Algorithm Development",
+                "level": 4,
+                "explanation": "Developed algorithms and computer software for various applications, including survey sample selection and data analysis, indicating strong proficiency."
+            },
+            {
+                "name": "Statistical Analysis",
+                "level": 4,
+                "explanation": "Worked on statistical methodology, including designing ratio estimation procedures and developing estimation and variance methodologies, showing strong proficiency."
+            },
+            {
+                "name": "Survey Methodology",
+                "level": 4,
+                "explanation": "Developed and implemented survey methodologies, including designing computer algorithms and software for survey sample selection, indicating strong proficiency."
+            },
+            {
+                "name": "PL/SQL",
+                "level": 4,
+                "explanation": "Worked extensively with PL/SQL, including developing database test scenarios and supporting software, showing strong proficiency."
+            },
+            {
+                "name": "SQL",
+                "level": 4,
+                "explanation": "Worked extensively with SQL, including database testing and migration, showing strong proficiency."
+            },
+            {
+                "name": "JavaScript",
+                "level": 3,
+                "explanation": "Used JavaScript for various applications, including software development and testing, indicating solid working proficiency."
+            },
+            {
+                "name": "SAS",
+                "level": 3,
+                "explanation": "Used SAS for data analysis and statistical analysis, indicating solid working proficiency."
+            },
+            {
+                "name": "Visual Basic",
+                "level": 3,
+                "explanation": "Used Visual Basic for software development and testing, indicating solid working proficiency."
+            },
+            {
+                "name": "LINUX",
+                "level": 4,
+                "explanation": "Worked extensively with LINUX, including shell scripting and database management, showing strong proficiency."
+            },
+            {
+                "name": "SharePoint",
+                "level": 3,
+                "explanation": "Maintained a SharePoint site, ensuring current documentation and resources were available, indicating solid working proficiency."
+            }
+        ]
+    }
+}

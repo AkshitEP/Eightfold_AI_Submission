@@ -1,0 +1,1001 @@
+Index,ID,Last Job,Influence,Risk Score,Hiring Score,Work Experience,Skill 1,Skill 2,Skill 3,Skill 4,Skill 5,Skill 6,Skill 7,Skill 8,Skill 9,Skill 10
+0,0,Bilingual Language Arts Sixth Grade Teacher,7,12.5,46.01,15,Teaching,Curriculum Development,Classroom Management,Leadership,Project Management,Community Outreach,Spanish Language Instruction,Academic Advising,,
+1,1,Mortgage Banking Default Operations Specialist II,8,36.7,27.27,19,Mortgage Banking,Customer Service,Leadership,Project Management,Communication,Problem-Solving,Time Management,Training and Development,Audio-Visual Technology,
+2,2,Guest Lecturer,7,28.0,20.58,19,Fitness Instruction,Personal Training,Leadership,Fitness Management,Sports Management,Group Fitness Instruction,Communication,English,,
+3,3,Accountant,8,21.2,24.68,19,Accounting,Financial Reconciliation,Procurement,Auditing,Data Analysis,Project Management,Leadership,Communication,French,
+4,4,Staff Accountant,7,8.0,53.81,22,Financial Reconciliation,General Accounting,Payroll Management,Budgeting,Leadership,Microsoft Excel,Accounting Supervision,Financial Analysis,,
+5,5,HR - Shared Services Supervisor,9,30.7,18.43,19,Leadership,Performance Management,Talent Management,Coaching,Communication,Problem-Solving,Time Management,Customer Service,Training and Development,
+6,6,Organizer and Capacity Building Strategist,9,0.0,64.4,24,Advocacy,Community Organizing,Disability Rights,Education,Nonprofit Management,Social Justice,Leadership,Project Management,Communication,
+7,7,HR Director,8,6.0,56.9,28,Communication,Training and Development,Problem-Solving,Policy Development,Leadership,Employee Relations,Human Resources Management,,,
+8,8,Special Instructor of Composition Administration,8,40.0,14.33,21,Curriculum Design,Instructional Design,Leadership,Mentoring,Project Management,Communication,Team Collaboration,Time Management,Problem-Solving,Technology Integration
+9,9,Member Services Representative,7,25.0,31.01,14,Customer Service,Risk Analysis,Problem-Solving,Communication,Time Management,Adaptability,,,,
+10,10,Operations Manager,7,15.5,52.99,12,Leadership,Project Management,Risk Management,Quality Assurance,Process Improvement,Client Service,Team Management,Data Analysis,AML/KYC Policy,Technology
+11,11,Banking Relationship Specialist,7,54.0,13.31,7,Customer Service,Cash Handling,Banking Operations,Data Entry,Time Management,Communication,,,,
+12,12,Partner Account Manager,9,0.0,48.24,14,Project Management,Account Management,Data Analysis,Marketing,Customer Relationship Management,Leadership,Oracle SQL,,,
+13,13,Healthcare Recruiter,7,29.5,19.36,34,Recruitment,Staffing Management,Marketing Strategy,HR Support,Benefits Administration,Communication,Leadership,,,
+14,14,Floater/Teacher,7,25.0,26.35,16,Teaching,Classroom Management,Leadership,Physical Education,Child Development,Nutrition Education,Safety Management,Lesson Planning,Assessment and Evaluation,
+15,15,Finance and Operations Manager,8,45.9,22.15,11,Financial Analysis,Financial Reporting,Budgeting,Inventory Management,Leadership,Process Improvement,Cash Flow Management,Financial Planning,Microsoft Office,
+16,16,Phlebotomist,6,76.5,1.57,22,Phlebotomy,Customer Service,Laboratory Procedures,Administrative Support,,,,,,
+17,17,Finance Manager,9,76.5,2.48,46,Financial Management,Auditing,Accounting,Budgeting,Leadership,Contract Management,Financial Analysis,Compliance,,
+18,18,Support & Network Services Intern,6,6.0,62.55,3,Microsoft Office,Microsoft SCSM,Asset Management,Windows XP/7 Migration,Troubleshooting,IT Support,,,,
+19,19,Banking Officer,9,50.0,10.53,10,Financial Analysis,Leadership,Marketing Strategy,Budgeting,Financial Planning,Communication,Project Management,Community Leadership,Time Management,
+20,20,HR Manager,7,10.0,33.88,16,Human Resources Management,Recruitment and Talent Acquisition,Employee Relations and Communication,Benefits Administration,Payroll Management,Leadership and Management,Employee Development and Training,Compliance and Risk Management,Data Analysis and Reporting,
+21,21,HR Generalist/Recruiter,6,20.0,41.22,10,Recruitment,Employee Relations,Training and Development,Leadership,Communication,Time Management,Employee Onboarding,Benefits Administration,Applicant Tracking System,
+22,22,Domestic Violence Counselor Advocate,7,17.5,47.79,24,Crisis Intervention,Trauma-Informed Care,Case Management,Group Facilitation,Leadership,Administrative Support,,,,
+23,23,Assistant Vice President,10,0.0,79.65,18,Leadership,Project Management,Risk Management,Financial Analysis,Compliance,Communication,Financial Products,Regulatory Knowledge,Team Management,Business Process Improvement
+24,24,Director of Finance,9,18.7,48.8,18,Financial Planning and Analysis,Leadership,Cost Accounting,Financial Reporting,Budgeting,Financial Analysis,Project Management,Microsoft Excel,Microsoft Access,SAP
+25,25,Healthcare Consultant,9,25.0,38.42,28,Network Development,Contract Negotiation,Provider Relations,Leadership,Project Management,Communication,Problem-Solving,Time Management,Fitness Instruction,
+26,26,HR Manager,7,25.0,45.0,17,Human Resource Management,Recruitment,Payroll Management,Leadership,Training and Development,Compliance,Employee Relations,Benefits Administration,,
+27,27,Group Fitness Coordinator,7,48.6,1.88,12,Leadership,Program Management,Event Planning,Marketing,Child Development,Communication,Fitness Instruction,,,
+28,28,Line Attendant,6,50.8,7.57,7,Customer Service,Leadership,Time Management,Inventory Management,Food Preparation,Quality Assurance,,,,
+29,29,Information Technology Specialist,7,0.0,52.71,21,Network Security,Digital Evidence Analysis,Compliance Management,Technical Support,Training and Development,Cisco Systems,Information and Computer Science,,,
+30,30,PROJECT ACCOUNTANT,8,5.0,55.18,41,Project Management,Construction Management,Accounting,Microsoft Applications,Contract Management,Budgeting,Leadership,Database Management,,
+31,31,Platform Architect,9,54.0,6.74,16,Software Architecture,Software Development,Leadership,API Design,Cloud Computing,Data Analytics,Web Development,Project Management,,
+32,32,Volunteer HR - iVolunteer,8,5.0,67.81,13,Recruitment,Talent Acquisition,Interviewing,Negotiation,Leadership,,,,,
+33,33,Accountant,7,17.8,39.92,13,General Accounting,Financial Analysis,Tax Preparation,Auditing,Financial Reconciliation,QuickBooks,SAP,,,
+34,34,RF Systems Engineer,9,50.0,12.81,13,Project Management,Leadership,Data Analysis,Electrical Engineering,System Design,SQL,Matlab,Data Acquisition,Signal Processing,
+35,35,Personnel Security Specialist,8,51.9,11.71,16,Security Clearance Management,Personnel Security,Information Security,Physical Security,Leadership,Communication,Data Management,Training and Development,,
+36,36,Supervisor,7,48.2,12.17,15,Leadership,Operational Management,Customer Service,Project Management,Time Management,Communication,Healthcare Administration,,,
+37,37,Senior Student Accounts Officer,8,25.0,42.98,18,Financial Planning,Financial Aid Management,Customer Service,Leadership,Sales and Marketing,Time Management,Communication,Problem-Solving,Accounting,Data Analysis
+38,38,Instructional Designer,7,52.8,13.58,22,Instructional Design,E-Learning Development,Quality Assurance,Troubleshooting,Electronics Repair,Test Equipment Operation,Project Management,Leadership,Communication,Microsoft Office
+39,39,"Banking Center Manager, Assistant Vice President",9,62.4,4.4,22,Leadership,Human Resource Management,Sales and Business Development,Customer Service,Public Speaking and Presentation,,,,,
+40,40,Healthcare Marketing Specialist,7,12.5,46.67,11,Marketing Analysis,Project Management,Social Media Management,Data Analysis,Budgeting,Leadership,Communication,Customer Service,Time Management,Teamwork
+41,41,Co-Founder/Therapist and Teaching Artist,8,57.1,8.41,12,Therapy,Counseling,Psychiatric Evaluation,Medication Management,Risk Assessment,Treatment Planning,Case Management,Crisis Intervention,Teaching,Leadership
+42,42,Assistant Manager - HR,7,8.8,61.54,7,Recruitment,HR Administration,Training & Development,Performance Appraisal,Employee Engagement,SAP-HR,HR Database Management,,,
+43,43,HR COORDINATOR,7,0.0,76.84,20,Human Resources,Leadership,Employee Relations,Benefits Administration,Policy Development,Training and Development,Organizational Leadership,,,
+44,44,Sales & Customer Service Rep,7,31.0,28.77,21,Customer Service,Sales,Human Resources,Recruitment,Communication,Organization,,,,
+45,45,Fitness Staff,6,30.0,39.2,13,Communication,Customer Service,Time Management,Data Entry,Dental Assisting,Office Administration,,,,
+46,46,General Accountant,6,0.0,41.83,6,General Accounting,Financial Reporting,Account Reconciliation,Audit Process,Customer Service,Time Management,Data Entry,Banking Systems,,
+47,47,Accountant,6,17.8,59.4,14,Accounting,Financial Analysis,Financial Reporting,Inventory Management,Payroll Management,Budgeting,Financial Planning,Microsoft Excel,,
+48,48,HR Executive,8,4.0,62.95,10,Recruitment,Payroll Management,HR Operations,Employee Engagement,Microsoft Office,SAP,Leadership,Communication,Time Management,
+49,49,Admissions Executive,7,25.5,34.75,19,Leadership,Communication,Event Planning,Customer Service,Data Analysis,Microsoft Excel,Project Management,Counseling,Community Outreach,Time Management
+50,50,Highly accomplished Healthcare Analyst,9,50.2,14.92,41,Data Analysis,Financial Consulting,Project Management,Business Planning,Financial Systems Implementation,Leadership,Communication,,,
+51,51,Information Technology Specialist,5,46.0,13.66,8,Microsoft Software Installation,Technical Support,Leadership,Team Management,Customer Service,Time Management,,,,
+52,52,Corporate Accountant,8,0.0,76.84,36,Financial Management,Accounting,Leadership,Project Management,IT Management,Budgeting,Payroll Management,Human Resources,,
+53,53,Receiving Manager,8,6.0,56.9,10,Leadership,Inventory Management,Operations Management,Customer Service,Team Management,Financial Management,Project Management,Communication,Time Management,Problem-Solving
+54,54,Accountant,8,0.0,74.64,29,General Accounting,Financial Reconciliation,Inventory Management,Payroll Management,Leadership,ERP System Implementation,Budgeting,Cost Control,Financial Analysis,Microsoft Excel
+55,55,"Mortgage Group Operations Manager, Banking Officer",10,8.0,65.04,23,Leadership,Banking Operations,Mortgage Lending,Credit Analysis,Loan Administration,Financial Analysis,Sales and Marketing,Customer Service,Compliance and Risk Management,Project Management
+56,56,Information Technology Support Specialist Network Specialist ~ PC Technician IT Consultant Customer Engineer,8,13.5,53.58,12,Network Management,Desktop Support,Leadership,Data Migration,Network Attached Storage (NAS),IT Project Management,,,,
+57,57,Manager,7,8.0,43.05,18,Leadership,Sales,Customer Service,Training and Development,Time Management,Communication,Problem-Solving,Fitness Instruction,Quality Assurance,
+58,58,HR Director,9,26.9,28.17,13,HR Management,Employee Relations,Recruitment and Hiring,Benefits Administration,Payroll Management,Compliance and Risk Management,Leadership and Management,Communication and Interpersonal Skills,HRIS and Database Management,
+59,59,Fitness Director,8,23.2,45.32,18,Leadership,Event Management,Customer Service,Program Management,Sales,Fitness Training,Time Management,,,
+60,60,Occupational Therapist,10,18.8,19.93,20,Occupational Therapy,Leadership,Healthcare Management,Team Management,Compliance,Financial Management,,,,
+61,61,Maintenance Specialist/Technician,7,68.0,4.64,13,Logistics,Aviation Maintenance,Electronics,Radar Maintenance,,,,,,
+62,62,Home Health Care Provider,7,28.3,27.65,12,Healthcare Management,Patient Care,Aircraft Hydraulics Systems,Maintenance and Repair,Safety and Hazardous Material Handling,Communication and Interpersonal Skills,Time Management and Organization,HIPAA Compliance,,
+63,63,Overnight Pharmacy Technician,7,56.8,8.04,16,Pharmacy Operations,Medication Management,Sterile Compounding,Inventory Management,Customer Service,Leadership,,,,
+64,64,Transitional Housing Advocate,7,9.8,52.4,23,Case Management,Advocacy,Counseling,Project Coordination,Data Management,Customer Service,Time Management,Communication,,
+65,65,Licensed United Healthcare Insurance Sales Agent,9,25.0,32.2,10,Sales,Customer Service,Communication,Time Management,Problem-Solving,HIPAA Compliance,Negotiation,Team Collaboration,,
+66,66,Accountant,8,0.0,64.4,21,Auditing,Financial Analysis,Accounting,Financial Reconciliation,Leadership,Grant Compliance,Financial Reporting,Budgeting,,
+67,67,IT Technology Specialist,7,15.4,64.41,14,Network Administration,Computer Hardware Support,Software Support,Troubleshooting,Leadership,Communication,Network Security,,,
+68,68,Senior HR Business Partner,8,15.2,31.31,16,Recruitment,HR Policy Development,Employee Onboarding,Benefits Administration,Employee Training,Employee Relations,Compliance,Leadership,,
+69,69,Customer Service Representative,7,0.0,72.91,12,Customer Service,Leadership,Communication,Time Management,Conflict Resolution,Team Management,Computer Literacy,,,
+70,70,Licensed Healthcare Communicator,9,29.8,24.91,15,Nursing,Patient Education,Leadership,Case Management,Communication,Time Management,Documentation,Billing and Insurance,Quality Monitoring,Training and Development
+71,71,HR Coordinator,6,0.0,64.4,20.25,Recruitment,Employee Onboarding,HR Administration,Event Planning,Compliance,Employee Relations,Microsoft Office,SAP Administration,SharePoint,Leadership
+72,72,Food Server,7,62.2,5.31,10,Customer Service,Communication,Time Management,Teamwork,Leadership,Point of Sale (POS) Systems,Cash Handling,Problem-Solving,Sanitation and Safety,"Adobe Creative Suite (Photoshop, Aftereffects, Illustrator)"
+73,73,Service Representative,8,21.2,29.09,9,Customer Service,Sales,Inventory Management,Communication,Retail,,,,,
+74,74,Information Technology Administrator,8,21.3,38.1,25,IT Management,Technical Support,Network Administration,Hardware Maintenance,Software Management,Leadership,Microsoft Windows,Mac OS X,Linux,Cisco Infrastructure
+75,75,General Accountant,6,12.5,16.73,25,Payroll Management,Financial Reconciliation,General Accounting,Accounting Procedures,Financial Reporting,Tax Filing,Audit Assistance,Oracle Payables,,
+76,76,Information Technology Coordinator,7,13.6,57.36,21,Web Development,Technical Support,Project Management,Data Migration,Leadership,Networking,System Development Life Cycle,IT Project Management,,
+77,77,Client Advocate / Escalation Specialist,8,22.0,34.83,19,Payroll Management,Accounting,Leadership,Training and Development,Database Management,Communication,Time Management,Problem-Solving,,
+78,78,Group Fitness Instructor,7,0.0,68.31,18,Accounting,Project Management,Leadership,Human Resources,Marketing,Customer Service,Data Analysis,Time Management,Communication,
+79,79,Donor Advocate,8,33.3,35.28,8,Leadership,Communication,Project Management,Relationship Building,Public Speaking,Event Planning,CRM Systems,Teaching,Data Analysis,
+80,80,Customer Success Advocate,7,16.0,51.97,11,Technical Support,Computer Hardware Installation,Networking,Customer Service,Troubleshooting,Communication,,,,
+81,81,Global IT Project Manager,9,8.3,59.72,26,Project Management,Leadership,Java Development,System Administration,Business Analysis,Network Administration,IT Infrastructure Management,Customer Support,,
+82,82,Information Technology Coordinator,9,31.7,10.51,28,Project Management,Database Management,Network Administration,Leadership,Customer Relationship Management,Disaster Recovery,Microsoft Windows,SQL,Network Security,Training and Development
+83,83,Medical Record Technician,7,40.0,14.39,14,Data Analysis,Leadership,Communication,Project Management,Healthcare Administration,,,,,
+84,84,"Reading, Speech & Language Arts Teacher",6,21.2,45.58,15,Leadership,Communication,Curriculum Development,Classroom Management,Interpersonal Skills,Public Speaking,Computer Literacy,,,
+85,85,Purchaser / Production Coordinator,7,20.0,4.01,19,Procurement,Supply Chain Management,Project Coordination,Communication,Time Management,Problem-Solving,,,,
+86,86,Administrative Assistant,6,32.8,10.03,8,Administrative Support,Patient Care,Data Entry,Time Management,Communication,Organizational Skills,,,,
+87,87,Consumer Advocate,7,17.5,46.49,36,Customer Service,Insurance Industry Knowledge,Leadership,Data Entry,Communication,Time Management,Team Management,Microsoft Excel,,
+88,88,Night Service Representative,6,28.0,31.15,7,Customer Service,Communication,Sales,Time Management,Problem-Solving,,,,,
+89,89,Disability Advocate,8,8.0,54.51,38,Community Outreach,Counseling,Public Relations,Leadership,Project Management,Data Analysis,Communication,Time Management,Problem-Solving,
+90,90,HR Assistant/Payroll,8,0.0,50.75,25,Payroll Management,Human Resources,Benefits Administration,OSHA Compliance,Worker's Compensation,Unemployment Claims,HRIS System Management,Leadership,Time Management,
+91,91,HR Professional,7,0.0,4.01,12,HR Policies and Procedures,Recruitment,Employee Relations,Benefits Administration,Training and Development,Communication,Customer Service,Financial Products and Services,Time Management,
+92,92,Accountant II,7,6.2,55.07,13,General Accounting,Financial Reconciliation,Accounts Payable,Leadership,Financial Analysis,,,,,
+93,93,HR Manager,9,28.0,22.83,32,Talent Acquisition,Performance Management,Instructional Training Design,Employee Relations,Recruitment Strategy,Leadership,HR Operations,Compliance,Payroll Management,
+94,94,Practicum Experience,7,29.5,36.32,16.5,Patient Assessment,Medication Management,Leadership,Critical Thinking,Communication,Collaboration,Time Management,Wound Care,Telemetry,Oncology
+95,95,Line Service Technician,6,31.3,32.95,7,Aircraft Handling,Communication,Teamwork,Customer Service,Physical Labor,Aviation,Time Management,,,
+96,96,Information Technology Manager,9,10.0,41.7,23,Network Administration,Windows Server Administration,Microsoft Active Directory Administration,Database Administration,Microsoft Exchange Server Administration,Technical Support,Leadership,Software Development,Hardware Installation and Configuration,Operating System Administration
+97,97,Director of Aviation and Safety,9,0.0,52.71,39,Leadership,Aviation Management,Project Management,Safety Management,Training Development,Budgeting,Logistical Management,Aircraft Maintenance,Strategic Planning,
+98,98,Finance Manager,9,0.0,90.0,26,Financial Management,Accounting,Leadership,Payroll Management,Project Management,Human Resources,Communication,,,
+99,99,Finance Accountant,6,12.6,55.35,26,Financial Reconciliation,General Accounting,Payroll Management,Financial Analysis,Leadership,Process Improvement,Time Management,Microsoft Excel,,
+100,100,President/Chief Executive Officer,10,25.0,38.42,29,Leadership,Program Management,Child Welfare,Staff Supervision,Policy Development,Team Management,Strategic Planning,Communication,,
+101,101,Chief Executive Officer,9,55.8,9.02,25,Leadership,Marketing,Sales,Project Management,Budgeting,Data Analysis,Strategic Planning,Communication,Team Management,Business Development
+102,102,Assistant Banking Center Manager,9,0.0,60.45,18,Sales Management,Leadership,Customer Service,Mortgage Lending,Financial Planning,Compliance and Operations,Team Management,,,
+103,103,Accountant,7,4.0,59.35,19,General Accounting,Financial Reconciliation,Payroll Management,Accounts Payable,Accounts Receivable,Cash Management,Financial Reporting,Bookkeeping,Leadership,
+104,104,Bilingual Domestic Violence Advocate,5,25.0,38.42,3.75,Counseling,Case Management,Mental Health Assessment,Community Outreach,Research,,,,,
+105,105,Preventative Healthcare Intern,6,51.3,11.55,1,Healthcare Management,Health Education,Leadership,Project Management,Communication,Community Outreach,,,,
+106,106,Finance Director and Treasurer,8,26.0,22.23,11,Financial Management,Budgeting,Accounting,Leadership,Investment Management,Auditing,Financial Reporting,,,
+107,107,Finance Officer,6,29.3,32.19,14,Financial Management,Budgeting,Microsoft Excel,Customer Service,Leadership,Communication,Time Management,,,
+108,108,"Personal Trainer, Group Fitness Instructor",7,0.0,74.68,17,Leadership,Communication,Problem-Solving,Project Management,Time Management,Adaptability,Teamwork,Intelligence Analysis,Fitness Instruction,Health Promotion
+109,109,Principal Accountant,8,25.0,40.3,28,Financial Reporting,Accounting,Financial Analysis,Revenue Recognition,Financial Planning and Budgeting,Leadership and Management,Auditing and Compliance,Financial Software and Systems,,
+110,110,Project Manager,7,75.0,1.29,20,Project Management,Leadership,IT Support,Network Management,Risk Analysis,Quality Control,Communication,,,
+111,111,Hospital & Physician Billing Specialist,7,34.6,20.03,13.5,Medical Billing,Healthcare Management,Insurance Verification,Marketing,Communication,Project Management,Data Analysis,Software Proficiency,,
+112,112,Program Manager,9,37.4,18.36,12,Project Management,Leadership,Communication,Data Analysis,Microsoft Office,Time Management,Customer Service,,,
+113,113,Financial Accountant,9,27.1,32.18,28,Financial Reporting,Accounting Operations,Financial Analysis,SAP,Financial Planning and Budgeting,Leadership,Payroll Management,Project Management,Data Analysis,
+114,114,Senior VP - Information Technology,10,44.8,14.51,14,Leadership,Project Management,IT Management,System Administration,Vendor Management,Problem-Solving,Communication,Computer Science,,
+115,115,Branch Logistics Manager,8,33.1,24.42,24,Leadership,Team Management,Sales Management,Compliance Management,Problem-Solving,,,,,
+116,116,HR Assistant,6,39.3,18.64,20,Recruitment,HR Administration,Employee Onboarding,Time Management,Data Entry,Communication,Payroll Processing,Accounts Payable/Receivable,Vendor Management,Microsoft Office
+117,117,ASP.Net Web Developer,7,48.5,23.87,12,ASP.Net,SQL Server,HTML,CSS,SharePoint,MVC Framework,Pair Programming,Code Review,,
+118,118,Lead Administrator,9,24.9,37.51,15,Project Management,Leadership,Communication,Problem-Solving,Time Management,Collaboration,Event Planning,Artistic Direction,,
+119,119,Territory HR Manager,9,20.8,38.72,35,Leadership,Team Management,Inventory Management,Business Planning,Communication,Performance Management,Compliance,Human Resources,,
+120,120,Aviation Supply Technician,7,38.8,17.55,11,Data Analysis,Logistics Management,Supply Chain Management,Contract Negotiation,Project Management,,,,,
+121,121,System Administrator,7,25.0,20.91,37,System Administration,Troubleshooting,Computer Security,Microsoft Office,Microsoft Word,Microsoft PowerPoint,Microsoft Excel,Microsoft Access,Anti Hacking,HIDS
+122,122,Accountant,6,23.9,30.53,17,General Accounting,Financial Reporting,Payroll Management,Financial Analysis,Account Reconciliation,Microsoft Excel,Taxation,,,
+123,123,Business Banking Specialist,8,0.0,52.71,11,Leadership,Customer Service,Communication,Time Management,Risk Management,Sales,,,,
+124,124,K-12 Principal,9,26.4,33.84,18,Leadership,Curriculum Development,Teacher Training and Development,Classroom Management,Data Analysis,Communication,Project Management,Time Management,Collaboration,Problem-Solving
+125,125,Vice President,10,87.9,0.63,29,Leadership,Project Management,Strategic Planning,Operations Management,Customer Service Management,Financial Management,International Business,,,
+126,126,Volunteer Advocate,6,12.5,43.83,16,Advocacy,Case Management,Customer Service,Inventory Management,Loan Administration,,,,,
+127,127,Accountant,7,44.1,11.62,27,Accounting,Financial Reporting,System Implementation,,,,,,,
+128,128,Account Receivable,9,19.0,49.76,27,Account Reconciliation,Cash Management,Customer Service,Leadership,Financial Analysis,Time Management,,,,
+129,129,Senior Executive - Finance,8,55.3,8.8,10,Accounts Payable,General Ledger Reconciliation,Bank Reconciliation,Financial Analysis,Journal Entries,Petty Cash Management,,,,
+130,130,Professional Healthcare Representative,10,13.7,46.52,15,Sales Performance,Customer Relationship Management,Presentation Skills,Industry Knowledge,Leadership,Communication Skills,Human Resource Development and Management,,,
+131,131,Senior HR Manager,9,12.5,38.69,22,Human Resources Management,Payroll Management,Financial Management,Leadership,Benefits Administration,Compliance,Data Analysis,Project Management,Time Management,Communication
+132,132,Senior Director of Finance,9,0.0,4.01,10.5,Financial Analysis,Strategic Planning,Leadership,Project Management,Process Improvement,Communication,Data Analysis,Business Administration,,
+133,133,Operation Manager,9,19.0,26.72,14,Leadership,Project Management,Training and Development,Operations Management,Logistics Management,Marketing,Microsoft Office,Data Analysis,Communication,
+134,134,Domestic Violence and Sexual Assault Advocate,7,36.7,19.98,18,Counseling,Public Speaking,Leadership,Project Management,Community Outreach,Research,Time Management,Customer Service,Problem Solving,
+135,135,Chief Operating Officer,10,65.4,5.09,12,Leadership,Project Management,Financial Management,Negotiation,Strategic Planning,Team Management,Banking,Business Development,,
+136,136,HR Consulting,9,0.0,31.82,7,Performance Management,Employee Relations,HR Operations,Talent Management,Leadership,People Management,Mentorship,HR Consulting,Employee Engagement,
+137,137,Accountant,6,29.9,29.18,11,General Accounting,Financial Reconciliation,Budgeting,Accounts Payable,Accounts Receivable,Financial Analysis,,,,
+138,138,Intern,2,59.7,7.08,1,Data Analysis,R Programming,Linear Model,Regression Model,,,,,,
+139,139,HR Consultant,8,32.5,36.45,14,HR Consulting,Employment Law,Compliance Management,HR Support,Policy Implementation,Communication,,,,
+140,140,Secretary - Finance Division,6,0.0,64.4,17,Administrative Management,Communication,Event Planning,Payroll Management,Project Management,Microsoft Office,Leadership,Time Management,,
+141,141,Gunnery Sergeant,9,0.0,4.01,17,Network Administration,Computer Hardware Support,Software Support,Leadership,Logistical Support,Inventory Management,,,,
+142,142,HR Representative,8,8.0,44.61,18,Human Resources,Employee Relations,Talent Acquisition,Onboarding & Orientation,Leadership,Communication,Time Management,Customer Service,,
+143,143,Finance Manager,9,20.0,47.18,29,Financial Analysis,GAAP and Statutory Accounting,Financial Reporting,Leadership and Management,Payroll Management,Accounting Software,Auditing and Compliance,Financial Planning and Analysis,Budgeting,Microsoft Excel
+144,144,Creative Director,9,48.3,11.23,21,Graphic Design,Art Direction,Leadership,Problem Solving,Time Management,Communication,Medical Billing,Data Entry,,
+145,145,Licensed United Healthcare Insurance Sales Agent,7,0.0,76.84,10,Sales,Customer Service,Communication,Negotiation,Time Management,Troubleshooting,Account Management,Insurance,Data Entry,Microsoft Office
+146,146,Operations Manager,8,23.2,34.07,22,Business Management,Leadership,Strategic Planning,Marketing,Project Management,Healthcare Management,,,,
+147,147,Finance Controller,9,49.6,7.18,22,Financial Reporting,Accounting Operations,Budgeting,Financial Analysis,Leadership,ERP System Implementation,GAAP Compliance,Project Management,Microsoft Excel,
+148,148,CNA in Skilled Healthcare,8,26.4,27.46,17,Patient Care,Vital Signs Monitoring,Patient Education,Teamwork and Collaboration,Quality Assurance,Leadership,Communication,Basic Life Support,,
+149,149,HR Representative,7,10.0,42.69,13,Recruitment,Training and Development,Leadership,Communication,Project Management,Employee Relations,Customer Service,Food Safety and Regulations,Time Management,
+150,150,Director of Applications,9,50.0,14.31,16,Project Management,Leadership,Budgeting,Negotiation,Healthcare IT,EHR Implementation,Computerized Physician Order Entry,Ordersets,E-prescription,Clinical Portal
+151,151,Full-Time Replenishment Manager,6,10.0,37.95,8,Leadership,Customer Service,Time Management,Training and Development,,,,,,
+152,152,Accountant,8,0.0,41.83,19,General Accounting,Financial Reporting,Payroll Management,Account Reconciliation,Leadership,Process Improvement,Risk Management,Time Management,Communication,Microsoft Excel
+153,153,Finance Analyst,8,9.8,62.52,13,Financial Analysis,Data Analysis,Budgeting,Sales Strategy,Leadership,Communication,Problem-Solving,Insurance Analysis,Microsoft Excel,
+154,154,Accountant,6,41.7,12.86,7,Customer Relationship Management,Marketing,Leadership,Retail Management,Communication,Team Management,,,,
+155,155,Sale Consultant,5,50.0,17.08,3.5,Customer Service,Sales,Cash Handling,Communication,Time Management,,,,,
+156,156,Finance Director,9,21.2,37.66,32,Financial Analysis,Budgeting,Financial Reporting,Leadership,Payroll Management,Financial Modeling,Strategic Planning,Project Management,Microsoft Excel,
+157,157,Talented Arts Program Instructional Coordinator,7,0.0,48.72,24,Project Management,Logistics Management,Budgeting,Customer Service,Teaching,Leadership,Problem Solving,,,
+158,158,Customer Service Advocate II,6.5,0.0,64.4,15,Customer Service,Communication,Problem Solving,Time Management,Data Entry,,,,,
+159,159,Visual Arts Teacher,8,17.8,42.6,25,Teaching,Lesson Planning,Leadership,Project Management,Fine Arts,Art Education,Communication,,,
+160,160,Banking,7,24.4,31.45,10,Banking Operations,Customer Service,Account Management,Cash Management,Microsoft Office,,,,,
+161,161,Family and Community Advocate,9,0.0,61.63,16,Case Management,Counseling,Community Outreach,Leadership,Data Entry and Management,Program Development,Mental Health Assessment,Group Therapy,Crisis Intervention,
+162,162,SENIOR SPECIALTY SALES REPRESENTATIVE,9,16.7,56.77,12,Sales and Marketing,Business Planning,Microsoft Excel,Leadership,Communication,Project Management,,,,
+163,163,Certified Custom Framer,7,35.0,11.95,9,Customer Service,Time Management,Teamwork,,,,,,,
+164,164,Retail Banking Director,10,50.0,12.83,31,Leadership,Risk Management,Project Management,Budgeting,Financial Reporting,Marketing,Operations Management,Compliance,Training and Development,
+165,165,Key Account Manager,9,5.0,45.45,24,Sales Management,Account Management,Leadership,Project Management,Strategic Planning,Communication,Business Development,Team Collaboration,,
+166,166,Medical Billing Specialist,5,25.0,38.42,9,Medical Billing,Healthcare Information Management,Data Entry,Customer Service,Cash Handling,Communication,Time Management,Problem-Solving,,
+167,167,Instructional Coach,8,33.3,33.86,32,Instructional Coaching,Curriculum Development,Professional Development,Classroom Management,Leadership,Communication,Project Management,,,
+168,168,Aviation Electronics Technician,8.5,47.7,20.71,14,Leadership,Project Management,Financial Analysis,Accounting,Financial Planning,Communication,Problem-Solving,Time Management,,
+169,169,Information Technology Manager / Network Engineer,8,40.0,15.13,21,IT Management,Network Engineering,Virtualization,Disaster Recovery,Cybersecurity,Microsoft Technologies,Leadership,Communication,Problem-Solving,Project Management
+170,170,Senior Member Advocate,9,17.8,32.21,21,Customer Service,Project Management,Leadership,Time Management,Communication,Problem-Solving,Microsoft Office,Data Entry,Inventory Management,
+171,171,WAREHOUSE LEAD,7,32.5,26.08,22,Leadership,Operational Management,Time Management,Negotiation,Team Management,,,,,
+172,172,HR Assistant,6,0.0,52.71,14,Event Planning,Project Management,Organizational Management,Customer Service,Time Management,,,,,
+173,173,English Language Arts Teacher,7,30.8,24.64,10,Teaching,Curriculum Development,Leadership,Project Management,Communication,Team Management,,,,
+174,174,Finance Coordinator,7,10.3,33.2,30,Payroll Management,Payroll Accounting,General Accounting,Financial Reporting,Time and Labor Management,ADP Systems,Paychex Systems,,,
+175,175,Store Manager,7,55.8,0.91,16,Leadership,Team Management,Customer Service,Sales Management,Inventory Management,Training and Development,Time Management,,,
+176,176,Benefit Advocate Supervisor,9,52.3,9.76,18,Leadership,Team Management,Coaching and Mentoring,Customer Service,Account Management,Communication,Problem-Solving,,,
+177,177,Sales & Service Associate,8,4.0,70.82,25,Banking Operations,Financial Analysis,Accounting,Sales and Marketing,Project Management,Microsoft Office,Bank Reconciliation,Financial Reporting,,
+178,178,Family Advocate,7,4.0,52.76,20,Customer Service,Communication,Problem-Solving,Leadership,Time Management,Confidentiality and Compliance,,,,
+179,179,Program Manager,9,42.9,12.12,18.1,Program Management,Leadership,Health Promotion,Project Management,Communication,Training and Development,Data Analysis,Marketing,Coaching,Group Exercise Instruction
+180,180,HR Executive,7,0.0,41.83,2.083,HR Management,Recruitment,Employee Engagement,Training and Development,Payroll Management,Compliance Management,Leadership,Communication,,
+181,181,Staff Accountant,6,0.0,52.71,8,Financial Reconciliation,General Accounting,Payroll Management,Tax Preparation,Leadership,Financial Statement Preparation,Event Planning,Microsoft Excel,,
+182,182,Information Technology (IT) Specialist,9,32.8,21.5,23,Network Communications,Local Area Networks,Visual Information Systems,IT Infrastructure,Systems Integration,Facility Design,System Design,Engineering Installation,IT Engineering,Command and Control
+183,183,HR Director,8,26.4,46.11,20,Human Resource Management,Recruitment and Hiring,HRIS System Implementation and Management,Employee Relations and Performance Management,Policy Development and Compliance,Leadership and Management,Payroll Management,Project Management,Employee Benefits Administration,
+184,184,Driver,7,52.7,8.59,11,Communication,Leadership,Time Management,Problem-Solving,Translation,Teaching,Research,Writing,Public Speaking,
+185,185,Tutoring Consultant,7,24.4,29.53,27,Teaching,Curriculum Development,Lesson Planning,Classroom Management,Student Assessment,Communication,,,,
+186,186,Director of HR,9,6.0,44.84,36,Human Resources Management,Leadership,Administration,Business Management,Strategic Planning,Team Management,Financial Management,,,
+187,187,Senior Lending Officer - VP Executive Officer,9,16.7,33.76,38,Commercial Lending,Leadership,Business Development,Accounting,Auditing,Cash Management,Credit Analysis,,,
+188,188,Finance Assistant,5,20.0,4.01,6,Financial Statement Preparation,Data Entry,Customer Service,,,,,,,
+189,189,Global Finance Accountant,9,17.8,33.47,13,Financial Analysis,Accounts Payable,Financial Operations,Tax Calculations,Oracle R11/R12,Cash Flow Management,Leadership,Financial Planning,,
+190,190,Regional HR Deputy Manager,9,9.4,43.07,7,Human Resources,Recruitment,Employee Engagement,Performance Management,Employee Retention,Leadership,,,,
+191,191,Finance Manager,8,38.9,28.69,33,Financial Reporting,General Accounting,Payroll Management,Budgeting,Leadership,Financial Analysis,Auditing,Accounting System Setup,Bookkeeping,Microsoft Excel
+192,192,Human Resources professional,7,100.0,0.0,6,Human Resources Management,Employee Relations,Recruitment,Training and Development,Leadership,Communication,Time Management,Microsoft Office,HR Software,Conflict Resolution
+193,193,HR Clerk,6,8.3,57.44,12,Accounts Payable,Accounts Receivable,Data Entry,Customer Service,Microsoft Excel,Accounting Software,Time Management,,,
+194,194,Accountant,7,15.4,46.09,28,General Accounting,Financial Reconciliation,Payroll Management,Taxation,Financial Statement Analysis,Leadership,,,,
+195,195,Information Technology Specialist,8,20.5,45.72,22,IT Systems Administration,Network Administration,Computer Hardware Maintenance,Cloud Backup Solutions,Data Recovery,Training and End-User Support,,,,
+196,196,Postal Support Employee,8,0.0,4.01,24,Data Analysis,Customer Service,Inventory Management,Regulatory Compliance,Quality Control,Leadership,Safety Management,Aviation Maintenance,Project Management,
+197,197,Vice President-Business Banking Sales Manager and Healthcare Specialty Banker,10,58.3,7.96,23,Leadership,Sales Management,Business Development,Change Management,Strategic Planning,Real Estate,Commercial Lending,Deposit Services,,
+198,198,Finance Business Partner,8,0.0,41.83,12.75,Financial Analysis,Budgeting,Data Analysis,Leadership,Financial Modeling,Strategic Planning,Communication,,,
+199,199,Operations Research Analyst,8,0.0,76.84,24.5,Project Management,Information Technology,Data Collection,Test Management,Procedure Development,Relationship Building,Scheduling,Budgeting,Information Design,
+200,200,Aviation Supply Specialist,7,29.5,29.8,11,Leadership,Supply Chain Management,Aviation Management,Military Operations,Survival Training,Team Management,,,,
+201,201,Aviation Safety Assistant,7,43.3,24.13,17,Administrative Assistance,Investigation Support,Record Keeping,Time Management,Communication,,,,,
+202,202,Software Quality Assurance Analyst II,7,53.0,3.59,25,Software Quality Assurance,Test Planning and Execution,Troubleshooting,Customer Service,Banking Operations,,,,,
+203,203,Director of Finance,9,21.7,37.25,24,Leadership,Accounting,Payroll Management,Financial Management,Microsoft Office,QuickBooks,Project Management,Communication,Time Management,
+204,204,HR Manager,8,32.7,33.71,26,Leadership,Team Management,Communication,Problem-Solving,Customer Service,Time Management,Training and Development,Project Management,Data Analysis,Microsoft Office
+205,205,Accountant,7,4.0,70.82,27,General Accounting,Financial Reconciliation,Payroll Management,Budgeting,Leadership,Financial Reporting,Accounts Payable,Accounts Receivable,Cost Analysis,Sage Software
+206,206,Financial Analyst,9,29.7,35.73,9,Financial Analysis,Mergers and Acquisitions,Investment Banking,Financial Modeling,Data Analysis,Valuation,Database Management,Market Research,Leadership,
+207,207,"Government Relations, Communications and Organizational Development Director",10,42.8,15.33,29,Project Management,Leadership,Communication,Budgeting,Program Development,Strategic Planning,Team Management,Negotiation,Public Relations,Aviation Management
+208,208,Personal Trainer,8,39.2,22.15,16,Personal Training,Fitness Management,Leadership,Communication,Time Management,Customer Service,Nutrition,Risk Management,,
+209,209,VP of Finance,9,19.5,37.2,14,Financial Planning,Accounting,Leadership,Budgeting,Financial Analysis,Risk Management,Project Management,Strategic Planning,Team Management,Communication
+210,210,Manager,7,46.0,13.66,4,ASP .NET,C#,PL/SQL,SQL,Data Analysis,Web Development,Project Management,Technical Support,HTML,AJAX
+211,211,VzW Customer Tech Advocate,9,0.0,4.01,NaN,Wireless Networking,Project Management,Team Leadership,Communication,UNIX,CDMA,3G,WiMax,LTE,Electrical Engineering
+212,212,Program Administrator,9,28.0,22.95,18,Program Management,Leadership,Communication,Analytical Skills,Time Management,Data Entry,Budgeting,Project Management,Team Collaboration,Problem-Solving
+213,213,Assistant Director,8,25.0,26.35,12,Leadership,Teaching,Video Production,Dance Instruction,Administration,Project Management,Communication,Organization,,
+214,214,Accountant,9,22.8,24.22,23,Financial Reporting,General Accounting,Financial Analysis,Asset Management,Budgeting,Auditing,ERP System Management,,,
+215,215,Senior Accountant,8,20.0,30.63,22,Financial Reconciliation,General Accounting,Financial Analysis,Auditing,Financial Forecasting,Microsoft Excel,,,,
+216,216,Management Consultant/Sales Executive,9,16.7,36.41,25,Business Development,Sales,Leadership,Operations Management,Financial Analysis,Entrepreneurship,Strategic Planning,Account Management,Project Management,Budgeting
+217,217,Accountant,8,27.9,37.83,25,Accounting,Financial Management,Financial Reporting,Internal Controls,Database Management,Leadership,Process Improvement,Variance Analysis,Financial Forecasting,
+218,218,Director of Theater,8,8.0,76.18,27,Theater Direction,Teaching,Playwrighting,Acting,Leadership,Curriculum Development,Shakespearean Theater,Physical Theater,Improvisation,Design for Theater
+219,219,HR Generalist,8,25.0,36.64,19,HR Management,Payroll Management,Employee Relations,Recruitment,Training and Development,Leadership,Communication,Time Management,Organizational Skills,
+220,220,Director of Information Technology and Analytics,9,28.0,19.27,26,IT Strategy,IT Management,Network Administration,System Administration,Disaster Recovery,Security Risk Management,Project Management,Leadership,Windows NT,Windows 2000
+221,221,Project Coordinator,8,25.0,38.42,4.5,Project Management,Payroll Management,Budgeting,Data Analysis,Leadership,Healthcare Administration,Dentistry,Record Management,Communication,Research
+222,222,Healthcare Consultant,10,28.2,33.2,44,Healthcare Consulting,Strategic Planning,Leadership,Business Development,Program Development,Grant Writing,Public Health,Business Administration,,
+223,223,Group Exercise Fitness Instructor,9,12.5,43.83,22,Leadership,Project Management,Data Entry,Communication,Time Management,Team Management,Budgeting,Community Service,,
+224,224,Language Arts Teacher,7,25.0,32.2,36,Teaching,Language Arts,Curriculum Development,Classroom Management,Leadership,Communication,Assessment and Evaluation,Diversity and Inclusion,,
+225,225,HR Business Partner,8,12.5,34.24,10,Human Resources,Recruitment,Performance Management,Talent Management,Diversity and Inclusion,Leadership,Consulting,Marketing,Project Management,
+226,226,Programme Finance Associate,9,0.0,64.4,16,Financial Management,Project Management,Office Management,Language Skills,,,,,,
+227,227,Senior Technical Support Technician,7,5.0,67.5,19,Desktop Support,Hardware Installation,Software Installation,Troubleshooting,IT Support,Computer Systems,Network Administration,Information Security,,
+228,228,Project Accountant,6,8.0,54.51,18,General Accounting,Accounts Payable,Accounts Receivable,Payroll Management,Financial Reporting,General Ledger Management,Office Administration,,,
+229,229,HR Specialist,7,0.0,64.4,12,Human Resource Management,Recruitment and Staffing,Leadership Development,Project Management,HR Policy Advisement,Communication,Marketing and Branding,,,
+230,230,Advocate,7,49.2,14.76,20,Customer Service,Problem Resolution,Data Entry,Account Management,,,,,,
+231,231,Sous Chef/Line Cook,5,0.0,4.01,11,Food Preparation,Kitchen Management,Customer Service,Teamwork and Collaboration,Inventory Management,Time Management,,,,
+232,232,Library Educational Aide,7,15.5,33.45,20,Leadership,Communication,Problem-Solving,Time Management,Customer Service,Microsoft Excel,,,,
+233,233,Project Coordinator,9,28.4,38.38,35,Project Management,Leadership,Communication,Budgeting,Risk Management,Event Management,Customer Service,Time Management,Team Management,Microsoft Project
+234,234,Unmanned Aviation Technician Supervisor,8,18.8,55.21,16,Leadership,Project Management,Team Management,Communication,Training and Development,,,,,
+235,235,HR MANAGER/GENERALIST,8.33,6.2,44.6,38,Payroll Management,Benefits Administration,Recruitment and Hiring,Employee Relations,Compliance and Risk Management,Safety and Workers Compensation,Leadership and Management,Communication and Interpersonal Skills,HRIS and Payroll Systems,
+236,236,English Language Arts Teacher,8,33.7,13.44,24,Teaching,Instructional Design,Data Analysis,Leadership,Behavioral Intervention,Project Management,,,,
+237,237,Student Teacher,7,89.2,0.47,20,Lesson Planning,Art Education,Teaching,Curriculum Development,Art Production,Event Planning,,,,
+238,238,HR Generalist,7,22.2,45.26,17,Human Resources,Payroll Management,Employee Relations,Talent Acquisition and Retention,Benefits Management,Communication,Problem-Solving,Time Management,,
+239,239,AVID Tutor,7,25.0,32.2,12,Teaching,Mentoring,Leadership,Communication,Organization,Time Management,Counseling,Office Administration,,
+240,240,HR Services Representative,6,33.2,27.78,12,Recruitment,Employee Relations,Human Resource Management,,,,,,,
+241,241,Full Time Student/Intern,6,48.1,12.16,4,Training and Development,Leadership,Communication,Data Analysis,Mentoring,Project Planning,,,,
+242,242,Global HR Manager,9,11.6,63.94,21,Leadership,Human Resources Management,Project Management,Global Talent Management,Organizational Development,Recruitment and Staffing,Training and Development,Data Analysis,Communication,
+243,243,Field Project Supervisor,9,27.6,3.81,37,Project Management,Leadership,Logistics Management,Data Analysis,Microsoft Excel,Communication,Problem-Solving,Time Management,Customer Service,
+244,244,Training Manager,10,40.3,20.3,20,Training and Development,Leadership and Management,Project Management,Communication and Presentation,Problem-Solving and Analysis,Time Management and Organization,Coaching and Mentoring,Teamwork and Collaboration,Adaptability and Flexibility,Theology
+245,245,Employee Relations Consultant,9,25.0,39.51,28,Employee Relations,Risk Management,Labor Law Compliance,Diversity and Inclusion,Leadership,Recruitment,Training and Development,,,
+246,246,Accountant II,6,52.5,13.67,8,General Accounting,Financial Reconciliation,Financial Reporting,Payroll Management,Budgeting,Cash Flow Management,,,,
+247,247,Account Executive,7,20.0,10.93,12,Marketing Strategy,Digital Marketing,Event Planning,Networking,Google Analytics,Sales,Account Management,,,
+248,248,Windows 7 Support desk Technician,8,0.0,52.71,16,Technical Support,Customer Service,Network Administration,Leadership,Maintenance and Repair,Team Management,Problem-Solving,Communication,Time Management,Windows 7
+249,249,Sales Associate,6,15.4,48.89,8,Customer Service,Communication,Time Management,Teamwork,Problem-Solving,Leadership,Healthcare,Cash Handling,Food Service,
+250,250,"Adjunct Faculty, Zanvyl Kreiger School of Arts and Sciences, Advanced Academic Programs",9,28.0,38.57,34,Teaching/Lecturing,Lab Management,Scientific Sales,Technical Application Support,Molecular Biology,Virology,Biotechnology,Project Management,Communication,Leadership
+251,251,Practice Manager,8,56.8,8.35,19,Practice Management,Operational Leadership,Healthcare Operations,Financial Management,Quality Improvement,Employee Management,Regulatory Compliance,,,
+252,252,Electronic Health Record Optimization Specialist,9,77.0,0.52,14,Healthcare Quality Improvement,Electronic Health Record Systems,Data Analysis,Project Management,Clinical Research,Grant Writing,Leadership,Budgeting,Contract Negotiation,
+253,253,"Manager, Continuous Improvement",7,15.6,25.27,14.5,Project Management,Leadership,Six Sigma,Lean,Aviation Maintenance,Team Management,Problem-Solving,Communication,Time Management,
+254,254,Summer Camp Counselor,6,59.5,7.69,11,Customer Service,Communication,,,,,,,,
+255,255,Staff Accountant,6,9.8,34.03,24,General Accounting,Financial Reconciliation,Payroll Management,Accounts Payable,Accounts Receivable,Budgeting,Microsoft Excel,Cash Management,Inventory Management,
+256,256,Accountant,7,32.5,16.94,7.5,General Accounting,Financial Reconciliation,Accounts Payable,Accounts Receivable,General Ledger,Banking,SAP Financials,,,
+257,257,"Corporate Banking Assistant, Intern",6,8.8,41.58,1.5,Risk Management,SQL,VBA,Data Analysis,Image Processing,Machine Learning,Financial Analysis,Project Management,Research,
+258,258,"Manager, Finance",9,8.0,35.4,29,Financial Analysis,Budgeting,Financial Reconciliation,Leadership,Accounting,Project Management,Microsoft Excel,Grants Management,Payroll Management,Data Analysis
+259,259,Senior Accountant,7,10.0,60.47,14,Financial Reconciliation,General Accounting,Payroll Management,Budgeting,Leadership,Microsoft Excel,Financial Analysis,Accounting Software,,
+260,260,Patient Advocate,5,25.0,11.82,4.75,Customer Service,Communication,Problem-Solving,Time Management,Data Entry,Sales,Healthcare,,,
+261,261,Finance Manager,8,25.0,25.33,33,Financial Management,Accounting,Budgeting,Financial Reporting,Cash Flow Management,Financial Analysis,Leadership,Communication,Time Management,
+262,262,"Administrative Assistant Director, Human Resources Manager, Production Manager, Engineering Manager, Technical Services Manager, and Information Technology Manager",9,12.5,54.64,35,Microsoft Excel,Microsoft Word,SAP,PeopleSoft,Access,Training and Development,Leadership,Payroll Management,Accounts Payable,Employee Benefits Administration
+263,263,General Accountant,8,54.0,7.15,nan,General Accounting,Financial Reconciliation,Payroll Management,Cash Management,Financial Analysis,Leadership,Accounting Software,Budgeting,Financial Reporting,
+264,264,Customer Service Representative,7,0.0,14.79,15,Customer Service,Communication,Problem-Solving,Time Management,,,,,,
+265,265,Information Technology Intern (Test Automation Engineer),6,21.2,28.45,4,Java,Spring Framework,Test Automation,Software Development,Agile Methodologies,PHP,,,,
+266,266,Finance Specialist,9,0.0,41.83,9,Financial Reconciliation,General Accounting,Financial Reporting,Audit and Assurance,Financial Analysis,Petty Cash Management,Taxation,,,
+267,267,Customer Service Advocate,6,8.0,57.81,11,Customer Service,Collections,Sales,Cash Handling,Data Entry,,,,,
+268,268,International Certification Program Management,9,25.0,26.35,14,Aircraft Validation,Regulatory Compliance,Project Management,Team Leadership,Maintenance Management,Avionics Management,,,,
+269,269,"Supervisor, Accountant",7,25.0,20.25,20,Customer Service,Sales,Leadership,Inventory Management,Microsoft Excel,Time Management,Communication,Problem-Solving,Quality Control,
+270,270,HR Customer Service Representative,8,22.2,24.09,10,Customer Service,Project Management,Communication,Data Analysis,Time Management,Leadership,Policy Development,Business Administration,,
+271,271,Finance Director,9,20.0,25.57,22,Financial Planning,Budgeting,Financial Analysis,Leadership,Financial Reporting,Internal Auditing,Risk Management,Microsoft Excel,Project Management,
+272,272,HR Business Partner II,9,16.0,42.99,32,Employee Engagement,Talent Management,Organizational Design,Performance Management,Leadership,Communication,Analytical Skills,Organizational Skills,,
+273,273,Marketing Manager,7,66.9,3.73,18,Marketing Management,Event Management,Project Management,Leadership,Communication,Budgeting,Data Analysis,Digital Marketing,Public Relations,
+274,274,Operations Manager,9,23.4,36.35,26,Operations Management,Leadership,Project Management,Communication,Problem-Solving,Time Management,Customer Service,,,
+275,275,Owner/Operator,9,12.5,56.07,23,Leadership,Sales Management,Business Development,Budgeting,Project Management,Customer Service,Training and Development,Operations Management,Surgical Technology,
+276,276,Finance Manager,8,25.0,40.96,22,Financial Planning,Financial Reporting,Cash Flow Management,Budgeting,Financial Analysis,Accounting,Leadership,Financial Management,Bank Reconciliation,Financial Forecasting
+277,277,Human Resources Manager,9,55.0,4.01,36,Human Resource Management,Leadership,Recruitment and Selection,Staff Management,Business Development,Organizational Development,Communication,Strategic Planning,Time Management,Microsoft Office
+278,278,INVESTMENT BANKING SUMMER ANALYST,8,20.0,4.01,4,Financial Analysis,Mergers and Acquisitions,Financial Modeling,Excel Macros,Data Analysis,Microsoft Excel,Communication,,,
+279,279,Information Technology Specialist,9,0.0,64.4,14,Database Management,Network Management,Software Development,Data Analysis,Project Management,Leadership,Troubleshooting,Process Improvement,IT Systems Implementation,Technical Support
+280,280,"Faculty, Clinical Instructor, & Clinical Coordinator",9,0.0,52.71,30,Leadership,Nursing Process,Pediatric Care,Clinical Education,Cultural Competence,Communication,Critical Thinking,,,
+281,281,Information Technology Manager/Analyst,8,6.2,53.46,25,Project Management,Team Leadership,Web Development,Intranet Development,Solution Implementation,Data Analysis,Budgeting,,,
+282,282,Senior Accountant,9,37.3,24.63,18,General Accounting,Financial Reconciliation,Accounts Payable/Accounts Receivable,Financial Analysis,Budgeting,Microsoft Excel,QuickBooks,,,
+283,283,Accountant,6,17.0,44.36,23,Accounting,Financial Reconciliation,Budgeting,Leadership,Data Analysis,Microsoft Excel,Underwriting,Customer Service,,
+284,284,General Manager,8,36.3,29.17,17,Leadership,Project Management,Time Management,Communication,Microsoft Office,Inventory Management,Customer Service,,,
+285,285,Operations Manager,6,35.6,18.89,8,Leadership,Project Management,Sales and Marketing,Communication,Time Management,Problem-Solving,,,,
+286,286,Finance Director,8,11.8,59.56,25,Accounting,Financial Statement Preparation,Payroll Management,Budgeting,Financial Analysis,Leadership,Bookkeeping,Financial Reporting,,
+287,287,Executive Director,9,39.2,16.01,51,Project Management,Community Development,Fundraising,Video Production,Leadership,Teaching,,,,
+288,288,Arts Educator,7,16.0,60.45,20,Classroom Management,Lesson Planning,Communication,Leadership,Budgeting,Art Instruction,Fused Glass,Entrepreneurship,Time Management,Collaboration
+289,289,Branch Banking Coordinator,9,10.0,52.16,11,Leadership,Risk Management,Customer Service,Cash Handling,Bookkeeping,Time Management,Team Management,Audit and Compliance,Communication,Problem-Solving
+290,290,RDA,4,35.1,24.9,3,Dental Assisting,Patient Care,Infection Control,Dental Procedures,X-ray Operation,Medical Record-Keeping,,,,
+291,291,Fitness Instructor,5,23.2,37.01,10,Customer Service,Time Management,Communication,Attention to Detail,,,,,,
+292,292,Finance Specialist,9,8.0,65.04,20,Financial Analysis,Forecasting,Account Reconciliation,Credit Analysis,Accounts Receivable Management,Leadership,Financial Planning,Risk Management,,
+293,293,Dance Instructor,6,56.6,8.7,16,Dance Instruction,Ballet,Jazz,Tap,Modern,Musical Theatre,Early Childhood Education,,,
+294,294,Administrative Manager,7,40.0,16.53,17,Bookkeeping,Account Reconciliation,Budgeting,Customer Service,Data Entry,IT & Telecoms Troubleshooting,Microsoft Office,Time Management,Communication,
+295,295,Production Supervisor / Value Stream Leader,8,36.4,26.5,31,Leadership,Project Management,Quality Control,Manufacturing Operations,Problem-Solving,Team Collaboration,Time Management,Blueprint Reading,Machining,Troubleshooting
+296,296,Administrative Assistant,9,26.3,34.98,24,Administrative Support,Leadership,Communication,Project Management,Time Management,Organizational Management,Microsoft Office,,,
+297,297,HR Generalist,7,0.0,76.84,16,HR Administration,Recruitment,Data Analysis,Communication,Time Management,Leadership Support,Microsoft Office,,,
+298,298,Operations and Finance Manager,9,43.8,17.93,36.5,Project Management,Financial Analysis,Accounting,Budgeting,Leadership,Financial Planning,Data Analysis,Communication,,
+299,299,Assistant Accountant,8,26.9,34.41,19,Financial Reconciliation,General Accounting,Payroll Management,Budgeting,Leadership,Cash Management,Financial Analysis,Financial Reporting,Auditing,Customer Service
+300,300,DIRECTOR OF FINANCE,10,16.0,47.79,29,Financial Management,Strategic Planning,Project Management,Leadership,Budgeting,Financial Analysis,Risk Management,Business Case Development,IT Project Management,Financial Planning
+301,301,Accounting Manager,8,0.0,66.37,23,Financial Reconciliation,General Accounting,Microsoft Excel,Leadership,Process Improvement,Data Analysis,Accounting Software,Project Management,,
+302,302,HR Manager,9,22.7,29.81,22,Human Resources,Employee Relations,Leadership,Talent Management,Training and Development,Compliance,Communication,Project Management,,
+303,303,HR Clerk,8,0.0,76.84,41,Bookkeeping,Payroll Administration,HR Management,Database Management,Staffing,Administrative Support,,,,
+304,304,Staff Accountant,6,35.1,25.88,30,Financial Reconciliation,General Accounting,Financial Reporting,Budgeting,Leadership,Financial Analysis,Accounting Systems,Policy Development,Auditing,
+305,305,HR Generalist,7,10.0,42.69,15,HR Management,Recruitment,Employee Relations,Leadership,Time Management,,,,,
+306,306,Lead Information Technology Support Specialist,7,13.8,64.16,22,Database Management,Technical Support,Leadership,Problem-Solving,Communication,Data Analysis,Microsoft Access,SAP R/3,Project Management,SQL
+307,307,"Director, Finance",10,5.0,56.77,24,Project Management,Leadership,Financial Management,Change Management,Governance,Strategic Planning,Communication,Budgeting,Financial Analysis,Microsoft Excel
+308,308,Information Technology Help Desk Specialist,7,44.0,15.37,17,Technical Support,Quality Assurance,Project Management,Team Leadership,Microsoft Excel,Data Analysis,Communication,Customer Service,Process Improvement,
+309,309,HR Director/Administrator,9,0.0,48.34,23,Human Resources Management,Leadership,Administrative Management,Financial Management,Project Management,Customer Service,Time Management,Communication,Microsoft Office,
+310,310,Accountant,8,20.4,40.4,24,General Accounting,Financial Reconciliation,Payroll Management,Budgeting,Leadership,Microsoft Excel,Accounting Software,Inventory Management,Project Management,
+311,311,Aviation Supply Specialist,8,23.7,28.92,10,Inventory Management,Supply Chain Management,Customer Service,Leadership,Time Management,Problem-Solving,Communication,Team Management,,
+312,312,Director of Information Technology,9,4.2,68.77,15,Network Administration,IT Governance,IT Budgeting,Leadership,Cisco Systems,Network Security,Troubleshooting,Project Management,Data Analysis,Communication
+313,313,Fitness Trainee/Recreation Management Intern,6,62.7,4.48,8,Project Management,Leadership,Microsoft Excel,Customer Service,Time Management,Communication,Teamwork,,,
+314,314,Subject Matter Expert (Information Technology Assistant),9,0.0,68.31,15,Data Validation,SAP,Microsoft Excel,Project Management,Quality Assurance,Asset Management,Technical Support,Database Management,SQL,Microsoft Access
+315,315,Accountant,6,50.0,13.48,19,Financial Analysis,Financial Reconciliation,General Accounting,Asset Management,Budgeting,Microsoft Excel,Auditing,Financial Reporting,,
+316,316,Packaging Buyer/Research and Development Lead,8,24.4,35.63,20,Procurement,Supply Chain Management,Leadership,Customer Service,Operations Management,Time Management,Communication,SAP,,
+317,317,Corporate Controller,9,19.0,46.49,28,Financial Management,Accounting,Leadership,Financial Analysis,Payroll Management,Budgeting,Financial Reporting,Cash Management,Tax Analysis,Microsoft Excel
+318,318,Finance Manager,9,10.0,42.69,18,Financial Reconciliation,General Accounting,Payroll Management,Budgeting,Project Management,Marketing,Leadership,Operations Management,Customer Service,Inventory Management
+319,319,HR Assistant,7,11.7,41.1,24,HR Management,Payroll Management,Scheduling,Data Entry,Customer Service,Medical Administration,Quality Assurance,Compliance,,
+320,320,RN / ASST. HEAD NURSE PRACTICE LEADER,9,13.2,54.26,47,Nursing,Leadership,Staff Management,Patient Care,Computer Proficiency,Scheduling,Payroll Management,Documentation,,
+321,321,Theater Arts Teacher & Program Director,7,12.5,40.36,26.5,Theater Arts,Teaching,Leadership,Classroom Management,Public Speaking,Creative Writing,Curriculum Development,Mentoring,,
+322,322,Payroll Accountant,6,16.8,35.18,12,Payroll Management,Financial Reconciliation,General Accounting,ADP (Human Resources and Payroll process functions),Microsoft Excel,Leadership,Time Management,Communication,Organizational Skills,GAAP Compliance
+323,323,"Director, Compounding Sales Specialist",9,19.0,34.58,44,Sales,Leadership,Customer Service,Communication,Time Management,Problem-Solving,Training and Development,Staff Management,Nursing,Reception and Administration
+324,324,Director of Finance,9,13.4,67.5,25,Financial Planning,Financial Oversight,Vendor Management,Operational Excellence,Leadership,Project Management,Forecasting,Staffing and Capacity Planning,Accounting,Economics
+325,325,Adventure Run Coordinator,7,35.6,11.73,18,Event Management,Leadership,Customer Service,Marketing,Operations Management,Communication,Teamwork,Time Management,,
+326,326,Loss Prevention/ BSA Analyst,8,66.4,5.76,23.5,Risk Management,Compliance,Leadership,Operations Management,Customer Service,Cash Management,Audit and Control,,,
+327,327,Information Technology Specialist,9,66.4,4.71,14,Project Management,Troubleshooting,IT Service Management,Network Administration,Desktop Support,Microsoft Office,TCP/IP Configuration,Active Directory,ITSM,
+328,328,Administrator of Information Technology,9,4.0,59.35,24,System Administration,Network Support,Database Management,Cyber Security,Software Support,Troubleshooting,Leadership,Project Management,,
+329,329,Arts Instructor,6,39.5,31.99,22,Teaching,Curriculum Development,Visual Arts,Photography,Leadership,Communication,Project Management,,,
+330,330,Health Systems Analyst,8,12.0,24.08,25,Healthcare Operations,Data Analysis,Project Management,Leadership,Communication,Problem-Solving,Strategic Planning,Time Management,,
+331,331,Creative Assistant,6,33.9,11.41,11,Project Management,Communication,Leadership,Event Planning,Public Relations,Time Management,Teamwork,Problem-Solving,Organizational Skills,Customer Service
+332,332,Project Accountant,6,13.7,53.88,7,Financial Reconciliation,General Accounting,Budgeting,Financial Reporting,Procurement,Administrative Management,,,,
+333,333,Finance Specialist,7,6.0,36.96,29,Payroll Management,General Accounting,Financial Reporting,Inventory Management,Bookkeeping,Bank Reconciliation,Accounts Payable and Receivable,Financial Analysis,Microsoft Excel,Leadership
+334,334,"Professional Fitness Trainer, Group Instructor",7,0.0,52.71,31,Fitness Training,Leadership,Accounting,Customer Service,Sales,Time Management,,,,
+335,335,Bank Operations Analyst,9,23.2,28.93,34,Bank Operations,Compliance Analysis,Leadership,Cash Management,Customer Service,Data Analysis,Team Management,Time Management,,
+336,336,Health Coach,6,28.0,24.29,19,Health Coaching,Nutrition Counseling,Exercise Physiology,Health Education,Leadership,Communication,Project Management,Marketing,,
+337,337,Customer Service Representative,8,40.1,20.86,16,Customer Service,Policy Management,Data Analysis,Inventory Management,Communication,Time Management,Problem-Solving,,,
+338,338,Customer Service Advocate,9,16.0,42.13,28,Customer Service,Leadership,Sales Management,Communication,Time Management,Negotiation,Data Entry,Payroll Management,Inventory Management,Merchandising
+339,339,RN/RN Team Lead,8,52.5,6.59,19.83,Leadership,Nursing,Operations Management,Quality Assurance,Risk Management,Project Management,Communication,Business Administration,,
+340,340,Customer Care Advocate,7,4.0,69.21,19,Customer Service,Communication,Problem-Solving,Time Management,Teamwork,Leadership,Sales,Product Knowledge,,
+341,341,Advisor,9,13.7,52.06,21,Leadership,Customer Service,Team Management,Compliance,Data Entry,Communication,Problem-Solving,,,
+342,342,Staff Accountant,8,25.0,34.44,18,Financial Reporting,Accounting,Financial Analysis,Tax Preparation,Auditing,Financial Planning,Communication,Microsoft Excel,,
+343,343,HR Consulting,7,31.0,35.3,7,Performance Management,Employee Engagement,Talent Management,Reward and Recognition,Payroll Management,Employee Benefits,Training and Development,Compliance Management,,
+344,344,Group Fitness Instructor,9,0.0,64.4,24,Group Fitness Instruction,Leadership,Marketing,Public Relations,Product Management,Communication,Motivation,Time Management,Teamwork,
+345,345,Placement Agent,9,12.5,47.35,19,Financial Modeling,Investment Banking,Mergers and Acquisitions,Financial Analysis,Leadership,Sales and Marketing,Team Management,Strategic Planning,,
+346,346,Accountant,6,0.0,64.4,18,Accounting,Financial Reconciliation,Budgeting,Microsoft Excel,Leadership,Process Improvement,Financial Reporting,General Ledger Management,Accounts Receivable,
+347,347,Chief Executive Officer,9,44.3,16.52,4,Leadership,Project Management,Marketing,Business Analysis,Team Management,Event Planning,Communication,Digital Marketing,,
+348,348,Administrative Assistant,7,50.0,5.3,24,Administrative Support,Project Management,Leadership,Microsoft Office,Time Management,Communication,Payroll Management,Human Resources,Data Management,Budgeting
+349,349,Corporate Director of Finance,10,0.0,52.71,22,Financial Analysis,Budgeting,Forecasting,Leadership,Accounting,Financial Reporting,Project Management,Microsoft Excel,Communication,Strategic Planning
+350,350,Budget Finance Specialist Senior,8,0.0,31.82,19,Leadership,Budgeting,Financial Analysis,Accounting,Financial Planning,Customer Service,Research,Financial Controls,,
+351,351,Customer Service Specialist,5,25.0,26.35,10,Customer Service,Communication,Teamwork,Leadership,Time Management,Problem-Solving,Writing,Research,,
+352,352,VP of Information Technology,9,40.6,20.78,20,Leadership,Information Technology,Project Management,Data Analysis,Application Development,Information Security,Team Management,Budgeting,SQL,ASP.Net
+353,353,Director of Information Technology,10,25.0,27.36,24,Project Management,Application Development,Network Support,Database Administration,Business Analysis,Leadership,ASP.NET,SQL Server,C#,TFS
+354,354,Enumerator,8,37.4,19.08,11,Data Collection,Customer Service,Healthcare Management,Administrative Support,Communication,Time Management,,,,
+355,355,Group Fitness Instructor,7,50.9,9.08,24,Group Fitness Instruction,Yoga Instruction,Leadership,Time Management,Communication,,,,,
+356,356,Yoga Instructor,6,19.5,40.65,20,Yoga Instruction,Fitness Instruction,Nutrition Education,Program Management,Leadership,Public Speaking,Time Management,,,
+357,357,Sales Associate/Cashier,6,21.2,46.41,12,Customer Service,Sales,Cash Handling,Time Management,Communication,Problem-Solving,,,,
+358,358,Server,5,24.1,46.03,8,Customer Service,Communication,Teamwork,Time Management,,,,,,
+359,359,Consultant,9,6.0,67.9,24,Project Management,Application Support,Database Management,Software Development,Leadership,Business Process Development,Data Analysis,IT Consulting,System Administration,SQL
+360,360,IT Manager,8,44.8,20.81,24.01,Server Installation and Migration,Network Security,Database Management,Microsoft Exchange Server,SQL,Virtualization,Help Desk Support,Project Management,Leadership,Budgeting
+361,361,Superintendent II,9,40.2,19.78,19,Leadership,Project Management,Safety Management,Inventory Management,Communication,Team Management,Time Management,,,
+362,362,Community Relations Advocate Supervisor,8,0.0,64.4,28,Community Relations,Partnership Development,Marketing,Public Relations,Leadership,Recruitment,Case Management,Project Management,Communication,
+363,363,Group Fitness Instructor,4,25.0,32.2,3,Child Development,,,,,,,,,
+364,364,Claims Service Specialist,8,19.0,34.58,4,Medical Billing and Coding,Claims Management,Data Analysis,Customer Service,Leadership,Communication,Problem-Solving,Time Management,,
+365,365,Senior Director of Business Operations - Healthcare,10,25.0,38.64,25,Financial Management,Leadership,Operational Management,Strategic Planning,Project Management,Team Management,Financial Analysis,Business Development,Process Improvement,
+366,366,HR Generalist,8,13.5,48.18,19,Human Resources,Employee Relations,Recruitment and Employment,Training and Development,Employee Benefits Administration,Payroll Processing,Leadership,Communication,Organizational Development,Time Management
+367,367,HR Manager,9,78.4,1.51,22,Human Resources Management,Recruitment and Hiring,Employee Relations,Benefits Administration,Compliance and Regulatory Affairs,Training and Development,Performance Management,Leadership and Supervision,Communication and Interpersonal Skills,
+368,368,"Manager, Digital Marketing and Communications",9,0.0,4.01,18,Project Management,Digital Marketing,Data Analysis,Search Engine Optimization (SEO),Content Management Systems,Google Analytics,Microsoft Office,Leadership,,
+369,369,Director of Information Technology,9,8.3,64.62,27,Leadership,Information Technology Management,Network Administration,Data Communications,System Analysis,Project Management,Technical Support,Server Administration,,
+370,370,Executive Director,9,37.8,19.46,39,Leadership,Strategic Planning,Budgeting,Financial Management,Project Management,Grant Writing,Program Development,Teaching,Customer Service,Marketing
+371,371,System Administrator/Assistant Supervisor,9,20.0,39.55,27,IT Systems Administration,Project Management,Leadership,Healthcare Management,Clinical Research,Communication,Problem-Solving,Team Management,,
+372,372,HR Manager/Business Partner,9,23.8,43.34,22,Talent Management,Change Management,Workforce Planning,Organizational Development,Leadership,Communication,Employee Benefits Administration,Vendor Relations,HR Operations,
+373,373,Clinical Research Coordinator Mentor - Quality Assurance,9,0.0,4.01,22,Project Management,Data Analysis,Regulatory Compliance,Quality Assurance,Leadership,Database Management,Communication,Time Management,Teamwork,Problem-Solving
+374,374,"SENIOR COMMERCIAL BUSINESS BANKING RELATIONSHIP MANAGER, VP",10,32.3,21.47,23,Business Banking,Treasury Management,Cash Management,Leadership,Risk Management,Compliance,Client Relationship Management,Sales,,
+375,375,Senior Supply Sergeant,8,24.3,35.72,27,Logistics Management,Supply Chain Management,Property Book Management,Leadership,Budgeting,Contract Management,Training and Development,,,
+376,376,HR Coordinator,7,0.0,64.4,18,Human Resource Management,Recruitment and Selection,Employee Relations,Benefits Administration,Training and Development,Microsoft Excel,Project Management,Communication,Leadership,
+377,377,Finance Manager,9,13.6,57.36,28,Financial Analysis,Financial Reporting,Budgeting,Financial Forecasting,Account Reconciliation,Financial Modeling,Leadership,Project Management,Communication,Auditing
+378,378,HR Analyst,9,16.7,34.07,8.1,Human Resources,Employee Relations,Leadership,Communication,Project Management,Time Management,,,,
+379,379,Finance Assistant,5,22.0,32.07,7,Customer Service,Data Entry,Cash Handling,Time Management,Communication,Organizational Skills,Attention to Detail,,,
+380,380,Senior HR,10,49.4,8.71,35,Leadership,Safety Management,Training and Development,Human Resource Management,Labor Relations,Organizational Effectiveness,Staffing,Payroll Management,Workers' Compensation,
+381,381,Senior Accountant,8.5,23.0,37.49,23,Financial Statement Preparation,Financial Reconciliation,Payroll Management,Budgeting,Leadership,Microsoft Excel,Account Analysis,Variance Analysis,Cost Containment,Cash Management
+382,382,PH Inpatient/Financial Advocate Supervisor,9,25.0,26.35,21,Leadership,Team Management,Customer Service,Training and Development,Project Leadership,Scheduling,,,,
+383,383,Senior Network Security Engineer,9,80.0,0.68,13.7,Network Security,Cisco Networking,TCP/IP,Network Design,Network Monitoring,Documentation,Troubleshooting,CCNA,CCNP,Palo Alto ACE
+384,384,Accountant,8,10.0,40.34,20,Accounting,Financial Reconciliation,Payroll,Auditing,Data Analysis,Leadership,Microsoft Excel,Process Improvement,Risk Management,
+385,385,Fitness Consultant,6,34.2,29.57,11,Coaching,Teaching,Leadership,Communication,,,,,,
+386,386,Logistics Coordinator,8,31.0,27.25,12,Project Management,Payroll Management,HR Administration,Data Entry,Leadership,Communication,Organizational Skills,Attention to Detail,,
+387,387,Senior Accountant,9,6.2,44.83,17,Financial Reconciliation,General Accounting,Financial Analysis,Budgeting,Financial Reporting,Accounting Standards,Microsoft Excel,,,
+388,388,Information Technology Instructor,7,10.0,72.9,12,Project Management,Leadership,Training and Development,Technical Support,Data Analysis,Curriculum Development,Customer Service,Software Management,Multimedia Design,
+389,389,"Vice President, Corporate Finance",10,0.0,58.37,27,Financial Reporting,Tax Compliance,Financial Planning,Leadership,Accounting,Audit,Financial Analysis,Risk Management,Investment Management,Project Management
+390,390,Center Director/Head Start Family Advocate,8,35.2,28.68,15,Leadership,Communication,Team Management,Time Management,Problem-Solving,Training and Development,Child Development,Data Management,Classroom Management,
+391,391,8th Grade Language Arts Teacher,7,25.0,26.35,11,Teaching,Leadership,Communication,Mentoring,Project Management,Data Analysis,Public Speaking,Community Engagement,,
+392,392,Managed Pressure Drilling Field Supervisor,9,59.4,9.05,18,Project Management,Leadership,Technical Consulting,Logistics Coordination,Inventory Control,Process Improvement,MPD (Managed Pressure Drilling),Pressure Control Systems,Hydraulic Modeling,Well Data
+393,393,Marketing and Corporate Communications/Merchant Services Transition - Communications Project Manager,9,25.2,40.86,27,Project Management,Communication,Marketing,Risk Management,Leadership,Six Sigma,Time Management,Team Management,,
+394,394,HR Manager,7,15.6,53.13,20,Talent Management,Recruitment,HR Management,Payroll Management,Quickbooks,Client Relationship Management,Research,Group Presentation,Leadership,Communication
+395,395,"Coordinator, Donor Relations",7,12.5,64.6,14,Data Analysis,Project Management,Financial Management,Communication,Marketing,Time Management,Problem-Solving,Microsoft Office,Accounting Software,
+396,396,Summer Analyst,6,15.4,55.0,7,Real Estate Analysis,Financial Analysis,Investment Analysis,Strategy Development,Project Management,Communication,Negotiation,Data Analysis,Microsoft Excel,
+397,397,Customer Care Representative,8,31.0,27.59,10,Customer Service,Leadership,Communication,Problem-Solving,Time Management,Team Management,,,,
+398,398,AVIATION SUPPLY SPECIALIST,9,57.3,10.71,13.8,Inventory Management,Leadership,Supply Chain Management,Logistics,Quality Control,Safety Management,Equipment Operation,Communication,,
+399,399,Consultant,9,29.5,28.45,11,Contract Drafting,Compliance,Legal Research,Aircraft Financing and Leasing,Taxation,Corporate Law,,,,
+400,400,Information Security & Compliance Manager,9,25.0,13.92,13,Information Security,Risk Management,Compliance,Network Security,Technical Support,,,,,
+401,401,Cashier,3,77.8,1.27,6.5,Customer Service,Communication,Time Management,Teamwork,Leadership,Food Safety and Handling,Cash Handling,Patient Care,,
+402,402,Maintenance Mechanic,5,0.0,50.92,7,Aircraft Maintenance,Troubleshooting,Mechanical Repair,Customer Service,,,,,,
+403,403,Accountant,8,22.7,30.22,19,Accounting,Financial Reconciliation,Customer Service,Leadership,Cash Handling,Training and Development,,,,
+404,404,Finance Officer,7,43.6,15.2,34,Financial Reconciliation,General Accounting,Payroll Management,Budgeting,Financial Reporting,Financial Analysis,Leadership,Communication,Organizational Management,
+405,405,Inside Sales Representative,9,80.9,0.85,19,Sales,Account Management,Real Estate Management,Property Management,Financial Management,Leadership,Communication,Networking,Business Development,
+406,406,Manager / Fitness Instructor,7,9.8,55.57,12,Customer Service,Communication,Leadership,Time Management,Teamwork,Problem-Solving,Sales and Marketing,Fitness Instruction,,
+407,407,AVIATION EXECUTIVE OFFICER,10,36.5,18.89,14,Leadership,Budgeting,Project Management,Risk Management,Communication,Problem-Solving,Time Management,Team Management,Financial Management,Strategic Planning
+408,408,Intern,5,29.5,10.06,1.5,Fitness Program Development,Fitness Instruction,Facility Management,Personal Training,,,,,,
+409,409,"Customer Service Rep 1 Lead, Quality Assurance Coach, Account Relationship Specialist, Online Banking Rep II",8,17.8,40.93,12,Leadership,Customer Service,Sales,Operations Management,Time Management,Communication,,,,
+410,410,Executive Assistant/Office Manager,8,8.0,57.81,15,Project Management,Time Management,Leadership,Communication,Marketing,Budgeting,Event Planning,Customer Service,Microsoft Office,
+411,411,"Program Manager Financial Manager, Facilities Manager",8,8.0,65.04,32,Leadership,Operational Management,Financial Management,Project Management,Marketing Management,Communication,Problem-Solving,Time Management,Team Management,Budgeting
+412,412,Registered Nurse Clinical Care Coordinator- First Aid,9,87.5,0.28,16,Leadership,Clinical Management,Patient Care,Nursing,Health and Sanitation,Training and Development,Quality Assurance,,,
+413,413,Principal Consultant,9,38.3,27.89,20,Mortgage Banking,Leadership,Operations Management,Risk Analysis,Project Management,Strategic Planning,Finance,Underwriting,Loan Servicing,Compliance
+414,414,Certified Nurse Assistant,5,40.2,23.77,7,Patient Care,Vital Signs Monitoring,Medical Record Keeping,Communication,Customer Service,CPR/AED,,,,
+415,415,Kids Club Attendant,5,28.0,25.7,6,Customer Service,Communication,Teamwork,Childcare,,,,,,
+416,416,Project Coordinator Associate,7,25.0,26.35,30,Project Management,Training and Development,Leadership,Communication,Problem-Solving,Time Management,Microsoft Office,Classroom Instruction,Program Development,
+417,417,Revenue Cycle Advocate,7,0.0,52.71,24,Microsoft Excel,Medical Billing,Insurance Verification,Customer Service,Data Entry,Office Administration,Epic System,Payment Reconciliation,,
+418,418,Senior Investment Banking Sales Analyst,9,12.5,54.83,16,Investment Banking,Sales,Project Management,Financial Analysis,Deal Structuring,Leadership,Communication,Time Management,,
+419,419,Volunteer,6,58.6,3.19,14,Emergency Medical Services,Patient Assessment,First Aid and CPR,Communication,Time Management,Martial Arts Instruction,Teamwork,,,
+420,420,Case Manager/Outreach Advocate,7,13.6,48.07,12,Case Management,Counseling,Communication,Problem Solving,Time Management,Customer Service,Data Entry,Eligibility Determination,,
+421,421,Information Technology Supervisor,9,69.4,4.27,13,Leadership,IT Project Management,Network Administration,Troubleshooting,Communication,Radiology,Customer Service,Data Entry,Cisco Routing,
+422,422,HR Consultant,9,25.5,41.74,17,HRIS (Human Resource Information System),Business Analysis,Project Management,Data Analysis,"SAP (Systems, Applications, and Products in Data Processing)",Payroll Management,Leadership,Communication,Process Improvement,
+423,423,Healthcare Associate,7,12.5,55.49,22,Leadership,Communication,Teamwork,Time Management,Inventory Management,Healthcare Management,Patient Care,,,
+424,424,Senior Application Specialist,9,0.0,46.85,29,Project Management,Technical Support,Training and Development,Revenue Cycle Management,Data Analysis,Leadership,Communication,Problem-Solving,Healthcare Management,
+425,425,Information Technology Manager,9,6.0,44.08,24,Leadership,Project Management,Network Management,Database Management,Operating Systems,Hardware Management,Software Management,Quality Assurance,Budgeting,Capacity Planning
+426,426,Lead Accountant,7,8.3,74.12,18,Financial Analysis,Budgeting,Financial Reporting,Accounting,Financial Planning,Risk Management,Leadership,Internal Controls,Data Analysis,
+427,427,Community Advocate,6,8.0,18.04,9,Customer Service,Data Entry,Communication,Leadership,Time Management,Problem-Solving,Microsoft Office,,,
+428,428,Accountant,8,21.2,24.99,22,Accounting,Financial Analysis,Budgeting,Financial Reporting,Payroll Management,Leadership,Time Management,Communication,Problem-Solving,Microsoft Excel
+429,429,Recruiter-in-Charge,8,55.0,8.99,17,Leadership,Project Management,Marketing,Team Management,Recruitment,Aviation Electronics,Business Administration,Management,,
+430,430,Accountant I,8,25.0,38.42,15,Accounting,Financial Analysis,Payroll Management,Budgeting,Financial Reconciliation,Tax Preparation,Microsoft Office,Accounting Software,Time Management,Organizational Skills
+431,431,Accountant,7,24.3,34.96,18,Accounting,Financial Analysis,Payroll Support,Sales Tax Administration,Bank Reconciliation,Accounts Payable,Accounts Receivable,Leadership,Financial Reporting,Microsoft Office
+432,432,Executive Director,10,26.0,27.56,29,Leadership,Project Management,Public Relations,Communication,Strategic Planning,Law Enforcement,Team Management,Marketing,,
+433,433,Field Support Specialist,7,23.7,21.65,24,Technical Support,Troubleshooting,Customer Service,Communication,Teaching,,,,,
+434,434,Information Technology Specialist,7,22.7,24.44,7,Technical Support,Computer Systems Administration,Network Administration,Troubleshooting,Leadership,Project Management,Communication,Problem-Solving,Time Management,Security
+435,435,Accountant,8,17.1,46.09,16.5,Financial Reconciliation,General Accounting,Payroll Management,Budgeting,Leadership,Tax Preparation,Financial Analysis,Account Management,Microsoft Excel,
+436,436,Finance Manager,9,16.7,39.72,31,Sales Management,Leadership,Customer Service,Product Knowledge,Inventory Management,Finance Management,Time Management,Communication,,
+437,437,Finance Business Partner,9,33.3,12.84,17,Financial Planning,Budgeting,Data Analysis,Process Improvement,Leadership,Financial Modeling,Operations Management,Cost Management,Microsoft Excel,
+438,438,Air Freight Agent,6,25.0,24.85,13,Logistics Management,Tariff Coding,Shipping Documentation,Problem Resolution,Communication,Time Management,,,,
+439,439,Account Executive,9,20.5,33.31,21,Healthcare Management,Leadership,Business Development,Sales,Project Management,Staff Management,Budgeting,Data Analysis,Communication,Time Management
+440,440,Finance Director,9,4.0,52.76,13.33,Financial Management,Budgeting,Financial Analysis,Leadership,Taxation,Accounting,Financial Reporting,Compliance,Audit,
+441,441,LEAD ENGINEER - FLUID SYSTEMS AND THERMAL ACCESSORIES,9,12.5,46.85,20,Mechanical Engineering,Fluid Systems Design,Thermal Accessories Design,Failure Mode and Effects Analysis (FMEA),Computational Fluid Dynamics (CFD),Leadership,Project Management,,,
+442,442,Treasury Management Liaison,9,0.0,68.31,24,Treasury Management,Leadership,Operations Management,Risk Management,Customer Service,Financial Analysis,,,,
+443,443,Branch Manager,7,44.4,15.41,11,Leadership,Customer Service,Sales and Growth,Risk Management,Financial Transactions,Account Management,Community Development,,,
+444,444,Material Control Specialist,7,0.0,64.4,13,Inventory Management,Logistics Management,Supply Chain Management,Asset Management,Leadership,Aviation Logistics,Procurement,Data Management,,
+445,445,Clinical Service Advocate,5,55.8,17.01,11,Counseling,Case Management,Community Outreach,Communication,Problem-Solving,,,,,
+446,446,HR Partner,9,19.0,33.58,34,Human Resources,Leadership,Performance Management,Policy Interpretation,Recruitment,Compensation Management,Employee Development,Organizational Design,,
+447,447,Non Commissioned Security Officer,9,25.0,38.42,21.5,Security,Surveillance,Leadership,Communication,Problem-Solving,Time Management,Teamwork,Attention to Detail,,
+448,448,Branch Manager,8,16.0,50.61,22,Leadership,Financial Analysis,Business Development,Accounting,Project Management,Customer Service,Sales,Budgeting,Credit Analysis,Marketing
+449,449,STOREKEEPER II,7,29.5,36.03,17,Inventory Management,Leadership,Customer Service,Procurement,Microsoft Excel,Quality Control,Logistics,,,
+450,450,Mechanical Design Engineer Intern,4,29.5,28.45,4,Mechanical Design,3D Modeling,Finite Element Analysis (FEA),Project Management,Stress Analysis,Flow Assurance,CFD Analysis,ProEngineer,Pipesim,Ansys Fluent
+451,451,"Assistant, Acquisitions and Dispositions",7,0.0,4.01,25,Real Estate Acquisitions,Real Estate Dispositions,Financial Analysis,Project Management,,,,,,
+452,452,Finance,7,32.3,29.68,11,Financial Analysis,Budgeting,Cost Control,Auditing,Financial Reporting,Communication,Accounting,,,
+453,453,Aviation Maintenance Egress Leading Petty Officer,9,77.0,1.51,23,Aviation Maintenance,Quality Assurance,Leadership,Training and Development,Safety Management,Project Management,,,,
+454,454,Office Manager,7,46.6,5.45,12,Accounting,Payroll Management,Budgeting,Leadership,Time Management,Customer Service,Data Entry,Financial Analysis,Project Management,Communication
+455,455,Accountant III,7,8.3,33.78,28,Financial Reconciliation,General Accounting,Payroll Management,Leadership,Budgeting,Cash Management,Credit Analysis,Accounts Receivable Management,Financial Analysis,Oracle Accounting
+456,456,Managing Principal,9,25.0,38.42,19,Project Finance,Investment Banking,Corporate Finance,Financial Modeling,Negotiation,Leadership,Financial Analysis,Risk Management,,
+457,457,Information Technology Intern,3,33.4,27.13,1,Microsoft Excel,Technical Support,Communication,American Sign Language (ASL),,,,,,
+458,458,HR Manager,9,12.5,40.36,23,Human Resource Management,Recruitment,Benefits Administration,Payroll Management,Employee Relations,Policy Compliance,Leadership,Team Management,,
+459,459,HR Generalist,8,19.0,33.7,27.67,Human Resource Management,Recruitment and Hiring,Employee Relations,Training and Development,Leadership and Management,Time Management and Organization,Customer Service,,,
+460,460,NC AIR GUARD HEALTH SERVICES MANAGER,7,13.5,37.86,11,Healthcare Management,Patient Care,Medical Records Management,Supply Chain Management,,,,,,
+461,461,Senior Medical Recruiter,8,0.0,76.84,12,Leadership,Communication,Recruitment,Customer Service,Time Management,Microsoft Excel,Problem-Solving,Team Motivation,,
+462,462,Regional Banking District Manager Vice President,10,8.3,52.71,25,Leadership,Staff Management,Business Development,Strategic planning,Financial Management,Customer Service,Organization and Time management,Negotiation,Business planning,Sales and marketing
+463,463,Patient Advocate,5,25.0,13.93,12,Tax Preparation,Financial Analysis,Leadership,Customer Service,Data Entry,Time Management,Attention to Detail,Communication,,
+464,464,Customer Service Rep,9,8.0,57.81,12,Customer Service,Communication,Problem-Solving,Leadership,Time Management,Teamwork,Technical Skills,Safety and Security,Data Entry,Aviation
+465,465,Information Technology Specialist,6,0.0,64.4,3,Technical Support,Information Assurance,Network Administration,Windows Operating System,Leadership,Cable Installation and Maintenance,Troubleshooting,Communication Systems,Cybersecurity,
+466,466,Project Analyst,9,0.0,69.77,23,Project Management,Data Analysis,Leadership,Communication,Risk Management,Compliance,,,,
+467,467,Information Technology Specialist,7,6.0,79.52,6,Automation,Troubleshooting,Customer Service,Leadership,Training and Development,Technical Support,Problem-Solving,Communication,,
+468,468,Information Technology Bureau Deputy Director,9,11.7,55.2,24,Leadership,Project Management,IT Service Management,Network Administration,Database Administration,Computer Systems,Teaching,Consulting,Optical Networking,System Analysis and Design
+469,469,Physical Therapy Aide,8,50.0,10.25,24,Leadership,Customer Service,Time Management,Communication,Team Management,Budgeting,Sales,,,
+470,470,HR Generalist,7,15.4,55.7,20,Payroll Management,Human Resources Management,Recruitment,Employee Relations,Benefits Administration,Customer Service,,,,
+471,471,Finance Operations/ Supervisor Manager,9,10.0,62.24,25,Leadership,Project Management,Customer Service,Performance Management,Quality Control,,,,,
+472,472,"Director, Vendor Services and Compliance",9,44.8,11.03,18,Human Resource Management,Project Management,Leadership,Communication,Business Analysis,Risk Management,Payroll Management,Benefits Administration,,
+473,473,Grants Manager,8,0.0,64.4,12,Grant Management,Financial Administration,Research Administration,Leadership,Project Management,Investment Banking,Financial Analysis,,,
+474,474,Landscaper,5,10.0,4.01,7,Leadership,Time Management,Training and Development,,,,,,,
+475,475,Finance Manager,7,31.2,14.89,18,Financial Planning,Accounting,Financial Analysis,Bookkeeping,Payroll Management,Leadership,Microsoft Excel,QuickBooks,Financial Edge,
+476,476,Fitness Instructor,7,42.4,15.54,12,Fitness Instruction,Customer Service,Office Administration,Communication,Time Management,,,,,
+477,477,Budget and Administration Manager,7,25.0,38.42,16,Budgeting,Financial Management,Contract Management,Human Resources,Leadership,Project Management,Customer Service,Microsoft Excel,Database Management,Communication
+478,478,Substitute Teacher,6,31.0,22.31,23,Patient Care,Medical Administration,Event Planning,Communication,Time Management,,,,,
+479,479,Flight Manager,8,17.8,26.79,11,Leadership,Communication,Problem-Solving,Customer Service,Project Management,Team Collaboration,Time Management,,,
+480,480,DIRECTOR OF FINANCE,9,8.0,54.51,24,Financial Analysis,Financial Reporting,Financial Compliance,Investment Analysis,Microsoft Excel,Leadership,Financial Planning,Accounting,,
+481,481,HR Employee Relations Specialist,8,16.7,47.4,23,Employee Relations,Training and Development,Leadership,Communication,,,,,,
+482,482,Finance Manager,8,72.2,4.56,14,Financial Management,Sales Management,Leadership,Time Management,Negotiation,Customer Relationship Management,Training and Development,,,
+483,483,Information Technology Specialist,8,0.0,76.84,20,Network Security,Troubleshooting,System Administration,Helpdesk Support,Computer Systems,Information Assurance,TCP/IP Configuration,Operating System Management,,
+484,484,Combat Marksmanship Trainer/ Primary Marksmanship Instructor,7,17.0,28.82,nan,Leadership,Instructor/Training,Marksmanship,Martial Arts,Project Management,Team Management,Communication,Problem-Solving,,
+485,485,Flight Attendant,9,55.0,10.14,37,Leadership,Investigation,Data Management,Project Management,Training and Development,Communication,Problem-Solving,Time Management,Teamwork,
+486,486,Aviation Supply Specialists,7,47.5,18.83,nan,Supply Chain Management,Inventory Management,Leadership,Hazardous Materials Handling,Logistics,Accounting,Material Management,,,
+487,487,Accountant,9,9.8,62.52,30,Accounting,Financial Analysis,Budgeting,Financial Reporting,Account Reconciliation,SAP,Communication,Time Management,Attention to Detail,
+488,488,Program Assistant,6,37.2,19.64,16,Customer Service,Data Entry,Office Administration,Time Management,Communication,Microsoft Excel,,,,
+489,489,HR Coordinator,7,0.0,52.71,12,Human Resources,Payroll Management,Financial Management,Leadership,Recruitment,Employee Relations,Compliance,Project Management,Customer Service,
+490,490,Customer Service Advocate,7,30.9,23.5,17,Leadership,Customer Service,Communication,Coaching,Teaching,Project Management,Data Analysis,Quality Assurance,Public Speaking,Time Management
+491,491,OCCUPATIONAL HEALTH NURSE COORDINATOR,6,0.0,76.84,22,Occupational Health,Nursing,Patient Assessment,Medication Administration,Emergency Response,Health Education,,,,
+492,492,Mechanical Engineer,8,29.5,31.27,16,Mechanical Engineering,Project Management,Troubleshooting,Electro/Mechanical Skill,Water Treatment,Leadership,Design of controls for pumps and motors,Marine Engineering,Power Plant Maintenance,
+493,493,Aircraft Sales,8,14.3,50.17,nan,Aviation Management,Aircraft Appraisal,Safety Inspections,Project Management,Leadership,Welding,Plan Reading,Time Management,Team Management,Communication
+494,494,Information Technology Manager,8,6.0,79.52,25,Project Management,Leadership,Network Administration,System Administration,Server Management,Technical Integrity,Time Management,Resource Scheduling,Client Relationship Management,Budgeting
+495,495,"Head, Information Technology and Information Center",10,25.3,35.04,34,Leadership,Project Management,Supply Chain Management,Data Analysis,IT Management,Budgeting,SAP,Software Development,Call Center Management,Cash Management
+496,496,Contract Accountant,8,0.0,52.71,21,General Accounting,Financial Management,Payroll Management,Internal Controls,Audit and Compliance,Leadership,Quality Management,,,
+497,497,Accountant II,6,19.0,19.73,13,Accounting,Financial Analysis,Financial Reporting,Payroll Management,General Ledger Management,Compliance,Auditing,Time Management,Attention to Detail,
+498,498,Director of National Sales- US. Healthcare,9,13.8,37.55,18,Sales Management,Business Development,Leadership,Strategy Development,Customer Service,Budgeting,Contract Negotiation,,,
+499,499,VICE PRESIDENT OF MEMBERSHIP,10,0.0,68.31,18.5,Leadership,Business Development,Sales and Marketing,Relationship Management,Project Management,Communication and Presentation,Financial Literacy,,,
+500,500,Lean Six Sigma Black Belt,9,21.0,52.79,23,Leadership,Project Management,Logistics Management,Financial Management,Inventory Management,Supply Chain Management,,,,
+501,501,"Manager, Advisory, Performance Improvement",9,50.0,9.17,10,Project Management,System Analysis,IT Consulting,Solution Architecture,Banking and Financial Services,System z,Distributed Applications,COBOL,PL/I,PL/SQL
+502,502,Finance Manager,8,13.6,55.96,18,Financial Management,Accounting,Budgeting,Financial Analysis,Debt Management,Leadership,Financial Reporting,Treasury Management,Taxation,Banking
+503,503,HR Generalist,8,29.5,34.56,9,Recruitment,HR Management,Employee Onboarding,Payroll Management,Leadership,Communication,Time Management,Data Management,Microsoft Excel,
+504,504,Graduate Engineer,7,50.0,9.66,10,CAD Design,Transportation Engineering,Project Management,Microsoft Excel,VBA Programming,Data Analysis,Communication,,,
+505,505,Accountant,6,0.0,52.71,12,Accounting,Financial Management,Financial Reporting,Payroll Administration,Customer Service,Cash Handling,,,,
+506,506,Finance Manager,10,0.0,76.84,22,Financial Forecasting,Financial Analysis,Financial Modeling,Leadership,Financial Planning,Financial Reporting,Risk Management,Budgeting,Financial Management,Accounting
+507,507,Patient Care Technician,6,22.1,36.97,11,Patient Care,Nursing Assistance,Mobility Assistance,Vital Signs Monitoring,Daily Living Activities,Customer Service,Cash Handling,,,
+508,508,"PHARMACEUTICAL SALES REPRESENTATIVE, Women's Healthcare Specialist",8,29.5,35.66,29,Sales,Account Management,Customer Service,Marketing,Communication,Leadership,Strategic Planning,Time Management,Public Relations,
+509,509,Hiring Manager/Recruiting Manager,8,6.0,46.57,11,Recruitment,Leadership,Human Resource Management,Communication,,,,,,
+510,510,Tax Accountant,6,72.5,3.35,8,Tax Preparation,Bookkeeping,Account Reconciliation,Financial Analysis,Payroll Management,Microsoft Excel,,,,
+511,511,VP Finance & IS&T,10,12.5,43.83,34,Project Management,Financial Planning and Analysis (FP&A),SAP ERP Implementation,Business Intelligence,Leadership,Finance Transformation,Cost Savings,System Harmonization,Risk Management,Governance
+512,512,Healthcare Effectiveness and Information Set Coordinator (HEDIS),6,15.4,44.7,18,Customer Service,Communication,Data Entry,Microsoft Office Suite,Time Management,Problem-Solving,Teamwork,,,
+513,513,Independent Consultant,8,30.1,30.42,20,Leadership,Event Planning,Customer Service,Accounts Receivable,Accounts Payable,Project Management,Communication,Time Management,Problem-Solving,Microsoft Office
+514,514,HR Specialist,8,75.0,2.2,28,Recruitment,Classification,Compensation Analysis,Project Management,Leadership,Training and Development,Communication,Analysis,Problem-Solving,
+515,515,Client Relations Advocate,5,39.1,16.85,15,Customer Service,Data Entry,Record Keeping,Time Management,Childcare,,,,,
+516,516,Assistant Director of Finance,9,13.7,54.88,21,Financial Analysis,Accounting,Budgeting,Financial Reporting,Leadership,Project Management,Data Analysis,Microsoft Excel,Hyperion,
+517,517,Financial Analyst Intern,9,6.0,56.9,10,Financial Analysis,Investment Analysis,Financial Planning,Leadership,Risk Management,Portfolio Management,Financial Modeling,Data Analysis,Business Development,
+518,518,Admin Operating Room Administrative Coordinator,8,11.9,55.59,17,Leadership,Time Management,Communication,Problem-Solving,Mental Health Counseling,Patient Care,Scheduling,Teamwork,Healthcare Administration,Food Safety and Sanitation
+519,519,Healthcare Recruiter,7,16.7,27.18,18,Recruitment,Communication,Time Management,Organizational Skills,Customer Service,Data Entry,Financial Management,Microsoft Office,,
+520,520,AMC Computer Specialist and Intern,8,8.0,26.29,33,Software Development,Project Management,Leadership,Troubleshooting,Communication,IT Management,Problem-Solving,Customer Support,Data Analysis,
+521,521,Assistant to CFO,8,10.0,52.16,24,Microsoft Excel,Project Management,Leadership,Communication,Customer Service,Data Analysis,Budgeting,Time Management,Organizational Skills,
+522,522,Information Technology Specialist,9,20.4,55.65,30,Software Development,Project Management,Change Management,Database Management,Leadership,Communication,Problem-Solving,Testing and Quality Assurance,Algorithm Development,Statistical Analysis
+523,523,Financial Consultant,9,57.2,9.46,18,Financial Planning,Financial Analysis,Forecasting,Leadership,Financial Modeling,Business Development,Client Relationship Management,Microsoft Excel,,
+524,524,Applications Team Leader,8,27.6,37.82,27,Project Management,Leadership,Data Analysis,Database Management,Software Administration,Strategic Planning,Communication,Team Management,SharePoint,Web Development
+525,525,HR Generalist,7,8.3,61.89,14,Immigration Law,Regulatory Compliance,Project Management,Leadership,Communication,Data Management,Time Management,Microsoft Office,,
+526,526,HR Specialist,6,33.3,22.57,20,Payroll Management,Bookkeeping,Administrative Support,Time Management,Communication,Data Entry,Customer Service,Microsoft Office,,
+527,527,Business Banking Specialist,9,19.6,26.41,19,Sales Training,Leadership,Customer Service,Marketing,Project Management,Conflict Management,Public Relations,Employee Training,Team Management,Communication
+528,528,Owner/Operator,7,50.0,8.49,18,Leadership,Management,Personal Training,Sales,Operations,Business Development,,,,
+529,529,Mortgage Banking Foreclosure Specialist,9,19.4,47.43,21,Mortgage Banking,Data Entry,Quality Control,Customer Service,Analytical Skills,Time Management,Industry Guidelines,,,
+530,530,Finance Office Associate,7,13.8,37.47,7,Financial Reporting,Account Reconciliation,Cash Management,Customer Service,Time Management,Communication,Problem-Solving,Microsoft Excel,Leadership,Accounting
+531,531,Finance Manager,9,0.0,64.4,22,Financial Planning,Financial Reporting,Financial Analysis,Leadership,Risk Management,Audit and Assurance,Financial Modeling,Tax Planning,Internal Controls,Accounting Standards
+532,532,General HR Assistant/Office Assistant,7,0.0,41.83,22,Customer Service,Human Resources,Data Entry,Leadership,Time Management,Communication,Training and Development,,,
+533,533,Production Associate,4,54.0,6.06,28,Help Desk Support,Technical Training,Troubleshooting,Network Administration,Novell Netware,,,,,
+534,534,Customer Service Advocate,7,54.0,9.22,21,Customer Service,Communication,Problem-Solving,Leadership,Time Management,,,,,
+535,535,Regional Director of Banking and Wealth,9,35.5,20.93,9,Leadership,Strategic Planning,Team Management,Customer Engagement,Revenue Growth,Financial Management,Business Administration,,,
+536,536,HR Benefits/Leave Coordinator,6,17.0,44.36,22,HR Administration,Leave Management,Benefits Administration,Payroll Management,Compliance and Regulatory Affairs,Training and Development,Communication and Interpersonal Skills,Data Analysis and Reporting,,
+537,537,Customer Advocate,6,29.5,20.59,10,Customer Service,Communication,Problem-Solving,Time Management,Leadership,Event Planning,Data Entry,,,
+538,538,Business Process Analyst,8,35.0,25.19,12.3,HR Operations,Recruitment,Payroll Management,Employee Relations,Leadership,Project Management,Communication,Audit and Compliance,Microsoft Office,
+539,539,Mortgage Banking Document Mortgage Banking Doc Ops Specialist,9,39.1,16.92,26,Time Management,Organizational Skills,Customer Service,Quality Assurance,Communication,Training and Development,,,,
+540,540,Youth Advocate,7,52.0,5.4,18,Counseling,Case Management,Teaching,Leadership,Communication,Problem-Solving,Record-Keeping,Mental Health Support,,
+541,541,Trip Coordinator,8,33.3,30.39,10,Financial Management,Operational Finance,Leadership,Financial Analysis,Budgeting,Microsoft Office,Project Management,Contract Negotiation,,
+542,542,Accountant,9,25.0,20.91,16,Financial Reconciliation,General Accounting,Financial Analysis,Journal Entries,Ledger Management,Bank Reconciliation,Financial Reporting,,,
+543,543,Branch Banker III,9,25.0,26.35,18,Customer Service,Sales,Relationship Management,Leadership,Time Management,Communication,Teamwork,,,
+544,544,CONSUMER BANKING DEFAULT MANAGEMENT SUPERVISOR,9,24.4,41.11,21,Leadership,Operations Management,Team Management,Customer Service,Communication,Problem-Solving,Time Management,Finance,,
+545,545,Adjunct Information Technology Instructor,8,23.2,45.32,17,Python,C#,Java,Javascript,Visual Basic,Web Design,Help Desk Support,Network Configuration,Hardware Repair,Software Repair
+546,546,Regional Recruiter,7,28.0,29.67,14,Recruitment,Communication,Data Entry,Healthcare Administration,Financial Administration,Oracle Administration,Teaching,,,
+547,547,Manager of Finance,7,12.5,56.11,10,Account Management,Financial Management,Customer Service,Leadership,Inventory Management,Time Management,,,,
+548,548,Teacher Assistant,7,19.0,46.45,18,Teaching Assistance,Classroom Management,Communication,Administrative Support,Customer Service,Data Entry,Healthcare Support,,,
+549,549,Patient Care Technician,7,12.5,37.47,14,Patient Care,Medical Documentation,Leadership,Communication,Time Management,Troubleshooting,Teamwork,Basic Life Support (BLS),Nursing,
+550,550,Branch Banker,8,0.0,41.83,33,Customer Service,Sales and Marketing,Leadership,Banking Operations,Loan Management,Account Management,Compliance and Risk Management,,,
+551,551,Healthcare Clinical Analyst,9,19.5,30.36,14.7,Leadership,Project Management,Data Analysis,Communication,Research,Time Management,Collaboration,Training and Development,Quality Assurance,Grant Writing
+552,552,Information Technology Manager,8,27.4,20.94,29,Project Management,IT Governance,Data Security,Database Development/Maintenance,SQL,PL/SQL,Crystal Reports,Visual Basic,Leadership,Troubleshooting
+553,553,Banking Center Manager,9,20.8,45.66,17,Leadership,Sales,Customer Service,Team Management,Financial Products,Communication,Problem-Solving,Banking Operations,,
+554,554,Senior Advisor and National Fundraising Director,8,46.0,13.76,6,Project Management,Fundraising,Budgeting,Leadership,Digital Marketing,Communication,Team Management,Strategic Planning,,
+555,555,Manager Field,7,23.7,42.86,20,Leadership,Quality Assurance,Customer Service,Data Entry,Case Management,Communication,Time Management,Compliance,,
+556,556,Sales Associate,6,17.5,46.49,8,Time Management,Communication,Teamwork,Customer Service,Fitness Instruction,Personal Training,,,,
+557,557,Finance Officer,7,55.0,6.93,34,Financial Reconciliation,General Accounting,Payroll Management,Budgeting,Leadership,Event Management,Tourism Promotion,,,
+558,558,Passenger Service Concourse Manager,9,36.7,21.18,16,Leadership,Operations Management,Team Management,Communication,Problem-Solving,Time Management,Safety Management,Customer Service,,
+559,559,Banking Boot Camp Participant,4,61.4,5.99,9,Customer Service,Communication,Time Management,Teamwork,Basic Office Skills,,,,,
+560,560,Senior Information Technology Manager,9,0.0,85.38,23,Cloud Computing,Project Management,IT Management,Server Management,Storage Management,Network Support,Troubleshooting,Leadership,Communication,
+561,561,School Counselor,6,25.0,26.35,16,Counseling,Classroom Management,Communication,Documentation,Microsoft Office,Teaching,Writing,,,
+562,562,Management and Program Analysis,8,20.0,23.28,8,Budgeting,Financial Analysis,Accounting Operations,Financial Reporting,Project Management,Data Analysis,,,,
+563,563,Senior Exercise Specialist & Sports and Recreation Coordinator,9,0.0,4.01,20,Project Management,Leadership,Communication,Problem-Solving,Time Management,Team Management,Fitness Program Development,Audit and Compliance,,
+564,564,Child Performer Welfare Advocate,7,10.0,40.57,11,Customer Service,Time Management,Organizational Skills,Leadership,Communication,Problem-Solving,Data Entry,,,
+565,565,Retail Sales Consultant,7,29.5,33.95,11,Customer Service,Sales,Time Management,Communication,Cash Handling,Problem-Solving,,,,
+566,566,HR Specialist,7,0.0,52.71,17,HR Management,Recruitment,Onboarding,Compliance,Employee Relations,Communication,Data Entry,Customer Service,SAP,
+567,567,Plant Fulfillment Leader,10,25.0,38.42,16,Leadership,Project Management,Inventory Management,Supply Chain Management,Lean Manufacturing,Materials Management,Microsoft Excel,Communication,,
+568,568,Clinical Study Coordinator II,8,4.0,70.82,12,Clinical Research Coordination,Patient Recruitment and Management,Data Collection and Management,Regulatory Compliance,Leadership and Team Management,Exercise Physiology,Communication and Interpersonal Skills,Project Management,Epic EHR/EMR Systems,
+569,569,AFSCME Union President,10,16.7,33.15,30,Leadership,Project Management,Operational Management,Time Management,Compliance Management,Communication,,,,
+570,570,Customer Service Agent,7,32.5,32.96,11,Customer Service,Medical Billing,Data Entry,ICD-9 Coding,CPT Coding,Patient Confidentiality,Time Management,Communication,Medical Records Management,
+571,571,HR Coordinator,7,6.0,66.38,18,Payroll Management,HR Management,Employee Relations,Recruitment,Data Entry,Microsoft Office,,,,
+572,572,Accountant,5,31.0,18.32,3,Financial Reconciliation,Payroll Management,Microsoft Excel,Financial Reporting,Accounting,,,,,
+573,573,Child Center Asst Dept Head,8,10.0,4.01,21,Leadership,Child Development,Program Management,Customer Service,Lesson Planning,Classroom Management,,,,
+574,574,Digital Marketing Specialist,9,15.6,62.01,18,Digital Marketing,SEO and SEM,Data Analysis,Project Management,Leadership,Marketing Strategy,CRM Management,Team Management,Communication,Time Management
+575,575,"Associate, Investment Banking Operations",9,36.4,26.48,13,Investment Banking Operations,Loan Management,Data Analysis,Project Management,Compliance Management,System Enhancements,Communication,Microsoft Excel,,
+576,576,HR Manager,7,33.8,35.06,21,Human Resource Management,Leadership,Strategic Planning,Team Management,Policy Development,,,,,
+577,577,Finance and Sales Consultant,6,23.5,27.77,4.5,Sales,Finance,Leadership,Marketing,Customer Service,Time Management,Communication,Real Estate,,
+578,578,Online Learning Coordinator - Program Training and Support,9,0.0,64.4,21,Instructional Design,Staff Development,Curriculum Development,Educational Technology,Leadership,Project Management,Public Speaking,Training and Development,,
+579,579,Accountant,9,19.0,40.04,22,Leadership,Budgeting,Financial Management,Asset Management,Financial Analysis,Project Management,Communication,Real Estate,Negotiation,
+580,580,Accountant,8,4.0,38.55,17,Financial Reporting,Financial Analysis,Grant Management,Budgeting,Accounting,Financial Reconciliation,Payroll Management,Leadership,Project Management,Procurement
+581,581,STAFF ACCOUNTANT,6,24.4,23.01,11,Financial Analysis,Financial Reporting,Budgeting,Financial Management,Accounts Payable Management,Process Improvement,,,,
+582,582,"Online Coaching, Personal Training",8,10.0,52.16,24,Personal Training,Nutrition Programming,Weight Loss Consultations,Health Coaching,Leadership,Communication,,,,
+583,583,Sale Consultant,4,51.6,10.98,1.75,Customer Service,Sales,Cash Handling,Visual Merchandising,Time Management,,,,,
+584,584,Database Programmer/Analyst (.NET Developer),7,4.0,70.82,8,C#,ASP.Net,JavaScript,CSS,HTML,Entity Framework,LINQ,ADO.Net,AJAX,SQL Server
+585,585,Personal Trainer,6,100.0,0.0,14,Personal Training,Leadership,Time Management,Communication,Team Management,Customer Service,Social Media Marketing,,,
+586,586,Business Analyst Sr. Technical Business Analyst,7,62.8,0.99,5,Project Management,Business Analysis,Cloud Computing,Software Development Life Cycle (SDLC),Application Implementation,Requirements Gathering,J2EE,Web Development,Sales Force Automation,Customer Relationship Management
+587,587,Healthcare Instructional Assistant,7,25.4,34.75,18,Health Education,Healthcare Administration,Patient Care,Classroom Management,Instructional Support,Communication,,,,
+588,588,Healthcare Customer Service Representative,9,18.8,45.02,14,Customer Service,Communication,Leadership,Problem-Solving,Time Management,Team Management,,,,
+589,589,Accountant III,7,0.0,73.14,17.5,Grant Management,Financial Reconciliation,Accounts Receivable,Accounts Payable,General Ledger,Journal Entries,Budgeting,Cash Handling,Customer Service,Teaching/Instruction
+590,590,"Information Technology Consultant, Managing Member",10,4.0,70.82,14,Technical Support,IT Project Management,Leadership,Cloud Computing,Network Design,Problem-Solving,Communication,,,
+591,591,"Eighth, Ninth and Tenth English Teacher",7,25.4,27.25,9,Teaching,Curriculum Development,Classroom Management,Communication,Leadership,Assessment and Evaluation,Lesson Planning,,,
+592,592,General Manager,10,0.0,64.4,21,Leadership,Sales and Marketing,Customer Service,Financial Management,Project Management,Data Analysis,Team Management,,,
+593,593,Human Resources Manager,8,15.4,44.83,14,Human Resources Management,Recruitment,Employee Onboarding,Employment Law,Leadership,Communication,Sales,Customer Service,Payroll Management,Microsoft PowerPoint
+594,594,Director of Information Technology,9,28.6,37.19,24,Project Management,Budgeting,Leadership,Data Analysis,Risk Management,ITIL Governance,Communication,Change Management,,
+595,595,Operations Technician 1,9,17.2,44.15,11,Quality Control,Mechanical Maintenance,Troubleshooting,Safety Procedures,Leadership,Project Management,Time Management,Communication,Customer Service,
+596,596,Student,8,20.0,26.58,21,Leadership,Project Management,Communication,Data Management,Time Management,Teamwork,Problem-Solving,Microsoft Office,,
+597,597,School Success Advocate,8,17.2,27.5,11,Leadership,Mentorship,Project Management,Communication,Team Building,Academic Support,Social Justice,Public Speaking,,
+598,598,Customer Service Associate/Cashier,7,41.6,7.95,18,Customer Service,Cash Handling,Medical Administration,HIPAA Compliance,Bookkeeping,Microsoft Office,Housekeeping,Time Management,,
+599,599,Administrative Coordinator,7,15.2,55.26,13,Event Management,Communication,Project Management,Marketing,Data Management,,,,,
+600,600,Finance Director,9,44.7,18.39,33,Financial Analysis,Accounting,Financial Reporting,Budgeting,Leadership,Microsoft Excel,Project Management,Time and Expense Management,Payroll Management,Accounts Receivable
+601,601,Healthcare Senior Outreach Specialist,8,0.0,50.75,16,Public Speaking,Community Outreach,Policy Development,Leadership,Quality Assurance,Employee Management,Communication,,,
+602,602,HR Assistant,6,0.0,52.71,22,Human Resource Management,Leadership,Employee Relations,Recruitment and Selection,Employee Performance Management,Inventory Management,Customer Service,,,
+603,603,Staff Accountant,6,0.0,4.01,27,Payroll Management,Payroll Accounting,Timekeeping Systems,Budgeting,Accounting,,,,,
+604,604,Member Advocate,8,10.0,24.47,22,Customer Service,Claims Management,Insurance Verification,Admissions Coordination,Business Development,Leadership,Account Management,Communication,Problem-Solving,Time Management
+605,605,Corporate Regional Recruiter,7,43.6,19.06,18,Recruitment,Talent Acquisition,Marketing,Leadership,Communication,Strategic Planning,Networking,Time Management,Goal Setting,
+606,606,Accountant I,6,33.6,16.02,15.25,Administrative Support,Record Keeping,Customer Service,,,,,,,
+607,607,School Library Media Specialist,7,19.0,27.44,20,Project Management,Leadership,Communication,Grant Writing,Marketing,Instructional Design,Data Analysis,Collaboration,Technology Integration,
+608,608,Home Healthcare Technician,7,40.8,17.18,17,Patient Care,Emotional Support,Communication,Time Management,Confidentiality,,,,,
+609,609,I.T. Support Technician/Specialist,7,41.9,15.17,19,Technical Support,Networking,Problem Solving,Leadership,Communication,,,,,
+610,610,Director of Finance,9,52.0,14.61,34,Financial Statement Preparation,Budgeting,Financial Analysis,Leadership,Yield Management,Internal Controls,IT Management,Contract Negotiation,Financial Forecasting,Financial Reporting
+611,611,General Business Management,8,28.3,36.63,10,Sales Management,Marketing Management,Customer Service,Leadership,Project Management,SQL,Team Building,,,
+612,612,4/5 Grade Teacher,8,28.5,36.67,19,Curriculum Development,Classroom Management,Assessment and Evaluation,Leadership,Communication,Microsoft Word,Budgeting,Event Planning,Staff Management,
+613,613,Branch Manager,8,0.0,38.75,12,Leadership,Customer Service,Financial Management,Marketing and Promotion,Team Management,Time Management,Communication,Problem-Solving,Accounting,
+614,614,Finance Analyst,8,35.5,19.98,10,Financial Analysis,Asset Management,Leadership,Communication,Project Management,Time Management,Data Analysis,Accounting,,
+615,615,Accountant,5,25.0,38.42,6,Accounting,Financial Reconciliation,Payroll Management,Microsoft Excel,,,,,,
+616,616,Passenger Services Officer,8,13.8,30.09,14,Customer Service,Leadership,Teamwork,Time Management,Sales,Communication,Problem-Solving,Administrative Tasks,Travel Industry Knowledge,
+617,617,Licensed Practical Nurse- Step-down Unit,7,12.5,37.61,9,Patient Care,Medical Record Keeping,Medication Management,Wound Care,Leadership,Communication,Critical Thinking,Time Management,Patient Education,Teamwork
+618,618,Registered Nurse,7,10.0,42.69,18,Leadership,Training and Development,Data Analysis,Health Information Systems,Patient Care,Medical Records Management,Time Management,,,
+619,619,Game Design Intern,7,17.8,21.36,10,Game Design,Time Management,Teamwork,Computer Science,,,,,,
+620,620,Business Systems Analyst I,9,12.5,55.22,14,Database Design,Marketing Analysis,Data Integration,CRM,Marketing Campaign,Project Management,Leadership,,,
+621,621,"Sleep Technologist, RPSGT",7,76.1,1.92,18,Polysomnogram Preparation and Setup,Diagnostic Testing,Patient Monitoring and Scoring,Data Transfers,Windows OS,EEG and LTM,Patient Preparation and Education,Equipment Calibration,Clinical Patient Evaluation,Disease Management Programs
+622,622,Customer Service Agent,7,8.3,52.21,14,Customer Service,Communication,Problem-Solving,Time Management,Teamwork,,,,,
+623,623,DIRECTOR OF FINANCE,10,31.0,27.25,29,Financial Planning,Financial Strategy,Budgeting,Project Management,Risk Management,Financial Analysis,Leadership,Investment Analysis,Software Implementation,
+624,624,Cashier,6,44.1,14.64,19,Customer Service,Data Entry,Leadership,Communication,Time Management,Teamwork,Problem-Solving,Dental Assisting,Mapping,
+625,625,HR & Safety Manager,7,13.8,46.56,19,Human Resource Management,Leadership,Change Management,Staff Management,Training and Development,Time Management,,,,
+626,626,Senior Finance Manager,9,27.0,39.31,8,Financial Analysis,Financial Reporting,Financial Planning,Leadership,Auditing,Financial Management,Data Analysis,,,
+627,627,HR Generalist,9,28.0,38.29,nan,Human Resources,Leadership,Process Improvement,Training and Development,Communication,Project Management,,,,
+628,628,HR Intern,7,40.0,18.98,13,Recruitment,Talent Acquisition,Employee Management,Job Analysis,Applicant Tracking System,Leadership,Communication,Human Resources,,
+629,629,Staff Accountant,9,12.6,31.83,20.6,Financial Reconciliation,General Accounting,Budgeting,Leadership,GAAP Accounting,Financial Reporting,Data Analysis,,,
+630,630,Aviation Technician,6,20.0,4.01,20,Aircraft Maintenance,Aviation Technology,Automotive Repair,Teamwork,Problem-Solving,,,,,
+631,631,Current University Programs Lead,9,40.0,23.14,7,Recruitment Strategy,Talent Management,HRIS Systems,Communication,Leadership,Project Management,Data Analysis,Diversity and Inclusion,Microsoft Excel,
+632,632,Branch Manager/Operations Manager,8,39.2,13.74,44,Accounting,Financial Management,Payroll Management,Leadership,Microsoft Excel,Claims Adjustment,Subrogation,Customer Service,Time Management,Communication
+633,633,Aviation Parts Salesman,7,17.8,46.15,2,Aeronautics,Aviation Safety,,,,,,,,
+634,634,Finance Controller,9,12.5,49.87,24,Financial Management,Leadership,Accounting,Budgeting,Financial Analysis,Taxation,Financial Planning,Auditing,Financial Reporting,Microsoft Excel
+635,635,Production Excellence Specialist,8,0.0,64.4,8.5,LEAN Manufacturing,Six Sigma Methodologies,Operational Efficiency,Leadership,Quality Assurance,Project Management,Communication,Problem-Solving,,
+636,636,National Sales Manager,9,28.0,30.24,34,Sales Management,Leadership,Customer Service,Team Management,Time Management,Communication,Negotiation,Data Analysis,Project Management,Music Education
+637,637,"Athletic Director, Coach, PE Teacher",8,12.5,49.31,12,Leadership,Teaching,Curriculum Development,Event Planning,Communication,Motivation,Assessment and Evaluation,Physical Education,Health and Wellness,
+638,638,Customer Advocate,4,25.0,32.2,4,Customer Service,Cash Handling,Time Management,Communication,,,,,,
+639,639,Surgical Clinical Reviewer,7,0.0,4.01,NaN,Data Analysis,Quality Assurance,Project Management,Leadership,Payroll Management,Business Development,Health Information Management,Clinical Review,Medical Record Abstraction,Compliance
+640,640,6 - 8 Language Arts Grade Teacher,7,6.0,67.9,24,Teaching,Lesson Planning,Classroom Management,Project Management,Microsoft Office,Communication,Leadership,Public Speaking,Time Management,Organizational Skills
+641,641,Healthcare Recruiter,7,25.0,35.81,10,Recruitment,HR Administration,Training and Development,Onboarding,HR Operations Analysis,Leadership,Communication,Time Management,,
+642,642,Senior Associate,9,71.3,4.12,12,Financial Risk Management,Foreign Exchange Trading,Interest Rate Management,Commodities Trading,Portfolio Management,Leadership,Financial Analysis,Risk Management,,
+643,643,Sales & Trading Intern,7,20.8,49.3,7,Asset Analysis,Market Analysis,Sales and Trading,Client Relations,Business Planning,Communication,Time Management,,,
+644,644,Specialist of Infantry,9,33.3,16.43,28,Leadership,Inventory Management,Logistics,Mechanical Maintenance,Data Entry,Forklift Operation,,,,
+645,645,Community Advocate,7,10.0,42.69,12,Customer Service,Team Management,Leadership,Communication,Time Management,Problem-Solving,,,,
+646,646,Dining Services Coordinator,8,52.0,13.29,17,Food Service Management,Leadership,Team Management,Communication,Problem-Solving,Time Management,Human Resources Management,,,
+647,647,Entrepreneur General Manager,9,10.0,4.01,18,Leadership,Operations Management,Training and Development,Policy Implementation,Inventory Management,Sales Management,,,,
+648,648,Trade Finance Officer,9,33.4,30.3,14,Trade Finance,Fund Transfer,Credit Card Management,Customer Service,,,,,,
+649,649,Intern,7,17.2,42.09,13,Project Management,Data Entry,Communication,Leadership,Time Management,Healthcare Administration,Real Estate,Mortgage Origination,,
+650,650,Investment Accountant,7,25.0,30.37,7,Financial Reconciliation,Investment Analysis,Portfolio Management,Accounting,AML Compliance,Data Analysis,Communication,,,
+651,651,Registered Client Service Associate,7,24.8,38.63,24,Customer Service,Account Management,Sales and Marketing,Banking Operations,Technical Writing,,,,,
+652,652,Accountant,6,0.0,43.17,nan,Accounting,Payroll Management,Financial Reconciliation,QuickBooks,Peachtree Accounting,Timberline Software,Leadership,Bookkeeping,Tax Preparation,
+653,653,Force Analyst,9,8.3,52.62,19,Leadership,Project Management,Data Analysis,Communication,Database Management,Risk Management,Time Management,Problem-Solving,Security,
+654,654,Executive Assistant HR,7,10.0,62.24,28,Payroll Management,HR Administration,Administrative Support,Time Management,Organizational Management,Customer Service,,,,
+655,655,Communicable Disease Specialist,7,28.0,19.39,8,Case Management,Data Analysis,Public Health,Communication,Project Management,Leadership,Time Management,Risk Management,Customer Service,
+656,656,Field Based Nurse Chart Reviewer - Healthcare Informatics,8,22.7,31.5,20,Nursing Care,Leadership,Staff Management,Payroll Management,Education and Training,Policy Development,Electronic Medical Records,Workflow Analysis,Quality Assurance,
+657,657,Shift Supervisor,7,0.0,68.31,10,Leadership,Customer Service,Time Management,Communication,Team Management,,,,,
+658,658,Healthcare Administration Intern,8,33.3,19.92,21,Leadership,Project Management,Communication,Time Management,Patient Education,Laboratory Testing,Data Analysis,Health Administration,Staff Development,Quality Improvement
+659,659,Interim Membership Director,8,23.5,43.24,23,Leadership,Management,Payroll Management,Inventory Management,Sales,Training and Development,Communication,Time Management,Customer Service,Health and Wellness
+660,660,Finance Director,10,4.0,68.29,24,Accounting,Financial Reconciliation,Budgeting,Leadership,Financial Reporting,Audit Management,Process Improvement,Financial Analysis,Microsoft Excel,
+661,661,HR Administrator,7,11.6,50.32,17.09,Human Resources,Administrative Support,Microsoft Excel,ADP Software,Recruitment,Communication,Project Management,,,
+662,662,Fitness Attendant,6,30.0,29.06,2,Nutrition Counseling,Patient Assessment,Dietary Planning,Food Safety and Sanitation,Communication,Teamwork,,,,
+663,663,"AVP, Finance",9,11.7,59.91,21,General Accounting,Financial Reconciliation,Payroll Management,Budgeting,Leadership,Financial Analysis,Accounts Payable/Accounts Receivable,Tax Preparation,General Ledger Accounting,
+664,664,Health Information Specialist,7,6.0,64.06,13.75,Health Information Management,HIPAA Compliance,Medical Records Management,Billing and Reimbursement,Payroll Management,Leadership,Quality Assurance,Compliance and Regulatory Affairs,,
+665,665,Owner,9,75.0,0.89,26,Leadership,Technology Management,Database Solutions,Troubleshooting,Hardware and Software Installation,Presentation Skills,Educational Leadership,Computer Science,Filemaker,
+666,666,Sr. HR Generalist,9,0.0,76.84,12,Human Resources Management,Payroll Management,Recruitment and Hiring,Employee Relations,Benefits Administration,Training and Development,Budgeting,Leadership,,
+667,667,Finance Supervisor,9,10.0,60.02,22,Financial Planning,Financial Analysis,Budgeting,Financial Reporting,Leadership,Accounting,Data Analysis,Project Management,,
+668,668,Fitness Instructor,8,0.0,37.18,24,Sales Management,Leadership,Marketing Strategy,Product Education,Event Planning,Inventory Management,Customer Service,Public Speaking,Business Operations,Entrepreneurship
+669,669,Finance Consultant,8,17.5,58.24,19,Financial Analysis,Data Analysis,Financial Reporting,Project Management,Leadership,Microsoft Excel,SQL,Business Intelligence,Access,Risk Management
+670,670,Geek Squad Agent,5,40.2,22.03,11,Technical Support,Hardware Installation and Repair,Software Installation and Repair,Inventory Management,Logistics and Warehouse Management,Troubleshooting,Maintenance and Repair,Quality Control,Computer Hardware,Computer Software
+671,671,Assistant Boy's Basketball Coach,8,15.4,55.0,37,Leadership,Coaching,Team Management,Recruitment,Budgeting,Teaching,Sports Management,,,
+672,672,Account Service Representative II/Tech,8,25.0,23.06,18,Leadership,Project Management,Sales,Graphic Design,Training and Development,Communication,Martial Arts Instruction,,,
+673,673,Special Finance Manager,9,17.2,36.14,18.25,Financial Management,Leadership,Budgeting,Marketing,Account Management,Data Analysis,Project Management,Communication,,
+674,674,Mover,5,44.8,16.06,14,Physical Labor,Logistics and Transportation,Warehouse Management,Time Management,Teamwork,,,,,
+675,675,HR Coordinator,7,6.0,67.9,13,HR Management,Payroll Management,Leadership,Time Management,Communication,Training and Development,Event Planning,French Language,,
+676,676,Financial Accountant,7,0.0,76.84,25,Financial Analysis,Accounting,Financial Reporting,Budgeting,Leadership,Microsoft Excel,Project Management,,,
+677,677,Director of Information Technology,9,0.0,4.01,26,Project Management,Leadership,Change Management,Vendor Management,IT Operations Management,Network Security,Data Recovery,Communication,Problem-Solving,Technical Support
+678,678,Aviation Camp Assistant,7,10.0,55.33,11,Aerodynamics,Aircraft Design,UAV Design,Flight Simulation,Wind Tunnel Testing,Water Tunnel Testing,Aerodynamic Modeling,Leadership,Project Management,Communication
+679,679,Sales Associate,6,30.0,33.47,9,Customer Service,Communication,Cash Handling,Problem-Solving,Time Management,Teamwork,,,,
+680,680,Senior Client Advocate II,9,33.3,17.27,25,Business Process Analysis,Project Management,Leadership,Data Analysis,Budgeting,SQL,Communication,Problem-Solving,Team Management,
+681,681,Outside Machinist,8,18.8,50.67,26,Machinery Installation,Precision Tooling,Project Management,Leadership,Mathematics,Blueprint Reading,,,,
+682,682,HR Generalist,9,9.8,62.52,22,HR Generalist,Employee Relations,Recruitment,Benefits Administration,Compliance,Leadership,Communication,Problem-Solving,Time Management,Payroll Management
+683,683,Equipment Operator and Fitness Leader,8,20.1,12.92,16,Leadership,Equipment Operation,Training and Development,Attention to Detail,Time Management,Teamwork,,,,
+684,684,Training Assistant,9,23.9,39.56,30,Project Management,Leadership,Marketing,Communication,Training and Development,Event Planning,Database Management,Microsoft Office,,
+685,685,Contracts and Finance Officer,6,12.5,22.67,9,Financial Management,Procurement,Financial Reporting,,,,,,,
+686,686,Assistant to Managing Director,8,38.3,24.02,8,Project Management,Leadership,Communication,Data Analysis,Time Management,Customer Service,Accounting,Business Administration,,
+687,687,Assistant Principal,8,54.3,5.81,23,Leadership,Staff Management,Communication,Event Planning,Safety and Emergency Management,Teaching,Curriculum Development,Mentoring,,
+688,688,Receptionist and Veterinary Technician,6,17.8,31.33,7,Customer Service,Administrative Support,Time Management,Communication,Microsoft Office,,,,,
+689,689,Finance Manager,9,10.0,62.24,14,Financial Modeling,Financial Analysis,Budgeting,Financial Reporting,Leadership,Auditing,Risk Management,Data Analysis,Financial Planning,Accounting
+690,690,Customer Service Advocate,8,0.0,31.82,29,Customer Service,Healthcare Administration,Insurance Verification,Medical Records Management,Scheduling,Data Entry,Communication,Problem-Solving,Time Management,
+691,691,General Manager,8,35.1,24.11,11,Leadership,Team Management,Customer Service,Marketing,Employee Training and Development,Time Management,Communication,,,
+692,692,Finance Manager,9,20.5,48.57,23,Financial Analysis,Financial Reconciliation,Budgeting,Leadership,Management,Communication,Strategic Planning,Cost Management,,
+693,693,Staff Accountant,5,25.0,26.35,4,Financial Reconciliation,General Accounting,Financial Analysis,Project Management,,,,,,
+694,694,Aviation Records Analyst,8,6.2,45.2,25,Data Analysis,Technical Support,System Administration,Troubleshooting,Project Management,Leadership,Communication,Aviation Maintenance,,
+695,695,Vice President of Operations,10,0.0,51.79,23,Project Management,Healthcare,Quality Systems,Life Sciences,Pharmaceuticals,Remote Care Services,Good Manufacturing Practices,Good Clinical Practices,Good Laboratory Practices,Validation
+696,696,Certified Fitness Trainer,8,31.4,24.8,14,Leadership,Sales and Marketing,Customer Service,Team Management,Budgeting,Communication,Time Management,Fitness and Wellness,,
+697,697,Director of Finance,8,40.0,10.24,32,Financial Leadership,Accounting Operations Management,Financial Reporting,Financial Planning and Analysis,Risk Management,Bank Reconciliation,Payroll Management,General Ledger Management,Inventory Reconciliation,Leadership
+698,698,Technical IT Healthcare Consultant,9,0.0,4.01,29,Linux System Administration,UNIX System Administration,HP-UX System Administration,Red Hat Linux,Apache,Oracle,VMware,TCP/IP Networking,"Scripting (Bash, Korn Shell)",Disaster Recovery
+699,699,Senior Analyst - Business Intelligence and Analytics - Healthcare,9,0.0,4.01,18,Data Analysis,Business Intelligence,Project Management,Leadership,Communication,Strategic Planning,Negotiation,Inventory Management,SQL,Excel
+700,700,Sexual Assault Crisis Counselor / Victim Advocate,8,6.0,46.57,31,Counseling,Advocacy,Community Outreach,Leadership,Training and Development,Social Work,Case Management,Group Facilitation,,
+701,701,Lead Teller,7,32.8,39.86,11,Cash Handling,Risk Assessment,Customer Service,Leadership,Time Management,Compliance,,,,
+702,702,Social Media Producer,7,25.0,32.34,17,Content Creation,Photography,Videography,Video Editing,Microsoft Excel,Payroll Management,Leadership,Customer Service,Data Entry,Multitasking
+703,703,Human Resource/ Finance Analyst,9,0.0,41.83,11,Human Resource Management,Customer Service,Payroll Management,Leadership,Recruitment,Employee Development,Case Management,Counseling,,
+704,704,Director of Information Technology,8,12.5,28.9,25,IT Management,Network Administration,IT Security and Risk Management,Leadership,Technical Support,,,,,
+705,705,SENIOR VICE-PRESIDENT AND CHIEF INFORMATION OFFICER,10,37.9,29.09,27,Network Security,IT Operational Management,Enterprise Resource Planning,Portal Technology,Business Process Improvement,Leadership,Network Administration,Wide Area Network (WAN) Management,,
+706,706,Mortgage Banking Research Specialist,7,37.5,29.34,26,Leadership,Communication,Problem-Solving,Time Management,Team Management,Quality Assurance,Business Administration,,,
+707,707,Accountant,6,28.0,31.03,20,General Accounting,Financial Reconciliation,Payroll Management,Leadership,Financial Reporting,Cash Management,Budgeting,Microsoft Excel,,
+708,708,Aviation Mechanic,6,58.5,11.54,12,Aircraft Maintenance,Troubleshooting,Hydraulic Systems,Electrical Systems,Airframe Systems,Record Keeping,,,,
+709,709,"Director, Quality Improvement Network Facilitation",9,53.0,9.84,20,Data Analysis,Project Management,Leadership,Healthcare Administration,Quality Improvement,Public Health,Nursing,Healthcare Management,Team Management,
+710,710,Accountant II,8,8.0,44.61,34,Financial Reconciliation,General Accounting,Budgeting,Leadership,Microsoft Excel,Financial Analysis,Auditing,Financial Reporting,Accounting Principles,
+711,711,Supervisor,7,29.5,27.06,20,Aircraft Maintenance,Leadership,Safety Procedures,Tool Control,HAZMAT Handling,Aircraft Painting,Aircraft Coating,,,
+712,712,Founder and Project Manager,9,26.9,37.84,11,Project Management,Leadership,Communication,Risk Assessment,Financial Analysis,Portfolio Management,Client Relationship Management,Bloomberg,,
+713,713,Purchasing Agent,9,0.0,4.01,25,Procurement,Supply Chain Management,Leadership,Communication,Sales,Compliance,Customer Service,Time Management,Team Management,Banking Operations
+714,714,PhD Candidate in Finance,9,38.4,26.16,25,Financial Modeling,Econometric Modeling,Asset Pricing,Teaching,Research,GARCH Process,Sentiment Measures,State-Space Model,Option Pricing Models,Materials Science
+715,715,Care Coordinator,7,21.2,36.5,12,Care Coordination,Medication Management,Data Analysis,Leadership,Communication,Team Management,Time Management,Problem-Solving,Counseling,Event Planning
+716,716,Practice Manager,9,30.4,23.79,20,Budgeting,Financial Analysis,Leadership,Project Management,Compliance Management,Information Technology Management,Marketing Management,Training and Development,Risk Management,
+717,717,Direct Client Coordinator- Counselor/ Victim Advocate,8,33.7,15.01,15.3,Counseling,Crisis Intervention,Leadership,Time Management,Communication,Sales,Marketing,Customer Service,Team Management,
+718,718,Customer Care Representative,7,87.5,0.37,7,Customer Service,Leadership,Recruitment,Staff Management,Communication,Human Resources,,,,
+719,719,Customer Advocate,6,72.9,3.92,16,Customer Service,Communication,Leadership,Time Management,Cash Handling,Teamwork,Problem-Solving,Attention to Detail,Adaptability,
+720,720,Patient Health Advocate,7,0.0,22.77,14,Customer Service,Communication,Problem-Solving,Leadership,Time Management,,,,,
+721,721,Security Baggage Handler/Personnel Screener,8,50.0,8.54,15,Security Operations,Aircraft Maintenance,Ordnance Handling,Leadership,Communication,,,,,
+722,722,AM- Replenishment Stocker,6,50.0,4.65,7,Customer Service,Inventory Management,Electronics Installation and Repair,Troubleshooting,Time Management,Communication,,,,
+723,723,Emergency Room Admitting Specialist/Quality Assurance,7,50.2,14.45,14,Patient Admission,Customer Service,Data Entry,Communication,Case Management,Group Facilitation,Crisis Intervention,Social Work,Spanish Interpretation,
+724,724,Business Office Manager,8,12.5,30.41,14,Leadership,Employee Management,Policy Development,Customer Service,Medical Records Management,"Coding (CPT, HCPCS, ICD-9)",HIPAA Compliance,Accounts Receivable Management,Billing and Insurance,Data Entry
+725,725,HR SPECIALIST,9,31.0,32.52,24,Human Resource Management,Recruitment,Payroll Management,Budgeting,Customer Service,Leadership,Communication,Problem-Solving,,
+726,726,Staff Accountant,9,21.7,35.81,22,Financial Analysis,Accounting,Payroll Management,Budgeting,Leadership,Human Resources,QuickBooks,Financial Reconciliation,General Ledger Review,Procedure Development
+727,727,Service Advocate IV- Clinical Support,9,33.3,27.71,17,Customer Service,Communication,Problem-Solving,Process Improvement,Training and Development,Insurance Knowledge,Data Entry,Compliance,,
+728,728,Information Technology,9,21.2,52.67,25,Accreditation Management,Vulnerability Management,Systems Engineering,Project Management,Leadership,Network Design,Communication,Problem-Solving,,
+729,729,Staff LPN,8,40.9,13.4,18,Nursing Care,Team Management,Medication Administration,Patient Care,Phlebotomy,Data Management,Geriatric Care,,,
+730,730,Corporate Project Manager,8,20.5,47.49,10,Project Management,Leadership,Change Management,Business Development,IT Infrastructure Management,Training and Development,Budgeting,Microsoft Office,,
+731,731,Customer Service Advocate,8,35.5,27.74,39,Customer Service,Communication,Leadership,Time Management,Payroll Management,Data Entry,Problem-Solving,,,
+732,732,Advanced Level Wheeled Vehicle Mechanic,8,39.4,21.04,24,Leadership,Mechanical Maintenance,Troubleshooting,Electrical Systems,Project Management,,,,,
+733,733,HR Coordinator,7,45.0,15.09,18,Recruitment,Employee Relations,Human Resources Management,Leadership,Communication,Compliance,Project Management,Data Management,,
+734,734,Healthcare Consulting Project Associate,8,25.0,27.37,15,Project Management,Data Analysis,Leadership,Communication,Strategic Planning,Financial Management,Healthcare Operations,Marketing,Process Improvement,Training and Development
+735,735,Director of Information Technology,10,16.7,45.02,32,Project Management,ITIL,Active Directory,Office 365,Leadership,Business Analysis,Architecture,Cisco,VoIP,B2B
+736,736,Intern,4,12.5,47.33,3,Strength and Conditioning,,,,,,,,,
+737,737,Front Desk Attendant,5,40.0,17.52,2,Bookkeeping,Customer Service,Aircraft Operations,Aviation Management,,,,,,
+738,738,Accommodation Service Executive ll,8,28.0,29.18,24,Customer Service,Sales Management,Leadership,Communication,Problem-Solving,Time Management,Team Management,Database Management,,
+739,739,HR Payroll/ Accounting Representative,7,10.7,57.58,6,Payroll Management,Accounting,Customer Service,Leadership,Time Management,,,,,
+740,740,Vice President,10,48.7,17.44,24,Project Management,Leadership,Risk Management,Data Analysis,Communication,Problem-Solving,Business Analysis,Software Development Life Cycle (SDLC),Computer Information Systems,
+741,741,Staff Pharmacist,8,35.1,35.12,19,Pharmacy Management,Patient Consultation,Prescription Management,Leadership,Troubleshooting,,,,,
+742,742,ABA Therapist,6,50.3,16.87,8,Child Development,Behavioral Therapy,Communication,Time Management,,,,,,
+743,743,Certified Nursing Assistant,7,18.6,34.93,24,Patient Care,Communication,Time Management,Teamwork,Microsoft Office,Healthcare Administration,,,,
+744,744,"Director, Information Technology",9,0.0,90.0,40,Leadership,Information Technology Management,Strategic Planning,Project Management,Computer Science,Mathematics,Teaching,Community Service,,
+745,745,Manager of Golf Operations,9,43.0,21.99,6,Marketing,Event Management,Sales,Leadership,Negotiation,Presentation,Business Management,,,
+746,746,Operations Coordinator,7,4.0,56.85,15,Office Administration,Communication,Organizational Skills,Time Management,Leadership,Teaching,Curriculum Development,Microsoft Office,,
+747,747,Market Consultant - Healthcare Advocate,8,12.7,44.42,14,Data Analysis,Leadership,Communication,Problem-Solving,Time Management,Compliance,Training and Development,,,
+748,748,Finance Manager,9,13.5,57.5,19,Financial Reporting,Financial Analysis,Auditing,Financial Planning,Accounting,Leadership,Risk Management,Compliance,Financial Management,
+749,749,Accountant,7,10.0,52.16,14,Financial Analysis,Accounting,Financial Reporting,Auditing,Financial Modeling,Microsoft Excel,GAAP Compliance,Internal Controls,,
+750,750,IT Manager,9,6.0,53.63,20,IT Management,Project Management,Leadership,Network Administration,CyberSecurity,Help Desk Management,Communication,Budgeting,Vendor Management,
+751,751,Student Finance Consultant,7,0.0,74.66,17,Financial Aid Analysis,Compliance and Reconciliation,Data Analysis,Customer Service,Leadership,Time Management,,,,
+752,752,Administrative Assistant,8,40.4,13.46,11,Event Planning,Communication,Project Management,Time Management,Graphic Design,Customer Service,Microsoft Office,Adobe InDesign,,
+753,753,"SVP, Regional Sales Director Wealth Management",10,28.0,30.28,24,Leadership,Sales Management,Financial Services,Client Relationship Management,Team Management,Business Banking,Executive Leadership,,,
+754,754,EPIC Information Technology Specialist,6,36.5,23.08,7,Analytical Testing,Method Development,Instrument Calibration,Research and Development,Bioprocessing,Data Analysis,,,,
+755,755,Teradata Senior Associate Consultant,9,12.5,52.82,15,Data Analysis,Database Design,Teradata,Oracle,SQL,BTEQ,Agile Methodology,Software Development Life Cycle (SDLC),,
+756,756,Assistant Information Technology (IT) Director,9,15.6,47.5,24,Project Management,Leadership,IT Strategy,Process Improvement,Electronic Health Records,Information Security,,,,
+757,757,Pest Control Tech,7,30.0,4.01,20,Inventory Management,Customer Service,Logistics and Shipping,Leadership,Time Management,Problem-Solving,Teamwork,Decision-Making,,
+758,758,Fulfillment Advocate,8,21.2,26.03,18,Inventory Control,Cost Analysis,Customer Service,Supply Chain Management,Leadership,Financial Analysis,Project Management,Communication,Time Management,
+759,759,Account Executive,9,35.1,15.66,22,Sales,Leadership,Business Development,Communication,Project Management,Time Management,Team Management,Business Administration,,
+760,760,Aviation Mechanic,9,57.6,15.12,30,Aircraft Maintenance,Leadership,Project Management,Quality Control,Troubleshooting,Technical Management,Occupational Safety and Health,,,
+761,761,Director of Information Technology,9,25.3,28.8,26,Data Center Management,Cyber Security,Team Management,Network Design and Architecture,Project Management,ERP Solution Management,Strategic Planning,Risk Management,Leadership,Information Technology
+762,762,Software Engineer,9,100.0,0.0,18,C++,C#,Lua,Unity 3D,Game Development,AI Programming,Software Engineering,Team Leadership,Problem-Solving,
+763,763,Accountant,9,19.0,27.44,32,Accounting,Financial Management,Bookkeeping,Cost Accounting,Inventory Control,Audit,Leadership,Strategic Planning,Software Implementation,Project Management
+764,764,Assistant Banking Center Manager,9,40.2,25.9,21,Financial Reporting,Bank Reconciliation,Commercial Law,Negotiation Skills,Complex Problem Solving,Needs Assessment,Strategic Planning,Sales and Marketing,Client Interface,Profile Management
+765,765,Membership Coordinator,7,20.7,30.55,22,Sales,Customer Service,Communication,Time Management,Teamwork,,,,,
+766,766,Audio/Visual Technician,5,6.2,50.37,7,Audio/Video Installation,Audio/Video Signal Flow,Brake System Servicing,Fuel System Servicing,Event Planning,DJing,Audio Editing,,,
+767,767,Vice President Information Technology Infrastructure Operations,10,0.0,76.84,21,Cloud Computing,Network Administration,Leadership,Vendor Management,Disaster Recovery,IT Operations,Microsoft Exchange,Cisco,Linux,Unix
+768,768,Arts Education Intern,6,13.6,23.18,10,Teaching,Event Planning,Leadership,Communication,Time Management,Music Performance,Vocal Performance,Piano Performance,,
+769,769,Finance Officer,7,0.0,41.83,19,Financial Reconciliation,General Accounting,Payroll Management,Leadership,Inventory Management,Customer Service,Time Management,Team Management,Financial Analysis,
+770,770,Gradation Candidate Advocate,7,38.1,15.99,18,Leadership,Mentoring,Customer Service,Sales,Inventory Management,Event Planning,Communication,Teamwork,Time Management,Public Relations
+771,771,Product Specialist,7,8.3,50.67,14,Customer Service,Sales,Leadership,Time Management,Communication,,,,,
+772,772,HR Generalist,7,17.2,36.14,20,Human Resource Management,Recruitment,Employee Development,Policy Development,Leadership,Compliance,Employee Relations,,,
+773,773,Senior Accountant,8,5.0,57.3,19,Financial Reconciliation,General Accounting,Payroll Management,Financial Analysis,Accounting Management,,,,,
+774,774,Administrative Assistant,4,49.8,8.38,7,Customer Service,Communication,,,,,,,,
+775,775,Director of Information Technology / Chief Technology Officer,9,25.0,38.42,15,Leadership,IT Strategy,Project Management,IT Infrastructure Development,Data Security,ERP,ECM Program,VPN Network,E-commerce,Lean Manufacturing
+776,776,Payroll Accountant,7,12.0,39.64,31,Payroll Management,General Accounting,Financial Reconciliation,Accounts Receivable Management,Financial Reporting,Leadership,Contract Management,,,
+777,777,Production Assistant Intern,5,0.0,57.24,5,Communication,Project Management,Technical Troubleshooting,Customer Service,Social Media Management,,,,,
+778,778,Information Technology Specialist I,8,0.0,4.01,23,Active Directory Administration,Server Administration,Network Administration,Scripting,SAN Administration,Troubleshooting,Geographic Information Systems (GIS),Microsoft System Center,Exchange Server Administration,
+779,779,Lead Pharmacy Technician Advocate - Supervisor,8,21.7,42.77,24,Leadership,Staff Management,Time Management,Communication,Data Entry,Customer Service,,,,
+780,780,Advocate,8,18.8,38.83,14,Career Counseling,Training and Development,Leadership,Public Speaking,Project Management,Human Resource Management,Coaching and Mentoring,,,
+781,781,Video Director,7,48.1,8.6,11,Leadership,Project Management,Time Management,Communication,Entrepreneurship,Video Production,,,,
+782,782,Accountant,8,6.0,45.49,27,Account Reconciliation,General Accounting,Financial Analysis,Budgeting,Financial Statements,Payroll Management,Leadership,Microsoft Excel,QuickBooks,Financial Planning
+783,783,Sales / Finance Manager,8,6.2,66.15,14,Project Management,Leadership,Sales Management,Marketing Strategy,Financial Planning,Civil Engineering,Communication,Teamwork,,
+784,784,Finance Manager,7,27.1,3.8,24,Leadership,Project Management,Process Improvement,Sales,Credit Management,Accounting,Rapport Building,Relationship Building,,
+785,785,Quality Control Inspector,6,26.9,21.08,15,Quality Control,Aircraft Maintenance,Aviation Structural Mechanics,Risk Management,Technical Inspection,,,,,
+786,786,Registered Nurse,8,26.9,7.58,17,Nursing Care,Patient Assessment,Critical Thinking,Communication,Leadership,Time Management,Emergency Medical Response,Basic Life Support,,
+787,787,Operator,7,0.0,4.01,34,Circuit Board Repair,Soldering,Painting,Mechanical Assembly,Leadership,Entrepreneurship,Electronics Repair,Testing and Quality Control,,
+788,788,Concierge/Doorman,6,25.0,39.46,19,Customer Service,Communication,Administrative Support,Attention to Detail,Problem-Solving,Time Management,,,,
+789,789,Vice President,10,44.0,11.31,37,Leadership,Project Management,Innovation,Team Management,Cost Management,Customer Service,Database Management,Clinical Engineering,,
+790,790,Accountant,7,0.0,52.71,14,Financial Reporting,Financial Analysis,Accounting,Financial Modeling,Budgeting,Leadership,Auditing,Compliance,Financial Systems,Microsoft Excel
+791,791,"Registered Nurse, Supervisor",7,36.0,24.58,17,Nursing,Leadership,Patient Assessment,Care Planning,Communication,Time Management,Team Management,Patient Education,Medical Records Management,
+792,792,HR Assistant Intern,7,0.0,57.24,21,Leadership,Time Management,Communication,Organizational Skills,Attention to Detail,,,,,
+793,793,Legal Specialist III - Investment Banking Subpoena Compliance,9,52.9,13.66,28,Compliance,Financial Analysis,Investment Banking,Project Management,Leadership,Intellectual Property,Labor and Employment Law,Data Analysis,Research,
+794,794,Financial Institutions Examiner,8,0.0,46.85,12,Financial Institutions Examination,Leadership,Training and Development,,,,,,,
+795,795,General Manager,9,10.0,46.37,20,Leadership,Sales Management,Operations Management,Financial Management,Customer Service,Team Management,Communication,Problem-Solving,Time Management,Marketing
+796,796,Volunteer Accountant,8,4.0,48.58,23,Tax Preparation,General Accounting,Financial Reporting,Budgeting,Financial Analysis,Financial Management,,,,
+797,797,Accountant,8,43.7,19.51,15,Financial Reporting,Budgeting,Financial Analysis,Accounting,Taxation,Leadership,Financial Planning,Auditing,Financial System Implementation,Microsoft Excel
+798,798,Information Technology Coordinator,9,10.0,62.24,17,Leadership,Project Management,Communication,Time Management,Team Management,Computer Information Systems,,,,
+799,799,Certified Personal Trainer and Group Fitness Instructor,7,24.3,21.31,22,Leadership,Marketing,Sales,Project Management,Communication,Data Analysis,Budgeting,Time Management,Teamwork,
+800,800,QA Test Analyst,8,30.8,32.71,15,Software Quality Assurance,Test Case Development,Functional Testing,Regression Testing,GUI Testing,Security Testing (PCI Compliance),Business Analysis,,,
+801,801,Program Director / Office Manager,8,34.6,25.47,15,Leadership,Project Management,Event Planning,Marketing,Fundraising,Communication,Time Management,Customer Service,Teamwork,Software Proficiency
+802,802,Accountant,6,12.0,47.73,28,Financial Analysis,General Accounting,Financial Reporting,GAAP Compliance,Leadership,Auditing,Customer Service,,,
+803,803,Cashier,8,25.0,20.91,9,Sales,Customer Service,Leadership,Time Management,Communication,Teamwork,Nutrition and Fitness,Personal Training,,
+804,804,Senior Manager,9,40.0,24.59,29,Project Management,Leadership,Training and Development,Financial Analysis,Accounting,Database Management,Budgeting,,,
+805,805,Entrepreneur General Manager,9,0.0,4.01,24,Leadership,Project Management,Operations Management,Training and Development,Safety Management,Budgeting and Financial Management,Communication and Interpersonal Skills,Problem-Solving and Analytical Skills,Time Management and Organization,
+806,806,Quality Analyst/Senior Record Keeping Specialist,9,50.0,8.78,34,Project Management,Leadership,Communication,Time Management,Problem-Solving,Microsoft Excel,Budgeting,Data Analysis,,
+807,807,Management Consultant,9,21.2,45.23,14,Management,Leadership,Financial Analysis,Data Analysis,Project Management,Communication,Team Collaboration,Time Management,R Programming,CRM Systems
+808,808,Senior Accountant,8,0.0,64.4,17,Financial Statement Preparation,Financial Reconciliation,Audit and Compliance,Budgeting and Financial Management,Leadership and Management,Financial Analysis and Modeling,Accounting and Financial Reporting,Teaching and Tutoring,Research and Investigation,
+809,809,"SVP, Business Banking",9,25.0,32.2,21,Financial Analysis,Financial Planning,Business Development,Leadership,Strategic Planning,Risk Management,Marketing,Project Management,Communication,Negotiation
+810,810,Laborer,2,38.1,22.43,1,General Labor,Livestock Handling,,,,,,,,
+811,811,Director of Operations,8,33.2,33.21,11,Leadership,Operations Management,Financial Management,Project Management,Risk Management,Communication,Time Management,Problem-Solving,Microsoft Office,
+812,812,HR Generalist,6,41.7,18.06,7,Employee Relations,Onboarding,Reception Management,File Management,Customer Service,Communication,,,,
+813,813,Assembly Mechanic,8,32.5,22.27,25,Aircraft Assembly,Leadership,Quality Control,Aircraft Maintenance,Team Management,Auditing,Mechanical Systems,,,
+814,814,Director of Community,9,23.2,27.76,16,Event Planning,Marketing,Project Management,Customer Service,Leadership,Graphic Design,Social Media Management,Email Marketing,Budgeting,Vendor Management
+815,815,Office Manager/Managing Director,8,6.0,28.12,15,Leadership,Communication,Problem Solving,Time Management,Patient Care,Medical Records Management,Staff Management,Quality Assurance,Electronic Health Records (EHRs),Payroll Management
+816,816,Quality Assurance Manager,8,25.0,26.35,12,Quality Assurance,Project Management,Leadership,Data Analysis,Problem-Solving,Communication,Time Management,Purchasing,Inventory Management,
+817,817,Medical Scribe,8,38.2,21.86,17,Electronic Medical Records,Patient Care,Medical Documentation,Personal Training,Health and Wellness,Customer Service,Time Management,Communication,,
+818,818,Sr. Mortgage Banking Executive,8,13.5,56.31,17,Leadership,Financial Planning,Mortgage Banking,Investment Management,Estate Planning,Client Relationship Management,Communication,Team Management,,
+819,819,Finance / Office Manager,8,6.0,56.9,37,Bookkeeping,Financial Management,Payroll Management,QuickBooks,Excel,Project Management,Leadership,Communication,Time Management,Organizational Skills
+820,820,Supervisor Accountant,9,0.0,64.4,18,Financial Reporting,Project Accounting,Sarbanes Oxley Compliance,Budgeting and Forecasting,Account Reconciliations,Financial Analysis,Microsoft Excel,Leadership,Communication,Time Management
+821,821,Accountant,8,4.0,38.55,21,Financial Statement Preparation,Bank Reconciliation,Accounts Payable,Asset Management,Journal Entries,Tax Preparation,Payroll Management,Financial Analysis,Auditing,Accounting
+822,822,Acting Grade 4 Customer/Brand,7,35.2,20.21,4,Leadership,Customer Service,Time Management,Team Management,Communication,Problem-Solving,Organizational Skills,,,
+823,823,Information Technology Specialist GS11,9,20.0,36.22,28,Network Management,System Design,Troubleshooting,Leadership,Electrical Engineering,Project Management,Computer Hardware,,,
+824,824,HR Specialist/ Horizontal Engineer,9,16.0,27.57,17,Recruitment,Employee Onboarding,HR Database Management,Employee Training and Development,Policy Development and Interpretation,Administrative Support,Data Analysis,Reporting and Presentation,Data Visualization,
+825,825,Planner/Scheduler,7,52.0,11.2,24,Project Management,Leadership,Maintenance Management,Safety Management,Communication,Problem-Solving,Time Management,,,
+826,826,Community Outreach Specialist,8,88.8,0.17,29,Leadership,Project Management,Communication,Marketing,Teaching,Mentorship,Community Outreach,Event Planning,Spanish Language,
+827,827,Healthcare Administrator/Operational and Staff Reorg,9,41.2,24.35,24,Project Management,Leadership,Payroll Management,Data Analysis,Operations Management,Microsoft Excel,Database Management,Cost Efficiency,Statistics,
+828,828,Finance Specialist,6,0.0,76.84,10,Accounting,Financial Analysis,Mergers and Acquisitions,Financial Planning,,,,,,
+829,829,Advocare Distributor,8,32.5,15.32,20,Sales and Marketing,Leadership,Customer Service,Project Management,Team Management,Time Management,Communication,Training and Development,,
+830,830,Administration Assistant,7,28.0,35.42,18,Office Administration,Customer Service,Time Management,Communication,Organization,Medical Assistance,Patient Care,Medical Records Management,,
+831,831,Supervisory Logistics Management Specialist,9,30.0,19.68,26,Leadership,Logistics Management,Quality Assurance,Project Management,Communication,Training and Development,Data Analysis,Time Management,,
+832,832,HR Coordinator,8,0.0,41.83,12.42,Payroll Management,Benefits Administration,HRIS Management,Compliance Management,Employee Onboarding,Leadership,Communication,,,
+833,833,STOREKEEPER II,7,30.0,24.75,17,Inventory Management,Customer Service,Leadership,Quality Control,Microsoft Excel,Procurement,,,,
+834,834,Technical Specialist II,9,24.0,11.69,20,Customer Service,Leadership,Process Improvement,Audit and Compliance,Communication,Time Management,Exercise Science,Project Management,Marketing,
+835,835,HR Personnel Assistant,6,6.0,46.57,11,Data Entry,Administrative Support,Customer Service,Time Management,Communication,Organization,PeopleSoft (HRS),,,
+836,836,Facility Manager,9,35.5,30.98,26,Facilities Management,Leadership,Project Management,Maintenance and Repair,Budgeting and Cost Control,Safety and Security,Customer Service,Inventory Management,Time Management,Team Management
+837,837,Administrative Office Assistant,7,26.4,20.14,20,Leadership,Teaching,Communication,Time Management,Event Planning,Fitness Instruction,Wellness Promotion,Staff Management,Program Development,Public Speaking
+838,838,Director of Finance,8,28.4,38.58,23,Financial Reconciliation,General Accounting,Financial Analysis,Budgeting,Leadership,Tax Analysis,Financial Reporting,Microsoft Excel,,
+839,839,Finance Customer Care Rep Lead,8,10.0,42.69,24,Accounting,Payroll Management,Budgeting,Leadership,Customer Service,Project Management,Data Analysis,Communication,Time Management,Microsoft Office
+840,840,Bilingual Client Advocate,6,10.0,4.01,7,Crisis Intervention,Case Management,Family Support,Court Testimony,Customer Service,Teamwork,Time Management,Communication,Social Work,
+841,841,Staff Accountant,7,8.3,52.83,11,Financial Statement Analysis,General Accounting,Budgeting,Financial Planning,Auditing,Financial Modeling,Grant Management,Microsoft Excel,,
+842,842,Procurement Analyst,7,92.0,0.18,17,Procurement,Supply Chain Management,Negotiation,Project Management,Customer Service,,,,,
+843,843,EXPRESSIVE ARTS PROGRAM LEADER,8,33.8,23.1,12,Program Development,Leadership,Mentorship,Teaching,Community Support,Project Evaluation,Communication,,,
+844,844,Finance Coordinator,8,30.4,18.46,24,Financial Analysis,General Ledger Reconciliation,Budgeting,Data Analysis,Microsoft Excel,SAP,Leadership,Project Management,Auditing,
+845,845,Administrator,8,17.8,24.82,19,Leadership,Strategic Planning,Financial Management,Clinical Management,Regulatory Compliance,Staff Supervision,Patient Care,Communication,Time Management,Healthcare Administration
+846,846,Child Family Advocate,7,62.5,6.61,19,Leadership,Communication,Project Management,Customer Service,Data Analysis,Time Management,Microsoft Excel,Training and Development,Case Management,
+847,847,Customer Service Representactive,7,10.0,52.16,15,Customer Service,Communication,Problem-Solving,Time Management,Leadership,Data Entry,,,,
+848,848,Finance,9,10.7,59.85,18,Leadership,Project Management,Organizational Development,Communication,Training and Development,Mentoring,Industrial Organizational Psychology,,,
+849,849,HR Associate,7,8.0,35.4,14,Recruitment,Employee Relations,Training and Development,Labor Relations,Leadership,Customer Service,Communication,Time Management,Organizational Skills,Teaching
+850,850,Senior Accountant,8,27.7,31.76,11,Accounting,Financial Analysis,Financial Planning,Tax Preparation,Payroll Management,Auditing,Financial Modeling,Microsoft Excel,,
+851,851,Marketing & Sales Analyst,9,25.4,39.91,18,Sales Management,Business Development,Marketing,Data Analysis,Leadership,Communication,Relationship Management,Negotiation,,
+852,852,HR Manager,9,25.1,42.61,31,Training and Development,Time Management,Leadership,Coaching,Project Management,Communication,,,,
+853,853,Assistant Manager,7,30.9,30.33,7,Sales,Leadership,Customer Service,Time Management,Communication,Human Resources,,,,
+854,854,"Vice President, Information Technology",10,35.8,19.91,30,Leadership,IT Infrastructure Management,Team Management,Network Administration,System Administration,Project Management,Business Administration,Communication,Microsoft Windows,
+855,855,Electrical Engineer,8,39.1,25.33,18,Electrical Engineering,Critical Thinking,Problem-Solving,Project Management,Leadership,SCADA Systems,PLC Programming,Maintenance and Repair,,
+856,856,HR Volunteer Asst. Manager,5,8.3,50.47,10,Human Resources,Conflict Resolution,Policy Development,Recruitment,Compensation and Benefits,Leadership,,,,
+857,857,Accountant,7,37.4,8.5,18,General Accounting,Financial Reconciliation,Payroll Management,Accounts Payable,Accounts Receivable,Budgeting,Financial Analysis,Microsoft Excel,QuickBooks,Great Plains Accounting
+858,858,Corporate Accountant,7,8.0,35.4,24,Financial Reconciliation,General Accounting,Payroll Management,Financial Analysis,Fixed Asset Management,ERP Implementation,,,,
+859,859,Account Executive,9,31.0,23.39,22,Sales Management,Account Management,Leadership,Communication,Strategic Planning,Time Management,Team Collaboration,Problem-Solving,,
+860,860,Research Assistant,7,47.1,6.97,3.25,Market Research,Business Planning,Marketing Planning,Relationship Management,Business Administration,Economics,,,,
+861,861,"HR Specialist, US HR Operations",8,40.4,24.83,15,Communication,Project Management,Leadership,Marketing,Event Planning,Public Relations,Time Management,Collaboration,Problem-Solving,Microsoft SharePoint
+862,862,Financial Accountant,8,35.3,26.57,8,Financial Reporting,Accounting Standards,Financial Analysis,Cash Flow Management,Payroll Management,Accounts Payable/Receivable,,,,
+863,863,Aviation Operation Specialist,7,25.0,28.38,4,Data Management,Financial Management,Travel Management,Microsoft Excel,Leadership,Organizational Skills,Attention to Detail,Time Management,Analytical Skills,
+864,864,Patient Advocate,8,31.2,26.63,14,Patient Care Coordination,Claims Processing,Data Entry,Pharmacy Operations,Leadership,Communication,Problem-Solving,HIPAA Compliance,,
+865,865,Senior Manager of Customer Support,8,40.0,13.39,21,Customer Service,Sales and Business Development,Leadership and Management,Communication and Interpersonal Skills,Time Management and Organization,Problem-Solving and Adaptability,,,,
+866,866,IT Management,8,0.0,4.01,12,Project Management,Web Development,Networking,Hardware,Software,Server Management,Electronics,Circuit Design,Prototyping,Batch Scripting
+867,867,High School English and Language Arts Teacher,7,29.0,16.02,13,Teaching,Academic Advising,Leadership,Communication,Relationship Building,Education Administration,Student Progress Monitoring,,,
+868,868,Full Stack Engineer,8,10.0,4.01,12,PHP,MVC,OOP,XML,Bash,Data Analysis,Project Management,,,
+869,869,Financial Aid Specialist,6,10.0,4.01,15,Financial Management,Budgeting,Client Communication,Negotiation,Problem Resolution,,,,,
+870,870,Senior Implementation Manager,9,31.9,28.02,24,Project Management,Leadership,Communication,Problem-Solving,Time Management,Attention to Detail,Training and Development,Teaching,,
+871,871,Accountant,7,0.0,4.01,8.5,Tax Preparation,Bookkeeping,Financial Statement Preparation,Accounting Management,QuickBooks,Payroll Management,Financial Analysis,Leadership,,
+872,872,INFORMATION TECHNOLOGY PROJECT MANAGER,9,64.0,5.93,10,Project Management,Agile Methodologies,Release Management,Scrum Master,Business Analysis,Risk Management,Collaboration and Team Management,SAFe,,
+873,873,Charge Nurse,9,21.4,37.68,25.34,Nursing Assessment,Patient Care,Medication Administration,Leadership,Communication,Critical Thinking,Time Management,Teamwork,,
+874,874,Benefit Advocate,7,15.6,21.96,16,Customer Service,Communication,Problem-Solving,Time Management,Sales,Insurance,,,,
+875,875,Assistant Football Coach,4,25.0,32.2,14,Leadership,Team Management,Communication,Time Management,Microsoft Office,,,,,
+876,876,Assistant General/Operations Manager,8,0.0,4.01,7.5,Leadership,Team Management,Customer Service,Communication,Problem-Solving,Time Management,Marketing,Project Management,,
+877,877,Medical Support Assistant (OA) GS-5 Step 2,9,55.6,10.6,24,Microsoft Office,Data Entry,Customer Service,Bookkeeping,Financial Management,Time Management,Healthcare Administration,Communication,Problem-Solving,
+878,878,Intervention Specialist Teacher of Math and Language Arts,5,48.1,12.35,1.67,Classroom Management,Lesson Planning,Differentiated Instruction,Communication,,,,,,
+879,879,Finance And Accounting Specialist,8,8.0,54.51,52,Financial Reconciliation,Accounting,Procurement,Contract Negotiation,Data Analysis,Project Management,Leadership,Communication,Time Management,Software Development
+880,880,Information Technology Senior Manager,9,17.5,54.69,26,Leadership,Vendor Management,Contract Negotiation,Project Management,Business Systems,Consulting,Team Management,Business Administration,Management,
+881,881,Territory Sales Consultant,9,0.0,52.71,20,Sales,Relationship Building,Training and Development,Leadership,Communication,Budgeting,Project Management,Time Management,Public Speaking,Teamwork
+882,882,Finance Manager,8,50.0,8.81,13,Financial Analysis,Financial Planning,Contract Negotiation,Customer Service,Time Management,Communication,Patient Care,Teamwork,,
+883,883,Bank Teller,9,33.8,12.4,13,Customer Service,Sales,Time Management,Scheduling,Communication,Aviation Management,,,,
+884,884,Manager of Finance,9,71.8,1.87,18,Financial Management,Budgeting,Financial Analysis,Leadership,Audit and Compliance,Financial Reporting,Cost Accounting,Payroll Management,Microsoft Excel,
+885,885,Network Administrator,6,62.5,5.15,10,Network Administration,Network Security,Troubleshooting,System Optimization,Network Architecture,,,,,
+886,886,Finance Director,8,17.5,54.07,16,Accounting,Payroll Management,Microsoft Excel,Financial Analysis,Auditing,Leadership,Data Entry,Quickbooks,,
+887,887,Finance Project Coordinator,7,42.0,21.43,12,Compliance,Data Entry,Financial Record-Keeping,Accounting Software,Microsoft Excel,Quality Control,,,,
+888,888,Mortgage Banking Underwriter II,8,35.6,29.63,22.75,Mortgage Underwriting,Risk Analysis,Financial Analysis,Compliance,Leadership,Communication,Time Management,,,
+889,889,Senior Accountant,8,13.5,39.22,24,Financial Analysis,Accounting,Financial Reporting,Financial Planning,Leadership,Time Management,Communication,,,
+890,890,Dental Hygienist,8,76.5,1.75,17,Dental Hygiene,Patient Education,Periodontal Assessment and Treatment,Dental Charting,Radiography,,,,,
+891,891,HR Consultant,8,41.7,26.12,25,Recruitment,Talent Management,HR Consulting,Leadership,Customer Experience,Employee Relations,Employee Termination,Background Checks,,
+892,892,HR Contact Center Specialist,7,25.0,32.2,10,Payroll Management,HR Operations,Customer Service,Recruitment,Data Entry,Communication,,,,
+893,893,Accountant,4,25.0,11.38,NaN,Data Analysis,Leadership,Project Management,Accounting,Financial Management,,,,,
+894,894,Branch Chief Information Technology Specialist,9,11.7,59.91,26,Information Technology Management,Cybersecurity,Project Management,Leadership,Communication,Problem-Solving,Systems Administration,Network Administration,Data Management,
+895,895,Patient Advocate,7,33.9,22.75,22,Policy Development,Customer Service,Leadership,Communication,Time Management,Human Resources,Microsoft Office,,,
+896,896,Lead Operations Engineer - Global Hawk Project,9,56.4,12.24,32,Project Management,Flight Test Management,Systems Integration and Test,Aircraft Modification Management,UAS Operations,Flight Test Engineering,Leadership,Personnel Management,Quality Assurance,Safety
+897,897,Marketer / Administrator,8,13.8,45.51,13,Leadership,Marketing,Sales,Communication,Project Management,Time Management,Team Management,Customer Service,,
+898,898,Information Technology Specialist Information Security Officer,9,25.2,47.22,24,Database Administration,Oracle Database Administration,Database Security,Data Modeling,SQL and PL/SQL,Database Performance Tuning,Disaster Recovery,Leadership and Management,Communication and Training,
+899,899,Healthcare Documentation Services Delivery Manager,8,48.3,14.01,19,Project Management,Leadership,Customer Service,Quality Assurance,Data Analysis,Training and Development,,,,
+900,900,Social Media Agent,6,0.0,46.85,13,Customer Service,Communication,Problem-Solving,Teamwork,Time Management,Social Media Management,Sales,,,
+901,901,Freelance IT Consultant,9,15.6,36.52,18,Network Administration,Project Management,Technical Support,Business Operations,Training and Development,Microsoft Office,Windows Operating System,Computer Hardware,Leadership,
+902,902,Case Manager,7,55.0,7.18,11,Case Management,Counseling,Assessment and Intervention,Advocacy,Client Service,Banking Operations,Time Management,,,
+903,903,Electrician,9,0.0,76.84,25,Electrical Systems Maintenance,HVAC Systems Maintenance,Power Systems Repair,Avionics Systems Repair,Leadership,Troubleshooting,Project Management,Quality Control,,
+904,904,Commission Specialist,9,33.9,33.57,17,Data Analysis,Microsoft Excel,Data Entry,Financial Management,Grant Writing,Project Management,Leadership,Communication,Time Management,Attention to Detail
+905,905,Information Technology Consultant,8,36.7,22.24,24,Microsoft Excel,Computer Networking,Data Entry,Telecommunications System Administration,,,,,,
+906,906,HR Executive,5,0.0,52.71,4,HR Management,Recruitment,Training and Development,Employee Relations,Communication,,,,,
+907,907,Advocate General,10,40.4,13.21,20,Leadership,Project Management,Policy Development,Community Outreach,Data Analysis,Public Speaking,Collaboration,,,
+908,908,Field Nurse,7,16.7,49.05,32,Nursing Care,Patient Education,Patient Advocacy,Medical Record Keeping,Leadership,Time Management,Communication,Critical Thinking,Problem-Solving,
+909,909,Accountant,7,27.5,33.36,8,Accounting,Financial Management,Taxation,Inventory Management,Leadership,Communication,Microsoft Office,JDE,,
+910,910,Director of Programming Arts,8,0.0,4.01,30,Leadership,Project Management,Event Planning,Financial Management,Marketing,Team Management,Communication,Time Management,,
+911,911,Court Appointed Special Advocate,6,24.8,26.5,8,Communication,Problem-Solving,Event Planning,Time Management,Customer Service,,,,,
+912,912,Night Warehouse Selector,7,25.0,38.42,11,Inventory Management,Customer Relations,Leadership,Fitness Training,Time Management,Communication,,,,
+913,913,Information Technology Director,9,9.8,54.49,16,Leadership,Project Management,Information Technology,Budgeting,Communication,Team Management,,,,
+914,914,Health Coach,8,25.0,26.35,16,Health Coaching,Motivational Interviewing,Positive Psychology,Co-Active Coaching,Leadership,Public Speaking,Training and Development,Communication,,
+915,915,Desktop Support Engineer,7,10.0,58.89,27,System Administration,Software Management,Hardware Troubleshooting,Operating System Installation,Leadership,Project Management,,,,
+916,916,YOGA INSTRUCTOR,7,37.5,21.19,27,Teaching,Leadership,Communication,Curriculum Development,Classroom Management,Yoga Instruction,Fitness Instruction,Program Development,,
+917,917,Administrative Assistant/Site Clerk,4,0.0,90.0,17,Microsoft Word,Microsoft Excel,Microsoft PowerPoint,Microsoft Outlook,General Office Duties,Customer Service,Data Entry,Organization,,
+918,918,Adjunct Instructor,8,33.3,15.93,26,Project Management,Leadership Development,Software Development,QA and Testing,Database,Business Case,Data Collection,QA Automation,Planning and Strategy,
+919,919,Supply Chain Manager,9,61.9,5.57,18,Supply Chain Management,Leadership,Procurement,Inventory Management,Contract Management,Business Process Improvement,Project Management,,,
+920,920,Senior Analyst Data Quality & Governance,9,0.0,52.71,24,Data Analysis,Project Management,Business Analysis,Leadership,Communication,Microsoft Access,Financial Analysis,Problem-Solving,Time Management,
+921,921,Project Manager,9,10.0,4.01,26,Project Management,Leadership,Supply Chain Management,Product Management,Business Analysis,System Integration,,,,
+922,922,Engineer,5,35.2,15.61,24,Maintenance and Repair,Hand Tool Operation,Power Tool Operation,Electrical Work,,,,,,
+923,923,Family Advocate,7,8.8,42.37,19,Case Management,Counseling,Communication,Time Management,Social Work,,,,,
+924,924,Bakery Entrepreneur,9,46.0,16.69,17,Leadership,Project Management,Engineering Design,Data Analysis,Problem-Solving,Communication,Team Management,Quality Control,Entrepreneurship,
+925,925,Staffing Coordinator,8,22.3,30.44,16.75,Recruitment,HR Data Management,Scheduling,Relationship Building,Leadership,,,,,
+926,926,Child Advocate Manager,7,12.5,46.77,13,Case Management,Counseling,Customer Service,Leadership,Communication,Problem-Solving,,,,
+927,927,Senior Customer Service Advocate,8,30.0,22.19,20,Leadership,Customer Service,Communication,Problem-Solving,Time Management,Team Management,Compliance,Data Analysis,Project Management,Microsoft Office
+928,928,Information Technology Manager,8,17.2,44.15,37,Network Administration,IT Project Management,Leadership,Database Administration,Disaster Recovery,Network Security,Troubleshooting,Scripting,,
+929,929,Finance Manager,8,18.7,42.57,11,Financial Management,Accounting,Leadership,Budgeting,Financial Analysis,Inventory Management,Payroll Management,Financial Reporting,Compliance,Microsoft Excel
+930,930,"Corporate Facilitator, Performance Coach and Developer",8,50.0,4.83,27,Training and Development,Coaching,Project Management,Leadership,Communication,Wellness and Health Education,Motivational Interviewing,Business Administration,,
+931,931,Associate Claim Processor/Member Service Advocate,7,37.5,15.2,18,Customer Service,Claims Processing,Leadership,Communication,Problem-Solving,Time Management,Team Collaboration,Analytical Skills,Technical Skills,
+932,932,Patient Service Manager/ Retail Manager,9,12.5,52.3,26,Leadership,Team Management,Customer Service,Communication,Problem-Solving,Time Management,Adaptability,Food Safety and Sanitation,Construction Techniques,Business Management
+933,933,Regional HR Business Partner,9,100.0,0.0,24,Human Resources,Leadership,Recruitment,Training and Development,Benefits Administration,Compliance,Performance Management,Compensation and Rewards,Organizational Development,
+934,934,Operations Associate,7,33.3,27.58,14,Project Management,Leadership,Communication,Event Planning,Customer Service,Teamwork,Marketing,Time Management,Technology,
+935,935,"Senior HR Manager, HR Business Partner",8,12.5,37.78,14,Payroll Management,Benefits Administration,HR Function Management,Compliance Management,Leadership,Training and Development,Project Management,Communication,Time Management,Problem-Solving
+936,936,Concierge,7,25.0,26.35,22,Customer Service,Communication,Time Management,Teamwork,Healthcare Administration,Patient Care,Infection Control,Fitness Instruction,,
+937,937,Audit and Recovery Specialist,6,20.0,49.18,11,Customer Service,Communication,Problem-Solving,Time Management,HIPAA Compliance,Process Improvement,,,,
+938,938,QUALITY ASSURANCE ADVOCATE,9,33.8,29.16,14,Quality Assurance,Data Analysis,Leadership,Customer Service,Sales,Problem-Solving,Communication,Time Management,Human Resource Management,Computer Network Systems
+939,939,INFORMATION TECHNOLOGY SPECIALIST (INFOSEC),8,56.2,6.48,15,Network Security,Information Security,Leadership,Communication,Microsoft Office,,,,,
+940,940,Instructor/Writer,7,0.0,41.83,17,Leadership,Quality Assurance,Technical Inspection,Project Management,Aviation Maintenance,Technical Writing,Training and Development,,,
+941,941,Healthcare Administrator,7,13.5,48.18,21,Leadership,Budgeting,Financial Management,Payroll Management,Human Resources,,,,,
+942,942,District Manager,8,33.3,19.7,24,Leadership,Program Development,Team Management,Financial Management,Child Care Management,Teaching,Curriculum Development,Staff Training,,
+943,943,HR Assistant III,6,5.0,35.67,10,Payroll Management,Compliance,Data Analysis,Document Management,Accounts Payable,,,,,
+944,944,Investment Banking Summer Analyst,7,0.0,4.01,9,Financial Modeling,Data Analysis,Investment Analysis,Market Research,Presentation Skills,,,,,
+945,945,HR Specialist,7,20.0,31.57,11,Customer Service,Communication,Leadership,Data Management,Problem-Solving,Time Management,HR Policies,,,
+946,946,Sales Associate,8,26.4,15.32,8,Leadership,Teamwork,Time Management,Problem-Solving,Attention to Detail,Customer Service,Cash Handling,,,
+947,947,Regional HR Manager,8,0.0,76.84,14,Recruitment Management,Payroll Management,Employee Relationship Management,Leadership,Communication,HRIS Management,,,,
+948,948,TELLER 3,9,15.4,55.0,20,Customer Service,Cash Handling,Banking Operations,Leadership,Time Management,Food Safety and Quality Control,Communication,Problem-Solving,Team Management,
+949,949,Information Technology Specialist,9,17.2,36.14,25,Network Administration,Computer Hardware,Computer Software,Troubleshooting,Network Security,Router Configuration,Switch Configuration,Server Administration,Video Conferencing,IP Address Management
+950,950,Accountant,6,17.2,36.14,21,Accounting,Financial Analysis,Payroll Management,Accounts Payable/Receivable,Budgeting,Microsoft Excel,Financial Reconciliation,Cost Accounting,,
+951,951,Information Technology Manager,9,4.0,82.94,18,Project Management,Leadership,IT Infrastructure Management,Network Administration,Database Administration,Cloud Computing,Cybersecurity,Microsoft Windows,Microsoft Office,VMware
+952,952,Finance Manager,7,0.0,76.84,24,Financial Management,Accounting,Financial Analysis,Leadership,Budgeting,Financial Reconciliation,Payroll Management,Project Management,Microsoft Excel,
+953,953,Staff Accountant,8,32.5,21.35,18,Accounting,Financial Reporting,Financial Analysis,Budgeting,Leadership,Payroll Management,QuickBooks,Microsoft Office,ERP Implementation,Risk Management
+954,954,Corporate Administrator,7,35.1,25.17,17,Bookkeeping,Accounting,Customer Service,Microsoft Office,Leadership,Time Management,Communication,Payroll Management,,
+955,955,V/P Commercial Relationship Manager,9,20.0,41.22,20,Leadership,Management,Sales,Client Relationship Management,Budgeting,Payroll Management,Strategic Planning,Communication,,
+956,956,Team Member / Pricer,8,15.0,33.85,34,Customer Service,Sales Management,Operations Management,Financial Management,Leadership,Time Management,Communication,Teamwork,,
+957,957,Merchant Services Advocate,8,8.3,32.65,11,Customer Service,Leadership,Problem Solving,Communication,Time Management,Team Management,Training and Development,Quality Assurance,,
+958,958,Certified Master Personal Trainer,7,45.9,13.08,11,Personal Training,Fitness Program Development,Sales and Marketing,Leadership,Time Management,Communication,,,,
+959,959,Relationship Support Officer,8,25.4,34.92,28,Administrative Support,Operations Management,Compliance Management,Customer Service,Time Management,Communication,Microsoft Office,Leadership,,
+960,960,Radiological Control Technician,8,13.6,37.43,12,Radiological Control,Leadership,Environmental Sampling,Document Preparation,Explosive Ordnance Handling,Nuclear Energy,,,,
+961,961,Dance Educator,7,17.2,28.68,20,Dance Education,Dance/Movement Therapy,Mental Health Counseling,Leadership,Project Management,Communication Skills,Time Management,Financial Management,Marketing,
+962,962,Senior Compliance Officer,9,4.0,55.87,11,AML/CFT Compliance,Sanctions Compliance,KYC/EDD/PEPs Procedures,SWIFT System,Payment Investigations,Relationship Management,Loan Management,Retail Banking,Banking Operations,
+963,963,Finance Manager,9,17.2,28.68,29,Financial Analysis,Accounting,Leadership,Marketing,Sales Management,Financial Planning,Customer Service,Bank Reconciliation,,
+964,964,Health Advocate,8,12.5,45.42,9,Customer Service,Data Entry,Time Management,Communication,Security,Problem-Solving,Teamwork,Adaptability,Attention to Detail,
+965,965,General Accountant,7,15.6,52.86,10.33,General Accounting,Bookkeeping,Credit Management,Medical Billing,Leadership,Training and Development,Time Management,Communication,Data Analysis,Microsoft Office
+966,966,Shelter Advocate,5,100.0,0.0,3,Customer Service,Communication,Data Analysis,Leadership,Time Management,Organizational Skills,Banking Operations,Legal Research,Crisis Intervention,
+967,967,Healthcare Marketing Specialist,8,25.0,26.35,11,Data Analysis,Project Management,Leadership,Budgeting,Communication,Customer Service,Time Management,Teamwork,Problem-Solving,Healthcare Administration
+968,968,Senior Marketing Automation Consultant,8,37.5,21.07,18,Marketing Automation,Marketing Strategy,Project Management,Leadership,Communication,Eloqua,Marketing Technology,Sales Effectiveness,,
+969,969,Paralegal,7,28.0,23.37,19,Customer Service,Administrative Management,Time Management,Organizational Skills,Communication Skills,Microsoft Excel,Paralegal Skills,Leadership,Data Entry,
+970,970,Revolving Credit Support Specialist,9,32.6,34.91,11,Leadership,Communication,Project Management,Customer Service,Financial Analysis,Training and Development,Banking and Finance,Time Management,Problem-Solving,
+971,971,Personal Banker (SAFE)1 and Business Advocate,9,37.4,27.45,17,Customer Service,Sales,Relationship Building,Financial Products,Communication,Time Management,Teamwork,,,
+972,972,Material and Tooling Control Lead,8,27.9,42.28,25,Leadership,Project Management,Electrical Engineering,Troubleshooting,Time Management,Communication,Quality Control,Martial Arts Instruction,,
+973,973,Staff Assistant,6,73.1,3.37,24,Administrative Support,Communication,Time Management,Customer Service,Microsoft Office,,,,,
+974,974,Program Manager,8,20.0,4.01,27,Leadership,Patient Care,Staff Management,Time Management,Communication,Problem-Solving,,,,
+975,975,Inside Account Manager,7,8.3,40.09,21,Customer Relations,Sales Management,Leadership,Time Management,Communication,Microsoft Office,Project Management,,,
+976,976,Finance Manager,9,11.8,59.78,25,Financial Reporting,Accounting,Budgeting,Leadership,Supply Chain Management,Payroll Management,Internal Controls,SAP Implementation,Cost Accounting,Inventory Management
+977,977,Accountant,8,31.0,17.7,42,Accounting,COBOL,Financial Reporting,Tax Planning,Payroll Management,Bank Reconciliation,Financial Statement Consolidation,,,
+978,978,Senior Student Finance Specialist,8,46.0,17.67,21,Financial Aid Management,General Ledger Management,Customer Service,Data Analysis,Banking Operations,Accounting,Problem-Solving,,,
+979,979,Information Technology Analyst,5,25.0,38.42,7,Curriculum planning,Teaching,Child development,Education,Computer Science and Engineering,,,,,
+980,980,Finance Manager,9,13.8,46.42,19,Financial Management,Leadership,Budgeting,Financial Analysis,Investment Management,Risk Management,Audit and Compliance,Banking and Financial Institutions,,
+981,981,HR Shared Services Analyst,6,12.5,37.28,17,HRIS Management,Benefits Administration,Payroll Management,Customer Support,Policy Administration,Project Management,Communication,,,
+982,982,Recreation & Sports Coordinator,7,17.5,50.78,12,Leadership,Event Planning,Budgeting,Financial Management,Customer Service,Project Management,Health and Wellness,,,
+983,983,Coordinator of Student Personnel Services,8,41.7,21.65,23.5,Leadership,Counseling,Teaching,Communication,Program Planning,Team Management,,,,
+984,984,Medical Support Assistant,8,83.1,0.41,22,Healthcare Management,Leadership,Clinical Operations,Budgeting,Communication,Data Management,Project Management,Training and Development,Emergency Medical Services,Healthcare Administration
+985,985,HR Administrator/Marketing Associate,9,33.9,26.99,24,Human Resources,Employee Relations,Benefits Administration,Medical Billing,Data Analysis,Budgeting and Financial Management,Leadership,Customer Service,,
+986,986,Fitness Director,8,32.8,21.16,13,Leadership,Sales,Time Management,Communication,Team Management,Security,Inventory Management,Customer Service,Aviation,
+987,987,"Director, Clinical Research Operations & Medical Science Liaison",10,53.4,6.55,28,Leadership,Sales and Business Development,Project Management,Strategic Planning,Communication,Training and Development,Financial Analysis,Clinical Research,Medical Science,
+988,988,IT Director,8,46.7,19.44,20,IT Project Management,Strategic Planning,Leadership,Network Administration,VMware vSphere,Citrix Infrastructure,Cloud Computing,Business Application Support,Desktop Support,Imaging and Deployment
+989,989,Lead Aerospace Assembler,7,25.0,26.35,13,Leadership,Project Management,Electronics Repair,Troubleshooting,Technical Documentation,Teamwork and Collaboration,Quality Control,Time Management,,
+990,990,Aviation Fuel Quality Control Specialist,7,16.0,45.44,28,Quality Control,Chemical Analysis,Problem Solving,Teamwork,Leadership,Inventory Management,Process Development,Research and Development,Statistical Analysis,
+991,991,Senior Manager - National Sales Finance,10,15.6,52.92,35,Financial Management,Accounting,Leadership,Project Management,Financial Analysis,Risk Management,Payroll Management,Financial Reporting,,
+992,992,Plant Operator,8,42.1,13.67,18,Mechanical Maintenance,Leadership,Troubleshooting,Quality Control,Safety Procedures,Team Management,Time Management,Communication,,
+993,993,Operations Finance Director,10,4.0,79.7,32,Financial Planning,Leadership,Risk Management,Financial Analysis,Operational Management,Regulatory Compliance,Budgeting,Project Management,Communication,Data Analysis
+994,994,Senior Manager/Specialist Leader HealthCare,9,22.7,32.42,33,Project Management,Leadership,Healthcare Management,Operations Management,Strategic Planning,Change Management,Financial Management,Nursing,,
+995,995,Culinary Arts Instructor,8,51.7,5.89,22,Teaching,Culinary Arts,Leadership,Management,Customer Service,Food Safety and Sanitation,Event Planning,Marketing,Budgeting,Inventory Management
+996,996,Middle School Principal,8,50.0,8.95,21,Leadership,Staff Evaluation and Supervision,Program Development and Implementation,Accountability and Compliance,Communication and Collaboration,Curriculum Development,Project Management,Teaching and Education,,
+997,997,Information Technology Technician I,8,43.6,10.18,17,Cloud Computing,Microsoft Office 365,Network Administration,Virtualization,Microsoft Windows Server,Microsoft Exchange,Active Directory,Scripting,Troubleshooting,IT Project Management
+998,998,Dealership Finance Manager,7,21.2,45.01,21,Financial Analysis,Credit Management,Loan Processing,Leadership,Financial Reporting,Compliance,Accounting,Finance,,
+999,999,Information Technology and AWS Admin Intern,7,10.0,72.9,5,AWS,Cloud Infrastructure,Network Security,TCP/IP,Networking,Python,Socket Programming,Encryption,SDN,Load Balancing

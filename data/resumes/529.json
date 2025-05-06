@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Mortgage Banking Foreclosure Specialist",
+                "work_description": "Maintained beneath a 3% error ratio in all searches performed. Used industry mainframes to efficiently communicate with internal clients. Reviewed cases and all milestones requested by clients to ensure proper procedures and industry guidelines are used.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Consumer Underwriter II",
+                "work_description": "Exceeded monthly production goals while adhering to a minimum 5% error ratio. Maintained a high level of production and maintained high quality standards. Restructured delinquent consumer mortgage loans in accordance with company, FHA, and industry guidelines.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2011",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Loan Document Specialist II",
+                "work_description": "Maintained below a 5% error rating on booking 50+ loans daily. Booking and review of conventional, F.H.A. & V.A. loans. Data entry functions including booking and review of recorded security instruments.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2008",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Loan Processor",
+                "work_description": "Corresponded with customers, management, and title companies, to respond to inquiries. Interpreted company policies while analyzing the applicant, property, and documentation to minimize the need for subsequent follow ups with borrowers.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2003",
+                "end_date": "08/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Auburn University at Montgomery",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Business Administration",
+                "level": "Associate of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Mortgage Banking",
+                "level": 5,
+                "explanation": "Over a decade of experience in various roles within mortgage banking, including foreclosure specialist, underwriter, and loan processor, indicating expert-level mastery."
+            },
+            {
+                "name": "Data Entry",
+                "level": 4,
+                "explanation": "Handled high-volume data entry tasks, including booking and review of loans, with a high level of accuracy, suggesting strong proficiency."
+            },
+            {
+                "name": "Quality Control",
+                "level": 4,
+                "explanation": "Consistently maintained low error ratios in various roles, demonstrating a strong proficiency in quality control."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Corresponded with customers and responded to inquiries in a loan processor role, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Analytical Skills",
+                "level": 3,
+                "explanation": "Analyzed applicant, property, and documentation to minimize the need for subsequent follow-ups with borrowers, indicating a solid working proficiency in analytical skills."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Maintained high levels of production while adhering to quality standards, suggesting a solid working proficiency in time management."
+            },
+            {
+                "name": "Industry Guidelines",
+                "level": 3,
+                "explanation": "Ensured compliance with company, FHA, and industry guidelines in various roles, showing a solid working proficiency in understanding industry guidelines."
+            }
+        ]
+    }
+}

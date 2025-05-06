@@ -1,0 +1,103 @@
+{
+    "target_id": "9",
+    "recommendations": [
+        {
+            "recommender_id": "794",
+            "recommendation": {
+                "resume_file": "9.json",
+                "recommendation_file": "Recommendation_From_ID_794.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Risk Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and analytical capabilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "684",
+            "recommendation": {
+                "resume_file": "9.json",
+                "recommendation_file": "Recommendation_From_ID_684.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as a Training Assistant seems unrelated to the candidate's current role as a Member Services Representative.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Risk Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional relationship-building skills, attention to detail, and analytical abilities. However, the recommender's role and the candidate's current role seem unrelated, which raises some minor concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "851",
+            "recommendation": {
+                "resume_file": "9.json",
+                "recommendation_file": "Recommendation_From_ID_851.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims detected. Recommendation seems genuine but lacks substantial detail and alignment with key areas of expertise.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Adaptability"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with key areas of expertise. The recommendation verifies some skills mentioned in the resume, but contains minor inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "102",
+            "recommendation": {
+                "resume_file": "9.json",
+                "recommendation_file": "Recommendation_From_ID_102.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Best of the Best' Award and recognition as one of the top advisers in Telephone Banking, which are not directly supported by the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, problem-solving, and communication, which are well-supported by their work experience and skills listed in the resume. However, some minor exaggerations or unsubstantiated claims are present, which slightly reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "123",
+            "recommendation": {
+                "resume_file": "9.json",
+                "recommendation_file": "Recommendation_From_ID_123.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role and relationship to the candidate are unclear, and the language used is overly flattering.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service skills, relationship building, and leadership potential. However, the recommender's role and relationship to the candidate are unclear, and the language used is overly flattering, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

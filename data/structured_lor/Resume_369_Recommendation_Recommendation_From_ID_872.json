@@ -1,0 +1,21 @@
+{
+    "resume_file": "369.json",
+    "recommendation_file": "Recommendation_From_ID_872.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Information Technology Management",
+            "Network Administration",
+            "Data Communications",
+            "System Analysis",
+            "Project Management",
+            "Technical Support",
+            "Server Administration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, technological management, and strategic planning. The source of the recommendation is a peer, an Information Technology Project Manager, who has worked closely with the candidate."
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "General Accountant",
+                "work_description": "Maintain general ledgers, bookkeeping, generate reports from Dun and Bradstreet, establish credit limits for new customers, balance books for end of month closing.",
+                "company_level": "Mid-level",
+                "start_date": "04/2010",
+                "end_date": "04/2011"
+            },
+            {
+                "role_name": "Medical Biller/Collector",
+                "work_description": "Post charges/payments, Maintained patient charts and confidential files, transcription, prepare progress reports for workers compensation cases, process liens for liability cases, manage M.D.'s calendars, prepare subpoenas, answer high-volume phones, front desk check-in and scheduling.",
+                "company_level": "Mid-level",
+                "start_date": "12/2009",
+                "end_date": "04/2010"
+            },
+            {
+                "role_name": "Lead of Clerical Services",
+                "work_description": "Provide administrative support for senior management, present education/training to all new clerical staff, including cross-training for multiple service areas, Maintained patient charts and confidential files., prepare statistical reports for senior management, transcribe diagnostic reports, prepare weekly staffing assignments, coordinate calendars and meetings, involvement in interviewing new-hires, organize general staff meetings to provide information to all levels of workforce, in addition to minute taking, prepare special handling reports, provide performance evaluations for all clerical staff, and prepare invoices from outside facilities. Prepared for HIPAA and JCAHO reviews, ensuring required brochures and pamphlets were available to patients in all clinics.",
+                "company_level": "Mid-level",
+                "start_date": "08/2000",
+                "end_date": "12/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "California State University, Northridge",
+                "start_date": "01/2014",
+                "end_date": "Present",
+                "domain": "Nursing",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "College of the Canyons",
+                "start_date": "01/2015",
+                "end_date": "12/2015",
+                "domain": "Nursing",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 4,
+                "explanation": "Maintained general ledgers, bookkeeping, and balanced books for end of month closing, indicating strong proficiency in general accounting."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 4,
+                "explanation": "Maintained general ledgers and balanced books for end of month closing, showing strong proficiency in bookkeeping."
+            },
+            {
+                "name": "Credit Management",
+                "level": 3,
+                "explanation": "Established credit limits for new customers, indicating a solid working proficiency in credit management."
+            },
+            {
+                "name": "Medical Billing",
+                "level": 3,
+                "explanation": "Posted charges/payments and prepared progress reports for workers compensation cases, showing a solid working proficiency in medical billing."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Provided administrative support for senior management, trained new staff, and evaluated performance of clerical staff, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Presented education/training to all new clerical staff, including cross-training for multiple service areas, showing strong proficiency in training and development."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Coordinated calendars and meetings, prepared weekly staffing assignments, and managed multiple tasks, indicating strong proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Provided administrative support for senior management, answered high-volume phones, and prepared reports, showing strong proficiency in communication."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Prepared statistical reports for senior management, indicating a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Likely used extensively for preparing reports, presentations, and other administrative tasks, suggesting strong proficiency in Microsoft Office."
+            }
+        ]
+    }
+}

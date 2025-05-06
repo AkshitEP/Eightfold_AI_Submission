@@ -1,0 +1,25 @@
+{
+    "target_id": "364",
+    "recommendations": [
+        {
+            "recommender_id": "111",
+            "recommendation": {
+                "resume_file": "364.json",
+                "recommendation_file": "Recommendation_From_ID_111.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Medical Billing and Coding",
+                        "Claims Management",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and soft skills. The recommender's role as a Hospital and Physician Billing Specialist adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

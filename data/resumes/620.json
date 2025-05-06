@@ -1,0 +1,133 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Business Systems Analyst I",
+                "work_description": "Acted as lead BSA on client team to drive consistency and support projects spanning multiple regional databases and support teams. Primary contact for client, client partners and other stakeholders, managing daily responsibilities associated with delivering multi-channel database marketing programs.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "IT Analyst Intern",
+                "work_description": "Assisted IT Admin for managing user access rights, user groups and documentation upload on MS SharePoint. Analyzed business applications to determine if changes or upgrades are required by business users or processes.",
+                "company_level": "Mid-level",
+                "start_date": "05/2011",
+                "end_date": "12/2011"
+            },
+            {
+                "role_name": "IT Support",
+                "work_description": "Used Sys-Aid ticketing software for handling service requests from library staff. Responsible for troubleshooting and maintenance of hardware and software devices.",
+                "company_level": "Mid-level",
+                "start_date": "05/2010",
+                "end_date": "07/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Maryland",
+                "start_date": "01/2009",
+                "end_date": "12/2011",
+                "domain": "Information Management",
+                "level": "Master's"
+            },
+            {
+                "university": "Mumbai University",
+                "start_date": "01/2005",
+                "end_date": "05/2009",
+                "domain": "Computer Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Marketing Database Solution",
+                "description": "Maintaining global marketing data for advanced targeting and segmentation to drive optimal business results.",
+                "skills": [
+                    "Database Design",
+                    "Marketing Analysis",
+                    "Data Integration",
+                    "CRM",
+                    "Marketing Campaign"
+                ]
+            },
+            {
+                "domain": "Consumer Global Marketing Database Solution",
+                "description": "CRM solution for Latin America region of Fortune 500 High Tech company supporting data integration, marketing program execution, reporting and analytics.",
+                "skills": [
+                    "Database Design",
+                    "Marketing Analysis",
+                    "Data Integration",
+                    "CRM",
+                    "Marketing Campaign"
+                ]
+            },
+            {
+                "domain": "Dell Financial Services Project",
+                "description": "Integrated database solution that allows us to use their customer data in Consumer marketing campaigns.",
+                "skills": [
+                    "Database Design",
+                    "Marketing Analysis",
+                    "Data Integration",
+                    "CRM",
+                    "Marketing Campaign"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Database Design",
+                "level": 5,
+                "explanation": "Extensive experience in designing databases for multiple projects, including global marketing data solutions and CRM systems, indicating expert-level mastery."
+            },
+            {
+                "name": "Marketing Analysis",
+                "level": 4,
+                "explanation": "Consistently involved in analyzing business applications and marketing data for various projects, suggesting strong proficiency in marketing analysis."
+            },
+            {
+                "name": "Data Integration",
+                "level": 4,
+                "explanation": "Handled data integration for multiple projects, including CRM solutions and marketing database solutions, indicating strong proficiency."
+            },
+            {
+                "name": "CRM",
+                "level": 4,
+                "explanation": "Extensive experience with CRM systems, including designing and implementing solutions for various projects, suggesting strong proficiency."
+            },
+            {
+                "name": "Marketing Campaign",
+                "level": 4,
+                "explanation": "Involved in executing marketing campaigns for various projects, including global marketing data solutions and CRM systems, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Acted as lead BSA on client team and managed daily responsibilities associated with delivering multi-channel database marketing programs, suggesting strong proficiency in project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Acted as primary contact for client, client partners, and other stakeholders, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 2,
+                "explanation": "Handled troubleshooting and maintenance of hardware and software devices in IT Support role, suggesting some practical experience."
+            },
+            {
+                "name": "IT Support",
+                "level": 2,
+                "explanation": "Handled service requests from library staff and used Sys-Aid ticketing software, suggesting some practical experience."
+            },
+            {
+                "name": "Microsoft SharePoint",
+                "level": 2,
+                "explanation": "Assisted IT Admin for managing user access rights, user groups, and documentation upload on MS SharePoint, suggesting some practical experience."
+            }
+        ]
+    }
+}

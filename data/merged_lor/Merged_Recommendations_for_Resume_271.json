@@ -1,0 +1,69 @@
+{
+    "target_id": "271",
+    "recommendations": [
+        {
+            "recommender_id": "300",
+            "recommendation": {
+                "resume_file": "271.json",
+                "recommendation_file": "Recommendation_From_ID_300.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "634",
+            "recommendation": {
+                "resume_file": "271.json",
+                "recommendation_file": "Recommendation_From_ID_634.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The claim of overseeing a dedicated staff of 100 professionals seems inconsistent with the provided job history, which mentions leading teams of up to 18 professionals.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Financial Reporting",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. However, some minor inconsistencies and exaggerated claims are present, which slightly reduces the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "828",
+            "recommendation": {
+                "resume_file": "271.json",
+                "recommendation_file": "Recommendation_From_ID_828.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of a 95% cost reduction seems statistically improbable and requires further verification.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial acumen and leadership abilities. However, some claims seem exaggerated and require further verification."
+                }
+            }
+        }
+    ]
+}

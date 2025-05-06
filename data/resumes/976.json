@@ -1,0 +1,113 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Provide financial reports for three plants in the region. Manage day to day operations to include overseeing all accounting functions, procurement, annual budget forecast, payroll and complying with SOX. Work with corporate HR in regards to plant personnel and suggest personnel changes in the plant along with other necessary changes to create a corporate environment from the prior family owned company feel. Manage all aspects of Supply Chain Developed and implemented purchasing, operations, logistics and production systems Manage vendor and supplier contracts Introduced Lean Manufacturing practices Manage billing and HR functions.",
+                "company_level": "Mid-level",
+                "start_date": "12/2011",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Accounting Manager",
+                "work_description": "Overall authority for the global intercompany operations of the organization, budget preparation and administration, audit, accounting, monthly closing of books, account reconciliation, and journal entry adjustments. Prepared monthly, quarterly and annual reports summarizing the business activities. Developed trend and balance sheet analysis; accounts receivable and aging reports. Maintained audit reports to ensure a smooth quarterly and year-end audit. Supervised and lead support staff of up to 4. Created new global policies to help streamline the inter-company reconciliation process. Introduced monthly team meetings to enhance team environment, review projects and provide training. Recommended a cross-training project to include written documentation of all processes.",
+                "company_level": "Mid-level",
+                "start_date": "12/2008",
+                "end_date": "07/2011"
+            },
+            {
+                "role_name": "Corporate Controller",
+                "work_description": "Restructured the accounting department to create a strong team of 6 rect reports to handle an SAP implementation and go live. Challenged to lead a 20 year old manufacturing company away from old habits and into an updated more controlled accounting environment. Implemented internal controls in areas of required purchase orders with authorized approvals, travel and expense review with limits, including D&B checks for setting customer credit limits, creating reorder points to avoid excessive inventory on hand, paying within terms for a discount and working with purchasing to get price discounts from vendors. Responsible for the financial reporting of three plants combined average 80 million in sales annually. Business process owner for SAP software implementation. Headed the quarterly bank audit.",
+                "company_level": "Mid-level",
+                "start_date": "03/2008",
+                "end_date": "12/2008"
+            },
+            {
+                "role_name": "Cost Accountant",
+                "work_description": "Managed all financials for printing company and reported directly to controller in another state. Prepared analysis, month-end financials and other reports as requested by corporate. Reviewed variances and explained variances to plant managers. Provided daily support to plant management team including analyzing data to initiate improvements and cost savings. Prepared monthly management meeting slides showing variances and margins which needed to be discussed. Established internal controls to achieve compliance with Sarbanes Oxley. Assisted in the monthly and yearly forecasting process including the creation of the budget. Implemented inventory and asset review to insure accurate and complete accounting data for job costs and overhead.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Supply Specialist",
+                "work_description": "Maintained accurate inventory for over 180 line items. Helped prepare over $500,000 worth of equipment and supplies from de-commissioned ships for warehouse turn-in.",
+                "company_level": "Mid-level",
+                "start_date": "01/1999",
+                "end_date": "01/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Phoenix",
+                "start_date": "01/2010",
+                "end_date": "12/2010",
+                "domain": "Business",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Has extensive experience in preparing financial reports, including monthly, quarterly, and annual reports, and has led teams in this area, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Has over a decade of experience in accounting, including managing day-to-day operations, overseeing accounting functions, and implementing internal controls, indicating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Has experience in budget preparation and administration, including creating budgets and forecasts, and has implemented purchasing and logistics systems, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience in leading teams, including supervising and leading support staff, and has implemented new policies and procedures to improve team environment, indicating strong proficiency."
+            },
+            {
+                "name": "Supply Chain Management",
+                "level": 4,
+                "explanation": "Has experience in managing supply chain operations, including procurement, logistics, and inventory management, and has implemented lean manufacturing practices, indicating strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 3,
+                "explanation": "Has experience in managing payroll functions, including compliance with SOX, but the extent of this experience is not as extensive as other areas, indicating solid working proficiency."
+            },
+            {
+                "name": "Internal Controls",
+                "level": 4,
+                "explanation": "Has experience in implementing internal controls, including purchase orders, travel and expense review, and inventory management, indicating strong proficiency."
+            },
+            {
+                "name": "SAP Implementation",
+                "level": 4,
+                "explanation": "Has experience in implementing SAP software, including leading a team and implementing internal controls, indicating strong proficiency."
+            },
+            {
+                "name": "Cost Accounting",
+                "level": 4,
+                "explanation": "Has experience in cost accounting, including analyzing variances and providing support to plant management teams, indicating strong proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Has experience in inventory management, including maintaining accurate inventory and implementing inventory review processes, indicating solid working proficiency."
+            }
+        ]
+    }
+}

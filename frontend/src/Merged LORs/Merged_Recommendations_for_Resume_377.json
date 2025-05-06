@@ -1,0 +1,99 @@
+{
+    "target_id": "377",
+    "recommendations": [
+        {
+            "recommender_id": "506",
+            "recommendation": {
+                "resume_file": "377.json",
+                "recommendation_file": "Recommendation_From_ID_506.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Financial Forecasting",
+                        "Financial Modeling",
+                        "Leadership",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and accomplishments in various roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "106",
+            "recommendation": {
+                "resume_file": "377.json",
+                "recommendation_file": "Recommendation_From_ID_106.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Financial Forecasting",
+                        "Financial Modeling",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "129",
+            "recommendation": {
+                "resume_file": "377.json",
+                "recommendation_file": "Recommendation_From_ID_129.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Forecasting",
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "318",
+            "recommendation": {
+                "resume_file": "377.json",
+                "recommendation_file": "Recommendation_From_ID_318.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reporting",
+                        "Budgeting",
+                        "Financial Forecasting",
+                        "Financial Modeling",
+                        "Leadership",
+                        "Project Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities. The source of the recommendation appears to be a peer, likely a fellow finance manager, who has worked with the candidate and can attest to their skills and work ethic."
+                }
+            }
+        }
+    ]
+}

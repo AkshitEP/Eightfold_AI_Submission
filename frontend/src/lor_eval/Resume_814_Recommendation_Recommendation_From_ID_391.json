@@ -1,0 +1,23 @@
+{
+    "resume_file": "814.json",
+    "recommendation_file": "Recommendation_From_ID_391.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Event Planning",
+            "Marketing",
+            "Project Management",
+            "Customer Service",
+            "Leadership",
+            "Graphic Design",
+            "Social Media Management",
+            "Content Creation",
+            "Content Management",
+            "Art and Design"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their community outreach and education initiatives. However, the recommender's relationship to the candidate is unclear, and the recommendation does not explicitly mention the candidate's current role or job title."
+    }
+}

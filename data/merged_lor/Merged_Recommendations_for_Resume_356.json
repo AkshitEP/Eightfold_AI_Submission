@@ -1,0 +1,93 @@
+{
+    "target_id": "356",
+    "recommendations": [
+        {
+            "recommender_id": "125",
+            "recommendation": {
+                "resume_file": "356.json",
+                "recommendation_file": "Recommendation_From_ID_125.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. The language is formal, but the source of the recommendation is unclear.",
+                    "verified_skills": [
+                        "Yoga Instruction",
+                        "Fitness Instruction",
+                        "Nutrition Education",
+                        "Program Management",
+                        "Leadership",
+                        "Public Speaking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in wellness program development, nutrition education, and leadership. However, it lacks specific examples from the candidate's resume and seems to be written from a general perspective rather than a direct supervisor or colleague."
+                }
+            }
+        },
+        {
+            "recommender_id": "573",
+            "recommendation": {
+                "resume_file": "356.json",
+                "recommendation_file": "Recommendation_From_ID_573.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Yoga Instruction",
+                        "Fitness Instruction",
+                        "Nutrition Education",
+                        "Program Management",
+                        "Leadership",
+                        "Public Speaking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their program development, teaching, and leadership abilities. However, the source of the recommendation is unclear, as the title 'Child Center Assistant Department Head' does not directly relate to the candidate's work history."
+                }
+            }
+        },
+        {
+            "recommender_id": "905",
+            "recommendation": {
+                "resume_file": "356.json",
+                "recommendation_file": "Recommendation_From_ID_905.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommender's background and claims of observing the candidate's work.",
+                    "verified_skills": [
+                        "Fitness Instruction",
+                        "Nutrition Education",
+                        "Program Management",
+                        "Leadership",
+                        "Public Speaking",
+                        "Time Management",
+                        "Wellness Coaching"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but the recommender's background and claims might indicate some exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "803",
+            "recommendation": {
+                "resume_file": "356.json",
+                "recommendation_file": "Recommendation_From_ID_803.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Yoga Instruction",
+                        "Fitness Instruction",
+                        "Nutrition Education",
+                        "Program Management",
+                        "Wellness Coaching"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in yoga instruction, fitness instruction, nutrition education, and program management. The recommendation also highlights the candidate's commitment to lifelong learning and their dedication to fostering healthy behavior changes."
+                }
+            }
+        }
+    ]
+}

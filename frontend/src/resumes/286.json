@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Director",
+                "work_description": "Manage all aspects of accounting operations, overseeing day to day transactions related to general ledger, accounts payable, accounts receivable, fixed assets, cash accounts, payroll and purchasing. Reviews financial statements. Reviews results of operations and ensures proper reporting to program head to understand revenue and cost drivers and define appropriate reports for monitoring improvement.",
+                "company_level": "Mid-level",
+                "start_date": "06/2003",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Finance Officer",
+                "work_description": "Prepares financial statement of regional headquarters. Consolidates financial statement of companies and reports to the higher management. Reviews financial statement and schedules of operating company. Provides variance analysis against approved budget.",
+                "company_level": "Mid-level",
+                "start_date": "10/2000",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Accounting Staff",
+                "work_description": "Prepare invoices and follow-up on payments. Prepare payments to vendors. Prepare tax returns and other regulatory reports Process payroll. Handles bank transactions. Handles bookkeeping and preparation of financial statements and schedules.",
+                "company_level": "Startup",
+                "start_date": "01/1999",
+                "end_date": "10/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "Miriam College Foundation Inc",
+                "start_date": "01/1994",
+                "end_date": "12/1997",
+                "domain": "Accountancy",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Over 15 years of experience in accounting, including managing all aspects of accounting operations, preparing financial statements, and handling bookkeeping, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Statement Preparation",
+                "level": 5,
+                "explanation": "Extensive experience in preparing financial statements, consolidating financial statements of companies, and reviewing financial statements, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Handled payroll processing consistently across multiple roles, suggesting a strong proficiency in payroll management."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Provided variance analysis against approved budget and ensured proper reporting to program head, indicating a strong proficiency in budgeting."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Reviewed financial statements, results of operations, and provided variance analysis, suggesting a strong proficiency in financial analysis."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed all aspects of accounting operations and reviewed financial statements, indicating a strong proficiency in leadership."
+            },
+            {
+                "name": "Bookkeeping",
+                "level": 4,
+                "explanation": "Handled bookkeeping and preparation of financial statements and schedules, suggesting a strong proficiency in bookkeeping."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Ensured proper reporting to program head and prepared financial statements, indicating a strong proficiency in financial reporting."
+            }
+        ]
+    }
+}

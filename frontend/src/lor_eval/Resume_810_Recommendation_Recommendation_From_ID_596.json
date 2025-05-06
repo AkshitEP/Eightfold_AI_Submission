@@ -1,0 +1,16 @@
+{
+    "resume_file": "810.json",
+    "recommendation_file": "Recommendation_From_ID_596.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's experience and qualifications seem unrelated to Nolan's skills and experience.",
+        "verified_skills": [
+            "General Labor",
+            "Aircraft Maintenance",
+            "Livestock Handling"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights Nolan's work ethic, communication skills, and adaptability, but lacks specific examples of his skills and experience. The recommender's own experience and qualifications seem unrelated to Nolan's skills and experience, which raises some concerns about the credibility of the recommendation."
+    }
+}

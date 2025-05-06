@@ -1,0 +1,84 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Quality Control Inspector",
+                "work_description": "Completes classroom and on-the-job training to acquire, exercise, and maintain knowledge of the duties required to perform all inspection task ranging from First Article inspections to process inspections. Reviewing written quality or inspection procedures for adequacy and evaluating the implementation and effectiveness of quality/inspection systems, including work plans.",
+                "company_level": "Mid-level",
+                "start_date": "10/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Aviation Structural Mechanic",
+                "work_description": "Performs acceptance inspection on all inbound aircraft to assess the total damage before beginning overall Reset. Orders necessary components to complete Aircraft reset Prioritized workload and preliminary mechanical inspection of critical flight controls.",
+                "company_level": "Mid-level",
+                "start_date": "08/2009",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Aviation Structural Mechanic",
+                "work_description": "Qualified to perform various inspections on a periodic basis to include Phase, hydraulic, landing gear and flight control inspections. Implements risk management techniques while performing quality maintenance and inspections on the F/A-18 aircraft.",
+                "company_level": "Mid-level",
+                "start_date": "11/2007",
+                "end_date": "08/2009"
+            },
+            {
+                "role_name": "Aviation Structural Mechanic / Grade E-5",
+                "work_description": "Installed/replaced pneumatic actuators and servos, landing gear and flight controls on the F/A-18 hornet. On board the USS Nimitz CVN-68 Aircraft Carrier for a six-month deployment during Operation Iraqi Freedom.",
+                "company_level": "Mid-level",
+                "start_date": "10/1999",
+                "end_date": "10/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Riddle Aeronautical University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Professional Aeronautics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Quality Control",
+                "level": 4,
+                "explanation": "Has extensive experience in quality control inspection, reviewing procedures, and evaluating implementation and effectiveness of quality systems, showing strong proficiency."
+            },
+            {
+                "name": "Aircraft Maintenance",
+                "level": 5,
+                "explanation": "Over a decade of experience in aircraft maintenance, including inspections, repairs, and replacements of various components, indicating expert-level mastery."
+            },
+            {
+                "name": "Aviation Structural Mechanics",
+                "level": 5,
+                "explanation": "Extensive experience in performing inspections, repairs, and replacements of aircraft structural components, including pneumatic actuators, servos, landing gear, and flight controls, indicating expert-level mastery."
+            },
+            {
+                "name": "Risk Management",
+                "level": 3,
+                "explanation": "Implemented risk management techniques while performing quality maintenance and inspections, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No direct leadership experience mentioned, but held a grade E-5 position, suggesting some practical experience in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Prioritized workload and performed preliminary mechanical inspections, suggesting some practical experience in project management."
+            },
+            {
+                "name": "Technical Inspection",
+                "level": 4,
+                "explanation": "Performed various inspections, including Phase, hydraulic, landing gear, and flight control inspections, showing strong proficiency."
+            }
+        ]
+    }
+}

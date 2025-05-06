@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Global Finance Accountant",
+                "work_description": "Process and Analyze invoices and expense reports to ensure appropriate approvals in accordance with CGE Expenditure Authorization Guidelines. Ensures accuracy of tax calculations for all invoice payments and accrues additional tax expense and payable during the posting process. Communicate with business partners and external vendors on invoice inquiries and other expense related activities.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2016",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Financial Analyst / Accounts Payable",
+                "work_description": "Process external invoices in R11/ R12 (Oracle) for multiple entities, domestic and foreign, within established service level commitments. Ensure processing of payments of invoices, refunds and expenses is in compliance with established key controls.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2013",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Financial Operations Analyst",
+                "work_description": "Team player responsible for processing over 385,000 invoices annually. Handled reconciliation of monthly statements. Documented completion and review of account reconciliations.as a part of month end closing procedure.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2011",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "AP Manager / Accountant",
+                "work_description": "Partner with Controller to monitor weekly cash flow and prioritize payables. Analyze business operations, trends, costs, revenues, financial commitments, and obligations, to project future revenues and expenses.",
+                "company_level": "Mid-level",
+                "start_date": "01/2016",
+                "end_date": "10/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Accounting",
+                "level": "M.B.A"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has extensive experience in analyzing invoices, expense reports, and financial data, and has worked with financial operations, trends, costs, revenues, and obligations, indicating expert-level mastery."
+            },
+            {
+                "name": "Accounts Payable",
+                "level": 5,
+                "explanation": "Has over a decade of experience in processing invoices, payments, and expenses, and has worked with multiple entities, domestic and foreign, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Operations",
+                "level": 5,
+                "explanation": "Has extensive experience in financial operations, including processing invoices, reconciliations, and month-end closing procedures, indicating expert-level mastery."
+            },
+            {
+                "name": "Tax Calculations",
+                "level": 4,
+                "explanation": "Has experience in ensuring accuracy of tax calculations for invoice payments and accrues additional tax expense and payable, suggesting strong proficiency."
+            },
+            {
+                "name": "Oracle R11/R12",
+                "level": 4,
+                "explanation": "Has experience in processing external invoices in Oracle R11/R12, suggesting strong proficiency."
+            },
+            {
+                "name": "Cash Flow Management",
+                "level": 4,
+                "explanation": "Has experience in monitoring weekly cash flow and prioritizing payables, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Has experience in managing teams and working with business partners and external vendors, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Financial Planning",
+                "level": 3,
+                "explanation": "Has experience in analyzing business operations and projecting future revenues and expenses, indicating a solid level of proficiency."
+            }
+        ]
+    }
+}

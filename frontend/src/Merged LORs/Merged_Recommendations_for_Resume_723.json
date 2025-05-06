@@ -1,0 +1,106 @@
+{
+    "target_id": "723",
+    "recommendations": [
+        {
+            "recommender_id": "791",
+            "recommendation": {
+                "resume_file": "723.json",
+                "recommendation_file": "Recommendation_From_ID_791.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Patient Admission",
+                        "Communication",
+                        "Case Management",
+                        "Social Work",
+                        "Spanish Interpretation"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient admission processes, communication skills, and quality assurance expertise. The source of the recommendation is a registered nurse supervisor, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "407",
+            "recommendation": {
+                "resume_file": "723.json",
+                "recommendation_file": "Recommendation_From_ID_407.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation mentions a parallel role as an Aviation Executive Officer, which is not mentioned in the resume. This inconsistency raises concerns about the accuracy of the recommendation.",
+                    "verified_skills": [
+                        "Patient Admission",
+                        "Communication",
+                        "Spanish Interpretation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience in emergency medical services and their strong communication skills, but it also mentions a role that is not present in the resume, which raises concerns about the accuracy of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "256",
+            "recommendation": {
+                "resume_file": "723.json",
+                "recommendation_file": "Recommendation_From_ID_256.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation is from an Accountant, which seems unrelated to the candidate's experience and skills in healthcare. The language is formal, but the recommendation lacks specific examples and details about the candidate's work in healthcare.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Patient Admission"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service and communication skills, but it is unclear how the recommender is familiar with the candidate's work in healthcare. The recommendation seems to be more focused on the candidate's general skills rather than their specific experience and qualifications in healthcare."
+                }
+            }
+        },
+        {
+            "recommender_id": "301",
+            "recommendation": {
+                "resume_file": "723.json",
+                "recommendation_file": "Recommendation_From_ID_301.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the writer's background in finance and accounting seems unrelated to the candidate's healthcare experience. However, the writer's observations of the candidate's skills and work ethic are specific and credible.",
+                    "verified_skills": [
+                        "Patient Admission",
+                        "Customer Service",
+                        "Communication",
+                        "Case Management",
+                        "Social Work"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in patient admission, customer service, and social work. However, the writer's background and relationship to the candidate are unclear, which may affect the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "3",
+            "recommendation": {
+                "resume_file": "723.json",
+                "recommendation_file": "Recommendation_From_ID_3.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession as an Accountant seems unrelated to the candidate's field, which raises some concerns about the recommender's ability to accurately assess the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Patient Admission",
+                        "Customer Service",
+                        "Communication",
+                        "Case Management",
+                        "Spanish Interpretation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in patient admission, customer service, and communication, which aligns well with their job history and skills. However, the recommender's profession and relationship to the candidate are unclear, which may impact the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

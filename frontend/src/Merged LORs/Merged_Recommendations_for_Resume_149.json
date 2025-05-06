@@ -1,0 +1,91 @@
+{
+    "target_id": "149",
+    "recommendations": [
+        {
+            "recommender_id": "139",
+            "recommendation": {
+                "resume_file": "149.json",
+                "recommendation_file": "Recommendation_From_ID_139.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Training and Development",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Employee Relations"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR operations, staffing, recruiting, and employee relations. The source of the recommendation appears to be an HR consultant, but the exact relationship is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "7",
+            "recommendation": {
+                "resume_file": "149.json",
+                "recommendation_file": "Recommendation_From_ID_7.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Training and Development",
+                        "Leadership",
+                        "Communication",
+                        "Employee Relations",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise and highlighting their strengths in employee relations, communication, and recruitment."
+                }
+            }
+        },
+        {
+            "recommender_id": "26",
+            "recommendation": {
+                "resume_file": "149.json",
+                "recommendation_file": "Recommendation_From_ID_26.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Training and Development",
+                        "Leadership",
+                        "Communication",
+                        "Employee Relations"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "376",
+            "recommendation": {
+                "resume_file": "149.json",
+                "recommendation_file": "Recommendation_From_ID_376.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Training and Development",
+                        "Leadership",
+                        "Communication",
+                        "Employee Relations"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR work, recruitment efforts, and employee engagement initiatives."
+                }
+            }
+        }
+    ]
+}

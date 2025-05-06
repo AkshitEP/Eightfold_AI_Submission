@@ -1,0 +1,106 @@
+{
+    "target_id": "961",
+    "recommendations": [
+        {
+            "recommender_id": "561",
+            "recommendation": {
+                "resume_id": 961,
+                "recommendation_file": "Recommendation_From_ID_561.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Dance Education",
+                        "Dance/Movement Therapy",
+                        "Mental Health Counseling",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and counseling techniques. The source of the recommendation is a school counselor, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "843",
+            "recommendation": {
+                "resume_id": 961,
+                "recommendation_file": "Recommendation_From_ID_843.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Dance Education",
+                        "Dance/Movement Therapy",
+                        "Mental Health Counseling",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their therapeutic practices and expertise in adapting techniques to meet unique needs."
+                }
+            }
+        },
+        {
+            "recommender_id": "288",
+            "recommendation": {
+                "resume_id": 961,
+                "recommendation_file": "Recommendation_From_ID_288.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Dance Education",
+                        "Dance/Movement Therapy",
+                        "Mental Health Counseling",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and therapeutic approaches. The source of the recommendation appears to be a peer or colleague, given the context and tone of the letter."
+                }
+            }
+        },
+        {
+            "recommender_id": "41",
+            "recommendation": {
+                "resume_id": 961,
+                "recommendation_file": "Recommendation_From_ID_41.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Dance Education",
+                        "Dance/Movement Therapy",
+                        "Mental Health Counseling",
+                        "Communication Skills",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in dance education, dance/movement therapy, and mental health counseling. The recommendation highlights the candidate's ability to build rapport with clients, facilitate individual and group therapy sessions, and implement comprehensive healing arts programs."
+                }
+            }
+        },
+        {
+            "recommender_id": "329",
+            "recommendation": {
+                "resume_id": 961,
+                "recommendation_file": "Recommendation_From_ID_329.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Dance Education",
+                        "Dance/Movement Therapy",
+                        "Mental Health Counseling",
+                        "Communication Skills"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and therapeutic skills. The recommender highlights the candidate's ability to integrate expressive arts therapy into the curriculum, which is a key aspect of their expertise."
+                }
+            }
+        }
+    ]
+}

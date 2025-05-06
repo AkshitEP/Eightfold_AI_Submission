@@ -1,0 +1,200 @@
+{
+    "target_id": "857",
+    "recommendations": [
+        {
+            "recommender_id": "496",
+            "recommendation": {
+                "resume_file": "857.json",
+                "recommendation_file": "Recommendation_From_ID_496.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Great Plains Accounting",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and collaborative work style."
+                }
+            }
+        },
+        {
+            "recommender_id": "497",
+            "recommendation": {
+                "resume_file": "857.json",
+                "recommendation_file": "Recommendation_From_ID_497.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of human resources experience, which is not present in the resume. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Microsoft Excel",
+                        "QuickBooks",
+                        "Great Plains Accounting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise. However, some minor inconsistencies and exaggerated claims are present, which reduces the relevance score and increases the fraud chance level."
+                }
+            }
+        },
+        {
+            "recommender_id": "346",
+            "recommendation": {
+                "resume_id": 857,
+                "recommendation_file": "Recommendation_From_ID_346.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Leadership",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership qualities. However, some minor inconsistencies and exaggerated claims are present, such as the mention of 'innovative problem-solving skills' and 'wealth of experience in financial data extraction and budgeting' without concrete examples."
+                }
+            }
+        },
+        {
+            "recommender_id": "430",
+            "recommendation": {
+                "resume_file": "857.json",
+                "recommendation_file": "Recommendation_From_ID_430.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and collaborative spirit."
+                }
+            }
+        },
+        {
+            "recommender_id": "3",
+            "recommendation": {
+                "resume_file": "857.json",
+                "recommendation_file": "Recommendation_From_ID_3.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "QuickBooks",
+                        "Financial Analysis",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and soft skills. The source of the recommendation is a peer, indicating a strong working relationship and firsthand knowledge of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "797",
+            "recommendation": {
+                "resume_id": 857,
+                "recommendation_file": "Recommendation_From_ID_797.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be written for two individuals, but the resume only belongs to one. This inconsistency raises some concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "General Ledger",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in accounting, financial analysis, and leadership. However, it seems to be written for two individuals, which raises some concerns about its authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "965",
+            "recommendation": {
+                "resume_file": "857.json",
+                "recommendation_file": "Recommendation_From_ID_965.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Budgeting",
+                        "Financial Analysis",
+                        "Microsoft Excel",
+                        "QuickBooks",
+                        "Great Plains Accounting",
+                        "Leadership",
+                        "Time Management",
+                        "Customer Service",
+                        "Communication",
+                        "MS Office Applications"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and accounting expertise. The recommendation highlights the candidate's attention to detail, problem-solving skills, and leadership abilities, making them a valuable asset to any team."
+                }
+            }
+        },
+        {
+            "recommender_id": "533",
+            "recommendation": {
+                "resume_file": "857.json",
+                "recommendation_file": "Recommendation_From_ID_533.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Accounts Payable",
+                        "Accounts Receivable",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and professionalism. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "target_id": "240",
+    "recommendations": [
+        {
+            "recommender_id": "489",
+            "recommendation": {
+                "resume_file": "240.json",
+                "recommendation_file": "Recommendation_From_ID_489.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "Human Resource Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR support and employee engagement. The source of the recommendation appears to be a colleague, likely the HR Coordinator, who has worked closely with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "309",
+            "recommendation": {
+                "resume_file": "240.json",
+                "recommendation_file": "Recommendation_From_ID_309.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation contains some inconsistencies and exaggerated claims. The HR Director's experience is mentioned as 'over two decades', but the resume only shows around 10 years of experience. Additionally, the recommendation mentions the HR Director's ability to manage large teams, but this is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "Human Resource Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in HR services, but contains some inconsistencies and exaggerated claims. The recommendation highlights the candidate's strengths in recruitment and employee relations, but also mentions the HR Director's experience and skills, which is not relevant to the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "602",
+            "recommendation": {
+                "resume_file": "240.json",
+                "recommendation_file": "Recommendation_From_ID_602.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "Human Resource Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR initiatives, recruitment, and communication skills. However, the recommendation seems to refer to two different individuals, which might be an error."
+                }
+            }
+        },
+        {
+            "recommender_id": "891",
+            "recommendation": {
+                "resume_file": "240.json",
+                "recommendation_file": "Recommendation_From_ID_891.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Relations",
+                        "Human Resource Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and organizational skills."
+                }
+            }
+        }
+    ]
+}

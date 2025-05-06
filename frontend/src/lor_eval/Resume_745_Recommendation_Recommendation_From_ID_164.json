@@ -1,0 +1,20 @@
+{
+    "resume_file": "745.json",
+    "recommendation_file": "Recommendation_From_ID_164.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Marketing",
+            "Event Management",
+            "Sales",
+            "Leadership",
+            "Negotiation",
+            "Presentation",
+            "Business Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in business operations and marketing. The recommender's background in the Retail Banking sector adds credibility to their assessment of the candidate's skills."
+    }
+}

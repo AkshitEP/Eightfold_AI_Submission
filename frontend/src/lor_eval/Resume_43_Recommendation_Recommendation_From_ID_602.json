@@ -1,0 +1,18 @@
+{
+    "resume_id": 43,
+    "recommendation_file": "Recommendation_From_ID_602.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and specific examples are provided.",
+        "verified_skills": [
+            "Human Resources",
+            "Leadership",
+            "Employee Relations",
+            "Policy Development",
+            "Training and Development"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR processes, leadership qualities, and commitment to employee development."
+    }
+}

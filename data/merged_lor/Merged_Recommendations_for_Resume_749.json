@@ -1,0 +1,27 @@
+{
+    "target_id": "749",
+    "recommendations": [
+        {
+            "recommender_id": "797",
+            "recommendation": {
+                "resume_file": "749.json",
+                "recommendation_file": "Recommendation_From_ID_797.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Financial Reporting",
+                        "Financial Modeling",
+                        "GAAP Compliance",
+                        "Internal Controls"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, accounting, and financial reporting abilities. The recommendation also highlights the candidate's ability to create comprehensive financial models and present insights clearly to stakeholders."
+                }
+            }
+        }
+    ]
+}

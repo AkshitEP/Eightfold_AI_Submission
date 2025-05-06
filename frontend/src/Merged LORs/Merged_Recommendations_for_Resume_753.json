@@ -1,0 +1,64 @@
+{
+    "target_id": "753",
+    "recommendations": [
+        {
+            "recommender_id": "266",
+            "recommendation": {
+                "resume_file": "753.json",
+                "recommendation_file": "Recommendation_From_ID_266.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies in the recommendation and overly positive language raise some concerns about authenticity.",
+                    "verified_skills": [
+                        "Financial Services",
+                        "Client Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to be written by someone who is not familiar with the candidate's current role or industry."
+                }
+            }
+        },
+        {
+            "recommender_id": "663",
+            "recommendation": {
+                "resume_file": "753.json",
+                "recommendation_file": "Recommendation_From_ID_663.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Client Relationship Management",
+                        "Financial Services",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and client relationship management abilities. The recommender's relationship with the candidate is based on a close professional relationship, which adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "531",
+            "recommendation": {
+                "resume_file": "753.json",
+                "recommendation_file": "Recommendation_From_ID_531.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but no obvious signs of exaggeration or contradiction.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Client Relationship Management",
+                        "Financial Services",
+                        "Team Management",
+                        "Business Banking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but contains some minor inconsistencies and exaggerated claims. The source of the recommendation is unknown."
+                }
+            }
+        }
+    ]
+}

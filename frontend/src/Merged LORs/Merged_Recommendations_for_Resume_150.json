@@ -1,0 +1,26 @@
+{
+    "target_id": "150",
+    "recommendations": [
+        {
+            "recommender_id": "984",
+            "recommendation": {
+                "resume_file": "150.json",
+                "recommendation_file": "Recommendation_From_ID_984.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims, but specific examples of skills and accomplishments are provided.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Budgeting",
+                        "Healthcare IT",
+                        "EHR Implementation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant, but could be improved by providing more specific examples and clarifying the recommender's background and relationship to the Director."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "633.json",
+    "recommendation_file": "Recommendation_From_ID_358.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's mention of witnessing the candidate's customer service skills firsthand as a server.",
+        "verified_skills": [
+            "Customer Service",
+            "Aeronautics",
+            "Aviation Safety"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies. The recommender's relationship to the candidate is not specified."
+    }
+}

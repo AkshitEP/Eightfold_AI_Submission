@@ -1,0 +1,115 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Lean Six Sigma Black Belt",
+                "work_description": "Demonstrating team leadership, understanding team dynamics and assigning team member roles and responsibilities. Black Belts have a thorough understanding of all aspects of the DMAIC model in accordance with Six Sigma principles.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Aviation Supply Specialist",
+                "work_description": "Perform all functions related to providing aviation peculiar supply support, to include financial management, inventory management, material management, facilities and storage management, personnel staffing, and requisitioning procedures.",
+                "company_level": "Large Corporation",
+                "start_date": "09/2007",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Nuclear Security Officer II",
+                "work_description": "Access and visitor control officer; to verify and issue the correct credentials and TLDs. Armed search officer and armed vehicle search officer; search of individuals and vehicles for prohibited Alan W.",
+                "company_level": "Large Corporation",
+                "start_date": "07/2005",
+                "end_date": "09/2007"
+            },
+            {
+                "role_name": "Aviation Maintenance Administrative Specialist",
+                "work_description": "Maintain aircraft log books, naval aircraft maintenance publications/files, and prepare reports, logs records, directives, and correspondence in an aircraft maintenance and repair activity.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2001",
+                "end_date": "06/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Villanova University",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Lean Six Sigma",
+                "level": "Certificate"
+            },
+            {
+                "university": "Department of the Navy",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Lean Six Sigma",
+                "level": "Certificate"
+            },
+            {
+                "university": "Department of the Navy",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Logistics Supply Chain Improvement",
+                "level": "Certificate"
+            },
+            {
+                "university": "Department of the Navy",
+                "start_date": "01/2012",
+                "end_date": "12/2012",
+                "domain": "Basic Instructor",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Demonstrated team leadership as a Lean Six Sigma Black Belt, showing strong proficiency in leading teams and understanding team dynamics."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "As a Lean Six Sigma Black Belt, has a thorough understanding of the DMAIC model, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Logistics Management",
+                "level": 4,
+                "explanation": "Handled various aspects of logistics management, including inventory management, material management, and requisitioning procedures, showing strong proficiency."
+            },
+            {
+                "name": "Financial Management",
+                "level": 3,
+                "explanation": "Performed financial management tasks as an Aviation Supply Specialist, indicating a solid working proficiency in financial management."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Handled inventory management tasks as an Aviation Supply Specialist, showing a solid working proficiency in inventory management."
+            },
+            {
+                "name": "Supply Chain Management",
+                "level": 3,
+                "explanation": "Completed a certificate program in Logistics Supply Chain Improvement, indicating a solid working proficiency in supply chain management."
+            },
+            {
+                "name": "Training and Development",
+                "level": 2,
+                "explanation": "Completed a Basic Instructor certificate program, showing some practical experience in training and development."
+            },
+            {
+                "name": "Security Management",
+                "level": 2,
+                "explanation": "Worked as a Nuclear Security Officer II, handling access and visitor control, indicating some practical experience in security management."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 1,
+                "explanation": "No direct experience in data analysis, but may have used data analysis skills in logistics management or project management roles."
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Acting Grade 4 Customer/Brand",
+                "work_description": "Coaching, developing and ensuring the store operations get fulfilled. Supporting and keeping open communication with management. Training and Coaching associates, Monitoring floor coverage and complete workloads. Ensuring to maintain a positive work environment both internal and external.",
+                "company_level": "Mid-level",
+                "start_date": "10/2015",
+                "end_date": "01/2016"
+            },
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Demonstrating the finest customer service. Speaking with knowledge and confidence to customers about styles, fits and the latest products. Maintaining the store to meet brand standards.",
+                "company_level": "Mid-level",
+                "start_date": "05/2015",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Nights and Weekend Manager",
+                "work_description": "Opening and closing the store, which included counting cash drawers and making bank deposits. Building and maintaining effective relationships with peers and upper management. Offering direction and giving constructive feedback to motivate team members.",
+                "company_level": "Mid-level",
+                "start_date": "02/2014",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Sales Associate",
+                "work_description": "Ensuring giving exceptional service throughout the entire shopping and purchasing experience. Balancing the needs of multiple customers simultaneously in a fast-paced retail environment. Keeping the store clean and maintained organized stock shelves.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "02/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Leuzinger High School",
+                "start_date": "01/2009",
+                "end_date": "06/2012",
+                "domain": "General Education",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "California State University Channel Islands",
+                "start_date": "01/2016",
+                "end_date": "Present",
+                "domain": "Psychology and Communication",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has extensive experience in leadership roles, including coaching, developing, and supporting team members, as well as building and maintaining effective relationships with peers and upper management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Has consistently demonstrated exceptional customer service skills throughout multiple roles, including providing knowledge and confidence to customers about products and services."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience managing multiple tasks and responsibilities, including balancing the needs of multiple customers simultaneously in a fast-paced retail environment."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has experience training and coaching associates, as well as motivating team members through constructive feedback and direction."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience communicating effectively with team members, peers, and upper management, as well as with customers."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Has experience handling cash drawers and making bank deposits, as well as maintaining a positive work environment, indicating a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Organizational Skills",
+                "level": 3,
+                "explanation": "Has experience maintaining a clean and organized store, including stock shelves, indicating a solid working proficiency in organizational skills."
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "682.json",
+    "recommendation_file": "Recommendation_From_ID_933.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "HR Generalist",
+            "Employee Relations",
+            "Recruitment",
+            "Benefits Administration",
+            "Compliance",
+            "Leadership",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities. The source of the recommendation appears to be a peer or colleague, which adds credibility to the endorsement."
+    }
+}

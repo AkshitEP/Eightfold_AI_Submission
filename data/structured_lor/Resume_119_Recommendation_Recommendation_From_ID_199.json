@@ -1,0 +1,18 @@
+{
+    "resume_file": "119.json",
+    "recommendation_file": "Recommendation_From_ID_199.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be genuine, but there are some minor inconsistencies. The Operations Research Analyst is mentioned in the beginning, which seems unrelated to the Territory HR Manager's skills and experience. However, the recommendation does align well with the candidate's skills and experience in the latter part.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Performance Management",
+            "Compliance",
+            "Human Resources"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional leadership and communication skills, as well as their ability to navigate human resources functions across a vast territory. However, the mention of the Operations Research Analyst seems out of place and may indicate a minor inconsistency."
+    }
+}

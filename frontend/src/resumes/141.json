@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Gunnery Sergeant",
+                "work_description": "Administered, designed, installed, maintained, and repaired network data communication links and fiberoptic cabling. Supported a myriad of computer and network operating systems and servers. Provided direct hardware and software support, installation/configuration support for over 5000 users, computers, laptop, printers, and peripherals. Manage, supervised, and trained over 40 personnel at any given time during multiple work shifts in a constantly changing environment.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1997",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "MAGTF Planning Specialist",
+                "work_description": "Responsible for logistical support; typical duties included updating plan and information to unit-level detail and operating/managing force deployment planning's automated data processing tools. Created force reports and properly formatted and forwarded electronic mail, files and newsgroup message traffic. Provided support in preparing, planning, mapping, and tracking routes for over 50 personnel on daily basis.",
+                "company_level": "Large Corporation",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            },
+            {
+                "role_name": "Aviation Supply Specialist",
+                "work_description": "Validated customer requirements, processed requisitions, submitted requisitions, initiated appropriate follow-up actions, and processed and delivered material in accordance with all government regulations and procedures. Maintained Inventory Procured assets when below allowable limits Perform the functions necessary to provide logistical support to aviation activities.",
+                "company_level": "Large Corporation",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "university": "Columbia Southern University",
+                "start_date": "Unknown",
+                "end_date": "10/2012",
+                "domain": "Information Technology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Installed, maintained, and repaired network data communication links and fiberoptic cabling, and supported multiple computer and network operating systems and servers, indicating expert-level mastery."
+            },
+            {
+                "name": "Computer Hardware Support",
+                "level": 4,
+                "explanation": "Provided direct hardware support for over 5000 users, computers, laptops, printers, and peripherals, suggesting strong proficiency."
+            },
+            {
+                "name": "Software Support",
+                "level": 4,
+                "explanation": "Provided installation/configuration support for software, and supported multiple computer and network operating systems and servers, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed, supervised, and trained over 40 personnel at any given time during multiple work shifts in a constantly changing environment, suggesting strong proficiency."
+            },
+            {
+                "name": "Logistical Support",
+                "level": 4,
+                "explanation": "Provided logistical support in multiple roles, including updating plans, managing automated data processing tools, and tracking routes for personnel, indicating strong proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Maintained inventory procured assets and performed functions necessary to provide logistical support to aviation activities, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Created force reports and properly formatted and forwarded electronic mail, files and newsgroup message traffic, but the extent of data analysis is not clearly defined."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Provided support in preparing, planning, mapping, and tracking routes for over 50 personnel on a daily basis, but the extent of project management is not clearly defined."
+            }
+        ]
+    }
+}

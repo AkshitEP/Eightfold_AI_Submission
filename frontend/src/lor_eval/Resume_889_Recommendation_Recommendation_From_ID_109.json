@@ -1,0 +1,20 @@
+{
+    "resume_file": "889.json",
+    "recommendation_file": "Recommendation_From_ID_109.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Accounting",
+            "Financial Reporting",
+            "Financial Planning",
+            "Leadership",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation is highly relevant, aligning well with the candidate's skills and experience. The Principal Accountant provides specific examples of the Senior Accountant's expertise in accounting functions, financial analysis, and regulatory compliance, and highlights their exceptional ability to manage complex financial processes and communicate effectively across various teams."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "179.json",
+    "recommendation_file": "Recommendation_From_ID_356.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not a direct supervisor or peer, and the language is somewhat informal. The recommendation also lacks specific examples of Marissa's skills and accomplishments.",
+        "verified_skills": [
+            "Program Management",
+            "Health Promotion",
+            "Leadership",
+            "Coaching"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights Marissa's expertise in health promotion and program management, but the source is not clearly identified as a supervisor or peer. The language is also somewhat informal, which raises some concerns about the credibility of the recommendation."
+    }
+}

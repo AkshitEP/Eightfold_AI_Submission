@@ -1,0 +1,17 @@
+{
+    "resume_file": "338.json",
+    "recommendation_file": "Recommendation_From_ID_382.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Leadership",
+            "Sales Management",
+            "Communication"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and sales management abilities. The recommendation source is a supervisor, adding credibility to the endorsement."
+    }
+}

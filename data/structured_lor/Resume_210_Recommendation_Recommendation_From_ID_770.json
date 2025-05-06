@@ -1,0 +1,20 @@
+{
+    "resume_file": "210.json",
+    "recommendation_file": "Recommendation_From_ID_770.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples and details from the candidate's resume. The language is formal, but the tone is overly positive.",
+        "verified_skills": [
+            "ASP .NET",
+            "C#",
+            "PL/SQL",
+            "SQL",
+            "Web Development",
+            "Project Management",
+            "Technical Support"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical skills and commitment to delivering results, but it does not provide concrete examples from their work experience. The tone is overly positive, which raises some concerns about the authenticity of the recommendation."
+    }
+}

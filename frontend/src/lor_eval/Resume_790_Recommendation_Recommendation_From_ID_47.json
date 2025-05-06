@@ -1,0 +1,22 @@
+{
+    "resume_file": "790.json",
+    "recommendation_file": "Recommendation_From_ID_47.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Financial Analysis",
+            "Accounting",
+            "Financial Modeling",
+            "Budgeting",
+            "Auditing",
+            "Compliance",
+            "Financial Systems",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and analytical skills. The source of the recommendation appears to be a peer, who has worked with the candidate and can attest to their abilities."
+    }
+}

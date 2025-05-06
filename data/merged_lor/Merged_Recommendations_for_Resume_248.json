@@ -1,0 +1,69 @@
+{
+    "target_id": "248",
+    "recommendations": [
+        {
+            "recommender_id": "34",
+            "recommendation": {
+                "resume_file": "248.json",
+                "recommendation_file": "Recommendation_From_ID_34.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Windows 7"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support, customer service, and problem-solving abilities. The source of the recommendation is a peer who has witnessed the candidate's exceptional skills firsthand."
+                }
+            }
+        },
+        {
+            "recommender_id": "728",
+            "recommendation": {
+                "resume_file": "248.json",
+                "recommendation_file": "Recommendation_From_ID_728.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Customer Service",
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication",
+                        "Windows 7"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support, customer service, and leadership abilities. The source of the recommendation is a peer, an Information Assurance Professional, who has collaborated with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "584",
+            "recommendation": {
+                "resume_file": "248.json",
+                "recommendation_file": "Recommendation_From_ID_584.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Technical Support",
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Windows 7"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support, customer service, and problem-solving abilities."
+                }
+            }
+        }
+    ]
+}

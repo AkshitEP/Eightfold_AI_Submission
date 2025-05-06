@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Video Director",
+                "work_description": "Developed better interpersonal skills while directing highly accomplished business individuals.",
+                "company_level": "Mid-level",
+                "start_date": "01/2015",
+                "end_date": "08/2017"
+            },
+            {
+                "role_name": "Producer/Cinematographer/Lead Editor",
+                "work_description": "Demonstrated my drive, work ethic and ability to learn new skills quickly by establishing my own company while keeping it profitable for six years.",
+                "company_level": "Startup",
+                "start_date": "05/2009",
+                "end_date": "04/2015"
+            },
+            {
+                "role_name": "Manager of Fine Arts",
+                "work_description": "Demonstrated ability to multitask and stay focused by managing multiple projects at a time and always finishing before deadlines.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "05/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Berklee College of Music",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Music",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Athletics",
+            "Fitness",
+            "Healthiness"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has demonstrated leadership skills in multiple roles, including managing multiple projects and teams, and establishing a profitable company."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has managed multiple projects simultaneously and consistently met deadlines, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has demonstrated ability to multitask and stay focused, managing multiple projects and meeting deadlines, showing strong proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has developed better interpersonal skills while directing highly accomplished business individuals, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Entrepreneurship",
+                "level": 4,
+                "explanation": "Has established and maintained a profitable company for six years, demonstrating strong proficiency in entrepreneurship."
+            },
+            {
+                "name": "Video Production",
+                "level": 3,
+                "explanation": "Has worked as a Video Director, Producer, Cinematographer, and Lead Editor, indicating a solid working proficiency in video production."
+            },
+            {
+                "name": "Music",
+                "level": 2,
+                "explanation": "Has a Bachelor's degree in Music, but there is no clear indication of how this skill is being applied in their current roles, suggesting some practical experience."
+            },
+            {
+                "name": "Athletics",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but there is no clear indication of how this skill is being applied in their current roles or experience."
+            },
+            {
+                "name": "Fitness",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but there is no clear indication of how this skill is being applied in their current roles or experience."
+            },
+            {
+                "name": "Healthiness",
+                "level": 0,
+                "explanation": "Mentioned as an interest, but there is no clear indication of how this skill is being applied in their current roles or experience."
+            }
+        ]
+    }
+}

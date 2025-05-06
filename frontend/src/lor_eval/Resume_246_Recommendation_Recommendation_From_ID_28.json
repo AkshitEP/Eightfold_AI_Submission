@@ -1,0 +1,17 @@
+{
+    "resume_file": "246.json",
+    "recommendation_file": "Recommendation_From_ID_28.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and relationship to the candidate, but overall the recommendation seems credible.",
+        "verified_skills": [
+            "General Accounting",
+            "Financial Reconciliation",
+            "Financial Reporting",
+            "Cash Flow Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in financial reporting, account reconciliations, and analytical abilities, which align with their experience and skills listed in the resume. However, the recommender's role and relationship to the candidate are unclear, and some of the language used seems overly flattering."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "861.json",
+    "recommendation_file": "Recommendation_From_ID_647.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and lack of concrete examples, but no obvious red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Training",
+            "Communication",
+            "Human Resources"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience as an HR Specialist, but does not specifically mention many of the skills listed in the resume."
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Customer Service Representative",
+                "work_description": "Respond to inquiries about HR policies and procedures from clients and their dependents via telephone, emails, fax and walk-ins. Ensure that all queries are logged and tracked in Remedy database to promote quality assurance. Liaise with related departments, to include HR Teams, Visa, Payroll, Accounting and Travel to deliver timely service. Educate clients about the availability and usage of self -service options. Contribute in issues identification for inclusion into the knowledge base. Research policies and procedures including departmental and federal agency guidelines to provide current and comprehensive responses. Run and analyze daily reports to benchmark employee performance and compliance adhering to the 2 days Service Level Agreement to delivery service. Maintain tasks on track, and respond to deadlines and priorities.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2002",
+                "end_date": "11/2012"
+            },
+            {
+                "role_name": "Consultant Project Manager",
+                "work_description": "Wrote policy and procedures and completed other Department of Health licensing requirements for credentialing. Wrote all business related correspondence. Collected data to create client database. Organized client record filing. Updated and maintained clients records. Held presentations about business opportunities in quest for expansion with very little supervision. Prepared appointment package including salary and fringe benefits, letter of intent, security and medical clearance processes. Created employee file checklist for documents to be submitted with application. Prepared comprehensive and accurate materials for presentation.",
+                "company_level": "Mid-level",
+                "start_date": "09/2009",
+                "end_date": "07/2012"
+            },
+            {
+                "role_name": "Liaison Officer",
+                "work_description": "Organized presentations with business partners regarding objectives to achieve. Partnered with physicians to obtain prior authorizations for services. Maintained and managed over 100 clients' accounts. Ran reports to evaluate employee productivity and benchmark case load increase rate from a quarter to another. Liaised between clients, physicians, insurers and management to inquire about potential service improvement suggestions. Communicated important service related information to clients and upper management. Provided feedback to client to promote quality service.",
+                "company_level": "Mid-level",
+                "start_date": "07/2006",
+                "end_date": "04/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Southeastern University",
+                "start_date": "01/2000",
+                "end_date": "12/2006",
+                "domain": "Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "Southeastern University",
+                "start_date": "01/2000",
+                "end_date": "12/2006",
+                "domain": "Private Business Law",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 5,
+                "explanation": "Over a decade of experience in customer-facing roles, including responding to inquiries and providing timely service, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed multiple projects and tasks with minimal supervision, including creating client databases and updating records, suggesting strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 5,
+                "explanation": "Effectively communicated with clients, physicians, insurers, and upper management, demonstrating expert-level mastery in verbal and written communication."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Ran and analyzed daily reports to benchmark employee performance and compliance, showing solid working proficiency in data analysis."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Maintained tasks on track, responded to deadlines and priorities, and managed multiple projects simultaneously, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Held presentations about business opportunities and managed client relationships, showing solid working proficiency in leadership."
+            },
+            {
+                "name": "Policy Development",
+                "level": 3,
+                "explanation": "Wrote policy and procedures, including departmental and federal agency guidelines, demonstrating solid working proficiency."
+            },
+            {
+                "name": "Business Administration",
+                "level": 4,
+                "explanation": "Managed business-related tasks, including creating client databases and updating records, suggesting strong proficiency."
+            }
+        ]
+    }
+}

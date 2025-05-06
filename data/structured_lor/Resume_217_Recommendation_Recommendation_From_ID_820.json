@@ -1,0 +1,21 @@
+{
+    "resume_file": "217.json",
+    "recommendation_file": "Recommendation_From_ID_820.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Management",
+            "Financial Reporting",
+            "Internal Controls",
+            "Leadership",
+            "Process Improvement",
+            "Variance Analysis",
+            "Financial Forecasting"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis skills, as well as their ability to collaborate with stakeholders and manage audit processes."
+    }
+}

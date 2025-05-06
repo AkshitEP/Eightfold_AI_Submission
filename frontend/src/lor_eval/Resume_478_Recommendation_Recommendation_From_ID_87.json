@@ -1,0 +1,17 @@
+{
+    "resume_file": "478.json",
+    "recommendation_file": "Recommendation_From_ID_87.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's relationship to the candidate is unclear, and the recommendation focuses more on the candidate's character and general abilities rather than specific skills or experiences.",
+        "verified_skills": [
+            "Teaching",
+            "Leadership",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's passion, commitment, and leadership skills, but lacks specific examples of their teaching methods, curriculum development, or other relevant skills. The recommender's relationship to the candidate is unclear, which may impact the credibility of the recommendation."
+    }
+}

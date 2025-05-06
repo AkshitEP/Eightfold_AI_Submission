@@ -1,0 +1,22 @@
+{
+    "resume_file": "797.json",
+    "recommendation_file": "Recommendation_From_ID_820.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Budgeting",
+            "Financial Analysis",
+            "Accounting",
+            "Taxation",
+            "Leadership",
+            "Financial Planning",
+            "Auditing",
+            "Financial System Implementation"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and professionalism. The recommender's tone is formal and objective, indicating a genuine endorsement."
+    }
+}

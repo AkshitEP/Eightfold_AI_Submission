@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Coordinator",
+                "work_description": "Provide technical support throughout the office from building and managing the web presence, networking computers and other office equipment as well as researching grant opportunities for the implementation of a technology component for the Leadership SOAR program. Responsible for building capacity for the foundation within the area of information technology by helping them move closer to a paperless environment.",
+                "company_level": "Mid-level",
+                "start_date": "11/2003",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Web Developer",
+                "work_description": "As webmaster I was responsible for the wing-to-wing implementation of online solutions for small businesses using the full System Development Life Cycle. All projects were delivered 100% on time, within budget by correctly assessing needs upfront, and gathering detailed design specifications that prevent scope creep.",
+                "company_level": "Mid-level",
+                "start_date": "06/2003",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Intranet Application Support Analyst",
+                "work_description": "Key responsibilities were to manage the timeliness and accuracy of system parameter setups and data migration of files for private label and bank card projects. Worked with functional areas such as Marketing, Risk, Fraud, Operations, and Collections to ensure that parameters implemented met project requirements by serving as the IT lead responsible for overcoming any organizational and technical barriers that arose.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "07/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "DeVry University",
+                "start_date": "09/2000",
+                "end_date": "06/2004",
+                "domain": "Computer Information Systems",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Web Development",
+                "level": 5,
+                "explanation": "Has extensive experience as a web developer, implementing online solutions for small businesses using the full System Development Life Cycle, and managing the web presence for an organization, indicating expert-level mastery."
+            },
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Provided technical support throughout the office, managing networking computers and other office equipment, and researching grant opportunities, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Delivered projects 100% on time and within budget, assessing needs upfront and gathering detailed design specifications, indicating strong proficiency in project management."
+            },
+            {
+                "name": "Data Migration",
+                "level": 3,
+                "explanation": "Managed the timeliness and accuracy of system parameter setups and data migration of files for private label and bank card projects, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Served as the IT lead responsible for overcoming organizational and technical barriers, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Networking",
+                "level": 3,
+                "explanation": "Managed networking computers and other office equipment, showing a solid working proficiency in networking."
+            },
+            {
+                "name": "System Development Life Cycle",
+                "level": 4,
+                "explanation": "Used the full System Development Life Cycle to implement online solutions for small businesses, suggesting strong proficiency."
+            },
+            {
+                "name": "IT Project Management",
+                "level": 4,
+                "explanation": "Managed IT projects, including parameter setups and data migration, indicating strong proficiency in IT project management."
+            }
+        ]
+    }
+}

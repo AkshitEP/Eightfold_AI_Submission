@@ -1,0 +1,20 @@
+{
+    "resume_file": "118.json",
+    "recommendation_file": "Recommendation_From_ID_144.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Collaboration",
+            "Event Planning"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative capabilities, communication skills, and problem-solving abilities. The source of the recommendation is a Creative Director who has worked alongside the candidate, indicating a peer-level relationship."
+    }
+}

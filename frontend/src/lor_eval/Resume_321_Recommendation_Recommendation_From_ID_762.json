@@ -1,0 +1,18 @@
+{
+    "resume_file": "321.json",
+    "recommendation_file": "Recommendation_From_ID_762.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's profession (Software Engineer) seems unrelated to the candidate's field (Theater Arts), which raises some concerns about the recommender's ability to accurately assess the candidate's skills and qualifications.",
+        "verified_skills": [
+            "Theater Arts",
+            "Teaching",
+            "Leadership",
+            "Classroom Management",
+            "Public Speaking"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's exceptional communication and leadership skills, creativity, and commitment to professional development. However, the recommender's profession seems unrelated to the candidate's field, which may impact the credibility of the recommendation."
+    }
+}

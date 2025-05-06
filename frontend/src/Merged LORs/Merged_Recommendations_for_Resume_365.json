@@ -1,0 +1,66 @@
+{
+    "target_id": "365",
+    "recommendations": [
+        {
+            "recommender_id": "588",
+            "recommendation": {
+                "resume_file": "365.json",
+                "recommendation_file": "Recommendation_From_ID_588.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected. Unrelated information about a Customer Service Representative dilutes the relevance of the recommendation.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "Operational Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some skills and experiences from the resume, but introduces unrelated information and lacks specific examples or evidence."
+                }
+            }
+        },
+        {
+            "recommender_id": "895",
+            "recommendation": {
+                "resume_file": "365.json",
+                "recommendation_file": "Recommendation_From_ID_895.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and lack of specific examples or metrics to support claims.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Operational Management",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but lacks specific examples or metrics to support claims. The recommendation also mentions the candidate's experience in patient advocacy, which is not mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "498",
+            "recommendation": {
+                "resume_file": "365.json",
+                "recommendation_file": "Recommendation_From_ID_498.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Operational Management",
+                        "Strategic Planning",
+                        "Financial Analysis",
+                        "Business Development",
+                        "Process Improvement"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational leadership, budgeting, and strategic planning abilities. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        }
+    ]
+}

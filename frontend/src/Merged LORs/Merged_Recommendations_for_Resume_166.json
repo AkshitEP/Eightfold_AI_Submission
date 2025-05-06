@@ -1,0 +1,25 @@
+{
+    "target_id": "166",
+    "recommendations": [
+        {
+            "recommender_id": "296",
+            "recommendation": {
+                "resume_file": "166.json",
+                "recommendation_file": "Recommendation_From_ID_296.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's own experience and qualifications are not explicitly stated.",
+                    "verified_skills": [
+                        "Medical Billing",
+                        "Data Entry",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in medical billing, communication, and problem-solving, but the recommender's own experience and qualifications are not explicitly stated, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

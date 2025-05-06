@@ -1,0 +1,68 @@
+{
+    "target_id": "437",
+    "recommendations": [
+        {
+            "recommender_id": "689",
+            "recommendation": {
+                "resume_file": "437.json",
+                "recommendation_file": "Recommendation_From_ID_689.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Budgeting",
+                        "Data Analysis",
+                        "Process Improvement",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Operations Management",
+                        "Cost Management"
+                    ],
+                    "recommendation_source": "Peer/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning, budgeting, and process improvement skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "692",
+            "recommendation": {
+                "resume_file": "437.json",
+                "recommendation_file": "Recommendation_From_ID_692.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Planning",
+                        "Budgeting",
+                        "Data Analysis",
+                        "Process Improvement",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Operations Management",
+                        "Cost Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "445",
+            "recommendation": {
+                "resume_file": "437.json",
+                "recommendation_file": "Recommendation_From_ID_445.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is unrelated to the candidate's skills, experience, or roles mentioned in the resume, raising concerns about its authenticity.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's background, and its content is unrelated to the candidate's skills and experience."
+                }
+            }
+        }
+    ]
+}

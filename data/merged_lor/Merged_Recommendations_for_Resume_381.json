@@ -1,0 +1,207 @@
+{
+    "target_id": "381",
+    "recommendations": [
+        {
+            "recommender_id": "259",
+            "recommendation": {
+                "resume_file": "381.json",
+                "recommendation_file": "Recommendation_From_ID_259.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "Account Analysis",
+                        "Variance Analysis",
+                        "Cost Containment",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and software proficiency. However, it seems to be recommending two different individuals, which may indicate a mistake or miscommunication."
+                }
+            }
+        },
+        {
+            "recommender_id": "301",
+            "recommendation": {
+                "resume_file": "381.json",
+                "recommendation_file": "Recommendation_From_ID_301.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no significant red flags.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "Account Analysis",
+                        "Variance Analysis",
+                        "Cost Containment",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies. The recommendation verifies many of the skills mentioned in the resume, but does not specifically mention some of the skills, such as Great Plains Dynamics, BI360, and Keane Care."
+                }
+            }
+        },
+        {
+            "recommender_id": "950",
+            "recommendation": {
+                "resume_file": "381.json",
+                "recommendation_file": "Recommendation_From_ID_950.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Account Analysis",
+                        "Variance Analysis",
+                        "Cost Containment",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership qualities. The recommender's own experience and expertise in accounting add credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "857",
+            "recommendation": {
+                "resume_file": "381.json",
+                "recommendation_file": "Recommendation_From_ID_857.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "Account Analysis",
+                        "Variance Analysis",
+                        "Cost Containment",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and work ethic. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "773",
+            "recommendation": {
+                "resume_file": "381.json",
+                "recommendation_file": "Recommendation_From_ID_773.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Microsoft Excel",
+                        "Account Analysis",
+                        "Variance Analysis",
+                        "Cost Containment",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, attention to detail, and leadership qualities."
+                }
+            }
+        },
+        {
+            "recommender_id": "152",
+            "recommendation": {
+                "resume_file": "381.json",
+                "recommendation_file": "Recommendation_From_ID_152.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Reconciliation",
+                        "Account Analysis",
+                        "Variance Analysis",
+                        "Cost Containment",
+                        "Cash Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements and strengths in financial management, problem-solving, and leadership."
+                }
+            }
+        },
+        {
+            "recommender_id": "430",
+            "recommendation": {
+                "resume_file": "381.json",
+                "recommendation_file": "Recommendation_From_ID_430.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Account Analysis",
+                        "Variance Analysis",
+                        "Cost Containment",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "889",
+            "recommendation": {
+                "resume_file": "381.json",
+                "recommendation_file": "Recommendation_From_ID_889.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Financial Reconciliation",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Account Analysis",
+                        "Variance Analysis",
+                        "Cost Containment",
+                        "Cash Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and accomplishments in the energy sector."
+                }
+            }
+        }
+    ]
+}

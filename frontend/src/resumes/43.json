@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR COORDINATOR",
+                "work_description": "Improved how the organization manages its volunteer information and approvals by learning, implementing, and training others on a new computer program. Successfully overseen the volunteer approval process which includes background screening. Designed new employee packages and sent them via mail and e-mail. Resolved personnel issues regarding human resources matters needing clarification, submissions and corrections.",
+                "company_level": "Mid-level",
+                "start_date": "12/2011",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "HUMAN RESOURCES/OFFICE MANAGER",
+                "work_description": "Conducted benefits administration for benefit-eligible employees. Worked with senior-level management to create fair and consistent HR policies and procedures. Developed an employee handbook, including content and layout. Guided the development and management of HR operations and processes for the organization.",
+                "company_level": "Mid-level",
+                "start_date": "06/2003",
+                "end_date": "04/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Regent University",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Organizational Leadership",
+                "level": "Master's"
+            },
+            {
+                "university": "Colorado State University",
+                "start_date": "01/1991",
+                "end_date": "12/1991",
+                "domain": "Apparel and Merchandising",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resources",
+                "level": 5,
+                "explanation": "Over a decade of experience in HR roles, including benefits administration, policy creation, and employee handbook development, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Successfully trained others on a new computer program, overseen volunteer approval processes, and guided the development of HR operations, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 4,
+                "explanation": "Resolved personnel issues and guided the development of HR policies and procedures, indicating a strong proficiency in employee relations."
+            },
+            {
+                "name": "Benefits Administration",
+                "level": 4,
+                "explanation": "Conducted benefits administration for benefit-eligible employees, suggesting a strong proficiency in this area."
+            },
+            {
+                "name": "Policy Development",
+                "level": 4,
+                "explanation": "Worked with senior-level management to create fair and consistent HR policies and procedures, indicating a strong proficiency in policy development."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Trained others on a new computer program, showing a solid working proficiency in training and development."
+            },
+            {
+                "name": "Organizational Leadership",
+                "level": 3,
+                "explanation": "Earned a Master's degree in Organizational Leadership, suggesting a solid working proficiency in this area."
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "target_id": "489",
+    "recommendations": [
+        {
+            "recommender_id": "503",
+            "recommendation": {
+                "resume_file": "489.json",
+                "recommendation_file": "Recommendation_From_ID_503.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Payroll Management",
+                        "Employee Relations",
+                        "Compliance",
+                        "Recruitment",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management capabilities, employee engagement, and retention strategies."
+                }
+            }
+        },
+        {
+            "recommender_id": "571",
+            "recommendation": {
+                "resume_file": "489.json",
+                "recommendation_file": "Recommendation_From_ID_571.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Human Resources",
+                        "Payroll Management",
+                        "Employee Relations",
+                        "Compliance",
+                        "Leadership",
+                        "Recruitment"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management expertise and collaboration with the recommender."
+                }
+            }
+        }
+    ]
+}

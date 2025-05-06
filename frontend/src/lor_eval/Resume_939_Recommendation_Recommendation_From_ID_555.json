@@ -1,0 +1,15 @@
+{
+    "resume_file": "939.json",
+    "recommendation_file": "Recommendation_From_ID_555.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to be more focused on healthcare management rather than the candidate's experience in IT and INFOSEC.",
+        "verified_skills": [
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not fully align with the candidate's skills and experience, particularly in the areas of Network Security, Information Security, and Project Management. The recommendation seems to be more focused on the candidate's experience in healthcare management, which is not mentioned in the resume."
+    }
+}

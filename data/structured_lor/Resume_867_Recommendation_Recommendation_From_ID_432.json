@@ -1,0 +1,17 @@
+{
+    "resume_file": "867.json",
+    "recommendation_file": "Recommendation_From_ID_432.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. The recommender's background in military and law enforcement is unrelated to education, which raises some concerns about their expertise in evaluating the candidate's teaching abilities.",
+        "verified_skills": [
+            "Teaching",
+            "Leadership",
+            "Communication",
+            "Relationship Building"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's teaching abilities, leadership skills, and communication skills, which align with their job history and skills. However, the recommender's background and the overly flattering language raise some concerns about the credibility of the recommendation."
+    }
+}

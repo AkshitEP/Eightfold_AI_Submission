@@ -1,0 +1,18 @@
+{
+    "resume_file": "946.json",
+    "recommendation_file": "Recommendation_From_ID_330.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their communication, problem-solving, and leadership abilities. However, the source of the recommendation is unclear, and the recommender's background in healthcare may not be directly relevant to the candidate's retail experience."
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Management Consultant/Sales Executive",
+                "work_description": "Holistic solutions for client through identifying new products/services ranging from banking solutions to alternative investment opportunities. Established relationships with key decision-makers within customer's organization to promote growth and retention. Capitalized on industry and marketplace trends to strategize solutions and enhance business operations.",
+                "company_level": "Mid-level",
+                "start_date": "06/2017",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Senior Small Business Analyst/Consultant Manager",
+                "work_description": "Conducted thorough reviews of small business operations of various vendors to devise and deploy improvement strategies, facilitating consistent returns. Created over $10 Million in new business accounts, selling AMEX brand to small businesses.",
+                "company_level": "Mid-level",
+                "start_date": "06/2015",
+                "end_date": "05/2017"
+            },
+            {
+                "role_name": "Executive Director of Operations",
+                "work_description": "Set and administered annual operating budget. Scouted franchise locations, negotiated leases, oversaw facility build out and equipment orders and installations. Trained, coached and mentored staff to ensure smooth adoption all programs.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2011",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Startup Founder",
+                "work_description": "Founded Brooklyn based fitness start-up company focused on high level, elite clientele. Built referral pipeline by remaining active with community, establishing referral networks and resources.",
+                "company_level": "Startup",
+                "start_date": "11/2004",
+                "end_date": "02/2011"
+            },
+            {
+                "role_name": "Financial Services Representative/Analyst",
+                "work_description": "Managed portfolio of affluent clients with high net worth. Retail client banking, investment advisement, estate planning and basic tax advisory work.",
+                "company_level": "Mid-level",
+                "start_date": "07/1999",
+                "end_date": "02/2004"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northern Arizona University",
+                "start_date": "01/2019",
+                "end_date": "12/2019",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Business Development",
+                "level": 5,
+                "explanation": "Has extensive experience in identifying new business opportunities, establishing relationships with key decision-makers, and strategizing solutions to enhance business operations, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales",
+                "level": 5,
+                "explanation": "Has a proven track record of creating new business accounts, selling AMEX brand to small businesses, and managing a portfolio of affluent clients, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has experience in leading teams, training, coaching, and mentoring staff, and has held executive-level positions, indicating expert-level mastery."
+            },
+            {
+                "name": "Operations Management",
+                "level": 5,
+                "explanation": "Has experience in setting and administering annual operating budgets, overseeing facility build out and equipment orders, and ensuring smooth adoption of programs, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Has experience in managing portfolios of affluent clients, providing investment advisement, and performing basic tax advisory work, suggesting strong proficiency."
+            },
+            {
+                "name": "Entrepreneurship",
+                "level": 4,
+                "explanation": "Has experience in founding and running a startup company, suggesting strong proficiency."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 4,
+                "explanation": "Has experience in identifying industry and marketplace trends to strategize solutions and enhance business operations, suggesting strong proficiency."
+            },
+            {
+                "name": "Account Management",
+                "level": 4,
+                "explanation": "Has experience in managing a portfolio of affluent clients, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has experience in overseeing facility build out and equipment orders, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Has experience in setting and administering annual operating budgets, suggesting a solid working proficiency."
+            }
+        ]
+    }
+}

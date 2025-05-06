@@ -1,0 +1,17 @@
+{
+    "resume_file": "182.json",
+    "recommendation_file": "Recommendation_From_ID_728.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be comparing two individuals, which is unusual. However, the description of the second individual aligns well with the resume.",
+        "verified_skills": [
+            "Network Communications",
+            "IT Infrastructure",
+            "Project Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience and skills in IT infrastructure development, project management, and leadership. However, it is unclear why the recommendation is comparing two individuals."
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Territory HR Manager",
+                "work_description": "Serves as an advisor for managers on issues related to all discipline. Assists in analyzing barriers to performance and devises a strategy to meet challenges regarding performance expectations. Counsels staff and management to consistently and efficiently apply policies to people-based issues in compliance with state/federal law.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Store Manager",
+                "work_description": "Manage a team of 4 Executives, 4 Assistants, 20 Supervisors, and 120 department Associates. Create an effective work environment by developing a common vision, setting clear objectives, expecting teamwork, recognizing outstanding performance and maintaining open communications.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2000",
+                "end_date": "10/2010"
+            },
+            {
+                "role_name": "District Business Planning Manager",
+                "work_description": "Manage all aspects of inventory control for 2 Divisions and 16 Stores in 3 states. Develop merchandise assortment plans to meet market by market needs and maximize sales and gross margins.",
+                "company_level": "Large Corporation",
+                "start_date": "04/1989",
+                "end_date": "10/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "Metropolitan State College of Denver",
+                "start_date": "01/1995",
+                "end_date": "12/1995",
+                "domain": "Business Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has extensive experience in leadership roles, including managing large teams and developing strategies to meet performance expectations, indicating expert-level mastery."
+            },
+            {
+                "name": "Team Management",
+                "level": 5,
+                "explanation": "Has successfully managed teams of varying sizes, including a team of 4 Executives, 4 Assistants, 20 Supervisors, and 120 department Associates, showing expert-level proficiency."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 4,
+                "explanation": "Has managed all aspects of inventory control for 2 Divisions and 16 Stores in 3 states, suggesting strong proficiency in inventory management."
+            },
+            {
+                "name": "Business Planning",
+                "level": 4,
+                "explanation": "Has developed merchandise assortment plans to meet market needs and maximize sales and gross margins, indicating strong proficiency in business planning."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has maintained open communications with teams and management, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Performance Management",
+                "level": 4,
+                "explanation": "Has analyzed barriers to performance and devised strategies to meet challenges regarding performance expectations, indicating strong proficiency in performance management."
+            },
+            {
+                "name": "Compliance",
+                "level": 3,
+                "explanation": "Has ensured compliance with state/federal law in people-based issues, showing a solid working proficiency in compliance."
+            },
+            {
+                "name": "Human Resources",
+                "level": 3,
+                "explanation": "Has served as an advisor for managers on issues related to discipline and counseled staff and management on people-based issues, indicating a solid working proficiency in human resources."
+            }
+        ]
+    }
+}

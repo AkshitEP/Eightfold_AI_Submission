@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Provide general administrative support such as preparing correspondence, forms, and reports. Scheduling and coordinating staff meetings, maintaining meeting minutes and notes. Generate confidential ad hoc statistical reporting data and documentation regarding turnover, new hires, birthdays, anniversaries, benefits, and other relevant HR metrics.",
+                "company_level": "Mid-level",
+                "start_date": "04/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Processed background checks and drug screens on potential candidates. Schedule interviews for Managers and candidates. Meet and greet potential candidates that come for onsite interviews. Run Bi-weekly reports for the VP of Human Resources.",
+                "company_level": "Mid-level",
+                "start_date": "09/2012",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "HR Staffing Coordinator",
+                "work_description": "Processed background checks and drug screens on potential candidates. Schedule interviews for Managers and candidates. Meet and greet potential candidates that come for onsite interviews. Run Bi-weekly reports for the VP of Human Resources.",
+                "company_level": "Mid-level",
+                "start_date": "08/2008",
+                "end_date": "04/2015"
+            },
+            {
+                "role_name": "Executive Technical Associate",
+                "work_description": "Assist Directors, Executives, and Senior Managers with scheduling meetings and calendar maintenance, monitoring voicemail and email, typing correspondence, and expense reports.",
+                "company_level": "Mid-level",
+                "start_date": "08/2008",
+                "end_date": "04/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Benedictine University",
+                "start_date": "05/2016",
+                "end_date": "05/2016",
+                "domain": "Business Administration",
+                "level": "MBA"
+            },
+            {
+                "university": "Benedictine University",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Business Administration",
+                "level": "Bachelor of Arts"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "HR Administration",
+                "level": 5,
+                "explanation": "Over a decade of experience in HR roles, handling various administrative tasks, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment",
+                "level": 4,
+                "explanation": "Extensive experience in processing background checks, scheduling interviews, and meeting with candidates, showing strong proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Generated statistical reporting data and documentation regarding HR metrics, indicating a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Handled correspondence, forms, and reports, and maintained meeting minutes and notes, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Coordinated staff meetings, maintained calendars, and managed voicemail and email, indicating strong proficiency in time management."
+            },
+            {
+                "name": "Leadership Support",
+                "level": 3,
+                "explanation": "Assisted Directors, Executives, and Senior Managers with various tasks, showing a solid working proficiency in leadership support."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Likely used extensively for generating reports, maintaining calendars, and typing correspondence, suggesting strong proficiency."
+            }
+        ]
+    }
+}

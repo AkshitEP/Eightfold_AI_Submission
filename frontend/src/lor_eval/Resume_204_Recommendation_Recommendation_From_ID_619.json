@@ -1,0 +1,18 @@
+{
+    "resume_file": "204.json",
+    "recommendation_file": "Recommendation_From_ID_619.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the writer's relationship to the candidate is unclear, and the tone is overly positive. However, the language is formal, and the claims are generally supported by the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Team Management",
+            "Communication",
+            "Problem-Solving",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in leadership, team management, and communication. However, the writer's relationship to the candidate is unclear, and the tone is overly positive, which may indicate some bias."
+    }
+}

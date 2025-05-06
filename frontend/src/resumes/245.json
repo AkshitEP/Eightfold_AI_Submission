@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Employee Relations Consultant",
+                "work_description": "Responsible for managing the employee relations functions for multiple business lines and business groups undergoing significant change. Responsible for designing and executing proactive employee relations plans and programs in accordance with internal policy and labor-law requirements with an acute focus on risk management strategies.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Employee Relations Consultant",
+                "work_description": "Support the company's value of People as a Competitive Advantage by supporting leaders to attract, develop, retain and motivate team members; provide tools and resources needed to succeed in their work; and influence a culture of responsibility and accountability for their businesses and functions.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2011",
+                "end_date": "06/2013"
+            },
+            {
+                "role_name": "Equal Employment Opportunity Consultant, Corporate Employee Relations",
+                "work_description": "Developed, implemented and monitored company's affirmative action programs to ensure compliance with government regulations and consult with managers and HR professionals regarding AA/EEO policies and practices.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2001",
+                "end_date": "10/2005"
+            },
+            {
+                "role_name": "Corporate Diversity and Community Outreach Manager",
+                "work_description": "Responsible for creating and implementing innovative employment strategies to establish a diverse candidate pool responsive to different business staffing needs.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2000",
+                "end_date": "08/2001"
+            },
+            {
+                "role_name": "Recruiting Manager",
+                "work_description": "Managed a team responsible for developing and implementing staffing programs for the Manager and Supervisor Training Program in CBG.",
+                "company_level": "Large Corporation",
+                "start_date": "12/1999",
+                "end_date": "04/2000"
+            },
+            {
+                "role_name": "Education Specialist",
+                "work_description": "Partnered with teaching and support staff to provide proactive programs focused on developing academic and social skills for college students with diverse backgrounds.",
+                "company_level": "Mid-level",
+                "start_date": "01/1996",
+                "end_date": "01/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Nebraska",
+                "start_date": "01/1996",
+                "end_date": "12/1998",
+                "domain": "Counseling, Higher Education",
+                "level": "Master's"
+            },
+            {
+                "university": "",
+                "start_date": "",
+                "end_date": "",
+                "domain": "History",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Employee Relations",
+                "level": 5,
+                "explanation": "Has extensive experience in managing employee relations functions, designing and executing proactive plans and programs, and providing tools and resources to support leaders and team members, indicating expert-level mastery."
+            },
+            {
+                "name": "Risk Management",
+                "level": 4,
+                "explanation": "Has experience with risk management strategies in the context of employee relations, showing strong proficiency."
+            },
+            {
+                "name": "Labor Law Compliance",
+                "level": 4,
+                "explanation": "Has experience with labor-law requirements and ensuring compliance, suggesting strong proficiency."
+            },
+            {
+                "name": "Diversity and Inclusion",
+                "level": 4,
+                "explanation": "Has experience with affirmative action programs, diversity and community outreach, and creating innovative employment strategies, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience leading teams and providing guidance to leaders and team members, indicating strong proficiency."
+            },
+            {
+                "name": "Recruitment",
+                "level": 3,
+                "explanation": "Has experience with staffing programs and managing a recruiting team, showing solid working proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 3,
+                "explanation": "Has experience with developing and implementing training programs, showing solid working proficiency."
+            },
+            {
+                "name": "Counseling",
+                "level": 2,
+                "explanation": "Has experience as an Education Specialist, but the role seems more focused on education and academic support rather than counseling, suggesting some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "target_id": "5",
+    "recommendations": [
+        {
+            "recommender_id": "932",
+            "recommendation": {
+                "resume_file": "5.json",
+                "recommendation_file": "Recommendation_From_ID_932.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication",
+                        "Performance Management",
+                        "Talent Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and communication abilities. The source of the recommendation is a Patient Experience Manager, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "338",
+            "recommendation": {
+                "resume_file": "5.json",
+                "recommendation_file": "Recommendation_From_ID_338.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation seems to focus more on sales and customer service skills, which are not the primary focus of the candidate's resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and customer service skills, but it seems to be more focused on sales and customer service experience, which is not the primary focus of the candidate's resume. The recommendation also mentions the candidate's experience in managing sales teams and meeting sales objectives, which is not directly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "417",
+            "recommendation": {
+                "resume_file": "5.json",
+                "recommendation_file": "Recommendation_From_ID_417.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. Some minor inconsistencies in job roles and industries are present.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Performance Management",
+                        "Training and Development",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and problem-solving skills, which align with their experience in HR roles. However, the recommendation mentions working in the healthcare sector, which is not explicitly mentioned in the resume. Additionally, the recommendation does not provide specific examples from the candidate's resume, which reduces its relevance score."
+                }
+            }
+        },
+        {
+            "recommender_id": "938",
+            "recommendation": {
+                "resume_file": "5.json",
+                "recommendation_file": "Recommendation_From_ID_938.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language is overly positive and lacks specific examples from the candidate's resume. The mention of the candidate's military background is not supported by the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Coaching",
+                        "Communication",
+                        "Problem-Solving",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but the language is overly positive and lacks specific examples from the candidate's resume. The mention of the candidate's military background is not supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "16",
+            "recommendation": {
+                "resume_id": 5,
+                "recommendation_file": "Recommendation_From_ID_16.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background as a Phlebotomist and Preceptor seems unrelated to the candidate's experience in HR and operations management. However, the recommendation highlights the candidate's skills and expertise in leadership, performance management, and talent assessments.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Performance Management",
+                        "Talent Management",
+                        "Coaching"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in HR and operations management, but the recommender's background seems unrelated. The recommendation highlights the candidate's expertise in leadership, performance management, and talent assessments, but lacks specific examples from the candidate's work history."
+                }
+            }
+        }
+    ]
+}

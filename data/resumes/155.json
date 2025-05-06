@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sale Consultant",
+                "work_description": "Answered customers' questions and addressed problems and complaints in person and through the phone. Helped customers select products that best fit their personal needs, and processed an average of 80 transactions each day in a timely manner. Maintained visually appealing and effective displays for the entire store. Educated customers on product and service offerings. Completed purchases with cash, credit and debit payment methods. Trained all new sales employees on effective techniques. Organized items in visually appealing manner. And Inventory checks throughout the day.",
+                "company_level": "Mid-level",
+                "start_date": "03/2015",
+                "end_date": "11/2015"
+            },
+            {
+                "role_name": "Cashier",
+                "work_description": "Assisted customers with their needs, handled money throughout the day and gave change back. Completed purchases with cash, credit and debit payment methods. And Organized items in visually appealing manner.",
+                "company_level": "Mid-level",
+                "start_date": "10/2014",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Front clerk",
+                "work_description": "Accepted payment from customers and made change as necessary. Cleaned up spilled food, drink and broken dishes, and removed empty bottles and trash. Take cake orders over the phone.",
+                "company_level": "Mid-level",
+                "start_date": "02/2014",
+                "end_date": "06/2014"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northwood High School",
+                "start_date": "01/2010",
+                "end_date": "12/2014",
+                "domain": "History",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience handling customer inquiries, addressing problems, and providing solutions in various retail roles, showing strong proficiency."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Has experience helping customers select products, processing transactions, and maintaining store displays, indicating a solid working proficiency."
+            },
+            {
+                "name": "Cash Handling",
+                "level": 4,
+                "explanation": "Has handled cash, credit, and debit transactions in multiple roles, suggesting strong proficiency in cash handling."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 2,
+                "explanation": "Has some experience with inventory checks and organizing items, but the scope of responsibility is limited, indicating some practical experience."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has trained new sales employees on effective techniques, but the extent of leadership experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has extensive experience communicating with customers, colleagues, and management in various retail roles, showing strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience processing a high volume of transactions in a timely manner, indicating a solid working proficiency in time management."
+            }
+        ]
+    }
+}

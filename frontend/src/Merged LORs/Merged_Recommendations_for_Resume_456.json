@@ -1,0 +1,27 @@
+{
+    "target_id": "456",
+    "recommendations": [
+        {
+            "recommender_id": "19",
+            "recommendation": {
+                "resume_file": "456.json",
+                "recommendation_file": "Recommendation_From_ID_19.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's relationship with the candidate is unclear, and the language used is somewhat informal.",
+                    "verified_skills": [
+                        "Investment Banking",
+                        "Project Finance",
+                        "Corporate Finance",
+                        "Financial Analysis",
+                        "Negotiation",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in investment banking, project finance, and corporate finance, which aligns with their skills and experience. However, the recommender's relationship with the candidate is unclear, and some claims seem exaggerated or unsupported."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "577.json",
+    "recommendation_file": "Recommendation_From_ID_769.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the claim of a 'striking 85% closing rate in sales' seems statistically improbable and requires further verification.",
+        "verified_skills": [
+            "Sales",
+            "Finance",
+            "Leadership",
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their finance and sales expertise. However, the claim of an 85% closing rate in sales seems unrealistic and requires further verification."
+    }
+}

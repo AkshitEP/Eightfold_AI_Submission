@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sales & Customer Service Rep",
+                "work_description": "Manage high-volume of workload in a sales and customer service environment assisting on average 550 customers per week to increase brand loyalty and awareness as well revenue. Analyze customer needs to recommend products and provide customer service to drive sales.",
+                "company_level": "Mid-level",
+                "start_date": "09/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Co-ordinator",
+                "work_description": "Created social media initiatives for new employee search strategies. Drafted department-specific employee announcements. Ran queries and reports through the ADP system. Partnered with the IT department to create a streamlined onboarding process for new hires.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "HR Generalist",
+                "work_description": "Provided support to staff regarding company policies, procedures, and practices. Compiled and maintained records related to employees, such as personal data, compensation, benefits, tax data, attendance, and performance reviews or evaluations.",
+                "company_level": "Mid-level",
+                "start_date": "08/2003",
+                "end_date": "07/2007"
+            },
+            {
+                "role_name": "Office Manager",
+                "work_description": "Administration & Organization Provided administrative and business support for the firm, CEO and executive team members. Coordinated for top executives conference calls, board meetings, travel and special events.",
+                "company_level": "Mid-level",
+                "start_date": "08/2007",
+                "end_date": "09/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Bowie State University",
+                "start_date": "01/2010",
+                "end_date": "05/2012",
+                "domain": "Human Resource Development",
+                "level": "Master's"
+            },
+            {
+                "university": "Central University College",
+                "start_date": "01/1999",
+                "end_date": "07/2003",
+                "domain": "Human Resources Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience in a high-volume sales and customer service environment, assisting a large number of customers per week, indicating strong proficiency."
+            },
+            {
+                "name": "Sales",
+                "level": 4,
+                "explanation": "Has experience in a sales environment, analyzing customer needs and recommending products to drive sales, suggesting strong proficiency."
+            },
+            {
+                "name": "Human Resources",
+                "level": 5,
+                "explanation": "Has a Master's degree in Human Resource Development and extensive experience as an HR Generalist, providing support to staff and maintaining employee records, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment",
+                "level": 3,
+                "explanation": "Created social media initiatives for new employee search strategies, showing a solid working proficiency in recruitment."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Ran queries and reports through the ADP system, suggesting some practical experience with data analysis."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Partnered with the IT department to create a streamlined onboarding process for new hires, suggesting some practical experience with project management."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Provided administrative and business support for the firm, CEO and executive team members, suggesting some practical experience with leadership."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience in communicating with a large number of customers per week, and drafting department-specific employee announcements, suggesting strong proficiency."
+            },
+            {
+                "name": "Organization",
+                "level": 4,
+                "explanation": "Provided administrative and business support for the firm, CEO and executive team members, and coordinated for top executives conference calls, board meetings, travel and special events, suggesting strong proficiency."
+            }
+        ]
+    }
+}

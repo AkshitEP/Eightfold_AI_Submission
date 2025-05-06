@@ -1,0 +1,17 @@
+{
+    "resume_file": "293.json",
+    "recommendation_file": "Recommendation_From_ID_16.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a phlebotomist preceptor seems unrelated to the candidate's dance instruction experience. However, the recommendation provides specific examples of the candidate's teaching methods and leadership skills.",
+        "verified_skills": [
+            "Dance Instruction",
+            "Ballet",
+            "Leadership",
+            "Early Childhood Education"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and leadership skills. However, the recommender's profession seems unrelated to the candidate's dance instruction experience, which raises some concerns about the recommender's credibility."
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Mechanical Engineer",
+                "work_description": "Supervise in the Operation and Maintenance of 8 units of boilers, 7 swimming pools, 12 deep wells and 2 incinerators. Changed the two sand filters and installed new chlorine dosing system on the New infantry swimming pool ( size of pool 82 feet by 82 feet) . Installed new deep well pumps and conducted the testing and commissioning. Monitor the work of the waste water treatment plant contractor in the installation of pumps and machines and also in the testing and commissioning. Supervise in the installation of swimming pool pumps, heaters, surface skimmers and in changing the inlet diffusers. Supervise in the installation of boilers and water softener for a small laundry in one of our satellite camp.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2006",
+                "end_date": "03/2012"
+            },
+            {
+                "role_name": "Mechanical Engineer / Section Head",
+                "work_description": "Over all in-charge in the operation and maintenance of 6 water treatment plants, 2 waste water treatment plants, 8 sewage lifting stations, 15 deep well pumping stations and 2 swimming pools. Supervise in the excavation and installation of sewer line from the workers accommodation up to the waste water treatment plant with two lifting stations. Monitor and supervise in the excavation and installation of uPVC pipes for potable water and irrigation water in the officers housing Villas. Replacing the old corroded and weak pipes. Review all the proposals of the different contractor for the new 2 water treatment plants and submit recommendations to the officer in-charge.Check our daily, weekly and monthly reports that includes also the water analysis of the raw and product waters of the waste water treatment plants and the water treatment plants. Inspect the work of the contractor that digs and bore new wells and also in the installation, testing and commissioning of deep well pumps.",
+                "company_level": "Large Corporation",
+                "start_date": "11/1995",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "FEATI UNIVERSITY",
+                "start_date": "01/1973",
+                "end_date": "12/1973",
+                "domain": "Mechanical Engineering",
+                "level": "Graduate"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Marine Engineering",
+                "description": "Modified the linkage connection by using the left side terminal shaft of the governor to fix the broken right terminal shaft of the woodward governor that connects the governor to the injection pumps.",
+                "skills": [
+                    "Trouble shooting",
+                    "Electro/Mechanical Skill"
+                ]
+            },
+            {
+                "domain": "Power Plant Maintenance",
+                "description": "Replaced the power turbine blades of a Gas Turbine Engine, a procedure that had never been done before.",
+                "skills": [
+                    "Trouble shooting",
+                    "Electro/Mechanical Skill"
+                ]
+            },
+            {
+                "domain": "Water Treatment",
+                "description": "Converted the control of a Reverse Osmosis plant by installing relays, magnetic contactors and timers and rewiring it to resume operation after a power outage.",
+                "skills": [
+                    "Trouble shooting",
+                    "Electro/Mechanical Skill",
+                    "Design of controls for pumps and motors"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Mechanical Engineering",
+                "level": 5,
+                "explanation": "Has extensive experience in mechanical engineering, including operation and maintenance of various systems, installation, and commissioning, indicating expert-level mastery."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has experience in supervising and overseeing various projects, including installation, testing, and commissioning of systems, suggesting strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Has experience in troubleshooting and resolving issues in various systems, including mechanical and electro-mechanical systems, indicating strong proficiency."
+            },
+            {
+                "name": "Electro/Mechanical Skill",
+                "level": 4,
+                "explanation": "Has experience in working with electro-mechanical systems, including installation, testing, and commissioning, suggesting strong proficiency."
+            },
+            {
+                "name": "Water Treatment",
+                "level": 4,
+                "explanation": "Has experience in operation and maintenance of water treatment plants, including installation, testing, and commissioning, indicating strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience in supervising and leading teams, including section heads, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Design of controls for pumps and motors",
+                "level": 3,
+                "explanation": "Has experience in designing controls for pumps and motors, including installation and commissioning, suggesting solid working proficiency."
+            },
+            {
+                "name": "Marine Engineering",
+                "level": 3,
+                "explanation": "Has experience in marine engineering, including modification of systems, indicating solid working proficiency."
+            },
+            {
+                "name": "Power Plant Maintenance",
+                "level": 3,
+                "explanation": "Has experience in power plant maintenance, including replacement of turbine blades, indicating solid working proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "target_id": "918",
+    "recommendations": [
+        {
+            "recommender_id": "620",
+            "recommendation": {
+                "resume_file": "918.json",
+                "recommendation_file": "Recommendation_From_ID_620.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Database",
+                        "Planning and Strategy",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommender is a peer or colleague of the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "979",
+            "recommendation": {
+                "resume_file": "918.json",
+                "recommendation_file": "Recommendation_From_ID_979.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation lacks specific examples or evidence from the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is barely relevant to the resume, with little or no connection between the skills, experience, or roles mentioned. The recommendation seems to be genuine, but there are some inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "541",
+            "recommendation": {
+                "resume_file": "918.json",
+                "recommendation_file": "Recommendation_From_ID_541.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but there are some minor inconsistencies and exaggerated claims. The recommender mentions the candidate's experience as a Trip Coordinator, which is not mentioned in the resume. Additionally, the recommender's role and relationship to the candidate are unclear.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Quality Assurance",
+                        "Leadership Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in project management, quality assurance, and leadership development. However, there are some minor inconsistencies and exaggerated claims that raise concerns about the recommender's credibility."
+                }
+            }
+        }
+    ]
+}

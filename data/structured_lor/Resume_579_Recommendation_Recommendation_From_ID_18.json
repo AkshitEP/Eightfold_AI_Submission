@@ -1,0 +1,19 @@
+{
+    "resume_file": "579.json",
+    "recommendation_file": "Recommendation_From_ID_18.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Budgeting",
+            "Financial Management",
+            "Financial Analysis",
+            "Project Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities. However, it does not directly reference the candidate's real estate experience or skills."
+    }
+}

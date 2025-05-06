@@ -1,0 +1,82 @@
+{
+    "target_id": "129",
+    "recommendations": [
+        {
+            "recommender_id": "703",
+            "recommendation": {
+                "resume_file": "129.json",
+                "recommendation_file": "Recommendation_From_ID_703.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounts Payable",
+                        "Financial Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "689",
+            "recommendation": {
+                "resume_file": "129.json",
+                "recommendation_file": "Recommendation_From_ID_689.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's background as a Wildlife Conservationist seems unrelated to the candidate's finance experience, raising some concerns about the authenticity of the recommendation. However, the language is formal and the claims are generally supported by the resume.",
+                    "verified_skills": [
+                        "Accounts Payable",
+                        "General Ledger Reconciliation",
+                        "Financial Analysis",
+                        "Journal Entries",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's finance expertise and problem-solving skills, but the recommender's background and lack of direct experience in finance raises some concerns about the recommendation's authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "445",
+            "recommendation": {
+                "resume_file": "129.json",
+                "recommendation_file": "Recommendation_From_ID_445.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written for a different person, with the majority of the content unrelated to the candidate's skills and experience. However, the last paragraph attempts to connect the candidate's skills to a broader context, but it seems forced and lacks concrete examples.",
+                    "verified_skills": [
+                        "Accounts Payable",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be written for a different person, with the majority of the content unrelated to the candidate's skills and experience. However, the last paragraph attempts to connect the candidate's skills to a broader context, but it seems forced and lacks concrete examples. The recommendation does not provide specific examples of the candidate's skills and experience, making it seem less genuine."
+                }
+            }
+        },
+        {
+            "recommender_id": "887",
+            "recommendation": {
+                "resume_file": "129.json",
+                "recommendation_file": "Recommendation_From_ID_887.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation contains unrealistic claims and exaggerated language, such as 'powerful synergy', 'unparalleled commitment', and 'invaluable assets'. Additionally, the recommendation mentions unrelated skills and experiences, such as 'logistics and aeronautical finance' and 'healthcare records', which are not present in the resume.",
+                    "verified_skills": [
+                        "Accounts Payable",
+                        "Financial Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks specific examples and details about the candidate's skills and experiences. It also contains language that seems overly promotional and exaggerated, which raises concerns about its authenticity."
+                }
+            }
+        }
+    ]
+}

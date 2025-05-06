@@ -1,0 +1,24 @@
+{
+    "target_id": "806",
+    "recommendations": [
+        {
+            "recommender_id": "936",
+            "recommendation": {
+                "resume_file": "806.json",
+                "recommendation_file": "Recommendation_From_ID_936.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written for a different role (Concierge) and does not directly align with the candidate's skills and experience. However, the recommender mentions their own experience as a Quality Analyst and Senior Record Keeping Specialist, which is relevant to the candidate's job history.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Problem-Solving",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's exceptional organizational abilities, compassionate approach to client interactions, and problem-solving skills. However, it does not directly relate to the candidate's skills and experience as a Quality Analyst/Senior Record Keeping Specialist, Customer Service Representative, or Performing Arts Director."
+                }
+            }
+        }
+    ]
+}

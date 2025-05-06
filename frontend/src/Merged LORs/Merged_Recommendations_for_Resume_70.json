@@ -1,0 +1,113 @@
+{
+    "target_id": "70",
+    "recommendations": [
+        {
+            "recommender_id": "608",
+            "recommendation": {
+                "resume_id": 70,
+                "recommendation_file": "Recommendation_From_ID_608.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a Home Healthcare Technician seems unrelated to the candidate's experience and skills. However, the recommender's experience in patient care and interaction with nurses and families provides some credibility.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Patient Education",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in nursing, patient education, and communication, which aligns with their skills and experience. However, the recommender's profession and relationship to the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "512",
+            "recommendation": {
+                "resume_id": 70,
+                "recommendation_file": "Recommendation_From_ID_512.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The language is formal, but the recommendation seems to be praising two individuals instead of one.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Patient Education",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Documentation",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in healthcare delivery and nursing. However, the recommendation seems to be praising two individuals instead of one, which raises some concerns about its credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "587",
+            "recommendation": {
+                "resume_id": 70,
+                "recommendation_file": "Recommendation_From_ID_587.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Patient Education",
+                        "Leadership",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient education and support, training and development, and adaptability in various healthcare roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "641",
+            "recommendation": {
+                "resume_id": 70,
+                "recommendation_file": "Recommendation_From_ID_641.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Patient Education",
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Documentation",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their nursing expertise, patient communication, and leadership abilities. The source of the recommendation is a former Healthcare Recruiter, indicating a peer-level relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "519",
+            "recommendation": {
+                "resume_id": 70,
+                "recommendation_file": "Recommendation_From_ID_519.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Nursing",
+                        "Patient Education",
+                        "Leadership",
+                        "Communication",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in nursing, patient education, and leadership. The source of the recommendation appears to be a healthcare recruiter, but the exact relationship is unclear."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "target_id": "533",
+    "recommendations": [
+        {
+            "recommender_id": "749",
+            "recommendation": {
+                "resume_file": "533.json",
+                "recommendation_file": "Recommendation_From_ID_749.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's technical skills and experience. The language used is formal, but the claims made about the candidate's skills and abilities seem exaggerated and unsupported by the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align well with the candidate's skills and experience. The recommender mentions the candidate's exceptional skills and strong work ethic, but does not provide specific examples or details about their technical abilities. The recommender's background as an accountant also raises questions about their familiarity with the candidate's technical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "892",
+            "recommendation": {
+                "resume_file": "533.json",
+                "recommendation_file": "Recommendation_From_ID_892.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples or details about the candidate's technical skills and experience. The language is formal, but the recommendation focuses more on the candidate's interpersonal skills and production experience rather than their technical expertise.",
+                    "verified_skills": [
+                        "Problem-solving",
+                        "Teamwork",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's strengths in production roles and interpersonal skills but does not provide substantial evidence of their technical skills and experience. The recommendation seems to be based on the recommender's personal experience working with the candidate rather than a thorough evaluation of their technical abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "763",
+            "recommendation": {
+                "resume_file": "533.json",
+                "recommendation_file": "Recommendation_From_ID_763.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be exaggerated and lacks concrete examples or evidence from the resume. The recommender's background in accounting and SAP experience is not relevant to the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Help Desk Support",
+                        "Technical Training",
+                        "Troubleshooting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some technical skills, but the recommender's background and experience are not relevant to the candidate's skills and experience. The recommendation seems to be exaggerated and lacks concrete examples or evidence from the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "796",
+            "recommendation": {
+                "resume_file": "533.json",
+                "recommendation_file": "Recommendation_From_ID_796.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be from an unknown source, and the skills mentioned do not align well with the candidate's resume. The language is formal, but the claims seem exaggerated.",
+                    "verified_skills": [
+                        "Interpersonal Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align well with the candidate's skills and experience. The source of the recommendation is unclear, and the claims seem exaggerated. However, the candidate's interpersonal communication skills and leadership qualities are mentioned as strengths."
+                }
+            }
+        }
+    ]
+}

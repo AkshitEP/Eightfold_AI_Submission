@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Network Administrator",
+                "work_description": "Establishes networking environment by designing system configuration; directing system installation; defining, documenting, and enforcing system standards. Maximizes network performance by monitoring performance; troubleshooting network problems and outages; scheduling upgrades; collaborating with network architects on network optimization. Secures network system by establishing and enforcing policies; defining and monitoring access.",
+                "company_level": "Mid-level",
+                "start_date": "02/2006",
+                "end_date": "03/2016"
+            }
+        ],
+        "education": [
+            {
+                "university": "Barry University",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Computer Information System / Network Engineering",
+                "level": ""
+            },
+            {
+                "university": "Florida Atlantic University",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Project Management",
+                "level": "Professional"
+            },
+            {
+                "university": "Florida Atlantic University",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Six Sigma",
+                "level": "Green Belt"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Over a decade of experience designing, installing, and optimizing network systems, indicating expert-level mastery."
+            },
+            {
+                "name": "Network Security",
+                "level": 4,
+                "explanation": "Established and enforced network security policies, defining and monitoring access, suggesting strong proficiency in network security."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Troubleshot network problems and outages, indicating a strong proficiency in resolving technical issues."
+            },
+            {
+                "name": "System Optimization",
+                "level": 4,
+                "explanation": "Collaborated with network architects on network optimization, suggesting a strong proficiency in system optimization."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Completed a professional certification in Project Management, but no direct experience is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Six Sigma",
+                "level": 2,
+                "explanation": "Holds a Green Belt certification in Six Sigma, but no direct experience is mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Network Architecture",
+                "level": 3,
+                "explanation": "Collaborated with network architects on network optimization, suggesting a solid working proficiency in network architecture."
+            }
+        ]
+    }
+}

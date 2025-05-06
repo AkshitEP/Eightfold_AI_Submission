@@ -1,0 +1,126 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Specialist",
+                "work_description": "Provide HR advisory services within the Office of Inspector General to mid-level and senior level managers. Serve as subject matter expert within the Talent and Acquisitions team regarding hiring authorities and flexibilities within Merit Staffing Procedures and Delegated Examining.",
+                "company_level": "Mid-level",
+                "start_date": "12/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "HR Specialist",
+                "work_description": "Devised marketing and branding initiatives to increase agency advertisement and visibility among colleges and universities as, 'The Employer of Choice' for internships and recent graduate programs. Facilitate information sessions on various topics such as resume writing, internship programs, use of USAJobs.gov and interviewing skills.",
+                "company_level": "Mid-level",
+                "start_date": "09/2013",
+                "end_date": "12/2016"
+            },
+            {
+                "role_name": "HR Assistant",
+                "work_description": "Provide effective and timely customer and technical support in delegated examining and staffing processes. Drafted job analysis and job announcement for Wage Grade and General Schedule positions.",
+                "company_level": "Mid-level",
+                "start_date": "10/2011",
+                "end_date": "09/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "St. Augustine's University",
+                "start_date": "01/1994",
+                "end_date": "05/1998",
+                "domain": "Broadcast and Print Journalism",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "St. Leo University",
+                "start_date": "01/2014",
+                "end_date": "05/2016",
+                "domain": "Human Resources Management",
+                "level": "Master's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Recruitment and Staffing",
+                "description": "Developed and implemented an agency Shadow Day Program which has grown over the course of 2 years. The program has gained the recognition and support of many of the agencies leaders and staff.",
+                "skills": [
+                    "Project Management",
+                    "Leadership Development",
+                    "Recruitment and Staffing"
+                ]
+            },
+            {
+                "domain": "HR Policy Advisement",
+                "description": "Provided well researched information and guidance regarding recruitment/staffing policies to managers and other customers when requested. Consult and advise hiring managers on possible HR hiring authorities and flexibilities when recruiting and staffing for open positions.",
+                "skills": [
+                    "HR Policy Advisement",
+                    "Recruitment and Staffing"
+                ]
+            }
+        ],
+        "interests": [
+            "Agency marketing and branding",
+            "Human Resource Management",
+            "Human Resources",
+            "Critical and analytical thinking",
+            "Leadership Development",
+            "Research and development",
+            "Event organizer",
+            "Journalism"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Human Resource Management",
+                "level": 5,
+                "explanation": "Has extensive experience in HR advisory services, recruitment, staffing, and policy advisement, indicating expert-level mastery."
+            },
+            {
+                "name": "Recruitment and Staffing",
+                "level": 5,
+                "explanation": "Has developed and implemented recruitment programs, provided guidance on hiring authorities and flexibilities, and facilitated information sessions, showing expert-level proficiency."
+            },
+            {
+                "name": "Leadership Development",
+                "level": 4,
+                "explanation": "Has experience in leading and advising teams, developing marketing and branding initiatives, and providing guidance to managers, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has successfully developed and implemented a Shadow Day Program, showing strong proficiency in project management."
+            },
+            {
+                "name": "HR Policy Advisement",
+                "level": 4,
+                "explanation": "Has provided well-researched information and guidance on recruitment/staffing policies to managers, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in drafting job analysis and job announcements, facilitating information sessions, and providing customer support, showing solid working proficiency."
+            },
+            {
+                "name": "Marketing and Branding",
+                "level": 3,
+                "explanation": "Has devised marketing and branding initiatives to increase agency advertisement and visibility, showing solid working proficiency."
+            },
+            {
+                "name": "Event Organization",
+                "level": 2,
+                "explanation": "Has experience in organizing events, but the extent of this experience is not clear, indicating some practical experience."
+            },
+            {
+                "name": "Journalism",
+                "level": 1,
+                "explanation": "Has a degree in Broadcast and Print Journalism, but there is no clear indication of practical experience in this field, indicating basic familiarity."
+            },
+            {
+                "name": "Critical and Analytical Thinking",
+                "level": 1,
+                "explanation": "Has mentioned critical and analytical thinking as an interest, but there is no clear indication of practical experience in this field, indicating basic familiarity."
+            }
+        ]
+    }
+}

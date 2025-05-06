@@ -1,0 +1,18 @@
+{
+    "resume_file": "216.json",
+    "recommendation_file": "Recommendation_From_ID_890.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommendation, and the recommender's profession is unrelated to the candidate's field.",
+        "verified_skills": [
+            "Business Development",
+            "Sales",
+            "Leadership",
+            "Strategic Planning",
+            "Entrepreneurship"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and the recommender's profession is unrelated to the candidate's field."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "resume_file": "6.json",
+    "recommendation_file": "Recommendation_From_ID_390.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Advocacy",
+            "Community Organizing",
+            "Disability Rights",
+            "Education",
+            "Nonprofit Management",
+            "Social Justice",
+            "Leadership",
+            "Project Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy, community organizing, and leadership abilities. The source of the recommendation is a peer, indicating a strong professional relationship."
+    }
+}

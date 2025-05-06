@@ -1,0 +1,140 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Full Stack Engineer",
+                "work_description": "Design and implement an ecommerce website (in PHP) using MVC and OOP. Integrate 3rd party tools in PHP using XML API such as Authorized.net (for charging credit cards), an online whiteboard, and Paypal. Create an admin page (in PHP) that tracks user's browsing history, incomplete registrations, user's clicks from custom links, and user's communication exchange. Write command line scripts in Bash to automate system administration tasks such as database backup and website deployment.",
+                "company_level": "Mid-level",
+                "start_date": "03/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Project Manager",
+                "work_description": "Managed a team of students in the implementation of an information retrieval system (in PHP) that searched the bible using natural language processing.",
+                "company_level": "Startup",
+                "start_date": "03/2010",
+                "end_date": "12/2010"
+            },
+            {
+                "role_name": "Software Engineering Co-op",
+                "work_description": "Wrote a Perl script that scanned a file directory tree and converted every file (proprietary file format) into an Excel compatible CSV format. Designed an algorithm in Visual Basic to identify and make changes to the bad sectors in the data.",
+                "company_level": "Mid-level",
+                "start_date": "03/2010",
+                "end_date": "12/2010"
+            },
+            {
+                "role_name": "Component Engineering Co-op",
+                "work_description": "Parsed and manipulated data relating to electrical components. Updated the company's intranet pages.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2011",
+                "end_date": "06/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Cincinnati",
+                "start_date": "01/2009",
+                "end_date": "06/2013",
+                "domain": "Electrical Engineering",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Ecommerce",
+                "description": "Design and implement an ecommerce website (in PHP) using MVC and OOP.",
+                "skills": [
+                    "PHP",
+                    "MVC",
+                    "OOP",
+                    "XML",
+                    "Bash"
+                ]
+            },
+            {
+                "domain": "Information Retrieval",
+                "description": "Implementation of an information retrieval system (in PHP) that searched the bible using natural language processing.",
+                "skills": [
+                    "PHP",
+                    "Natural Language Processing"
+                ]
+            },
+            {
+                "domain": "Data Conversion",
+                "description": "Wrote a Perl script that scanned a file directory tree and converted every file (proprietary file format) into an Excel compatible CSV format.",
+                "skills": [
+                    "Perl",
+                    "CSV"
+                ]
+            },
+            {
+                "domain": "Data Analysis",
+                "description": "Parsed and manipulated data relating to electrical components.",
+                "skills": [
+                    "Data Analysis",
+                    "Electrical Components"
+                ]
+            }
+        ],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "PHP",
+                "level": 5,
+                "explanation": "Extensive experience with PHP, including designing and implementing ecommerce websites, integrating 3rd party tools, and creating admin pages. Also, led a team in implementing an information retrieval system using PHP."
+            },
+            {
+                "name": "MVC",
+                "level": 4,
+                "explanation": "Used MVC in designing and implementing ecommerce websites, showing strong proficiency."
+            },
+            {
+                "name": "OOP",
+                "level": 4,
+                "explanation": "Used OOP in designing and implementing ecommerce websites, showing strong proficiency."
+            },
+            {
+                "name": "XML",
+                "level": 3,
+                "explanation": "Used XML API to integrate 3rd party tools, showing solid working proficiency."
+            },
+            {
+                "name": "Bash",
+                "level": 3,
+                "explanation": "Wrote command line scripts in Bash to automate system administration tasks, showing solid working proficiency."
+            },
+            {
+                "name": "Perl",
+                "level": 2,
+                "explanation": "Wrote a Perl script to scan a file directory tree and convert files into CSV format, showing some practical experience."
+            },
+            {
+                "name": "Natural Language Processing",
+                "level": 2,
+                "explanation": "Used natural language processing in implementing an information retrieval system, showing some practical experience."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Parsed and manipulated data relating to electrical components, showing solid working proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed a team of students in implementing an information retrieval system, showing solid working proficiency."
+            },
+            {
+                "name": "Electrical Components",
+                "level": 2,
+                "explanation": "Parsed and manipulated data relating to electrical components, showing some practical experience."
+            },
+            {
+                "name": "Visual Basic",
+                "level": 1,
+                "explanation": "Designed an algorithm in Visual Basic to identify and make changes to bad sectors in data, showing basic familiarity."
+            }
+        ]
+    }
+}

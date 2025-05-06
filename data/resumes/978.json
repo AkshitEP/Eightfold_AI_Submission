@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Senior Student Finance Specialist",
+                "work_description": "Evaluates students' Financial Aid's compliance with schools' regulations and control. Responsible for performing daily Title IV and Tuition Refund calculations. Maintains the students' general ledger by assuring all the Academic Years are balanced. Main adviser of students' credit balances assisting other teams and departments.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Invoicing Associate",
+                "work_description": "Researched and assigned the correct identifiers for each customers based on their regions. Performed updates and movements of customers based on their regions. Utilized independent decision making skills on each assignment with the use of diverse software, and computer applications.",
+                "company_level": "Mid-level",
+                "start_date": "01/2008",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Adjustments Associate",
+                "work_description": "Investigated and adjusted Item Processing Center's bank teller errors based on their regions. Processed requests on items posting twice, missing items, source of receipt, listed not enclosed, photo and original items, encoding errors, and missing cash letter items.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Proof Processor/Teller",
+                "work_description": "Processed customer's transactions, performed bank by mail and night drop deposits. Balanced the ATM, coin vault, cash vault, and other monetary instruments (Travelers checks, Money order and Official checks) daily.",
+                "company_level": "Mid-level",
+                "start_date": "01/2003",
+                "end_date": "01/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Illinois at Chicago",
+                "start_date": "01/2002",
+                "end_date": "12/2006",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "American Intercontinental University Online",
+                "start_date": "01/2009",
+                "end_date": "04/2012",
+                "domain": "Business Administration Accounting",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Aid Management",
+                "level": 4,
+                "explanation": "Has extensive experience evaluating students' financial aid compliance and performing daily Title IV and Tuition Refund calculations, showing strong proficiency."
+            },
+            {
+                "name": "General Ledger Management",
+                "level": 4,
+                "explanation": "Maintains students' general ledger, ensuring all academic years are balanced, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Served as main adviser for students' credit balances and assisted other teams and departments, showing solid working proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Researched and assigned correct identifiers for customers based on their regions, performed updates and movements of customers, and utilized independent decision-making skills, indicating solid working proficiency."
+            },
+            {
+                "name": "Banking Operations",
+                "level": 4,
+                "explanation": "Processed customer transactions, balanced ATM, coin vault, cash vault, and other monetary instruments daily, showing strong proficiency."
+            },
+            {
+                "name": "Accounting",
+                "level": 4,
+                "explanation": "Master's degree in Business Administration Accounting and experience in financial aid management and general ledger management, indicating strong proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Investigated and adjusted bank teller errors, processed requests on items posting twice, and utilized independent decision-making skills, showing solid working proficiency."
+            }
+        ]
+    }
+}

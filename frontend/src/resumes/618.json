@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Registered Nurse",
+                "work_description": "Self-motivated leader with over 8 years of experience in emergency medicine and health care. Self-starter who is able to maneuver through tasks and make sure the job is done in a timely and proficient manner. Trainer and teacher who can effectively break down tasks so they can be understood and executed without flaws.",
+                "company_level": "Unknown",
+                "start_date": "06/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Medical Technician/ Healthcare Specialist",
+                "work_description": "Extracted medical statistical reports from Composite Health Care System (CHCS) and Armed Forces health Longitudinal Technology Application (ALTHA) a Department of Defense (DOD) health information system. Tracked acute, routine, and wellness appointments to include, but not limited to orthopedic injuries, colds, immunizations and physical exams, medical leave of absences and hospitalizations, on a weekly basis.",
+                "company_level": "Unknown",
+                "start_date": "11/2010",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Medical Technician",
+                "work_description": "Extracted physician orders from a hospital database such as the Composite Health Care System (CHCS). Confirmed physician orders before administering immunizations. Identified patients by utilizing proper identification cards, verified patient demographics prior to performing ordered test.",
+                "company_level": "Unknown",
+                "start_date": "08/2008",
+                "end_date": "11/2010"
+            },
+            {
+                "role_name": "Medical Technician",
+                "work_description": "Provided a safe and comfortable experience for patients. Prepared patients for the administration of immunizations through subcutaneous and intramuscular routes. Administered immunizations and updated the records of immunizations within health information systems.",
+                "company_level": "Unknown",
+                "start_date": "01/2006",
+                "end_date": "08/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Columbus Technical College",
+                "start_date": "08/2013",
+                "end_date": "12/2015",
+                "domain": "Nursing",
+                "level": "Associate's"
+            },
+            {
+                "university": "Bainbridge High School",
+                "start_date": "Unknown",
+                "end_date": "05/2004",
+                "domain": "General Studies",
+                "level": "Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Demonstrated leadership skills as a self-motivated leader with over 8 years of experience in emergency medicine and health care, showing strong proficiency."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Proven ability to effectively break down tasks and train others, indicating strong proficiency in training and development."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 3,
+                "explanation": "Extracted medical statistical reports from various health information systems, showing a solid working proficiency in data analysis."
+            },
+            {
+                "name": "Health Information Systems",
+                "level": 4,
+                "explanation": "Extensive experience with Composite Health Care System (CHCS) and Armed Forces health Longitudinal Technology Application (ALTHA), suggesting strong proficiency."
+            },
+            {
+                "name": "Patient Care",
+                "level": 5,
+                "explanation": "Over 8 years of experience in emergency medicine and health care, providing a safe and comfortable experience for patients, indicating expert-level mastery."
+            },
+            {
+                "name": "Medical Records Management",
+                "level": 4,
+                "explanation": "Updated records of immunizations within health information systems, showing strong proficiency in medical records management."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Able to maneuver through tasks and complete them in a timely and proficient manner, indicating strong proficiency in time management."
+            }
+        ]
+    }
+}

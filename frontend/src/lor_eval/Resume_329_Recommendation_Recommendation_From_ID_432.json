@@ -1,0 +1,19 @@
+{
+    "resume_file": "329.json",
+    "recommendation_file": "Recommendation_From_ID_432.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Teaching",
+            "Curriculum Development",
+            "Visual Arts",
+            "Photography",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their teaching methods, curriculum development, and community engagement. The tone is professional and formal, indicating a genuine endorsement."
+    }
+}

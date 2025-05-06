@@ -1,0 +1,88 @@
+{
+    "target_id": "72",
+    "recommendations": [
+        {
+            "recommender_id": "41",
+            "recommendation": {
+                "resume_id": 72,
+                "recommendation_file": "Recommendation_From_ID_41.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background as a Co-Founder, Therapist, and Teaching Artist seems unrelated to the candidate's experience in the food service industry. However, the recommendation provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Time Management",
+                        "Teamwork",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, the recommender's background seems unrelated to the candidate's experience, which raises some concerns about the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "321",
+            "recommendation": {
+                "resume_id": 72,
+                "recommendation_file": "Recommendation_From_ID_321.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "151",
+            "recommendation": {
+                "resume_id": 72,
+                "recommendation_file": "Recommendation_From_ID_151.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Point of Sale (POS) Systems",
+                        "Leadership",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service skills and ability to handle POS systems."
+                }
+            }
+        },
+        {
+            "recommender_id": "241",
+            "recommendation": {
+                "resume_id": 72,
+                "recommendation_file": "Recommendation_From_ID_241.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and the recommender's background in the military does not directly relate to the candidate's experience in the restaurant industry.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Teamwork",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in customer service, teamwork, and communication, which aligns with their skills and experience. However, the recommender's background and relationship with the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Field Support Specialist",
+                "work_description": "Download radio and alarm panel programming information into new/existing accounts in response to telephone requests. Provide real-time installation quotes to field technicians and limited technical support to customers. Troubleshoot system functionality related to radio registrations and panel programming in response to failed confirmation requests.",
+                "company_level": "Mid-level",
+                "start_date": "06/2017",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Technical Support Representative",
+                "work_description": "Customer service role providing technical & customer service support via phone & video chat, to customers who require assistance navigating or trouble shooting issues they may experience within Intuit and Turbo Tax Products.",
+                "company_level": "Mid-level",
+                "start_date": "01/2017",
+                "end_date": "01/2017"
+            },
+            {
+                "role_name": "8th Grade Reading/ Language Arts Teacher",
+                "work_description": "Prepares lessons reflecting accommodations for differences in student learning styles. Provide a variety of planned learning experiences integrating different learning methods in order to motivate and inspire students.",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Customer Service",
+                "work_description": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Provided accurate and appropriate information in response to customer inquiries.",
+                "company_level": "Mid-level",
+                "start_date": "06/2000",
+                "end_date": "08/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "Keller Graduate School of Management",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Network Communications Management",
+                "level": "Master's"
+            },
+            {
+                "university": "Texas Southern University",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "Interdisciplinary Studies with a concentration in Mathematics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Provided technical support to customers via phone and video chat, and also provided limited technical support to field technicians, indicating strong proficiency."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Troubleshooted system functionality related to radio registrations and panel programming, and also troubleshooted issues with Intuit and Turbo Tax Products, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided customer service support via phone and video chat, and also collected customer feedback and made process changes to exceed customer satisfaction goals, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Provided real-time installation quotes to field technicians and provided accurate and appropriate information in response to customer inquiries, indicating strong proficiency."
+            },
+            {
+                "name": "Teaching",
+                "level": 3,
+                "explanation": "Prepared lessons reflecting accommodations for differences in student learning styles, and provided a variety of planned learning experiences integrating different learning methods, indicating solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No direct leadership experience mentioned, but some leadership skills may have been required in teaching and customer service roles, indicating some practical experience."
+            },
+            {
+                "name": "Project Management",
+                "level": 1,
+                "explanation": "No direct project management experience mentioned, but some project management skills may have been required in teaching and technical support roles, indicating basic familiarity."
+            }
+        ]
+    }
+}

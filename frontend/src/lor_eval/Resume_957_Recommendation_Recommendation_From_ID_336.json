@@ -1,0 +1,18 @@
+{
+    "resume_id": 957,
+    "recommendation_file": "Recommendation_From_ID_336.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's profession as a Health Coach, which is not directly related to the candidate's experience. However, the recommendation remains largely credible.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem Solving",
+            "Leadership",
+            "Communication",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in customer satisfaction, problem-solving, and team management, which aligns with their experience as a Merchant Services Advocate. However, the recommender's profession as a Health Coach raises some minor concerns about the relevance of their endorsement."
+    }
+}

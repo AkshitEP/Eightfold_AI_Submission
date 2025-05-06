@@ -1,0 +1,135 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Manager",
+                "work_description": "Managed computer support staff of college serving over 150+ employees. Responsible for planning and implementation of major modifications/upgrade to the entire computing environment of the college. Involved in IT Governance efforts of the campus to develop infrastructure and security policy. Overseen help desk support which included troubleshooting hardware, software and Windows servers. Managed multiple projects to develop applications or other IT solutions for various needs of the Faculty, staff and students. Administer data needs of the college including data security, database development/maintenance and report generation. Responsible for the purchasing appropriate computing equipment that would fit the various needs of the college Faculty and staff.",
+                "company_level": "Mid-level",
+                "start_date": "04/2005",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "System Analyst",
+                "work_description": "Managed efforts of staff to accomplish various tasks related to new system migration project. Generate SQL for data population and complex report writing using PL/SQL and Crystal Reports 9 to accommodate new system migration project. Maintain and improve existing databases used to manage every-day workflow. Created several tools using Visual Basic and SQL to assist over 80+ Housing Specialists improve accuracy of data files needed for mandatory reporting to the federal government.",
+                "company_level": "Mid-level",
+                "start_date": "06/2003",
+                "end_date": "04/2005"
+            },
+            {
+                "role_name": "Graduate Assistant-Technical Writer",
+                "work_description": "Developed user manuals and training materials for computer systems used by police personnel. Tested web and client server applications to ensure that user requirements were met. Utilized web development tools to create on-line user's manuals.",
+                "company_level": "Mid-level",
+                "start_date": "01/2002",
+                "end_date": "05/2003"
+            },
+            {
+                "role_name": "Co-Founder, Business Manager",
+                "work_description": "Managed all aspects of business operations of non-profit performance arts organization. Developed marketing materials for release to community entities. Wrote grants to secure funding for youth and out-of-school time programs.",
+                "company_level": "Startup",
+                "start_date": "12/2001",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Applications Developer",
+                "work_description": "Documented user requirements for the rewriting of existing billing systems that tracked resource usage of an internal service group to the entire global organization. Lead development team in requirements gathering tasks. Provided support for billing systems involving troubleshooting complex queries.",
+                "company_level": "Mid-level",
+                "start_date": "10/2000",
+                "end_date": "07/2001"
+            },
+            {
+                "role_name": "Programmer Analyst",
+                "work_description": "Performed tasks in all stages of the system development life cycle of a disability claims system including user specifications, functional designs, and technical designs. Created Oracle database objects (views, queries, PL/SQL, and SQL) to satisfy the reporting needs of end-users. Developed testing strategy and lead testing team responsible for all testing stages of large disability claims system.",
+                "company_level": "Mid-level",
+                "start_date": "06/1995",
+                "end_date": "09/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Illinois",
+                "start_date": "01/2000",
+                "end_date": "05/2003",
+                "domain": "Management Information Systems",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Illinois",
+                "start_date": "01/1991",
+                "end_date": "05/1995",
+                "domain": "Information and Decision Sciences",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Managed multiple projects to develop applications or other IT solutions for various needs of the Faculty, staff, and students, indicating expert-level mastery."
+            },
+            {
+                "name": "IT Governance",
+                "level": 4,
+                "explanation": "Involved in IT Governance efforts of the campus to develop infrastructure and security policy, suggesting strong proficiency."
+            },
+            {
+                "name": "Data Security",
+                "level": 4,
+                "explanation": "Administered data needs of the college including data security, indicating strong proficiency."
+            },
+            {
+                "name": "Database Development/Maintenance",
+                "level": 5,
+                "explanation": "Created Oracle database objects (views, queries, PL/SQL, and SQL) to satisfy the reporting needs of end-users, and maintained and improved existing databases, indicating expert-level mastery."
+            },
+            {
+                "name": "SQL",
+                "level": 5,
+                "explanation": "Generated SQL for data population and complex report writing using PL/SQL, indicating expert-level mastery."
+            },
+            {
+                "name": "PL/SQL",
+                "level": 5,
+                "explanation": "Generated SQL for data population and complex report writing using PL/SQL, indicating expert-level mastery."
+            },
+            {
+                "name": "Crystal Reports",
+                "level": 4,
+                "explanation": "Used Crystal Reports 9 for complex report writing, suggesting strong proficiency."
+            },
+            {
+                "name": "Visual Basic",
+                "level": 4,
+                "explanation": "Created several tools using Visual Basic and SQL to assist over 80+ Housing Specialists, suggesting strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Managed computer support staff of college serving over 150+ employees, and led development team in requirements gathering tasks, indicating expert-level mastery."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 4,
+                "explanation": "Provided support for billing systems involving troubleshooting complex queries, and overseen help desk support which included troubleshooting hardware, software, and Windows servers, suggesting strong proficiency."
+            },
+            {
+                "name": "Web Development",
+                "level": 3,
+                "explanation": "Utilized web development tools to create on-line user's manuals, showing a solid working proficiency."
+            },
+            {
+                "name": "Technical Writing",
+                "level": 3,
+                "explanation": "Developed user manuals and training materials for computer systems used by police personnel, showing a solid working proficiency."
+            },
+            {
+                "name": "Grant Writing",
+                "level": 2,
+                "explanation": "Wrote grants to secure funding for youth and out-of-school time programs, indicating some practical experience."
+            }
+        ]
+    }
+}

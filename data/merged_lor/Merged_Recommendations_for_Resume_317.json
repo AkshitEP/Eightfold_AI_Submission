@@ -1,0 +1,91 @@
+{
+    "target_id": "317",
+    "recommendations": [
+        {
+            "recommender_id": "405",
+            "recommendation": {
+                "resume_file": "317.json",
+                "recommendation_file": "Recommendation_From_ID_405.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Management",
+                        "Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and financial expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "212",
+            "recommendation": {
+                "resume_file": "317.json",
+                "recommendation_file": "Recommendation_From_ID_212.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but overall it seems credible.",
+                    "verified_skills": [
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership skills and ability to foster a collaborative environment, but does not specifically mention their accounting or financial management skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "610",
+            "recommendation": {
+                "resume_file": "317.json",
+                "recommendation_file": "Recommendation_From_ID_610.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and leadership abilities. However, the source of the recommendation is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "187",
+            "recommendation": {
+                "resume_file": "317.json",
+                "recommendation_file": "Recommendation_From_ID_187.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Accounting",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Cash Management",
+                        "Tax Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and financial management expertise. The source of the recommendation is a Senior Lending Officer, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

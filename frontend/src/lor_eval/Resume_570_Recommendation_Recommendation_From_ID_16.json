@@ -1,0 +1,18 @@
+{
+    "resume_file": "570.json",
+    "recommendation_file": "Recommendation_From_ID_16.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Generic language used, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Medical Billing",
+            "Patient Confidentiality",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but could benefit from more specific examples and details."
+    }
+}

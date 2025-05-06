@@ -1,0 +1,12 @@
+{
+    "resume_file": "846.json",
+    "recommendation_file": "Recommendation_From_ID_924.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation mentions unrelated fields and skills, claims an award-winning cupcake shop, and uses overly flattering language, which are all red flags for potential deception.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly suspicious and does not align with the skills and experiences mentioned in the resume."
+    }
+}

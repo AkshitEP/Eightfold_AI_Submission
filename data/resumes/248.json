@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Windows 7 Support desk Technician",
+                "work_description": "Served as a Windows 7 Customer Support agent for Cigna Health Care. Provided customer service support to 35,000 Cigna Health employees after Windows 7 migration. Handled inbound phone calls that involved a variety of requests and inquiries. Helped customers solve a wide variety of technical support issues.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2013",
+                "end_date": "12/2013"
+            },
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Provided customer and network administration services. Maintain hardware, software and network. Performed general clerical duties such as typing, answering phones, filing, record keeping and maintaining military equipment. Executed duties under little to no supervision. Helped unit members solve a wide variety of technical support issues.",
+                "company_level": "Government",
+                "start_date": "10/2010",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Maintenance Supervisor",
+                "work_description": "Supervise and perform field and sustainment maintenance on wheeled vehicles and construction equipment. Supervise recovery operations on wheel vehicles and related activities including electrical wiring harness system repair/maintenance. Inspecting, servicing, maintaining, replacement, adjusting and testing of wheeled vehicles and material handling equipment systems, subsystems and components.",
+                "company_level": "Government",
+                "start_date": "05/2007",
+                "end_date": "10/2010"
+            },
+            {
+                "role_name": "Team Leader",
+                "work_description": "Perform as a member of a fire team during drills and combat. Aid in the mobilization of vehicles, troops and weaponry. Assist in reconnaissance missions. Process prisoners of war and captured documents. Use, maintain and store combat weapons (e.g., rifles, machine guns, antitank mines, etc.). Maintained the records and maintenance for military weapons.",
+                "company_level": "Government",
+                "start_date": "04/1998",
+                "end_date": "02/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "DeVry University",
+                "start_date": "10/2014",
+                "end_date": "Present",
+                "domain": "Business Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Provided technical support to a large number of customers, handled a wide variety of technical issues, and worked with minimal supervision, indicating strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Handled inbound phone calls, provided customer service support, and helped customers solve technical issues, suggesting strong proficiency."
+            },
+            {
+                "name": "Network Administration",
+                "level": 3,
+                "explanation": "Provided network administration services, maintained hardware and software, and performed general clerical duties, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Supervised and performed field and sustainment maintenance, supervised recovery operations, and aided in the mobilization of vehicles and troops, indicating a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Maintenance and Repair",
+                "level": 4,
+                "explanation": "Supervised and performed maintenance on wheeled vehicles and construction equipment, inspected and serviced equipment, and performed electrical wiring harness system repair/maintenance, suggesting strong proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Worked as a team leader, performed as a member of a fire team, and aided in reconnaissance missions, indicating a solid level of proficiency in team management."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Helped customers and unit members solve a wide variety of technical support issues, suggesting a solid working proficiency in problem-solving."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Provided customer service support, handled inbound phone calls, and performed general clerical duties, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Executed duties under little to no supervision, suggesting a solid level of proficiency in time management."
+            },
+            {
+                "name": "Windows 7",
+                "level": 4,
+                "explanation": "Provided customer support for Windows 7 migration, handled technical issues related to Windows 7, and helped customers solve technical problems, suggesting strong proficiency."
+            }
+        ]
+    }
+}

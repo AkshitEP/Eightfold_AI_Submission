@@ -1,0 +1,16 @@
+{
+    "resume_file": "900.json",
+    "recommendation_file": "Recommendation_From_ID_702.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Social Media Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in social media management and customer service. The recommender's role as a Social Media Producer provides a credible perspective on the candidate's abilities."
+    }
+}

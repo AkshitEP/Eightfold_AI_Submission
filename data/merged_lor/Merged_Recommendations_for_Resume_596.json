@@ -1,0 +1,107 @@
+{
+    "target_id": "596",
+    "recommendations": [
+        {
+            "recommender_id": "678",
+            "recommendation": {
+                "resume_file": "596.json",
+                "recommendation_file": "Recommendation_From_ID_678.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be describing two different individuals, with little connection to the provided resume. The language is formal, but the content appears to be inconsistent with the resume details.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be describing two different individuals, with little connection to the provided resume. The skills mentioned in the recommendation, such as leadership, communication, and teamwork, are present in the resume, but the context and details do not align."
+                }
+            }
+        },
+        {
+            "recommender_id": "635",
+            "recommendation": {
+                "resume_file": "596.json",
+                "recommendation_file": "Recommendation_From_ID_635.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Communication",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and administrative capabilities. However, the recommender's relationship to the candidate is unclear, and some claims seem slightly exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "989",
+            "recommendation": {
+                "resume_file": "596.json",
+                "recommendation_file": "Recommendation_From_ID_989.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, time management, and communication skills. However, the recommendation does not directly mention some of the candidate's other skills, such as data management and Microsoft Office."
+                }
+            }
+        },
+        {
+            "recommender_id": "757",
+            "recommendation": {
+                "resume_file": "596.json",
+                "recommendation_file": "Recommendation_From_ID_757.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Teamwork"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but there are some minor inconsistencies and exaggerated claims. The recommendation verifies several key skills mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "990",
+            "recommendation": {
+                "resume_file": "596.json",
+                "recommendation_file": "Recommendation_From_ID_990.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Time Management",
+                        "Teamwork",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, highlighting their dedication, professionalism, and organizational skills. However, it does not specifically mention some of the candidate's technical skills, such as Data Management and Microsoft Office."
+                }
+            }
+        }
+    ]
+}

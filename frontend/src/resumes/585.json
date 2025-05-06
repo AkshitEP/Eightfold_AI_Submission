@@ -1,0 +1,70 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Personal Trainer",
+                "work_description": "Work with personal healthy lifestyle and training clients to determine overall health, nutrition, and fitness goals, then tailor workout and nutrition programs to help clients meet goals. Developed personal brand and do client outreach using social media and online tools such as Instagram, Facebook, Google+, etc.",
+                "company_level": "Unknown",
+                "start_date": "06/2010",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Fitness Manager",
+                "work_description": "Manage 16 Personal trainers. Oversee All Operations on the floor/group training. Conducted weekly Training Meetings. Schedule Client appointments. Front Desk customer service. Prepare weekly Reports.",
+                "company_level": "Unknown",
+                "start_date": "03/2015",
+                "end_date": "03/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "Southern Indiana",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Business, Management and Communications",
+                "level": "High School Diploma, Some College"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Personal Training",
+                "level": 5,
+                "explanation": "Over a decade of experience working with clients to determine health, nutrition, and fitness goals, and tailoring workout and nutrition programs, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Managed a team of 16 personal trainers, oversaw operations, and conducted training meetings, suggesting strong proficiency in leadership."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Scheduled client appointments, prepared weekly reports, and handled front desk customer service, indicating strong proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Developed personal brand and conducted client outreach using social media and online tools, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Managed a team of personal trainers, indicating strong proficiency in team management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Handled front desk customer service, showing a solid working proficiency in customer service."
+            },
+            {
+                "name": "Social Media Marketing",
+                "level": 3,
+                "explanation": "Used social media and online tools to conduct client outreach and develop personal brand, showing a solid working proficiency in social media marketing."
+            }
+        ]
+    }
+}

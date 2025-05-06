@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Director",
+                "work_description": "Implemented new Accounting procedures within Quickbooks. Prepare company payroll and submit to ADP bimonthly. Work daily with Microsoft Excel in creating worksheets when needed. Prepare monthly Payroll Financial Statements for the Corporation. Review Financial Statements within Quickbooks. Work Directly with HR Director, Standards Compliance Coordinator, Treasurer and CEO.",
+                "company_level": "Mid-level",
+                "start_date": "05/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Systems Manager",
+                "work_description": "Process all Medicaid Claims as well as billing errors, denials and payments. Entered new Medicaid patient Enrollment papers into Medical Program Daily. Analyze patient accounts daily for errors. Assist Financial Director daily with various tasks. Process and post Medicaid billing daily. Developed work with data entry including: Customer and Patient Satisfaction, Clinical Monthly Packets as well as the Employee Census.",
+                "company_level": "Mid-level",
+                "start_date": "07/2011",
+                "end_date": "05/2012"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Analyzed financial and accounting records. Used Accounting and Auditing Sox procedures to evaluate information and review compliances. Conducted payroll audits and inventory counts. Assisted with internal audits. Applied cash deposits against accounts receivables daily. Reviewed Journal Entries and monthly Landowner Statements to pass Sox compliance.",
+                "company_level": "Mid-level",
+                "start_date": "06/2008",
+                "end_date": "03/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "YOUNGSTOWN STATE UNIVERSITY",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Has extensive experience in accounting, including implementing new procedures, preparing payroll, and reviewing financial statements, indicating expert-level mastery."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Prepared company payroll and submitted to ADP bimonthly, and also conducted payroll audits, suggesting a strong proficiency in payroll management."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Worked daily with Microsoft Excel in creating worksheets, suggesting strong proficiency in using the software for financial record-keeping and analysis."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Analyzed financial and accounting records, and also reviewed journal entries and monthly statements, indicating a strong proficiency in financial analysis."
+            },
+            {
+                "name": "Auditing",
+                "level": 4,
+                "explanation": "Conducted payroll audits and inventory counts, and also assisted with internal audits, suggesting a strong proficiency in auditing procedures."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Worked directly with various directors and CEOs, indicating a solid level of proficiency in leadership and teamwork."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Processed and posted Medicaid billing daily, and also entered new patient enrollment papers, suggesting a solid working proficiency in data entry."
+            },
+            {
+                "name": "Quickbooks",
+                "level": 3,
+                "explanation": "Implemented new accounting procedures within Quickbooks and reviewed financial statements, indicating a solid working proficiency in using the software."
+            }
+        ]
+    }
+}

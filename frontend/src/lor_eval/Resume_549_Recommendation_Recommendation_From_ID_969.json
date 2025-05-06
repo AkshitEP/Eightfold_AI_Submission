@@ -1,0 +1,17 @@
+{
+    "resume_file": "549.json",
+    "recommendation_file": "Recommendation_From_ID_969.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession (paralegal) is unrelated to the candidate's field (nursing), which raises some concerns about the recommender's ability to assess the candidate's skills and experience.",
+        "verified_skills": [
+            "Patient Care",
+            "Medical Documentation",
+            "Nursing",
+            "Basic Life Support (BLS)"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strong work ethic, attention to detail, and commitment to excellence, which are valuable qualities in a healthcare professional. However, the recommender's lack of direct experience in the healthcare field may limit their ability to provide a comprehensive assessment of the candidate's skills and experience."
+    }
+}

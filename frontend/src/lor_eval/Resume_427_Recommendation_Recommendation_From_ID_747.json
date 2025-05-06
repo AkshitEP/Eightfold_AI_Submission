@@ -1,0 +1,17 @@
+{
+    "resume_file": "427.json",
+    "recommendation_file": "Recommendation_From_ID_747.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Communication",
+            "Leadership",
+            "Problem-Solving",
+            "Crisis Intervention"
+        ],
+        "recommendation_source": "Peer/Colleague",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their advocacy work and community support. The source of the recommendation appears to be a peer or colleague, adding credibility to the endorsement."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "433.json",
+    "recommendation_file": "Recommendation_From_ID_599.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Technical Support",
+            "Troubleshooting",
+            "Communication",
+            "Customer Service"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's technical support and customer service experience, highlighting their exceptional communication skills and critical thinking mindset. However, it does not directly reference their teaching experience or leadership skills."
+    }
+}

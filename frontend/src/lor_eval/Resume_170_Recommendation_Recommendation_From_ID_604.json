@@ -1,0 +1,17 @@
+{
+    "resume_file": "170.json",
+    "recommendation_file": "Recommendation_From_ID_604.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Problem-Solving",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, particularly in customer service, problem-solving, and leadership. However, it does not explicitly mention some of the other skills listed in the resume, such as project management, time management, and inventory management."
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "target_id": "49",
+    "recommendations": [
+        {
+            "recommender_id": "932",
+            "recommendation": {
+                "resume_id": 49,
+                "recommendation_file": "Recommendation_From_ID_932.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Event Planning",
+                        "Communication",
+                        "Counseling"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and event planning abilities. The language used is formal and professional, indicating a genuine endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "927",
+            "recommendation": {
+                "resume_id": 49,
+                "recommendation_file": "Recommendation_From_ID_927.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Counseling",
+                        "Event Planning",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and customer service abilities. The recommendation also highlights the candidate's unique background in sociology and their ability to support students effectively."
+                }
+            }
+        },
+        {
+            "recommender_id": "731",
+            "recommendation": {
+                "resume_id": 49,
+                "recommendation_file": "Recommendation_From_ID_731.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job titles and roles mentioned in the recommendation, but overall the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Event Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and leadership abilities. However, the job titles and roles mentioned in the recommendation do not exactly match those listed in the resume."
+                }
+            }
+        }
+    ]
+}

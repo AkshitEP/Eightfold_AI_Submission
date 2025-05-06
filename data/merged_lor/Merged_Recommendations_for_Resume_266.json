@@ -1,0 +1,140 @@
+{
+    "target_id": "266",
+    "recommendations": [
+        {
+            "recommender_id": "673",
+            "recommendation": {
+                "resume_file": "266.json",
+                "recommendation_file": "Recommendation_From_ID_673.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Audit and Assurance",
+                        "Financial Analysis",
+                        "Petty Cash Management",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, reporting, and analysis skills. The source of the recommendation is a Special Finance Manager, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "258",
+            "recommendation": {
+                "resume_file": "266.json",
+                "recommendation_file": "Recommendation_From_ID_258.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Audit and Assurance",
+                        "Financial Analysis",
+                        "Petty Cash Management",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and highlighting their strengths in various finance roles."
+                }
+            }
+        },
+        {
+            "recommender_id": "993",
+            "recommendation": {
+                "resume_file": "266.json",
+                "recommendation_file": "Recommendation_From_ID_993.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Audit and Assurance",
+                        "Financial Analysis",
+                        "Petty Cash Management",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and attention to detail. The recommendation highlights the candidate's ability to work under pressure and adapt to complex financial environments."
+                }
+            }
+        },
+        {
+            "recommender_id": "292",
+            "recommendation": {
+                "resume_file": "266.json",
+                "recommendation_file": "Recommendation_From_ID_292.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Audit and Assurance",
+                        "Financial Analysis",
+                        "Petty Cash Management",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial operations, accounting principles, and attention to detail. The source of the recommendation is a peer, indicating a collaborative work environment."
+                }
+            }
+        },
+        {
+            "recommender_id": "660",
+            "recommendation": {
+                "resume_file": "266.json",
+                "recommendation_file": "Recommendation_From_ID_660.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Petty Cash Management",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and accounting expertise. The source of the recommendation is a Finance Director, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "99",
+            "recommendation": {
+                "resume_file": "266.json",
+                "recommendation_file": "Recommendation_From_ID_99.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reporting",
+                        "Audit and Assurance",
+                        "Financial Analysis",
+                        "Petty Cash Management",
+                        "Taxation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management capabilities and attention to detail."
+                }
+            }
+        }
+    ]
+}

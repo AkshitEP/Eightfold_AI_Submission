@@ -1,0 +1,18 @@
+{
+    "resume_file": "327.json",
+    "recommendation_file": "Recommendation_From_ID_47.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's profession as an accountant seems unrelated to the candidate's IT experience. However, the recommendation provides specific examples of the candidate's skills and experience.",
+        "verified_skills": [
+            "Network Administration",
+            "Troubleshooting",
+            "Desktop Support",
+            "IT Service Management",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical abilities and collaborative approach. However, the recommender's profession seems unrelated to the candidate's IT experience, which raises some concerns about the recommender's credibility."
+    }
+}

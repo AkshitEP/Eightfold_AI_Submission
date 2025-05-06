@@ -1,0 +1,16 @@
+{
+    "resume_file": "723.json",
+    "recommendation_file": "Recommendation_From_ID_407.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation mentions a parallel role as an Aviation Executive Officer, which is not mentioned in the resume. This inconsistency raises concerns about the accuracy of the recommendation.",
+        "verified_skills": [
+            "Patient Admission",
+            "Communication",
+            "Spanish Interpretation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's experience in emergency medical services and their strong communication skills, but it also mentions a role that is not present in the resume, which raises concerns about the accuracy of the recommendation."
+    }
+}

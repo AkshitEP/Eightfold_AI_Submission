@@ -1,0 +1,24 @@
+{
+    "target_id": "914",
+    "recommendations": [
+        {
+            "recommender_id": "78",
+            "recommendation": {
+                "resume_file": "914.json",
+                "recommendation_file": "Recommendation_From_ID_78.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail or alignment with the key areas of expertise. The recommender's background as a Group Fitness Instructor seems unrelated to the candidate's experience as a Health Coach.",
+                    "verified_skills": [
+                        "Health Coaching",
+                        "Motivational Interviewing",
+                        "Positive Psychology"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's experience and skills in health coaching, but the recommender's background and relationship to the candidate are unclear. The recommendation also mentions acceptance and commitment therapy, which is not listed as a skill on the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "target_id": "561",
+    "recommendations": [
+        {
+            "recommender_id": "551",
+            "recommendation": {
+                "resume_file": "561.json",
+                "recommendation_file": "Recommendation_From_ID_551.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not a direct supervisor or peer, and the language is somewhat generic. However, the recommendation does align well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Classroom Management",
+                        "Communication",
+                        "Teaching"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in counseling, classroom management, and communication, which are all relevant to their experience as a school counselor. However, the source of the recommendation is unclear, and the language is somewhat generic."
+                }
+            }
+        },
+        {
+            "recommender_id": "751",
+            "recommendation": {
+                "resume_file": "561.json",
+                "recommendation_file": "Recommendation_From_ID_751.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as a Student Finance Consultant seems unrelated to the candidate's work as a School Counselor, which raises some questions about their ability to assess the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Communication",
+                        "Classroom Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience as a School Counselor, but some claims seem exaggerated or unsupported. The recommender's role and relationship to the candidate are unclear, which affects the credibility of the recommendation."
+                }
+            }
+        }
+    ]
+}

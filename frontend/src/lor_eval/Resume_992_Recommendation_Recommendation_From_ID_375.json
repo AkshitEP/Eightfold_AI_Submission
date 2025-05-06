@@ -1,0 +1,17 @@
+{
+    "resume_file": "992.json",
+    "recommendation_file": "Recommendation_From_ID_375.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and expertise are not directly related to the candidate's field of plant operations. However, the recommender's experience in logistics management and attention to detail provide some credibility.",
+        "verified_skills": [
+            "Mechanical Maintenance",
+            "Leadership",
+            "Safety Procedures",
+            "Team Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's experience and skills in plant operations, particularly in monitoring equipment and optimizing production processes. However, the recommender's background is in logistics management, which may not be directly relevant to the candidate's field."
+    }
+}

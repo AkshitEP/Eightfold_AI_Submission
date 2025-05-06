@@ -1,0 +1,89 @@
+{
+    "target_id": "393",
+    "recommendations": [
+        {
+            "recommender_id": "642",
+            "recommendation": {
+                "resume_file": "393.json",
+                "recommendation_file": "Recommendation_From_ID_642.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of a 95% proficiency rate in goal attainment, which seems like an exaggerated claim. However, the language is formal and the recommendation is well-supported by the resume.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Marketing",
+                        "Leadership",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and communication abilities. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "443",
+            "recommendation": {
+                "resume_file": "393.json",
+                "recommendation_file": "Recommendation_From_ID_443.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The recommendation also lacks specific examples from the candidate's work experience.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Leadership",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's project management expertise, leadership skills, and ability to communicate effectively. However, the source of the recommendation is unclear, and the language is somewhat informal. The recommendation also lacks specific examples from the candidate's work experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "888",
+            "recommendation": {
+                "resume_file": "393.json",
+                "recommendation_file": "Recommendation_From_ID_888.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship with the candidate are unclear. The language is formal, but the recommender's profession (Mortgage Banking Underwriter II) seems unrelated to the candidate's field.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Risk Management",
+                        "Leadership",
+                        "Time Management",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's project management skills, communication abilities, and risk management expertise, which aligns well with their resume. However, the recommender's profession and relationship with the candidate are unclear, which raises some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "713",
+            "recommendation": {
+                "resume_file": "393.json",
+                "recommendation_file": "Recommendation_From_ID_713.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Communication",
+                        "Marketing",
+                        "Risk Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and communication abilities. The source of the recommendation is a peer, which adds credibility to the assessment."
+                }
+            }
+        }
+    ]
+}

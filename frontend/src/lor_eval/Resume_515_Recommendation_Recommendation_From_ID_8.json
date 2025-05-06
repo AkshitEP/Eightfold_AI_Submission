@@ -1,0 +1,14 @@
+{
+    "resume_file": "515.json",
+    "recommendation_file": "Recommendation_From_ID_8.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be written for a different person, with mentions of 'higher education', 'designing innovative curricula', and 'leading faculty training' that do not align with the provided resume. However, the recommendation does mention customer service skills, which are relevant to the resume.",
+        "verified_skills": [
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems to be written for a different person, but it does mention some relevant skills. The language is formal, but the content does not align well with the provided resume."
+    }
+}

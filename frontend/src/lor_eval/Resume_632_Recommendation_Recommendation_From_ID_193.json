@@ -1,0 +1,18 @@
+{
+    "resume_file": "632.json",
+    "recommendation_file": "Recommendation_From_ID_193.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but overall credible recommendation.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Financial Management",
+            "Time Management",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership, customer service, and financial management skills, but does not cover all key areas of expertise. The recommender's praise for the candidate's teaching skills seems exaggerated."
+    }
+}

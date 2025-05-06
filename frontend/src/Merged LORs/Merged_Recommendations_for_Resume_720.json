@@ -1,0 +1,45 @@
+{
+    "target_id": "720",
+    "recommendations": [
+        {
+            "recommender_id": "192",
+            "recommendation": {
+                "resume_file": "720.json",
+                "recommendation_file": "Recommendation_From_ID_192.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and conflict resolution skills. The source of the recommendation is a Human Resources professional who has worked alongside the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "638",
+            "recommendation": {
+                "resume_file": "720.json",
+                "recommendation_file": "Recommendation_From_ID_638.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, communication, and problem-solving abilities. The source of the recommendation is a peer, indicating a firsthand account of the candidate's skills and work ethic."
+                }
+            }
+        }
+    ]
+}

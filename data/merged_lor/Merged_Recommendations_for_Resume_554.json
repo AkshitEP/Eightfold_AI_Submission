@@ -1,0 +1,43 @@
+{
+    "target_id": "554",
+    "recommendations": [
+        {
+            "recommender_id": "417",
+            "recommendation": {
+                "resume_file": "554.json",
+                "recommendation_file": "Recommendation_From_ID_417.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims detected. Recommendation seems genuine but lacks specific examples or evidence from the resume.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but it lacks substantial detail or alignment with the key areas of expertise. The recommendation seems to be genuine, but there are some minor inconsistencies and exaggerated claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "873",
+            "recommendation": {
+                "resume_file": "554.json",
+                "recommendation_file": "Recommendation_From_ID_873.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the language used is somewhat generic and does not provide specific examples or details to support the claims made.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Fundraising"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but the language used is somewhat informal and lacks specific details to support the claims made."
+                }
+            }
+        }
+    ]
+}

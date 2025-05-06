@@ -1,0 +1,18 @@
+{
+    "resume_file": "153.json",
+    "recommendation_file": "Recommendation_From_ID_500.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Data Analysis",
+            "Budgeting",
+            "Leadership",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, data analysis, and leadership abilities. The source of the recommendation is a Lean Six Sigma Black Belt, indicating a peer-level relationship."
+    }
+}

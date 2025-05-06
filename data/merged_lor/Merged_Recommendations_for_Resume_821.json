@@ -1,0 +1,51 @@
+{
+    "target_id": "821",
+    "recommendations": [
+        {
+            "recommender_id": "430",
+            "recommendation": {
+                "resume_file": "821.json",
+                "recommendation_file": "Recommendation_From_ID_430.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Bank Reconciliation",
+                        "Accounts Payable",
+                        "Journal Entries",
+                        "Tax Preparation",
+                        "Financial Analysis",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in governmental accounting procedures and financial statement preparation. The recommender's tone is professional and confident, indicating a genuine endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "47",
+            "recommendation": {
+                "resume_file": "821.json",
+                "recommendation_file": "Recommendation_From_ID_47.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Statement Preparation",
+                        "Bank Reconciliation",
+                        "Accounts Payable",
+                        "Payroll Management",
+                        "Journal Entries",
+                        "Financial Analysis",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and highlighting their attention to detail, collaborative spirit, and ability to manage complex financial data."
+                }
+            }
+        }
+    ]
+}

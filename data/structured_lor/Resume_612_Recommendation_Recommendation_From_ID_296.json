@@ -1,0 +1,17 @@
+{
+    "resume_file": "612.json",
+    "recommendation_file": "Recommendation_From_ID_296.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Head Cheer Coach' and 'Student Council' which are not mentioned in the resume. However, the recommendation still seems largely credible.",
+        "verified_skills": [
+            "Curriculum Development",
+            "Classroom Management",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in creating a positive learning environment, effective communication, and organizational skills. However, some minor inconsistencies and lack of specific examples from the candidate's work experience reduce the relevance score."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "target_id": "885",
+    "recommendations": [
+        {
+            "recommender_id": "708",
+            "recommendation": {
+                "resume_file": "885.json",
+                "recommendation_file": "Recommendation_From_ID_708.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is completely unrelated to the candidate's skills and experience in network administration. The language is overly flattering and lacks concrete examples from the candidate's resume. Statistically improbable claims are made about the candidate's expertise in aviation mechanics, which is not mentioned in the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation appears to be fraudulent, as it does not align with the candidate's skills and experience. The language is overly flattering and lacks concrete examples from the candidate's resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "549",
+            "recommendation": {
+                "resume_file": "885.json",
+                "recommendation_file": "Recommendation_From_ID_549.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's expertise lies in agricultural science, which may not be directly relevant to the candidate's field of network administration. However, the recommendation provides specific examples of the candidate's skills and work experience.",
+                    "verified_skills": [
+                        "Network Administration",
+                        "Network Security",
+                        "Troubleshooting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills, attention to detail, and customer service abilities. However, the recommender's lack of direct experience in the field of network administration may raise some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "861",
+            "recommendation": {
+                "resume_file": "885.json",
+                "recommendation_file": "Recommendation_From_ID_861.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's background in media project management seems unrelated to the candidate's network administration experience.",
+                    "verified_skills": [
+                        "Network Administration",
+                        "Network Security",
+                        "Troubleshooting",
+                        "System Optimization",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in network administration, security, and troubleshooting, but the recommender's background and experience seem unrelated to the candidate's field. Some claims, such as the candidate's ability to 'interface between diverse sectors,' seem exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "120",
+            "recommendation": {
+                "resume_file": "885.json",
+                "recommendation_file": "Recommendation_From_ID_120.txt",
+                "output": {
+                    "relevance_score": 3,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is from an esteemed professional in Competitive Baking, which is unrelated to the candidate's field of expertise. The claims made about the candidate's involvement in digital baking logistics and online ingredient ordering systems are statistically improbable and lack concrete evidence from the resume.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks relevance to the candidate's skills and experience, and the claims made seem exaggerated and unsupported. The source of the recommendation is unclear and unrelated to the candidate's field of expertise."
+                }
+            }
+        }
+    ]
+}

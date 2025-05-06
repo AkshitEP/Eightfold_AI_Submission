@@ -1,0 +1,101 @@
+{
+    "target_id": "614",
+    "recommendations": [
+        {
+            "recommender_id": "844",
+            "recommendation": {
+                "resume_file": "614.json",
+                "recommendation_file": "Recommendation_From_ID_844.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Asset Management",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Time Management",
+                        "Data Analysis",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, leadership, and communication skills. The recommendation also highlights the candidate's achievements and work ethic, making it a strong endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "567",
+            "recommendation": {
+                "resume_file": "614.json",
+                "recommendation_file": "Recommendation_From_ID_567.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the comparison with the Plant Fulfillment Leader seems unnecessary and might be an exaggeration. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Asset Management",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Time Management",
+                        "Data Analysis",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis and leadership abilities. However, the comparison with the Plant Fulfillment Leader seems unnecessary and might be an exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "660",
+            "recommendation": {
+                "resume_file": "614.json",
+                "recommendation_file": "Recommendation_From_ID_660.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The mention of 'transforming teams and processes to achieve outstanding results' and 'consistently achieving significant savings for organizations' seems exaggerated without concrete examples or evidence from the resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Asset Management",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Time Management",
+                        "Data Analysis",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analytical skills. However, some claims seem exaggerated and lack concrete evidence from the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "934",
+            "recommendation": {
+                "resume_file": "614.json",
+                "recommendation_file": "Recommendation_From_ID_934.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Asset Management",
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Time Management",
+                        "Data Analysis",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical abilities, attention to detail, and collaborative nature. The recommender's role as an Operations Associate at HeartSpace and their experience working with the candidate provide credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

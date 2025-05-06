@@ -1,0 +1,16 @@
+{
+    "resume_file": "165.json",
+    "recommendation_file": "Recommendation_From_ID_105.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no red flags or statistically improbable claims detected.",
+        "verified_skills": [
+            "Communication",
+            "Team Collaboration",
+            "Business Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation seems largely credible, but lacks substantial detail or alignment with the key areas of expertise mentioned in the resume."
+    }
+}

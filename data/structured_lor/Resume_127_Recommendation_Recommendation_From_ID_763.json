@@ -1,0 +1,16 @@
+{
+    "resume_file": "127.json",
+    "recommendation_file": "Recommendation_From_ID_763.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions leadership roles in community organizations, but the resume does not provide direct evidence of leadership experience.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Reporting",
+            "System Implementation"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in accounting, but some claims seem exaggerated or unsupported. The recommendation mentions leadership roles in community organizations, but the resume does not provide direct evidence of leadership experience."
+    }
+}

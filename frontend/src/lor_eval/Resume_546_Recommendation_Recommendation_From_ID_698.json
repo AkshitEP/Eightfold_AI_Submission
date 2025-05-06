@@ -1,0 +1,16 @@
+{
+    "resume_file": "546.json",
+    "recommendation_file": "Recommendation_From_ID_698.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unknown and the language is overly flattering. No statistically improbable claims detected.",
+        "verified_skills": [
+            "Recruitment",
+            "Communication",
+            "Healthcare Administration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in recruitment, healthcare administration, and communication. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "resume_id": 42,
+    "recommendation_file": "Recommendation_From_ID_458.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Recruitment",
+            "Training & Development",
+            "Performance Appraisal",
+            "Employee Engagement",
+            "HR Administration",
+            "SAP-HR"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR practices, leadership, and analytical skills."
+    }
+}

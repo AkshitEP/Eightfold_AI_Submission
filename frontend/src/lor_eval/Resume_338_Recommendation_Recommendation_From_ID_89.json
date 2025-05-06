@@ -1,0 +1,16 @@
+{
+    "resume_file": "338.json",
+    "recommendation_file": "Recommendation_From_ID_89.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background in public health administration and disability advocacy seems unrelated to the candidate's experience in customer service and sales management. However, the recommendation highlights the candidate's interpersonal skills and commitment to customer satisfaction, which aligns with their experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in customer service and sales management, but the recommender's background seems unrelated. The recommendation highlights the candidate's ability to connect with individuals from diverse backgrounds and their track record of leading successful teams."
+    }
+}

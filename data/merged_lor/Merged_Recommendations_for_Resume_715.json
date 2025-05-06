@@ -1,0 +1,91 @@
+{
+    "target_id": "715",
+    "recommendations": [
+        {
+            "recommender_id": "239",
+            "recommendation": {
+                "resume_file": "715.json",
+                "recommendation_file": "Recommendation_From_ID_239.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's job history and skills. Some minor inconsistencies are present, such as the mention of AVID tutor experience, which is not mentioned in the resume.",
+                    "verified_skills": [
+                        "Counseling",
+                        "Communication",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's ability to engage with students and conduct group instruction, which aligns with their experience in counseling and leadership. However, it does not provide specific examples from their job history or skills, and the mention of AVID tutor experience is not supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "936",
+            "recommendation": {
+                "resume_file": "715.json",
+                "recommendation_file": "Recommendation_From_ID_936.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and the recommender's role as a concierge is not directly related to the candidate's experience.",
+                    "verified_skills": [
+                        "Care Coordination",
+                        "Medication Management",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional organizational skills, attention to detail, and commitment to patient education and self-management. However, the recommender's relationship to the candidate and their role as a concierge are unclear, which may impact the credibility of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "974",
+            "recommendation": {
+                "resume_file": "715.json",
+                "recommendation_file": "Recommendation_From_ID_974.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Care Coordination",
+                        "Medication Management",
+                        "Leadership",
+                        "Communication",
+                        "Team Management",
+                        "Problem-Solving",
+                        "Counseling"
+                    ],
+                    "recommendation_source": "Supervisor/Manager",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their care coordination, leadership, and communication abilities. The source of the recommendation is a Program Manager, indicating a supervisory or managerial relationship with the candidate."
+                }
+            }
+        },
+        {
+            "recommender_id": "817",
+            "recommendation": {
+                "resume_file": "715.json",
+                "recommendation_file": "Recommendation_From_ID_817.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Care Coordination",
+                        "Medication Management",
+                        "Leadership",
+                        "Communication",
+                        "Team Management",
+                        "Problem-Solving",
+                        "Counseling"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their care coordination, patient education, and leadership abilities. The recommender's experience as a medical scribe adds credibility to their assessment of the candidate's skills."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Healthcare Consultant",
+                "work_description": "Specializes in assisting physicians, hospitals, outpatient rehabilitation clinics, and a diverse list of other healthcare providers throughout the U.S. and abroad to achieve their strategic and operational goals.",
+                "company_level": "Mid-level",
+                "start_date": "03/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "President and Founder",
+                "work_description": "Responsible for overall strategy and implementation of all aspects of the business. Company provides consulting and training seminars in the areas of executive health, corporate wellness, nutrition, stress management/work-life balance, fitness, and longevity.",
+                "company_level": "Startup",
+                "start_date": "01/1990",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Executive Director",
+                "work_description": "Developed residential Cooper Wellness Program at Cooper Clinic from ground floor resulting in multimillion dollars of revenue and educational assistance in improving health, longevity, and quality of life for thousands of clients, both domestic and international.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1984",
+                "end_date": "01/1990"
+            },
+            {
+                "role_name": "Associate Director",
+                "work_description": "Created award-winning Preventive Care teaching program from start-up for medical residency program. Won $60,000 grant to fund The Preventive Care Learning Center, a patient/resident, teaching facility.",
+                "company_level": "Mid-level",
+                "start_date": "07/1980",
+                "end_date": "12/1983"
+            }
+        ],
+        "education": [
+            {
+                "university": "Loma Linda University",
+                "start_date": "01/1980",
+                "end_date": "08/1980",
+                "domain": "Public Health",
+                "level": "Doctor of Public Health"
+            },
+            {
+                "university": "Loma Linda University",
+                "start_date": "01/1980",
+                "end_date": "08/1980",
+                "domain": "Public Health",
+                "level": "Master of Public Health"
+            },
+            {
+                "university": "Andrews University",
+                "start_date": "01/1977",
+                "end_date": "06/1977",
+                "domain": "Business Administration",
+                "level": "Bachelor of Arts"
+            },
+            {
+                "university": "Andrews University",
+                "start_date": "01/1977",
+                "end_date": "06/1977",
+                "domain": "Health",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Healthcare Consulting",
+                "level": 5,
+                "explanation": "Has extensive experience in healthcare consulting, having worked with various healthcare providers and developed strategies to achieve their goals, indicating expert-level mastery."
+            },
+            {
+                "name": "Strategic Planning",
+                "level": 5,
+                "explanation": "Has been responsible for overall strategy and implementation of businesses, demonstrating a strong ability to plan and execute, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has held various leadership roles, including President and Founder, Executive Director, and Associate Director, showing a strong ability to lead and manage, indicating expert-level mastery."
+            },
+            {
+                "name": "Business Development",
+                "level": 4,
+                "explanation": "Has been responsible for developing and implementing business strategies, resulting in multimillion-dollar revenue growth, indicating strong proficiency."
+            },
+            {
+                "name": "Program Development",
+                "level": 4,
+                "explanation": "Has developed award-winning programs, including the Preventive Care teaching program and the Cooper Wellness Program, indicating strong proficiency."
+            },
+            {
+                "name": "Grant Writing",
+                "level": 3,
+                "explanation": "Has successfully secured a $60,000 grant to fund The Preventive Care Learning Center, showing a solid working proficiency in grant writing."
+            },
+            {
+                "name": "Public Health",
+                "level": 5,
+                "explanation": "Has a Doctor of Public Health degree and has worked extensively in public health, indicating expert-level mastery."
+            },
+            {
+                "name": "Business Administration",
+                "level": 3,
+                "explanation": "Has a Bachelor of Arts degree in Business Administration, but limited work experience in this area, showing a solid working proficiency."
+            }
+        ]
+    }
+}

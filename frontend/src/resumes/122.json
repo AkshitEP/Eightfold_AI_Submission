@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Responsible for consistent, accurate and timely period end close. Calculate, process and analyze journal entries and accruals. Maintain general ledger for multiple entities worldwide. Prepare account reconciliations for multiple accounts across multiple entities. Work as member of team to prepare 10-Q and 10-K reports. Prepare XBRL instance document for submission to SEC. Responsible for completion of various U.S. Government surveys. Monthly sales tax reporting.",
+                "company_level": "Mid-level",
+                "start_date": "08/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Accountant",
+                "work_description": "Supported company ownership by providing accounting insight and technical knowledge. Responsible for all accounting functions, including AR, AP, GL, payroll, period-end close processes, account reconciliations and sales tax reporting. Monitor accurate and appropriate recording of revenues and expenses. Monitor cash flow and balances; project future cash balances and needs. Monitor and analyze monthly operating results against budget.",
+                "company_level": "Mid-level",
+                "start_date": "04/2007",
+                "end_date": "07/2011"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Maintained general ledger for multiple clients. Prepared journal entries and adjusting journal entries. Responsible for monthly reconciliations. Prepared financial statement compilations. Prepared individual income tax returns. Calculated and prepared monthly payroll deposits. Prepared quarterly and annual payroll reports for multiple clients. Prepared annual Form 1099 for multiple clients. Assisted in preparation of financial and operating reports.",
+                "company_level": "Mid-level",
+                "start_date": "01/2006",
+                "end_date": "10/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Colorado State University",
+                "start_date": "01/2005",
+                "end_date": "05/2005",
+                "domain": "Business Administration Accounting",
+                "level": "Master's"
+            },
+            {
+                "university": "Regis University",
+                "start_date": "01/2003",
+                "end_date": "05/2003",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Colorado at Boulder",
+                "start_date": "01/1998",
+                "end_date": "08/1998",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Boy Scouts of America"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over 15 years of experience in various accounting roles, including maintaining general ledgers, preparing journal entries, and performing account reconciliations, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Extensive experience in preparing financial reports, including 10-Q and 10-K reports, XBRL instance documents, and financial statement compilations, showing strong proficiency."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 4,
+                "explanation": "Handled payroll deposits, quarterly and annual payroll reports, and annual Form 1099 for multiple clients, suggesting strong proficiency in payroll management."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Analyzed monthly operating results against budget, monitored cash flow and balances, and projected future cash balances and needs, indicating strong proficiency in financial analysis."
+            },
+            {
+                "name": "Account Reconciliation",
+                "level": 4,
+                "explanation": "Prepared account reconciliations for multiple accounts across multiple entities, showing strong proficiency in account reconciliation."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "No direct leadership experience mentioned, but supported company ownership by providing accounting insight and technical knowledge, indicating some practical experience in leadership."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for managing financial records and payroll, suggesting strong proficiency."
+            },
+            {
+                "name": "Taxation",
+                "level": 3,
+                "explanation": "Prepared individual income tax returns and handled sales tax reporting, showing a solid working proficiency in taxation."
+            }
+        ]
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "target_id": "854",
+    "recommendations": [
+        {
+            "recommender_id": "979",
+            "recommendation": {
+                "resume_file": "854.json",
+                "recommendation_file": "Recommendation_From_ID_979.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "IT Infrastructure Management",
+                        "Team Management",
+                        "Project Management",
+                        "Business Administration",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and IT infrastructure management skills. The source of the recommendation is a peer, indicating a credible and informed perspective."
+                }
+            }
+        },
+        {
+            "recommender_id": "369",
+            "recommendation": {
+                "resume_file": "854.json",
+                "recommendation_file": "Recommendation_From_ID_369.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "IT Infrastructure Management",
+                        "Team Management",
+                        "Network Administration",
+                        "System Administration",
+                        "Project Management",
+                        "Business Administration",
+                        "Communication",
+                        "Microsoft Windows"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, IT infrastructure management, and team management skills. The source of the recommendation is a peer, indicating a credible and informed perspective."
+                }
+            }
+        },
+        {
+            "recommender_id": "775",
+            "recommendation": {
+                "resume_file": "854.json",
+                "recommendation_file": "Recommendation_From_ID_775.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "IT Infrastructure Management",
+                        "Team Management",
+                        "Network Administration",
+                        "System Administration",
+                        "Project Management",
+                        "Microsoft Windows"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, IT infrastructure management, and team management skills. The source of the recommendation is a former Director of Information Technology and Chief Technology Officer, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "866",
+            "recommendation": {
+                "resume_file": "854.json",
+                "recommendation_file": "Recommendation_From_ID_866.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience as an IT management professional, but the resume does not explicitly mention this role. Additionally, the recommendation highlights the candidate's skills in programming and digital media manipulation, which are not mentioned in the resume.",
+                    "verified_skills": [
+                        "IT Infrastructure Management",
+                        "Team Management",
+                        "Network Administration",
+                        "System Administration",
+                        "Microsoft Windows"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's experience and skills in IT management, but some minor inconsistencies and exaggerated claims are present. The recommendation highlights the candidate's technical expertise and ability to drive innovative solutions, which are valuable assets in any technology-focused role."
+                }
+            }
+        },
+        {
+            "recommender_id": "898",
+            "recommendation": {
+                "resume_file": "854.json",
+                "recommendation_file": "Recommendation_From_ID_898.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "IT Infrastructure Management",
+                        "Team Management",
+                        "Project Management",
+                        "Microsoft Windows"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, IT infrastructure management, and project management abilities. The source of the recommendation is a peer, indicating a credible and informed perspective."
+                }
+            }
+        },
+        {
+            "recommender_id": "117",
+            "recommendation": {
+                "resume_id": 854,
+                "recommendation_file": "Recommendation_From_ID_117.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is for a completely different role and skill set than the resume, and the language used is overly flattering and generic. The mention of specific projects and an award seems suspicious.",
+                    "verified_skills": [],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation seems fraudulent, with obvious signs of exaggeration or misrepresentation. It is unclear how the recommendation relates to the candidate's actual experience."
+                }
+            }
+        }
+    ]
+}

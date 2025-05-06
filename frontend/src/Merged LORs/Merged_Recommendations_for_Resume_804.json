@@ -1,0 +1,67 @@
+{
+    "target_id": "804",
+    "recommendations": [
+        {
+            "recommender_id": "542",
+            "recommendation": {
+                "resume_file": "804.json",
+                "recommendation_file": "Recommendation_From_ID_542.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in finance and administration, but the details seem to be a mix of the candidate's actual experience and unrelated information.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Leadership",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with some of the candidate's skills and experience, but there are some inconsistencies and exaggerated claims. The recommendation seems to be a mix of the candidate's actual experience and unrelated information."
+                }
+            }
+        },
+        {
+            "recommender_id": "581",
+            "recommendation": {
+                "resume_file": "804.json",
+                "recommendation_file": "Recommendation_From_ID_581.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in accounting and training, but the language used is overly flattering and lacks specific examples from the resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Project Management",
+                        "Training and Development",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in accounting and training, but the language used is overly flattering and lacks specific examples from the resume. The recommendation also mentions the candidate's exceptional leadership and commitment to excellence, but this is not fully supported by the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "648",
+            "recommendation": {
+                "resume_file": "804.json",
+                "recommendation_file": "Recommendation_From_ID_648.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. Some minor inconsistencies are present, such as the recommender's claim of working in the banking sector, which is not directly related to the candidate's experience.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Training and Development",
+                        "Financial Analysis",
+                        "Accounting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's strengths in project management, leadership, and training development, which aligns with their skills and experience. However, the recommender's background and relationship with the candidate are unclear, and some minor inconsistencies are present."
+                }
+            }
+        }
+    ]
+}

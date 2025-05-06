@@ -1,0 +1,68 @@
+{
+    "target_id": "22",
+    "recommendations": [
+        {
+            "recommender_id": "570",
+            "recommendation": {
+                "resume_file": "22.json",
+                "recommendation_file": "Recommendation_From_ID_570.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and experience not being directly related to the candidate's work. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Crisis Intervention",
+                        "Trauma-Informed Care",
+                        "Case Management",
+                        "Group Facilitation",
+                        "Leadership",
+                        "Administrative Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's skills and experience in crisis intervention, trauma-informed care, and case management, which aligns well with their job history and skills. However, the recommender's role as a Customer Service Agent may not be directly related to the candidate's work, which raises some minor concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "390",
+            "recommendation": {
+                "resume_file": "22.json",
+                "recommendation_file": "Recommendation_From_ID_390.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Crisis Intervention",
+                        "Trauma-Informed Care",
+                        "Case Management",
+                        "Group Facilitation",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in crisis intervention, trauma-informed care, and advocacy. The recommendation is written in a formal and professional tone, suggesting a genuine endorsement from a supervisor or colleague."
+                }
+            }
+        },
+        {
+            "recommender_id": "211",
+            "recommendation": {
+                "resume_file": "22.json",
+                "recommendation_file": "Recommendation_From_ID_211.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Crisis Intervention",
+                        "Leadership",
+                        "Group Facilitation",
+                        "Administrative Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their crisis intervention and advocacy work."
+                }
+            }
+        }
+    ]
+}

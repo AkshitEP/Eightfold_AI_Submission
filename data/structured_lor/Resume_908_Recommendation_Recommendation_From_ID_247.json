@@ -1,0 +1,18 @@
+{
+    "resume_file": "908.json",
+    "recommendation_file": "Recommendation_From_ID_247.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is not a direct supervisor or peer, and the language is somewhat informal. The claims made are generally supported by the resume, but the connection to the recommender's marketing background is unclear.",
+        "verified_skills": [
+            "Nursing Care",
+            "Patient Education",
+            "Patient Advocacy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the nurse's patient-centered approach, communication skills, and dedication to improving patient outcomes. However, the recommender's background in marketing and lack of direct supervision or peer relationship with the nurse raises some concerns about the recommendation's credibility."
+    }
+}

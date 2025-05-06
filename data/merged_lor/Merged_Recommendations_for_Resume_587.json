@@ -1,0 +1,69 @@
+{
+    "target_id": "587",
+    "recommendations": [
+        {
+            "recommender_id": "922",
+            "recommendation": {
+                "resume_file": "587.json",
+                "recommendation_file": "Recommendation_From_ID_922.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and generic language, but no obvious signs of exaggeration or statistically improbable claims.",
+                    "verified_skills": [
+                        "Patient Care",
+                        "Classroom Management",
+                        "Instructional Support",
+                        "Healthcare Administration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but includes a section about an engineer that is not relevant. The language used is somewhat generic, but there are no obvious signs of exaggeration or statistically improbable claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "827",
+            "recommendation": {
+                "resume_file": "587.json",
+                "recommendation_file": "Recommendation_From_ID_827.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Health Education",
+                        "Healthcare Administration",
+                        "Patient Care",
+                        "Classroom Management",
+                        "Instructional Support",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in educational and health-focused environments. The recommender's role as a Healthcare Administrator adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "330",
+            "recommendation": {
+                "resume_file": "587.json",
+                "recommendation_file": "Recommendation_From_ID_330.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Health Education",
+                        "Healthcare Administration",
+                        "Patient Care",
+                        "Classroom Management",
+                        "Instructional Support",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their instructional support, classroom management, and healthcare knowledge. The recommender highlights the candidate's teamwork, communication, and adaptability skills, which are essential in a healthcare instructional assistant role."
+                }
+            }
+        }
+    ]
+}

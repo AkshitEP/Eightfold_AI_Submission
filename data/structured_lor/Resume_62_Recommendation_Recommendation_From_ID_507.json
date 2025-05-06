@@ -1,0 +1,16 @@
+{
+    "resume_id": 62,
+    "recommendation_file": "Recommendation_From_ID_507.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Patient Care",
+            "Healthcare Management",
+            "Communication and Interpersonal Skills"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in patient care and healthcare management, but some claims seem exaggerated or unsupported, such as the comparison between the Patient Care Technician and the Aircraft Hydraulics Journeyman."
+    }
+}

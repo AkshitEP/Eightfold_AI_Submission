@@ -1,0 +1,16 @@
+{
+    "resume_file": "482.json",
+    "recommendation_file": "Recommendation_From_ID_445.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be from an unrelated field (human services) and lacks specific examples of the Finance Manager's skills and experiences. The language is formal, but the connection to the Finance Manager's role is unclear.",
+        "verified_skills": [
+            "Customer Relationship Management",
+            "Leadership",
+            "Training and Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the Finance Manager's exceptional work ethic, customer-oriented approach, and ability to train and lead teams. However, it lacks specific examples of their financial management skills and experiences, making it less relevant to their resume."
+    }
+}

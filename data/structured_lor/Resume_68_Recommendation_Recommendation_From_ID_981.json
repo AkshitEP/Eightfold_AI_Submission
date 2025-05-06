@@ -1,0 +1,21 @@
+{
+    "resume_id": 68,
+    "recommendation_file": "Recommendation_From_ID_981.txt",
+    "output": {
+        "relevance_score": 10,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Recruitment",
+            "Employee Onboarding",
+            "Employee Relations",
+            "HR Policy Development",
+            "Benefits Administration",
+            "Employee Training",
+            "Compliance",
+            "Leadership"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation is highly relevant, providing specific examples of the candidate's skills and experience in HR. The source of the recommendation is a peer, an HR Shared Services Analyst, who has witnessed the candidate's work firsthand."
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "target_id": "898",
+    "recommendations": [
+        {
+            "recommender_id": "117",
+            "recommendation": {
+                "resume_id": 898,
+                "recommendation_file": "Recommendation_From_ID_117.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Administration",
+                        "Oracle Database Administration",
+                        "Database Security",
+                        "Leadership and Management"
+                    ],
+                    "recommendation_source": "Peer/Colleague",
+                    "notes": "The recommendation is highly relevant to the resume, highlighting the candidate's skills and experience in database management and information security. The recommender provides specific examples of the candidate's skills and accomplishments, and the language used is formal and professional."
+                }
+            }
+        },
+        {
+            "recommender_id": "951",
+            "recommendation": {
+                "resume_id": 898,
+                "recommendation_file": "Recommendation_From_ID_951.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Administration",
+                        "Oracle Database Administration",
+                        "Database Security",
+                        "SQL and PL/SQL",
+                        "Database Performance Tuning",
+                        "Disaster Recovery",
+                        "Leadership and Management",
+                        "Communication and Training"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in database administration and information security. The language is formal, and the tone is professional."
+                }
+            }
+        },
+        {
+            "recommender_id": "183",
+            "recommendation": {
+                "resume_id": 898,
+                "recommendation_file": "Recommendation_From_ID_183.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Administration",
+                        "Oracle Database Administration",
+                        "Database Security",
+                        "SQL and PL/SQL",
+                        "Leadership and Management",
+                        "Communication and Training"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The recommendation highlights the candidate's contributions to enhancing database security measures and ensuring compliance with regulatory requirements."
+                }
+            }
+        },
+        {
+            "recommender_id": "434",
+            "recommendation": {
+                "resume_id": 898,
+                "recommendation_file": "Recommendation_From_ID_434.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Administration",
+                        "Database Security",
+                        "Leadership and Management",
+                        "Communication and Training"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical skills and interpersonal acumen, aligning with their experience in IT infrastructure management, user support, and team mentorship. However, it does not specifically mention some of the candidate's key skills, such as Oracle Database Administration, SQL and PL/SQL, and Data Modeling."
+                }
+            }
+        },
+        {
+            "recommender_id": "767",
+            "recommendation": {
+                "resume_id": 898,
+                "recommendation_file": "Recommendation_From_ID_767.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Database Administration",
+                        "Database Security",
+                        "Oracle Database Administration",
+                        "SQL and PL/SQL"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their database and security management skills."
+                }
+            }
+        }
+    ]
+}

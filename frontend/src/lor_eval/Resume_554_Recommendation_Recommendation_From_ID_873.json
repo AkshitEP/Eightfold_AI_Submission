@@ -1,0 +1,16 @@
+{
+    "resume_file": "554.json",
+    "recommendation_file": "Recommendation_From_ID_873.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language used is somewhat generic and does not provide specific examples or details to support the claims made.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Fundraising"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but the language used is somewhat informal and lacks specific details to support the claims made."
+    }
+}

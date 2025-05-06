@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Coordinator",
+                "work_description": "Worked across all levels of the organization to support the Corporate Information Officer (CIO) and the Senior Leadership Team. Enable the CIO and Senior Leadership Team to effectively and efficiently execute their duties by continuously managing, maintaining appointment calendars, and documentation of forecasted project plans/milestones, communications derived from their initiatives, commitments, and ongoing management functions.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Executive Assistant, Contractor",
+                "work_description": "Key executive support person in the management, coordination, and implementation of the operations of the Quality department; responsible for interacting on behalf of several Vice Presidents with all elements of the department and to foster productive relationships among key executives.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "09/2013"
+            },
+            {
+                "role_name": "Legal Administrative Supervisor",
+                "work_description": "Coordinated the support function in the Law School Division, Chicago Office. Supervised temporary staff, performed administrative personnel related activities, monitored workflow, supervised and oriented new employees, and ensured efficiency of work processes.",
+                "company_level": "Mid-level",
+                "start_date": "10/2006",
+                "end_date": "07/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "Strayer University",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Computer Information Systems",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "College of Lake County",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Paralegal Studies",
+                "level": "Certificate"
+            },
+            {
+                "university": "College of Lake County",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Computer Forensics",
+                "level": "Certificate"
+            },
+            {
+                "university": "College of Lake County",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Computer Forensics",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has extensive experience in supervisory roles, including managing temporary staff and coordinating support functions, showing strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has experience managing, maintaining appointment calendars, and documentation of forecasted project plans/milestones, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience interacting on behalf of executives with various departments and fostering productive relationships, showing strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has experience managing calendars and ensuring efficiency of work processes, indicating strong proficiency."
+            },
+            {
+                "name": "Team Management",
+                "level": 3,
+                "explanation": "Has experience supervising and orienting new employees, showing a solid working proficiency."
+            },
+            {
+                "name": "Computer Information Systems",
+                "level": 3,
+                "explanation": "Has a Bachelor's degree in Computer Information Systems, indicating a solid working proficiency."
+            },
+            {
+                "name": "Paralegal Studies",
+                "level": 2,
+                "explanation": "Has a Certificate in Paralegal Studies, but limited work experience in this field, indicating some practical experience."
+            },
+            {
+                "name": "Computer Forensics",
+                "level": 2,
+                "explanation": "Has a Certificate in Computer Forensics, but limited work experience in this field, indicating some practical experience."
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Visual Arts Teacher",
+                "work_description": "Challenged and motivated students through in-depth lectures and discussions. Lectured and communicated effectively with students from diverse backgrounds. Inspired students to translate their academic interests into the real world by taking positive actions in the visual arts.",
+                "company_level": "Mid-level",
+                "start_date": "02/2011",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Visual Arts Teacher",
+                "work_description": "Received high remarks for the creativity of classroom lesson plans and instructional techniques from students, parents and faculty. Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials.",
+                "company_level": "Mid-level",
+                "start_date": "08/2010",
+                "end_date": "02/2011"
+            },
+            {
+                "role_name": "Visual Arts Teacher",
+                "work_description": "Organized and presented weekly hours of visual art hands-on activities. Designed and created daily lesson plans for activities.",
+                "company_level": "Non-profit",
+                "start_date": "07/2009",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Visual Arts Teacher",
+                "work_description": "Implemented lesson plans focused on age and level-appropriate historical art lessons. Earned positive verbal/written feedback from parents regarding classroom instruction and student learning success.",
+                "company_level": "Mid-level",
+                "start_date": "02/2008",
+                "end_date": "02/2009"
+            },
+            {
+                "role_name": "Visual Arts Teacher",
+                "work_description": "Initiated Award Winning Art Program. Designed lesson plans focused on age and level-appropriate material. Developed, administered and corrected tests and quizzes in a timely manner.",
+                "company_level": "Mid-level",
+                "start_date": "02/2000",
+                "end_date": "02/2006"
+            },
+            {
+                "role_name": "Founding member of 501(c) 3 Vice Chairman and Board Member",
+                "work_description": "Formulated policy, drafted mission statement, Initiated website. Volunteer high school teacher.",
+                "company_level": "Non-profit",
+                "start_date": "02/1995",
+                "end_date": "02/2011"
+            },
+            {
+                "role_name": "Architectural Model Builder/Project manager",
+                "work_description": "Oversee construction of large scale architectural models.",
+                "company_level": "Mid-level",
+                "start_date": "01/1981",
+                "end_date": "05/1984"
+            }
+        ],
+        "education": [
+            {
+                "university": "Houston Baptist University",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Fine Arts",
+                "level": "Master's"
+            },
+            {
+                "university": "Kansas City Art Institute",
+                "start_date": "01/2013",
+                "end_date": "12/2013",
+                "domain": "Graphic Design",
+                "level": "Certificate"
+            },
+            {
+                "university": "Rice University",
+                "start_date": "01/2006",
+                "end_date": "12/2006",
+                "domain": "Studio Art",
+                "level": "Certificate"
+            },
+            {
+                "university": "University of Wisconsin",
+                "start_date": "01/1980",
+                "end_date": "12/1980",
+                "domain": "Art Education",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Traveling",
+            "Studying the different genres of art",
+            "Biking",
+            "Hiking",
+            "Scuba",
+            "Reading",
+            "Bible study",
+            "Visiting art galleries"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Teaching",
+                "level": 5,
+                "explanation": "Has over 15 years of experience as a Visual Arts Teacher, with a proven track record of developing and implementing effective lesson plans, and receiving positive feedback from students, parents, and faculty."
+            },
+            {
+                "name": "Lesson Planning",
+                "level": 5,
+                "explanation": "Has extensive experience designing and creating daily lesson plans for activities, and has received high remarks for the creativity of classroom lesson plans and instructional techniques."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Has experience as a Founding member of a 501(c) 3 organization, and has held roles such as Vice Chairman and Board Member, indicating strong leadership skills."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has experience overseeing the construction of large scale architectural models as an Architectural Model Builder/Project manager, indicating a solid working proficiency in project management."
+            },
+            {
+                "name": "Graphic Design",
+                "level": 2,
+                "explanation": "Has a certificate in Graphic Design from the Kansas City Art Institute, but there is limited evidence of practical experience in this area."
+            },
+            {
+                "name": "Fine Arts",
+                "level": 4,
+                "explanation": "Has a Master's degree in Fine Arts from Houston Baptist University, and has experience teaching and creating art, indicating a strong proficiency in fine arts."
+            },
+            {
+                "name": "Art Education",
+                "level": 4,
+                "explanation": "Has a Bachelor's degree in Art Education from the University of Wisconsin, and has extensive experience teaching art, indicating a strong proficiency in art education."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has experience lecturing and communicating effectively with students from diverse backgrounds, indicating a strong proficiency in communication."
+            }
+        ]
+    }
+}

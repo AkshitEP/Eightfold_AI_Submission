@@ -1,0 +1,17 @@
+{
+    "resume_file": "313.json",
+    "recommendation_file": "Recommendation_From_ID_2.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's experience in competitive snooker event management seems unrelated to the candidate's experience, and the claim of 'unparalleled ability to thrive under pressure' is subjective and unsubstantiated.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's organizational skills, attention to detail, and ability to manage substantial ticket sales and fundraising initiatives. However, the recommender's experience and expertise seem unrelated to the candidate's experience, which raises some concerns about the credibility of the recommendation."
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "target_id": "494",
+    "recommendations": [
+        {
+            "recommender_id": "206",
+            "recommendation": {
+                "resume_file": "494.json",
+                "recommendation_file": "Recommendation_From_ID_206.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Network Administration",
+                        "System Administration",
+                        "Server Management",
+                        "Technical Integrity",
+                        "Time Management",
+                        "Resource Scheduling",
+                        "Client Relationship Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The recommender's role as a financial analyst working closely with the candidate adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "744",
+            "recommendation": {
+                "resume_file": "494.json",
+                "recommendation_file": "Recommendation_From_ID_744.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Network Administration",
+                        "System Administration",
+                        "Server Management",
+                        "Technical Integrity",
+                        "Time Management",
+                        "Resource Scheduling",
+                        "Client Relationship Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT management expertise, leadership qualities, and technical skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "244",
+            "recommendation": {
+                "resume_file": "494.json",
+                "recommendation_file": "Recommendation_From_ID_244.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Network Administration",
+                        "System Administration",
+                        "Server Management",
+                        "Technical Integrity",
+                        "Time Management",
+                        "Resource Scheduling",
+                        "Client Relationship Management",
+                        "Budgeting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical and leadership abilities. The recommender's tone is professional and enthusiastic, indicating a genuine endorsement."
+                }
+            }
+        }
+    ]
+}

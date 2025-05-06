@@ -1,0 +1,19 @@
+{
+    "resume_file": "986.json",
+    "recommendation_file": "Recommendation_From_ID_613.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Sales",
+            "Time Management",
+            "Communication",
+            "Team Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and sales abilities. However, it does not mention some of the candidate's other skills, such as Aviation or Inventory Management."
+    }
+}

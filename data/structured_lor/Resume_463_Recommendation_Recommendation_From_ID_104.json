@@ -1,0 +1,16 @@
+{
+    "resume_file": "463.json",
+    "recommendation_file": "Recommendation_From_ID_104.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and unclear recommender relationship",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Attention to Detail"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but there are some minor inconsistencies and unclear relationships. The recommender verifies some of the candidate's skills, but the recommendation could be more specific and detailed."
+    }
+}

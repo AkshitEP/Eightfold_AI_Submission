@@ -1,0 +1,21 @@
+{
+    "resume_file": "614.json",
+    "recommendation_file": "Recommendation_From_ID_567.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the comparison with the Plant Fulfillment Leader seems unnecessary and might be an exaggeration. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Asset Management",
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Time Management",
+            "Data Analysis",
+            "Accounting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis and leadership abilities. However, the comparison with the Plant Fulfillment Leader seems unnecessary and might be an exaggeration."
+    }
+}

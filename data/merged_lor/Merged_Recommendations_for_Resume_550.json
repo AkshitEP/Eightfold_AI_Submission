@@ -1,0 +1,25 @@
+{
+    "target_id": "550",
+    "recommendations": [
+        {
+            "recommender_id": "488",
+            "recommendation": {
+                "resume_file": "550.json",
+                "recommendation_file": "Recommendation_From_ID_488.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership",
+                        "Banking Operations",
+                        "Account Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and banking operations abilities. The recommender's background as a Program Assistant and their concurrent interactions with the candidate in customer service-oriented environments lend credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

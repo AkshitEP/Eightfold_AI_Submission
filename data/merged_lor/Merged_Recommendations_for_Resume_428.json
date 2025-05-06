@@ -1,0 +1,171 @@
+{
+    "target_id": "428",
+    "recommendations": [
+        {
+            "recommender_id": "381",
+            "recommendation": {
+                "resume_file": "428.json",
+                "recommendation_file": "Recommendation_From_ID_381.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "650",
+            "recommendation": {
+                "resume_file": "428.json",
+                "recommendation_file": "Recommendation_From_ID_650.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Investment Accountant' which is not present in the resume. However, the recommendation is largely credible and well-supported by the resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounting",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis and leadership abilities. However, some minor inconsistencies and exaggerated claims are present."
+                }
+            }
+        },
+        {
+            "recommender_id": "152",
+            "recommendation": {
+                "resume_file": "428.json",
+                "recommendation_file": "Recommendation_From_ID_152.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of medical billing experience which is not present in the resume. However, the language is formal and the claims are generally supported by the resume.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and financial analysis abilities. However, there are some minor inconsistencies and exaggerated claims, such as the mention of medical billing experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "430",
+            "recommendation": {
+                "resume_file": "428.json",
+                "recommendation_file": "Recommendation_From_ID_430.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management capabilities and operational performance. The recommender's own experience in accounting adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "629",
+            "recommendation": {
+                "resume_file": "428.json",
+                "recommendation_file": "Recommendation_From_ID_629.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and operational efficiency. The recommender's tone is professional and supportive, indicating a genuine endorsement of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "648",
+            "recommendation": {
+                "resume_file": "428.json",
+                "recommendation_file": "Recommendation_From_ID_648.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Payroll Management",
+                        "Leadership",
+                        "Time Management",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and collaboration on cross-departmental projects."
+                }
+            }
+        },
+        {
+            "recommender_id": "497",
+            "recommendation": {
+                "resume_file": "428.json",
+                "recommendation_file": "Recommendation_From_ID_497.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership qualities, and ability to work in a team environment."
+                }
+            }
+        }
+    ]
+}

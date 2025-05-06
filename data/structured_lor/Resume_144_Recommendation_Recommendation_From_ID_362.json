@@ -1,0 +1,20 @@
+{
+    "resume_file": "144.json",
+    "recommendation_file": "Recommendation_From_ID_362.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Graphic Design",
+            "Art Direction",
+            "Leadership",
+            "Problem Solving",
+            "Time Management",
+            "Communication",
+            "Data Entry"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their creative and project management skills. However, the mention of working with high-profile clients such as PepsiCo and Elizabeth Arden seems exaggerated and lacks concrete evidence from the resume."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "533.json",
+    "recommendation_file": "Recommendation_From_ID_892.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples or details about the candidate's technical skills and experience. The language is formal, but the recommendation focuses more on the candidate's interpersonal skills and production experience rather than their technical expertise.",
+        "verified_skills": [
+            "Problem-solving",
+            "Teamwork",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strengths in production roles and interpersonal skills but does not provide substantial evidence of their technical skills and experience. The recommendation seems to be based on the recommender's personal experience working with the candidate rather than a thorough evaluation of their technical abilities."
+    }
+}

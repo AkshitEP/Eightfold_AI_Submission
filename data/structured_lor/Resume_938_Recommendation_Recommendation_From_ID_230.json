@@ -1,0 +1,19 @@
+{
+    "resume_file": "938.json",
+    "recommendation_file": "Recommendation_From_ID_230.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Quality Assurance",
+            "Customer Service",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Human Resource Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their quality assurance and customer service expertise. The recommender's experience in advocating for customer needs in a fast-paced environment adds credibility to the recommendation."
+    }
+}

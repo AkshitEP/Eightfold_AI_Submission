@@ -1,0 +1,92 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Accountant",
+                "work_description": "Perform all general ledger duties for district. Reconcile multiple bank accounts monthly. Record and project cash flows. Perform Accounts Payable/Receivable duties. Simplified the governmental reporting process. Analyze budgets and amend as necessary. Assist auditors with yearly financial statements. Supply school board members with financial data. Create Purchase Orders and supply to vendors. Reconcile student lunch account purchases. Prepare calendar year-end tax documents. Assisted and trained staff with various accounting software tasks such as purchase order entry and budget report generating.",
+                "company_level": "Mid-level",
+                "start_date": "07/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Performed Accounts Payable duties for three local area public school districts. Processed Purchase Orders and supplied to vendors. Prepared and processed 1099's at calendar year-end. Prepared various reports on a weekly basis and supplied local districts with valuable information. Streamlined document attachment process within accounting software.",
+                "company_level": "Mid-level",
+                "start_date": "11/2010",
+                "end_date": "07/2014"
+            },
+            {
+                "role_name": "Package Handler",
+                "work_description": "Earned Employee of the Month on multiple occasions for customer focus and taking initiative.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2007",
+                "end_date": "09/2010"
+            }
+        ],
+        "education": [
+            {
+                "university": "Western Michigan University",
+                "start_date": "01/2007",
+                "end_date": "04/2010",
+                "domain": "Accountancy",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Over a decade of experience with all aspects of accounting including general ledger duties, accounts payable, accounts receivable, and financial reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Has extensive experience reconciling multiple bank accounts monthly and preparing financial statements, showing strong proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Analyzed budgets and amended as necessary, and assisted with budget report generating, suggesting a strong proficiency in budgeting."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 0,
+                "explanation": "No direct experience with payroll management mentioned in the work descriptions."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Trained staff with various accounting software tasks, but no direct leadership roles mentioned, indicating some practical experience."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No direct experience with Microsoft Excel mentioned in the work descriptions."
+            },
+            {
+                "name": "Accounts Payable",
+                "level": 4,
+                "explanation": "Has extensive experience with accounts payable duties, including processing purchase orders and preparing 1099's, showing strong proficiency."
+            },
+            {
+                "name": "Accounts Receivable",
+                "level": 3,
+                "explanation": "Performed accounts receivable duties, but no extensive experience mentioned, indicating a solid working proficiency."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 3,
+                "explanation": "Analyzed budgets and financial data, but no extensive experience with complex financial analysis mentioned, indicating a solid working proficiency."
+            },
+            {
+                "name": "Auditing",
+                "level": 2,
+                "explanation": "Assisted auditors with yearly financial statements, but no direct experience with auditing mentioned, indicating some practical experience."
+            }
+        ]
+    }
+}

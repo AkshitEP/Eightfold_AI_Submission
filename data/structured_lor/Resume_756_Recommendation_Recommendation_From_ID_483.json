@@ -1,0 +1,14 @@
+{
+    "resume_file": "756.json",
+    "recommendation_file": "Recommendation_From_ID_483.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation mentions network administration skills, which are not explicitly mentioned in the resume. The language is formal, but the recommendation seems to focus on a different set of skills than those listed in the resume.",
+        "verified_skills": [
+            "Leadership"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation highlights the candidate's leadership qualities and ability to communicate technical information effectively, but it does not align well with the skills and experience listed in the resume. The recommendation seems to focus on network administration skills, which are not mentioned in the resume."
+    }
+}

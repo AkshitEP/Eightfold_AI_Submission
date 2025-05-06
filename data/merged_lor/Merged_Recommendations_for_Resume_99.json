@@ -1,0 +1,111 @@
+{
+    "target_id": "99",
+    "recommendations": [
+        {
+            "recommender_id": "819",
+            "recommendation": {
+                "resume_id": 99,
+                "recommendation_file": "Recommendation_From_ID_819.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analytical skills. However, it does not explicitly mention some of the candidate's skills such as Payroll Management, Process Improvement, and Microsoft Excel."
+                }
+            }
+        },
+        {
+            "recommender_id": "838",
+            "recommendation": {
+                "resume_id": 99,
+                "recommendation_file": "Recommendation_From_ID_838.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Process Improvement",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, financial analysis, and process improvement skills. The source of the recommendation is a Director of Finance, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "101",
+            "recommendation": {
+                "resume_id": 99,
+                "recommendation_file": "Recommendation_From_ID_101.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in the recommendation, such as the CEO's claim of working alongside the finance professional, which is not explicitly supported by the resume. However, the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Process Improvement",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the finance professional's expertise in financial management, budget forecasting, and financial reporting, which aligns with their skills and experience. However, some minor inconsistencies and exaggerated claims are present, such as the CEO's claim of working alongside the finance professional."
+                }
+            }
+        },
+        {
+            "recommender_id": "882",
+            "recommendation": {
+                "resume_id": 99,
+                "recommendation_file": "Recommendation_From_ID_882.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Time Management",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their analytical skills, mastery of accounting software, and collaborative work during audit processes. However, the source of the recommendation is unclear, and the recommendation does not explicitly mention all of the candidate's skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "324",
+            "recommendation": {
+                "resume_id": 99,
+                "recommendation_file": "Recommendation_From_ID_324.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Financial Analysis",
+                        "Process Improvement",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting operations, financial analysis, and leadership skills. The source of the recommendation is likely a supervisor or someone in a higher management level, given the mention of 'Director of Finance' and the tone of the recommendation."
+                }
+            }
+        }
+    ]
+}

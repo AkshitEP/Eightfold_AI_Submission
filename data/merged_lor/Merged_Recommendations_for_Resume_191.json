@@ -1,0 +1,96 @@
+{
+    "target_id": "191",
+    "recommendations": [
+        {
+            "recommender_id": "445",
+            "recommendation": {
+                "resume_file": "191.json",
+                "recommendation_file": "Recommendation_From_ID_445.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Leadership",
+                        "Budgeting",
+                        "Auditing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "511",
+            "recommendation": {
+                "resume_file": "191.json",
+                "recommendation_file": "Recommendation_From_ID_511.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Auditing"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analytical skills. The source of the recommendation is a VP of Finance and IS&T, indicating a direct supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "143",
+            "recommendation": {
+                "resume_file": "191.json",
+                "recommendation_file": "Recommendation_From_ID_143.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "General Accounting",
+                        "Budgeting",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Auditing",
+                        "Accounting System Setup",
+                        "Bookkeeping"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise, analytical prowess, and operational efficiency."
+                }
+            }
+        },
+        {
+            "recommender_id": "963",
+            "recommendation": {
+                "resume_file": "191.json",
+                "recommendation_file": "Recommendation_From_ID_963.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "General Accounting",
+                        "Payroll Management",
+                        "Budgeting",
+                        "Leadership",
+                        "Financial Analysis",
+                        "Auditing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise and achievements."
+                }
+            }
+        }
+    ]
+}

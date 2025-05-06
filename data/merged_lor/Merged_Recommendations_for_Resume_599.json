@@ -1,0 +1,45 @@
+{
+    "target_id": "599",
+    "recommendations": [
+        {
+            "recommender_id": "583",
+            "recommendation": {
+                "resume_file": "599.json",
+                "recommendation_file": "Recommendation_From_ID_583.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Event Management",
+                        "Communication",
+                        "Project Management",
+                        "Marketing"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational and communication skills, event planning, and marketing abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "118",
+            "recommendation": {
+                "resume_file": "599.json",
+                "recommendation_file": "Recommendation_From_ID_118.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Event Management",
+                        "Communication",
+                        "Project Management",
+                        "Marketing"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their event management, communication, and marketing abilities. The source of the recommendation appears to be a Lead Administrator, indicating a supervisory relationship."
+                }
+            }
+        }
+    ]
+}

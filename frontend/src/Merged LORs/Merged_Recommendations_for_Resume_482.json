@@ -1,0 +1,127 @@
+{
+    "target_id": "482",
+    "recommendations": [
+        {
+            "recommender_id": "404",
+            "recommendation": {
+                "resume_file": "482.json",
+                "recommendation_file": "Recommendation_From_ID_404.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's claim of 25 years as a Finance Officer in government positions seems inconsistent with the candidate's work history. Additionally, the recommender's tone is overly positive, which may indicate some exaggeration.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Sales Management",
+                        "Leadership",
+                        "Negotiation",
+                        "Customer Relationship Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, negotiation, and customer service skills. However, the recommender's claim of 25 years as a Finance Officer in government positions seems inconsistent with the candidate's work history, which may indicate some exaggeration."
+                }
+            }
+        },
+        {
+            "recommender_id": "445",
+            "recommendation": {
+                "resume_file": "482.json",
+                "recommendation_file": "Recommendation_From_ID_445.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be from an unrelated field (human services) and lacks specific examples of the Finance Manager's skills and experiences. The language is formal, but the connection to the Finance Manager's role is unclear.",
+                    "verified_skills": [
+                        "Customer Relationship Management",
+                        "Leadership",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the Finance Manager's exceptional work ethic, customer-oriented approach, and ability to train and lead teams. However, it lacks specific examples of their financial management skills and experiences, making it less relevant to their resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "45",
+            "recommendation": {
+                "resume_file": "482.json",
+                "recommendation_file": "Recommendation_From_ID_45.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "Exaggerated language, lack of concrete examples, and inconsistencies with the resume.",
+                    "verified_skills": [
+                        "Customer Relationship Management",
+                        "Negotiation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks specific details and evidence to support its claims, raising concerns about its authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "660",
+            "recommendation": {
+                "resume_file": "482.json",
+                "recommendation_file": "Recommendation_From_ID_660.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Inconsistencies and exaggerated claims detected, including unrealistic job responsibilities and unsupported skills.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Time Management",
+                        "Negotiation",
+                        "Customer Relationship Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but contains some inconsistencies and exaggerated claims. The source of the recommendation is unknown."
+                }
+            }
+        },
+        {
+            "recommender_id": "692",
+            "recommendation": {
+                "resume_file": "482.json",
+                "recommendation_file": "Recommendation_From_ID_692.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation mentions two finance managers, but the resume only belongs to one. Additionally, the specific numbers (32% increase in output) seem statistically improbable without further context.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Leadership",
+                        "Negotiation",
+                        "Customer Relationship Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in finance management, leadership, and customer relationship management. However, the mention of two finance managers and specific numbers raises some concerns about the accuracy of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "689",
+            "recommendation": {
+                "resume_file": "482.json",
+                "recommendation_file": "Recommendation_From_ID_689.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Management",
+                        "Sales Management",
+                        "Leadership",
+                        "Customer Relationship Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their finance management and sales management background. However, the recommendation does not mention the candidate's experience in time management and negotiation, which are also listed as skills."
+                }
+            }
+        }
+    ]
+}

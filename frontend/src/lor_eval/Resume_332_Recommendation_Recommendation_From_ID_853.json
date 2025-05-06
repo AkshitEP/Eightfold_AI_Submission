@@ -1,0 +1,18 @@
+{
+    "resume_file": "332.json",
+    "recommendation_file": "Recommendation_From_ID_853.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of leadership skills which is not strongly supported by the resume. However, the recommendation remains largely credible.",
+        "verified_skills": [
+            "Financial Reconciliation",
+            "General Accounting",
+            "Budgeting",
+            "Financial Reporting",
+            "Administrative Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in financial management, but lacks specific examples and details. The mention of leadership skills is not strongly supported by the resume."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "414.json",
+    "recommendation_file": "Recommendation_From_ID_474.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommender's profession as a landscaper seems unrelated to the candidate's medical experience, raising some concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Patient Care",
+            "Communication",
+            "Medical Record Keeping"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's patient care skills, communication abilities, and administrative tasks, which align with their resume. However, the recommender's profession and lack of direct medical experience raise some concerns about the authenticity of the recommendation."
+    }
+}

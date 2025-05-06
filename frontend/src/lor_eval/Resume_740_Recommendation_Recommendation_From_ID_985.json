@@ -1,0 +1,12 @@
+{
+    "resume_file": "740.json",
+    "recommendation_file": "Recommendation_From_ID_985.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation seems to be written for a different person, with no connection to the candidate's skills, experience, or roles mentioned in the resume.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the candidate's resume and seems to be fraudulent."
+    }
+}

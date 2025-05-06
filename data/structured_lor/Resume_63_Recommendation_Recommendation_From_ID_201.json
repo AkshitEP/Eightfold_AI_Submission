@@ -1,0 +1,17 @@
+{
+    "resume_id": 63,
+    "recommendation_file": "Recommendation_From_ID_201.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommender's background and experience seem unrelated to the candidate's field, and the recommendation lacks specific examples from the candidate's work history. However, the language is formal and no statistically improbable claims are detected.",
+        "verified_skills": [
+            "Pharmacy Operations",
+            "Medication Management",
+            "Customer Service",
+            "Inventory Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in customer service, administration, and pharmacy knowledge, but lacks concrete examples from their work history. The recommender's background in aviation safety seems unrelated to the candidate's field, which raises some concerns about the relevance of the recommendation."
+    }
+}

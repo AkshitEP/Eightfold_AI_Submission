@@ -1,0 +1,19 @@
+{
+    "resume_file": "220.json",
+    "recommendation_file": "Recommendation_From_ID_162.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and industry not aligning with the candidate's experience. However, the recommendation remains largely credible.",
+        "verified_skills": [
+            "IT Strategy",
+            "IT Management",
+            "Network Administration",
+            "System Administration",
+            "Security Risk Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership skills, IT expertise, and ability to communicate effectively. However, the recommender's role and industry do not align with the candidate's experience, which raises some minor concerns about the recommendation's credibility."
+    }
+}

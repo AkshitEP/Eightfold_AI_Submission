@@ -1,0 +1,94 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Director",
+                "work_description": "Administer 137 million in federal funding to over 15K low income families in Miami Dade County Create monthly executive reporting package identifying key drivers & metrics of forecasted performance against budget & prior forecasts. Participates with Senior Management to establish economic objectives & policies for the company Oversees internal, external & regulatory audit processes Direct the development & implementation of the corporate annual operating plan & monthly forecasts & initiatives",
+                "company_level": "Large Corporation",
+                "start_date": "01/2012",
+                "end_date": "06/2016"
+            },
+            {
+                "role_name": "Corporate Controller",
+                "work_description": "Financial Management / Oversight: Responsible for all accounts, ledgers, and reporting systems to make sure they are in compliance with appropriate GAAP standards and regulatory requirements Ensure that trial balance accounts are reconciled with the proper support schedules and related documents are complete and properly filed Consistently analyze financial data and present financial reports in an accurate and timely manner",
+                "company_level": "Large Corporation",
+                "start_date": "01/2008",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "SR Tax Analyst",
+                "work_description": "Review and correct Trust Returns (1041), Corporate Returns (1065), and apply CT K-1 to non-residents tax payers. Receive over 200 calls daily from tax payers, and help resolve related tax issues. Review and make adjustments on income tax bill for refund accounts.",
+                "company_level": "Large Corporation",
+                "start_date": "03/2003",
+                "end_date": "12/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Eastern CT State University",
+                "start_date": "01/2004",
+                "end_date": "12/2004",
+                "domain": "Business",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of Hartford",
+                "start_date": "01/2007",
+                "end_date": "12/2007",
+                "domain": "Taxation",
+                "level": "Master's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Over 10 years of experience in financial management, including overseeing internal, external, and regulatory audit processes, and ensuring compliance with GAAP standards and regulatory requirements, indicating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 5,
+                "explanation": "Developed and implemented corporate annual operating plans and monthly forecasts, and presented financial reports to senior management, showing expert-level proficiency in budgeting."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Consistently analyzed financial data and presented financial reports in an accurate and timely manner, indicating expert-level mastery in financial analysis."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Participated with senior management to establish economic objectives and policies for the company, and directed the development and implementation of corporate annual operating plans, showing strong proficiency in leadership."
+            },
+            {
+                "name": "Taxation",
+                "level": 4,
+                "explanation": "Reviewed and corrected tax returns, and applied tax laws and regulations to resolve tax issues, suggesting strong proficiency in taxation."
+            },
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Ensured that trial balance accounts were reconciled with proper support schedules and related documents, and presented financial reports in an accurate and timely manner, indicating expert-level mastery in accounting."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 5,
+                "explanation": "Created monthly executive reporting packages identifying key drivers and metrics of forecasted performance against budget and prior forecasts, showing expert-level proficiency in financial reporting."
+            },
+            {
+                "name": "Compliance",
+                "level": 4,
+                "explanation": "Ensured compliance with GAAP standards and regulatory requirements, suggesting strong proficiency in compliance."
+            },
+            {
+                "name": "Audit",
+                "level": 4,
+                "explanation": "Overseen internal, external, and regulatory audit processes, showing strong proficiency in audit."
+            }
+        ]
+    }
+}

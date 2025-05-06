@@ -1,0 +1,44 @@
+{
+    "target_id": "902",
+    "recommendations": [
+        {
+            "recommender_id": "860",
+            "recommendation": {
+                "resume_file": "902.json",
+                "recommendation_file": "Recommendation_From_ID_860.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear, and the recommender's background in business administration and economics does not directly relate to the candidate's case management experience.",
+                    "verified_skills": [
+                        "Case Management",
+                        "Counseling",
+                        "Assessment and Intervention",
+                        "Advocacy"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional commitment to case management, crisis intervention, and advocacy, but the recommender's background and relationship to the candidate raise some questions about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "27",
+            "recommendation": {
+                "resume_file": "902.json",
+                "recommendation_file": "Recommendation_From_ID_27.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation appears to be written for a different profession (Group Fitness Coordinator) and lacks specific examples of the candidate's case management experience. However, it does mention some transferable skills such as leadership, organizational skills, and interpersonal skills.",
+                    "verified_skills": [
+                        "Assessment and Intervention",
+                        "Advocacy",
+                        "Client Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not seem to be written specifically for the candidate's case management experience, but it does highlight some relevant skills that can be applied to the role. However, the lack of specific examples and the mismatch in profession raises concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

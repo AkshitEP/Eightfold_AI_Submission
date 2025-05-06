@@ -1,0 +1,17 @@
+{
+    "resume_file": "429.json",
+    "recommendation_file": "Recommendation_From_ID_566.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of surpassing recruiting goals by 300% seems statistically improbable and requires further verification.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Recruitment",
+            "Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership, project management, and recruitment skills, but also mentions unrelated achievements in sales and strategic planning. While the recommendation is largely credible, some claims require further verification."
+    }
+}

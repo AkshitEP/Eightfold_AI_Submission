@@ -1,0 +1,49 @@
+{
+    "target_id": "607",
+    "recommendations": [
+        {
+            "recommender_id": "159",
+            "recommendation": {
+                "resume_file": "607.json",
+                "recommendation_file": "Recommendation_From_ID_159.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Instructional Design",
+                        "Collaboration",
+                        "Technology Integration",
+                        "Grant Writing"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, collaboration, and instructional design abilities. The recommender's experience as a Visual Arts Teacher adds credibility to their assessment of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "84",
+            "recommendation": {
+                "resume_file": "607.json",
+                "recommendation_file": "Recommendation_From_ID_84.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Instructional Design",
+                        "Leadership",
+                        "Communication",
+                        "Collaboration",
+                        "Technology Integration"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, curriculum development, and leadership abilities. The recommendation highlights the candidate's ability to foster strong relationships with students and staff, and their commitment to cultivating enriching learning environments."
+                }
+            }
+        }
+    ]
+}

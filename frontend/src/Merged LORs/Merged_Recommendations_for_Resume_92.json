@@ -1,0 +1,89 @@
+{
+    "target_id": "92",
+    "recommendations": [
+        {
+            "recommender_id": "505",
+            "recommendation": {
+                "resume_id": 92,
+                "recommendation_file": "Recommendation_From_ID_505.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in experience and awards mentioned.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Accounts Payable",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "629",
+            "recommendation": {
+                "resume_id": 92,
+                "recommendation_file": "Recommendation_From_ID_629.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Accounts Payable",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting functions and attention to detail. However, the recommendation source is a peer, not a supervisor, which might be considered less authoritative."
+                }
+            }
+        },
+        {
+            "recommender_id": "497",
+            "recommendation": {
+                "resume_id": 92,
+                "recommendation_file": "Recommendation_From_ID_497.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Accounts Payable",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership qualities, and problem-solving abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "403",
+            "recommendation": {
+                "resume_id": 92,
+                "recommendation_file": "Recommendation_From_ID_403.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "General Accounting",
+                        "Financial Reconciliation",
+                        "Accounts Payable",
+                        "Leadership",
+                        "Financial Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise and leadership abilities. The recommendation highlights the candidate's attention to detail, commitment to accuracy, and ability to implement innovative solutions."
+                }
+            }
+        }
+    ]
+}

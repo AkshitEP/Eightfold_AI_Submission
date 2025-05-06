@@ -1,0 +1,30 @@
+{
+    "target_id": "763",
+    "recommendations": [
+        {
+            "recommender_id": "950",
+            "recommendation": {
+                "resume_file": "763.json",
+                "recommendation_file": "Recommendation_From_ID_950.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Accounting",
+                        "Financial Management",
+                        "Bookkeeping",
+                        "Cost Accounting",
+                        "Inventory Control",
+                        "Audit",
+                        "Leadership",
+                        "Strategic Planning",
+                        "Software Implementation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accounting expertise, leadership, and ability to adapt to evolving technologies and processes."
+                }
+            }
+        }
+    ]
+}

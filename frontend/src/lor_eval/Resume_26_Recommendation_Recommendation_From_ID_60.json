@@ -1,0 +1,18 @@
+{
+    "resume_file": "26.json",
+    "recommendation_file": "Recommendation_From_ID_60.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's background and role, but no major red flags.",
+        "verified_skills": [
+            "Recruitment",
+            "Employee Relations",
+            "Training and Development",
+            "Leadership",
+            "Compliance"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, but there are some minor inconsistencies in the recommender's background and role."
+    }
+}

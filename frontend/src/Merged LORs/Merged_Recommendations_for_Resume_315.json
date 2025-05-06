@@ -1,0 +1,62 @@
+{
+    "target_id": "315",
+    "recommendations": [
+        {
+            "recommender_id": "479",
+            "recommendation": {
+                "resume_file": "315.json",
+                "recommendation_file": "Recommendation_From_ID_479.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommender's role and relationship to the candidate are unclear, which raises some concerns about the validity of the recommendation.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Budgeting",
+                        "Microsoft Excel"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but lacks specific examples or metrics to support the recommender's claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "327",
+            "recommendation": {
+                "resume_file": "315.json",
+                "recommendation_file": "Recommendation_From_ID_327.txt",
+                "output": {
+                    "relevance_score": 1,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is completely unrelated to the candidate's skills and experience as an Accountant. The recommendation is for an Information Technology Specialist, not an Accountant.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience. It appears to be a recommendation for a different individual."
+                }
+            }
+        },
+        {
+            "recommender_id": "568",
+            "recommendation": {
+                "resume_file": "315.json",
+                "recommendation_file": "Recommendation_From_ID_568.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Clinical Study Coordinator II may not be directly related to the accountant's work, and some claims seem slightly exaggerated.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Financial Reconciliation",
+                        "General Accounting",
+                        "Asset Management",
+                        "Financial Reporting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the accountant's exceptional skills and commitment to detail, but the recommender's role and experience may not be directly relevant to the accountant's work. The recommendation still provides valuable insights into the accountant's abilities and work ethic."
+                }
+            }
+        }
+    ]
+}

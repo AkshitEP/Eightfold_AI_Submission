@@ -1,0 +1,19 @@
+{
+    "resume_file": "356.json",
+    "recommendation_file": "Recommendation_From_ID_125.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. The language is formal, but the source of the recommendation is unclear.",
+        "verified_skills": [
+            "Yoga Instruction",
+            "Fitness Instruction",
+            "Nutrition Education",
+            "Program Management",
+            "Leadership",
+            "Public Speaking"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills and experience in wellness program development, nutrition education, and leadership. However, it lacks specific examples from the candidate's resume and seems to be written from a general perspective rather than a direct supervisor or colleague."
+    }
+}

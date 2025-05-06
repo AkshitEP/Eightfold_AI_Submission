@@ -1,0 +1,108 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Clerk",
+                "work_description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Made copies, sent faxes and handled all incoming and outgoing correspondence. Organized files, developed spreadsheets, faxed reports and scanned documents.",
+                "company_level": "Mid-level",
+                "start_date": "04/2015",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Accounts Payable Clerk",
+                "work_description": "Receive and verify invoices and requirements and match purchase orders to invoice Prepare batches of invoices for data entry by matching invoices to correct vendor number Responsible for management of the weekly check mailings In charge of maintaining updated vendor files and file numbers Daily task includes the management of a customer service line (payment status, missing invoice, etc.)",
+                "company_level": "Mid-level",
+                "start_date": "02/2014",
+                "end_date": "03/2014"
+            },
+            {
+                "role_name": "Accounts Payable Clerk",
+                "work_description": "Auditing of several months of Sprint bills to check for discrepancy in Plan rates. Preformed calculations, collected bills, analyzed charges and complete variances in Excel Spreadsheets. Completed and developed a procedure for the Auditing of Sprint Bills.",
+                "company_level": "Mid-level",
+                "start_date": "12/2013",
+                "end_date": "02/2014"
+            },
+            {
+                "role_name": "AP/AR Clerk",
+                "work_description": "Executed accounts receivable reporting enhancements and reconciliation procedures. Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions.",
+                "company_level": "Mid-level",
+                "start_date": "07/2013",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Accounts Receivable Accounts Receivable Specialist III",
+                "work_description": "Posted overhead invoices to appropriate general ledger accounts. Researched and resolved accounts payable discrepancies through invoice adjustments Coded and entered at least [50] invoices each day. Effectively managed a high-volume of inbound and outbound customer calls.",
+                "company_level": "Mid-level",
+                "start_date": "08/2000",
+                "end_date": "06/2011"
+            },
+            {
+                "role_name": "Apartment Manager/Leasing",
+                "work_description": "Tipton Management- Pine Lake Village Apartments Leased, Managed and Maintained 96% Occupancy Paid Bills by allocated Budget Completed move-ins and Move outs Got Painting and Sign bids (property rehab) Serve Evictions and filed Evictions Sent Letters out for Renewals and offered incentives for Renewals.",
+                "company_level": "Mid-level",
+                "start_date": "08/1999",
+                "end_date": "12/2000"
+            }
+        ],
+        "education": [
+            {
+                "university": "CTU Online",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Human Resource Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Accounts Payable",
+                "level": 4,
+                "explanation": "Has extensive experience in accounts payable, including verifying invoices, matching purchase orders, and managing vendor files, showing strong proficiency."
+            },
+            {
+                "name": "Accounts Receivable",
+                "level": 4,
+                "explanation": "Has extensive experience in accounts receivable, including posting invoices, researching discrepancies, and managing customer calls, showing strong proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 4,
+                "explanation": "Has extensive experience in data entry, including entering invoices, managing spreadsheets, and using specialized accounting software, showing strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Has experience in customer service, including managing customer calls, resolving discrepancies, and providing information, showing solid working proficiency."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Has extensive experience in using Excel for tasks such as auditing, calculating, and analyzing data, showing strong proficiency."
+            },
+            {
+                "name": "Accounting Software",
+                "level": 3,
+                "explanation": "Has experience in using specialized accounting software for tasks such as data entry and managing spreadsheets, showing solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience in managing multiple tasks and deadlines, including managing a high-volume of customer calls and entering invoices, showing solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience in leadership, including managing a team as an apartment manager, but lacks extensive experience, showing some practical experience."
+            },
+            {
+                "name": "Human Resource Management",
+                "level": 2,
+                "explanation": "Has some education in human resource management, but lacks extensive experience, showing some practical experience."
+            }
+        ]
+    }
+}

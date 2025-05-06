@@ -1,0 +1,19 @@
+{
+    "resume_file": "862.json",
+    "recommendation_file": "Recommendation_From_ID_710.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Accountant II' which is not present in the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Accounting Standards",
+            "Financial Analysis",
+            "Cash Flow Management",
+            "Payroll Management",
+            "Accounts Payable/Receivable"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in financial reporting, regulatory compliance, and analytical skills, which aligns with their experience as a Financial Accountant. However, some minor inconsistencies and lack of specific details reduce the relevance score."
+    }
+}

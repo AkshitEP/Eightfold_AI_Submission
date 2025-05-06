@@ -1,0 +1,20 @@
+{
+    "resume_file": "508.json",
+    "recommendation_file": "Recommendation_From_ID_165.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales",
+            "Account Management",
+            "Customer Service",
+            "Marketing",
+            "Communication",
+            "Leadership",
+            "Strategic Planning"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales, account management, and customer service abilities. The recommendation also highlights the candidate's ability to drive membership growth and exceed quarterly sales goals."
+    }
+}

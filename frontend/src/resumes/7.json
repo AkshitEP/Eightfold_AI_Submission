@@ -1,0 +1,91 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "HR Director",
+                "work_description": "Communicate orally and written with children, parents, staff, volunteers, guardians, therapist, case workers with a variety of economic backgrounds, with clear and precise understanding withholding confidential or sensitive information with discretion. Develop, implement, and monitor training programs suitable for employee retention. Skilled in identifying problems, and determining accurate and relevance of information, by using sound judgment to generate and evaluate an alternative while making a decision. Develop policies and procedures, to include researching, drafting, editing and revising according to the federal, state, and county laws as well as assuring these policies and procedures are met.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Administrator",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Event Specialist",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "01/2008"
+            },
+            {
+                "role_name": "Assistant Director",
+                "work_description": "",
+                "company_level": "Mid-level",
+                "start_date": "01/1996",
+                "end_date": "01/2005"
+            }
+        ],
+        "education": [
+            {
+                "university": "Webster University",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Human Resources Management / Management and Leadership",
+                "level": "Master's"
+            },
+            {
+                "university": "Benedict College",
+                "start_date": "",
+                "end_date": "",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with diverse groups of people, including children, parents, staff, and volunteers, demonstrating strong proficiency in oral and written communication."
+            },
+            {
+                "name": "Training and Development",
+                "level": 4,
+                "explanation": "Developed, implemented, and monitored training programs to improve employee retention, indicating a strong proficiency in training and development."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Utilized sound judgment to identify problems, evaluate information, and generate alternative solutions, demonstrating a strong proficiency in problem-solving."
+            },
+            {
+                "name": "Policy Development",
+                "level": 4,
+                "explanation": "Researched, drafted, edited, and revised policies and procedures to ensure compliance with federal, state, and county laws, indicating a strong proficiency in policy development."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Held various leadership roles, including HR Director and Assistant Director, demonstrating a strong proficiency in leadership and management."
+            },
+            {
+                "name": "Employee Relations",
+                "level": 3,
+                "explanation": "Handled employee retention and training, showing a solid working proficiency in employee relations."
+            },
+            {
+                "name": "Human Resources Management",
+                "level": 4,
+                "explanation": "Possesses a Master's degree in Human Resources Management and has worked in various HR roles, indicating a strong proficiency in HR management."
+            }
+        ]
+    }
+}

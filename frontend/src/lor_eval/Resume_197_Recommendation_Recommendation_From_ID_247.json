@@ -1,0 +1,19 @@
+{
+    "resume_file": "197.json",
+    "recommendation_file": "Recommendation_From_ID_247.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Sales Management",
+            "Business Development",
+            "Change Management",
+            "Strategic Planning",
+            "Real Estate"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership qualities, business development successes, and strong communication skills."
+    }
+}

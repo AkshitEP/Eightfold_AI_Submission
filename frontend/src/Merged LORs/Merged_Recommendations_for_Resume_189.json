@@ -1,0 +1,52 @@
+{
+    "target_id": "189",
+    "recommendations": [
+        {
+            "recommender_id": "530",
+            "recommendation": {
+                "resume_file": "189.json",
+                "recommendation_file": "Recommendation_From_ID_530.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounts Payable",
+                        "Financial Operations",
+                        "Tax Calculations",
+                        "Oracle R11/R12",
+                        "Cash Flow Management",
+                        "Leadership",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management, analytical, and communication skills. The recommendation highlights the candidate's attention to detail, technical proficiency, and ability to work with complex software systems."
+                }
+            }
+        },
+        {
+            "recommender_id": "333",
+            "recommendation": {
+                "resume_file": "189.json",
+                "recommendation_file": "Recommendation_From_ID_333.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions two individuals, but the resume only belongs to one person.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Accounts Payable",
+                        "Financial Operations",
+                        "Tax Calculations",
+                        "Cash Flow Management",
+                        "Leadership",
+                        "Financial Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and accounting expertise. However, the mention of two individuals and some exaggerated claims reduce the relevance score and increase the fraud chance level."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "ABA Therapist",
+                "work_description": "Work one-on-one with a morning child and an afternoon child. Was trained on multiple different children to sub in or to help out at anytime. Followed and implemented all behavior/treatment plans and guidelines. Maintained daily and detailed records of child's individual activities, targets, behaviors, meals and other activities. Supervised/engaged in outing (field trips) that my child attended. Helped child reach milestone in self-care, educational and social areas. Developed professional relationships with parents/families, teachers/other therapists, directors/program managers. Collaborated monthly with Program managers about child's progress and new ideas to possibly implement for more growth.",
+                "company_level": "Mid-level",
+                "start_date": "05/2015",
+                "end_date": "08/2017"
+            },
+            {
+                "role_name": "Fitness Consultant",
+                "work_description": "Keep watch for any safety infractions. Answer any needs/questions that patrons have. Provide a fun and safe environment for patrons to workout in.",
+                "company_level": "Mid-level",
+                "start_date": "03/2015",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "Purdue University",
+                "start_date": "01/2018",
+                "end_date": "12/2018",
+                "domain": "Psychology",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Running",
+            "Lifting",
+            "Crossfit Competitor",
+            "Watching documentaries",
+            "Playing with animals",
+            "Babysitting"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Child Development",
+                "level": 4,
+                "explanation": "Worked one-on-one with children, implemented behavior/treatment plans, and maintained detailed records, indicating strong proficiency in child development."
+            },
+            {
+                "name": "Behavioral Therapy",
+                "level": 4,
+                "explanation": "Trained on multiple children, implemented treatment plans, and helped children reach milestones, suggesting strong proficiency in behavioral therapy."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Developed professional relationships with parents, teachers, and other therapists, and collaborated with program managers, showing solid working proficiency in communication."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed daily activities, maintained records, and supervised outings, indicating solid working proficiency in time management."
+            },
+            {
+                "name": "Safety and Risk Management",
+                "level": 2,
+                "explanation": "Kept watch for safety infractions as a fitness consultant, showing some practical experience in safety and risk management."
+            },
+            {
+                "name": "Customer Service",
+                "level": 2,
+                "explanation": "Provided a fun and safe environment for patrons, answered questions, and addressed needs, indicating some practical experience in customer service."
+            },
+            {
+                "name": "Psychology",
+                "level": 1,
+                "explanation": "Completed a Bachelor of Science in Psychology, but no direct work experience is mentioned, indicating basic familiarity with the subject."
+            }
+        ]
+    }
+}

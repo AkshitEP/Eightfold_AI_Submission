@@ -1,0 +1,135 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Technical IT Healthcare Consultant",
+                "work_description": "Design, Build, Test, and Deploy base upon technical requirements of vendor. System installations and maintenance (Window 8 Professional server, desktop, network). Implementation of Medisoft V20 Healthcare Application for Clinical Healthcare Facility. Provided Data conversion from existing system to Medisoft V20. performance tuning and troubleshooting of server, network, desktop. Automation of Backup/Restore. Participate in on-call rotation 24x7.",
+                "company_level": "Mid-level",
+                "start_date": "04/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Linux System Administrator",
+                "work_description": "Linux Red Hat - configuration, installations, administration, and monitoring twenty IBM Blades with fault tolerant, snapshot, LVM, and selinux. Manage and troubleshoot Linux servers, network, and application issues (Apache, Oracle, Java) System Administration, bash scripting, security, satellite patching, auditing, Unix automation Managing and Administrating automation process utilizing Puppet Automation Tool to implement applications, packages, and upgrades on window and linux environment. TCP/IP networking and troubleshooting and maintain Level 2 and 3 support (24x7).",
+                "company_level": "Mid-level",
+                "start_date": "10/2012",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "UNIX/LINUX System Administrator",
+                "work_description": "Managed, administered, and provided remote troubleshooting and analysis for server/client configuration, TCP/IP networking hardware, protocols, LAN and WAN technologies for over 500 servers running Red Hat version 5.6 and Solaris 9.0 Veritas Cluster Server - maintenance on are group applications in the VCS environment Apache, Tomcat, Web Logic - primary support of all applications using Apache and web logic VMware - Administrator primary support of all applications running VM Oracle Middleware/Database - system administrative support Data Center Migration and Consolidation onto Cloud platform and enables.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2010",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "HP-System Administrator",
+                "work_description": "This position requires the maintenance and support of over 900 servers running HP-UX 9, 10, 11i, and linux servers. MC/Service Guard - configuration and maintenance on the exiting service guard clusters for the Oracle databases Ignite-UX - configuration, install and support for DR and build HP-UX Linux Red Hat - configuration and installations of Red Hat version 5.3 on IBM Blades, HP Blades and Dell Blades Superdome - created new Vpar partitions and maintenance on the existing Scripting - write shell scripts to perform monitoring and daily maintenance of the applications and operating systems Disaster Recovery - planning, implementing and documenting LVM - manage physical disks, luns, file systems and volume groups Analyze technical and business requirements/Engineering design and layout Application maintenance and support for Highly Critical Application.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2007",
+                "end_date": "03/2010"
+            },
+            {
+                "role_name": "HP-UX System Administrator",
+                "work_description": "This position required the maintenance and support of over 1000 HP-UX servers running HP-UX versions 10.20 and 11.X. Performed all system administration functions on the HP-UX server for the crisis management team Superdome - SM, maintenance, patches and upgrades HP_UX System Performance - provided technical solutions to customers and high level support organizations within Hewlett Packard to increase system performance Veritas Clustering - primary support and implemented VCS Clustering Disaster Recovery - perform, document and maintain DR procedure and guideline for Off-site DR drills KVM -created file systems to match the specifications for UNIX servers Korn Shell scripting, security, auditing, UNIX Automation PCI Compliance Patching - primary support of all systems.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1995",
+                "end_date": "02/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Georgia State University",
+                "start_date": "01/1987",
+                "end_date": "12/1987",
+                "domain": "Accounting and Computer Science",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Georgia Tech Institute",
+                "start_date": "01/1990",
+                "end_date": "12/1990",
+                "domain": "Programming and Computer Science",
+                "level": "Technical IT Certification"
+            },
+            {
+                "university": "Georgia Tech Institute",
+                "start_date": "01/1992",
+                "end_date": "12/1992",
+                "domain": "Programming and Technology",
+                "level": "Technical IT Certification"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Linux System Administration",
+                "level": 5,
+                "explanation": "Has extensive experience in Linux system administration, including configuration, installation, and monitoring of Linux servers, as well as troubleshooting and security management."
+            },
+            {
+                "name": "UNIX System Administration",
+                "level": 5,
+                "explanation": "Has extensive experience in UNIX system administration, including management, administration, and remote troubleshooting of UNIX servers, as well as experience with Veritas Cluster Server and Oracle Middleware/Database."
+            },
+            {
+                "name": "HP-UX System Administration",
+                "level": 5,
+                "explanation": "Has extensive experience in HP-UX system administration, including maintenance and support of HP-UX servers, as well as experience with MC/Service Guard, Ignite-UX, and Superdome."
+            },
+            {
+                "name": "Red Hat Linux",
+                "level": 4,
+                "explanation": "Has experience with Red Hat Linux, including configuration, installation, and administration of Red Hat Linux servers."
+            },
+            {
+                "name": "Apache",
+                "level": 4,
+                "explanation": "Has experience with Apache, including primary support and troubleshooting of Apache applications."
+            },
+            {
+                "name": "Oracle",
+                "level": 4,
+                "explanation": "Has experience with Oracle, including primary support and troubleshooting of Oracle applications."
+            },
+            {
+                "name": "VMware",
+                "level": 4,
+                "explanation": "Has experience with VMware, including administration and primary support of VMware applications."
+            },
+            {
+                "name": "TCP/IP Networking",
+                "level": 4,
+                "explanation": "Has experience with TCP/IP networking, including configuration, troubleshooting, and maintenance of TCP/IP networks."
+            },
+            {
+                "name": "Scripting (Bash, Korn Shell)",
+                "level": 4,
+                "explanation": "Has experience with scripting languages, including Bash and Korn Shell, and has used these languages to automate tasks and perform monitoring and maintenance."
+            },
+            {
+                "name": "Disaster Recovery",
+                "level": 4,
+                "explanation": "Has experience with disaster recovery, including planning, implementing, and documenting disaster recovery procedures."
+            },
+            {
+                "name": "Cloud Computing",
+                "level": 3,
+                "explanation": "Has experience with cloud computing, including migration and consolidation of data centers onto cloud platforms."
+            },
+            {
+                "name": "Puppet Automation Tool",
+                "level": 3,
+                "explanation": "Has experience with Puppet Automation Tool, including implementation and administration of Puppet to automate tasks and manage environments."
+            },
+            {
+                "name": "Medisoft V20 Healthcare Application",
+                "level": 3,
+                "explanation": "Has experience with Medisoft V20 Healthcare Application, including implementation and support of the application."
+            }
+        ]
+    }
+}

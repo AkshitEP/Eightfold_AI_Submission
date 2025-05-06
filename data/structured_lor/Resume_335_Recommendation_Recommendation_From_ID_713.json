@@ -1,0 +1,19 @@
+{
+    "resume_file": "335.json",
+    "recommendation_file": "Recommendation_From_ID_713.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a Purchasing Agent is unrelated to the candidate's banking experience. This might indicate a lack of direct knowledge about the candidate's skills and performance.",
+        "verified_skills": [
+            "Bank Operations",
+            "Compliance Analysis",
+            "Customer Service",
+            "Data Analysis",
+            "Team Management",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's analytical skills, attention to detail, and ability to streamline processes. However, the recommender's role is unrelated to the candidate's banking experience, which might affect the credibility of the recommendation."
+    }
+}

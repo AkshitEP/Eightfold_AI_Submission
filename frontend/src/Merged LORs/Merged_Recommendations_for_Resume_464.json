@@ -1,0 +1,53 @@
+{
+    "target_id": "464",
+    "recommendations": [
+        {
+            "recommender_id": "402",
+            "recommendation": {
+                "resume_file": "464.json",
+                "recommendation_file": "Recommendation_From_ID_402.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Leadership",
+                        "Teamwork",
+                        "Aviation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and problem-solving abilities. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "896",
+            "recommendation": {
+                "resume_file": "464.json",
+                "recommendation_file": "Recommendation_From_ID_896.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Leadership",
+                        "Time Management",
+                        "Teamwork",
+                        "Technical Skills",
+                        "Safety and Security",
+                        "Data Entry",
+                        "Aviation"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their adaptability, leadership, and analytical capabilities. The source of the recommendation appears to be a peer, likely a colleague or coworker in the aerospace industry."
+                }
+            }
+        }
+    ]
+}

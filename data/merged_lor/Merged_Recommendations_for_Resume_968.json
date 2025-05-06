@@ -1,0 +1,88 @@
+{
+    "target_id": "968",
+    "recommendations": [
+        {
+            "recommender_id": "155",
+            "recommendation": {
+                "resume_id": 968,
+                "recommendation_file": "Recommendation_From_ID_155.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and overly flattering language may indicate some exaggeration.",
+                    "verified_skills": [
+                        "Marketing Automation",
+                        "Marketing Technology",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the resume, but the recommender's language is overly flattering, and their connection to the candidate is unclear."
+                }
+            }
+        },
+        {
+            "recommender_id": "231",
+            "recommendation": {
+                "resume_file": "968.json",
+                "recommendation_file": "Recommendation_From_ID_231.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommender's background seems unrelated to the candidate's field, and the comparison between the candidate's work and the recommender's experience in the culinary world may be seen as an exaggeration.",
+                    "verified_skills": [
+                        "Marketing Automation",
+                        "Analytical and Strategic Capabilities"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but raises some concerns due to the recommender's background and the comparison between the candidate's work and the recommender's experience in the culinary world."
+                }
+            }
+        },
+        {
+            "recommender_id": "961",
+            "recommendation": {
+                "resume_file": "968.json",
+                "recommendation_file": "Recommendation_From_ID_961.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is a Dance Educator, which may not be directly related to the candidate's field of expertise. However, the recommendation provides specific examples of the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Marketing Automation",
+                        "Marketing Strategy",
+                        "Project Management",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their marketing automation expertise and collaborative spirit. However, the source of the recommendation is not directly related to the candidate's field, which may raise some concerns."
+                }
+            }
+        },
+        {
+            "recommender_id": "995",
+            "recommendation": {
+                "resume_file": "968.json",
+                "recommendation_file": "Recommendation_From_ID_995.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems overly flattering and lacks specific examples from the candidate's work experience. The source of the recommendation is unclear and the language used is not typical of a professional recommendation.",
+                    "verified_skills": [
+                        "Marketing Automation",
+                        "Marketing Strategy",
+                        "Project Management",
+                        "Leadership",
+                        "Communication",
+                        "Eloqua",
+                        "Marketing Technology",
+                        "Sales Effectiveness"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills and experience in marketing automation, but the language used is overly flattering and lacks specific examples. The source of the recommendation is unclear, which raises concerns about its credibility."
+                }
+            }
+        }
+    ]
+}

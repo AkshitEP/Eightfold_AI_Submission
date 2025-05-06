@@ -1,0 +1,19 @@
+{
+    "resume_file": "609.json",
+    "recommendation_file": "Recommendation_From_ID_607.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Technical Support",
+            "Problem Solving",
+            "Leadership",
+            "Communication",
+            "Project Management",
+            "Software Installation"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support abilities, customer service skills, and leadership qualities. The recommender's perspective as a School Library Media Specialist adds credibility to their assessment of the candidate's communication and interpersonal skills."
+    }
+}

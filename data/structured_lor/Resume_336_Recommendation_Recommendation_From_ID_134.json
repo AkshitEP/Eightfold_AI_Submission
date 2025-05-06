@@ -1,0 +1,18 @@
+{
+    "resume_file": "336.json",
+    "recommendation_file": "Recommendation_From_ID_134.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Health Coaching",
+            "Health Education",
+            "Clinical Nutrition",
+            "Communication",
+            "Collaboration/Teamwork"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their approach to health coaching and education."
+    }
+}

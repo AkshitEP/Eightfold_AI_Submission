@@ -1,0 +1,17 @@
+{
+    "resume_file": "552.json",
+    "recommendation_file": "Recommendation_From_ID_495.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 3,
+        "fraud_reason": "The recommendation seems to be comparing the candidate to someone else, and the language used is overly flattering. The recommendation also mentions the candidate's skills and experience, but it does not provide specific examples or details.",
+        "verified_skills": [
+            "Project Management",
+            "IT Governance",
+            "Database Development/Maintenance",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership skills and experience in IT governance and database development. However, it does not provide specific examples or details to support these claims. The language used is also overly flattering, which raises some concerns about the authenticity of the recommendation."
+    }
+}

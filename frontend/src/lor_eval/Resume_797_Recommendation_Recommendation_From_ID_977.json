@@ -1,0 +1,23 @@
+{
+    "resume_file": "797.json",
+    "recommendation_file": "Recommendation_From_ID_977.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Reporting",
+            "Budgeting",
+            "Financial Analysis",
+            "Accounting",
+            "Taxation",
+            "Leadership",
+            "Financial Planning",
+            "Auditing",
+            "Financial System Implementation",
+            "Microsoft Excel"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial planning, reporting, and analysis capabilities. The recommendation highlights the candidate's strong analytical skills, attention to detail, and excellent communication skills."
+    }
+}

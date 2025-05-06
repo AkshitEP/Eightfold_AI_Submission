@@ -1,0 +1,21 @@
+{
+    "resume_file": "467.json",
+    "recommendation_file": "Recommendation_From_ID_244.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Automation",
+            "Troubleshooting",
+            "Customer Service",
+            "Leadership",
+            "Training and Development",
+            "Technical Support",
+            "Problem-Solving",
+            "Communication"
+        ],
+        "recommendation_source": "Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership, and communication skills. The recommendation source is likely a supervisor, given their familiarity with the candidate's work and their role as a Training Manager."
+    }
+}

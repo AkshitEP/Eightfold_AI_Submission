@@ -1,0 +1,18 @@
+{
+    "resume_file": "789.json",
+    "recommendation_file": "Recommendation_From_ID_184.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but mentions unrelated skills and experiences, such as law and community service, which are not present in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Innovation",
+            "Team Management",
+            "Cost Management",
+            "Customer Service"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in healthcare technology, but also mentions unrelated skills and experiences. The language is formal, but the mention of unrelated skills raises some concerns about the recommendation's credibility."
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "target_id": "95",
+    "recommendations": [
+        {
+            "recommender_id": "352",
+            "recommendation": {
+                "resume_id": 95,
+                "recommendation_file": "Recommendation_From_ID_352.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Aircraft Handling",
+                        "Communication",
+                        "Teamwork",
+                        "Customer Service",
+                        "Aviation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work as a Line Service Technician and highlighting their dedication to aviation."
+                }
+            }
+        },
+        {
+            "recommender_id": "919",
+            "recommendation": {
+                "resume_id": 95,
+                "recommendation_file": "Recommendation_From_ID_919.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat formal for a recommendation from a supply chain manager. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Aircraft Handling",
+                        "Communication",
+                        "Teamwork",
+                        "Aviation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in the aviation industry, providing specific examples of their technical skills and work ethic. However, the source of the recommendation is unclear, and the language is somewhat formal for a recommendation from a supply chain manager."
+                }
+            }
+        },
+        {
+            "recommender_id": "924",
+            "recommendation": {
+                "resume_id": 95,
+                "recommendation_file": "Recommendation_From_ID_924.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Exaggerated claims and unknown source raise concerns about credibility.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Teamwork",
+                        "Aviation"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with key areas of expertise. The unknown source and exaggerated claims raise concerns about credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "243",
+            "recommendation": {
+                "resume_id": 95,
+                "recommendation_file": "Recommendation_From_ID_243.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Aircraft Handling",
+                        "Communication",
+                        "Aviation"
+                    ],
+                    "recommendation_source": "Supervisor/Boss",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their aviation experience and education. The recommender's leadership experience in aviation logistics adds credibility to the recommendation."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "target_id": "595",
+    "recommendations": [
+        {
+            "recommender_id": "678",
+            "recommendation": {
+                "resume_file": "595.json",
+                "recommendation_file": "Recommendation_From_ID_678.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Quality Control",
+                        "Mechanical Maintenance",
+                        "Troubleshooting",
+                        "Safety Procedures",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their mechanical and operational expertise. The recommender's background in aerospace and experience working with the candidate on multiple projects adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "521",
+            "recommendation": {
+                "resume_file": "595.json",
+                "recommendation_file": "Recommendation_From_ID_521.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Quality Control",
+                        "Mechanical Maintenance",
+                        "Troubleshooting",
+                        "Safety Procedures",
+                        "Leadership",
+                        "Project Management",
+                        "Time Management",
+                        "Communication",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational efficiency, problem-solving abilities, and attention to detail. The recommender's experience as an Assistant to the CFO adds credibility to their assessment of the candidate's skills."
+                }
+            }
+        }
+    ]
+}

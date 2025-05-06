@@ -1,0 +1,22 @@
+{
+    "resume_file": "242.json",
+    "recommendation_file": "Recommendation_From_ID_446.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Human Resources Management",
+            "Project Management",
+            "Global Talent Management",
+            "Organizational Development",
+            "Recruitment and Staffing",
+            "Training and Development",
+            "Data Analysis",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, project management, and talent development expertise. However, the recommendation appears to be written for two individuals, which may indicate a template or generic recommendation."
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "target_id": "293",
+    "recommendations": [
+        {
+            "recommender_id": "938",
+            "recommendation": {
+                "resume_file": "293.json",
+                "recommendation_file": "Recommendation_From_ID_938.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be more focused on Jeanette Bellamy's career and qualities rather than the candidate's skills and experience. This inconsistency raises concerns about the authenticity of the recommendation.",
+                    "verified_skills": [
+                        "Dance Instruction"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation lacks substantial detail and alignment with the key areas of expertise. It seems to be more focused on Jeanette Bellamy's career and qualities rather than the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "16",
+            "recommendation": {
+                "resume_file": "293.json",
+                "recommendation_file": "Recommendation_From_ID_16.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's profession as a phlebotomist preceptor seems unrelated to the candidate's dance instruction experience. However, the recommendation provides specific examples of the candidate's teaching methods and leadership skills.",
+                    "verified_skills": [
+                        "Dance Instruction",
+                        "Ballet",
+                        "Leadership",
+                        "Early Childhood Education"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and leadership skills. However, the recommender's profession seems unrelated to the candidate's dance instruction experience, which raises some concerns about the recommender's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "336",
+            "recommendation": {
+                "resume_file": "293.json",
+                "recommendation_file": "Recommendation_From_ID_336.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but there are some inconsistencies, such as the mention of Caitlin, a health coach, which seems unrelated to the dance instructor's resume.",
+                    "verified_skills": [
+                        "Dance Instruction",
+                        "Ballet",
+                        "Early Childhood Education"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns somewhat with the candidate's skills and experience, but there are some inconsistencies that raise questions about its genuineness."
+                }
+            }
+        },
+        {
+            "recommender_id": "829",
+            "recommendation": {
+                "resume_file": "293.json",
+                "recommendation_file": "Recommendation_From_ID_829.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and informal language, but no statistically improbable claims.",
+                    "verified_skills": [
+                        "Ballet",
+                        "Jazz",
+                        "Contemporary",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's skills and experience, but there are some minor inconsistencies and informal language."
+                }
+            }
+        }
+    ]
+}

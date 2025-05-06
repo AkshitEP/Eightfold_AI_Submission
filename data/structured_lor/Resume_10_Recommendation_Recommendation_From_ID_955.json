@@ -1,0 +1,18 @@
+{
+    "resume_file": "10.json",
+    "recommendation_file": "Recommendation_From_ID_955.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Client Service",
+            "Risk Management",
+            "Process Improvement",
+            "Team Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational excellence, client service, and risk management capabilities. However, the mention of a V/P Commercial Relationship Manager role is not present in the provided resume details, which might indicate an error or omission."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "resume_file": "112.json",
+    "recommendation_file": "Recommendation_From_ID_459.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the language is overly flattering and lacks specific examples from the candidate's work experience as a Program Manager or Coding Compliance Auditor.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's leadership, communication, and project management skills, which are relevant to their experience as a College Assistant. However, it lacks specific examples from their work experience as a Program Manager or Coding Compliance Auditor, and the language is overly flattering."
+    }
+}

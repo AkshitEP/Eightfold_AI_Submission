@@ -1,0 +1,119 @@
+{
+    "target_id": "68",
+    "recommendations": [
+        {
+            "recommender_id": "832",
+            "recommendation": {
+                "resume_id": 68,
+                "recommendation_file": "Recommendation_From_ID_832.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "HR Policy Development",
+                        "Employee Relations",
+                        "Compliance",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR leadership and expertise. The source of the recommendation is an HR Coordinator who has worked closely with the candidate, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "459",
+            "recommendation": {
+                "resume_id": 68,
+                "recommendation_file": "Recommendation_From_ID_459.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "HR Policy Development",
+                        "Employee Onboarding",
+                        "Employee Training",
+                        "Employee Relations",
+                        "Compliance",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns perfectly with the candidate's skills and experience, providing specific examples of their accomplishments and strengths. The language used is formal and professional, indicating a genuine and well-supported recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "945",
+            "recommendation": {
+                "resume_id": 68,
+                "recommendation_file": "Recommendation_From_ID_945.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "Benefits Administration",
+                        "Employee Relations",
+                        "Compliance",
+                        "Leadership",
+                        "HR Policy Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR leadership and management abilities. The recommender's experience working closely with the candidate adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "739",
+            "recommendation": {
+                "resume_file": "68.json",
+                "recommendation_file": "Recommendation_From_ID_739.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "Employee Relations",
+                        "Compliance",
+                        "Leadership",
+                        "Employee Training"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR expertise and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "981",
+            "recommendation": {
+                "resume_id": 68,
+                "recommendation_file": "Recommendation_From_ID_981.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Employee Onboarding",
+                        "Employee Relations",
+                        "HR Policy Development",
+                        "Benefits Administration",
+                        "Employee Training",
+                        "Compliance",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation is highly relevant, providing specific examples of the candidate's skills and experience in HR. The source of the recommendation is a peer, an HR Shared Services Analyst, who has witnessed the candidate's work firsthand."
+                }
+            }
+        }
+    ]
+}

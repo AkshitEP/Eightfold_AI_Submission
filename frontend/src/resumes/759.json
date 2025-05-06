@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Account Executive",
+                "work_description": "Executed daily cold calls to top level executives to increase client base. Exceeded targeted sales goals by [number]%. Emphasized product features based on analysis of customers' needs. Taught potential clients about products through seminars and other special events. Responsible for selling online, web-based technology tools to Director & VP level professionals.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Business Development Associate",
+                "work_description": "Prospect small to large employers within the St Louis market, selling an array of business solutions using a consultative sales approach. Responsible for developing a new customer base through cold calling and community networking.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2010",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Sales & Operations Manager",
+                "work_description": "Operated health club facilities through the United States which were transitioned or sold to different organizations through the course of the years. Increased profits by developing, initiating, and managing corporate fitness program - sold large corporate accounts such as Sallie Mae, Roche Pharmaceutical, St Vincent Health Center and Indiana University.",
+                "company_level": "Mid-level",
+                "start_date": "01/2007",
+                "end_date": "01/2010"
+            },
+            {
+                "role_name": "Sales Manager & Assistant Sales Manager",
+                "work_description": "Successfully opened the new multi-million dollar facility that was at 20% of projected revenue, increasing revenue to 125% of corporate expectations within 2 months. Accountable for $1.5 Million in annual revenue. Responsible for 20 plus employees: hiring, training and developing new sales counselors to succeed.",
+                "company_level": "Mid-level",
+                "start_date": "05/2002",
+                "end_date": "12/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Lindenwood University",
+                "start_date": "01/2005",
+                "end_date": "12/2005",
+                "domain": "Business Administration & Criminal Justice",
+                "level": "Master's"
+            },
+            {
+                "university": "",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Criminal Justice",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Sales",
+                "level": 5,
+                "explanation": "Has extensive experience in sales, consistently exceeding targets and developing new customer bases, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has led teams of over 20 employees, trained and developed new sales counselors, and managed large corporate accounts, showing expert-level leadership skills."
+            },
+            {
+                "name": "Business Development",
+                "level": 5,
+                "explanation": "Has successfully developed new customer bases and increased profits through the development of corporate fitness programs and other business solutions, indicating expert-level mastery."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has effectively communicated with top-level executives, taught potential clients about products through seminars, and developed strong relationships with clients, suggesting strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Has managed large projects, such as the transition of health club facilities and the development of corporate fitness programs, showing strong proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has consistently met and exceeded sales targets, managed multiple responsibilities, and operated health club facilities, suggesting strong proficiency in time management."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Has managed teams of over 20 employees, trained and developed new sales counselors, and increased revenue, showing strong proficiency in team management."
+            },
+            {
+                "name": "Business Administration",
+                "level": 3,
+                "explanation": "Has a Master's degree in Business Administration and has applied this knowledge in various roles, showing a solid working proficiency."
+            }
+        ]
+    }
+}

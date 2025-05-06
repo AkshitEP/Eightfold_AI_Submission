@@ -1,0 +1,17 @@
+{
+    "resume_file": "829.json",
+    "recommendation_file": "Recommendation_From_ID_840.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation seems to be written by someone who is familiar with the candidate's work, but the language used is overly flattering and lacks specific examples.",
+        "verified_skills": [
+            "Sales and Marketing",
+            "Leadership",
+            "Customer Service",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in sales, marketing, leadership, and customer service, which aligns with their experience as an Advocare Distributor and personal trainer. However, the recommendation lacks specific examples and seems overly flattering, which raises some concerns about its credibility."
+    }
+}

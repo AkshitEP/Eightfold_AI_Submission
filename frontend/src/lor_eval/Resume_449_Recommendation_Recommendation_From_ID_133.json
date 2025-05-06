@@ -1,0 +1,17 @@
+{
+    "resume_file": "449.json",
+    "recommendation_file": "Recommendation_From_ID_133.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation mentions some skills and experiences from the resume, but the connection to the candidate's specific roles and accomplishments is not entirely clear. The language is formal, but some claims seem exaggerated or unsupported.",
+        "verified_skills": [
+            "Inventory Management",
+            "Customer Service",
+            "Leadership",
+            "Procurement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's skills in inventory management, customer service, and leadership, but the connection to their specific roles and accomplishments is not entirely clear. The recommendation also mentions the candidate's experience as an Operation Manager, but this role is not mentioned in the resume."
+    }
+}

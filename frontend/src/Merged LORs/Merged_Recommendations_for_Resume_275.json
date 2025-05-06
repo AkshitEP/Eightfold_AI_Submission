@@ -1,0 +1,88 @@
+{
+    "target_id": "275",
+    "recommendations": [
+        {
+            "recommender_id": "354",
+            "recommendation": {
+                "resume_file": "275.json",
+                "recommendation_file": "Recommendation_From_ID_354.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship with the candidate is unclear, and some claims seem exaggerated.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales Management",
+                        "Business Development",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business development and sales abilities. However, the recommender's role and relationship with the candidate are unclear, and some claims seem exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "285",
+            "recommendation": {
+                "resume_file": "275.json",
+                "recommendation_file": "Recommendation_From_ID_285.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales Management",
+                        "Business Development",
+                        "Customer Service",
+                        "Training and Development",
+                        "Operations Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business development and sales management abilities. The recommender's experience working alongside the candidate adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "216",
+            "recommendation": {
+                "resume_file": "275.json",
+                "recommendation_file": "Recommendation_From_ID_216.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales Management",
+                        "Business Development",
+                        "Training and Development",
+                        "Operations Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business development, sales management, and leadership abilities. The source of the recommendation appears to be a peer or colleague, given their complementary skills in sales and operations."
+                }
+            }
+        },
+        {
+            "recommender_id": "759",
+            "recommendation": {
+                "resume_file": "275.json",
+                "recommendation_file": "Recommendation_From_ID_759.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales Management",
+                        "Business Development",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their business development and leadership abilities. However, some claims seem exaggerated, such as the 'remarkable results' and 'impressive margins' achieved by the candidate."
+                }
+            }
+        }
+    ]
+}

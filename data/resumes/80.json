@@ -1,0 +1,86 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Customer Success Advocate",
+                "work_description": "Ability to support multiple customers via live chat simultaneously. Monitor chat and ticket queue. Escalation of tickets/chats to tier II support team when needed.",
+                "company_level": "Mid-level",
+                "start_date": "11/2015",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Technology Support Specialist",
+                "work_description": "Oversee classroom operations; assist with classroom projectors and computers. Install, maintain and upgrade computer hardware, peripherals and software in the Central/Southern NAU Extended Campuses region.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Install Technician",
+                "work_description": "Installation of television, audio and security equipment. Working with audio, video and network wiring/cabling.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "06/2012"
+            },
+            {
+                "role_name": "Hardline merchandiser / Electronics Associate",
+                "work_description": "Responsibly for mounting televisions, speakers/ sound bars, as well as TV/audio receivers. Required to set up wired/ wireless networking equipment and properly run cables throughout office/home.",
+                "company_level": "Mid-level",
+                "start_date": "06/2013",
+                "end_date": "11/2013"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northern Arizona University",
+                "start_date": "01/2014",
+                "end_date": "12/2017",
+                "domain": "Computer Information Technology",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Sandra Day O'Connor High School",
+                "start_date": "01/2010",
+                "end_date": "12/2014",
+                "domain": "High School Diploma",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Technical Support",
+                "level": 4,
+                "explanation": "Has extensive experience in providing technical support to customers via live chat, and also assisted with classroom operations, computer hardware, and software maintenance, indicating strong proficiency."
+            },
+            {
+                "name": "Computer Hardware Installation",
+                "level": 4,
+                "explanation": "Installed, maintained, and upgraded computer hardware, peripherals, and software in multiple roles, showing strong proficiency."
+            },
+            {
+                "name": "Networking",
+                "level": 3,
+                "explanation": "Set up wired and wireless networking equipment, and properly ran cables throughout office and home environments, indicating a solid working proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Supported multiple customers via live chat simultaneously, and escalated tickets to tier II support team when needed, showing a solid level of proficiency in customer service."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 3,
+                "explanation": "Resolved technical issues and escalated complex problems to higher-level support teams, indicating a solid working proficiency in troubleshooting."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively communicated with customers and team members in various roles, demonstrating a solid level of proficiency in communication."
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "712.json",
+    "recommendation_file": "Recommendation_From_ID_535.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Client Relationship Management",
+            "Leadership",
+            "Communication",
+            "Financial Analysis",
+            "Portfolio Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their client-centric skills, leadership, and financial expertise. However, the recommendation does not explicitly mention the candidate's experience in project management, risk assessment, or Bloomberg, which are also listed in their skills."
+    }
+}

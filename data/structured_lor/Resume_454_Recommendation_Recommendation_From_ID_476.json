@@ -1,0 +1,12 @@
+{
+    "resume_file": "454.json",
+    "recommendation_file": "Recommendation_From_ID_476.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, particularly regarding the candidate's expertise in advanced coding languages and event planning/design. The tone is also informal and sarcastic, raising concerns about the authenticity of the recommendation.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be a satirical or fictional piece, rather than a genuine endorsement of the candidate's skills and experience. It highlights the importance of verifying the authenticity and credibility of recommendations."
+    }
+}

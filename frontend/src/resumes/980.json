@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Provided strategic and tactical leadership in Finance/Accounting and Auditing of communities under the management of the company. Analyzing and interpreting financial results and forecasts (variance analysis, P&L impact) Providing key business and financial guidance to the organization (budgeting and forecasting) Responsible for the Finance management of the company by providing necessary frame work for the funds management, Accounts management and internal administration of the company.",
+                "company_level": "Mid-level",
+                "start_date": "03/2012",
+                "end_date": "05/2013"
+            },
+            {
+                "role_name": "Finance Manager",
+                "work_description": "Brought in to lead Finance/Accounts management of the company. Represent the company and negotiate with Banks/financial institutions for credit facilities/ Bank Guarantees, Letter of credits etc. Analyzing Cash flow, Budgeting and Forecasting of funds position, MIS reporting, Annual audit, monitoring of receivables and Payables.",
+                "company_level": "Mid-level",
+                "start_date": "05/2008",
+                "end_date": "12/2011"
+            },
+            {
+                "role_name": "Manager",
+                "work_description": "Worked as the Dealer and Funds Manager of the Bank for 6 years; managed a portfolio of INR 18 billion Evaluate various investment avenues for managing the bank's investment portfolio, especially in fixed income securities, equity shares, mutual funds and bonds.",
+                "company_level": "Large Corporation",
+                "start_date": "12/1993",
+                "end_date": "05/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "Alagappa University",
+                "start_date": "01/0000",
+                "end_date": "12/0000",
+                "domain": "Bank Management",
+                "level": "Master's"
+            },
+            {
+                "university": "University of Kerala",
+                "start_date": "01/0000",
+                "end_date": "12/0000",
+                "domain": "Bank Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Management",
+                "level": 5,
+                "explanation": "Has extensive experience in finance management, including budgeting, forecasting, and funds management, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has held leadership roles in finance and accounting, including strategic and tactical leadership, indicating expert-level mastery."
+            },
+            {
+                "name": "Budgeting",
+                "level": 5,
+                "explanation": "Has extensive experience in budgeting and forecasting, including variance analysis and P&L impact, indicating expert-level mastery."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Has experience in analyzing and interpreting financial results and forecasts, including cash flow analysis, indicating expert-level mastery."
+            },
+            {
+                "name": "Investment Management",
+                "level": 4,
+                "explanation": "Has experience in evaluating investment avenues, including fixed income securities, equity shares, mutual funds, and bonds, indicating strong proficiency."
+            },
+            {
+                "name": "Risk Management",
+                "level": 3,
+                "explanation": "Has experience in monitoring receivables and payables, indicating a solid working proficiency in risk management."
+            },
+            {
+                "name": "Audit and Compliance",
+                "level": 3,
+                "explanation": "Has experience in annual audit and internal administration, indicating a solid working proficiency in audit and compliance."
+            },
+            {
+                "name": "Banking and Financial Institutions",
+                "level": 4,
+                "explanation": "Has experience in negotiating with banks and financial institutions, indicating strong proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "target_id": "509",
+    "recommendations": [
+        {
+            "recommender_id": "641",
+            "recommendation": {
+                "resume_file": "509.json",
+                "recommendation_file": "Recommendation_From_ID_641.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Leadership",
+                        "Human Resource Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment strategies, leadership abilities, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "519",
+            "recommendation": {
+                "resume_file": "509.json",
+                "recommendation_file": "Recommendation_From_ID_519.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Leadership",
+                        "Human Resource Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment strategies, leadership abilities, and interpersonal skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "605",
+            "recommendation": {
+                "resume_file": "509.json",
+                "recommendation_file": "Recommendation_From_ID_605.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Leadership",
+                        "Human Resource Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment strategies, leadership abilities, and communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "546",
+            "recommendation": {
+                "resume_file": "509.json",
+                "recommendation_file": "Recommendation_From_ID_546.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Leadership",
+                        "Human Resource Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment strategies, leadership abilities, and human resource management expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "13",
+            "recommendation": {
+                "resume_file": "509.json",
+                "recommendation_file": "Recommendation_From_ID_13.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Recruitment",
+                        "Leadership",
+                        "Human Resource Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment methods and leadership abilities. The source of the recommendation is a fellow healthcare recruiter, indicating a peer-level endorsement."
+                }
+            }
+        }
+    ]
+}

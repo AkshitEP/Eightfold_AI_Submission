@@ -1,0 +1,19 @@
+{
+    "resume_file": "257.json",
+    "recommendation_file": "Recommendation_From_ID_706.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Risk Management",
+            "SQL",
+            "VBA",
+            "Financial Analysis",
+            "Data Analysis",
+            "Research"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experiences, providing specific examples of their analytical skills and ability to communicate effectively."
+    }
+}

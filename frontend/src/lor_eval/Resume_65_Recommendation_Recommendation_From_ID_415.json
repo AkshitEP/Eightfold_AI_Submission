@@ -1,0 +1,16 @@
+{
+    "resume_id": 65,
+    "recommendation_file": "Recommendation_From_ID_415.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's experience as a Kids Club Attendant, which seems unrelated to the candidate's skills and experience. However, the recommendation remains largely credible.",
+        "verified_skills": [
+            "Sales",
+            "Customer Service",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in sales and customer service. However, the recommender's experience and qualifications are unclear, which raises some minor concerns about the credibility of the recommendation."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "resume_file": "524.json",
+    "recommendation_file": "Recommendation_From_ID_353.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Data Analysis",
+            "Database Management",
+            "Software Administration",
+            "Strategic Planning",
+            "Communication",
+            "Team Management",
+            "SharePoint"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their accomplishments and expertise in IT operations, business intelligence, and personnel development."
+    }
+}

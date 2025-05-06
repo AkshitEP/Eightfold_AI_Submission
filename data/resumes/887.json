@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Project Coordinator",
+                "work_description": "Monitor regulatory activity to maintain compliance with health care records and document management laws. Implement electronic document processing, retrieval, and distribution systems in collaboration with other information technology specialists. Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes. Classify, record, and summarize numerical and financial data to compile and keep financial records, using journals and ledgers or computers. Debit, credit, and total accounts on computer spreadsheets and databases, using specialized accounting software.",
+                "company_level": "Mid-level",
+                "start_date": "07/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "MD Verification Division-Temp Contract Position",
+                "work_description": "Verification of medical prescriptions for accuracy with medical offices and pharmacists. Use of telephone etiquette, data entry, and daily goal-oriented objectives.",
+                "company_level": "Mid-level",
+                "start_date": "02/2012",
+                "end_date": "06/2012"
+            },
+            {
+                "role_name": "Compound Pharmacy Technician",
+                "work_description": "Transfer medication from vials to the appropriate number of sterile, disposable syringes, using aseptic techniques. Receive written prescription or refill requests and verify that information is complete and accurate. Pre-package bulk medicines, fill bottles with prescribed medications, and type and affix labels. Mix pharmaceutical preparations, according to written prescriptions. Compound and dispense medications as prescribed by doctors, by calculating, weighing, measuring, and mixing ingredients.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Quality Control Specialist -Compliance Coordinator",
+                "work_description": "Reviewed and monitored mortgage loan files for completeness and accuracy. (~100 files monthly) Helped to transition company from paper to electronic storage by scanning and logging hard copies to file. Data entry of new and set to close file submissions. Held quarterly update meetings on company policy & procedures. Trained newly hired processors on databases and procedures. Assisted with company policy and procedure manual; coordinated with FDIC representative with internal company policies associated with the Fair Lending Act.",
+                "company_level": "Mid-level",
+                "start_date": "03/2006",
+                "end_date": "06/2009"
+            }
+        ],
+        "education": [
+            {
+                "university": "Liberty University",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Business Administration",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Compliance",
+                "level": 4,
+                "explanation": "Has extensive experience in maintaining compliance with various regulations, including health care records and document management laws, as well as the Fair Lending Act, showing strong proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 4,
+                "explanation": "Has consistently performed data entry tasks across multiple roles, including processing loan files and managing financial records, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Record-Keeping",
+                "level": 3,
+                "explanation": "Has experience with classifying, recording, and summarizing numerical and financial data, as well as using journals and ledgers or computers to keep financial records, showing solid working proficiency."
+            },
+            {
+                "name": "Accounting Software",
+                "level": 3,
+                "explanation": "Has used specialized accounting software to debit, credit, and total accounts on computer spreadsheets and databases, indicating solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience with training newly hired processors on databases and procedures, but lacks extensive leadership experience, indicating some practical experience."
+            },
+            {
+                "name": "Project Management",
+                "level": 2,
+                "explanation": "Has some experience with implementing electronic document processing, retrieval, and distribution systems, but lacks extensive project management experience, indicating some practical experience."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 3,
+                "explanation": "Likely used extensively for managing financial records and data entry, suggesting solid working proficiency."
+            },
+            {
+                "name": "Quality Control",
+                "level": 3,
+                "explanation": "Has experience with reviewing and monitoring files for completeness and accuracy, indicating solid working proficiency."
+            }
+        ]
+    }
+}

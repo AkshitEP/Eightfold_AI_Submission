@@ -1,0 +1,17 @@
+{
+    "resume_file": "18.json",
+    "recommendation_file": "Recommendation_From_ID_750.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Microsoft SCSM",
+            "Asset Management",
+            "User Onboarding",
+            "IT Support"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical skills and adaptability in a dynamic workplace. However, it does not mention some of the candidate's other skills, such as Microsoft Office, Windows XP/7 Migration, and Troubleshooting."
+    }
+}

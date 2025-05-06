@@ -1,0 +1,19 @@
+{
+    "resume_file": "985.json",
+    "recommendation_file": "Recommendation_From_ID_823.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's claim of being an Information Technology Specialist with extensive project management and technical skills seems unrelated to the candidate's job history and skills.",
+        "verified_skills": [
+            "Human Resources",
+            "Employee Relations",
+            "Benefits Administration",
+            "Customer Service",
+            "Leadership",
+            "Marketing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR administration, customer service, and team management abilities. However, some claims seem exaggerated, and the recommender's background and relationship to the candidate are unclear."
+    }
+}

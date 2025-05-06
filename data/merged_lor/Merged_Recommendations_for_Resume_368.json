@@ -1,0 +1,25 @@
+{
+    "target_id": "368",
+    "recommendations": [
+        {
+            "recommender_id": "192",
+            "recommendation": {
+                "resume_file": "368.json",
+                "recommendation_file": "Recommendation_From_ID_192.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Project Management",
+                        "Digital Marketing",
+                        "Data Analysis",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management, digital marketing, and leadership abilities. The source of the recommendation is a Human Resources professional who worked alongside the candidate, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

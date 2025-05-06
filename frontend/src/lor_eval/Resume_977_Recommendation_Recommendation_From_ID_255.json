@@ -1,0 +1,16 @@
+{
+    "resume_id": 977,
+    "recommendation_file": "Recommendation_From_ID_255.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in industry experience and work environment, but overall the recommendation seems genuine.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Reporting",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in accounting and financial reporting, but does not specifically mention their experience in COBOL programming."
+    }
+}

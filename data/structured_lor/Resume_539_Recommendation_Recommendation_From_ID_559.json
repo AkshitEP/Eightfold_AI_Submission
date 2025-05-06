@@ -1,0 +1,16 @@
+{
+    "resume_file": "539.json",
+    "recommendation_file": "Recommendation_From_ID_559.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation seems overly flattering and lacks concrete examples.",
+        "verified_skills": [
+            "Customer Service",
+            "Analytical Skills",
+            "Mortgage Banking expertise"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is moderately relevant to the resume, but contains some inconsistencies and unrealistic claims. The source of the recommendation is unknown."
+    }
+}

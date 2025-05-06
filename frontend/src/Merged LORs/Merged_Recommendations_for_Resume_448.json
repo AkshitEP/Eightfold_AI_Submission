@@ -1,0 +1,47 @@
+{
+    "target_id": "448",
+    "recommendations": [
+        {
+            "recommender_id": "851",
+            "recommendation": {
+                "resume_file": "448.json",
+                "recommendation_file": "Recommendation_From_ID_851.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Analysis",
+                        "Business Development",
+                        "Customer Service",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in revenue growth and customer service. However, the source of the recommendation is unclear, and the language is somewhat informal."
+                }
+            }
+        },
+        {
+            "recommender_id": "539",
+            "recommendation": {
+                "resume_file": "448.json",
+                "recommendation_file": "Recommendation_From_ID_539.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Financial Analysis",
+                        "Business Development",
+                        "Customer Service",
+                        "Sales"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements in banking and finance. The source of the recommendation is a Mortgage Banking Document Operations Specialist, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "resume_file": "728.json",
+    "recommendation_file": "Recommendation_From_ID_114.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's resume. Some claims seem exaggerated or unsupported.",
+        "verified_skills": [
+            "Accreditation Management",
+            "Vulnerability Management",
+            "Systems Engineering",
+            "Project Management",
+            "Leadership",
+            "Network Design"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in information technology, but it does not provide specific examples from their resume. The recommendation seems to be more focused on the candidate's general abilities rather than their specific skills and experiences."
+    }
+}

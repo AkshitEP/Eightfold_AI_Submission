@@ -1,0 +1,134 @@
+{
+    "target_id": "329",
+    "recommendations": [
+        {
+            "recommender_id": "515",
+            "recommendation": {
+                "resume_file": "329.json",
+                "recommendation_file": "Recommendation_From_ID_515.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Visual Arts",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and classroom environment. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "51",
+            "recommendation": {
+                "resume_file": "329.json",
+                "recommendation_file": "Recommendation_From_ID_51.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Visual Arts",
+                        "Photography",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, classroom management skills, and ability to integrate technology into teaching. The source of the recommendation is a peer, specifically an Information Technology Specialist, who has witnessed the instructor's exceptional abilities firsthand."
+                }
+            }
+        },
+        {
+            "recommender_id": "288",
+            "recommendation": {
+                "resume_file": "329.json",
+                "recommendation_file": "Recommendation_From_ID_288.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Visual Arts",
+                        "Photography",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, curriculum development, and leadership in art education. The recommender's endorsement is based on the candidate's exceptional skills and commitment to education."
+                }
+            }
+        },
+        {
+            "recommender_id": "513",
+            "recommendation": {
+                "resume_file": "329.json",
+                "recommendation_file": "Recommendation_From_ID_513.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The writer claims to be an independent consultant and customer service representative, but their connection to the candidate is not specified.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Visual Arts",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's teaching experience, curriculum design skills, and ability to engage students. However, the writer's connection to the candidate is unclear, and the language is somewhat informal. The recommendation also mentions the candidate's ability to work with students with disabilities, which is not explicitly mentioned in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "290",
+            "recommendation": {
+                "resume_file": "329.json",
+                "recommendation_file": "Recommendation_From_ID_290.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's relationship to the candidate is unclear and the recommender's profession (Dental Assistant) does not seem directly related to the candidate's field of expertise.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Visual Arts",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and leadership abilities. However, the recommender's profession and relationship to the candidate are unclear, which may raise some concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "432",
+            "recommendation": {
+                "resume_file": "329.json",
+                "recommendation_file": "Recommendation_From_ID_432.txt",
+                "output": {
+                    "relevance_score": 10,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Curriculum Development",
+                        "Visual Arts",
+                        "Photography",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns exceptionally well with the candidate's skills and experience, providing specific examples of their teaching methods, curriculum development, and community engagement. The tone is professional and formal, indicating a genuine endorsement."
+                }
+            }
+        }
+    ]
+}

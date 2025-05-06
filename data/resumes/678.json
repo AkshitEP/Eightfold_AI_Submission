@@ -1,0 +1,134 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Aviation Camp Assistant",
+                "work_description": "Assist children in building and flying model aircraft, launch rockets, complete flight simulation missions, and conduct flight-related science experiments. Assist in teaching course lessons based on aviation, air, and space topics. Organize and prepare lesson materials and work directly with instructors during hands-on projects and activities. Supervise elementary school-aged campers during sign-in, sign-out, and break times. Supervised field trips to aviation-related locations.",
+                "company_level": "Unknown",
+                "start_date": "05/2013",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Guest Experiences Specialist",
+                "work_description": "Offer superior service to potential and actual guests to the museum according to established procedures. Handle a large volume of in-person questions about The Tech Museum, exhibits, programs, films, special events as well as the downtown San Jose area. Be knowledgeable about The Tech Museum's mission, programs and exhibits and stay current with the functioning of the entire institution. Greet school groups by meeting teachers at buses outside the Group entrance, giving chaperone and student instructions to large groups. Work collaboratively with other Guest Experiences staff, other museum staff and volunteers to provide an efficient and seamless experience for guests.",
+                "company_level": "Unknown",
+                "start_date": "08/2012",
+                "end_date": "01/2013"
+            },
+            {
+                "role_name": "Team Leader",
+                "work_description": "Performed as Team Leader for a team of four for the experimentation and analysis of flight dynamics and parameters of Lockheed Martin's F-22 Raptor. Implemented low-speed wind and water tunnel testing using test models to obtain and investigate flight dynamics and performance characteristics. Analyzed the flow vortices over the wing at varying velocities at increasing angles of attacks. Calculated and observed the relationship and importance of the effect of Reynold's numbers on aerodynamic coefficients. Compiled a technical report detailing the results of the calculations and observations, and compared the accuracy of wind/water tunnel testing to theoretical F-22 characteristics.",
+                "company_level": "Unknown",
+                "start_date": "01/2014",
+                "end_date": "12/2014"
+            },
+            {
+                "role_name": "Unmanned Aerial Vehicle Simulations Team",
+                "work_description": "Part of the Unmanned Aerial Vehicle Simulations Team constructing models of the UAVs in order to obtain important aerodynamic properties to perform flight test simulations. Worked directly with the UAVs to take accurate measurements in order to model it. Designed accurate aerodynamic models of the UAVs using the program AVL, a program for the aerodynamic and flight-dynamic analysis of rigid aircraft of arbitrary configuration. Modeled all lifting surfaces, control surfaces, and fuselage. Created data and run files of mass properties corresponding with each UAV. Executed the run files for each UAV in order to obtain a full linearization of the aerodynamic model about any flight state with specified mass properties. Extracted stability-axis derivatives that will be imported into the flight simulation program, FlightGear, to model the simulated plane to have the same flight characteristics and behaviors as the UAVS.",
+                "company_level": "Unknown",
+                "start_date": "10/2013",
+                "end_date": "Current"
+            }
+        ],
+        "education": [
+            {
+                "university": "California State Polytechnic University",
+                "start_date": "06/2016",
+                "end_date": "06/2016",
+                "domain": "Aerospace Engineering",
+                "level": "Bachelor of Science"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Aerospace",
+                "description": "Designed and constructed an aircraft that will be competing at the SAE Aero Design West.",
+                "skills": [
+                    "Aircraft Design",
+                    "Aerodynamics",
+                    "Materials"
+                ]
+            },
+            {
+                "domain": "Aerospace",
+                "description": "Experimentation and analysis of flight dynamics and parameters of Lockheed Martin's F-22 Raptor.",
+                "skills": [
+                    "Wind Tunnel Testing",
+                    "Water Tunnel Testing",
+                    "Aerodynamic Analysis"
+                ]
+            },
+            {
+                "domain": "Aerospace",
+                "description": "Part of the Unmanned Aerial Vehicle Simulations Team constructing models of the UAVs in order to obtain important aerodynamic properties to perform flight test simulations.",
+                "skills": [
+                    "UAV Design",
+                    "Aerodynamic Modeling",
+                    "Flight Simulation"
+                ]
+            }
+        ],
+        "interests": [
+            "Unmanned Aerial Vehicles",
+            "Aeronautical Development and Design",
+            "Structural Analysis",
+            "American Institute of Aeronautics and Astronautics (AIAA)",
+            "Society of Women Engineers (SWE)",
+            "SAE International"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Aerodynamics",
+                "level": 5,
+                "explanation": "Extensive experience in aerodynamics through various projects and roles, including wind tunnel testing, water tunnel testing, and aerodynamic modeling."
+            },
+            {
+                "name": "Aircraft Design",
+                "level": 4,
+                "explanation": "Designed and constructed an aircraft for the SAE Aero Design West competition, demonstrating strong proficiency in aircraft design."
+            },
+            {
+                "name": "UAV Design",
+                "level": 4,
+                "explanation": "Part of the Unmanned Aerial Vehicle Simulations Team, constructing models of UAVs to obtain important aerodynamic properties, showing strong proficiency in UAV design."
+            },
+            {
+                "name": "Flight Simulation",
+                "level": 4,
+                "explanation": "Executed run files for UAVs in FlightGear to model the simulated plane to have the same flight characteristics and behaviors as the UAVs, demonstrating strong proficiency in flight simulation."
+            },
+            {
+                "name": "Wind Tunnel Testing",
+                "level": 4,
+                "explanation": "Implemented low-speed wind tunnel testing using test models to obtain and investigate flight dynamics and performance characteristics, showing strong proficiency in wind tunnel testing."
+            },
+            {
+                "name": "Water Tunnel Testing",
+                "level": 4,
+                "explanation": "Implemented low-speed water tunnel testing using test models to obtain and investigate flight dynamics and performance characteristics, showing strong proficiency in water tunnel testing."
+            },
+            {
+                "name": "Aerodynamic Modeling",
+                "level": 4,
+                "explanation": "Designed accurate aerodynamic models of UAVs using AVL, demonstrating strong proficiency in aerodynamic modeling."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Performed as Team Leader for a team of four, leading experimentation and analysis of flight dynamics and parameters of Lockheed Martin's F-22 Raptor, showing solid working proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Managed multiple projects, including designing and constructing an aircraft for the SAE Aero Design West competition and experimentation and analysis of flight dynamics and parameters of Lockheed Martin's F-22 Raptor, showing solid working proficiency in project management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Offered superior service to potential and actual guests to the museum, handling a large volume of in-person questions, showing solid working proficiency in communication."
+            }
+        ]
+    }
+}

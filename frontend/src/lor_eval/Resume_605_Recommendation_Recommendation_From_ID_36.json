@@ -1,0 +1,19 @@
+{
+    "resume_file": "605.json",
+    "recommendation_file": "Recommendation_From_ID_36.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Recruitment",
+            "Talent Acquisition",
+            "Leadership",
+            "Communication",
+            "Strategic Planning",
+            "Networking"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their recruitment abilities, leadership, and communication skills. The source of the recommendation is a supervisor, adding credibility to the endorsement."
+    }
+}

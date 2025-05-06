@@ -1,0 +1,17 @@
+{
+    "resume_id": 94,
+    "recommendation_file": "Recommendation_From_ID_938.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples from the candidate's work history. However, the language is formal and the claims seem largely credible.",
+        "verified_skills": [
+            "Critical Thinking",
+            "Leadership",
+            "Communication",
+            "Collaboration"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's critical thinking, leadership, and communication skills, which are consistent with their work history and skills listed on the resume. However, the recommendation could benefit from more specific examples and details to support the claims made."
+    }
+}

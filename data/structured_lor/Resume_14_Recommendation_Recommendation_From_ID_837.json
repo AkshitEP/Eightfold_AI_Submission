@@ -1,0 +1,17 @@
+{
+    "resume_file": "14.json",
+    "recommendation_file": "Recommendation_From_ID_837.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and exaggerated claims, but no obvious signs of exaggeration or contradiction.",
+        "verified_skills": [
+            "Teaching",
+            "Classroom Management",
+            "Lesson Planning",
+            "Health Education"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but mentions unrelated roles and skills. The language is formal, and there are no obvious signs of exaggeration or contradiction."
+    }
+}

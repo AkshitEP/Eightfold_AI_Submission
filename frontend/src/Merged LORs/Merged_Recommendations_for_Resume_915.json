@@ -1,0 +1,107 @@
+{
+    "target_id": "915",
+    "recommendations": [
+        {
+            "recommender_id": "670",
+            "recommendation": {
+                "resume_file": "915.json",
+                "recommendation_file": "Recommendation_From_ID_670.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The source of the recommendation is unclear, and the language is mostly formal, but there is a mention of a personal relationship.",
+                    "verified_skills": [
+                        "System Administration",
+                        "Software Management",
+                        "Hardware Troubleshooting",
+                        "Operating System Installation",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support and management abilities. However, the source of the recommendation is unclear, and there is a mention of a personal relationship, which may indicate some bias."
+                }
+            }
+        },
+        {
+            "recommender_id": "133",
+            "recommendation": {
+                "resume_file": "915.json",
+                "recommendation_file": "Recommendation_From_ID_133.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "System Administration",
+                        "Software Management",
+                        "Hardware Troubleshooting",
+                        "Operating System Installation",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and problem-solving abilities. The source of the recommendation is an Operations Manager, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "141",
+            "recommendation": {
+                "resume_file": "915.json",
+                "recommendation_file": "Recommendation_From_ID_141.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "System Administration",
+                        "Software Management",
+                        "Hardware Troubleshooting",
+                        "Operating System Installation",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their IT support and management, leadership, and organizational abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "81",
+            "recommendation": {
+                "resume_file": "915.json",
+                "recommendation_file": "Recommendation_From_ID_81.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not explicitly stated as a supervisor or peer. The language is formal, but the recommendation is overly positive and lacks specific examples from the candidate's job history.",
+                    "verified_skills": [
+                        "System Administration",
+                        "Software Management",
+                        "Hardware Troubleshooting",
+                        "Operating System Installation",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, but the source is unclear. The recommendation highlights the candidate's technical skills and ability to deliver effective solutions, but lacks specific examples from their job history."
+                }
+            }
+        },
+        {
+            "recommender_id": "361",
+            "recommendation": {
+                "resume_file": "915.json",
+                "recommendation_file": "Recommendation_From_ID_361.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "System Administration",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their system administration and leadership abilities. However, it does not directly reference some of the candidate's other skills, such as hardware troubleshooting, operating system installation, and network security."
+                }
+            }
+        }
+    ]
+}

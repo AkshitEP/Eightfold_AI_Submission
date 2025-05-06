@@ -1,0 +1,64 @@
+{
+    "target_id": "975",
+    "recommendations": [
+        {
+            "recommender_id": "38",
+            "recommendation": {
+                "resume_file": "975.json",
+                "recommendation_file": "Recommendation_From_ID_38.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Relations",
+                        "Leadership",
+                        "Communication",
+                        "Project Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their account management, leadership, and customer service skills. The source of the recommendation is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "582",
+            "recommendation": {
+                "resume_id": 975,
+                "recommendation_file": "Recommendation_From_ID_582.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Customer Relations",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's customer service skills, leadership abilities, and communication skills, which align with their resume. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "936",
+            "recommendation": {
+                "resume_file": "975.json",
+                "recommendation_file": "Recommendation_From_ID_936.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Relations",
+                        "Leadership",
+                        "Communication",
+                        "Sales Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, leadership, and sales management abilities. However, it does not explicitly mention some of the candidate's other skills, such as Time Management, Microsoft Office, and Project Management."
+                }
+            }
+        }
+    ]
+}

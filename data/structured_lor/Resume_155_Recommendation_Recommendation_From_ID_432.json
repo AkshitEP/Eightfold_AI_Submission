@@ -1,0 +1,20 @@
+{
+    "resume_file": "155.json",
+    "recommendation_file": "Recommendation_From_ID_432.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of selling 31 phones in a day and 199 phones in a single month seems statistically improbable, but it's not entirely impossible.",
+        "verified_skills": [
+            "Customer Service",
+            "Sales",
+            "Cash Handling",
+            "Inventory Management",
+            "Leadership",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their sales skills, customer service, and leadership abilities. However, some claims seem exaggerated, and the tone is overly positive, which raises some concerns about the credibility of the recommendation."
+    }
+}

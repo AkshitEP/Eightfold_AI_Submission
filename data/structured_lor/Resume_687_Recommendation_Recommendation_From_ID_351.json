@@ -1,0 +1,16 @@
+{
+    "resume_file": "687.json",
+    "recommendation_file": "Recommendation_From_ID_351.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background as a Customer Service Specialist seems unrelated to the Assistant Principal's field, which raises some concerns about the recommender's credibility.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Mentoring"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the Assistant Principal's leadership and interpersonal skills, which aligns with their experience in educational administration. However, the recommender's background and relationship to the Assistant Principal are unclear, which affects the credibility of the recommendation."
+    }
+}

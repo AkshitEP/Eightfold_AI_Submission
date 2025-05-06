@@ -1,0 +1,93 @@
+{
+    "target_id": "156",
+    "recommendations": [
+        {
+            "recommender_id": "333",
+            "recommendation": {
+                "resume_file": "156.json",
+                "recommendation_file": "Recommendation_From_ID_333.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the Finance Specialist, but the resume is for a Finance Director. However, the skills and experiences mentioned in the recommendation are largely aligned with the resume.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in finance management, leadership, and strategic insight, which are well-aligned with the skills and experiences mentioned in the resume. However, the recommendation seems to be written for a different role (Finance Specialist) and mentions some skills that are not explicitly mentioned in the resume (full charge bookkeeping, accounts reconciliation, and regulatory compliance)."
+                }
+            }
+        },
+        {
+            "recommender_id": "132",
+            "recommendation": {
+                "resume_file": "156.json",
+                "recommendation_file": "Recommendation_From_ID_132.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and expertise in financial management and strategic development."
+                }
+            }
+        },
+        {
+            "recommender_id": "286",
+            "recommendation": {
+                "resume_file": "156.json",
+                "recommendation_file": "Recommendation_From_ID_286.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but mentions two individuals, which is unusual. The language is formal, but some claims seem exaggerated.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management expertise. However, the mention of two individuals and some exaggerated claims raise concerns about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "838",
+            "recommendation": {
+                "resume_file": "156.json",
+                "recommendation_file": "Recommendation_From_ID_838.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Analysis",
+                        "Budgeting",
+                        "Financial Reporting",
+                        "Leadership",
+                        "Financial Modeling",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and budgeting expertise. The recommendation source is likely a supervisor or someone who has worked closely with the candidate, given the level of detail and insight provided."
+                }
+            }
+        }
+    ]
+}

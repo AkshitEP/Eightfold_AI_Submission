@@ -1,0 +1,22 @@
+{
+    "resume_file": "183.json",
+    "recommendation_file": "Recommendation_From_ID_114.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Recruitment and Hiring",
+            "HRIS System Implementation and Management",
+            "Employee Relations and Performance Management",
+            "Policy Development and Compliance",
+            "Leadership and Management",
+            "Payroll Management",
+            "Project Management",
+            "Employee Benefits Administration"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their HR management, recruitment, and HRIS implementation. The source of the recommendation is a Senior Vice President of Information Technology, indicating a peer-level relationship."
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Service Representative",
+                "work_description": "Greets members, maintains place organized, and maintains friendly environment. Works with retail, advertises products, and restocks shelves as needed. Resolves member's troubles, and answers phone inquiries. Completes agreements with incoming members.",
+                "company_level": "Large Corporation",
+                "start_date": "10/2015",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Sales Advisor",
+                "work_description": "Partners up with businesses surrounding 24 Hour Fitness to create member traffic. Promotes company special promotions. Completes agreements and manages daily paperwork. Successfully attains personal and company revenue target.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2015",
+                "end_date": "10/2015"
+            },
+            {
+                "role_name": "Service Representative Lead",
+                "work_description": "Organized inventory (FIFO method). Met weekly deadlines for inventory, and members' financial transactions. Organized banking information for POS system.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2014",
+                "end_date": "08/2015"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of Houston, C.T. Bauer College of Business",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Marketing",
+                "description": "Developed a successful marketing plan for a new business.",
+                "skills": [
+                    "Marketing",
+                    "Business Planning"
+                ]
+            },
+            {
+                "domain": "Child Abuse Awareness",
+                "description": "Supported the spread child abuse awareness by interacting with hundreds of people and informing them about various facts.",
+                "skills": [
+                    "Communication",
+                    "Public Speaking"
+                ]
+            }
+        ],
+        "interests": [
+            "Volunteer Activities",
+            "Motivational Speaking",
+            "Community Service"
+        ],
+        "skills": [
+            "banking",
+            "CPR",
+            "Fluent in English",
+            "financial",
+            "inventory",
+            "Excel",
+            "Microsoft Office",
+            "PowerPoint",
+            "Word",
+            "Microsoft Word",
+            "Works",
+            "POS",
+            "retail",
+            "Spanish",
+            "phone"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience in customer-facing roles, resolving member troubles, and answering phone inquiries, indicating strong proficiency."
+            },
+            {
+                "name": "Sales",
+                "level": 3,
+                "explanation": "Has experience in sales roles, promoting company special promotions, and attaining personal and company revenue targets, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience in a lead role, organizing inventory and meeting deadlines, but lacks extensive leadership experience."
+            },
+            {
+                "name": "Inventory Management",
+                "level": 3,
+                "explanation": "Has experience in organizing inventory using the FIFO method and meeting weekly deadlines, showing a solid working proficiency."
+            },
+            {
+                "name": "Marketing",
+                "level": 2,
+                "explanation": "Has some experience in marketing, developing a successful marketing plan for a new business, but lacks extensive experience."
+            },
+            {
+                "name": "Business Planning",
+                "level": 2,
+                "explanation": "Has some experience in business planning, developing a successful marketing plan for a new business, but lacks extensive experience."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Has experience in interacting with hundreds of people and informing them about various facts, showing a solid working proficiency."
+            },
+            {
+                "name": "Public Speaking",
+                "level": 2,
+                "explanation": "Has some experience in public speaking, interacting with hundreds of people and informing them about various facts, but lacks extensive experience."
+            },
+            {
+                "name": "Banking",
+                "level": 2,
+                "explanation": "Has some experience in banking, organizing banking information for POS system, but lacks extensive experience."
+            },
+            {
+                "name": "Financial",
+                "level": 0,
+                "explanation": "Mentioned as a skill, but no evidence of experience or proficiency in the provided data."
+            },
+            {
+                "name": "Excel",
+                "level": 0,
+                "explanation": "Mentioned as a skill, but no evidence of experience or proficiency in the provided data."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 0,
+                "explanation": "Mentioned as a skill, but no evidence of experience or proficiency in the provided data."
+            },
+            {
+                "name": "PowerPoint",
+                "level": 0,
+                "explanation": "Mentioned as a skill, but no evidence of experience or proficiency in the provided data."
+            },
+            {
+                "name": "Word",
+                "level": 0,
+                "explanation": "Mentioned as a skill, but no evidence of experience or proficiency in the provided data."
+            },
+            {
+                "name": "POS",
+                "level": 2,
+                "explanation": "Has some experience in using POS system, but lacks extensive experience."
+            },
+            {
+                "name": "Retail",
+                "level": 3,
+                "explanation": "Has experience in retail, working with retail, and restocking shelves as needed, showing a solid working proficiency."
+            }
+        ]
+    }
+}

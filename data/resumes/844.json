@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Finance Coordinator",
+                "work_description": "Dedicated accounting and finance professional with proficient analytical, budget processing, supporting and researching experience that includes general ledger reconciliation, data management and analysis, auditing, accounts payable and accounts receivables. Successful at managing multiple assignments while meeting tight deadlines. Adept at building productive, cross-functional team relationships, and leveraging these relationships to gain cooperation in resolving issues.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Master Data Specialist",
+                "work_description": "Accurately created customer master data records and sales hierarchies in SAP. Served as subject matter expert on Warehouse Direct (WD) accounts, addressing escalated issues and answering questions from the business regarding WD processes. Involved in SharePoint project which reduced the WD account create and change work flow process time by half.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2012",
+                "end_date": "05/2014"
+            },
+            {
+                "role_name": "Financial Analyst",
+                "work_description": "Worked closely with pharmaceutical client CFO and controller generating reports and reconciliations to assist in cash flow forecasting. Performed reconciliations utilizing Excel techniques including V-lookups and pivot tables. Consistently managed and completed month end close process within five business days. Processed client approved write-offs, accruals, journal entries and posted transactions to the general ledger.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2008",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Financial Analyst",
+                "work_description": "Maintained and accurately loaded multi-million dollar marketing budgets and forecasts into the Marketing Funds sub-ledger. Supported brand marketing managers by providing analysis and weekly reporting on marketing spend actual results versus forecast in SAP and Marketing Funds. Met quarterly with brand managers to ensure activity based spend was in-line with forecasted budget.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2006",
+                "end_date": "07/2008"
+            },
+            {
+                "role_name": "Trade Promotion Specialist",
+                "work_description": "Accounting Pre-audited and processed trade marketing and bottler coop reimbursements to conform to GAAP guidelines. Analyzed and adjusted trade budgets to actual to facilitate year-end close process. Prepared period and year-end close journal entries for multiple general ledger and cost center combinations.",
+                "company_level": "Large Corporation",
+                "start_date": "02/2000",
+                "end_date": "08/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Columbia Southern University",
+                "start_date": "01/2016",
+                "end_date": "12/2016",
+                "domain": "Business Administration/Finance",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Analysis",
+                "level": 5,
+                "explanation": "Over a decade of experience in financial analysis, including generating reports, reconciliations, and cash flow forecasting, indicating expert-level mastery."
+            },
+            {
+                "name": "General Ledger Reconciliation",
+                "level": 5,
+                "explanation": "Extensive experience with general ledger reconciliation, including performing reconciliations utilizing Excel techniques, showing expert-level proficiency."
+            },
+            {
+                "name": "Budgeting",
+                "level": 4,
+                "explanation": "Managed and maintained multi-million dollar marketing budgets and forecasts, demonstrating strong proficiency in budgeting."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Utilized data management and analysis skills to support business decisions, indicating strong proficiency in data analysis."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 5,
+                "explanation": "Utilized advanced Excel techniques, including V-lookups and pivot tables, to perform reconciliations and data analysis, showing expert-level mastery."
+            },
+            {
+                "name": "SAP",
+                "level": 4,
+                "explanation": "Utilized SAP to perform various tasks, including creating customer master data records, sales hierarchies, and analyzing marketing spend, demonstrating strong proficiency in SAP."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Built productive, cross-functional team relationships, and leveraged these relationships to gain cooperation in resolving issues, showing a solid level of proficiency in leadership."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Involved in SharePoint project that reduced the WD account create and change work flow process time by half, indicating a solid level of proficiency in project management."
+            },
+            {
+                "name": "Auditing",
+                "level": 3,
+                "explanation": "Pre-audited and processed trade marketing and bottler coop reimbursements to conform to GAAP guidelines, showing a solid level of proficiency in auditing."
+            }
+        ]
+    }
+}

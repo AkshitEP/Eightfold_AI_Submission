@@ -1,0 +1,18 @@
+{
+    "resume_id": 2,
+    "recommendation_file": "Recommendation_From_ID_592.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's educational background and experience in personal training and fitness instruction, but does not provide specific examples or details to support these claims.",
+        "verified_skills": [
+            "Fitness Instruction",
+            "Personal Training",
+            "Leadership",
+            "Fitness Management",
+            "Group Fitness Instruction"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's passion for health and fitness, as well as their experience in academia and hands-on experience in fitness supervision. However, it does not provide specific examples or details to support these claims, and the language used is somewhat generic and lacking in concrete evidence."
+    }
+}

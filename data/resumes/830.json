@@ -1,0 +1,96 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Administration Assistant",
+                "work_description": "Transferred and directed phone calls, guests and mail to correct staff members. Provided administrative services, including phone and email correspondence, making copies and handling incoming and outgoing mail and faxes. Managed office inventory by restocking supplies and placing purchase orders to maintain adequate stock levels. Communicated with customers via phone and email to confirm deliveries and respond to inquiries. Kept reception area clean and neat to give visitors positive first impression. Completed and mailed bills, contracts, policies, invoices and checks. Maintained office supplies inventory by checking stock and ordering new supplies as needed. Assisted coworkers and staff members with special tasks on daily basis. In charge of scheduling, canceling, and client appointment. Greet clients and directed them to correct staffing. Pulled and filed client filed.",
+                "company_level": "Mid-level",
+                "start_date": "12/2018",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Office Assistant",
+                "work_description": "Opened and properly distributed incoming mail to promote quicker response to client inquiries. Maintained and organize files and documents. Maintained and updated filing of bills, bill payment, inventory and incoming and out going mail. Operated office equipment such as copier machine, fax machine. Managed cleanliness of office and refilled office supplies when needed. Welcomed and greet all visitor, screened calls, directed to appropriate staff, opened all incoming mail and distributed to recipients. Supported clerical needs of more than 10+ assistants, including taking messages, scanning documents and routing business correspondence.",
+                "company_level": "Mid-level",
+                "start_date": "01/2018",
+                "end_date": "12/2018"
+            },
+            {
+                "role_name": "Certified Medical Assistant",
+                "work_description": "Collected and documented patient medical information such as blood pressure and weight. Enhanced patient outcomes by providing knowledgeable education on procedures, medications and other physician instructions. Called and faxed pharmacies to submit prescriptions and refills. Documented vital signs and health history. Sanitized, restocked and organized exam rooms and medical equipment. Directed patients to exam rooms, fielded questions and prepared for physician examinations. Directed patients to examining rooms and coordinated transportation assistance as necessary. Gathered forms, copied insurance cards and to collect patient information for billing and insurance filing. Obtained client medical history, including medication information, symptoms and allergies. Updated inventory, expiration and vaccine logs to maintain current tracking documentation. Assessed, documented and monitored vital signs for more than 20 patients per day.",
+                "company_level": "Mid-level",
+                "start_date": "09/2000",
+                "end_date": "09/2012"
+            }
+        ],
+        "education": [
+            {
+                "university": "American International University",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Business Administration",
+                "level": "Associate of Arts"
+            },
+            {
+                "university": "Resurrection Hospital",
+                "start_date": "Unknown",
+                "end_date": "1998",
+                "domain": "Certified Nursing Assisting",
+                "level": "Some College (No Degree)"
+            },
+            {
+                "university": "Bryant School",
+                "start_date": "Unknown",
+                "end_date": "1976",
+                "domain": "Certified Medical Assistant",
+                "level": "Some College (No Degree)"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Office Administration",
+                "level": 4,
+                "explanation": "Has extensive experience handling administrative tasks, including phone and email correspondence, mail handling, and inventory management, showing strong proficiency."
+            },
+            {
+                "name": "Customer Service",
+                "level": 3,
+                "explanation": "Communicated with customers via phone and email to confirm deliveries and respond to inquiries, indicating a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Managed office inventory, scheduled appointments, and assisted coworkers with special tasks, showing a solid level of proficiency in time management."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Effectively communicated with customers, staff members, and visitors, indicating a solid working proficiency in communication."
+            },
+            {
+                "name": "Organization",
+                "level": 3,
+                "explanation": "Maintained and organized files, documents, and office supplies, showing a solid working proficiency in organization."
+            },
+            {
+                "name": "Medical Assistance",
+                "level": 4,
+                "explanation": "Collected and documented patient medical information, provided education on procedures and medications, and assisted with medical examinations, indicating strong proficiency in medical assistance."
+            },
+            {
+                "name": "Patient Care",
+                "level": 3,
+                "explanation": "Provided knowledgeable education on procedures and medications, and assisted with medical examinations, showing a solid working proficiency in patient care."
+            },
+            {
+                "name": "Medical Records Management",
+                "level": 3,
+                "explanation": "Maintained and updated medical records, including patient information and medical history, indicating a solid working proficiency in medical records management."
+            }
+        ]
+    }
+}

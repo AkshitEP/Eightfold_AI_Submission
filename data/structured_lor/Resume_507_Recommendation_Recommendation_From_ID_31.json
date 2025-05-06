@@ -1,0 +1,17 @@
+{
+    "resume_file": "507.json",
+    "recommendation_file": "Recommendation_From_ID_31.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+        "verified_skills": [
+            "Patient Care",
+            "Nursing Assistance",
+            "Mobility Assistance",
+            "Vital Signs Monitoring"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their patient care and nursing assistance skills. The recommender's tone is professional and supportive, indicating a genuine endorsement of the candidate's abilities."
+    }
+}

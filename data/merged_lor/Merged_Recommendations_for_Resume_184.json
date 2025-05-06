@@ -1,0 +1,67 @@
+{
+    "target_id": "184",
+    "recommendations": [
+        {
+            "recommender_id": "77",
+            "recommendation": {
+                "resume_file": "184.json",
+                "recommendation_file": "Recommendation_From_ID_77.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unknown and the language is overly flattering. The mention of the recommender's background as an astrophysicist seems unrelated to the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving",
+                        "Translation",
+                        "Teaching",
+                        "Research",
+                        "Writing",
+                        "Public Speaking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's adaptability, commitment, and communication skills, which are consistent with their resume. However, the language is overly flattering, and the source's background seems unrelated to the candidate's skills and experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "134",
+            "recommendation": {
+                "resume_file": "184.json",
+                "recommendation_file": "Recommendation_From_ID_134.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be exaggerated and lacks concrete examples from the candidate's resume. The language used is overly flattering and seems to be more focused on the recommender's own experiences rather than the candidate's qualifications.",
+                    "verified_skills": [
+                        "Communication",
+                        "Leadership",
+                        "Problem-Solving",
+                        "Translation",
+                        "Teaching",
+                        "Writing",
+                        "Public Speaking"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation mentions some of the candidate's skills and experiences, but it seems to be more focused on the recommender's own experiences and opinions rather than providing concrete examples and evidence from the candidate's resume. The language used is overly flattering and seems to be exaggerated."
+                }
+            }
+        },
+        {
+            "recommender_id": "230",
+            "recommendation": {
+                "resume_file": "184.json",
+                "recommendation_file": "Recommendation_From_ID_230.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems exaggerated, with some claims appearing unrealistic given the candidate's domain, experience level, or position. The recommendation also contains some informal language.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation barely mentions the skills or experiences from the resume, with little or no connection between the skills, experience, or roles mentioned. The recommendation highlights the individual's adaptability and management skills but fails to provide specific examples or details that align with the key areas of expertise mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

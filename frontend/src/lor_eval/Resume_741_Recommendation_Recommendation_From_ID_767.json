@@ -1,0 +1,17 @@
+{
+    "resume_file": "741.json",
+    "recommendation_file": "Recommendation_From_ID_767.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Pharmacy Management",
+            "Patient Consultation",
+            "Prescription Management",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their pharmacy management, patient consultation, and leadership abilities. However, the recommender's role as a vice president in information technology infrastructure operations seems unrelated to the candidate's field, which might raise some questions about their familiarity with the candidate's work."
+    }
+}

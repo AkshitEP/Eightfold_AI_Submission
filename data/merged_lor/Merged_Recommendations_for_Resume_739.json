@@ -1,0 +1,105 @@
+{
+    "target_id": "739",
+    "recommendations": [
+        {
+            "recommender_id": "91",
+            "recommendation": {
+                "resume_file": "739.json",
+                "recommendation_file": "Recommendation_From_ID_91.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Accounting",
+                        "Leadership",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their payroll management, accounting, and leadership abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "139",
+            "recommendation": {
+                "resume_file": "739.json",
+                "recommendation_file": "Recommendation_From_ID_139.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Accounting",
+                        "Leadership",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their payroll management, accounting, and leadership abilities. The source of the recommendation appears to be a supervisor or manager, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "906",
+            "recommendation": {
+                "resume_file": "739.json",
+                "recommendation_file": "Recommendation_From_ID_906.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Accounting",
+                        "Leadership",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their payroll management, leadership, and customer service abilities. The source of the recommendation is an HR Executive, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "21",
+            "recommendation": {
+                "resume_file": "739.json",
+                "recommendation_file": "Recommendation_From_ID_21.txt",
+                "output": {
+                    "relevance_score": 6,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies and exaggerated claims detected, but no informal language or statistically improbable claims.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Accounting",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns partially with the candidate's skills and experience, but lacks substantial detail and alignment with key areas of expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "985",
+            "recommendation": {
+                "resume_file": "739.json",
+                "recommendation_file": "Recommendation_From_ID_985.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Payroll Management",
+                        "Accounting",
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their payroll management, accounting, and customer service skills. The source of the recommendation is a peer, specifically an HR Administrator and Marketing Associate, who has worked alongside the candidate."
+                }
+            }
+        }
+    ]
+}

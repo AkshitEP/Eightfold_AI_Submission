@@ -1,0 +1,19 @@
+{
+    "resume_file": "658.json",
+    "recommendation_file": "Recommendation_From_ID_639.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Project Management",
+            "Communication",
+            "Time Management",
+            "Health Administration",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, problem-solving, and communication skills. However, the source of the recommendation is unclear, and the tone is overly positive, which might indicate a bias."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "241.json",
+    "recommendation_file": "Recommendation_From_ID_538.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as a Business Process Analyst seems unrelated to the candidate's skills and experience.",
+        "verified_skills": [
+            "Leadership",
+            "Training and Development",
+            "Communication",
+            "Project Planning"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, training, and communication abilities. However, some claims seem exaggerated, such as the candidate's ability to 'deliver quality instruction and develop impactful training programs' without concrete evidence."
+    }
+}

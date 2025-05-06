@@ -1,0 +1,12 @@
+{
+    "resume_file": "844.json",
+    "recommendation_file": "Recommendation_From_ID_934.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and lack of connection to resume skills and experience.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is not relevant to the resume and does not verify any of the skills mentioned. The recommender's relationship to Lisa is not specified."
+    }
+}

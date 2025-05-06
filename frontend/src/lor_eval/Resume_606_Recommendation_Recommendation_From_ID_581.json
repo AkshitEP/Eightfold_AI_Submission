@@ -1,0 +1,16 @@
+{
+    "resume_file": "606.json",
+    "recommendation_file": "Recommendation_From_ID_581.txt",
+    "output": {
+        "relevance_score": 7,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation contains statistically improbable claims, such as the candidate having 'over 15 years of expertise in financial analysis, budgeting, and auditing' when their resume only shows experience as an Accountant I since 2010. Additionally, the recommendation mentions skills and experiences not present in the resume, such as 'financial analysis, budgeting, and auditing' and 'implementing systems that streamlined complex financial operations'.",
+        "verified_skills": [
+            "Administrative Support",
+            "Record Keeping",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation is partially aligned with the candidate's skills and experience, but contains some exaggerated claims and mentions skills not present in the resume."
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "target_id": "970",
+    "recommendations": [
+        {
+            "recommender_id": "466",
+            "recommendation": {
+                "resume_file": "970.json",
+                "recommendation_file": "Recommendation_From_ID_466.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Training and Development",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements and strengths. The source of the recommendation is a peer, indicating a strong working relationship and firsthand knowledge of the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "539",
+            "recommendation": {
+                "resume_id": 970,
+                "recommendation_file": "Recommendation_From_ID_539.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Training and Development",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their achievements and strengths. The source of the recommendation appears to be a colleague, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "128",
+            "recommendation": {
+                "resume_file": "970.json",
+                "recommendation_file": "Recommendation_From_ID_128.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Financial Analysis",
+                        "Training and Development",
+                        "Banking and Finance",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the banking sector, particularly in the area of revolving credit. The recommendation highlights the candidate's strengths in leadership, communication, customer service, and problem-solving, which are all relevant to their skills and job history."
+                }
+            }
+        },
+        {
+            "recommender_id": "11",
+            "recommendation": {
+                "resume_file": "970.json",
+                "recommendation_file": "Recommendation_From_ID_11.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Time Management",
+                        "Training and Development"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their problem-solving, communication, and leadership skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "712",
+            "recommendation": {
+                "resume_file": "970.json",
+                "recommendation_file": "Recommendation_From_ID_712.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Customer Service",
+                        "Financial Analysis",
+                        "Training and Development",
+                        "Banking and Finance"
+                    ],
+                    "recommendation_source": "Peer/Manager",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their process improvements, leadership, and communication skills. The source of the recommendation appears to be a peer or manager, given their familiarity with the candidate's work and their role as a Founder and Project Manager."
+                }
+            }
+        },
+        {
+            "recommender_id": "160",
+            "recommendation": {
+                "resume_id": 970,
+                "recommendation_file": "Recommendation_From_ID_160.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Project Management",
+                        "Customer Service",
+                        "Financial Analysis",
+                        "Training and Development",
+                        "Banking and Finance",
+                        "Time Management",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their banking knowledge, communication skills, and ability to build relationships and drive process improvements."
+                }
+            }
+        },
+        {
+            "recommender_id": "793",
+            "recommendation": {
+                "resume_file": "970.json",
+                "recommendation_file": "Recommendation_From_ID_793.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Customer Service",
+                        "Financial Analysis",
+                        "Training and Development",
+                        "Banking and Finance",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their exceptional customer service, operational excellence, and ability to analyze financial information. The source of the recommendation is a peer, a Legal Specialist III in Investment Banking, who has worked closely with the candidate."
+                }
+            }
+        }
+    ]
+}

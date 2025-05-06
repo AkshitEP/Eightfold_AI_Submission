@@ -1,0 +1,119 @@
+{
+    "target_id": "992",
+    "recommendations": [
+        {
+            "recommender_id": "635",
+            "recommendation": {
+                "resume_id": 992,
+                "recommendation_file": "Recommendation_From_ID_635.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mechanical Maintenance",
+                        "Leadership",
+                        "Troubleshooting",
+                        "Quality Control",
+                        "Safety Procedures",
+                        "Team Management",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical proficiencies, leadership experience, and commitment to safety and quality control."
+                }
+            }
+        },
+        {
+            "recommender_id": "831",
+            "recommendation": {
+                "resume_file": "992.json",
+                "recommendation_file": "Recommendation_From_ID_831.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mechanical Maintenance",
+                        "Leadership",
+                        "Troubleshooting",
+                        "Quality Control",
+                        "Safety Procedures",
+                        "Team Management",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational performance, leadership, and teamwork skills. The recommendation highlights the candidate's ability to adapt and solve complex problems, which is consistent with their work history."
+                }
+            }
+        },
+        {
+            "recommender_id": "375",
+            "recommendation": {
+                "resume_file": "992.json",
+                "recommendation_file": "Recommendation_From_ID_375.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and expertise are not directly related to the candidate's field of plant operations. However, the recommender's experience in logistics management and attention to detail provide some credibility.",
+                    "verified_skills": [
+                        "Mechanical Maintenance",
+                        "Leadership",
+                        "Safety Procedures",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation highlights the candidate's experience and skills in plant operations, particularly in monitoring equipment and optimizing production processes. However, the recommender's background is in logistics management, which may not be directly relevant to the candidate's field."
+                }
+            }
+        },
+        {
+            "recommender_id": "924",
+            "recommendation": {
+                "resume_file": "992.json",
+                "recommendation_file": "Recommendation_From_ID_924.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mechanical Maintenance",
+                        "Leadership",
+                        "Troubleshooting",
+                        "Quality Control",
+                        "Safety Procedures",
+                        "Team Management",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their plant operations expertise, leadership, and commitment to safety and teamwork."
+                }
+            }
+        },
+        {
+            "recommender_id": "708",
+            "recommendation": {
+                "resume_file": "992.json",
+                "recommendation_file": "Recommendation_From_ID_708.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mechanical Maintenance",
+                        "Leadership",
+                        "Troubleshooting",
+                        "Quality Control",
+                        "Safety Procedures",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership capabilities. The recommender's background as an Aviation Mechanic adds credibility to their assessment of the candidate's skills."
+                }
+            }
+        }
+    ]
+}

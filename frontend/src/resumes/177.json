@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Sales & Service Associate",
+                "work_description": "Perform bank product cross sale, handle large currency, deal with client inquiries, process wire transfers, and perform other banking tasks. Delivered informational sales presentations to potential investors and maintained a high client retention rate.",
+                "company_level": "Mid-level",
+                "start_date": "10/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Sales & Service Associate",
+                "work_description": "Collaborated with legal and accounting counsel to develop marketing strategies for estate and business succession planning insurance. Delivered informational sales presentations to potential investors and maintained a high client retention rate.",
+                "company_level": "Mid-level",
+                "start_date": "01/2011",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Administrator - AP/AR Specialist",
+                "work_description": "Executed financial due diligence, created a valuation model, and performed both Accounts Receivable and Accounts Payable functions. Utilized MAS 90, 200, Peachtree accounting, and MS Office software programs.",
+                "company_level": "Mid-level",
+                "start_date": "04/2008",
+                "end_date": "12/2010"
+            },
+            {
+                "role_name": "Accounting Specialist",
+                "work_description": "Achieved proper compliance and accurate executive level reporting. Created release and project plans, established stakeholder expectations, and prepared Bank reconciliation daily.",
+                "company_level": "Mid-level",
+                "start_date": "11/2001",
+                "end_date": "08/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "DeKalb College",
+                "start_date": "01/1999",
+                "end_date": "05/2001",
+                "domain": "Finance",
+                "level": "AAS"
+            },
+            {
+                "university": "University of Maryland University College",
+                "start_date": "01/2014",
+                "end_date": "12/2016",
+                "domain": "Finance",
+                "level": "Bachelor of Science"
+            },
+            {
+                "university": "Georgia Piedmont Technical College",
+                "start_date": "01/1999",
+                "end_date": "12/2001",
+                "domain": "Finance",
+                "level": "AAS"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Banking Operations",
+                "level": 4,
+                "explanation": "Has extensive experience handling banking tasks, including client inquiries, wire transfers, and sales presentations, indicating strong proficiency."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Executed financial due diligence, created a valuation model, and performed financial reporting, showing strong proficiency in financial analysis."
+            },
+            {
+                "name": "Accounting",
+                "level": 5,
+                "explanation": "Over 15 years of experience in various accounting roles, including accounts payable, accounts receivable, and financial reporting, indicating expert-level mastery."
+            },
+            {
+                "name": "Sales and Marketing",
+                "level": 4,
+                "explanation": "Delivered informational sales presentations to potential investors and maintained a high client retention rate, suggesting strong proficiency in sales and marketing."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Created release and project plans, established stakeholder expectations, showing a solid working proficiency in project management."
+            },
+            {
+                "name": "Microsoft Office",
+                "level": 4,
+                "explanation": "Utilized MS Office software programs extensively, suggesting strong proficiency."
+            },
+            {
+                "name": "Bank Reconciliation",
+                "level": 4,
+                "explanation": "Performed Bank reconciliation daily, indicating strong proficiency in bank reconciliation."
+            },
+            {
+                "name": "Financial Reporting",
+                "level": 4,
+                "explanation": "Achieved proper compliance and accurate executive level reporting, showing strong proficiency in financial reporting."
+            }
+        ]
+    }
+}

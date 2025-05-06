@@ -1,0 +1,99 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Performed all month end functions to produce financial statements. Entered all payables and receivables for the 7 franchise locations. Worked with vendors to resolve any situations that arose. Reviewed and maintained that all needed franchise document were on file and up to date. Worked directly with controller on year-end review.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "10/2014"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Collect daily deposits for newly entered SOs as well the balance for any SO that has completed once a job status report has been ran. Interact directly with customers on outstanding deposits and balances due. Responsible for all PO and non PO payable entry/coding for all companies.",
+                "company_level": "Mid-level",
+                "start_date": "03/2013",
+                "end_date": "01/2014"
+            },
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Lead reconciliation of Balance Sheet to ensure no discrepancy with General Ledger. Research and resolve any transaction deviating from ordinary operations. Run Project Cost Reconciliation at month end to ensure all billable expenses are posted to a project.",
+                "company_level": "Mid-level",
+                "start_date": "04/2012",
+                "end_date": "03/2013"
+            },
+            {
+                "role_name": "Financial Management Partner",
+                "work_description": "Identified, reported, tracked, and resolved subsidiary ledger discrepancies in all phases of the revenues and receivables accounting processes. Provide an end to end financial statement assurance and accurate presentation by aiding and completing tasks in all areas of operations.",
+                "company_level": "Mid-level",
+                "start_date": "07/2010",
+                "end_date": "08/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "University of North Carolina",
+                "start_date": "01/2006",
+                "end_date": "05/2010",
+                "domain": "Accounting",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "University of North Carolina",
+                "start_date": "01/2006",
+                "end_date": "05/2010",
+                "domain": "Business Administration Finance",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Alpha Sigma Phi",
+            "Livestrong Foundation"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 5,
+                "explanation": "Has extensive experience in reconciliations, including balance sheet and general ledger, and has led reconciliation efforts, indicating expert-level mastery."
+            },
+            {
+                "name": "General Accounting",
+                "level": 5,
+                "explanation": "Has over 4 years of experience in various accounting roles, including staff accountant and financial management partner, showing expert-level proficiency in general accounting."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 0,
+                "explanation": "No direct experience in payroll management mentioned in the work descriptions."
+            },
+            {
+                "name": "Budgeting",
+                "level": 0,
+                "explanation": "No direct experience in budgeting mentioned in the work descriptions."
+            },
+            {
+                "name": "Leadership",
+                "level": 0,
+                "explanation": "No direct leadership experience mentioned in the work descriptions."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 0,
+                "explanation": "No direct experience with Microsoft Excel mentioned in the work descriptions."
+            },
+            {
+                "name": "Financial Analysis",
+                "level": 4,
+                "explanation": "Has experience in analyzing financial data, including identifying and resolving discrepancies, and providing financial statement assurance, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Has experience in running project cost reconciliations and ensuring all billable expenses are posted to a project, showing solid working proficiency."
+            }
+        ]
+    }
+}

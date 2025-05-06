@@ -1,0 +1,12 @@
+{
+    "resume_file": "331.json",
+    "recommendation_file": "Recommendation_From_ID_370.txt",
+    "output": {
+        "relevance_score": 2,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation appears to be fabricated, with no connection to the candidate's skills, experience, or roles.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills, experience, or roles. The language used is overly formal and does not match the tone of a genuine recommendation."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "resume_file": "164.json",
+    "recommendation_file": "Recommendation_From_ID_851.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems unrealistic and exaggerated, with statistically improbable claims and informal language. The connection between the candidate's finance background and theatrical production is unclear and lacks concrete examples.",
+        "verified_skills": [
+            "Leadership",
+            "Marketing"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation lacks specific examples and details from the candidate's resume, and the connection between their finance background and theatrical production is unclear. The language used is informal and exaggerated, raising concerns about the authenticity of the recommendation."
+    }
+}

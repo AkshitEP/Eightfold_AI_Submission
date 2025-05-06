@@ -1,0 +1,19 @@
+{
+    "resume_file": "636.json",
+    "recommendation_file": "Recommendation_From_ID_826.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the lack of specific examples or metrics to support the claims. However, the language is formal and the recommendation aligns well with the candidate's skills and experience.",
+        "verified_skills": [
+            "Sales Management",
+            "Leadership",
+            "Customer Service",
+            "Team Management",
+            "Communication",
+            "Music Education"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's exceptional leadership skills, innovative mindset, and dedication to cultivating positive relationships with clients and educational institutions. However, it lacks specific examples or metrics to support the claims, which reduces the relevance score."
+    }
+}

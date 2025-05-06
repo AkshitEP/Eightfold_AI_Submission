@@ -1,0 +1,18 @@
+{
+    "resume_file": "756.json",
+    "recommendation_file": "Recommendation_From_ID_560.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and the recommender's background in IT management adds credibility.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "IT Strategy",
+            "Process Improvement",
+            "Electronic Health Records"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, project management, and process improvement skills. The recommender's background in IT management adds credibility to the recommendation."
+    }
+}

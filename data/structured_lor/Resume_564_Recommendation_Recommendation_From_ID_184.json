@@ -1,0 +1,17 @@
+{
+    "resume_file": "564.json",
+    "recommendation_file": "Recommendation_From_ID_184.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+        "verified_skills": [
+            "Communication",
+            "Time Management",
+            "Organizational Skills",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's experience as a Child Performer Welfare Advocate, highlighting their commitment to serving vulnerable populations and their ability to balance administrative responsibilities with genuine care. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the credibility of the recommendation."
+    }
+}

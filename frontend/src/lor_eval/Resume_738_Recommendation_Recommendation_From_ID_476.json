@@ -1,0 +1,17 @@
+{
+    "resume_file": "738.json",
+    "recommendation_file": "Recommendation_From_ID_476.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is somewhat informal. The recommender mentions being a fellow professional in fitness instruction, which seems unrelated to the candidate's experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in customer service, relationship building, and communication. However, the recommender's background in fitness instruction seems unrelated to the candidate's experience, and the language is somewhat informal."
+    }
+}

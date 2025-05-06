@@ -1,0 +1,82 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Concierge/Doorman",
+                "work_description": "Provided professional and consistent concierge service to residents, visitors and contractors. Respond to email communications, answer inquiries and offer suggestions. Efficiently handle large call volume inquiries from tenants/guests. Assist with administrative duties such as light copying & fax requests and other requests as needed. Provide updated information for local restaurants, special events, transportation etc. Monitor lobby traffic and alerting residents of deliveries and arriving guests. Provide all other job duties as requested by administrative/management staff. Record and deliver messages to residents, management, leasing, and relieving concierge. Provide guests with information on valet and housekeeping services and ensure that additional housekeeping requests are fulfilled. Activate or deactivate remotes or keys for guests checking in and checking out.",
+                "company_level": "Mid-level",
+                "start_date": "11/2014",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Aviation Ordnanceman",
+                "work_description": "Handle and service weapons and ammunition carried on Navy aircraft. Inspecting, maintaining and repairing the aircraft's mechanical and electrical armament/ordnance systems. Stow, assemble and load aviation ammunition that may include anything from aerial mines and torpedoes to missiles and rockets. Service bomb, missile and rocket releasing and launching devices, and service aircraft guns. Assemble and test air-launched guided missiles, and supervise the operation of aviation ordnance shops, armories and stowage facilities.",
+                "company_level": "Government",
+                "start_date": "12/2007",
+                "end_date": "11/2013"
+            },
+            {
+                "role_name": "Office Assistant",
+                "work_description": "Perform receptionist duties when needed. Maintain trusting relationships with suppliers, customers and colleagues. Sort and distribute mail in a timely manner. Resolve office-related malfunctions and respond to requests or issues. Create and update records ensuring accuracy and validity of information.",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "11/2007"
+            }
+        ],
+        "education": [
+            {
+                "university": "Jacqueline Kennedy Onassis",
+                "start_date": "09/1999",
+                "end_date": "09/1999",
+                "domain": "International Business",
+                "level": "High School Diploma"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Provided professional and consistent concierge service to residents, visitors, and contractors, and handled large call volume inquiries from tenants/guests, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Responded to email communications, answered inquiries, and offered suggestions, showing strong proficiency in communication."
+            },
+            {
+                "name": "Administrative Support",
+                "level": 3,
+                "explanation": "Assisted with administrative duties such as light copying, fax requests, and other requests as needed, indicating a solid working proficiency."
+            },
+            {
+                "name": "Attention to Detail",
+                "level": 3,
+                "explanation": "Maintained trusting relationships with suppliers, customers, and colleagues, and ensured accuracy and validity of information, showing a solid working proficiency."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 3,
+                "explanation": "Resolved office-related malfunctions and responded to requests or issues, indicating a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Efficiently handled large call volume inquiries from tenants/guests and sorted and distributed mail in a timely manner, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Supervised the operation of aviation ordnance shops, armories, and stowage facilities, but limited information is available to assess the extent of leadership experience."
+            },
+            {
+                "name": "Mechanical Maintenance",
+                "level": 2,
+                "explanation": "Inspected, maintained, and repaired the aircraft's mechanical and electrical armament/ordnance systems, but limited information is available to assess the extent of mechanical maintenance experience."
+            }
+        ]
+    }
+}

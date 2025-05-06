@@ -1,0 +1,16 @@
+{
+    "resume_file": "34.json",
+    "recommendation_file": "Recommendation_From_ID_756.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 3,
+        "fraud_reason": "Inconsistencies and exaggerated claims detected. Recommendation seems to be written in a formal tone, but lacks substantial detail and alignment with key areas of expertise.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation mentions some skills and experiences from the resume, but lacks substantial detail and alignment with key areas of expertise. Inconsistencies and exaggerated claims are detected."
+    }
+}

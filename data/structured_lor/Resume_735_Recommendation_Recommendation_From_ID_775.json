@@ -1,0 +1,21 @@
+{
+    "resume_file": "735.json",
+    "recommendation_file": "Recommendation_From_ID_775.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "ITIL",
+            "Active Directory",
+            "Office 365",
+            "Leadership",
+            "Business Analysis",
+            "Architecture",
+            "Healthcare IT"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their project management and leadership abilities. The source of the recommendation is a former Director of Information Technology and Chief Technology Officer, indicating a direct supervisory relationship."
+    }
+}

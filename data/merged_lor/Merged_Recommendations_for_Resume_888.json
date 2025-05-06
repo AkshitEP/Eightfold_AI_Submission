@@ -1,0 +1,116 @@
+{
+    "target_id": "888",
+    "recommendations": [
+        {
+            "recommender_id": "764",
+            "recommendation": {
+                "resume_file": "888.json",
+                "recommendation_file": "Recommendation_From_ID_764.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Mortgage Underwriting",
+                        "Risk Analysis",
+                        "Financial Analysis",
+                        "Compliance",
+                        "Leadership",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their underwriting expertise and attention to detail. The recommender's role as an Assistant Banking Center Manager adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "23",
+            "recommendation": {
+                "resume_file": "888.json",
+                "recommendation_file": "Recommendation_From_ID_23.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background in investment banking and lack of direct experience in mortgage underwriting may raise some questions about their ability to fully assess the candidate's skills.",
+                    "verified_skills": [
+                        "Mortgage Underwriting",
+                        "Risk Analysis",
+                        "Financial Analysis",
+                        "Compliance",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional skills and work ethic, but the recommender's background and relationship to the candidate are unclear. The recommendation is generally positive and provides specific examples of the candidate's abilities, but some minor inconsistencies and lack of direct experience in mortgage underwriting may raise some questions."
+                }
+            }
+        },
+        {
+            "recommender_id": "523",
+            "recommendation": {
+                "resume_file": "888.json",
+                "recommendation_file": "Recommendation_From_ID_523.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mortgage Underwriting",
+                        "Risk Analysis",
+                        "Financial Analysis",
+                        "Compliance",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their mortgage underwriting expertise and analytical skills. However, the source of the recommendation is unclear, as the recommender's role and relationship to the candidate are not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "360",
+            "recommendation": {
+                "resume_file": "888.json",
+                "recommendation_file": "Recommendation_From_ID_360.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unclear and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Mortgage Underwriting",
+                        "Risk Analysis",
+                        "Financial Analysis",
+                        "Compliance",
+                        "Leadership",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience in mortgage underwriting, risk analysis, and financial analysis. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "793",
+            "recommendation": {
+                "resume_file": "888.json",
+                "recommendation_file": "Recommendation_From_ID_793.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Mortgage Underwriting",
+                        "Risk Analysis",
+                        "Financial Analysis",
+                        "Compliance",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their underwriting abilities and attention to detail. The recommender's background in regulatory compliance and risk management adds credibility to their endorsement."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Analyst",
+                "work_description": "Designed an organized classroom setup, positive and welcoming, caring and secured, safe-risk taking, theme based, and discussions on their interests during class meetings.",
+                "company_level": "Unknown",
+                "start_date": "09/2010",
+                "end_date": "09/2011"
+            },
+            {
+                "role_name": "Technology Analyst",
+                "work_description": "No work description provided.",
+                "company_level": "Unknown",
+                "start_date": "01/2010",
+                "end_date": "08/2010"
+            },
+            {
+                "role_name": "Software Engineer",
+                "work_description": "No work description provided.",
+                "company_level": "Unknown",
+                "start_date": "10/2006",
+                "end_date": "06/2008"
+            },
+            {
+                "role_name": "Project Engineer",
+                "work_description": "No work description provided.",
+                "company_level": "Unknown",
+                "start_date": "07/2004",
+                "end_date": "10/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Folsom Lake College",
+                "start_date": "Unknown",
+                "end_date": "12/2016",
+                "domain": "Computer Science and Engineering",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Karunya Institute of Technology, Coimbatore",
+                "start_date": "Unknown",
+                "end_date": "05/2004",
+                "domain": "Computer Science and Engineering",
+                "level": "Matriculation"
+            },
+            {
+                "university": "Sri Vijay Vidyalaya Matriculation HSS, Dharmapuri",
+                "start_date": "Unknown",
+                "end_date": "04/1998",
+                "domain": "Unknown",
+                "level": "S.S.L.C"
+            }
+        ],
+        "projects": [
+            {
+                "domain": "Early Childhood Education",
+                "description": "Developed a curriculum plan for teaching modes of transportation, art, and play activities to children aged 3-5 years.",
+                "skills": [
+                    "Curriculum planning",
+                    "Teaching",
+                    "Child development"
+                ]
+            }
+        ],
+        "interests": [
+            "Teaching",
+            "Child development",
+            "Education",
+            "Curriculum planning"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Curriculum planning",
+                "level": 3,
+                "explanation": "Developed a curriculum plan for teaching modes of transportation, art, and play activities to children aged 3-5 years, showing a solid working proficiency."
+            },
+            {
+                "name": "Teaching",
+                "level": 3,
+                "explanation": "Involved in teaching activities, including developing a curriculum plan and teaching modes of transportation, art, and play activities to children aged 3-5 years, indicating a solid working proficiency."
+            },
+            {
+                "name": "Child development",
+                "level": 3,
+                "explanation": "Involved in child development activities, including developing a curriculum plan and teaching modes of transportation, art, and play activities to children aged 3-5 years, showing a solid working proficiency."
+            },
+            {
+                "name": "Education",
+                "level": 3,
+                "explanation": "Involved in education activities, including developing a curriculum plan and teaching modes of transportation, art, and play activities to children aged 3-5 years, indicating a solid working proficiency."
+            },
+            {
+                "name": "Computer Science and Engineering",
+                "level": 3,
+                "explanation": "Has a degree in Computer Science and Engineering, but no direct work experience is mentioned, suggesting a solid working proficiency."
+            },
+            {
+                "name": "Software Engineering",
+                "level": 2,
+                "explanation": "Had a role as a Software Engineer, but no work description is provided, indicating some practical experience."
+            },
+            {
+                "name": "Project Engineering",
+                "level": 2,
+                "explanation": "Had a role as a Project Engineer, but no work description is provided, indicating some practical experience."
+            },
+            {
+                "name": "Technology Analysis",
+                "level": 2,
+                "explanation": "Had roles as a Technology Analyst and Information Technology Analyst, but no work descriptions are provided, indicating some practical experience."
+            }
+        ]
+    }
+}

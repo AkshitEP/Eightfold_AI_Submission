@@ -1,0 +1,17 @@
+{
+    "resume_id": 923,
+    "recommendation_file": "Recommendation_From_ID_638.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Case Management",
+            "Counseling",
+            "Communication",
+            "Social Work"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in social work, case management, and counseling, providing specific examples of their abilities and commitment to advocacy and support."
+    }
+}

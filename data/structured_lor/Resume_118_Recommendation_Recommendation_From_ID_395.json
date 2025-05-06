@@ -1,0 +1,22 @@
+{
+    "resume_file": "118.json",
+    "recommendation_file": "Recommendation_From_ID_395.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Collaboration",
+            "Event Planning",
+            "Artistic Direction",
+            "Salesforce"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative abilities, interpersonal skills, and attention to detail. However, it does not cover all key skills and experiences mentioned in the resume."
+    }
+}

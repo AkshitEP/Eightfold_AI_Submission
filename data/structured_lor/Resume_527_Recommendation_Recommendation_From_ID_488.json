@@ -1,0 +1,19 @@
+{
+    "resume_file": "527.json",
+    "recommendation_file": "Recommendation_From_ID_488.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Sales Training",
+            "Leadership",
+            "Customer Service",
+            "Employee Training",
+            "Team Management",
+            "Communication"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer engagement, and training abilities. The recommender's role as a Program Assistant with experience in managing member services and administrative operations lends credibility to their assessment."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "resume_file": "732.json",
+    "recommendation_file": "Recommendation_From_ID_449.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written in a way that is overly flattering and lacks specific examples from the candidate's resume. However, the language is formal and there are no obvious red flags.",
+        "verified_skills": [
+            "Leadership",
+            "Mechanical Maintenance",
+            "Troubleshooting",
+            "Electrical Systems"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and mechanical skills, but it seems to be more focused on the synergy between the candidate and another individual. The recommendation could be more effective if it provided specific examples from the candidate's experience and skills."
+    }
+}

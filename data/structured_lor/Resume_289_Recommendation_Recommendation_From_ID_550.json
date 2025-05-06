@@ -1,0 +1,21 @@
+{
+    "resume_file": "289.json",
+    "recommendation_file": "Recommendation_From_ID_550.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Customer Service",
+            "Risk Management",
+            "Time Management",
+            "Team Management",
+            "Audit and Compliance",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership style, customer service skills, and operational management abilities."
+    }
+}

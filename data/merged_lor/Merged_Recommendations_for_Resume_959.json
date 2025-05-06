@@ -1,0 +1,89 @@
+{
+    "target_id": "959",
+    "recommendations": [
+        {
+            "recommender_id": "793",
+            "recommendation": {
+                "resume_file": "959.json",
+                "recommendation_file": "Recommendation_From_ID_793.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Operations Management",
+                        "Compliance Management",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and operational support, compliance management, and customer service skills. The recommender's role as a Legal Specialist III with experience in investment banking compliance adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "527",
+            "recommendation": {
+                "resume_file": "959.json",
+                "recommendation_file": "Recommendation_From_ID_527.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Operations Management",
+                        "Compliance Management",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their administrative and operational expertise in the banking industry."
+                }
+            }
+        },
+        {
+            "recommender_id": "701",
+            "recommendation": {
+                "resume_file": "959.json",
+                "recommendation_file": "Recommendation_From_ID_701.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies in the recommendation, but no statistically improbable claims or informal language detected.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Leadership"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is highly relevant to the candidate's experience in the banking sector, but does not specifically mention some of the skills highlighted in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "278",
+            "recommendation": {
+                "resume_file": "959.json",
+                "recommendation_file": "Recommendation_From_ID_278.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Administrative Support",
+                        "Operations Management",
+                        "Compliance Management",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational skills, process management, and regulatory compliance knowledge. The source of the recommendation is a peer who worked with the candidate in the financial sector."
+                }
+            }
+        }
+    ]
+}

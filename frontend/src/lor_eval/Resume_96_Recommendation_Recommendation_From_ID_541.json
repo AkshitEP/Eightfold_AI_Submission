@@ -1,0 +1,18 @@
+{
+    "resume_id": 96,
+    "recommendation_file": "Recommendation_From_ID_541.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Network Administration",
+            "Security",
+            "Technical Support",
+            "Leadership",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and leadership abilities. The recommender's role as a Trip Coordinator provides a unique perspective on the candidate's ability to manage complex IT infrastructure and facilitate seamless operations."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "804.json",
+    "recommendation_file": "Recommendation_From_ID_648.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. Some minor inconsistencies are present, such as the recommender's claim of working in the banking sector, which is not directly related to the candidate's experience.",
+        "verified_skills": [
+            "Project Management",
+            "Leadership",
+            "Training and Development",
+            "Financial Analysis",
+            "Accounting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in project management, leadership, and training development, which aligns with their skills and experience. However, the recommender's background and relationship with the candidate are unclear, and some minor inconsistencies are present."
+    }
+}

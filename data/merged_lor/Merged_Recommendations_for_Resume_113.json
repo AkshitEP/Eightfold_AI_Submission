@@ -1,0 +1,70 @@
+{
+    "target_id": "113",
+    "recommendations": [
+        {
+            "recommender_id": "758",
+            "recommendation": {
+                "resume_file": "113.json",
+                "recommendation_file": "Recommendation_From_ID_758.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Accounting Operations",
+                        "Financial Planning and Budgeting",
+                        "Leadership",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and process improvement skills. The recommendation source is a peer, which adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "340",
+            "recommendation": {
+                "resume_file": "113.json",
+                "recommendation_file": "Recommendation_From_ID_340.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Accounting Operations",
+                        "Financial Planning and Budgeting",
+                        "Leadership",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial accounting expertise and analytical abilities. The recommendation highlights the candidate's strengths in financial reporting, analysis, and planning, as well as their exceptional communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "829",
+            "recommendation": {
+                "resume_file": "113.json",
+                "recommendation_file": "Recommendation_From_ID_829.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is unknown and the language is overly flattering. No statistically improbable claims detected.",
+                    "verified_skills": [
+                        "Financial Reporting",
+                        "Financial Analysis",
+                        "Accounting Operations",
+                        "Leadership",
+                        "Data Analysis"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial expertise and leadership abilities. However, the source of the recommendation is unclear, and the language is overly flattering, which raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

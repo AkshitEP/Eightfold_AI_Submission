@@ -1,0 +1,12 @@
+{
+    "resume_file": "877.json",
+    "recommendation_file": "Recommendation_From_ID_836.txt",
+    "output": {
+        "relevance_score": 6,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be describing a different person, with skills and experiences not matching the provided resume. The language is formal, but the content is not aligned with the candidate's background.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation does not align with the candidate's skills and experiences. It appears to be describing a different person, specifically a Facility Manager, rather than a Medical Support Assistant. The recommendation highlights skills and experiences not present in the provided resume."
+    }
+}

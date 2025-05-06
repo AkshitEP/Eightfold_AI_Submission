@@ -1,0 +1,16 @@
+{
+    "resume_id": 60,
+    "recommendation_file": "Recommendation_From_ID_724.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine but lacks specific examples and details from the candidate's resume. Some minor inconsistencies are present, such as the mention of 'Business Office Manager' which is not a role mentioned in the resume.",
+        "verified_skills": [
+            "Leadership",
+            "Healthcare Management",
+            "Occupational Therapy"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership and management skills, which align with their experience as Senior Director of Operations and Regional Director. However, it does not provide specific examples or details from the candidate's resume, and some minor inconsistencies are present."
+    }
+}

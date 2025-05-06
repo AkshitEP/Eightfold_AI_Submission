@@ -1,0 +1,18 @@
+{
+    "resume_file": "576.json",
+    "recommendation_file": "Recommendation_From_ID_907.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the recommender's role and experience not being directly related to the candidate's HR experience. However, the recommendation still seems genuine and well-supported by the candidate's skills and experience.",
+        "verified_skills": [
+            "Human Resource Management",
+            "Leadership",
+            "Strategic Planning",
+            "Team Management",
+            "Policy Development"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's strengths in HR management, leadership, and strategic planning, which aligns well with their skills and experience. However, the recommender's role and experience seem unrelated to the candidate's HR experience, which raises some minor concerns about the recommendation's credibility."
+    }
+}

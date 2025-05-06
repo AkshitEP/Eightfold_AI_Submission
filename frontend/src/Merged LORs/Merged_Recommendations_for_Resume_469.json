@@ -1,0 +1,23 @@
+{
+    "target_id": "469",
+    "recommendations": [
+        {
+            "recommender_id": "38",
+            "recommendation": {
+                "resume_file": "469.json",
+                "recommendation_file": "Recommendation_From_ID_38.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommendation seems to be from an unrelated field (Aviation Electronics Technician) and does not directly reference the candidate's skills or work experience in physical therapy. However, it does mention the candidate's role as a Physical Therapy Aide and their ability to provide excellent customer service.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's dedication, strong relationships with patients and staff, and excellent communication skills. However, it does not provide specific examples of their skills or work experience in physical therapy, and the source of the recommendation is unclear."
+                }
+            }
+        }
+    ]
+}

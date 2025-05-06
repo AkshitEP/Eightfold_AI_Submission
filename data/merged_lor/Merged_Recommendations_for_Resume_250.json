@@ -1,0 +1,66 @@
+{
+    "target_id": "250",
+    "recommendations": [
+        {
+            "recommender_id": "72",
+            "recommendation": {
+                "resume_file": "250.json",
+                "recommendation_file": "Recommendation_From_ID_72.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommender's background and experience seem unrelated to the candidate's field of expertise, and the recommendation focuses more on the recommender's own experiences and values.",
+                    "verified_skills": [
+                        "Teaching/Lecturing",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation seems suspicious due to the recommender's unrelated background and the informal language used."
+                }
+            }
+        },
+        {
+            "recommender_id": "513",
+            "recommendation": {
+                "resume_file": "250.json",
+                "recommendation_file": "Recommendation_From_ID_513.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching/Lecturing",
+                        "Lab Management",
+                        "Scientific Sales",
+                        "Molecular Biology",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, lab management, and sales support. The recommendation highlights the candidate's ability to bridge academic knowledge with practical application, particularly in molecular biology and scientific sales."
+                }
+            }
+        },
+        {
+            "recommender_id": "287",
+            "recommendation": {
+                "resume_file": "250.json",
+                "recommendation_file": "Recommendation_From_ID_287.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching/Lecturing",
+                        "Lab Management",
+                        "Scientific Sales",
+                        "Technical Application Support",
+                        "Molecular Biology",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, technical support, and sales performance. The recommendation highlights the candidate's ability to blend scientific acumen with practical application, making them a valuable asset to any team."
+                }
+            }
+        }
+    ]
+}

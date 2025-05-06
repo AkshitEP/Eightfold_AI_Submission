@@ -1,0 +1,17 @@
+{
+    "resume_file": "581.json",
+    "recommendation_file": "Recommendation_From_ID_315.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, such as the mention of 'exceptional ability' and 'remarkable analytical skills' without concrete evidence from the resume. However, the recommendation remains largely credible.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reporting",
+            "Financial Management",
+            "Process Improvement"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and analysis abilities. However, some claims seem exaggerated, and the source of the recommendation is unclear."
+    }
+}

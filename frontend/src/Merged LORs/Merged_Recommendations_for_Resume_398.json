@@ -1,0 +1,176 @@
+{
+    "target_id": "398",
+    "recommendations": [
+        {
+            "recommender_id": "35",
+            "recommendation": {
+                "resume_file": "398.json",
+                "recommendation_file": "Recommendation_From_ID_35.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Leadership",
+                        "Supply Chain Management",
+                        "Logistics"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and organizational abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "647",
+            "recommendation": {
+                "resume_file": "398.json",
+                "recommendation_file": "Recommendation_From_ID_647.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems exaggerated and lacks concrete examples or evidence from the resume. The claims made about the candidate's achievements and skills seem unrealistic and overly broad.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Inventory Management",
+                        "Logistics"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail and alignment with the key areas of expertise. The claims made about the candidate's achievements and skills seem unrealistic and overly broad."
+                }
+            }
+        },
+        {
+            "recommender_id": "375",
+            "recommendation": {
+                "resume_file": "398.json",
+                "recommendation_file": "Recommendation_From_ID_375.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Leadership",
+                        "Logistics",
+                        "Supply Chain Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their logistics management, leadership, and supply operations expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "141",
+            "recommendation": {
+                "resume_file": "398.json",
+                "recommendation_file": "Recommendation_From_ID_141.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Leadership",
+                        "Supply Chain Management",
+                        "Logistics",
+                        "Quality Control",
+                        "Safety Management",
+                        "Equipment Operation",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, inventory management, and logistical support capabilities. The recommendation is from a supervisor, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "402",
+            "recommendation": {
+                "resume_file": "398.json",
+                "recommendation_file": "Recommendation_From_ID_402.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Leadership",
+                        "Supply Chain Management",
+                        "Logistics",
+                        "Quality Control",
+                        "Safety Management",
+                        "Equipment Operation",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, inventory management, and supply chain logistics expertise. The recommender's experience as a maintenance mechanic and their ability to speak to the candidate's skills in a dynamic environment adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "681",
+            "recommendation": {
+                "resume_file": "398.json",
+                "recommendation_file": "Recommendation_From_ID_681.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Leadership",
+                        "Logistics",
+                        "Supply Chain Management",
+                        "Quality Control",
+                        "Safety Management",
+                        "Equipment Operation",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in aviation supply and logistics management. The recommender's own experience and role as an Outside Machinist adds credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "833",
+            "recommendation": {
+                "resume_file": "398.json",
+                "recommendation_file": "Recommendation_From_ID_833.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Leadership",
+                        "Logistics",
+                        "Supply Chain Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their inventory management and leadership abilities. The source of the recommendation is a peer, indicating a strong professional relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "686",
+            "recommendation": {
+                "resume_file": "398.json",
+                "recommendation_file": "Recommendation_From_ID_686.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Inventory Management",
+                        "Logistics",
+                        "Supply Chain Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and logistical abilities."
+                }
+            }
+        }
+    ]
+}

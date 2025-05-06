@@ -1,0 +1,20 @@
+{
+    "resume_file": "970.json",
+    "recommendation_file": "Recommendation_From_ID_128.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Customer Service",
+            "Financial Analysis",
+            "Training and Development",
+            "Banking and Finance",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the banking sector, particularly in the area of revolving credit. The recommendation highlights the candidate's strengths in leadership, communication, customer service, and problem-solving, which are all relevant to their skills and job history."
+    }
+}

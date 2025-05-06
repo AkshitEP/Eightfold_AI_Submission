@@ -1,0 +1,77 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Dining Services Coordinator",
+                "work_description": "Expertly estimating purchasing needs and buying through approved suppliers. Systematically tasted and smelled all prepared dishes, and observed color, texture and garnishes. Effectively managed and assisted kitchen staff in producing food for banquets, catered events and member dining areas.",
+                "company_level": "Mid-level",
+                "start_date": "07/2016",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Healthcare Kitchen Manager",
+                "work_description": "Established and maintained open, collaborative relationships with the kitchen team. Collaborated closely with the Food and Beverage Director to conduct staff meetings and resolve service, product and personnel issues.",
+                "company_level": "Mid-level",
+                "start_date": "10/2011",
+                "end_date": "01/2015"
+            },
+            {
+                "role_name": "Dining Services Director",
+                "work_description": "Communicated openly and honestly with the management team during each shift to ensure it ran smoothly.",
+                "company_level": "Mid-level",
+                "start_date": "07/2007",
+                "end_date": "10/2011"
+            }
+        ],
+        "education": [
+            {
+                "university": "Faulkner University",
+                "start_date": "01/1998",
+                "end_date": "12/1998",
+                "domain": "Human Resources Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Food Service Management",
+                "level": 5,
+                "explanation": "Has extensive experience managing kitchen staff, producing food for events, and ensuring smooth operations, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Has held multiple leadership roles, including Dining Services Director and Healthcare Kitchen Manager, demonstrating expert-level leadership skills."
+            },
+            {
+                "name": "Team Management",
+                "level": 5,
+                "explanation": "Has effectively managed and assisted kitchen staff, established open relationships with team members, and resolved personnel issues, showing expert-level team management skills."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Has communicated openly and honestly with management teams and staff, indicating strong proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Has resolved service, product, and personnel issues, suggesting strong proficiency in problem-solving."
+            },
+            {
+                "name": "Time Management",
+                "level": 4,
+                "explanation": "Has ensured smooth operations during shifts, indicating strong proficiency in time management."
+            },
+            {
+                "name": "Human Resources Management",
+                "level": 3,
+                "explanation": "Has a degree in Human Resources Management, but limited direct experience in this field, showing a solid working proficiency."
+            }
+        ]
+    }
+}

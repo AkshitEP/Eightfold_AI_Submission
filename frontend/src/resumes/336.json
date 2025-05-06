@@ -1,0 +1,129 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Health Coach",
+                "work_description": "Provide health coaching to employees of multiple corporate clients (e.g., Procter & Gamble, The Hartford). Collaborate with participants using motivational interviewing and an evidence-based approach to develop a health goal and action plan geared towards behavior change.",
+                "company_level": "Mid-level",
+                "start_date": "03/2012",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Clinical Nutritionist and Exercise Physiologist, Owner",
+                "work_description": "Promote awareness of current health and wellness research, news and content through social media. Provide nutritional consultation and exercise prescriptions to clients.",
+                "company_level": "Startup",
+                "start_date": "08/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Speaker/Health Educator",
+                "work_description": "Present health and wellness seminars. Perform biometric assessments (i.e., height, weight, BMI, body fat percentage) and review lab results (e.g., cholesterol and blood glucose).",
+                "company_level": "Mid-level",
+                "start_date": "07/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Health Educator",
+                "work_description": "Assisted participants in developing health goals and behavior change. Collaborated with a team of social workers, dietitians, pharmacists, and behavioral health specialists; made referrals as needed.",
+                "company_level": "Mid-level",
+                "start_date": "06/2011",
+                "end_date": "02/2012"
+            },
+            {
+                "role_name": "Fitness Director",
+                "work_description": "Developed and coordinated fitness programs based on the needs of the population. Tracked participation and health assessment data to evaluate progress. Organized and executed timely and successful marketing campaigns for programs. Created marketing materials to promote programs (i.e., brochures, flyers, and postcards). Composed and edited monthly and quarterly newsletters.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "05/2011"
+            },
+            {
+                "role_name": "Health Project Coordinator in Exercise Physiology",
+                "work_description": "Coordinated the day-to-day operations of a research study (The effects of an aerobic and resistance training program on fatigue experienced by breast cancer patients undergoing radiation treatment). Managed operation of the PEAK (Physical Exercise and Kinesiology) Laboratory. Performed exercise testing on eligible patients that consented to study.",
+                "company_level": "Mid-level",
+                "start_date": "12/2008",
+                "end_date": "12/2009"
+            },
+            {
+                "role_name": "Clinical Support Assistant",
+                "work_description": "Collaborated with a multidisciplinary team on a daily basis to help assist in the care of patients on the bone marrow transplant unit. Performed administrative duties including triaging phone calls, managing appointments and lab order entry.",
+                "company_level": "Mid-level",
+                "start_date": "02/2005",
+                "end_date": "12/2008"
+            }
+        ],
+        "education": [
+            {
+                "university": "New York Chiropractic College",
+                "start_date": "01/2014",
+                "end_date": "12/2014",
+                "domain": "Applied Clinical Nutrition",
+                "level": "Master's"
+            },
+            {
+                "university": "State University of New York at Buffalo",
+                "start_date": "01/2008",
+                "end_date": "12/2008",
+                "domain": "Exercise Science",
+                "level": "Master's"
+            },
+            {
+                "university": "State University of New York at Geneseo",
+                "start_date": "01/2004",
+                "end_date": "12/2004",
+                "domain": "Biology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Health Coaching",
+                "level": 5,
+                "explanation": "Over a decade of experience providing health coaching to employees of multiple corporate clients, indicating expert-level mastery."
+            },
+            {
+                "name": "Nutrition Counseling",
+                "level": 4,
+                "explanation": "Provided nutritional consultation to clients as a Clinical Nutritionist and Exercise Physiologist, showing strong proficiency."
+            },
+            {
+                "name": "Exercise Physiology",
+                "level": 4,
+                "explanation": "Developed and coordinated fitness programs, performed exercise testing, and managed the PEAK Laboratory, indicating strong proficiency."
+            },
+            {
+                "name": "Health Education",
+                "level": 4,
+                "explanation": "Presented health and wellness seminars, performed biometric assessments, and reviewed lab results, showing strong proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 3,
+                "explanation": "Developed and coordinated fitness programs, managed the PEAK Laboratory, and collaborated with multidisciplinary teams, indicating a solid working proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Composed and edited monthly and quarterly newsletters, created marketing materials, and presented health and wellness seminars, indicating strong proficiency."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Coordinated the day-to-day operations of a research study and managed the PEAK Laboratory, showing a solid working proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 2,
+                "explanation": "Tracked participation and health assessment data to evaluate progress, indicating some practical experience."
+            },
+            {
+                "name": "Marketing",
+                "level": 3,
+                "explanation": "Organized and executed timely and successful marketing campaigns for programs, showing a solid working proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "669.json",
+    "recommendation_file": "Recommendation_From_ID_147.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Data Analysis",
+            "Financial Reporting",
+            "Project Management",
+            "Microsoft Excel",
+            "SQL",
+            "Business Intelligence",
+            "Access"
+        ],
+        "recommendation_source": "Boss/Supervisor",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial analysis, data analysis, and project management skills. The source of the recommendation is a Finance Controller, indicating a direct supervisory relationship."
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "target_id": "212",
+    "recommendations": [
+        {
+            "recommender_id": "123",
+            "recommendation": {
+                "resume_file": "212.json",
+                "recommendation_file": "Recommendation_From_ID_123.txt",
+                "output": {
+                    "relevance_score": 7,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Minor inconsistencies or exaggerated claims, but overall credible.",
+                    "verified_skills": [
+                        "Communication",
+                        "Leadership",
+                        "Customer Service"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation is moderately relevant to the resume, but lacks substantial detail or alignment with key areas of expertise. The recommender seems to focus more on the candidate's personality and soft skills rather than their technical skills or specific accomplishments."
+                }
+            }
+        },
+        {
+            "recommender_id": "959",
+            "recommendation": {
+                "resume_file": "212.json",
+                "recommendation_file": "Recommendation_From_ID_959.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies in job titles and roles mentioned in the recommendation and resume. However, the recommendation aligns well with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Program Management",
+                        "Leadership",
+                        "Communication",
+                        "Analytical Skills",
+                        "Team Collaboration",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in program management, leadership, and communication, which are well-supported by their resume. However, the job titles and roles mentioned in the recommendation do not exactly match those in the resume, which raises some minor concerns about the accuracy of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "10",
+            "recommendation": {
+                "resume_file": "212.json",
+                "recommendation_file": "Recommendation_From_ID_10.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommendation mentions the candidate's experience in client services, team management, and leadership, but lacks specific examples and details from the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Communication",
+                        "Analytical Skills",
+                        "Team Collaboration",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and management skills, but does not provide concrete examples from the resume. The recommendation also mentions the candidate's experience in client services, but this is not explicitly mentioned in the resume."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Senior Manager",
+                "work_description": "Leading worldwide major manufacturer, distributor and retailer of high quality vitamins & supplements. Leadership role in the Vendor selection process (RFI/RFP/SOW). Negotiated and Contracted with selected technology vendors to optimize quality and minimize IT costs.",
+                "company_level": "Large Corporation",
+                "start_date": "04/2013",
+                "end_date": "02/2015"
+            },
+            {
+                "role_name": "Information Technology Director",
+                "work_description": "Researched, selected, implemented and managed multiple Vendor relationships. Lead several RFI, RFP, MSO and SOW's. Drafted and approved contract amendments/renewals.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2000",
+                "end_date": "02/2013"
+            },
+            {
+                "role_name": "Business Systems Delivery Consultant",
+                "work_description": "Started a new Technology Support team, centrally supporting over 110+ Business Applications.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1999",
+                "end_date": "01/2000"
+            },
+            {
+                "role_name": "Client Services Manager",
+                "work_description": "Provided professional consulting services to multiple Fortune 500 Companies in Investments, Banking, Finance and Insurance areas.",
+                "company_level": "Large Corporation",
+                "start_date": "01/1998",
+                "end_date": "01/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "Adelphi University",
+                "start_date": "01/1995",
+                "end_date": "12/1997",
+                "domain": "Business Administration",
+                "level": "Master's"
+            },
+            {
+                "university": "State University of New York",
+                "start_date": "01/1990",
+                "end_date": "12/1994",
+                "domain": "Management and Economics",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held multiple leadership roles, including Senior Manager and Director positions, indicating expert-level mastery in leadership."
+            },
+            {
+                "name": "Vendor Management",
+                "level": 5,
+                "explanation": "Extensive experience in vendor selection, negotiation, and contract management, showing expert-level proficiency in vendor management."
+            },
+            {
+                "name": "Contract Negotiation",
+                "level": 5,
+                "explanation": "Successfully negotiated and contracted with multiple technology vendors, demonstrating expert-level mastery in contract negotiation."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Managed multiple projects, including RFI, RFP, MSO, and SOW, showing strong proficiency in project management."
+            },
+            {
+                "name": "Business Systems",
+                "level": 4,
+                "explanation": "Started a new Technology Support team and supported over 110+ Business Applications, indicating strong proficiency in business systems."
+            },
+            {
+                "name": "Consulting",
+                "level": 4,
+                "explanation": "Provided professional consulting services to multiple Fortune 500 Companies, showing strong proficiency in consulting."
+            },
+            {
+                "name": "Team Management",
+                "level": 4,
+                "explanation": "Led and managed multiple teams, including a Technology Support team, indicating strong proficiency in team management."
+            },
+            {
+                "name": "Business Administration",
+                "level": 3,
+                "explanation": "Holds a Master's degree in Business Administration, showing a solid working proficiency in business administration."
+            },
+            {
+                "name": "Management",
+                "level": 3,
+                "explanation": "Holds a Bachelor's degree in Management and Economics, showing a solid working proficiency in management."
+            }
+        ]
+    }
+}

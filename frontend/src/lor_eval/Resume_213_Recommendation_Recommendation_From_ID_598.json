@@ -1,0 +1,18 @@
+{
+    "resume_file": "213.json",
+    "recommendation_file": "Recommendation_From_ID_598.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies in the recommender's relationship to the candidate and unclear role as Customer Service Associate.",
+        "verified_skills": [
+            "Leadership",
+            "Administration",
+            "Communication",
+            "Organization",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's leadership skills and adaptability, but does not specifically mention their teaching, video production, or dance instruction skills."
+    }
+}

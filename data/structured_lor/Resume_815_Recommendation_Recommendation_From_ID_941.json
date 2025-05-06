@@ -1,0 +1,18 @@
+{
+    "resume_file": "815.json",
+    "recommendation_file": "Recommendation_From_ID_941.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving",
+            "Patient Care",
+            "Quality Assurance"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, communication, and problem-solving abilities. The recommendation highlights the candidate's ability to navigate complex healthcare environments and their dedication to excellence in healthcare services."
+    }
+}

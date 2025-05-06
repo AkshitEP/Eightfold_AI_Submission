@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Staff Accountant",
+                "work_description": "Responsible for the review and compilation of all financial information for multiple businesses, Monthly adjustments, Closing entries, Financial Statements, Process Payroll, Completing 1040 Individual tax returns, Compose correspondences to the IRS and NYS to address and settle client tax issues.",
+                "company_level": "Mid-level",
+                "start_date": "01/2012",
+                "end_date": "06/2014"
+            },
+            {
+                "role_name": "Executive Administrative Assistant",
+                "work_description": "Manage all administrative and financial duties for the United Way of Montgomery County. Working secretary to the Board of Directors; Assist the Executive Director with all aspects of campaign and event planning.",
+                "company_level": "Non-profit",
+                "start_date": "01/2006",
+                "end_date": "01/2012"
+            },
+            {
+                "role_name": "Payroll Benefits Administrator Benefits Clerk",
+                "work_description": "Office Supervise and direct all aspects of payroll including senior payroll clerk, payroll benefit clerk and account clerk data entry employees for 27 departments and over 500 employees within the county.",
+                "company_level": "Government",
+                "start_date": "Unknown",
+                "end_date": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "university": "Fulton-Montgomery Community College",
+                "start_date": "Unknown",
+                "end_date": "05/2012",
+                "domain": "Business Accounting",
+                "level": "Certificate"
+            },
+            {
+                "university": "Unknown",
+                "start_date": "Unknown",
+                "end_date": "08/2006",
+                "domain": "Business Accounting",
+                "level": "Certificate"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Financial Reconciliation",
+                "level": 4,
+                "explanation": "Handled financial information for multiple businesses, including monthly adjustments and closing entries, suggesting strong proficiency."
+            },
+            {
+                "name": "General Accounting",
+                "level": 4,
+                "explanation": "Compiled financial information and prepared financial statements, indicating a strong proficiency in general accounting."
+            },
+            {
+                "name": "Payroll Management",
+                "level": 5,
+                "explanation": "Supervised and directed payroll for over 500 employees, showing expert-level mastery in payroll management."
+            },
+            {
+                "name": "Tax Preparation",
+                "level": 4,
+                "explanation": "Completed 1040 Individual tax returns and composed correspondences to the IRS and NYS, suggesting strong proficiency in tax preparation."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised and directed payroll staff, indicating a strong level of proficiency in leadership."
+            },
+            {
+                "name": "Financial Statement Preparation",
+                "level": 4,
+                "explanation": "Prepared financial statements, suggesting strong proficiency in financial statement preparation."
+            },
+            {
+                "name": "Event Planning",
+                "level": 3,
+                "explanation": "Assisted the Executive Director with campaign and event planning, showing a solid working proficiency in event planning."
+            },
+            {
+                "name": "Microsoft Excel",
+                "level": 4,
+                "explanation": "Likely used extensively for managing financial records and payroll, suggesting strong proficiency."
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "target_id": "291",
+    "recommendations": [
+        {
+            "recommender_id": "461",
+            "recommendation": {
+                "resume_file": "291.json",
+                "recommendation_file": "Recommendation_From_ID_461.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Communication",
+                        "Teamwork",
+                        "Problem-Solving",
+                        "Attention to Detail",
+                        "Health and Wellness",
+                        "Entrepreneurship"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, customer service skills, and entrepreneurial spirit. The recommendation is well-written and professional, with no signs of exaggeration or statistically improbable claims."
+                }
+            }
+        },
+        {
+            "recommender_id": "108",
+            "recommendation": {
+                "resume_file": "291.json",
+                "recommendation_file": "Recommendation_From_ID_108.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Health and Wellness",
+                        "Entrepreneurship"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, customer service, and passion for health and wellness. The recommendation also highlights the candidate's initiative in co-founding a fitness app, demonstrating a forward-thinking mindset."
+                }
+            }
+        },
+        {
+            "recommender_id": "153",
+            "recommendation": {
+                "resume_file": "291.json",
+                "recommendation_file": "Recommendation_From_ID_153.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Teamwork",
+                        "Problem-Solving",
+                        "Attention to Detail",
+                        "Health and Wellness",
+                        "Entrepreneurship"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their fitness instruction, leadership, and entrepreneurial endeavors. However, the source of the recommendation is unclear, and the recommender's relationship to the candidate is not specified."
+                }
+            }
+        },
+        {
+            "recommender_id": "593",
+            "recommendation": {
+                "resume_file": "291.json",
+                "recommendation_file": "Recommendation_From_ID_593.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Customer Service",
+                        "Time Management",
+                        "Communication",
+                        "Teamwork",
+                        "Problem-Solving",
+                        "Attention to Detail",
+                        "Health and Wellness",
+                        "Entrepreneurship"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership abilities, and entrepreneurial spirit. The source of the recommendation is a Human Resources Manager, indicating a supervisory or managerial relationship with the candidate."
+                }
+            }
+        }
+    ]
+}

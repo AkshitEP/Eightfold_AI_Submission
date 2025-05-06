@@ -1,0 +1,112 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Vice President",
+                "work_description": "Manage cross functional and cross business unit projects to reduce expenses and best utilize company resources. Create repeatable reporting processes of data to support current and future projects. Designed project plan templates for future project managers to board new consumer customers in 120 days or 90 days or less depending on the size of the prospective customer. Create and maintain strategic reports for senior management.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2011",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Risk Management Analyst, Vice President",
+                "work_description": "Managed cross functional and cross business unit projects. Identify Consumer loans in the Commercial Bank; work with the business to ensure coding is correct and taking any necessary steps to have these loans exit. Developed credit file checklists, product specific coding matrices, Green Light Memo and other tools to streamline and assist the business in meeting Risk requirements.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2007",
+                "end_date": "01/2011"
+            },
+            {
+                "role_name": "Project Manager, Vice President",
+                "work_description": "Managed large scale projects (over 40 hours of effort and budgets greater than $200K). Facilitated requirements gathering with business partners and documentation. Created Project documentation following (Software Development Life Cycle) SDLC guidelines. Liaison between business partners and technology teams.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2003",
+                "end_date": "01/2007"
+            },
+            {
+                "role_name": "Business System Analyst, Associate Vice President",
+                "work_description": "Researched technology business solutions to increase efficiency and revenues. Liaison between business partners and technology teams for commercial business lending, small business finance, public finance and manufactured home finance customers. Reported and communicated status with senior management.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2000",
+                "end_date": "01/2003"
+            }
+        ],
+        "education": [
+            {
+                "university": "Northlake College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Computer Information Systems",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "North Central Texas College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Computer Information Systems",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Church activities",
+            "Baseball and Football spectator",
+            "Gardening",
+            "Community Leader",
+            "Volunteer Organizations",
+            "Board Member and Commissioner for Lewisville Baseball Association",
+            "CASA of Denton County - advisory board member",
+            "Lewisville Task Force - founding board member",
+            "Lewisville Independent School District Board of Trustees",
+            "Denton County Appraisal District Board"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Project Management",
+                "level": 5,
+                "explanation": "Extensive experience in managing large-scale projects, creating project plans, and facilitating requirements gathering, indicating expert-level mastery."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Held various leadership roles, including Vice President, and managed cross-functional teams, indicating expert-level leadership skills."
+            },
+            {
+                "name": "Risk Management",
+                "level": 4,
+                "explanation": "Experience in managing risk and developing tools to streamline risk management processes, suggesting strong proficiency."
+            },
+            {
+                "name": "Data Analysis",
+                "level": 4,
+                "explanation": "Created repeatable reporting processes and strategic reports for senior management, indicating strong proficiency in data analysis."
+            },
+            {
+                "name": "Communication",
+                "level": 4,
+                "explanation": "Effectively communicated with business partners, technology teams, and senior management, suggesting strong proficiency in communication."
+            },
+            {
+                "name": "Problem-Solving",
+                "level": 4,
+                "explanation": "Developed solutions to increase efficiency and revenues, indicating strong proficiency in problem-solving."
+            },
+            {
+                "name": "Business Analysis",
+                "level": 4,
+                "explanation": "Researched technology business solutions and worked with business partners to identify needs, suggesting strong proficiency in business analysis."
+            },
+            {
+                "name": "Software Development Life Cycle (SDLC)",
+                "level": 3,
+                "explanation": "Familiarity with SDLC guidelines and created project documentation following these guidelines, indicating solid working proficiency."
+            },
+            {
+                "name": "Computer Information Systems",
+                "level": 3,
+                "explanation": "Education background in Computer Information Systems, indicating solid working proficiency."
+            }
+        ]
+    }
+}

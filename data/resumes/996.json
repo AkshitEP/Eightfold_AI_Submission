@@ -1,0 +1,103 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Middle School Principal",
+                "work_description": "Supervised and evaluated certified and non-certified staff. Implemented a pilot program from the MCEE for a new staff evaluation model. Supervised general and special education teachers and maintained accountability for meeting legal expectations for students with an IEP, 504, Title I services, or at-risk services.",
+                "company_level": "Mid-level",
+                "start_date": "07/2008",
+                "end_date": "06/2015"
+            },
+            {
+                "role_name": "Assistant Middle School Principal",
+                "work_description": "Evaluated certified and non-certified staff. Supervised multiple extra-curricular activities for middle school students. Assisted in planning and implementing transition activities for blending fifth and sixth grade teachers, students, and families to the middle school.",
+                "company_level": "Mid-level",
+                "start_date": "08/2005",
+                "end_date": "07/2008"
+            },
+            {
+                "role_name": "High School Language Arts Teacher",
+                "work_description": "K-12 Career Preparation Coordinator. Coordinator of HS At-Risk Programming. Freshmen Class Advisor.",
+                "company_level": "Mid-level",
+                "start_date": "06/1999",
+                "end_date": "07/2005"
+            },
+            {
+                "role_name": "Student Government Advisor",
+                "work_description": "School Improvement Team Committee Chairperson. OEA Negotiating Team member.",
+                "company_level": "Mid-level",
+                "start_date": "08/1994",
+                "end_date": "06/1999"
+            }
+        ],
+        "education": [
+            {
+                "university": "Western Michigan University",
+                "start_date": "01/2000",
+                "end_date": "12/2000",
+                "domain": "Educational Leadership",
+                "level": "Master's"
+            },
+            {
+                "university": "Hillsdale College",
+                "start_date": "01/1993",
+                "end_date": "05/1993",
+                "domain": "English and Psychology",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [
+            "Advanced Math 7 and Algebra I added to MS Curriculum",
+            "Lego Robotics",
+            "Girls on the Run",
+            "National Junior Honor Society",
+            "HCMS participates in American Heart Association's Red Out Game",
+            "Additional Clubs added at middle school: Football, Lacrosse, and Competitive Cheerleading"
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Served as a Middle School Principal and Assistant Middle School Principal, demonstrating expert-level leadership skills."
+            },
+            {
+                "name": "Staff Evaluation and Supervision",
+                "level": 5,
+                "explanation": "Evaluated and supervised certified and non-certified staff in multiple roles, indicating expert-level proficiency."
+            },
+            {
+                "name": "Program Development and Implementation",
+                "level": 4,
+                "explanation": "Implemented a pilot program for staff evaluation and coordinated various activities, showing strong proficiency in program development and implementation."
+            },
+            {
+                "name": "Accountability and Compliance",
+                "level": 4,
+                "explanation": "Maintained accountability for meeting legal expectations for students with special needs, indicating strong proficiency in ensuring compliance."
+            },
+            {
+                "name": "Communication and Collaboration",
+                "level": 4,
+                "explanation": "Worked with teachers, staff, and families to plan and implement transition activities, demonstrating strong proficiency in communication and collaboration."
+            },
+            {
+                "name": "Curriculum Development",
+                "level": 3,
+                "explanation": "Added Advanced Math 7 and Algebra I to the middle school curriculum, showing a solid working proficiency in curriculum development."
+            },
+            {
+                "name": "Project Management",
+                "level": 3,
+                "explanation": "Coordinated various projects and activities, such as Lego Robotics and Girls on the Run, indicating a solid working proficiency in project management."
+            },
+            {
+                "name": "Teaching and Education",
+                "level": 4,
+                "explanation": "Taught high school language arts and served as a K-12 Career Preparation Coordinator, showing strong proficiency in teaching and education."
+            }
+        ]
+    }
+}

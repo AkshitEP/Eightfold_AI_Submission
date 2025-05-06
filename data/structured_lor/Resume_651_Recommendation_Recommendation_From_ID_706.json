@@ -1,0 +1,17 @@
+{
+    "resume_file": "651.json",
+    "recommendation_file": "Recommendation_From_ID_706.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The recommender's role as a Mortgage Banking Research Specialist seems unrelated to the candidate's work, and the claim of 'strong leadership qualities' is not supported by the resume.",
+        "verified_skills": [
+            "Customer Service",
+            "Account Management",
+            "Sales and Marketing",
+            "Banking Operations"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in client support and banking, but some claims seem exaggerated or unsupported. The recommender's relationship to the candidate is unclear, and their role seems unrelated to the candidate's work."
+    }
+}

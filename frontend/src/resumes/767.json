@@ -1,0 +1,140 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Vice President Information Technology Infrastructure Operations",
+                "work_description": "Reduced overall network bandwidth costs over 15%, through ISP consolidation and management. Manages cloud based phone system (8x8) in multiple remote locations as well as on-premise phone systems. Responsible for Infrastructure Operations annual budget, including purchasing new equipment, software licenses, and network equipment. Led, mentored and developed a team of infrastructure engineers, architects, and administrators across multiple geographic locations. Manages multiple datacenters, on premise network and server, and Cloud presence. Responsible for vendor relationships, contracts, negotiating and change management. Successfully migrated over 700 users from three different domain On-Premise Exchange servers to MS Exchange online under single domain. Planning, and executing migration of all on-prem SaaS servers and application to a cloud based solution. Lead, manage, and support all design, development, implementation of infrastructure hardware, software, and network components as well as all disaster recovery and business continuity practices. Currently managing infrastructure and IT Operations in an offshore delivery center. Document and Execute IT policies company wide.",
+                "company_level": "Large Corporation",
+                "start_date": "06/2008",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Director of Network Operations",
+                "work_description": "Maintains Nortel BCM telephony servers, including both analog and VoIP phones. Provide technical support to designers, marketing and sales departments, suppliers, engineers and other team members throughout the product development and implementation process. Monitor functioning of equipment and make necessary modifications to ensure system operates in conformance with specifications. Build, test, and modify product prototypes using working models or theoretical models constructed with computer simulation. Store, retrieve, and manipulate data for analysis of system capabilities and requirements. Setup, maintained, and monitored over 90 remote branch office locations. Each with internet access and tied back to Chicago office through IPsec tunnel to Cisco ASA. Responsible for Entrapass Security system allowing access to suite doors utilizing ID badge. Setup, configured and supports multiple CRM and ERP Systems (Sage MAS500 and CRM Dynamics), as well as converting QuickBooks DB to Sage MAS 500.",
+                "company_level": "Mid-level",
+                "start_date": "07/2006",
+                "end_date": "06/2008"
+            },
+            {
+                "role_name": "Information Operations Specialist",
+                "work_description": "Responsible for administering Microsoft 2000/2003 environment, consisting of 50 primarily Proliant servers, including patch management, account maintenance, and other general system administration duties. Maintains Cisco Call Manager Application and Unity Server, providing VOIP services to user community. Built new PC deployment image using Symantec Ghost and Intrinsic Swimage, responsible for creating silent install packages for all third party applications. Implemented new backup procedures using Legato Networker tape backup systems and a Qualstar Jukebox, bringing the hospital within HIPAA standards compliance.",
+                "company_level": "Mid-level",
+                "start_date": "02/2005",
+                "end_date": "07/2006"
+            },
+            {
+                "role_name": "Customer Care Representative - Help Desk Technician",
+                "work_description": "Primarily supported LawInContext, BakerMaks, and Client Matter Intake System (CMIS). Active team member providing regression testing of various software builds of a proprietary law document management solution. Administering a Linux based system to host an internal Knowledge Base Portal assisting other help desk agents with daily troubleshooting.",
+                "company_level": "Mid-level",
+                "start_date": "09/2003",
+                "end_date": "02/2005"
+            },
+            {
+                "role_name": "System Administrator",
+                "work_description": "Administered several enterprise servers running a mixed environment including Sun Solaris, Red Hat Linux, FreeBSD, SCO Unix, and Windows NT/2000. Developed and maintained UNIX shell scripts, used to automate daily help desk agent tasks. Selected to attend a 15 week IBM Emerging Leaders workshop that included training in breakthrough thinking, team building, team performance, and managing multiple priorities. Designed and developed UNIX login reauthorization program using C, Shell Scripting, Oracle, and web development resulting in approximately 40,000 unused or unauthorized UNIX logins to be cleared from servers.",
+                "company_level": "Mid-level",
+                "start_date": "10/1998",
+                "end_date": "12/2001"
+            },
+            {
+                "role_name": "Healthcare Systems Specialist",
+                "work_description": "Maintain records of goods ordered and received. Review, evaluate, and approve specifications for issuing and awarding bids. Control purchasing department budgets. Maintain and administer computer networks and related computing environments including computer hardware, systems software, applications software, and all configurations. Perform data backups and disaster recovery operations. Design, configure, and test computer hardware, networking software and operating system software. Attended Air Force Airman Leadership School, graduating as the honor graduate.",
+                "company_level": "Mid-level",
+                "start_date": "02/1993",
+                "end_date": "11/1998"
+            }
+        ],
+        "education": [
+            {
+                "university": "TROY STATE UNIVERSITY",
+                "start_date": "01/1998",
+                "end_date": "12/2001",
+                "domain": "Computer Science",
+                "level": "Bachelor's"
+            },
+            {
+                "university": "Community College of the Air Force",
+                "start_date": "01/1993",
+                "end_date": "12/1998",
+                "domain": "Healthcare Systems",
+                "level": "Associate's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Cloud Computing",
+                "level": 5,
+                "explanation": "Extensive experience managing cloud-based phone systems, migrating users to MS Exchange online, and planning cloud-based solutions for SaaS servers and applications."
+            },
+            {
+                "name": "Network Administration",
+                "level": 5,
+                "explanation": "Over 15 years of experience managing networks, including setup, maintenance, and monitoring of remote branch office locations, IPsec tunnels, and Cisco ASA."
+            },
+            {
+                "name": "Leadership",
+                "level": 5,
+                "explanation": "Proven leadership experience, having led and mentored teams of infrastructure engineers, architects, and administrators across multiple geographic locations."
+            },
+            {
+                "name": "Vendor Management",
+                "level": 4,
+                "explanation": "Experience managing vendor relationships, contracts, and negotiations, as well as change management."
+            },
+            {
+                "name": "Disaster Recovery",
+                "level": 4,
+                "explanation": "Experience with disaster recovery and business continuity practices, including data backups and recovery operations."
+            },
+            {
+                "name": "IT Operations",
+                "level": 5,
+                "explanation": "Extensive experience managing IT operations, including infrastructure, network, and server management."
+            },
+            {
+                "name": "Microsoft Exchange",
+                "level": 4,
+                "explanation": "Experience migrating users to MS Exchange online and managing cloud-based email systems."
+            },
+            {
+                "name": "Cisco",
+                "level": 4,
+                "explanation": "Experience with Cisco products, including Cisco Call Manager Application, Unity Server, and Cisco ASA."
+            },
+            {
+                "name": "Linux",
+                "level": 3,
+                "explanation": "Experience administering Linux-based systems, including Red Hat Linux and FreeBSD."
+            },
+            {
+                "name": "Unix",
+                "level": 3,
+                "explanation": "Experience administering Unix-based systems, including Sun Solaris, SCO Unix, and FreeBSD."
+            },
+            {
+                "name": "Scripting",
+                "level": 3,
+                "explanation": "Experience developing and maintaining UNIX shell scripts and C programs."
+            },
+            {
+                "name": "Project Management",
+                "level": 4,
+                "explanation": "Experience planning and executing large-scale projects, including migrations to cloud-based solutions."
+            },
+            {
+                "name": "Budgeting",
+                "level": 3,
+                "explanation": "Experience managing budgets, including purchasing new equipment, software licenses, and network equipment."
+            },
+            {
+                "name": "Help Desk",
+                "level": 2,
+                "explanation": "Experience providing technical support to end-users and troubleshooting software issues."
+            }
+        ]
+    }
+}

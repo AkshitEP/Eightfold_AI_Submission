@@ -1,0 +1,125 @@
+{
+    "target_id": "197",
+    "recommendations": [
+        {
+            "recommender_id": "247",
+            "recommendation": {
+                "resume_file": "197.json",
+                "recommendation_file": "Recommendation_From_ID_247.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales Management",
+                        "Business Development",
+                        "Change Management",
+                        "Strategic Planning",
+                        "Real Estate"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership qualities, business development successes, and strong communication skills."
+                }
+            }
+        },
+        {
+            "recommender_id": "922",
+            "recommendation": {
+                "resume_file": "197.json",
+                "recommendation_file": "Recommendation_From_ID_922.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 4,
+                    "fraud_reason": "The recommendation seems to be written by someone who is not familiar with the candidate's actual work experience and skills. The language used is overly flattering and lacks specific examples from the candidate's resume. The recommender claims to be an engineer, which seems unrelated to the candidate's field of work.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Sales Management",
+                        "Business Development",
+                        "Change Management",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and team management skills, but lacks concrete examples from their work experience. The recommender's background as an engineer seems unrelated to the candidate's field of work, which raises concerns about the authenticity of the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "105",
+            "recommendation": {
+                "resume_file": "197.json",
+                "recommendation_file": "Recommendation_From_ID_105.txt",
+                "output": {
+                    "relevance_score": 2,
+                    "fraud_chance_level": 5,
+                    "fraud_reason": "The recommendation is highly unlikely to be genuine due to the lack of relevance to the candidate's skills and experience. The language used is overly flattering and lacks specific examples from the candidate's work history.",
+                    "verified_skills": [],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation does not align with the candidate's skills and experience, and the language used is overly flattering and lacks specific examples. The recommendation appears to be for a different individual with a background in healthcare, rather than the candidate's actual experience in banking and finance."
+                }
+            }
+        },
+        {
+            "recommender_id": "25",
+            "recommendation": {
+                "resume_file": "197.json",
+                "recommendation_file": "Recommendation_From_ID_25.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Some minor inconsistencies and exaggerated claims are present. The recommendation seems to be describing two different individuals, but the resume only mentions one person. Additionally, some skills mentioned in the recommendation are not present in the resume.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Business Development"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and business development skills, but it seems to be describing two different individuals. The recommendation also mentions skills that are not present in the resume, such as 'team-building capabilities' and 'motivational skills'."
+                }
+            }
+        },
+        {
+            "recommender_id": "827",
+            "recommendation": {
+                "resume_file": "197.json",
+                "recommendation_file": "Recommendation_From_ID_827.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background and relationship with the candidate are unclear. Some minor inconsistencies in the recommender's role and expertise.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Business Development",
+                        "Sales Management",
+                        "Change Management",
+                        "Strategic Planning"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership qualities, business development skills, and ability to drive growth in a competitive environment. However, the recommender's background and relationship with the candidate are unclear, and some minor inconsistencies are present in the recommender's role and expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "605",
+            "recommendation": {
+                "resume_file": "197.json",
+                "recommendation_file": "Recommendation_From_ID_605.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Business Development",
+                        "Change Management",
+                        "Strategic Planning",
+                        "Real Estate",
+                        "Commercial Lending",
+                        "Deposit Services"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, business development, and strategic planning abilities. However, the source of the recommendation is unclear."
+                }
+            }
+        }
+    ]
+}

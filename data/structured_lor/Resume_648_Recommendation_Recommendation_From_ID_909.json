@@ -1,0 +1,16 @@
+{
+    "resume_file": "648.json",
+    "recommendation_file": "Recommendation_From_ID_909.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Trade Finance",
+            "Customer Service",
+            "Fund Transfer"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience in trade finance, highlighting their expertise in managing diverse trade finance activities and commitment to customer satisfaction."
+    }
+}

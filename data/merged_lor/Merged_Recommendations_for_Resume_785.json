@@ -1,0 +1,87 @@
+{
+    "target_id": "785",
+    "recommendations": [
+        {
+            "recommender_id": "924",
+            "recommendation": {
+                "resume_file": "785.json",
+                "recommendation_file": "Recommendation_From_ID_924.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "The recommender's background in bakery entrepreneurship and project engineering seems unrelated to the candidate's aerospace experience. However, the recommendation does mention relevant skills and experiences.",
+                    "verified_skills": [
+                        "Quality Control",
+                        "Aircraft Maintenance",
+                        "Aviation Structural Mechanics",
+                        "Technical Inspection"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's expertise in quality control and aerospace maintenance, but the recommender's background seems unrelated to the candidate's field. The recommendation is generally positive, but some claims seem exaggerated or unsupported."
+                }
+            }
+        },
+        {
+            "recommender_id": "861",
+            "recommendation": {
+                "resume_file": "785.json",
+                "recommendation_file": "Recommendation_From_ID_861.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Quality Control",
+                        "Aircraft Maintenance",
+                        "Aviation Structural Mechanics",
+                        "Technical Inspection",
+                        "Risk Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their quality control inspection, aircraft maintenance, and technical inspection expertise. The recommender's position as an HR Specialist in US HR Operations adds credibility to the recommendation."
+                }
+            }
+        },
+        {
+            "recommender_id": "504",
+            "recommendation": {
+                "resume_file": "785.json",
+                "recommendation_file": "Recommendation_From_ID_504.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Quality Control",
+                        "Aircraft Maintenance",
+                        "Aviation Structural Mechanics",
+                        "Risk Management",
+                        "Technical Inspection"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their quality control inspection, analytical skills, and commitment to excellence."
+                }
+            }
+        },
+        {
+            "recommender_id": "154",
+            "recommendation": {
+                "resume_file": "785.json",
+                "recommendation_file": "Recommendation_From_ID_154.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background is in accounting, which may not be directly relevant to the candidate's field of expertise. However, the recommender's experience in managing multiple responsibilities and vetting candidates provides some credibility.",
+                    "verified_skills": [
+                        "Quality Control",
+                        "Aircraft Maintenance",
+                        "Aviation Structural Mechanics",
+                        "Technical Inspection"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's extensive experience in quality control inspection, aircraft maintenance, and aviation structural mechanics. However, the recommender's background in accounting may not be directly relevant to the candidate's field of expertise."
+                }
+            }
+        }
+    ]
+}

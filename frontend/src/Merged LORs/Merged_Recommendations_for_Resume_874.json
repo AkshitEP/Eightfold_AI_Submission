@@ -1,0 +1,85 @@
+{
+    "target_id": "874",
+    "recommendations": [
+        {
+            "recommender_id": "420",
+            "recommendation": {
+                "resume_file": "874.json",
+                "recommendation_file": "Recommendation_From_ID_420.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and problem-solving abilities. The source of the recommendation is a peer who has worked with the candidate in a related field."
+                }
+            }
+        },
+        {
+            "recommender_id": "463",
+            "recommendation": {
+                "resume_file": "874.json",
+                "recommendation_file": "Recommendation_From_ID_463.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service, problem-solving, and communication skills. The source of the recommendation is a former colleague, adding credibility to the endorsement."
+                }
+            }
+        },
+        {
+            "recommender_id": "320",
+            "recommendation": {
+                "resume_id": 874,
+                "recommendation_file": "Recommendation_From_ID_320.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Problem-Solving",
+                        "Communication",
+                        "Insurance",
+                        "Health and Wellness"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their customer service and problem-solving abilities in the healthcare industry."
+                }
+            }
+        },
+        {
+            "recommender_id": "474",
+            "recommendation": {
+                "resume_file": "874.json",
+                "recommendation_file": "Recommendation_From_ID_474.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be comparing the candidate to someone else, which is not typical in a recommendation letter.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Communication",
+                        "Problem-Solving",
+                        "Time Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's exceptional customer service skills, conflict resolution abilities, and organizational skills, but raises some concerns about the authenticity of the recommendation."
+                }
+            }
+        }
+    ]
+}

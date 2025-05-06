@@ -1,0 +1,89 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Information Technology Specialist",
+                "work_description": "Provides outstanding support to mission partners and other customers. Responds to customer calls and touch labor requests. Ensures the confidentiality, integrity, and availability of systems and data available on the LAN. Troubleshoots hardware and software components and manages the testing, installation and configuration of software.",
+                "company_level": "Large Corporation",
+                "start_date": "08/2012",
+                "end_date": "Current"
+            },
+            {
+                "role_name": "Computer Systems Administrator",
+                "work_description": "Deploys computer systems and other hardware throughout the base. Performs new and replacement desktop and laptop imaging for users. Troubleshoot and correct local desktop firewall issues, and antivirus updating issues.",
+                "company_level": "Large Corporation",
+                "start_date": "12/2007",
+                "end_date": "08/2012"
+            },
+            {
+                "role_name": "Information Assurance/Network Security",
+                "work_description": "In-depth experience in multiple environments developing, implementing, and maintaining secure networks. Duties ranged from installing and maintaining workstations to managing base boundary exception system.",
+                "company_level": "Large Corporation",
+                "start_date": "01/2006",
+                "end_date": "12/2007"
+            },
+            {
+                "role_name": "Helpdesk Technician",
+                "work_description": "Responsibilities included working with end users to resolve issues relating to Operating System issues (Win9x, NT, and Win 2000), Network Connectivity, TCP/IP configuration, upgrades, MS Office products and Internet connectivity.",
+                "company_level": "Large Corporation",
+                "start_date": "05/2004",
+                "end_date": "01/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Jacksonville University",
+                "start_date": "01/2002",
+                "end_date": "12/2002",
+                "domain": "Computer Information Systems",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Network Security",
+                "level": 5,
+                "explanation": "Has in-depth experience in multiple environments developing, implementing, and maintaining secure networks, indicating expert-level mastery."
+            },
+            {
+                "name": "Troubleshooting",
+                "level": 5,
+                "explanation": "Has extensive experience troubleshooting hardware and software components, local desktop firewall issues, antivirus updating issues, and other technical problems, indicating expert-level mastery."
+            },
+            {
+                "name": "System Administration",
+                "level": 5,
+                "explanation": "Has experience deploying computer systems, managing software installation and configuration, and performing desktop and laptop imaging, indicating expert-level mastery."
+            },
+            {
+                "name": "Helpdesk Support",
+                "level": 4,
+                "explanation": "Has experience working with end users to resolve issues relating to Operating System issues, Network Connectivity, and other technical problems, suggesting strong proficiency."
+            },
+            {
+                "name": "Computer Systems",
+                "level": 5,
+                "explanation": "Has experience managing the testing, installation, and configuration of software, and deploying computer systems and other hardware, indicating expert-level mastery."
+            },
+            {
+                "name": "Information Assurance",
+                "level": 5,
+                "explanation": "Has in-depth experience developing, implementing, and maintaining secure networks, indicating expert-level mastery."
+            },
+            {
+                "name": "TCP/IP Configuration",
+                "level": 4,
+                "explanation": "Has experience configuring TCP/IP, suggesting strong proficiency."
+            },
+            {
+                "name": "Operating System Management",
+                "level": 4,
+                "explanation": "Has experience working with multiple operating systems, including Win9x, NT, and Win 2000, suggesting strong proficiency."
+            }
+        ]
+    }
+}

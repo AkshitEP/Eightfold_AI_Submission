@@ -1,0 +1,74 @@
+{
+    "target_id": "311",
+    "recommendations": [
+        {
+            "recommender_id": "863",
+            "recommendation": {
+                "resume_file": "311.json",
+                "recommendation_file": "Recommendation_From_ID_863.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Supply Chain Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Problem-Solving",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their expertise in inventory management, supply chain management, and customer service. The recommendation also highlights the candidate's exceptional organizational skills, dedication to quality control, and ability to work effectively in a team environment."
+                }
+            }
+        },
+        {
+            "recommender_id": "896",
+            "recommendation": {
+                "resume_file": "311.json",
+                "recommendation_file": "Recommendation_From_ID_896.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Supply Chain Management",
+                        "Customer Service",
+                        "Leadership",
+                        "Time Management",
+                        "Problem-Solving",
+                        "Communication",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Boss/Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work ethic, team-oriented mindset, and problem-solving abilities. The source of the recommendation is a Lead Operations Engineer, indicating a supervisory relationship."
+                }
+            }
+        },
+        {
+            "recommender_id": "678",
+            "recommendation": {
+                "resume_file": "311.json",
+                "recommendation_file": "Recommendation_From_ID_678.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal and professional.",
+                    "verified_skills": [
+                        "Inventory Management",
+                        "Supply Chain Management",
+                        "Problem-Solving",
+                        "Team Management",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their organizational prowess, attention to detail, and ability to collaborate with diverse teams."
+                }
+            }
+        }
+    ]
+}

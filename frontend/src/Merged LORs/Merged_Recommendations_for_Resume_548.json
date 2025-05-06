@@ -1,0 +1,65 @@
+{
+    "target_id": "548",
+    "recommendations": [
+        {
+            "recommender_id": "373",
+            "recommendation": {
+                "resume_file": "548.json",
+                "recommendation_file": "Recommendation_From_ID_373.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine but lacks specific examples from the candidate's experience. The language is formal, but the recommendation does not fully align with the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Teaching Assistance",
+                        "Classroom Management",
+                        "Communication",
+                        "Administrative Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's skills in supporting educators and guiding students, but it does not provide specific examples from their experience. The recommendation seems genuine, but it lacks substantial detail and alignment with the key areas of expertise."
+                }
+            }
+        },
+        {
+            "recommender_id": "70",
+            "recommendation": {
+                "resume_file": "548.json",
+                "recommendation_file": "Recommendation_From_ID_70.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching Assistance",
+                        "Classroom Management",
+                        "Communication",
+                        "Administrative Support"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and classroom environment. The recommender highlights the candidate's dedication, adaptability, and interpersonal skills, which are consistent with the skills listed in the resume."
+                }
+            }
+        },
+        {
+            "recommender_id": "877",
+            "recommendation": {
+                "resume_file": "548.json",
+                "recommendation_file": "Recommendation_From_ID_877.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching Assistance",
+                        "Classroom Management",
+                        "Communication",
+                        "Administrative Support"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and classroom environment. However, the recommender's role as a Medical Support Assistant may not be directly related to the candidate's field, which slightly reduces the relevance score."
+                }
+            }
+        }
+    ]
+}

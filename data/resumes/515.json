@@ -1,0 +1,98 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Client Relations Advocate",
+                "work_description": "Answer telephones and give information to callers, take messages, or transfer calls to appropriate individuals. Create, maintain, and enter information into databases. Set up and manage paper or electronic filing systems, recording information, updating paperwork, or maintaining documents, such as attendance records, correspondence, or other material.",
+                "company_level": "Unknown",
+                "start_date": "10/2009",
+                "end_date": "03/2015"
+            },
+            {
+                "role_name": "Respite Care Provider",
+                "work_description": "Provide care for mentally disturbed, delinquent, or handicapped children. Operate in-house day-care centers within businesses. Assist in preparing food and serving meals and refreshments to children. Help children with homework and school work.",
+                "company_level": "Unknown",
+                "start_date": "04/2005",
+                "end_date": "02/2011"
+            },
+            {
+                "role_name": "Customer Service",
+                "work_description": "Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. Manage staff, preparing work schedules and assigning specific duties.",
+                "company_level": "Unknown",
+                "start_date": "05/2000",
+                "end_date": "10/2006"
+            }
+        ],
+        "education": [
+            {
+                "university": "Maric College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Medical Coding and Billing",
+                "level": "Certificate"
+            },
+            {
+                "university": "C. Crawford Senior High School",
+                "start_date": "Unknown",
+                "end_date": "06/2000",
+                "domain": "Unknown",
+                "level": "High School Diploma"
+            },
+            {
+                "university": "San Diego Job Corps",
+                "start_date": "Unknown",
+                "end_date": "06/2002",
+                "domain": "Office Business",
+                "level": "Certificate"
+            },
+            {
+                "university": "South Western College",
+                "start_date": "Unknown",
+                "end_date": "Unknown",
+                "domain": "Child Development",
+                "level": "Unknown"
+            }
+        ],
+        "projects": [],
+        "interests": []
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Customer Service",
+                "level": 4,
+                "explanation": "Has extensive experience in customer-facing roles, including answering telephones, taking messages, and providing information to callers, indicating strong proficiency."
+            },
+            {
+                "name": "Data Entry",
+                "level": 3,
+                "explanation": "Has experience creating, maintaining, and entering information into databases, showing a solid working proficiency."
+            },
+            {
+                "name": "Record Keeping",
+                "level": 3,
+                "explanation": "Has experience setting up and managing paper or electronic filing systems, recording information, and updating paperwork, indicating a solid working proficiency."
+            },
+            {
+                "name": "Time Management",
+                "level": 3,
+                "explanation": "Has experience preparing work schedules and assigning specific duties, showing a solid working proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 2,
+                "explanation": "Has some experience managing staff, but the extent of this experience is limited, indicating some practical experience."
+            },
+            {
+                "name": "Childcare",
+                "level": 3,
+                "explanation": "Has experience providing care for children, including assisting with homework and school work, indicating a solid working proficiency."
+            },
+            {
+                "name": "Medical Coding and Billing",
+                "level": 1,
+                "explanation": "Has a certificate in Medical Coding and Billing, but no direct experience is mentioned, indicating basic familiarity."
+            }
+        ]
+    }
+}

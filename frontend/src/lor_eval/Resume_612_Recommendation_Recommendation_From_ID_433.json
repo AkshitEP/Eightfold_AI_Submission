@@ -1,0 +1,17 @@
+{
+    "resume_file": "612.json",
+    "recommendation_file": "Recommendation_From_ID_433.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Classroom Management",
+            "Assessment and Evaluation",
+            "Communication",
+            "Leadership"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's teaching experience and skills, but does not explicitly mention some of their other skills and experiences."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resume_file": "609.json",
+    "recommendation_file": "Recommendation_From_ID_843.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible.",
+        "verified_skills": [
+            "Technical Support",
+            "Networking",
+            "Problem Solving",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical support and communication abilities. However, some claims seem exaggerated, such as the 'remarkable blend of skills' and 'strong commitment to enhancing customer satisfaction'."
+    }
+}

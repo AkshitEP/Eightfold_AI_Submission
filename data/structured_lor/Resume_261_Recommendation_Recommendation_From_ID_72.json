@@ -1,0 +1,20 @@
+{
+    "resume_file": "261.json",
+    "recommendation_file": "Recommendation_From_ID_72.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written for two different individuals, which raises some concerns about its authenticity. However, the language is formal and there are no statistically improbable claims.",
+        "verified_skills": [
+            "Financial Management",
+            "Accounting",
+            "Budgeting",
+            "Financial Reporting",
+            "Cash Flow Management",
+            "Leadership",
+            "Communication"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the finance manager's expertise in financial operations, budgeting, and cash flow management, which aligns well with their skills and experience. However, the mention of a food server and customer service sector seems out of place and may indicate that the recommendation is not entirely genuine."
+    }
+}

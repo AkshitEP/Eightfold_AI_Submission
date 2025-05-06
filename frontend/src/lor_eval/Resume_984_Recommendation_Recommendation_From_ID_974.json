@@ -1,0 +1,12 @@
+{
+    "resume_id": 984,
+    "recommendation_file": "Recommendation_From_ID_974.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 5,
+        "fraud_reason": "The recommendation contains statistically improbable claims and exaggerated language, with no clear connection to the candidate's skills and experience. The mention of unrelated fields such as aesthetics and cosmetic surgery raises concerns about the authenticity of the recommendation.",
+        "verified_skills": [],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be fraudulent, with no clear connection to the candidate's skills and experience. The language used is exaggerated and contains statistically improbable claims, raising concerns about the authenticity of the recommendation."
+    }
+}

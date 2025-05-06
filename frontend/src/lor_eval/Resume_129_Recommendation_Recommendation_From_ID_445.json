@@ -1,0 +1,15 @@
+{
+    "resume_file": "129.json",
+    "recommendation_file": "Recommendation_From_ID_445.txt",
+    "output": {
+        "relevance_score": 4,
+        "fraud_chance_level": 4,
+        "fraud_reason": "The recommendation seems to be written for a different person, with the majority of the content unrelated to the candidate's skills and experience. However, the last paragraph attempts to connect the candidate's skills to a broader context, but it seems forced and lacks concrete examples.",
+        "verified_skills": [
+            "Accounts Payable",
+            "Financial Analysis"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation appears to be written for a different person, with the majority of the content unrelated to the candidate's skills and experience. However, the last paragraph attempts to connect the candidate's skills to a broader context, but it seems forced and lacks concrete examples. The recommendation does not provide specific examples of the candidate's skills and experience, making it seem less genuine."
+    }
+}

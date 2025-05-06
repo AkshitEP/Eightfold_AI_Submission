@@ -1,0 +1,21 @@
+{
+    "resume_file": "331.json",
+    "recommendation_file": "Recommendation_From_ID_44.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Communication",
+            "Time Management",
+            "Project Management",
+            "Event Planning",
+            "Public Relations",
+            "Teamwork",
+            "Problem-Solving",
+            "Organizational Skills"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their work in the music and entertainment sectors. The recommendation highlights the candidate's exceptional communication skills, time management, and proactive approach to challenges."
+    }
+}

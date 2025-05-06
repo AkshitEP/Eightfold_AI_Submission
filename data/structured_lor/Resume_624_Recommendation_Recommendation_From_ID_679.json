@@ -1,0 +1,18 @@
+{
+    "resume_file": "624.json",
+    "recommendation_file": "Recommendation_From_ID_679.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies in the recommendation, such as the mention of 'Sales Associate' which is not present in the resume. However, the recommendation is largely credible and aligns with the candidate's skills and experience.",
+        "verified_skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Teamwork"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strong communication skills, customer service experience, and ability to manage cash accurately. It also mentions their unique perspective and problem-solving abilities, which are valuable assets to any team."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "resume_file": "76.json",
+    "recommendation_file": "Recommendation_From_ID_545.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Web Development",
+            "Technical Support",
+            "Project Management",
+            "Data Migration",
+            "Leadership",
+            "Networking",
+            "System Development Life Cycle",
+            "IT Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise and project management abilities. The recommender's role as an adjunct instructor in information technology adds credibility to the recommendation."
+    }
+}

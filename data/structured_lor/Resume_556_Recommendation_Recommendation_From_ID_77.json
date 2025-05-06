@@ -1,0 +1,17 @@
+{
+    "resume_file": "556.json",
+    "recommendation_file": "Recommendation_From_ID_77.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Customer Service",
+            "Teamwork",
+            "Communication",
+            "Time Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation highlights the candidate's strengths in customer service, teamwork, and communication, which aligns well with their skills and experience. However, it does not specifically mention their experience in fitness instruction or personal training."
+    }
+}

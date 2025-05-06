@@ -1,0 +1,16 @@
+{
+    "resume_file": "112.json",
+    "recommendation_file": "Recommendation_From_ID_242.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies or exaggerated claims are present, but the recommendation remains largely credible. The recommendation focuses on the candidate's experience as a College Assistant, but the resume highlights their experience as a Program Manager and Coding Compliance Auditor.",
+        "verified_skills": [
+            "Leadership",
+            "Communication",
+            "Project Management"
+        ],
+        "recommendation_source": "Peer",
+        "notes": "The recommendation aligns well with the candidate's skills and experience as a College Assistant, but does not fully capture their broader experience and skills. The recommendation highlights the candidate's exceptional leadership, communication skills, and commitment to fostering positive relationships within educational settings."
+    }
+}

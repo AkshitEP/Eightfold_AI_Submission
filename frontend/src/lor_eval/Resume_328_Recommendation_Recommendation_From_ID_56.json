@@ -1,0 +1,21 @@
+{
+    "resume_file": "328.json",
+    "recommendation_file": "Recommendation_From_ID_56.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "System Administration",
+            "Network Support",
+            "Database Management",
+            "Cyber Security",
+            "Software Support",
+            "Troubleshooting",
+            "Leadership",
+            "Project Management"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's technical expertise and leadership skills, aligning well with their job history and skills. The language is formal, and no red flags or statistically improbable claims are detected."
+    }
+}

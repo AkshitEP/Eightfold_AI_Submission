@@ -1,0 +1,19 @@
+{
+    "resume_file": "996.json",
+    "recommendation_file": "Recommendation_From_ID_296.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 1,
+        "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+        "verified_skills": [
+            "Leadership",
+            "Staff Evaluation and Supervision",
+            "Program Development and Implementation",
+            "Accountability and Compliance",
+            "Communication and Collaboration",
+            "Teaching and Education"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, program development, and commitment to creating a supportive learning environment."
+    }
+}

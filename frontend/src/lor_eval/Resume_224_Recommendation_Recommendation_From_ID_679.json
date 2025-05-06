@@ -1,0 +1,19 @@
+{
+    "resume_file": "224.json",
+    "recommendation_file": "Recommendation_From_ID_679.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems genuine, but the recommender's role as a sales associate and lack of direct teaching experience raises some concerns about their ability to assess the teacher's skills.",
+        "verified_skills": [
+            "Teaching",
+            "Language Arts",
+            "Classroom Management",
+            "Leadership",
+            "Communication",
+            "Diversity and Inclusion"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the teacher's exceptional communication skills, dedication to understanding individual student needs, and leadership qualities. However, the recommender's background in sales and lack of direct teaching experience may impact the credibility of the recommendation."
+    }
+}

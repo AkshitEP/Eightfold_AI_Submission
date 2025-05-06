@@ -1,0 +1,24 @@
+{
+    "target_id": "722",
+    "recommendations": [
+        {
+            "recommender_id": "246",
+            "recommendation": {
+                "resume_file": "722.json",
+                "recommendation_file": "Recommendation_From_ID_246.txt",
+                "output": {
+                    "relevance_score": 4,
+                    "fraud_chance_level": 3,
+                    "fraud_reason": "Unclear recommender relationship, lack of specific examples, and potential exaggeration of recommender's experience.",
+                    "verified_skills": [
+                        "Customer Service",
+                        "Inventory Management",
+                        "Problem-solving"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation is moderately relevant, but raises some concerns due to the unclear recommender relationship and lack of specific examples."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "target_id": "760",
+    "recommendations": [
+        {
+            "recommender_id": "262",
+            "recommendation": {
+                "resume_file": "760.json",
+                "recommendation_file": "Recommendation_From_ID_262.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems to be comparing the candidate to an unrelated role (Administrative Assistant in Human Resources), which may indicate some exaggeration or lack of direct relevance to the candidate's skills and experience.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Aircraft Maintenance",
+                        "Project Management",
+                        "Quality Control",
+                        "Troubleshooting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and technical skills in the aerospace sector, but its comparison to an unrelated role may raise some concerns about its relevance and authenticity."
+                }
+            }
+        },
+        {
+            "recommender_id": "541",
+            "recommendation": {
+                "resume_file": "760.json",
+                "recommendation_file": "Recommendation_From_ID_541.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Aircraft Maintenance",
+                        "Leadership",
+                        "Project Management",
+                        "Quality Control",
+                        "Troubleshooting"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their technical expertise, leadership qualities, and commitment to excellence."
+                }
+            }
+        },
+        {
+            "recommender_id": "76",
+            "recommendation": {
+                "resume_file": "760.json",
+                "recommendation_file": "Recommendation_From_ID_76.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role and relationship to the candidate are unclear. Additionally, the recommender's background in IT seems unrelated to the candidate's field of expertise.",
+                    "verified_skills": [
+                        "Aircraft Maintenance",
+                        "Leadership",
+                        "Project Management",
+                        "Quality Control",
+                        "Troubleshooting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's technical expertise and leadership skills, but the recommender's background and relationship to the candidate raise some questions about the recommendation's credibility."
+                }
+            }
+        },
+        {
+            "recommender_id": "866",
+            "recommendation": {
+                "resume_file": "760.json",
+                "recommendation_file": "Recommendation_From_ID_866.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the comparison to the recommender's own experience in IT management seems slightly unrelated and may be an attempt to inflate the candidate's abilities.",
+                    "verified_skills": [
+                        "Aircraft Maintenance",
+                        "Leadership",
+                        "Project Management",
+                        "Quality Control",
+                        "Troubleshooting",
+                        "Technical Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership and technical abilities. However, the comparison to the recommender's own experience in IT management seems slightly unrelated and may be an attempt to inflate the candidate's abilities."
+                }
+            }
+        },
+        {
+            "recommender_id": "353",
+            "recommendation": {
+                "resume_file": "760.json",
+                "recommendation_file": "Recommendation_From_ID_353.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the source is not directly related to the candidate's work experience. The language is formal, but the recommendation is written by the Director of Information Technology, which may not be directly familiar with the candidate's work in aircraft maintenance.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Project Management",
+                        "Quality Control",
+                        "Troubleshooting"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation highlights the candidate's leadership and technical expertise, but the source is not directly related to the candidate's work experience. The recommendation is well-written and provides specific examples of the candidate's skills, but the lack of direct familiarity with the candidate's work may raise some concerns."
+                }
+            }
+        }
+    ]
+}

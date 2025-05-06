@@ -1,0 +1,168 @@
+{
+    "details": {
+        "job_history": [
+            {
+                "role_name": "Guest Lecturer",
+                "work_description": "Taught various courses including Strength and Conditioning, Personal Health, and Introduction to Sports Management.",
+                "company_level": "Mid-level",
+                "start_date": "01/2013",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Fitness Supervisor",
+                "work_description": "Supervised and/or performed day-to-day functions of Fitness Specialists, Fitness Coaches, Interns, and Fitness Consults. Hired, trained, and evaluated fitness specialists and interns, compiled and reported outcome metrics, and monitored quality in all fitness testing aspects.",
+                "company_level": "Mid-level",
+                "start_date": "01/2014",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Fundamental Fitness Instructor",
+                "work_description": "Taught the fundamentals of exercise and fitness principles to beginner exercisers and adults with chronic diseases.",
+                "company_level": "Mid-level",
+                "start_date": "01/2010",
+                "end_date": "Present"
+            },
+            {
+                "role_name": "Personal Trainer",
+                "work_description": "Provided personal training services to clients.",
+                "company_level": "Mid-level",
+                "start_date": "01/2005",
+                "end_date": "Present"
+            }
+        ],
+        "education": [
+            {
+                "university": "North Park University",
+                "start_date": "01/2011",
+                "end_date": "12/2011",
+                "domain": "Physical Education",
+                "level": "Master's"
+            },
+            {
+                "university": "North Park University",
+                "start_date": "01/2003",
+                "end_date": "12/2003",
+                "domain": "Psychology and Sports Medicine Fitness Management",
+                "level": "Bachelor's"
+            }
+        ],
+        "projects": [],
+        "interests": [],
+        "publications": [
+            {
+                "title": "Building your Personal Fitness Strategy",
+                "year": "2010",
+                "publisher": "Galter LifeCenter Member Newsletter"
+            }
+        ],
+        "certifications": [
+            {
+                "name": "BOSU",
+                "year": "2011"
+            },
+            {
+                "name": "Schwinn Cycling",
+                "year": "2011"
+            },
+            {
+                "name": "Group Power",
+                "year": "2011"
+            },
+            {
+                "name": "Group Step",
+                "year": "2011"
+            },
+            {
+                "name": "Group Active",
+                "year": "2011"
+            },
+            {
+                "name": "Group Core",
+                "year": "2011"
+            },
+            {
+                "name": "Group Ride",
+                "year": "2011"
+            },
+            {
+                "name": "R30",
+                "year": "2011"
+            },
+            {
+                "name": "Group Groove",
+                "year": "2011"
+            },
+            {
+                "name": "Shockwave",
+                "year": "2011"
+            },
+            {
+                "name": "Arthritis Chair",
+                "year": "2011"
+            },
+            {
+                "name": "Matter of Balance",
+                "year": "2011"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "Fluent"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "Basic"
+            }
+        ]
+    },
+    "skills": {
+        "skills": [
+            {
+                "name": "Fitness Instruction",
+                "level": 5,
+                "explanation": "Has extensive experience teaching various fitness courses, including Strength and Conditioning, Personal Health, and Introduction to Sports Management, indicating expert-level mastery."
+            },
+            {
+                "name": "Personal Training",
+                "level": 5,
+                "explanation": "Provided personal training services to clients for over a decade, suggesting expert-level proficiency."
+            },
+            {
+                "name": "Leadership",
+                "level": 4,
+                "explanation": "Supervised and/or performed day-to-day functions of Fitness Specialists, Fitness Coaches, Interns, and Fitness Consults, indicating strong proficiency in leadership."
+            },
+            {
+                "name": "Fitness Management",
+                "level": 4,
+                "explanation": "Compiled and reported outcome metrics, monitored quality in all fitness testing aspects, and hired, trained, and evaluated fitness specialists and interns, suggesting strong proficiency in fitness management."
+            },
+            {
+                "name": "Sports Management",
+                "level": 3,
+                "explanation": "Taught Introduction to Sports Management, showing a solid working proficiency in sports management."
+            },
+            {
+                "name": "Group Fitness Instruction",
+                "level": 4,
+                "explanation": "Holds multiple certifications in group fitness instruction, including BOSU, Schwinn Cycling, Group Power, and others, indicating strong proficiency."
+            },
+            {
+                "name": "Communication",
+                "level": 3,
+                "explanation": "Published an article in the Galter LifeCenter Member Newsletter, showing a solid working proficiency in communication."
+            },
+            {
+                "name": "Spanish",
+                "level": 1,
+                "explanation": "Has basic proficiency in Spanish, indicating limited exposure or usage."
+            },
+            {
+                "name": "English",
+                "level": 5,
+                "explanation": "Is fluent in English, indicating expert-level mastery."
+            }
+        ]
+    }
+}

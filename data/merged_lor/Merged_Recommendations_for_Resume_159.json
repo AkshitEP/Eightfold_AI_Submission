@@ -1,0 +1,47 @@
+{
+    "target_id": "159",
+    "recommendations": [
+        {
+            "recommender_id": "362",
+            "recommendation": {
+                "resume_file": "159.json",
+                "recommendation_file": "Recommendation_From_ID_362.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Lesson Planning",
+                        "Leadership",
+                        "Fine Arts",
+                        "Art Education",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Supervisor",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods, leadership abilities, and community engagement. The recommendation highlights the candidate's exceptional ability to cultivate student leadership and foster creativity across diverse classrooms."
+                }
+            }
+        },
+        {
+            "recommender_id": "995",
+            "recommendation": {
+                "resume_file": "159.json",
+                "recommendation_file": "Recommendation_From_ID_995.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's background as a Culinary Arts Instructor is not directly related to the candidate's field of expertise. However, the recommendation still provides specific examples of the candidate's teaching methods and classroom environment.",
+                    "verified_skills": [
+                        "Teaching",
+                        "Lesson Planning",
+                        "Art Education",
+                        "Communication"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their teaching methods and classroom environment. However, the recommender's background is not directly related to the candidate's field of expertise."
+                }
+            }
+        }
+    ]
+}

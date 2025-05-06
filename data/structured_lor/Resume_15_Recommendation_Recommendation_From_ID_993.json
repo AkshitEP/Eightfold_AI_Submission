@@ -1,0 +1,20 @@
+{
+    "resume_file": "15.json",
+    "recommendation_file": "Recommendation_From_ID_993.txt",
+    "output": {
+        "relevance_score": 9,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Some minor inconsistencies and exaggerated claims are present, but the recommendation remains largely credible. The claim of 'twenty years' of experience is not supported by the resume, which only shows around 10 years of experience. Additionally, the recommendation mentions 'multiple locations' which is not explicitly mentioned in the resume.",
+        "verified_skills": [
+            "Financial Analysis",
+            "Financial Reporting",
+            "Budgeting",
+            "Leadership",
+            "Process Improvement",
+            "Cash Flow Management",
+            "Financial Planning"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their financial management and operations expertise. However, some minor inconsistencies and exaggerated claims are present."
+    }
+}

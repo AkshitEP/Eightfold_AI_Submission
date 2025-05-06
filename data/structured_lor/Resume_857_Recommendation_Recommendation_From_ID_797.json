@@ -1,0 +1,21 @@
+{
+    "resume_id": 857,
+    "recommendation_file": "Recommendation_From_ID_797.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "The recommendation seems to be written for two individuals, but the resume only belongs to one. This inconsistency raises some concerns about the authenticity of the recommendation.",
+        "verified_skills": [
+            "Accounting",
+            "Financial Analysis",
+            "Accounts Payable",
+            "Accounts Receivable",
+            "General Ledger",
+            "Payroll Management",
+            "Budgeting",
+            "Financial Reporting"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation highlights the candidate's expertise in accounting, financial analysis, and leadership. However, it seems to be written for two individuals, which raises some concerns about its authenticity."
+    }
+}

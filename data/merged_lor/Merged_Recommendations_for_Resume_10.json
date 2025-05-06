@@ -1,0 +1,70 @@
+{
+    "target_id": "10",
+    "recommendations": [
+        {
+            "recommender_id": "481",
+            "recommendation": {
+                "resume_file": "10.json",
+                "recommendation_file": "Recommendation_From_ID_481.txt",
+                "output": {
+                    "relevance_score": 8,
+                    "fraud_chance_level": 2,
+                    "fraud_reason": "The recommendation seems genuine, but the recommender's role as an HR Employee Relations Specialist may not be directly related to the candidate's operations management experience. However, the recommendation provides specific examples of the candidate's skills and accomplishments.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Team Management",
+                        "Client Service",
+                        "Process Improvement",
+                        "Quality Assurance",
+                        "Risk Management"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, team management, and client service abilities. However, the recommender's role may not be directly related to the candidate's operations management experience."
+                }
+            }
+        },
+        {
+            "recommender_id": "955",
+            "recommendation": {
+                "resume_file": "10.json",
+                "recommendation_file": "Recommendation_From_ID_955.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Client Service",
+                        "Risk Management",
+                        "Process Improvement",
+                        "Team Management"
+                    ],
+                    "recommendation_source": "Unknown",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their operational excellence, client service, and risk management capabilities. However, the mention of a V/P Commercial Relationship Manager role is not present in the provided resume details, which might indicate an error or omission."
+                }
+            }
+        },
+        {
+            "recommender_id": "962",
+            "recommendation": {
+                "resume_file": "10.json",
+                "recommendation_file": "Recommendation_From_ID_962.txt",
+                "output": {
+                    "relevance_score": 9,
+                    "fraud_chance_level": 1,
+                    "fraud_reason": "No red flags or statistically improbable claims detected. Language is formal.",
+                    "verified_skills": [
+                        "Leadership",
+                        "Client Service",
+                        "Process Improvement",
+                        "Risk Management",
+                        "Team Management",
+                        "AML/KYC Policy"
+                    ],
+                    "recommendation_source": "Peer",
+                    "notes": "The recommendation aligns well with the candidate's skills and experience, providing specific examples of their leadership, client service, and process improvement abilities. The source of the recommendation is a Senior Compliance Officer, indicating a peer-level relationship."
+                }
+            }
+        }
+    ]
+}

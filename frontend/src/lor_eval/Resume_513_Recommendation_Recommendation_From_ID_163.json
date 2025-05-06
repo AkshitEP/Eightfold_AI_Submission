@@ -1,0 +1,17 @@
+{
+    "resume_file": "513.json",
+    "recommendation_file": "Recommendation_From_ID_163.txt",
+    "output": {
+        "relevance_score": 8,
+        "fraud_chance_level": 2,
+        "fraud_reason": "Minor inconsistencies and overly flattering language, but no obvious signs of fraud or statistically improbable claims.",
+        "verified_skills": [
+            "Customer Service",
+            "Event Planning",
+            "Leadership",
+            "Problem-Solving"
+        ],
+        "recommendation_source": "Unknown",
+        "notes": "The recommendation is highly relevant to the resume, but may contain some minor exaggerations. The recommender's experience as a Certified Custom Framer is not directly related to the candidate's experience or skills."
+    }
+}
